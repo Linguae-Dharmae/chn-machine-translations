@@ -1,0 +1,4952 @@
+[
+    {
+        "source_sentence": "阿毘達磨順正理論卷第七十六",
+        "translation": "Abhidharma-nyāyânusāra-śāstra, vol. 76",
+        "source": "T29n1562_076:0750c20_0"
+    },
+    {
+        "source_sentence": "尊者眾賢造",
+        "translation": "created by the venerable Samantabhadra",
+        "source": "T29n1562_076:0750c22_0"
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Sanzang fashi Xuanzang Feng imperial edict translating",
+        "source": "T29n1562_076:0750c23_0"
+    },
+    {
+        "source_sentence": "辯智品第七之四",
+        "translation": "seventh and fourth parts of the chapter on eloquence",
+        "source": "T29n1562_076:0750c24_0"
+    },
+    {
+        "source_sentence": "已辯願智。",
+        "translation": "I've already explained the knowledge of vows.",
+        "source": "T29n1562_076:0750c25_0"
+    },
+    {
+        "source_sentence": "無礙解云何。",
+        "translation": "What's unobstructed understanding?",
+        "source": "T29n1562_076:0750c25_1"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0750c25_2"
+    },
+    {
+        "source_sentence": "　無癡解有四　　謂法義詞辯",
+        "translation": "There are four kinds of understanding that are free of delusion, which are the interpretation of principles and words",
+        "source": "T29n1562_076:0750c26_0"
+    },
+    {
+        "source_sentence": "　名義言說道　　無退智為性",
+        "translation": "Names, meanings, expressions, and paths are the nature of non-backsliding cognition.",
+        "source": "T29n1562_076:0750c27_0"
+    },
+    {
+        "source_sentence": "　法詞唯俗智　　五二地為依",
+        "translation": "The words of the doctrine are only conventional cognition, with the five and two stages as their support.",
+        "source": "T29n1562_076:0750c28_0"
+    },
+    {
+        "source_sentence": "　義十六辯九　　皆依一切地",
+        "translation": "the meaning of the sixteen eloquent nine, all relying on all stages",
+        "source": "T29n1562_076:0750c29_0"
+    },
+    {
+        "source_sentence": "　但得必具四　　餘如無諍說",
+        "translation": "But the acquisition must have four, and the rest are as explained without debate.",
+        "source": "T29n1562_076:0751a01_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0751a02_0"
+    },
+    {
+        "source_sentence": "諸無礙解總說有四。",
+        "translation": "There are four general explanations of unhindered understanding.",
+        "source": "T29n1562_076:0751a02_1"
+    },
+    {
+        "source_sentence": "一法無礙解。",
+        "translation": "One is unobstructed understanding of the Dharma.",
+        "source": "T29n1562_076:0751a02_2"
+    },
+    {
+        "source_sentence": "二義無礙解。",
+        "translation": "The second is unobstructed understanding of meaning.",
+        "source": "T29n1562_076:0751a02_3"
+    },
+    {
+        "source_sentence": "三詞無礙解。",
+        "translation": "The three words are unobstructed in understanding.",
+        "source": "T29n1562_076:0751a03_4"
+    },
+    {
+        "source_sentence": "四辯無礙解。",
+        "translation": "The fourth is unhindered understanding of eloquence.",
+        "source": "T29n1562_076:0751a03_5"
+    },
+    {
+        "source_sentence": "此四總說如其次第。",
+        "translation": "These four are summarized in order.",
+        "source": "T29n1562_076:0751a03_6"
+    },
+    {
+        "source_sentence": "以緣名義言及說道。",
+        "translation": "It's because it's conditioned by names, meanings, words, and explanations of the path.",
+        "source": "T29n1562_076:0751a04_7"
+    },
+    {
+        "source_sentence": "不可退轉智為自性。",
+        "translation": "The nonretrogressing cognition is its own nature.",
+        "source": "T29n1562_076:0751a04_8"
+    },
+    {
+        "source_sentence": "謂無退智緣能詮法。",
+        "translation": "It means that the condition of nonretrogressing cognition can explain the teaching.",
+        "source": "T29n1562_076:0751a05_9"
+    },
+    {
+        "source_sentence": "名句文身立為第一。",
+        "translation": "The names, phrases, and texts are established as the first.",
+        "source": "T29n1562_076:0751a05_10"
+    },
+    {
+        "source_sentence": "趣所詮義說之為名。",
+        "translation": "The meaning of what's explained in the destinies is called name.",
+        "source": "T29n1562_076:0751a06_11"
+    },
+    {
+        "source_sentence": "即是表召法自性義。",
+        "translation": "This is the meaning of expressing the self-nature of the summoning dharma.",
+        "source": "T29n1562_076:0751a06_12"
+    },
+    {
+        "source_sentence": "辯所詮義說之為句。",
+        "translation": "The meaning that's explained in the explanation is said to be a phrase.",
+        "source": "T29n1562_076:0751a07_13"
+    },
+    {
+        "source_sentence": "即是辯了法差別義。",
+        "translation": "This is the meaning of eloquently understanding the distinctions in qualities.",
+        "source": "T29n1562_076:0751a07_14"
+    },
+    {
+        "source_sentence": "不待義聲獨能為覺。",
+        "translation": "They don't rely on meaningful sounds alone to perceive them.",
+        "source": "T29n1562_076:0751a08_15"
+    },
+    {
+        "source_sentence": "生所依託說之為文。",
+        "translation": "What's relied upon in birth is said to be the text.",
+        "source": "T29n1562_076:0751a08_16"
+    },
+    {
+        "source_sentence": "即是迦遮吒多波等。",
+        "translation": "That's the kaṣāṭapa and so forth.",
+        "source": "T29n1562_076:0751a09_0"
+    },
+    {
+        "source_sentence": "理應有覺不待義聲。",
+        "translation": "In principle, there should be perception that doesn't await the sound of meaning.",
+        "source": "T29n1562_076:0751a09_1"
+    },
+    {
+        "source_sentence": "此覺不應無所緣境。",
+        "translation": "This awakening shouldn't have no perceptual objects.",
+        "source": "T29n1562_076:0751a09_2"
+    },
+    {
+        "source_sentence": "此所緣境說之為文。",
+        "translation": "This object of cognition is said to be the text.",
+        "source": "T29n1562_076:0751a10_3"
+    },
+    {
+        "source_sentence": "文謂不能親目於義。",
+        "translation": "The text means that they can't focus on the meaning.",
+        "source": "T29n1562_076:0751a10_4"
+    },
+    {
+        "source_sentence": "但與名句為詮義依。",
+        "translation": "They simply rely on names and phrases as the basis for interpreting meaning.",
+        "source": "T29n1562_076:0751a11_5"
+    },
+    {
+        "source_sentence": "此三能持諸所詮義。",
+        "translation": "These three can maintain the meaning of what's explained.",
+        "source": "T29n1562_076:0751a11_6"
+    },
+    {
+        "source_sentence": "及軌生解。",
+        "translation": "and the understanding that arises from the guideline.",
+        "source": "T29n1562_076:0751a12_7"
+    },
+    {
+        "source_sentence": "故名為法。",
+        "translation": "Therefore, they're called dharmas.",
+        "source": "T29n1562_076:0751a12_8"
+    },
+    {
+        "source_sentence": "即三自性說之為身。",
+        "translation": "That is, the three self-natures are said to be bodies.",
+        "source": "T29n1562_076:0751a12_9"
+    },
+    {
+        "source_sentence": "自性體身名差別故。",
+        "translation": "It's because the essence body of self-nature is called distinction in name.",
+        "source": "T29n1562_076:0751a13_10"
+    },
+    {
+        "source_sentence": "三與聲義極相隣雜。",
+        "translation": "Three, it's mixed with the ultimate characteristic of sound and meaning.",
+        "source": "T29n1562_076:0751a13_11"
+    },
+    {
+        "source_sentence": "為境生覺別相難知。",
+        "translation": "It's because the distinctive characteristics of perception that arise from objects are difficult to know.",
+        "source": "T29n1562_076:0751a14_12"
+    },
+    {
+        "source_sentence": "故說身言顯有別體。",
+        "translation": "That's why it's said that the body and words show that there's a separate essence.",
+        "source": "T29n1562_076:0751a14_13"
+    },
+    {
+        "source_sentence": "若無退智緣一切法。",
+        "translation": "If there's no retrogressing cognition that takes all dharmas as objects, then it's called the knowledge of nonretrogression.",
+        "source": "T29n1562_076:0751a15_14"
+    },
+    {
+        "source_sentence": "所有勝義立為第二。",
+        "translation": "The supreme meaning that exists is established as the second.",
+        "source": "T29n1562_076:0751a15_15"
+    },
+    {
+        "source_sentence": "義即諸法自相共相。",
+        "translation": "The meaning is the distinctive and shared characteristics of dharmas.",
+        "source": "T29n1562_076:0751a16_16"
+    },
+    {
+        "source_sentence": "雖名身等亦是義攝。",
+        "translation": "Even though names and so forth are included in meaning, they're also included in meaning.",
+        "source": "T29n1562_076:0751a16_17"
+    },
+    {
+        "source_sentence": "而非勝義。",
+        "translation": "It's not the ultimate truth.",
+        "source": "T29n1562_076:0751a17_0"
+    },
+    {
+        "source_sentence": "有多想故。",
+        "translation": "It's because there are so many conceptions.",
+        "source": "T29n1562_076:0751a17_1"
+    },
+    {
+        "source_sentence": "謂有如義有不如義。",
+        "translation": "It means that there's the meaning of thusness and the meaning of what's not.",
+        "source": "T29n1562_076:0751a17_2"
+    },
+    {
+        "source_sentence": "有有義有無義。",
+        "translation": "There's meaning that has meaning and meaning that doesn't have meaning.",
+        "source": "T29n1562_076:0751a17_3"
+    },
+    {
+        "source_sentence": "有依假轉。",
+        "translation": "There's a basis that's nominally transformed.",
+        "source": "T29n1562_076:0751a18_4"
+    },
+    {
+        "source_sentence": "有依實轉。",
+        "translation": "There's a basis for real transformation.",
+        "source": "T29n1562_076:0751a18_5"
+    },
+    {
+        "source_sentence": "了此無間。",
+        "translation": "He understands that this is without interruption.",
+        "source": "T29n1562_076:0751a18_6"
+    },
+    {
+        "source_sentence": "或於後時諸所度量名為勝義。",
+        "translation": "Perhaps what's measured later is called the ultimate meaning.",
+        "source": "T29n1562_076:0751a19_0"
+    },
+    {
+        "source_sentence": "為欲顯示義無礙解。",
+        "translation": "In order to show that the meaning is unobstructed, he explains it.",
+        "source": "T29n1562_076:0751a19_1"
+    },
+    {
+        "source_sentence": "所緣之境非語及名。",
+        "translation": "The objects that are conditioned are not words or names.",
+        "source": "T29n1562_076:0751a20_2"
+    },
+    {
+        "source_sentence": "故此所緣說為勝義。",
+        "translation": "Therefore, this perceptual object is said to be the ultimate truth.",
+        "source": "T29n1562_076:0751a20_3"
+    },
+    {
+        "source_sentence": "謂此但取依語起名。",
+        "translation": "It means that this is simply taking names based on words that give rise to names.",
+        "source": "T29n1562_076:0751a21_4"
+    },
+    {
+        "source_sentence": "名所顯義非取汎爾。",
+        "translation": "The meaning that's revealed by names isn't grasped in general.",
+        "source": "T29n1562_076:0751a21_5"
+    },
+    {
+        "source_sentence": "心之所行說名為義。",
+        "translation": "What's practiced by the mind is called meaning.",
+        "source": "T29n1562_076:0751a22_6"
+    },
+    {
+        "source_sentence": "若無退智緣諸方域。",
+        "translation": "If there's no retrogressing cognition, it's conditioned by the various directions and realms.",
+        "source": "T29n1562_076:0751a22_7"
+    },
+    {
+        "source_sentence": "俗聖言詞立為第三。",
+        "translation": "The secular and noble words are established as the third.",
+        "source": "T29n1562_076:0751a23_0"
+    },
+    {
+        "source_sentence": "即能了知世語典語。",
+        "translation": "He'll then be able to know the worldly language and scriptures.",
+        "source": "T29n1562_076:0751a23_1"
+    },
+    {
+        "source_sentence": "於諸方域種種差別。",
+        "translation": "There are various distinctions in the various directions and regions.",
+        "source": "T29n1562_076:0751a23_2"
+    },
+    {
+        "source_sentence": "若無退智緣應正理無滯礙說。",
+        "translation": "If there's no retrogressing cognition as a condition, then the correct principle should be explained without obstruction.",
+        "source": "T29n1562_076:0751a24_3"
+    },
+    {
+        "source_sentence": "及緣自在定慧二道。",
+        "translation": "It's conditioned by the two paths of unimpeded concentration and wisdom.",
+        "source": "T29n1562_076:0751a25_4"
+    },
+    {
+        "source_sentence": "立為第四。",
+        "translation": "It's established as the fourth.",
+        "source": "T29n1562_076:0751a25_5"
+    },
+    {
+        "source_sentence": "即於文義能正宣揚。",
+        "translation": "That is, they can correctly proclaim the text and its meaning.",
+        "source": "T29n1562_076:0751a25_6"
+    },
+    {
+        "source_sentence": "無滯言詞說名為辯。",
+        "translation": "The absence of obstruction in speech is called eloquence.",
+        "source": "T29n1562_076:0751a26_7"
+    },
+    {
+        "source_sentence": "及諸所有已得功德。",
+        "translation": "and all the merits that have already been attained.",
+        "source": "T29n1562_076:0751a26_8"
+    },
+    {
+        "source_sentence": "不由加行任運現前自在功能。",
+        "translation": "It doesn't result from the unimpeded function of applied practices that are freely manifested.",
+        "source": "T29n1562_076:0751a27_9"
+    },
+    {
+        "source_sentence": "亦名為辯。",
+        "translation": "It's also called eloquence.",
+        "source": "T29n1562_076:0751a27_10"
+    },
+    {
+        "source_sentence": "此能起辯立以辯名。",
+        "translation": "This is the name that gives rise to debate and establishes it as a name for debate.",
+        "source": "T29n1562_076:0751a28_11"
+    },
+    {
+        "source_sentence": "了辯及因智名辯無礙解。",
+        "translation": "Understanding eloquence and causal cognition are called eloquence without obstructive understanding.",
+        "source": "T29n1562_076:0751a28_12"
+    },
+    {
+        "source_sentence": "即前所說能正宣揚。",
+        "translation": "That is, what was explained earlier can correctly proclaim it.",
+        "source": "T29n1562_076:0751a29_13"
+    },
+    {
+        "source_sentence": "善應物機不違勝義。",
+        "translation": "He well responds to the abilities of things and doesn't disobey their ultimate meaning.",
+        "source": "T29n1562_076:0751a29_14"
+    },
+    {
+        "source_sentence": "所有言說名應正理。",
+        "translation": "All the words that are spoken should be called according to correct principles.",
+        "source": "T29n1562_076:0751b01_15"
+    },
+    {
+        "source_sentence": "即前所說無滯言詞。",
+        "translation": "That is, the words that were explained previously are not obstructed by language.",
+        "source": "T29n1562_076:0751b01_16"
+    },
+    {
+        "source_sentence": "不待處時及有情等。",
+        "translation": "It doesn't await the time or sentient beings and so forth.",
+        "source": "T29n1562_076:0751b02_17"
+    },
+    {
+        "source_sentence": "辯析自在。",
+        "translation": "He's free to debate and analyze it.",
+        "source": "T29n1562_076:0751b02_18"
+    },
+    {
+        "source_sentence": "名無滯礙。",
+        "translation": "It's called unobstructed.",
+        "source": "T29n1562_076:0751b02_19"
+    },
+    {
+        "source_sentence": "即上所言已得功德。",
+        "translation": "That's the merit that's already been attained as described above.",
+        "source": "T29n1562_076:0751b03_20"
+    },
+    {
+        "source_sentence": "不由加行任運現前。",
+        "translation": "It doesn't result from the application of applied practices that are freely manifested.",
+        "source": "T29n1562_076:0751b03_21"
+    },
+    {
+        "source_sentence": "名為自在定慧二道。",
+        "translation": "They're called the two paths of self-contained concentration and wisdom.",
+        "source": "T29n1562_076:0751b04_0"
+    },
+    {
+        "source_sentence": "又能所詮相符會智。",
+        "translation": "It's also the knowledge that combines what's explained with what's united.",
+        "source": "T29n1562_076:0751b04_1"
+    },
+    {
+        "source_sentence": "名初二無礙解。",
+        "translation": "It's called the first two kinds of unobstructed understanding.",
+        "source": "T29n1562_076:0751b04_2"
+    },
+    {
+        "source_sentence": "謂達此名屬如是義。",
+        "translation": "It means to understand that this name belongs to such a meaning.",
+        "source": "T29n1562_076:0751b05_3"
+    },
+    {
+        "source_sentence": "及達此義有如是名。",
+        "translation": "and understands that this meaning has such a name.",
+        "source": "T29n1562_076:0751b05_4"
+    },
+    {
+        "source_sentence": "名能所詮相符會智。",
+        "translation": "It's called the knowledge that unites the characteristics of what's explained and what's interpreted.",
+        "source": "T29n1562_076:0751b06_5"
+    },
+    {
+        "source_sentence": "達時作等加行言詞。",
+        "translation": "When he attains it, he creates words and phrases that are applied equally.",
+        "source": "T29n1562_076:0751b06_6"
+    },
+    {
+        "source_sentence": "名第三無礙解。",
+        "translation": "It's called the third unobstructed understanding.",
+        "source": "T29n1562_076:0751b07_7"
+    },
+    {
+        "source_sentence": "達所樂言說及自在道因。",
+        "translation": "He understands the causes of what's pleasing in words and the causes of the unimpeded path.",
+        "source": "T29n1562_076:0751b07_8"
+    },
+    {
+        "source_sentence": "名第四無礙解。",
+        "translation": "This is called the fourth unhindered understanding.",
+        "source": "T29n1562_076:0751b08_9"
+    },
+    {
+        "source_sentence": "又色等六所知謂義。",
+        "translation": "Also, the six knowables of form and so forth are called meanings.",
+        "source": "T29n1562_076:0751b08_10"
+    },
+    {
+        "source_sentence": "即此善等有為無為。",
+        "translation": "That is, these good and so forth are conditioned and unconditioned.",
+        "source": "T29n1562_076:0751b08_11"
+    },
+    {
+        "source_sentence": "色非色等差別謂法。",
+        "translation": "Such distinctions as form and formlessness are called dharmas.",
+        "source": "T29n1562_076:0751b09_12"
+    },
+    {
+        "source_sentence": "即詮此二言說謂詞。",
+        "translation": "That is, it explains that these two words are called words.",
+        "source": "T29n1562_076:0751b09_13"
+    },
+    {
+        "source_sentence": "三智即前三無礙解。",
+        "translation": "The three kinds of cognition are the first three unhindered understandings.",
+        "source": "T29n1562_076:0751b10_14"
+    },
+    {
+        "source_sentence": "即緣三種無罣礙智。",
+        "translation": "That is, it's conditioned by the three kinds of unobstructed cognition.",
+        "source": "T29n1562_076:0751b10_15"
+    },
+    {
+        "source_sentence": "名第四無礙解。",
+        "translation": "This is called the fourth unhindered understanding.",
+        "source": "T29n1562_076:0751b11_16"
+    },
+    {
+        "source_sentence": "又達世俗勝義二諦。",
+        "translation": "He also understands the two noble truths of worldly and ultimate meaning.",
+        "source": "T29n1562_076:0751b11_17"
+    },
+    {
+        "source_sentence": "名初二無礙解。",
+        "translation": "It's called the first two kinds of unobstructed understanding.",
+        "source": "T29n1562_076:0751b12_18"
+    },
+    {
+        "source_sentence": "此即行者自利圓德。",
+        "translation": "This is the practitioner's perfect virtue of self-benefiting.",
+        "source": "T29n1562_076:0751b12_19"
+    },
+    {
+        "source_sentence": "能善宣說如是二諦。",
+        "translation": "He's able to skillfully explain these two truths.",
+        "source": "T29n1562_076:0751b12_20"
+    },
+    {
+        "source_sentence": "名第三無礙解。",
+        "translation": "It's called the third unobstructed understanding.",
+        "source": "T29n1562_076:0751b13_21"
+    },
+    {
+        "source_sentence": "於此善巧問答難通。",
+        "translation": "Here, skillful questions and answers are difficult to understand.",
+        "source": "T29n1562_076:0751b13_22"
+    },
+    {
+        "source_sentence": "名第四無礙解。",
+        "translation": "This is called the fourth unhindered understanding.",
+        "source": "T29n1562_076:0751b14_23"
+    },
+    {
+        "source_sentence": "此即行者利他圓德。",
+        "translation": "This is the practiceer's perfect virtue of benefiting others.",
+        "source": "T29n1562_076:0751b14_24"
+    },
+    {
+        "source_sentence": "有說愚癡猶預散亂。",
+        "translation": "Some say that folly is still ahead and distracted.",
+        "source": "T29n1562_076:0751b15_25"
+    },
+    {
+        "source_sentence": "是於宣辯有滯礙因。",
+        "translation": "It's the cause of obstruction in explaining and defending.",
+        "source": "T29n1562_076:0751b15_26"
+    },
+    {
+        "source_sentence": "由解脫此三得現法樂住。",
+        "translation": "Because of their liberation, these three attain the blissful abiding in the present life.",
+        "source": "T29n1562_076:0751b16_0"
+    },
+    {
+        "source_sentence": "及由此故利他行成。",
+        "translation": "Because of this, the practice of benefiting others is accomplished.",
+        "source": "T29n1562_076:0751b16_1"
+    },
+    {
+        "source_sentence": "此智名為辯無礙解。",
+        "translation": "This knowledge is called eloquence and unhindered understanding.",
+        "source": "T29n1562_076:0751b17_2"
+    },
+    {
+        "source_sentence": "若得如是定能宣說。",
+        "translation": "If he attains such a concentration, he'll be able to teach it.",
+        "source": "T29n1562_076:0751b17_3"
+    },
+    {
+        "source_sentence": "符會正理無滯言詞。",
+        "translation": "It's consistent with the correct principle without obstructing words.",
+        "source": "T29n1562_076:0751b18_0"
+    },
+    {
+        "source_sentence": "及得現前自在功德。",
+        "translation": "It's the attainment of unimpeded merit in the present.",
+        "source": "T29n1562_076:0751b18_1"
+    },
+    {
+        "source_sentence": "又於名等勝義言詞。",
+        "translation": "Furthermore, in terms of names and so forth, it's the ultimate meaning of words.",
+        "source": "T29n1562_076:0751b18_2"
+    },
+    {
+        "source_sentence": "無滯說中各得善巧。",
+        "translation": "Each one attains skillfulness in explaining without obstruction.",
+        "source": "T29n1562_076:0751b19_3"
+    },
+    {
+        "source_sentence": "如次建立四無礙解。",
+        "translation": "Thus, they establish four unhindered understandings in order.",
+        "source": "T29n1562_076:0751b19_4"
+    },
+    {
+        "source_sentence": "前三善巧說名為因。",
+        "translation": "The first three skillful explanations are called causes.",
+        "source": "T29n1562_076:0751b20_5"
+    },
+    {
+        "source_sentence": "由境不同故有差別。",
+        "translation": "It's because the objects are different that they have distinctions.",
+        "source": "T29n1562_076:0751b20_6"
+    },
+    {
+        "source_sentence": "第四名果能說無滯。",
+        "translation": "The fourth name and result can be explained without obstruction.",
+        "source": "T29n1562_076:0751b21_7"
+    },
+    {
+        "source_sentence": "又由四分別他事成。",
+        "translation": "It's also formed by the four kinds of discriminating other things.",
+        "source": "T29n1562_076:0751b21_8"
+    },
+    {
+        "source_sentence": "謂巧於文了達於義。",
+        "translation": "It's when he skillfully comprehends the meaning in words and understands the meaning in words.",
+        "source": "T29n1562_076:0751b22_9"
+    },
+    {
+        "source_sentence": "妙閑聲韻定慧自在。",
+        "translation": "He's unimpeded in his marvelous leisurely voice, concentration, and wisdom.",
+        "source": "T29n1562_076:0751b22_10"
+    },
+    {
+        "source_sentence": "故無礙解建立有四。",
+        "translation": "Therefore, there are four ways to establish unhindered understanding.",
+        "source": "T29n1562_076:0751b23_11"
+    },
+    {
+        "source_sentence": "此即總說無礙解體。",
+        "translation": "This is the general explanation of the essence of unobstructed understanding.",
+        "source": "T29n1562_076:0751b23_12"
+    },
+    {
+        "source_sentence": "兼顯四種所緣差別。",
+        "translation": "It also shows the distinction between the four kinds of perceptual objects.",
+        "source": "T29n1562_076:0751b24_13"
+    },
+    {
+        "source_sentence": "契經略舉此數及名。",
+        "translation": "The sūtras briefly cite these numbers and names.",
+        "source": "T29n1562_076:0751b24_14"
+    },
+    {
+        "source_sentence": "諸對法中廣顯其相。",
+        "translation": "Its characteristics are extensively expressed in the opposing teachings.",
+        "source": "T29n1562_076:0751b25_15"
+    },
+    {
+        "source_sentence": "又經列此先義後法。",
+        "translation": "The sūtras also list these prior meanings and subsequent dharmas.",
+        "source": "T29n1562_076:0751b25_16"
+    },
+    {
+        "source_sentence": "諸對法中先法後義。",
+        "translation": "Among the opposing dharmas, there's the meaning of prior dharmas and subsequent dharmas.",
+        "source": "T29n1562_076:0751b26_0"
+    },
+    {
+        "source_sentence": "此為顯示二智生時。",
+        "translation": "This shows that when the two kinds of cognition arise.",
+        "source": "T29n1562_076:0751b26_1"
+    },
+    {
+        "source_sentence": "或義因名。",
+        "translation": "Or it might be the cause of meaning and name.",
+        "source": "T29n1562_076:0751b26_2"
+    },
+    {
+        "source_sentence": "或名因義。",
+        "translation": "Or they may be called causes and meanings.",
+        "source": "T29n1562_076:0751b27_3"
+    },
+    {
+        "source_sentence": "故經與論作差別說。",
+        "translation": "That's why the sūtras and treatises make a distinction between them.",
+        "source": "T29n1562_076:0751b27_4"
+    },
+    {
+        "source_sentence": "謂聽法者先分別名。",
+        "translation": "It means that someone who hears the teaching first discerns names.",
+        "source": "T29n1562_076:0751b27_5"
+    },
+    {
+        "source_sentence": "既正知名次尋其義。",
+        "translation": "Since they're correctly named, we'll then search for their meaning.",
+        "source": "T29n1562_076:0751b28_6"
+    },
+    {
+        "source_sentence": "正知義已欲為他說。",
+        "translation": "They correctly know the meaning and want to teach it for others.",
+        "source": "T29n1562_076:0751b28_7"
+    },
+    {
+        "source_sentence": "次必應求無滯說智。",
+        "translation": "Next, they must seek the wisdom of unhindered explanation.",
+        "source": "T29n1562_076:0751b29_8"
+    },
+    {
+        "source_sentence": "依此次第故名在先。",
+        "translation": "Relying on this order, it's called the prior one.",
+        "source": "T29n1562_076:0751b29_9"
+    },
+    {
+        "source_sentence": "然此四中義智最勝。",
+        "translation": "Still, among these four, the cognition of meaning is the most superior.",
+        "source": "T29n1562_076:0751c01_10"
+    },
+    {
+        "source_sentence": "餘是助伴故義在先。",
+        "translation": "The rest are auxiliaries, so the meaning comes first.",
+        "source": "T29n1562_076:0751c01_11"
+    },
+    {
+        "source_sentence": "謂於義中若正了達。",
+        "translation": "It means that if someone correctly understands the meaning, they'll attain it.",
+        "source": "T29n1562_076:0751c02_12"
+    },
+    {
+        "source_sentence": "次應方便尋究其名。",
+        "translation": "Next, he should skillfully investigate its name.",
+        "source": "T29n1562_076:0751c02_13"
+    },
+    {
+        "source_sentence": "既已知名欲為他說。",
+        "translation": "Since they've already known it, they want to teach it for others.",
+        "source": "T29n1562_076:0751c03_14"
+    },
+    {
+        "source_sentence": "次應於說求巧便智。",
+        "translation": "Next, he should seek the knowledge of skillful means in teaching.",
+        "source": "T29n1562_076:0751c03_15"
+    },
+    {
+        "source_sentence": "是故此四次第如是。",
+        "translation": "Therefore, these four are thus in order.",
+        "source": "T29n1562_076:0751c04_16"
+    },
+    {
+        "source_sentence": "辯無礙解若緣說時。",
+        "translation": "When he explains the unobstructed understanding of eloquence, it's when he speaks conditionally.",
+        "source": "T29n1562_076:0751c04_17"
+    },
+    {
+        "source_sentence": "何異第三詞無礙解。",
+        "translation": "What's the difference between the third phrase and unobstructed understanding?",
+        "source": "T29n1562_076:0751c05_0"
+    },
+    {
+        "source_sentence": "第三了達訓釋言詞。",
+        "translation": "The third understands the words of the teaching and explains the words.",
+        "source": "T29n1562_076:0751c05_1"
+    },
+    {
+        "source_sentence": "如有變礙故名色等。",
+        "translation": "It's like name-and-form and so forth because there are transformations that obstruct them.",
+        "source": "T29n1562_076:0751c05_2"
+    },
+    {
+        "source_sentence": "此達應理無滯礙說。",
+        "translation": "This is a teaching that understands the principle without obstruction.",
+        "source": "T29n1562_076:0751c06_3"
+    },
+    {
+        "source_sentence": "有說詞詮諸法自性。",
+        "translation": "There's a teaching that expresses the self-nature of dharmas in words.",
+        "source": "T29n1562_076:0751c06_4"
+    },
+    {
+        "source_sentence": "辯能顯示諸法差別。",
+        "translation": "It's the eloquence that shows the distinctions in dharmas.",
+        "source": "T29n1562_076:0751c07_5"
+    },
+    {
+        "source_sentence": "有說於法直說名詞。",
+        "translation": "Some say that it's a straightforward explanation of names and words in terms of the teaching.",
+        "source": "T29n1562_076:0751c07_6"
+    },
+    {
+        "source_sentence": "展轉無滯分析名辯。",
+        "translation": "It's called eloquence when it's analyzed without obstruction in turn.",
+        "source": "T29n1562_076:0751c08_7"
+    },
+    {
+        "source_sentence": "緣此二種三四有別。",
+        "translation": "Conditioned by these two kinds, the three and four have distinctions.",
+        "source": "T29n1562_076:0751c08_8"
+    },
+    {
+        "source_sentence": "四中法詞俗智為性。",
+        "translation": "In the fourth, conventional wisdom is the nature of Dharma words.",
+        "source": "T29n1562_076:0751c09_9"
+    },
+    {
+        "source_sentence": "非無漏智緣名身等。",
+        "translation": "It's not the condition of uncontaminated cognition that's called body and so forth.",
+        "source": "T29n1562_076:0751c09_10"
+    },
+    {
+        "source_sentence": "及世言詞事境界故。",
+        "translation": "It's because of the worldly realm of words and phenomena.",
+        "source": "T29n1562_076:0751c10_11"
+    },
+    {
+        "source_sentence": "法無礙解通依五地。",
+        "translation": "Unhindered understanding of the teaching relies on the five stages.",
+        "source": "T29n1562_076:0751c10_12"
+    },
+    {
+        "source_sentence": "謂依欲界四本靜慮。",
+        "translation": "It's based on the four original states of meditation in the desire realm.",
+        "source": "T29n1562_076:0751c11_13"
+    },
+    {
+        "source_sentence": "上地中無名身等故。",
+        "translation": "It's because there are no names, bodies, and so forth in the higher ground.",
+        "source": "T29n1562_076:0751c11_14"
+    },
+    {
+        "source_sentence": "彼不別緣下名等故。",
+        "translation": "It's because they aren't separately conditioned by names and so forth.",
+        "source": "T29n1562_076:0751c12_15"
+    },
+    {
+        "source_sentence": "詞無礙解唯依二地。",
+        "translation": "The unhindered understanding of words only relies on the two stages.",
+        "source": "T29n1562_076:0751c12_16"
+    },
+    {
+        "source_sentence": "謂依欲界初本靜慮。",
+        "translation": "It's based on the first original concentration in the desire realm.",
+        "source": "T29n1562_076:0751c13_0"
+    },
+    {
+        "source_sentence": "上諸地中無尋伺故。",
+        "translation": "It's because there's no discursive discursive examination in the higher stages.",
+        "source": "T29n1562_076:0751c13_1"
+    },
+    {
+        "source_sentence": "彼地必無自語言故。",
+        "translation": "It's because there must be no self-speaking in that place.",
+        "source": "T29n1562_076:0751c13_2"
+    },
+    {
+        "source_sentence": "此因非理。",
+        "translation": "This cause is not the principle.",
+        "source": "T29n1562_076:0751c14_3"
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is it so?",
+        "source": "T29n1562_076:0751c14_4"
+    },
+    {
+        "source_sentence": "非發語智名無礙解。",
+        "translation": "It's not called unhindered understanding because it doesn't give rise to the cognition of speech.",
+        "source": "T29n1562_076:0751c14_5"
+    },
+    {
+        "source_sentence": "勿無礙解定中無故。",
+        "translation": "It's because it doesn't exist in the concentration of unobstructed understanding.",
+        "source": "T29n1562_076:0751c15_6"
+    },
+    {
+        "source_sentence": "由此不應作如是說。",
+        "translation": "Thus, it shouldn't be explained like this.",
+        "source": "T29n1562_076:0751c15_7"
+    },
+    {
+        "source_sentence": "無尋伺故上地中無。",
+        "translation": "Because there's no discursive discursive thought, it's absent in the higher stages.",
+        "source": "T29n1562_076:0751c16_8"
+    },
+    {
+        "source_sentence": "無斯過失。",
+        "translation": "There are no such faults.",
+        "source": "T29n1562_076:0751c16_9"
+    },
+    {
+        "source_sentence": "因義異故。",
+        "translation": "It's because the meaning of cause is different.",
+        "source": "T29n1562_076:0751c17_0"
+    },
+    {
+        "source_sentence": "何謂因義。",
+        "translation": "What's the meaning of cause?",
+        "source": "T29n1562_076:0751c17_1"
+    },
+    {
+        "source_sentence": "謂此意言尋伺二法能發語故。",
+        "translation": "It means that these two things, discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive discursive",
+        "source": "T29n1562_076:0751c17_2"
+    },
+    {
+        "source_sentence": "相不寂靜自性麁動。",
+        "translation": "The characteristics aren't quiescent, and their own nature is crude and agitated.",
+        "source": "T29n1562_076:0751c18_3"
+    },
+    {
+        "source_sentence": "上無此故寂靜微細。",
+        "translation": "Because the above doesn't have this, quiescence is subtle.",
+        "source": "T29n1562_076:0751c18_4"
+    },
+    {
+        "source_sentence": "詞無礙解緣外言詞。",
+        "translation": "The words are unobstructed, and understanding refers to external words.",
+        "source": "T29n1562_076:0751c19_5"
+    },
+    {
+        "source_sentence": "亦不寂靜麁動類攝。",
+        "translation": "They aren't included in the category of quiescence, anger, or movement.",
+        "source": "T29n1562_076:0751c19_6"
+    },
+    {
+        "source_sentence": "是故此解上地中無。",
+        "translation": "Therefore, this explanation doesn't exist in the higher ground.",
+        "source": "T29n1562_076:0751c20_7"
+    },
+    {
+        "source_sentence": "初靜慮中亦有尋伺。",
+        "translation": "In the first concentration, there's also discursive discursive discursive examination.",
+        "source": "T29n1562_076:0751c20_8"
+    },
+    {
+        "source_sentence": "故於定內亦有此解。",
+        "translation": "Therefore, there's also this understanding within concentration.",
+        "source": "T29n1562_076:0751c21_0"
+    },
+    {
+        "source_sentence": "由此極成但依二地。",
+        "translation": "This is the ultimate accomplishment that relies only on the two stages.",
+        "source": "T29n1562_076:0751c21_1"
+    },
+    {
+        "source_sentence": "義無礙解十六智性。",
+        "translation": "The meaning is unobstructed by the sixteen kinds of cognition.",
+        "source": "T29n1562_076:0751c21_2"
+    },
+    {
+        "source_sentence": "謂若諸法皆名為義。",
+        "translation": "It means that if all dharmas are called meanings, then they'll be called names.",
+        "source": "T29n1562_076:0751c22_3"
+    },
+    {
+        "source_sentence": "則十智性。",
+        "translation": "It's the nature of the ten kinds of cognition.",
+        "source": "T29n1562_076:0751c22_4"
+    },
+    {
+        "source_sentence": "若唯涅槃名為義者則六智性。",
+        "translation": "If only nirvāṇa is called meaning, then it's the nature of the six kinds of cognition.",
+        "source": "T29n1562_076:0751c23_5"
+    },
+    {
+        "source_sentence": "謂俗法類滅盡無生。",
+        "translation": "It means that the secular dharmas cease and don't arise.",
+        "source": "T29n1562_076:0751c23_6"
+    },
+    {
+        "source_sentence": "辯無礙解九智為性。",
+        "translation": "The nine knowledges of eloquence and unhindered understanding are their nature.",
+        "source": "T29n1562_076:0751c24_7"
+    },
+    {
+        "source_sentence": "謂唯除滅緣說道故。",
+        "translation": "It's because they only explain the path except for the condition of cessation.",
+        "source": "T29n1562_076:0751c24_8"
+    },
+    {
+        "source_sentence": "此二通依一切地起。",
+        "translation": "These two supernormal knowledges arise in all the spheres.",
+        "source": "T29n1562_076:0751c25_9"
+    },
+    {
+        "source_sentence": "謂依欲界乃至有頂。",
+        "translation": "It's based on the desire realm... up to the top of existence.",
+        "source": "T29n1562_076:0751c25_10"
+    },
+    {
+        "source_sentence": "辯無礙解於說道中。",
+        "translation": "Unhindered understanding of eloquence is in the path of explanation.",
+        "source": "T29n1562_076:0751c26_11"
+    },
+    {
+        "source_sentence": "許隨緣一皆得起故。",
+        "translation": "It's because they can all arise according to one condition.",
+        "source": "T29n1562_076:0751c26_12"
+    },
+    {
+        "source_sentence": "通依諸地。",
+        "translation": "They all rely on the stages.",
+        "source": "T29n1562_076:0751c27_13"
+    },
+    {
+        "source_sentence": "亦無有失。",
+        "translation": "There's no mistake, either.",
+        "source": "T29n1562_076:0751c27_14"
+    },
+    {
+        "source_sentence": "然於其中但緣說者。",
+        "translation": "However, it's only explained in terms of conditions.",
+        "source": "T29n1562_076:0751c27_15"
+    },
+    {
+        "source_sentence": "唯依二地與第三同。",
+        "translation": "They rely only on the two grounds and are the same as the third.",
+        "source": "T29n1562_076:0751c28_16"
+    },
+    {
+        "source_sentence": "有說盡無生非無礙解攝。",
+        "translation": "Some say that the exhaustion of nonproduction isn't included in unobstructed understanding.",
+        "source": "T29n1562_076:0751c28_17"
+    },
+    {
+        "source_sentence": "以無礙解是見性故。",
+        "translation": "It's because unhindered understanding is the nature of views.",
+        "source": "T29n1562_076:0751c29_18"
+    },
+    {
+        "source_sentence": "彼說第二或四或八。",
+        "translation": "They say the second is either four or eight.",
+        "source": "T29n1562_076:0751c29_19"
+    },
+    {
+        "source_sentence": "第四唯七。",
+        "translation": "The fourth is only seven.",
+        "source": "T29n1562_076:0752a01_20"
+    },
+    {
+        "source_sentence": "准上應知。",
+        "translation": "According to the above, it should be known.",
+        "source": "T29n1562_076:0752a01_21"
+    },
+    {
+        "source_sentence": "此四應知如四聖種。",
+        "translation": "These four should be known as the four noble types.",
+        "source": "T29n1562_076:0752a01_22"
+    },
+    {
+        "source_sentence": "隨得一種必具得四。",
+        "translation": "Whatever one they attain, they'll surely attain four.",
+        "source": "T29n1562_076:0752a02_0"
+    },
+    {
+        "source_sentence": "非不具四可名為得。",
+        "translation": "It's not that they don't have the four qualities that can be called attained.",
+        "source": "T29n1562_076:0752a02_1"
+    },
+    {
+        "source_sentence": "隨欲現起或具不具。",
+        "translation": "Whatever desires are present, they may or may not be present.",
+        "source": "T29n1562_076:0752a02_2"
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "translation": "Some other masters say:",
+        "source": "T29n1562_076:0752a03_3"
+    },
+    {
+        "source_sentence": "有不具得無理得一必令得四。",
+        "translation": "If there's someone who doesn't attain one without attaining it, they'll surely attain four.",
+        "source": "T29n1562_076:0752a03_4"
+    },
+    {
+        "source_sentence": "有說此四無礙解生。",
+        "translation": "It's said that these four kinds of unhindered understanding arise.",
+        "source": "T29n1562_076:0752a04_5"
+    },
+    {
+        "source_sentence": "如次串習算計佛語。",
+        "translation": "It's like following the sequential practice of calculating the Buddha's words.",
+        "source": "T29n1562_076:0752a04_6"
+    },
+    {
+        "source_sentence": "聲明因明為前加行。",
+        "translation": "The statement of causes and conditions is the prior applied practice.",
+        "source": "T29n1562_076:0752a05_7"
+    },
+    {
+        "source_sentence": "若於四處未得善巧。",
+        "translation": "If he doesn't attain skillfulness in the four places.",
+        "source": "T29n1562_076:0752a05_8"
+    },
+    {
+        "source_sentence": "必不能生無礙解故。",
+        "translation": "It mustn't give rise to unobstructed understanding.",
+        "source": "T29n1562_076:0752a06_9"
+    },
+    {
+        "source_sentence": "理實一切無礙解生。",
+        "translation": "In truth, all unhindered understanding arises from the principle.",
+        "source": "T29n1562_076:0752a06_10"
+    },
+    {
+        "source_sentence": "唯學佛語能為加行。",
+        "translation": "Only training in the Buddha's words can be applied.",
+        "source": "T29n1562_076:0752a07_11"
+    },
+    {
+        "source_sentence": "要待前生久習名等。",
+        "translation": "It's necessary to wait for the long-standing accumulation of names and so forth in previous lives.",
+        "source": "T29n1562_076:0752a07_12"
+    },
+    {
+        "source_sentence": "四種善巧今乃能修。",
+        "translation": "Now, these four kinds of skillfulness can be cultivated.",
+        "source": "T29n1562_076:0752a08_13"
+    },
+    {
+        "source_sentence": "無礙解名釋有多義。",
+        "translation": "Unobstructed understanding of names and explanations has many meanings.",
+        "source": "T29n1562_076:0752a08_14"
+    },
+    {
+        "source_sentence": "謂於彼彼境領悟無礙名無礙解。",
+        "translation": "They are called unobstructed understanding when they perceive each other's objects without obstruction.",
+        "source": "T29n1562_076:0752a09_15"
+    },
+    {
+        "source_sentence": "或於彼彼境決斷無礙名無礙解。",
+        "translation": "It's also called unobstructed understanding when it's certain that there are objects that are unobstructed.",
+        "source": "T29n1562_076:0752a09_16"
+    },
+    {
+        "source_sentence": "或於彼彼境正說無礙名無礙解。",
+        "translation": "Or, they may correctly explain that unobstructedness is called unobstructed understanding in terms of those objects.",
+        "source": "T29n1562_076:0752a10_17"
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say:",
+        "source": "T29n1562_076:0752a11_18"
+    },
+    {
+        "source_sentence": "鉢剌底是助聲目現前義。",
+        "translation": "Padma is the meaning of the auxiliary sound that's present in the eyes.",
+        "source": "T29n1562_076:0752a11_19"
+    },
+    {
+        "source_sentence": "如鉢剌底日火蝩來。",
+        "translation": "It's like the sunlight coming from a patch of fire in a palm tree.",
+        "source": "T29n1562_076:0752a12_20"
+    },
+    {
+        "source_sentence": "是日火蝩現前來義。",
+        "translation": "This is the meaning of the sun's burning flame manifesting and coming back.",
+        "source": "T29n1562_076:0752a12_21"
+    },
+    {
+        "source_sentence": "三目無倒毘陀目智。",
+        "translation": "The third is the wisdom of the eye without mistaken Vedas.",
+        "source": "T29n1562_076:0752a13_22"
+    },
+    {
+        "source_sentence": "此言意顯於境現前。",
+        "translation": "These words and meanings are expressed in terms of the manifestation of objects.",
+        "source": "T29n1562_076:0752a13_23"
+    },
+    {
+        "source_sentence": "無顛倒智名無礙解。",
+        "translation": "The absence of mistaken cognition is called unobstructed understanding.",
+        "source": "T29n1562_076:0752a14_24"
+    },
+    {
+        "source_sentence": "四無礙解三乘俱得。",
+        "translation": "Fourth, unhindered understanding is attained by both the three vehicles.",
+        "source": "T29n1562_076:0752a14_25"
+    },
+    {
+        "source_sentence": "何故經說唯我世尊。",
+        "translation": "Why does the sūtra say that it's only self, Bhagavān?",
+        "source": "T29n1562_076:0752a15_0"
+    },
+    {
+        "source_sentence": "獨名成就四無礙解。",
+        "translation": "They alone are called accomplishing the four unhindered understandings.",
+        "source": "T29n1562_076:0752a15_1"
+    },
+    {
+        "source_sentence": "無相違失。",
+        "translation": "There's no discrepancy.",
+        "source": "T29n1562_076:0752a15_2"
+    },
+    {
+        "source_sentence": "經自釋故。",
+        "translation": "It's because the sūtras themselves explain it.",
+        "source": "T29n1562_076:0752a16_3"
+    },
+    {
+        "source_sentence": "謂彼經言唯佛無謬。",
+        "translation": "It means the sūtras say that only the Buddha is without error.",
+        "source": "T29n1562_076:0752a16_4"
+    },
+    {
+        "source_sentence": "成就無上故作是說。",
+        "translation": "Because it accomplishes the unsurpassed, he explains it this way.",
+        "source": "T29n1562_076:0752a16_5"
+    },
+    {
+        "source_sentence": "聲聞獨覺自分境中。",
+        "translation": "It's in the self-realm of śrāvakas and pratyekbuddhas.",
+        "source": "T29n1562_076:0752a17_6"
+    },
+    {
+        "source_sentence": "智無退故名無礙解。",
+        "translation": "Because knowledge has no retrogression, it's called unobstructed understanding.",
+        "source": "T29n1562_076:0752a17_7"
+    },
+    {
+        "source_sentence": "諸佛世尊於一切法。",
+        "translation": "The buddhas, the world-honored ones, are present in all dharmas.",
+        "source": "T29n1562_076:0752a18_8"
+    },
+    {
+        "source_sentence": "圓滿知故名無礙解。",
+        "translation": "Because it's perfectly known, it's called unobstructed understanding.",
+        "source": "T29n1562_076:0752a18_9"
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say:",
+        "source": "T29n1562_076:0752a19_10"
+    },
+    {
+        "source_sentence": "無別第四即依前三總集建立。",
+        "translation": "The fourth that's not distinct is established based on the previous three general collections.",
+        "source": "T29n1562_076:0752a19_11"
+    },
+    {
+        "source_sentence": "此說非理。",
+        "translation": "This explanation is not reasonable.",
+        "source": "T29n1562_076:0752a20_12"
+    },
+    {
+        "source_sentence": "緣法義詞與緣說道智相別故。",
+        "translation": "It's because the words that refer to the meaning of the teaching and the words that refer to the cognition of the path are distinct.",
+        "source": "T29n1562_076:0752a20_13"
+    },
+    {
+        "source_sentence": "此四依地自性所緣。",
+        "translation": "These four rely on the self-nature of the ground as a perceptual object.",
+        "source": "T29n1562_076:0752a21_14"
+    },
+    {
+        "source_sentence": "與無諍別。",
+        "translation": "It's not distinct from the absence of debate.",
+        "source": "T29n1562_076:0752a21_15"
+    },
+    {
+        "source_sentence": "前來已辯種性依身如無諍說。",
+        "translation": "We've already explained that the seed nature depends on the body as described in the absence of anger.",
+        "source": "T29n1562_076:0752a21_16"
+    },
+    {
+        "source_sentence": "謂不動種性依三洲人身。",
+        "translation": "It means that the immovable seed nature relies on the bodies of people in the three continents.",
+        "source": "T29n1562_076:0752a22_17"
+    },
+    {
+        "source_sentence": "如是所說無諍智等。",
+        "translation": "Thus, it's explained that there's no angry cognition and so forth.",
+        "source": "T29n1562_076:0752a23_18"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0752a23_19"
+    },
+    {
+        "source_sentence": "　六依邊際得　　邊際六後定",
+        "translation": "6. Dependent on the limits of acquisition, there are limits and six latter concentrations",
+        "source": "T29n1562_076:0752a24_0"
+    },
+    {
+        "source_sentence": "　遍順至究竟　　佛餘加行得",
+        "translation": "pervasive and ultimate, the Buddha's remaining attainments of applied practices",
+        "source": "T29n1562_076:0752a25_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0752a26_0"
+    },
+    {
+        "source_sentence": "無諍願智四無礙解。",
+        "translation": "The four unobstructed understandings of the wisdom of the absence of anger and vows.",
+        "source": "T29n1562_076:0752a26_1"
+    },
+    {
+        "source_sentence": "六種皆依邊際定得。",
+        "translation": "The six kinds all rely on the limitless concentration that's attained.",
+        "source": "T29n1562_076:0752a26_2"
+    },
+    {
+        "source_sentence": "邊際定力所引發故。",
+        "translation": "It's because it's produced by the power of limitless concentration.",
+        "source": "T29n1562_076:0752a27_3"
+    },
+    {
+        "source_sentence": "邊際靜慮體有六種。",
+        "translation": "There are six kinds in the essence of limitless meditation.",
+        "source": "T29n1562_076:0752a27_4"
+    },
+    {
+        "source_sentence": "前六除詞餘五少分。",
+        "translation": "The first six are except for words, and the other five are minor parts.",
+        "source": "T29n1562_076:0752a28_0"
+    },
+    {
+        "source_sentence": "及除此外復更有餘。",
+        "translation": "And besides that, there's also something else.",
+        "source": "T29n1562_076:0752a28_1"
+    },
+    {
+        "source_sentence": "加行所得上品靜慮。",
+        "translation": "It's the higher level of meditation that's attained by applied practices.",
+        "source": "T29n1562_076:0752a29_0"
+    },
+    {
+        "source_sentence": "名邊際定。",
+        "translation": "It's called the limitless concentration.",
+        "source": "T29n1562_076:0752a29_1"
+    },
+    {
+        "source_sentence": "故成六種。",
+        "translation": "Therefore, it's made into six kinds.",
+        "source": "T29n1562_076:0752a29_2"
+    },
+    {
+        "source_sentence": "詞無礙解雖依彼得。",
+        "translation": "Although the words are unobstructed in understanding, they rely on Peter.",
+        "source": "T29n1562_076:0752a29_3"
+    },
+    {
+        "source_sentence": "而體非彼靜慮所攝。",
+        "translation": "The essence isn't included in that concentration.",
+        "source": "T29n1562_076:0752b01_4"
+    },
+    {
+        "source_sentence": "邊際名但依第四靜慮故。",
+        "translation": "The name of the limits only refers to the fourth concentration.",
+        "source": "T29n1562_076:0752b01_5"
+    },
+    {
+        "source_sentence": "此一切地遍所隨順故。",
+        "translation": "It's because it's pervasively followed by all these stages.",
+        "source": "T29n1562_076:0752b02_6"
+    },
+    {
+        "source_sentence": "增至究竟故得邊際名。",
+        "translation": "Because it increases up to the ultimate, it gets the name limit.",
+        "source": "T29n1562_076:0752b03_0"
+    },
+    {
+        "source_sentence": "由此不應亦通餘地。",
+        "translation": "Thus, it shouldn't also apply to other stages.",
+        "source": "T29n1562_076:0752b03_1"
+    },
+    {
+        "source_sentence": "云何此名遍所隨順。",
+        "translation": "What's the name that's pervasively followed?",
+        "source": "T29n1562_076:0752b04_0"
+    },
+    {
+        "source_sentence": "謂正修學此靜慮時。",
+        "translation": "It's when he correctly cultivates this concentration.",
+        "source": "T29n1562_076:0752b04_1"
+    },
+    {
+        "source_sentence": "從初靜慮次第順入乃至有頂。",
+        "translation": "From the first concentration, he enters in order up to the peak of existence.",
+        "source": "T29n1562_076:0752b04_2"
+    },
+    {
+        "source_sentence": "復從有頂次第逆入至初靜慮。",
+        "translation": "Furthermore, from the top of existence, he enters in order up to the first concentration.",
+        "source": "T29n1562_076:0752b05_3"
+    },
+    {
+        "source_sentence": "從初靜慮次第順入。",
+        "translation": "He enters in order from the first concentration.",
+        "source": "T29n1562_076:0752b06_4"
+    },
+    {
+        "source_sentence": "展轉乃至第四靜慮。",
+        "translation": "It's gradual until the fourth concentration.",
+        "source": "T29n1562_076:0752b06_5"
+    },
+    {
+        "source_sentence": "名一切地遍所隨順。",
+        "translation": "It's called pervasively followed by all the stages.",
+        "source": "T29n1562_076:0752b07_6"
+    },
+    {
+        "source_sentence": "云何此名增至究竟。",
+        "translation": "How does this name increase up to the ultimate?",
+        "source": "T29n1562_076:0752b07_7"
+    },
+    {
+        "source_sentence": "謂專修習第四靜慮。",
+        "translation": "It's the exclusive cultivation of the fourth concentration.",
+        "source": "T29n1562_076:0752b08_8"
+    },
+    {
+        "source_sentence": "從下至中從中至上。",
+        "translation": "From the bottom to the middle, and from the middle to the top.",
+        "source": "T29n1562_076:0752b08_9"
+    },
+    {
+        "source_sentence": "如是三品復各分三。",
+        "translation": "Each of these three categories is further divided into three.",
+        "source": "T29n1562_076:0752b09_10"
+    },
+    {
+        "source_sentence": "上上品生名至究竟。",
+        "translation": "The higher and higher qualities that arise are called the ultimate.",
+        "source": "T29n1562_076:0752b09_11"
+    },
+    {
+        "source_sentence": "如是靜慮得邊際名。",
+        "translation": "Thus, this kind of meditation gets the name limit.",
+        "source": "T29n1562_076:0752b10_12"
+    },
+    {
+        "source_sentence": "此中三乘非無差別。",
+        "translation": "Here, the three vehicles are not without distinctions.",
+        "source": "T29n1562_076:0752b10_13"
+    },
+    {
+        "source_sentence": "而各於自得究竟名。",
+        "translation": "Each one then attains the ultimate name for themselves.",
+        "source": "T29n1562_076:0752b11_14"
+    },
+    {
+        "source_sentence": "此中邊名顯無越義。",
+        "translation": "Here, the names of the extremes here show the meaning of nontransgression.",
+        "source": "T29n1562_076:0752b11_15"
+    },
+    {
+        "source_sentence": "勝無越此故名為邊際言。",
+        "translation": "Because it's superior and doesn't transcend this, it's called the ultimate state.",
+        "source": "T29n1562_076:0752b12_0"
+    },
+    {
+        "source_sentence": "為顯類義極義。",
+        "translation": "It's to show the ultimate meaning of types.",
+        "source": "T29n1562_076:0752b12_1"
+    },
+    {
+        "source_sentence": "如說四際及實際言。",
+        "translation": "It's as explained in the four realms and the actual words.",
+        "source": "T29n1562_076:0752b12_2"
+    },
+    {
+        "source_sentence": "如是二言顯此靜慮。",
+        "translation": "Thus, these two words show this concentration.",
+        "source": "T29n1562_076:0752b13_3"
+    },
+    {
+        "source_sentence": "是最勝類定中最極。",
+        "translation": "It's the most extreme of the most excellent types of concentration.",
+        "source": "T29n1562_076:0752b13_4"
+    },
+    {
+        "source_sentence": "殊勝功德多此引生。",
+        "translation": "The extraordinary qualities are so numerous that they're cited here.",
+        "source": "T29n1562_076:0752b14_5"
+    },
+    {
+        "source_sentence": "樂通行中此最勝故。",
+        "translation": "It's because this is the most superior among the pleasures of the path.",
+        "source": "T29n1562_076:0752b14_6"
+    },
+    {
+        "source_sentence": "有言無諍體即是悲。",
+        "translation": "It's said that the absence of anger in essence is compassion.",
+        "source": "T29n1562_076:0752b15_7"
+    },
+    {
+        "source_sentence": "哀愍有情修無諍故。",
+        "translation": "It's because pity for sentient beings cultivates the absence of anger.",
+        "source": "T29n1562_076:0752b15_8"
+    },
+    {
+        "source_sentence": "趣入無諍以悲為門。",
+        "translation": "To enter into the absence of anger with compassion as the gate is to take pity as the gate.",
+        "source": "T29n1562_076:0752b16_9"
+    },
+    {
+        "source_sentence": "如何異悲別有自體。",
+        "translation": "How is it that there's a separate essence apart from compassion?",
+        "source": "T29n1562_076:0752b16_10"
+    },
+    {
+        "source_sentence": "此說非理。",
+        "translation": "This explanation is not reasonable.",
+        "source": "T29n1562_076:0752b17_11"
+    },
+    {
+        "source_sentence": "不決定故。",
+        "translation": "It's because they aren't determined.",
+        "source": "T29n1562_076:0752b17_12"
+    },
+    {
+        "source_sentence": "謂修無諍非定由悲。",
+        "translation": "It's cultivating the absence of anger that's not determined by compassion.",
+        "source": "T29n1562_076:0752b17_13"
+    },
+    {
+        "source_sentence": "於諸有情拔苦行相。",
+        "translation": "He removes the characteristic of painful actions for sentient beings.",
+        "source": "T29n1562_076:0752b18_14"
+    },
+    {
+        "source_sentence": "但為令彼煩惱不生。",
+        "translation": "It's simply to prevent those afflictions from arising.",
+        "source": "T29n1562_076:0752b18_15"
+    },
+    {
+        "source_sentence": "寂靜思惟為門而入。",
+        "translation": "He enters by contemplating in silence for the sake of entry.",
+        "source": "T29n1562_076:0752b19_16"
+    },
+    {
+        "source_sentence": "設許決定以悲為門。",
+        "translation": "Suppose someone decides to make compassion the gate.",
+        "source": "T29n1562_076:0752b19_17"
+    },
+    {
+        "source_sentence": "亦不可言以悲為體。",
+        "translation": "Nor can it be said that compassion is the essence.",
+        "source": "T29n1562_076:0752b20_18"
+    },
+    {
+        "source_sentence": "勿慧由定發體即是定故。",
+        "translation": "It's because the essence of wisdom that arises from concentration is concentration.",
+        "source": "T29n1562_076:0752b20_19"
+    },
+    {
+        "source_sentence": "若住無諍能息他惑。",
+        "translation": "If he abides in the absence of anger, he'll be able to quell the afflictions of others.",
+        "source": "T29n1562_076:0752b21_20"
+    },
+    {
+        "source_sentence": "則應世尊不住無諍氣噓。",
+        "translation": "Then the Bhagavān won't abide, and there's no angry exclamation.",
+        "source": "T29n1562_076:0752b21_21"
+    },
+    {
+        "source_sentence": "指鬘等緣佛生惑故。",
+        "translation": "It's because it refers to the afflictions that arise in the Buddha based on such conditions as anger and so forth.",
+        "source": "T29n1562_076:0752b22_22"
+    },
+    {
+        "source_sentence": "實非無諍恒現在前。",
+        "translation": "It's really not that the absence of anger is always present.",
+        "source": "T29n1562_076:0752b22_23"
+    },
+    {
+        "source_sentence": "以佛世尊具無量德。",
+        "translation": "It's because the Bhagavān possesses measureless virtue.",
+        "source": "T29n1562_076:0752b23_24"
+    },
+    {
+        "source_sentence": "隨時所欲起一現前。",
+        "translation": "Whatever they want to give rise to at any time, one is manifested.",
+        "source": "T29n1562_076:0752b23_25"
+    },
+    {
+        "source_sentence": "寧一切時偏住無諍。",
+        "translation": "It's better to abide partially and without anger at all times.",
+        "source": "T29n1562_076:0752b24_26"
+    },
+    {
+        "source_sentence": "佛於聖住多住於空。",
+        "translation": "In the Buddha's noble abode, he mostly abides in emptiness.",
+        "source": "T29n1562_076:0752b24_27"
+    },
+    {
+        "source_sentence": "先由此門入離生故。",
+        "translation": "First, it's because this is the gate that enters into freedom from birth.",
+        "source": "T29n1562_076:0752b25_0"
+    },
+    {
+        "source_sentence": "能引捨故。",
+        "translation": "It's because they can lead to equanimity.",
+        "source": "T29n1562_076:0752b25_1"
+    },
+    {
+        "source_sentence": "極微妙故。",
+        "translation": "It's because it's extremely subtle.",
+        "source": "T29n1562_076:0752b25_2"
+    },
+    {
+        "source_sentence": "最難修故。",
+        "translation": "It's because it's most difficult to cultivate.",
+        "source": "T29n1562_076:0752b25_3"
+    },
+    {
+        "source_sentence": "是不共故。",
+        "translation": "It's because it's not shared.",
+        "source": "T29n1562_076:0752b26_4"
+    },
+    {
+        "source_sentence": "佛於梵住多住於悲。",
+        "translation": "In the Buddha's abode in Brahmā, he mostly abides in pity.",
+        "source": "T29n1562_076:0752b26_5"
+    },
+    {
+        "source_sentence": "最能濟拔有情苦故。",
+        "translation": "It's because it's the most capable of removing the suffering of sentient beings.",
+        "source": "T29n1562_076:0752b26_6"
+    },
+    {
+        "source_sentence": "無諍不然。",
+        "translation": "There's no dispute, and it's not.",
+        "source": "T29n1562_076:0752b27_7"
+    },
+    {
+        "source_sentence": "故多不起。",
+        "translation": "Therefore, many of them don't arise.",
+        "source": "T29n1562_076:0752b27_8"
+    },
+    {
+        "source_sentence": "世尊對彼具壽善現。",
+        "translation": "Bhagavān, the Bhagavān confronts them with the good appearance of longevity.",
+        "source": "T29n1562_076:0752b27_9"
+    },
+    {
+        "source_sentence": "饒益他志雖勝無邊。",
+        "translation": "Although the intention to benefit others is superior, it's limitless.",
+        "source": "T29n1562_076:0752b28_10"
+    },
+    {
+        "source_sentence": "而不恒時住無諍者。",
+        "translation": "He doesn't always abide without anger.",
+        "source": "T29n1562_076:0752b28_11"
+    },
+    {
+        "source_sentence": "為欲永拔彼煩惱故。",
+        "translation": "It's because they want to permanently remove those afflictions.",
+        "source": "T29n1562_076:0752b29_12"
+    },
+    {
+        "source_sentence": "初縱令起後方調伏。",
+        "translation": "The first is to cause it to arise, and the second is to subdue it.",
+        "source": "T29n1562_076:0752b29_13"
+    },
+    {
+        "source_sentence": "如是可謂真實哀愍。",
+        "translation": "Thus, it can be called true compassion.",
+        "source": "T29n1562_076:0752c01_14"
+    },
+    {
+        "source_sentence": "願智為先方起無諍。",
+        "translation": "The knowledge of the vow is the first to give rise to no anger.",
+        "source": "T29n1562_076:0752c01_15"
+    },
+    {
+        "source_sentence": "非起願智無諍為先。",
+        "translation": "It's not the first to give rise to the knowledge of vows without anger.",
+        "source": "T29n1562_076:0752c02_16"
+    },
+    {
+        "source_sentence": "謂要先知諸有情類。",
+        "translation": "It means that it's necessary to first know the types of sentient beings.",
+        "source": "T29n1562_076:0752c02_17"
+    },
+    {
+        "source_sentence": "由我安住如是威儀。",
+        "translation": "It's because I am settled in such a manner.",
+        "source": "T29n1562_076:0752c03_18"
+    },
+    {
+        "source_sentence": "煩惱便生。",
+        "translation": "The afflictions then arise.",
+        "source": "T29n1562_076:0752c03_19"
+    },
+    {
+        "source_sentence": "餘則不爾。",
+        "translation": "The rest are not like that.",
+        "source": "T29n1562_076:0752c03_20"
+    },
+    {
+        "source_sentence": "然後方起無諍現前。",
+        "translation": "Only then does he give rise to the absence of anger that's manifested.",
+        "source": "T29n1562_076:0752c04_0"
+    },
+    {
+        "source_sentence": "願智無緣由無諍起。",
+        "translation": "The knowledge of the vow has no cognition as its condition because it's produced without anger.",
+        "source": "T29n1562_076:0752c04_1"
+    },
+    {
+        "source_sentence": "雖俱邊際靜慮為先。",
+        "translation": "Even though they're both preceded by the limitless concentration of meditation.",
+        "source": "T29n1562_076:0752c04_2"
+    },
+    {
+        "source_sentence": "加行有殊得有差別。",
+        "translation": "There are distinctions in applied practices, and there are distinctions in attainments.",
+        "source": "T29n1562_076:0752c05_3"
+    },
+    {
+        "source_sentence": "有說此二展轉相攝。",
+        "translation": "Some say that these two are mutually inclusive.",
+        "source": "T29n1562_076:0752c05_4"
+    },
+    {
+        "source_sentence": "理不應然。",
+        "translation": "It shouldn't be so in principle.",
+        "source": "T29n1562_076:0752c06_5"
+    },
+    {
+        "source_sentence": "行相別故。",
+        "translation": "It's because the defining activities are distinct.",
+        "source": "T29n1562_076:0752c06_6"
+    },
+    {
+        "source_sentence": "謂別行相為息他惑。",
+        "translation": "It means that the distinctive characteristics of conditioned dharmas are used to calm the afflictions of others.",
+        "source": "T29n1562_076:0752c06_7"
+    },
+    {
+        "source_sentence": "起別行相為了所知。",
+        "translation": "They give rise to distinctive practices and characteristics that are fully known.",
+        "source": "T29n1562_076:0752c07_8"
+    },
+    {
+        "source_sentence": "若加行中為息他惑。",
+        "translation": "If he applies them in order to calm the afflictions of others, then he'll attain nirvāṇa.",
+        "source": "T29n1562_076:0752c07_9"
+    },
+    {
+        "source_sentence": "後從定起他惑不生。",
+        "translation": "Subsequently, other afflictions that arise from concentration don't arise.",
+        "source": "T29n1562_076:0752c08_10"
+    },
+    {
+        "source_sentence": "如是即名無諍事辦。",
+        "translation": "Thus, it's called the accomplishment of the absence of anger.",
+        "source": "T29n1562_076:0752c08_11"
+    },
+    {
+        "source_sentence": "若加行位為知所了。",
+        "translation": "If the stage of applied practices is comprehended by knowing, then they'll know it.",
+        "source": "T29n1562_076:0752c09_12"
+    },
+    {
+        "source_sentence": "後起定時了所知境。",
+        "translation": "When he later gives rise to concentration, he perceives the object that's known.",
+        "source": "T29n1562_076:0752c09_13"
+    },
+    {
+        "source_sentence": "如是名曰願智事成。",
+        "translation": "Thus, it's called the accomplishment of the task of vows and knowledge.",
+        "source": "T29n1562_076:0752c10_14"
+    },
+    {
+        "source_sentence": "行相既殊如何相攝。",
+        "translation": "Since the defining activities are different, how can they be included in each other?",
+        "source": "T29n1562_076:0752c10_15"
+    },
+    {
+        "source_sentence": "如是所說無諍智等。",
+        "translation": "Thus, it's explained that there's no angry cognition and so forth.",
+        "source": "T29n1562_076:0752c11_16"
+    },
+    {
+        "source_sentence": "除佛餘聖唯加行得。",
+        "translation": "Except for the Buddha, the other noble ones are only attained by applied practices.",
+        "source": "T29n1562_076:0752c11_17"
+    },
+    {
+        "source_sentence": "非離染得。",
+        "translation": "It's not free from defilement and attained.",
+        "source": "T29n1562_076:0752c12_18"
+    },
+    {
+        "source_sentence": "非皆得故唯佛於此。",
+        "translation": "Because they aren't all attained, only the Buddha is here.",
+        "source": "T29n1562_076:0752c12_19"
+    },
+    {
+        "source_sentence": "亦離染得。",
+        "translation": "It's also free of defiled attainment.",
+        "source": "T29n1562_076:0752c12_20"
+    },
+    {
+        "source_sentence": "諸佛功德初盡智時。",
+        "translation": "When the merits of the buddhas first exhaust their cognition.",
+        "source": "T29n1562_076:0752c13_0"
+    },
+    {
+        "source_sentence": "由離染故一切頓得。",
+        "translation": "It's because they're free of defilement that all are suddenly attained.",
+        "source": "T29n1562_076:0752c13_1"
+    },
+    {
+        "source_sentence": "後時隨欲能引現前不由加行。",
+        "translation": "At a later time, he follows the desires that can be induced in the present without relying on applied practices.",
+        "source": "T29n1562_076:0752c13_2"
+    },
+    {
+        "source_sentence": "以佛世尊於一切法自在轉故。",
+        "translation": "It's because the Bhagavān, the Buddha, is unimpeded in all dharmas.",
+        "source": "T29n1562_076:0752c14_3"
+    },
+    {
+        "source_sentence": "已辯前三唯共餘聖德。",
+        "translation": "We've already explained that the first three are only common to the other noble qualities.",
+        "source": "T29n1562_076:0752c15_4"
+    },
+    {
+        "source_sentence": "於亦共凡德且應辯通。",
+        "translation": "It's also shared with worldlings and virtuous people who should also explain it.",
+        "source": "T29n1562_076:0752c15_5"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0752c16_6"
+    },
+    {
+        "source_sentence": "　通六謂神境　　天眼耳他心",
+        "translation": "The divine eye, the divine eye, the divine ear, and the minds of others.",
+        "source": "T29n1562_076:0752c17_0"
+    },
+    {
+        "source_sentence": "　宿住漏盡通　　解脫道慧攝",
+        "translation": "The supernormal knowledge of the extinction of the defilements in the former existences is included in the wisdom of liberation.",
+        "source": "T29n1562_076:0752c18_0"
+    },
+    {
+        "source_sentence": "　四俗他心五　　漏盡通如力",
+        "translation": "4. The worldly minds of others are five, and the end of contamination is like power.",
+        "source": "T29n1562_076:0752c19_0"
+    },
+    {
+        "source_sentence": "　五依四靜慮　　自下地為境",
+        "translation": "The five supports of the four meditations have their own lower realms for their object",
+        "source": "T29n1562_076:0752c20_0"
+    },
+    {
+        "source_sentence": "　聲聞麟喻佛　　二三千無數",
+        "translation": "śrāvakas and lions are metaphors for buddhas, two or three thousand incalculable numbers",
+        "source": "T29n1562_076:0752c21_0"
+    },
+    {
+        "source_sentence": "　未曾由加行　　曾修離染得",
+        "translation": "Never has it been attained by cultivating without defilement through application.",
+        "source": "T29n1562_076:0752c22_0"
+    },
+    {
+        "source_sentence": "　念住初三身　　他心三餘四",
+        "translation": "The foundation of mindfulness is the first three bodies, the other minds are three and the remaining four",
+        "source": "T29n1562_076:0752c23_0"
+    },
+    {
+        "source_sentence": "　天眼耳無記　　餘四通唯善",
+        "translation": "The divine eye and the divine ear are indeterminate; the other four supernormal knowledges are only good.",
+        "source": "T29n1562_076:0752c24_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0752c25_0"
+    },
+    {
+        "source_sentence": "通有六種。",
+        "translation": "There are six kinds in common.",
+        "source": "T29n1562_076:0752c25_1"
+    },
+    {
+        "source_sentence": "一神境智證通。",
+        "translation": "One is the supernormal cognition of the divine realm that realizes penetration.",
+        "source": "T29n1562_076:0752c25_2"
+    },
+    {
+        "source_sentence": "二天眼智證通。",
+        "translation": "The second is the supernormal knowledge of the divine eye that realizes penetration.",
+        "source": "T29n1562_076:0752c25_3"
+    },
+    {
+        "source_sentence": "三天耳智證通。",
+        "translation": "The knowledge of the three divine ears realizes supernormal cognition.",
+        "source": "T29n1562_076:0752c26_4"
+    },
+    {
+        "source_sentence": "四他心智證通。",
+        "translation": "Fourth, knowledge of the minds of others realizes supernormal cognition.",
+        "source": "T29n1562_076:0752c26_5"
+    },
+    {
+        "source_sentence": "五宿住隨念智證通。",
+        "translation": "The five constellations abide in the supernormal knowledge of following mindfulness and realizing penetration.",
+        "source": "T29n1562_076:0752c26_6"
+    },
+    {
+        "source_sentence": "六漏盡智證通。",
+        "translation": "Sixth, knowledge of the extinction of contaminants realizes supernormal cognition.",
+        "source": "T29n1562_076:0752c27_7"
+    },
+    {
+        "source_sentence": "雖六通中第六唯聖。",
+        "translation": "Although the sixth of the six supernormal powers is noble, it's only the sixth.",
+        "source": "T29n1562_076:0752c27_8"
+    },
+    {
+        "source_sentence": "然其前五異生亦得。",
+        "translation": "However, the first five are also attained by ordinary people.",
+        "source": "T29n1562_076:0752c28_9"
+    },
+    {
+        "source_sentence": "依總相說亦共異生。",
+        "translation": "Relying on the general characteristic, it's said that they're also shared with other beings.",
+        "source": "T29n1562_076:0752c28_10"
+    },
+    {
+        "source_sentence": "如是六通解脫道攝。",
+        "translation": "Thus, these six supernormal powers are included in the path of liberation.",
+        "source": "T29n1562_076:0752c29_0"
+    },
+    {
+        "source_sentence": "慧為自性如沙門果。",
+        "translation": "Wisdom is the self-nature of wisdom like the fruit of asceticism.",
+        "source": "T29n1562_076:0752c29_1"
+    },
+    {
+        "source_sentence": "解脫道言顯出障義。",
+        "translation": "The words of the path of liberation reveal the meaning of the hindrances.",
+        "source": "T29n1562_076:0752c29_2"
+    },
+    {
+        "source_sentence": "勝進道中亦容有故。",
+        "translation": "It's because it's allowed to exist in the path of superior advancement.",
+        "source": "T29n1562_076:0753a01_3"
+    },
+    {
+        "source_sentence": "如是通慧無間道無。",
+        "translation": "Thus, the path of penetrating wisdom that's unremitting is absent.",
+        "source": "T29n1562_076:0753a01_4"
+    },
+    {
+        "source_sentence": "此位定遮他心智故。",
+        "translation": "It's because this stage of concentration obscures the cognition of other minds.",
+        "source": "T29n1562_076:0753a02_5"
+    },
+    {
+        "source_sentence": "勿阿羅漢捨無間道。",
+        "translation": "Don't let the arhat abandon the unremitting path.",
+        "source": "T29n1562_076:0753a02_6"
+    },
+    {
+        "source_sentence": "即名亦捨漏盡通故。",
+        "translation": "That's because the name also abandons the contaminants and ends the supernormal ability.",
+        "source": "T29n1562_076:0753a03_7"
+    },
+    {
+        "source_sentence": "品類足說。",
+        "translation": "The categories are sufficient to explain it.",
+        "source": "T29n1562_076:0753a03_8"
+    },
+    {
+        "source_sentence": "善慧是通二應非通。",
+        "translation": "Good wisdom is shared, and the two should not be shared.",
+        "source": "T29n1562_076:0753a04_0"
+    },
+    {
+        "source_sentence": "無記性故。",
+        "translation": "It's because of the indeterminate nature.",
+        "source": "T29n1562_076:0753a04_1"
+    },
+    {
+        "source_sentence": "義各別故。",
+        "translation": "It's because their meanings are distinct.",
+        "source": "T29n1562_076:0753a04_2"
+    },
+    {
+        "source_sentence": "此彼無違。",
+        "translation": "There's no contradiction here and there.",
+        "source": "T29n1562_076:0753a05_0"
+    },
+    {
+        "source_sentence": "彼說所知及所通法。",
+        "translation": "They teach the knowables and the dharmas that are shared.",
+        "source": "T29n1562_076:0753a05_1"
+    },
+    {
+        "source_sentence": "舉諸智慧為能知通。",
+        "translation": "He cites wisdom as the ability to know and penetrate.",
+        "source": "T29n1562_076:0753a05_2"
+    },
+    {
+        "source_sentence": "以顯所知及所通法。",
+        "translation": "It's to show the knowables and the dharmas that are shared.",
+        "source": "T29n1562_076:0753a06_3"
+    },
+    {
+        "source_sentence": "雖諸智慧皆能知通。",
+        "translation": "Even though all wisdom is able to know and penetrate, it's not the same as knowing and understanding.",
+        "source": "T29n1562_076:0753a06_4"
+    },
+    {
+        "source_sentence": "而且說善勝遍緣故。",
+        "translation": "It's also because it's said to be the pervasive condition of goodness.",
+        "source": "T29n1562_076:0753a07_5"
+    },
+    {
+        "source_sentence": "所知所通雖無廣陜。",
+        "translation": "Although there's no extensive explanation of what's known and penetrated, it's said to be the same as that.",
+        "source": "T29n1562_076:0753a07_6"
+    },
+    {
+        "source_sentence": "而能知外有別能通。",
+        "translation": "Instead, they can know that there's a separate ability to penetrate outside.",
+        "source": "T29n1562_076:0753a08_7"
+    },
+    {
+        "source_sentence": "故說所知已復說所通法。",
+        "translation": "That's why it's said to know what's known and then explained the dharmas that are shared.",
+        "source": "T29n1562_076:0753a08_8"
+    },
+    {
+        "source_sentence": "此所辯通唯勝定果。",
+        "translation": "The only thing that's debated here is the result of superior concentration.",
+        "source": "T29n1562_076:0753a09_9"
+    },
+    {
+        "source_sentence": "通無記慧。",
+        "translation": "It's shared with indeterminate wisdom.",
+        "source": "T29n1562_076:0753a09_10"
+    },
+    {
+        "source_sentence": "與彼何違。",
+        "translation": "What's the difference with that?",
+        "source": "T29n1562_076:0753a09_11"
+    },
+    {
+        "source_sentence": "又彼但言通謂善慧。",
+        "translation": "Furthermore, they simply say that it's called good wisdom when it's shared.",
+        "source": "T29n1562_076:0753a10_12"
+    },
+    {
+        "source_sentence": "不言唯善。",
+        "translation": "They don't say it's only good.",
+        "source": "T29n1562_076:0753a10_13"
+    },
+    {
+        "source_sentence": "故亦無違。",
+        "translation": "Therefore, there's no contradiction.",
+        "source": "T29n1562_076:0753a10_14"
+    },
+    {
+        "source_sentence": "如說能知謂諸善智。",
+        "translation": "As it's said, knowing refers to good cognition.",
+        "source": "T29n1562_076:0753a11_0"
+    },
+    {
+        "source_sentence": "豈惡無記皆非智攝。",
+        "translation": "How could it be that bad and indeterminate are not all included in cognition?",
+        "source": "T29n1562_076:0753a11_1"
+    },
+    {
+        "source_sentence": "彼此通別應作四句。",
+        "translation": "They are mutually exclusive and distinct, so four sentences should be made.",
+        "source": "T29n1562_076:0753a11_2"
+    },
+    {
+        "source_sentence": "有彼非此。",
+        "translation": "There's what's here and what's not here.",
+        "source": "T29n1562_076:0753a12_3"
+    },
+    {
+        "source_sentence": "謂除四通所餘善慧。",
+        "translation": "It's except for the four supernormal powers and the remaining good wisdom.",
+        "source": "T29n1562_076:0753a12_4"
+    },
+    {
+        "source_sentence": "有此非彼。",
+        "translation": "There's this and not that.",
+        "source": "T29n1562_076:0753a13_5"
+    },
+    {
+        "source_sentence": "謂解脫道二無記慧。",
+        "translation": "It's the two kinds of indeterminate wisdom that are the path to liberation.",
+        "source": "T29n1562_076:0753a13_6"
+    },
+    {
+        "source_sentence": "有彼亦此。",
+        "translation": "If there's that, it's also this.",
+        "source": "T29n1562_076:0753a13_7"
+    },
+    {
+        "source_sentence": "謂即四通。",
+        "translation": "These are the four supernormal powers.",
+        "source": "T29n1562_076:0753a14_8"
+    },
+    {
+        "source_sentence": "有非彼此。",
+        "translation": "There's something that's not the same as each other.",
+        "source": "T29n1562_076:0753a14_9"
+    },
+    {
+        "source_sentence": "謂除前說。",
+        "translation": "It means that it's except for the previous explanation.",
+        "source": "T29n1562_076:0753a14_10"
+    },
+    {
+        "source_sentence": "除他心漏盡。",
+        "translation": "It removes the contaminants from other minds and ends them.",
+        "source": "T29n1562_076:0753a14_11"
+    },
+    {
+        "source_sentence": "餘四俗智攝。",
+        "translation": "The other four are included in conventional cognition.",
+        "source": "T29n1562_076:0753a15_12"
+    },
+    {
+        "source_sentence": "西方諸師說。",
+        "translation": "The masters of the West say.",
+        "source": "T29n1562_076:0753a15_13"
+    },
+    {
+        "source_sentence": "宿住通六智。",
+        "translation": "Constellations and abodes are shared with the six kinds of cognition.",
+        "source": "T29n1562_076:0753a15_14"
+    },
+    {
+        "source_sentence": "謂俗法類及苦集道。",
+        "translation": "They are the secular dharmas and the paths of suffering and accumulation.",
+        "source": "T29n1562_076:0753a15_15"
+    },
+    {
+        "source_sentence": "俗智能了過去俗事。",
+        "translation": "The layman's intelligence understands the worldly affairs of the past.",
+        "source": "T29n1562_076:0753a16_16"
+    },
+    {
+        "source_sentence": "餘隨所應各緣自境。",
+        "translation": "The other follows what's appropriate, each conditioned by its own object.",
+        "source": "T29n1562_076:0753a16_17"
+    },
+    {
+        "source_sentence": "然觀經意唯俗智攝。",
+        "translation": "However, the meaning of the contemplation sūtras is only included in conventional wisdom.",
+        "source": "T29n1562_076:0753a17_18"
+    },
+    {
+        "source_sentence": "如說隨憶無量宿住。",
+        "translation": "As it's said, they follow the recollection of measureless past lives.",
+        "source": "T29n1562_076:0753a17_19"
+    },
+    {
+        "source_sentence": "謂或一生乃至廣說。",
+        "translation": "It means that sometimes it's a lifetime or even a detailed explanation.",
+        "source": "T29n1562_076:0753a18_20"
+    },
+    {
+        "source_sentence": "非無漏智此行相轉。",
+        "translation": "It's not the uncontaminated cognition that transforms this aspect of practice.",
+        "source": "T29n1562_076:0753a18_21"
+    },
+    {
+        "source_sentence": "他心通五智攝。",
+        "translation": "The minds of others are subsumed by the five kinds of cognition.",
+        "source": "T29n1562_076:0753a19_22"
+    },
+    {
+        "source_sentence": "謂法類道世俗他心。",
+        "translation": "It's the Dharma-nature path that's worldly and conventional in other minds.",
+        "source": "T29n1562_076:0753a19_23"
+    },
+    {
+        "source_sentence": "漏盡通如力說。",
+        "translation": "The extinction of contaminants is explained in terms of power.",
+        "source": "T29n1562_076:0753a20_24"
+    },
+    {
+        "source_sentence": "謂或六或十智。",
+        "translation": "It's either six or ten kinds of cognition.",
+        "source": "T29n1562_076:0753a20_25"
+    },
+    {
+        "source_sentence": "由此已顯漏盡智通。",
+        "translation": "Thus, it's already shown that the knowledge of the end of contaminants is shared.",
+        "source": "T29n1562_076:0753a20_26"
+    },
+    {
+        "source_sentence": "依一切地緣一切境。",
+        "translation": "They rely on all the grounds to refer to all objects.",
+        "source": "T29n1562_076:0753a21_27"
+    },
+    {
+        "source_sentence": "前之五通依四靜慮不依無色。",
+        "translation": "The first five supernormal knowledges rely on the four meditations and not on formlessness.",
+        "source": "T29n1562_076:0753a21_28"
+    },
+    {
+        "source_sentence": "近分中間彼無五通所依定故。",
+        "translation": "In the near part, there are no five supernormal powers that they rely on for their concentration.",
+        "source": "T29n1562_076:0753a22_29"
+    },
+    {
+        "source_sentence": "要攝支定是五通依。",
+        "translation": "The essentially collected limbs of concentration are the five supernormal bases.",
+        "source": "T29n1562_076:0753a23_30"
+    },
+    {
+        "source_sentence": "非漏盡通亦不依彼。",
+        "translation": "They don't have the ability to end contaminants and don't rely on them.",
+        "source": "T29n1562_076:0753a23_31"
+    },
+    {
+        "source_sentence": "諸地皆能緣漏盡故。",
+        "translation": "It's because all the stages can end the contaminants as a condition.",
+        "source": "T29n1562_076:0753a24_32"
+    },
+    {
+        "source_sentence": "不待觀色為加行故。",
+        "translation": "It's because they don't need to contemplate form as an applied practice.",
+        "source": "T29n1562_076:0753a24_33"
+    },
+    {
+        "source_sentence": "前三通境無色不能緣。",
+        "translation": "The first three supernormal cognitions are without form and can't be conditioned by formlessness.",
+        "source": "T29n1562_076:0753a25_0"
+    },
+    {
+        "source_sentence": "由此三通但別緣色。",
+        "translation": "These three supernormal knowledges have form for their specific object.",
+        "source": "T29n1562_076:0753a25_1"
+    },
+    {
+        "source_sentence": "故修他心通色為門。",
+        "translation": "Therefore, cultivating other minds that penetrate form is the gate.",
+        "source": "T29n1562_076:0753a26_0"
+    },
+    {
+        "source_sentence": "故修宿住通漸次憶念。",
+        "translation": "Therefore, the cultivation of past lives leads gradually to recollection.",
+        "source": "T29n1562_076:0753a26_1"
+    },
+    {
+        "source_sentence": "分位差別方得成滿。",
+        "translation": "Only when there are distinctions in status can they be fulfilled.",
+        "source": "T29n1562_076:0753a27_0"
+    },
+    {
+        "source_sentence": "於加行中必觀色故。",
+        "translation": "It's because they must contemplate form in the context of applied practices.",
+        "source": "T29n1562_076:0753a27_1"
+    },
+    {
+        "source_sentence": "依無色地無如是能。",
+        "translation": "Depending on the formless realm, there's no such ability.",
+        "source": "T29n1562_076:0753a27_2"
+    },
+    {
+        "source_sentence": "若爾中間及五近分。",
+        "translation": "If that's the case, then the intermediate and the five proximate parts.",
+        "source": "T29n1562_076:0753a28_3"
+    },
+    {
+        "source_sentence": "亦容緣色應有五通。",
+        "translation": "It should also allow the five supernormal powers to be conditioned by form.",
+        "source": "T29n1562_076:0753a28_4"
+    },
+    {
+        "source_sentence": "不爾由前所說因故。",
+        "translation": "It's not because of the causes explained earlier.",
+        "source": "T29n1562_076:0753a29_5"
+    },
+    {
+        "source_sentence": "謂攝支定是五通依。",
+        "translation": "It means that the gathering of the limbs is the five supernormal bases.",
+        "source": "T29n1562_076:0753a29_6"
+    },
+    {
+        "source_sentence": "若不攝支等持劣故。",
+        "translation": "If they don't gather the limbs and so forth, it's because their support is weak.",
+        "source": "T29n1562_076:0753b01_7"
+    },
+    {
+        "source_sentence": "又彼止觀隨一減故。",
+        "translation": "Furthermore, it's because they stop and contemplate with one decrease.",
+        "source": "T29n1562_076:0753b01_8"
+    },
+    {
+        "source_sentence": "若爾何緣有漏盡通。",
+        "translation": "If that's the case, what causes the contaminants to cease and penetrate?",
+        "source": "T29n1562_076:0753b02_9"
+    },
+    {
+        "source_sentence": "樂苦遲速地皆能盡漏。",
+        "translation": "The stages of pleasure, suffering, delay, and speed can all end the contaminants.",
+        "source": "T29n1562_076:0753b02_10"
+    },
+    {
+        "source_sentence": "故五是別修殊勝功德。",
+        "translation": "Therefore, the five are distinctively cultivated superior qualities.",
+        "source": "T29n1562_076:0753b03_11"
+    },
+    {
+        "source_sentence": "要殊勝地方能發起。",
+        "translation": "It's necessary for a superior place to be able to give rise to it.",
+        "source": "T29n1562_076:0753b03_12"
+    },
+    {
+        "source_sentence": "若宿住通不依無色。",
+        "translation": "If the past lives are shared, they don't rely on formlessness.",
+        "source": "T29n1562_076:0753b04_13"
+    },
+    {
+        "source_sentence": "應不能憶無色界事。",
+        "translation": "They shouldn't be able to remember the things in the formless realm.",
+        "source": "T29n1562_076:0753b04_14"
+    },
+    {
+        "source_sentence": "契經何故說佛世尊無上法中。",
+        "translation": "Why does the sūtra explain that the Bhagavān, the Buddha, teaches the unsurpassed Dharma?",
+        "source": "T29n1562_076:0753b05_15"
+    },
+    {
+        "source_sentence": "言佛能憶過去有色無色等事。",
+        "translation": "It means that the Buddha can recall form and formless things in the past.",
+        "source": "T29n1562_076:0753b05_16"
+    },
+    {
+        "source_sentence": "此是決定比智所知。",
+        "translation": "This is the knowledge of certainty that's known by inference.",
+        "source": "T29n1562_076:0753b06_17"
+    },
+    {
+        "source_sentence": "非宿住通。",
+        "translation": "It's not the supernormal power of past lives.",
+        "source": "T29n1562_076:0753b07_18"
+    },
+    {
+        "source_sentence": "故無有失。",
+        "translation": "Therefore, there's no mistake.",
+        "source": "T29n1562_076:0753b07_19"
+    },
+    {
+        "source_sentence": "謂諸外道。",
+        "translation": "It's called a non-Buddhist.",
+        "source": "T29n1562_076:0753b07_20"
+    },
+    {
+        "source_sentence": "若見有情欲色命終不知生處。",
+        "translation": "If he sees sentient beings who want form and don't know where they'll be born at the end of their life.",
+        "source": "T29n1562_076:0753b07_21"
+    },
+    {
+        "source_sentence": "執有情類死已斷滅。",
+        "translation": "They cling to the idea that all sentient beings have died and ceased.",
+        "source": "T29n1562_076:0753b08_22"
+    },
+    {
+        "source_sentence": "見生欲色不知所從。",
+        "translation": "They see the form of desire that arises and don't know where to follow it.",
+        "source": "T29n1562_076:0753b08_23"
+    },
+    {
+        "source_sentence": "便執有情本無而有。",
+        "translation": "They then cling to sentient beings who are originally nonexistent but exist.",
+        "source": "T29n1562_076:0753b09_24"
+    },
+    {
+        "source_sentence": "聲聞獨覺見彼命終。",
+        "translation": "śrāvakas and pratyekbuddhas see their lives end.",
+        "source": "T29n1562_076:0753b09_25"
+    },
+    {
+        "source_sentence": "二萬劫中不見所在。",
+        "translation": "In 20,000 eons, he doesn't see where it is.",
+        "source": "T29n1562_076:0753b10_26"
+    },
+    {
+        "source_sentence": "便謂彼歿生於空處。",
+        "translation": "They'll then say that they're born in an empty place.",
+        "source": "T29n1562_076:0753b10_27"
+    },
+    {
+        "source_sentence": "而彼或生上不盡壽命終。",
+        "translation": "Perhaps they'll be born up there and won't end their life.",
+        "source": "T29n1562_076:0753b11_28"
+    },
+    {
+        "source_sentence": "如是乃至八萬劫中不見所在。",
+        "translation": "It doesn't appear to be there for 80,000 eons.",
+        "source": "T29n1562_076:0753b11_29"
+    },
+    {
+        "source_sentence": "便謂彼歿生於非想非非想處。",
+        "translation": "It's then said that anger arises in the sphere of neither perception nor non-perception.",
+        "source": "T29n1562_076:0753b12_30"
+    },
+    {
+        "source_sentence": "而或生下地經二三生等。",
+        "translation": "Or it might give rise to the two or three births of the lower-ground sūtras and so forth.",
+        "source": "T29n1562_076:0753b13_31"
+    },
+    {
+        "source_sentence": "見生欲色時謂所從亦爾。",
+        "translation": "When he sees the form of desire that arises, he says it's the same as what he follows.",
+        "source": "T29n1562_076:0753b13_32"
+    },
+    {
+        "source_sentence": "世尊觀彼死時生時。",
+        "translation": "Bhagavān observes them when they die and are born.",
+        "source": "T29n1562_076:0753b14_33"
+    },
+    {
+        "source_sentence": "如實比知所生從處。",
+        "translation": "They truly know the place where they're produced.",
+        "source": "T29n1562_076:0753b14_34"
+    },
+    {
+        "source_sentence": "有盡壽量。",
+        "translation": "There's the limit of life span.",
+        "source": "T29n1562_076:0753b15_35"
+    },
+    {
+        "source_sentence": "有中殀者。",
+        "translation": "There's a middle way.",
+        "source": "T29n1562_076:0753b15_36"
+    },
+    {
+        "source_sentence": "雖亦比知非不決定。",
+        "translation": "Even though it's also inference, it's not indeterminate.",
+        "source": "T29n1562_076:0753b15_37"
+    },
+    {
+        "source_sentence": "故與餘聖比知有別。",
+        "translation": "Therefore, it's distinct from the other noble cognitions.",
+        "source": "T29n1562_076:0753b16_38"
+    },
+    {
+        "source_sentence": "修神境等前三通時。",
+        "translation": "When he cultivates the first three supernormal powers, such as spiritual objects and so forth.",
+        "source": "T29n1562_076:0753b16_39"
+    },
+    {
+        "source_sentence": "思輕光聲以為加行。",
+        "translation": "They think lightly of the sound of light as an applied practice.",
+        "source": "T29n1562_076:0753b17_40"
+    },
+    {
+        "source_sentence": "成已自在隨所欲為。",
+        "translation": "Having accomplished it, he's free to do as he wishes.",
+        "source": "T29n1562_076:0753b17_41"
+    },
+    {
+        "source_sentence": "諸有欲修他心通者。",
+        "translation": "There are those who want to cultivate the minds of others with supernormal abilities.",
+        "source": "T29n1562_076:0753b18_42"
+    },
+    {
+        "source_sentence": "先審觀己身心二相。",
+        "translation": "First, he examines the two characteristics of his body and mind.",
+        "source": "T29n1562_076:0753b18_43"
+    },
+    {
+        "source_sentence": "前後變異展轉相隨。",
+        "translation": "The prior and subsequent transformations are mutually exclusive.",
+        "source": "T29n1562_076:0753b19_44"
+    },
+    {
+        "source_sentence": "後復審觀他身心相。",
+        "translation": "He then further examines the characteristics of other people's bodies and minds.",
+        "source": "T29n1562_076:0753b19_45"
+    },
+    {
+        "source_sentence": "由此加行漸次得成。",
+        "translation": "As a result, these applied practices are gradually accomplished in order.",
+        "source": "T29n1562_076:0753b20_46"
+    },
+    {
+        "source_sentence": "成已不觀自心諸色。",
+        "translation": "After it's accomplished, he doesn't contemplate the forms of his own mind.",
+        "source": "T29n1562_076:0753b20_47"
+    },
+    {
+        "source_sentence": "於他心等能如實知。",
+        "translation": "They can truly know the minds of others and so forth.",
+        "source": "T29n1562_076:0753b21_48"
+    },
+    {
+        "source_sentence": "諸有欲修宿住通者。",
+        "translation": "Those who want to cultivate the supernormal power of past lives.",
+        "source": "T29n1562_076:0753b21_49"
+    },
+    {
+        "source_sentence": "先自審察次前滅心。",
+        "translation": "He first examines it himself, then he extinguishes his mind.",
+        "source": "T29n1562_076:0753b22_0"
+    },
+    {
+        "source_sentence": "漸復逆觀此生分位。",
+        "translation": "Gradually, they'll again and again contemplate the stages of this birth.",
+        "source": "T29n1562_076:0753b22_1"
+    },
+    {
+        "source_sentence": "前前差別至結生心。",
+        "translation": "The prior and subsequent distinctions up to the mind that gives rise to fetters.",
+        "source": "T29n1562_076:0753b22_2"
+    },
+    {
+        "source_sentence": "乃至能憶知中有前一念。",
+        "translation": "Even if there's a prior thought that can be recalled, it's not the same as the previous one.",
+        "source": "T29n1562_076:0753b23_3"
+    },
+    {
+        "source_sentence": "名自宿住加行已成。",
+        "translation": "They're called having accomplished the applied practices of their own past lives.",
+        "source": "T29n1562_076:0753b24_0"
+    },
+    {
+        "source_sentence": "為憶念他加行亦爾。",
+        "translation": "It's likewise for the purpose of remembering other applied practices.",
+        "source": "T29n1562_076:0753b24_1"
+    },
+    {
+        "source_sentence": "此通初起唯次第知。",
+        "translation": "This refers to the first arising that's only sequential knowledge.",
+        "source": "T29n1562_076:0753b24_2"
+    },
+    {
+        "source_sentence": "串習成時亦能超憶諸所憶事。",
+        "translation": "When they are cultivated repeatedly, they'll also be able to transcend recollection of the things they remember.",
+        "source": "T29n1562_076:0753b25_3"
+    },
+    {
+        "source_sentence": "要曾領受憶淨居者。",
+        "translation": "He must have received and remembered the pure abode once.",
+        "source": "T29n1562_076:0753b26_4"
+    },
+    {
+        "source_sentence": "昔曾聞故從無色歿來生此者。",
+        "translation": "Those who were born here in the past because they've heard it before from the formless realm.",
+        "source": "T29n1562_076:0753b26_5"
+    },
+    {
+        "source_sentence": "依他相續初起此通。",
+        "translation": "Relying on the continuity of other things, this supernormal power first arises.",
+        "source": "T29n1562_076:0753b27_6"
+    },
+    {
+        "source_sentence": "所餘亦依自相續起。",
+        "translation": "The others also arise in dependence on their own continuity.",
+        "source": "T29n1562_076:0753b27_7"
+    },
+    {
+        "source_sentence": "如是五通境唯自下。",
+        "translation": "Thus, these five supernormal objects are only self-contained.",
+        "source": "T29n1562_076:0753b28_8"
+    },
+    {
+        "source_sentence": "且如神境隨依何地。",
+        "translation": "It's also like the place where the mental object follows its support.",
+        "source": "T29n1562_076:0753b28_9"
+    },
+    {
+        "source_sentence": "於自下地行化自在。",
+        "translation": "He's free to practice and transform himself in his own place.",
+        "source": "T29n1562_076:0753b29_10"
+    },
+    {
+        "source_sentence": "於上不然。",
+        "translation": "It's not like the above.",
+        "source": "T29n1562_076:0753b29_11"
+    },
+    {
+        "source_sentence": "勢力劣故。",
+        "translation": "It's because their power is weak.",
+        "source": "T29n1562_076:0753b29_12"
+    },
+    {
+        "source_sentence": "餘四亦爾。",
+        "translation": "The other four are likewise.",
+        "source": "T29n1562_076:0753c01_13"
+    },
+    {
+        "source_sentence": "隨其所應。",
+        "translation": "According to what they should be.",
+        "source": "T29n1562_076:0753c01_14"
+    },
+    {
+        "source_sentence": "是故無能取無色界他心宿住為二通境。",
+        "translation": "Therefore, there's no one who can take the past lives of other minds in the formless realm as two shared objects.",
+        "source": "T29n1562_076:0753c01_15"
+    },
+    {
+        "source_sentence": "即此五通於世界境。",
+        "translation": "These five supernormal knowledges are found in the worldly realm.",
+        "source": "T29n1562_076:0753c02_16"
+    },
+    {
+        "source_sentence": "作用廣陜諸聖不同。",
+        "translation": "Their functions are vast and different from those of the sages.",
+        "source": "T29n1562_076:0753c03_0"
+    },
+    {
+        "source_sentence": "謂大聲聞麟喻大覺不極作意。",
+        "translation": "It means that great śrāvakas, lions, metaphors, and great enlightened ones aren't extremely attentive.",
+        "source": "T29n1562_076:0753c03_1"
+    },
+    {
+        "source_sentence": "如次能於一二三千諸世界境。",
+        "translation": "Thus, in order, he's able to perceive the objects of 1, 2, 3, and 3,000 worlds.",
+        "source": "T29n1562_076:0753c04_2"
+    },
+    {
+        "source_sentence": "起行化等自在作用。",
+        "translation": "They give rise to the unimpeded effects of practice and transformation.",
+        "source": "T29n1562_076:0753c04_3"
+    },
+    {
+        "source_sentence": "若極作意如次能於二千三千無數世界。",
+        "translation": "If he's extremely attentive, he'll be able to follow the order of the two thousand 3,000 incalculable worlds.",
+        "source": "T29n1562_076:0753c05_4"
+    },
+    {
+        "source_sentence": "如是五通若有殊勝勢用猛利。",
+        "translation": "Thus, if these five supernormal powers are superior and powerful, then they'll attain the fruit of enlightenment.",
+        "source": "T29n1562_076:0753c06_5"
+    },
+    {
+        "source_sentence": "從無始來曾未得者由加行得。",
+        "translation": "Those who haven't attained it since beginningless time attain it by applied practices.",
+        "source": "T29n1562_076:0753c07_0"
+    },
+    {
+        "source_sentence": "若曾串習無勝勢用。",
+        "translation": "If someone has cultivated it in the past, there's no superior power or function.",
+        "source": "T29n1562_076:0753c07_1"
+    },
+    {
+        "source_sentence": "及彼種類由離染得。",
+        "translation": "and those types are attained by being free of defilement.",
+        "source": "T29n1562_076:0753c08_2"
+    },
+    {
+        "source_sentence": "若起現前皆由加行。",
+        "translation": "If it arises in the present, it's all due to applied practices.",
+        "source": "T29n1562_076:0753c08_3"
+    },
+    {
+        "source_sentence": "佛於一切皆離染得。",
+        "translation": "In everything, the Buddha is free of defilement and attains it.",
+        "source": "T29n1562_076:0753c09_4"
+    },
+    {
+        "source_sentence": "隨欲現前不由加行。",
+        "translation": "It's manifested according to desire and doesn't result from applied practices.",
+        "source": "T29n1562_076:0753c09_5"
+    },
+    {
+        "source_sentence": "三乘聖者後有異生。",
+        "translation": "After the sages of the three vehicles, there's an ordinary person.",
+        "source": "T29n1562_076:0753c10_6"
+    },
+    {
+        "source_sentence": "通得曾得未曾得者。",
+        "translation": "It's shared with those who have attained what was attained and haven't attained what wasn't attained.",
+        "source": "T29n1562_076:0753c10_7"
+    },
+    {
+        "source_sentence": "所餘異生唯得曾得。",
+        "translation": "The rest of the worldlings only attain what they once attained.",
+        "source": "T29n1562_076:0753c11_0"
+    },
+    {
+        "source_sentence": "約四念住辯六通者。",
+        "translation": "He who defends the six supernormal powers in terms of the four abodes of mindfulness.",
+        "source": "T29n1562_076:0753c11_1"
+    },
+    {
+        "source_sentence": "約境約體二義有殊。",
+        "translation": "There's a difference between the two meanings of object and essence in terms of object and essence.",
+        "source": "T29n1562_076:0753c11_2"
+    },
+    {
+        "source_sentence": "有說二通即天眼耳。",
+        "translation": "Some say that the two supernormal powers are the divine eye.",
+        "source": "T29n1562_076:0753c12_3"
+    },
+    {
+        "source_sentence": "所餘四種以慧為性。",
+        "translation": "The other four kinds have wisdom as their nature.",
+        "source": "T29n1562_076:0753c12_4"
+    },
+    {
+        "source_sentence": "彼說眼耳通是身念住境。",
+        "translation": "It's said that the eye and ear penetration are the objects of body, mindfulness, and abode.",
+        "source": "T29n1562_076:0753c13_5"
+    },
+    {
+        "source_sentence": "餘四皆是法念住境。",
+        "translation": "The other four are all objects of mindfulness of dharmas.",
+        "source": "T29n1562_076:0753c13_6"
+    },
+    {
+        "source_sentence": "然實六種皆慧為性。",
+        "translation": "However, the six real kinds are all wisdom as their nature.",
+        "source": "T29n1562_076:0753c14_7"
+    },
+    {
+        "source_sentence": "經說皆能了達境故。",
+        "translation": "The sūtras say that they're all capable of comprehending objects.",
+        "source": "T29n1562_076:0753c14_8"
+    },
+    {
+        "source_sentence": "由此皆是法念住境。",
+        "translation": "As a result, they are all objects of mindfulness of dharmas.",
+        "source": "T29n1562_076:0753c15_9"
+    },
+    {
+        "source_sentence": "若約體辯則六通中。",
+        "translation": "If we discuss it in terms of essence, then there are the six supernormal powers.",
+        "source": "T29n1562_076:0753c15_10"
+    },
+    {
+        "source_sentence": "前三唯身。",
+        "translation": "The first three are only body-only.",
+        "source": "T29n1562_076:0753c16_11"
+    },
+    {
+        "source_sentence": "但緣色故。",
+        "translation": "It's only because it's conditioned by form.",
+        "source": "T29n1562_076:0753c16_12"
+    },
+    {
+        "source_sentence": "謂神境通緣外四處。",
+        "translation": "These are the four places outside of the supernormal powers that have supernormal cognition as their object.",
+        "source": "T29n1562_076:0753c16_13"
+    },
+    {
+        "source_sentence": "天眼緣色。",
+        "translation": "The divine eye is conditioned by form.",
+        "source": "T29n1562_076:0753c17_14"
+    },
+    {
+        "source_sentence": "天耳緣聲。",
+        "translation": "The divine ear is conditioned by sound.",
+        "source": "T29n1562_076:0753c17_15"
+    },
+    {
+        "source_sentence": "若爾何緣說死生智知有情類。",
+        "translation": "If that's the case, why does it say that the knowledge of death and birth knows all sentient beings?",
+        "source": "T29n1562_076:0753c17_16"
+    },
+    {
+        "source_sentence": "由現身中成身語意諸惡行等。",
+        "translation": "It's because of the bad physical, verbal, and mental actions that are formed in the present body.",
+        "source": "T29n1562_076:0753c18_17"
+    },
+    {
+        "source_sentence": "非天眼通能知此事。",
+        "translation": "It's not the divine eye that can know this matter.",
+        "source": "T29n1562_076:0753c19_18"
+    },
+    {
+        "source_sentence": "有別勝智是通眷屬。",
+        "translation": "There's distinctive superior cognition that's shared with the dependents.",
+        "source": "T29n1562_076:0753c19_19"
+    },
+    {
+        "source_sentence": "依聖身起能如是知。",
+        "translation": "Relying on the arising of the noble body, they can thus know.",
+        "source": "T29n1562_076:0753c20_20"
+    },
+    {
+        "source_sentence": "是天眼通力所引故。",
+        "translation": "It's because it's induced by the supernormal power of the divine eye.",
+        "source": "T29n1562_076:0753c20_21"
+    },
+    {
+        "source_sentence": "與通合立死生智名。",
+        "translation": "Together with the supernormal knowledge of death and birth, it's called wisdom.",
+        "source": "T29n1562_076:0753c21_0"
+    },
+    {
+        "source_sentence": "他心智通三念住攝。",
+        "translation": "The knowledge of the minds of others is collected in the three abodes of mindfulness.",
+        "source": "T29n1562_076:0753c21_1"
+    },
+    {
+        "source_sentence": "謂受心法緣心等故。",
+        "translation": "It's because the mind that receives mental dharmas conditioned by mind and so forth.",
+        "source": "T29n1562_076:0753c21_2"
+    },
+    {
+        "source_sentence": "宿住漏盡經主欲令一一皆通四念住攝。",
+        "translation": "The master of the sutra on the extinction of contaminants in the past lives wants to make each one of them all be included in the four abodes of mindfulness.",
+        "source": "T29n1562_076:0753c22_3"
+    },
+    {
+        "source_sentence": "通緣五蘊一切境故。",
+        "translation": "It's because it refers to all the objects of the five aggregates.",
+        "source": "T29n1562_076:0753c23_4"
+    },
+    {
+        "source_sentence": "而實宿住法念住攝。",
+        "translation": "It's really the mindful abiding of past lives that's included in the mindful abiding of dharmas.",
+        "source": "T29n1562_076:0753c23_5"
+    },
+    {
+        "source_sentence": "雖契經說念曾領受苦樂等事。",
+        "translation": "Even though the sūtras say that mindfulness has experienced painful and pleasant things like suffering and happiness.",
+        "source": "T29n1562_076:0753c24_6"
+    },
+    {
+        "source_sentence": "是憶前生苦樂等受所領眾具。",
+        "translation": "It's the recollection of the many things that were received in previous lives, such as suffering and pleasure.",
+        "source": "T29n1562_076:0753c25_0"
+    },
+    {
+        "source_sentence": "即是雜緣法念住攝。",
+        "translation": "That is, it's the mindful abode of mixed conditions and dharmas that are collected.",
+        "source": "T29n1562_076:0753c25_1"
+    },
+    {
+        "source_sentence": "漏盡如力或法或四。",
+        "translation": "The exhaustion of contaminants is like the power, whether it's a dharma or four.",
+        "source": "T29n1562_076:0753c26_2"
+    },
+    {
+        "source_sentence": "不應定言四念住攝。",
+        "translation": "It shouldn't be said with certainty that the four abodes of mindfulness are included.",
+        "source": "T29n1562_076:0753c26_3"
+    },
+    {
+        "source_sentence": "若約善等分別六通。",
+        "translation": "Suppose we discriminate the six supernormal powers in terms of goodness and so forth.",
+        "source": "T29n1562_076:0753c27_4"
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "translation": "Some other masters say:",
+        "source": "T29n1562_076:0753c27_5"
+    },
+    {
+        "source_sentence": "六皆是善而實眼耳唯無記性。",
+        "translation": "Sixth, they are all good but the real eye and ear only have indeterminate natures.",
+        "source": "T29n1562_076:0753c27_6"
+    },
+    {
+        "source_sentence": "餘之四通一向是善。",
+        "translation": "The other four supernormal knowledges are always good.",
+        "source": "T29n1562_076:0753c28_7"
+    },
+    {
+        "source_sentence": "經主於此作是釋言。",
+        "translation": "Here, the master of the sūtras explains it this way.",
+        "source": "T29n1562_076:0753c29_0"
+    },
+    {
+        "source_sentence": "天眼耳通無記性攝。",
+        "translation": "The divine eye and ear are included in the indeterminate nature of supernormal cognition.",
+        "source": "T29n1562_076:0753c29_1"
+    },
+    {
+        "source_sentence": "是眼耳識相應慧故。",
+        "translation": "It's because it's the wisdom associated with the eye and ear consciousness.",
+        "source": "T29n1562_076:0753c29_2"
+    },
+    {
+        "source_sentence": "若爾寧說依四靜慮。",
+        "translation": "If that's the case, it's better to say that they rely on the four meditations.",
+        "source": "T29n1562_076:0754a01_3"
+    },
+    {
+        "source_sentence": "隨根說故。",
+        "translation": "It's because it's explained according to the faculties.",
+        "source": "T29n1562_076:0754a01_4"
+    },
+    {
+        "source_sentence": "亦無有失。",
+        "translation": "There's no mistake, either.",
+        "source": "T29n1562_076:0754a02_5"
+    },
+    {
+        "source_sentence": "謂所依止眼耳二根。",
+        "translation": "It's the two faculties of eye and ear that are relied upon.",
+        "source": "T29n1562_076:0754a02_6"
+    },
+    {
+        "source_sentence": "由四靜慮力所引起即彼地攝。",
+        "translation": "It's produced by the power of the four meditations, which are included in that place.",
+        "source": "T29n1562_076:0754a02_7"
+    },
+    {
+        "source_sentence": "故依四地通依根故說依四言。",
+        "translation": "Therefore, it's said to rely on the four words that rely on the four grounds because they all rely on the faculties.",
+        "source": "T29n1562_076:0754a03_8"
+    },
+    {
+        "source_sentence": "或此依通無間道說。",
+        "translation": "Perhaps this is based on the teaching that it's shared with the unremitting path.",
+        "source": "T29n1562_076:0754a04_9"
+    },
+    {
+        "source_sentence": "通無間道依四地故。",
+        "translation": "It's because the unremitting path relies on the four stages.",
+        "source": "T29n1562_076:0754a04_10"
+    },
+    {
+        "source_sentence": "此釋不然。",
+        "translation": "This explanation is not the same.",
+        "source": "T29n1562_076:0754a05_11"
+    },
+    {
+        "source_sentence": "六通皆是解脫道攝。",
+        "translation": "The six supernormal powers are all included in the path of liberation.",
+        "source": "T29n1562_076:0754a05_12"
+    },
+    {
+        "source_sentence": "眼耳二識是解脫道。",
+        "translation": "The two consciousnesses of eye and ear are the path of liberation.",
+        "source": "T29n1562_076:0754a05_13"
+    },
+    {
+        "source_sentence": "理不成故。",
+        "translation": "It's because the principle isn't established.",
+        "source": "T29n1562_076:0754a06_14"
+    },
+    {
+        "source_sentence": "應作是說。",
+        "translation": "You should say this.",
+        "source": "T29n1562_076:0754a06_15"
+    },
+    {
+        "source_sentence": "四靜慮中有定相應。",
+        "translation": "In the fourth concentration, there's a concentration associated with concentration.",
+        "source": "T29n1562_076:0754a06_16"
+    },
+    {
+        "source_sentence": "勝無記慧。",
+        "translation": "It's superior to indeterminate wisdom.",
+        "source": "T29n1562_076:0754a07_17"
+    },
+    {
+        "source_sentence": "能引自地勝大種果。",
+        "translation": "It's the fruit of the superior great seeds that can lead to their own ground.",
+        "source": "T29n1562_076:0754a07_18"
+    },
+    {
+        "source_sentence": "此慧現前便引自地天眼天耳。",
+        "translation": "When this wisdom is manifested, it then leads to the divine eye and divine ear of the gods of his own land.",
+        "source": "T29n1562_076:0754a08_0"
+    },
+    {
+        "source_sentence": "令現在前為所依根發眼耳識。",
+        "translation": "It causes the eye and ear consciousness to arise in the present for the faculty that's relied upon.",
+        "source": "T29n1562_076:0754a08_1"
+    },
+    {
+        "source_sentence": "故眼耳二識相應慧非通。",
+        "translation": "Therefore, wisdom associated with the two consciousnesses of eye and ear isn't shared.",
+        "source": "T29n1562_076:0754a09_2"
+    },
+    {
+        "source_sentence": "但可說言是通所引。",
+        "translation": "It can simply be said that it's generally cited.",
+        "source": "T29n1562_076:0754a10_0"
+    },
+    {
+        "source_sentence": "如契經說無學三明。",
+        "translation": "As the sūtras say, there are three insights of post-learning.",
+        "source": "T29n1562_076:0754a10_1"
+    },
+    {
+        "source_sentence": "彼於六通以何為性。",
+        "translation": "What's the nature of the six supernormal powers?",
+        "source": "T29n1562_076:0754a10_2"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0754a11_3"
+    },
+    {
+        "source_sentence": "　第五二六明　　治三際愚故",
+        "translation": "The fifth, the second and sixth insights are to counteract the folly of the three realms",
+        "source": "T29n1562_076:0754a12_0"
+    },
+    {
+        "source_sentence": "　後真二假說　　學有闇非明",
+        "translation": "The latter truth is explained in two hypotheses, and the learner has darkness and not light.",
+        "source": "T29n1562_076:0754a13_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0754a14_0"
+    },
+    {
+        "source_sentence": "言三明者。",
+        "translation": "He refers to the three kinds of insight.",
+        "source": "T29n1562_076:0754a14_1"
+    },
+    {
+        "source_sentence": "一宿住智證明。",
+        "translation": "One is the cognition of past lives that proves it.",
+        "source": "T29n1562_076:0754a14_2"
+    },
+    {
+        "source_sentence": "二死生智證明。",
+        "translation": "The second is the knowledge of death and birth that proves it.",
+        "source": "T29n1562_076:0754a14_3"
+    },
+    {
+        "source_sentence": "三漏盡智證明。",
+        "translation": "The third is the cognition of the end of contaminants that proves it.",
+        "source": "T29n1562_076:0754a15_4"
+    },
+    {
+        "source_sentence": "如其次第。",
+        "translation": "It's in order.",
+        "source": "T29n1562_076:0754a15_5"
+    },
+    {
+        "source_sentence": "以無學位。",
+        "translation": "It's because there's no degree of training.",
+        "source": "T29n1562_076:0754a15_6"
+    },
+    {
+        "source_sentence": "攝第五二六通為其自性。",
+        "translation": "They gather the fifth, second, and sixth supernormal powers as their own nature.",
+        "source": "T29n1562_076:0754a15_7"
+    },
+    {
+        "source_sentence": "六中三種獨名明者。",
+        "translation": "In the sixth, there are three kinds of insight that are called insight alone.",
+        "source": "T29n1562_076:0754a16_8"
+    },
+    {
+        "source_sentence": "如次對治三際愚故。",
+        "translation": "It's because they counteract the folly of the three realms in order.",
+        "source": "T29n1562_076:0754a16_9"
+    },
+    {
+        "source_sentence": "謂宿住智通治前際愚。",
+        "translation": "It's the knowledge of past lives that thoroughly cures the folly of the prior period.",
+        "source": "T29n1562_076:0754a17_10"
+    },
+    {
+        "source_sentence": "死生智通治後際愚。",
+        "translation": "The knowledge of death and birth supervises the subsequent folly.",
+        "source": "T29n1562_076:0754a17_11"
+    },
+    {
+        "source_sentence": "漏盡智通治中際愚。",
+        "translation": "The knowledge of the extinction of contaminants is able to counteract the folly of the middle realm.",
+        "source": "T29n1562_076:0754a18_12"
+    },
+    {
+        "source_sentence": "是故此三獨標明號。",
+        "translation": "Therefore, these three are the only distinctively labeled luminous names.",
+        "source": "T29n1562_076:0754a18_13"
+    },
+    {
+        "source_sentence": "又宿住通憶念前際自他苦事。",
+        "translation": "Furthermore, the past lives are shared with recollection of the painful events of self and others in the past.",
+        "source": "T29n1562_076:0754a19_14"
+    },
+    {
+        "source_sentence": "死生智通觀察後際他身苦事。",
+        "translation": "The knowledge of death and birth supernormal cognition observes the suffering of other bodies at the latter end.",
+        "source": "T29n1562_076:0754a20_15"
+    },
+    {
+        "source_sentence": "由此厭背生死眾苦。",
+        "translation": "As a result, they become disillusioned with the suffering of birth-and-death.",
+        "source": "T29n1562_076:0754a20_16"
+    },
+    {
+        "source_sentence": "起漏盡通觀涅槃樂。",
+        "translation": "He gives rise to the contaminants that end and penetrates the bliss of observing nirvāṇa.",
+        "source": "T29n1562_076:0754a21_17"
+    },
+    {
+        "source_sentence": "故唯三種偏立為明。",
+        "translation": "Therefore, only three kinds are posited as insight.",
+        "source": "T29n1562_076:0754a21_18"
+    },
+    {
+        "source_sentence": "又此三通如次能捨常斷有見故立為明。",
+        "translation": "Furthermore, these three supernormal powers are thus established as insight because they can abandon permanence and cut off views of existence.",
+        "source": "T29n1562_076:0754a22_19"
+    },
+    {
+        "source_sentence": "又此能除有有情法三種愚故。",
+        "translation": "Furthermore, this is because it removes the three kinds of folly in sentient beings' dharmas.",
+        "source": "T29n1562_076:0754a23_20"
+    },
+    {
+        "source_sentence": "偏立為明。",
+        "translation": "It's established as insight in a partial way.",
+        "source": "T29n1562_076:0754a23_21"
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "translation": "Some other masters say:",
+        "source": "T29n1562_076:0754a24_22"
+    },
+    {
+        "source_sentence": "宿住能見過去諸蘊。",
+        "translation": "Constellations can see the past aggregates.",
+        "source": "T29n1562_076:0754a24_23"
+    },
+    {
+        "source_sentence": "展轉相因次第傳來都無作者。",
+        "translation": "In succession, there's no author in the sequential transmission of each other's causes.",
+        "source": "T29n1562_076:0754a24_24"
+    },
+    {
+        "source_sentence": "由此能引空解脫門。",
+        "translation": "As a result, they can lead to the liberation gate of emptiness.",
+        "source": "T29n1562_076:0754a25_25"
+    },
+    {
+        "source_sentence": "死生能觀有情生死。",
+        "translation": "Birth and death can observe the births of sentient beings.",
+        "source": "T29n1562_076:0754a25_26"
+    },
+    {
+        "source_sentence": "下上旋轉猶如灌輪。",
+        "translation": "The lower and higher are rotated like a consecration wheel.",
+        "source": "T29n1562_076:0754a26_27"
+    },
+    {
+        "source_sentence": "故不希求三有果報。",
+        "translation": "Therefore, they don't seek the results of the three existences.",
+        "source": "T29n1562_076:0754a26_28"
+    },
+    {
+        "source_sentence": "由此能引無願解脫門。",
+        "translation": "This is the gate that leads to the liberation of wishlessness.",
+        "source": "T29n1562_076:0754a27_29"
+    },
+    {
+        "source_sentence": "厭離為門歸無相法。",
+        "translation": "Being disillusioned with it is the gate that returns to the markless dharma.",
+        "source": "T29n1562_076:0754a27_30"
+    },
+    {
+        "source_sentence": "故起漏盡無相解脫門。",
+        "translation": "That's why they give rise to the liberation gate of ending the contaminants and formless liberation.",
+        "source": "T29n1562_076:0754a28_31"
+    },
+    {
+        "source_sentence": "是故三通獨標明號。",
+        "translation": "Therefore, the three supernormal powers are labeled separately as luminous names.",
+        "source": "T29n1562_076:0754a28_32"
+    },
+    {
+        "source_sentence": "此三皆名無學明者。",
+        "translation": "These three are all called the insight of post-learning.",
+        "source": "T29n1562_076:0754a29_33"
+    },
+    {
+        "source_sentence": "俱在無學身中起故。",
+        "translation": "It's because they all arise in the body of post-learning.",
+        "source": "T29n1562_076:0754a29_34"
+    },
+    {
+        "source_sentence": "於中最後容有是真通無漏故。",
+        "translation": "In the last of these, it's possible to have a true and uncontaminated supernormal power.",
+        "source": "T29n1562_076:0754b01_35"
+    },
+    {
+        "source_sentence": "餘二假說體唯非學非無學故。",
+        "translation": "The other two metaphors say that the essence is only what's neither learned nor post-learning.",
+        "source": "T29n1562_076:0754b02_0"
+    },
+    {
+        "source_sentence": "由此最後得無學名。",
+        "translation": "As a result, they'll finally attain the name post-learning.",
+        "source": "T29n1562_076:0754b02_1"
+    },
+    {
+        "source_sentence": "自性相續皆無學故。",
+        "translation": "It's because the self-nature continues to be unlearned.",
+        "source": "T29n1562_076:0754b03_2"
+    },
+    {
+        "source_sentence": "前之二種得無學名。",
+        "translation": "The first two kinds attain the name post-learning.",
+        "source": "T29n1562_076:0754b03_3"
+    },
+    {
+        "source_sentence": "但由相續不由自性。",
+        "translation": "It's simply because of continuity and not because of self-nature.",
+        "source": "T29n1562_076:0754b04_4"
+    },
+    {
+        "source_sentence": "如施設論作如是言。",
+        "translation": "As the Prajñāpāramitā-śāstra explains, they say this.",
+        "source": "T29n1562_076:0754b04_5"
+    },
+    {
+        "source_sentence": "有等持相應無覆無記慧。",
+        "translation": "There's the wisdom associated with equipoise that's unobstructed and indeterminate.",
+        "source": "T29n1562_076:0754b05_6"
+    },
+    {
+        "source_sentence": "不由善故及無漏故得立聖名。",
+        "translation": "It's not because of goodness or uncontaminatedness that they attain the noble name.",
+        "source": "T29n1562_076:0754b05_7"
+    },
+    {
+        "source_sentence": "由聖身中此可得故。",
+        "translation": "It's because this is obtainable in the noble body.",
+        "source": "T29n1562_076:0754b06_8"
+    },
+    {
+        "source_sentence": "說名為聖。",
+        "translation": "It's called noble.",
+        "source": "T29n1562_076:0754b06_9"
+    },
+    {
+        "source_sentence": "此亦應爾。",
+        "translation": "This should also be the case here.",
+        "source": "T29n1562_076:0754b07_10"
+    },
+    {
+        "source_sentence": "故名無學。",
+        "translation": "That's why it's called post-learning.",
+        "source": "T29n1562_076:0754b07_11"
+    },
+    {
+        "source_sentence": "有學身中有愚暗故。",
+        "translation": "It's because there's ignorance and darkness in the body of those who have training.",
+        "source": "T29n1562_076:0754b07_12"
+    },
+    {
+        "source_sentence": "雖有前二不立為明。",
+        "translation": "Although there are the first two, they aren't established as insight.",
+        "source": "T29n1562_076:0754b08_0"
+    },
+    {
+        "source_sentence": "雖有暫時伏滅愚暗。",
+        "translation": "Even though there's a temporary cessation of the darkness of ignorance.",
+        "source": "T29n1562_076:0754b08_1"
+    },
+    {
+        "source_sentence": "後還被蔽。",
+        "translation": "Later, they'll be blinded again.",
+        "source": "T29n1562_076:0754b08_2"
+    },
+    {
+        "source_sentence": "不可立明。",
+        "translation": "It can't be posited as insight.",
+        "source": "T29n1562_076:0754b09_3"
+    },
+    {
+        "source_sentence": "要暗永無。",
+        "translation": "The essential darkness is permanently nonexistent.",
+        "source": "T29n1562_076:0754b09_4"
+    },
+    {
+        "source_sentence": "方名明故。",
+        "translation": "It's only then that it's called insight.",
+        "source": "T29n1562_076:0754b09_5"
+    },
+    {
+        "source_sentence": "契經中說示導有三。",
+        "translation": "The sūtras say that there are three ways to show and guide.",
+        "source": "T29n1562_076:0754b09_6"
+    },
+    {
+        "source_sentence": "彼於六通以何為性。",
+        "translation": "What's the nature of the six supernormal powers?",
+        "source": "T29n1562_076:0754b10_7"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0754b10_8"
+    },
+    {
+        "source_sentence": "　第一四六導　　教誡導為尊",
+        "translation": "The first, the fourth, and the sixth are the guides, and the instruction is the honored one.",
+        "source": "T29n1562_076:0754b11_0"
+    },
+    {
+        "source_sentence": "　定由通所成　　引利樂果故",
+        "translation": "The absorption of enlightenment consists of the realization of supernormal knowledge, that is to say, it produces benefits and happiness.",
+        "source": "T29n1562_076:0754b12_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0754b13_0"
+    },
+    {
+        "source_sentence": "三示導者。",
+        "translation": "The third is to show and guide.",
+        "source": "T29n1562_076:0754b13_1"
+    },
+    {
+        "source_sentence": "一神變示導。",
+        "translation": "One is to show and guide by miraculous transformations.",
+        "source": "T29n1562_076:0754b13_2"
+    },
+    {
+        "source_sentence": "二記心示導。",
+        "translation": "The second is to record the mind and show guidance.",
+        "source": "T29n1562_076:0754b13_3"
+    },
+    {
+        "source_sentence": "三教誡示導。",
+        "translation": "The third is to admonish and show instruction.",
+        "source": "T29n1562_076:0754b13_4"
+    },
+    {
+        "source_sentence": "如其次第。",
+        "translation": "It's in order.",
+        "source": "T29n1562_076:0754b14_5"
+    },
+    {
+        "source_sentence": "以六通中第一四六。",
+        "translation": "It's because the first, fourth, and sixth of the six supernormal powers.",
+        "source": "T29n1562_076:0754b14_6"
+    },
+    {
+        "source_sentence": "為其自性。",
+        "translation": "It's for their own sake.",
+        "source": "T29n1562_076:0754b14_7"
+    },
+    {
+        "source_sentence": "唯此三種引所化生。",
+        "translation": "Only these three kinds of induced birth are produced by the transformations.",
+        "source": "T29n1562_076:0754b15_8"
+    },
+    {
+        "source_sentence": "令初發心最為勝故。",
+        "translation": "It causes the first arousal of mind to be the most superior.",
+        "source": "T29n1562_076:0754b15_9"
+    },
+    {
+        "source_sentence": "能示能導立示導名。",
+        "translation": "They can show and guide, and they establish the name of showing and guiding.",
+        "source": "T29n1562_076:0754b16_10"
+    },
+    {
+        "source_sentence": "三示導中教誡最勝。",
+        "translation": "The third is the most superior in terms of showing and guiding, teaching and admonishing.",
+        "source": "T29n1562_076:0754b16_11"
+    },
+    {
+        "source_sentence": "定由通所成故。",
+        "translation": "It's because it's definitely formed by penetration.",
+        "source": "T29n1562_076:0754b17_12"
+    },
+    {
+        "source_sentence": "定引利樂果故。",
+        "translation": "It's because they are determined to bring about the fruit of profit and pleasure.",
+        "source": "T29n1562_076:0754b17_13"
+    },
+    {
+        "source_sentence": "謂前二導呪等亦能。",
+        "translation": "It means that the first two guiding spells and so forth are also capable.",
+        "source": "T29n1562_076:0754b17_14"
+    },
+    {
+        "source_sentence": "不但由通故非決定。",
+        "translation": "It's not only because of penetration that it's not determined.",
+        "source": "T29n1562_076:0754b18_15"
+    },
+    {
+        "source_sentence": "如有呪術名健馱梨。",
+        "translation": "It's like the name of a spell named Gandhāra.",
+        "source": "T29n1562_076:0754b18_16"
+    },
+    {
+        "source_sentence": "持此便能騰空自在。",
+        "translation": "By holding this, he'll be able to raise the sky freely.",
+        "source": "T29n1562_076:0754b19_17"
+    },
+    {
+        "source_sentence": "或有藥草具勝功能。",
+        "translation": "Perhaps there's a medicinal herb with superior function.",
+        "source": "T29n1562_076:0754b19_18"
+    },
+    {
+        "source_sentence": "若服若持飛行自在。",
+        "translation": "Whether he takes it or carries it, he'll fly freely.",
+        "source": "T29n1562_076:0754b20_19"
+    },
+    {
+        "source_sentence": "復有呪術名伊剎尼。",
+        "translation": "Again, there's a spell called Īṣānī.",
+        "source": "T29n1562_076:0754b20_20"
+    },
+    {
+        "source_sentence": "持此便能知他心念。",
+        "translation": "By holding this, he'll be able to know the thoughts of others.",
+        "source": "T29n1562_076:0754b21_21"
+    },
+    {
+        "source_sentence": "或由觀相聽彼言音。",
+        "translation": "Perhaps it's because of observing characteristics that they hear their words and sounds.",
+        "source": "T29n1562_076:0754b21_22"
+    },
+    {
+        "source_sentence": "亦能了知他心所念。",
+        "translation": "They can also know the thoughts of others.",
+        "source": "T29n1562_076:0754b22_0"
+    },
+    {
+        "source_sentence": "教誡示導。",
+        "translation": "He teaches, admonishes, and guides.",
+        "source": "T29n1562_076:0754b22_1"
+    },
+    {
+        "source_sentence": "除漏盡通。",
+        "translation": "It's the ability to remove contaminants and end them.",
+        "source": "T29n1562_076:0754b22_2"
+    },
+    {
+        "source_sentence": "餘不能為。",
+        "translation": "The rest can't do it.",
+        "source": "T29n1562_076:0754b22_3"
+    },
+    {
+        "source_sentence": "故是決定。",
+        "translation": "Therefore, it's certain.",
+        "source": "T29n1562_076:0754b23_4"
+    },
+    {
+        "source_sentence": "或前二導外道亦能。",
+        "translation": "Perhaps the first two guides are also capable of non-Buddhist teachings.",
+        "source": "T29n1562_076:0754b23_5"
+    },
+    {
+        "source_sentence": "第三不然。",
+        "translation": "The third is not.",
+        "source": "T29n1562_076:0754b23_6"
+    },
+    {
+        "source_sentence": "故名決定。",
+        "translation": "That's why it's called determined.",
+        "source": "T29n1562_076:0754b24_7"
+    },
+    {
+        "source_sentence": "又前二導有但令他暫時迴心。",
+        "translation": "Furthermore, the first two guides only cause others to temporarily turn their minds around.",
+        "source": "T29n1562_076:0754b24_8"
+    },
+    {
+        "source_sentence": "不能引得畢竟利益及安樂果。",
+        "translation": "They can't lead to the ultimate benefit or the fruit of well-being.",
+        "source": "T29n1562_076:0754b25_9"
+    },
+    {
+        "source_sentence": "教誡示導亦定令他引當利益及安樂果。",
+        "translation": "He instructs, guides, and also causes others to lead them to future benefits and the fruit of well-being.",
+        "source": "T29n1562_076:0754b25_10"
+    },
+    {
+        "source_sentence": "以能如實方便說故。",
+        "translation": "It's because they can explain it correctly and skillfully.",
+        "source": "T29n1562_076:0754b26_11"
+    },
+    {
+        "source_sentence": "由此教誡最勝非餘。",
+        "translation": "This is the most superior admonition that's not otherwise.",
+        "source": "T29n1562_076:0754b27_12"
+    },
+    {
+        "source_sentence": "神境二言為目何義。",
+        "translation": "What's the meaning of the two words, soul and object, as a title?",
+        "source": "T29n1562_076:0754b27_13"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0754b28_14"
+    },
+    {
+        "source_sentence": "　神體謂等持　　境二謂行化",
+        "translation": "The essence of the soul is called equipoise, and the two objects are called formations.",
+        "source": "T29n1562_076:0754b29_0"
+    },
+    {
+        "source_sentence": "　行三意勢佛　　運身勝解通",
+        "translation": "the buddha who practices the three powers of intention, carries his body with superior understanding",
+        "source": "T29n1562_076:0754c01_0"
+    },
+    {
+        "source_sentence": "　化二謂欲色　　四二外處性",
+        "translation": "The two magical creations are the four external dhātus of Kāmadhātu and Rūpadhātu.",
+        "source": "T29n1562_076:0754c02_0"
+    },
+    {
+        "source_sentence": "　此各有二種　　謂似自他身",
+        "translation": "Each of these two kinds is similar to the body of oneself and others.",
+        "source": "T29n1562_076:0754c03_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0754c04_0"
+    },
+    {
+        "source_sentence": "神名所目唯勝等持。",
+        "translation": "The only thing that the soul name refers to is superior equipoise.",
+        "source": "T29n1562_076:0754c04_1"
+    },
+    {
+        "source_sentence": "由此能為神變事故。",
+        "translation": "As a result, they can cause miraculous events.",
+        "source": "T29n1562_076:0754c04_2"
+    },
+    {
+        "source_sentence": "而契經說。",
+        "translation": "The sūtras say.",
+        "source": "T29n1562_076:0754c05_3"
+    },
+    {
+        "source_sentence": "神果名神。",
+        "translation": "The fruit of the soul is called the soul.",
+        "source": "T29n1562_076:0754c05_4"
+    },
+    {
+        "source_sentence": "意為舉麁以顯細故。",
+        "translation": "The idea is to show the subtle by citing the crude.",
+        "source": "T29n1562_076:0754c05_5"
+    },
+    {
+        "source_sentence": "又顯勝等持是彼近因故。",
+        "translation": "It also shows that superior equipoise and so forth are the proximate causes of those.",
+        "source": "T29n1562_076:0754c06_0"
+    },
+    {
+        "source_sentence": "然神變事體實非神。",
+        "translation": "However, the substance of miraculous phenomena is really not a soul.",
+        "source": "T29n1562_076:0754c06_1"
+    },
+    {
+        "source_sentence": "此廣如前覺分中辨。",
+        "translation": "This is explained in detail in the previous section on awakening.",
+        "source": "T29n1562_076:0754c07_2"
+    },
+    {
+        "source_sentence": "諸神變事說名為境。",
+        "translation": "The miraculous phenomena are called objects.",
+        "source": "T29n1562_076:0754c07_3"
+    },
+    {
+        "source_sentence": "此有二種。",
+        "translation": "These are of two types:",
+        "source": "T29n1562_076:0754c08_4"
+    },
+    {
+        "source_sentence": "謂行及化。",
+        "translation": "They are practice and transformation.",
+        "source": "T29n1562_076:0754c08_5"
+    },
+    {
+        "source_sentence": "行復三種。",
+        "translation": "There are three more kinds of practice.",
+        "source": "T29n1562_076:0754c08_6"
+    },
+    {
+        "source_sentence": "一者運身。",
+        "translation": "One is to carry the body.",
+        "source": "T29n1562_076:0754c08_7"
+    },
+    {
+        "source_sentence": "謂乘空行猶如飛鳥。",
+        "translation": "It means to ride in the sky like a flying bird.",
+        "source": "T29n1562_076:0754c09_8"
+    },
+    {
+        "source_sentence": "二者勝解。",
+        "translation": "The second is superior understanding.",
+        "source": "T29n1562_076:0754c09_9"
+    },
+    {
+        "source_sentence": "謂極遠方作近思惟便能速至。",
+        "translation": "It means that it's only from a great distance that they can quickly reach it by contemplating it closely.",
+        "source": "T29n1562_076:0754c09_10"
+    },
+    {
+        "source_sentence": "若於極遠色究竟天。",
+        "translation": "Suppose he's in the form ultimate heaven at a great distance.",
+        "source": "T29n1562_076:0754c10_11"
+    },
+    {
+        "source_sentence": "作近思惟即便能至。",
+        "translation": "Even if they contemplate it closely, they can reach it.",
+        "source": "T29n1562_076:0754c10_12"
+    },
+    {
+        "source_sentence": "本無來去。",
+        "translation": "There's originally no coming or going.",
+        "source": "T29n1562_076:0754c11_13"
+    },
+    {
+        "source_sentence": "何謂速行。",
+        "translation": "What's meant by quick action?",
+        "source": "T29n1562_076:0754c11_14"
+    },
+    {
+        "source_sentence": "此實亦行但由近解。",
+        "translation": "This real thing also does so because it's only from proximate understanding.",
+        "source": "T29n1562_076:0754c11_15"
+    },
+    {
+        "source_sentence": "行極速故得勝解名。",
+        "translation": "Because their practice is so quick, they attain the name of superior understanding.",
+        "source": "T29n1562_076:0754c12_16"
+    },
+    {
+        "source_sentence": "或世尊言。",
+        "translation": "Perhaps the Bhagavān says.",
+        "source": "T29n1562_076:0754c12_17"
+    },
+    {
+        "source_sentence": "靜慮境界不思議故。",
+        "translation": "It's because the sphere of meditation is inconceivable.",
+        "source": "T29n1562_076:0754c13_18"
+    },
+    {
+        "source_sentence": "唯佛能了。",
+        "translation": "Only the Buddha can understand it.",
+        "source": "T29n1562_076:0754c13_19"
+    },
+    {
+        "source_sentence": "三者意勢。",
+        "translation": "The third is the momentum of thought.",
+        "source": "T29n1562_076:0754c13_20"
+    },
+    {
+        "source_sentence": "謂極遠方舉心緣時。",
+        "translation": "It means that when it's extremely distant and only then gives rise to the mind as a condition.",
+        "source": "T29n1562_076:0754c14_21"
+    },
+    {
+        "source_sentence": "身即能至。",
+        "translation": "The body is the ability to reach.",
+        "source": "T29n1562_076:0754c14_22"
+    },
+    {
+        "source_sentence": "此勢如意得意勢名。",
+        "translation": "This momentum is the name of the momentum that's attained according to intention.",
+        "source": "T29n1562_076:0754c14_23"
+    },
+    {
+        "source_sentence": "如心取境頃至色究竟故。",
+        "translation": "It's because the mind apprehends objects up to the point where form is ultimately present.",
+        "source": "T29n1562_076:0754c15_24"
+    },
+    {
+        "source_sentence": "於此三中意勢唯佛。",
+        "translation": "Among these three, only the Buddha is the only one whose mental momentum is buddha.",
+        "source": "T29n1562_076:0754c15_25"
+    },
+    {
+        "source_sentence": "運身勝解亦通餘乘。",
+        "translation": "The resolute resolve that moves the body also extends to other vehicles.",
+        "source": "T29n1562_076:0754c16_26"
+    },
+    {
+        "source_sentence": "謂我世尊神通迅速。",
+        "translation": "It means that my Bhagavān's supernormal powers are swift and quick.",
+        "source": "T29n1562_076:0754c16_27"
+    },
+    {
+        "source_sentence": "隨方遠近舉心即至。",
+        "translation": "He goes from place to place, distant and near, and then he reaches it with his mind.",
+        "source": "T29n1562_076:0754c17_28"
+    },
+    {
+        "source_sentence": "由此世尊作如是說。",
+        "translation": "Thus, the Bhagavān explained it this way.",
+        "source": "T29n1562_076:0754c17_29"
+    },
+    {
+        "source_sentence": "諸佛境界不可思議。",
+        "translation": "The realm of the buddhas is inconceivable.",
+        "source": "T29n1562_076:0754c18_30"
+    },
+    {
+        "source_sentence": "如日舒光蘊流亦爾。",
+        "translation": "As the sun spreads its light, so does the aggregate flow.",
+        "source": "T29n1562_076:0754c18_31"
+    },
+    {
+        "source_sentence": "能頓至遠故說為行。",
+        "translation": "It's called practice because it can suddenly reach a distance.",
+        "source": "T29n1562_076:0754c19_32"
+    },
+    {
+        "source_sentence": "若謂不然此沒彼出。",
+        "translation": "If it's said otherwise, this doesn't go and that doesn't come out.",
+        "source": "T29n1562_076:0754c19_33"
+    },
+    {
+        "source_sentence": "中間既斷行義應無。",
+        "translation": "Since the meaning of the practice of stopping in the middle should be nonexistent, what's the meaning of stopping in the middle?",
+        "source": "T29n1562_076:0754c20_34"
+    },
+    {
+        "source_sentence": "或佛威神不思議故。",
+        "translation": "Perhaps it's because the Buddha's authoritative power is inconceivable.",
+        "source": "T29n1562_076:0754c20_35"
+    },
+    {
+        "source_sentence": "舉心即至不可測量。",
+        "translation": "He raises his mind and reaches the point where it can't be measured.",
+        "source": "T29n1562_076:0754c21_36"
+    },
+    {
+        "source_sentence": "故意勢行唯世尊有。",
+        "translation": "Only the Bhagavān has the power of volition.",
+        "source": "T29n1562_076:0754c21_37"
+    },
+    {
+        "source_sentence": "勝解兼餘聖運身并異生。",
+        "translation": "Their resolve is combined with the other noble bodily and non-Buddhist bodies.",
+        "source": "T29n1562_076:0754c22_0"
+    },
+    {
+        "source_sentence": "化復二種。",
+        "translation": "Again, there are two kinds of transformation.",
+        "source": "T29n1562_076:0754c22_1"
+    },
+    {
+        "source_sentence": "謂欲色界。",
+        "translation": "It's the desire realm and form realm.",
+        "source": "T29n1562_076:0754c22_2"
+    },
+    {
+        "source_sentence": "若欲界化外四處除聲。",
+        "translation": "If the four places outside the desire realm are transformed, except for sound.",
+        "source": "T29n1562_076:0754c23_3"
+    },
+    {
+        "source_sentence": "若色界化唯二謂色觸。",
+        "translation": "If there are only two transformations in the form realm, it's called form and touch.",
+        "source": "T29n1562_076:0754c23_4"
+    },
+    {
+        "source_sentence": "以色界中無香味故。",
+        "translation": "It's because there's no fragrance in the form realm.",
+        "source": "T29n1562_076:0754c24_5"
+    },
+    {
+        "source_sentence": "此二界化各有二種。",
+        "translation": "Each of these two realms has two kinds of transformation.",
+        "source": "T29n1562_076:0754c24_6"
+    },
+    {
+        "source_sentence": "謂屬自身他身別故。",
+        "translation": "It's because it belongs to the distinction between self and other bodies.",
+        "source": "T29n1562_076:0754c25_7"
+    },
+    {
+        "source_sentence": "身在欲界化有四種。",
+        "translation": "The body is in the desire realm, and there are four kinds of transformation.",
+        "source": "T29n1562_076:0754c25_8"
+    },
+    {
+        "source_sentence": "在色亦然。",
+        "translation": "So it is with form.",
+        "source": "T29n1562_076:0754c26_0"
+    },
+    {
+        "source_sentence": "故總成八。",
+        "translation": "Therefore, it's a general statement of eight.",
+        "source": "T29n1562_076:0754c26_1"
+    },
+    {
+        "source_sentence": "雖生在色作欲界化。",
+        "translation": "Even though it's produced in form, it creates dharmas in the desire realm.",
+        "source": "T29n1562_076:0754c26_2"
+    },
+    {
+        "source_sentence": "而無色界成香味失。",
+        "translation": "The formless realm becomes fragrance and loss of fragrance.",
+        "source": "T29n1562_076:0754c26_3"
+    },
+    {
+        "source_sentence": "化作自身唯二處故。",
+        "translation": "It's because there are only two places where transformation creates its own body.",
+        "source": "T29n1562_076:0754c27_4"
+    },
+    {
+        "source_sentence": "有說亦化四如衣等不成。",
+        "translation": "Some say it's also transforming four things like clothing and so forth that aren't accomplished.",
+        "source": "T29n1562_076:0754c27_5"
+    },
+    {
+        "source_sentence": "非神境通能起化事。",
+        "translation": "It's not that the supernormal abilities of the spiritual realm can give rise to transformative actions.",
+        "source": "T29n1562_076:0754c28_6"
+    },
+    {
+        "source_sentence": "要此通果諸能化心。",
+        "translation": "Essentially, this is the mind that's capable of transforming people who have attained the fruit of penetration.",
+        "source": "T29n1562_076:0754c28_7"
+    },
+    {
+        "source_sentence": "此能化心有幾何相。",
+        "translation": "What's the characteristic of this mind that's capable of transforming?",
+        "source": "T29n1562_076:0754c29_8"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0754c29_9"
+    },
+    {
+        "source_sentence": "　能化心十四　　定果二至五",
+        "translation": "The mind capable of creating fictive beings consists of fourteen mental states: two in the state of absorption and five in the state of non-consciousness.",
+        "source": "T29n1562_076:0755a01_0"
+    },
+    {
+        "source_sentence": "　如所依定得　　從淨自生二",
+        "translation": "Thus, the concentration that is relied upon produces two kinds of self-generation from purity.",
+        "source": "T29n1562_076:0755a02_0"
+    },
+    {
+        "source_sentence": "　化事由自地　　語通由自下",
+        "translation": "The apparitional being comes from his own stage, and the voice comes from another stage.",
+        "source": "T29n1562_076:0755a03_0"
+    },
+    {
+        "source_sentence": "　化身與化主　　語必俱非佛",
+        "translation": "The apparitional body and the master of the apparition must be neither buddha nor buddha,",
+        "source": "T29n1562_076:0755a04_0"
+    },
+    {
+        "source_sentence": "　先立願留身　　後起餘心語",
+        "translation": "First, he establishes the vow to retain his body, and then he gives rise to other thoughts and words.",
+        "source": "T29n1562_076:0755a05_0"
+    },
+    {
+        "source_sentence": "　有死留堅體　　餘說無留義",
+        "translation": "There is a death that retains the essence of firmness, but other explanations do not retain its meaning.",
+        "source": "T29n1562_076:0755a06_0"
+    },
+    {
+        "source_sentence": "　初多心一化　　成滿此相違",
+        "translation": "The first is the contradiction of many minds and one transformation, which are accomplished by completion.",
+        "source": "T29n1562_076:0755a07_0"
+    },
+    {
+        "source_sentence": "　修得無記攝　　餘得通三性",
+        "translation": "The cultivation of attainment is indeterminate, and the other acquisitions are shared with the three natures.",
+        "source": "T29n1562_076:0755a08_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0755a09_0"
+    },
+    {
+        "source_sentence": "能變化心總有十四。",
+        "translation": "There are 14 general mental states that can transform mind.",
+        "source": "T29n1562_076:0755a09_1"
+    },
+    {
+        "source_sentence": "謂依根本四靜慮生。",
+        "translation": "It's based on the four fundamental states of meditation that arise.",
+        "source": "T29n1562_076:0755a09_2"
+    },
+    {
+        "source_sentence": "初靜慮生唯有二種。",
+        "translation": "There are only two kinds of arising in the first concentration.",
+        "source": "T29n1562_076:0755a10_3"
+    },
+    {
+        "source_sentence": "一欲界攝。",
+        "translation": "One is included in the desire realm.",
+        "source": "T29n1562_076:0755a10_4"
+    },
+    {
+        "source_sentence": "二初靜慮。",
+        "translation": "The second is the first concentration.",
+        "source": "T29n1562_076:0755a10_5"
+    },
+    {
+        "source_sentence": "第二第三第四靜慮。",
+        "translation": "The second, third, and fourth concentrations.",
+        "source": "T29n1562_076:0755a11_0"
+    },
+    {
+        "source_sentence": "如其次第有三四五。",
+        "translation": "In order, there are three, four, and five.",
+        "source": "T29n1562_076:0755a11_1"
+    },
+    {
+        "source_sentence": "無上依下。",
+        "translation": "The unsurpassed basis is inferior.",
+        "source": "T29n1562_076:0755a11_2"
+    },
+    {
+        "source_sentence": "下地劣故。",
+        "translation": "It's because the lower ground is inferior.",
+        "source": "T29n1562_076:0755a12_3"
+    },
+    {
+        "source_sentence": "上下地繫一靜慮果。",
+        "translation": "The upper and lower stages are bound to the fruit of one concentration.",
+        "source": "T29n1562_076:0755a12_4"
+    },
+    {
+        "source_sentence": "所依行等地有勝劣。",
+        "translation": "There's superiority and inferiority in the level of practice that's relied upon.",
+        "source": "T29n1562_076:0755a12_5"
+    },
+    {
+        "source_sentence": "一地繫上下靜慮果。",
+        "translation": "The first ground is bound to the results of higher and lower levels of meditation.",
+        "source": "T29n1562_076:0755a13_6"
+    },
+    {
+        "source_sentence": "地雖等所依行勝劣。",
+        "translation": "Although the ground and so forth are equal, the practices that they rely on are superior and inferior.",
+        "source": "T29n1562_076:0755a13_7"
+    },
+    {
+        "source_sentence": "下繫上果下果上繫。",
+        "translation": "The lower fetters are bound to the higher result, and the lower results are bound to the higher fetters.",
+        "source": "T29n1562_076:0755a14_8"
+    },
+    {
+        "source_sentence": "如次地劣勝所依行勝劣如得靜慮化心亦然。",
+        "translation": "So it is with the mind capable of creating fictive beings, which has attained absorption; in the same way one can say that a defiled absorption produces a mind capable of creating fictive being:",
+        "source": "T29n1562_076:0755a14_9"
+    },
+    {
+        "source_sentence": "果與所依俱時得故。",
+        "translation": "It's because the result is attained at the same time as the basis.",
+        "source": "T29n1562_076:0755a15_10"
+    },
+    {
+        "source_sentence": "然得靜慮總有三時。",
+        "translation": "However, there are three general moments of attainment of meditation.",
+        "source": "T29n1562_076:0755a16_11"
+    },
+    {
+        "source_sentence": "離染受生加行異故。",
+        "translation": "It's because the applied practices that are free of defilement, sensation, and arising differ.",
+        "source": "T29n1562_076:0755a16_12"
+    },
+    {
+        "source_sentence": "謂離下染得上靜慮時。",
+        "translation": "It means that when he's free of lower defilement and attains higher concentration.",
+        "source": "T29n1562_076:0755a17_13"
+    },
+    {
+        "source_sentence": "亦得此定所引化心果。",
+        "translation": "They'll also attain the result of the transformation mind that's induced by this concentration.",
+        "source": "T29n1562_076:0755a17_14"
+    },
+    {
+        "source_sentence": "從上地歿生色界時。",
+        "translation": "When he's born in the form realm from the upper ground, he'll be born in the form realm.",
+        "source": "T29n1562_076:0755a18_15"
+    },
+    {
+        "source_sentence": "及由加行起勝功德。",
+        "translation": "It's also the superior virtue that arises from applied practices.",
+        "source": "T29n1562_076:0755a18_16"
+    },
+    {
+        "source_sentence": "但有新得所依靜慮。",
+        "translation": "There's only the newly attained meditative absorption that's relied upon.",
+        "source": "T29n1562_076:0755a19_17"
+    },
+    {
+        "source_sentence": "亦兼得彼所引化心。",
+        "translation": "They can also attain the mind of transformation that's led by them.",
+        "source": "T29n1562_076:0755a19_18"
+    },
+    {
+        "source_sentence": "依欲界身得阿羅漢。",
+        "translation": "They rely on the body in the desire realm to attain arhatship.",
+        "source": "T29n1562_076:0755a20_19"
+    },
+    {
+        "source_sentence": "及練根位得應果時。",
+        "translation": "and when he attains the fruit of response in the stage of training his faculties.",
+        "source": "T29n1562_076:0755a20_20"
+    },
+    {
+        "source_sentence": "十四化心一時總得。",
+        "translation": "The fourteen transforming minds are attained at one time in general.",
+        "source": "T29n1562_076:0755a21_21"
+    },
+    {
+        "source_sentence": "乃至身在第四靜慮。",
+        "translation": "It goes so far as to say that the body is in the fourth concentration.",
+        "source": "T29n1562_076:0755a21_22"
+    },
+    {
+        "source_sentence": "得阿羅漢得五化心。",
+        "translation": "Attaining arhatship, he attains the five transforming states of mind.",
+        "source": "T29n1562_076:0755a22_23"
+    },
+    {
+        "source_sentence": "無從化心直出觀義。",
+        "translation": "It doesn't follow the mind that transforms and directly produces the meaning of contemplation.",
+        "source": "T29n1562_076:0755a22_24"
+    },
+    {
+        "source_sentence": "此從淨定及自類生。",
+        "translation": "These arise from the pure absorptions and their own kinds.",
+        "source": "T29n1562_076:0755a23_25"
+    },
+    {
+        "source_sentence": "能無間生自類淨定故唯從二生二非餘。",
+        "translation": "It's because they can produce their own kind of pure concentration without interruption, so it's only two that arise from two and nothing else.",
+        "source": "T29n1562_076:0755a23_26"
+    },
+    {
+        "source_sentence": "唯自地化心起自地化事。",
+        "translation": "It's only the mind that transforms itself in its own ground that gives rise to the task of transforming itself in its own ground.",
+        "source": "T29n1562_076:0755a24_27"
+    },
+    {
+        "source_sentence": "化所發語由自下心。",
+        "translation": "It's because the words that are spoken by transformation come from their own mind.",
+        "source": "T29n1562_076:0755a25_28"
+    },
+    {
+        "source_sentence": "謂欲初定化唯自地心語。",
+        "translation": "It means that the first concentration of desire transforms only mind and speech in its own ground.",
+        "source": "T29n1562_076:0755a25_29"
+    },
+    {
+        "source_sentence": "上化起語由初定心。",
+        "translation": "The above transformation gives rise to speech because of the mind in the first concentration.",
+        "source": "T29n1562_076:0755a26_30"
+    },
+    {
+        "source_sentence": "彼地自無起表心故。",
+        "translation": "It's because there's no manifest mind that arises in that ground.",
+        "source": "T29n1562_076:0755a26_31"
+    },
+    {
+        "source_sentence": "若生欲界第二定等。",
+        "translation": "Suppose someone gives rise to the second concentration in the desire realm and so forth.",
+        "source": "T29n1562_076:0755a27_32"
+    },
+    {
+        "source_sentence": "化事轉時如何起表。",
+        "translation": "How does it give rise to expressions when the task of transformation is transformed?",
+        "source": "T29n1562_076:0755a27_33"
+    },
+    {
+        "source_sentence": "非威儀路工巧處心。",
+        "translation": "It's not the mind that follows the path of deportment and skillful means.",
+        "source": "T29n1562_076:0755a28_34"
+    },
+    {
+        "source_sentence": "依異界身而可現起。",
+        "translation": "They can be produced based on the body of a different realm.",
+        "source": "T29n1562_076:0755a28_35"
+    },
+    {
+        "source_sentence": "彼必依止自界身故。",
+        "translation": "They must rely on the body of their own realm.",
+        "source": "T29n1562_076:0755a29_36"
+    },
+    {
+        "source_sentence": "此無有過。",
+        "translation": "There's no mistake here.",
+        "source": "T29n1562_076:0755a29_37"
+    },
+    {
+        "source_sentence": "引彼界攝大種現前為所依故。",
+        "translation": "It's because they cite that realm to gather the great seeds that are presently manifested as their basis.",
+        "source": "T29n1562_076:0755a29_38"
+    },
+    {
+        "source_sentence": "謂引色界大種現前。",
+        "translation": "It refers to the manifestation of the major seeds that induce the form realm.",
+        "source": "T29n1562_076:0755b01_39"
+    },
+    {
+        "source_sentence": "與欲界身密合而住。",
+        "translation": "They live in close conjunction with the body in the desire realm.",
+        "source": "T29n1562_076:0755b01_40"
+    },
+    {
+        "source_sentence": "依之起彼能發表心。",
+        "translation": "Relying on them, they give rise to the mind that's capable of expressing it.",
+        "source": "T29n1562_076:0755b02_41"
+    },
+    {
+        "source_sentence": "無定地表心依散地身過。",
+        "translation": "There's no concentration in the manifest mind that relies on the body and faults of the scattered ground body.",
+        "source": "T29n1562_076:0755b02_42"
+    },
+    {
+        "source_sentence": "或起依定能發表心。",
+        "translation": "Perhaps they give rise to the mind that's capable of expressing themselves based on concentration.",
+        "source": "T29n1562_076:0755b03_43"
+    },
+    {
+        "source_sentence": "如依定生天眼耳識。",
+        "translation": "It's like the divine eye, ear, and consciousness that arise based on concentration.",
+        "source": "T29n1562_076:0755b03_44"
+    },
+    {
+        "source_sentence": "若一化主起多化身。",
+        "translation": "If one master of the teaching gives rise to many transformation bodies, then he'll give rise to many transformation bodies.",
+        "source": "T29n1562_076:0755b04_45"
+    },
+    {
+        "source_sentence": "要化主語時諸化身方語。",
+        "translation": "When the master of the teaching speaks, the transformation bodies and directions speak.",
+        "source": "T29n1562_076:0755b04_46"
+    },
+    {
+        "source_sentence": "言音詮表一切皆同。",
+        "translation": "The words, sounds, explanations, and expressions are all the same.",
+        "source": "T29n1562_076:0755b05_47"
+    },
+    {
+        "source_sentence": "故有伽他作如是說。",
+        "translation": "Therefore, there's a verse that says this.",
+        "source": "T29n1562_076:0755b05_48"
+    },
+    {
+        "source_sentence": "　一化主語時　　諸所化皆語",
+        "translation": "When the master of one teaching speaks, all the teachings are spoken.",
+        "source": "T29n1562_076:0755b07_0"
+    },
+    {
+        "source_sentence": "　一化主若默　　諸所化亦然",
+        "translation": "If the master of one teaching is silent, so are all the teachings.",
+        "source": "T29n1562_076:0755b08_0"
+    },
+    {
+        "source_sentence": "此但說餘。",
+        "translation": "This only explains the rest.",
+        "source": "T29n1562_076:0755b09_0"
+    },
+    {
+        "source_sentence": "佛則不爾。",
+        "translation": "That's not the case with the Buddha.",
+        "source": "T29n1562_076:0755b09_1"
+    },
+    {
+        "source_sentence": "諸佛定力最自在故。",
+        "translation": "It's because the concentration power of the buddhas is most unimpeded.",
+        "source": "T29n1562_076:0755b09_2"
+    },
+    {
+        "source_sentence": "與所化語容不俱時。",
+        "translation": "It's not at the same time as the words that are transformed.",
+        "source": "T29n1562_076:0755b09_3"
+    },
+    {
+        "source_sentence": "言音所詮亦容有別。",
+        "translation": "It's also possible to have distinctions in what's explained by words and sounds.",
+        "source": "T29n1562_076:0755b10_4"
+    },
+    {
+        "source_sentence": "若上三地所化語時。",
+        "translation": "If he speaks the words transformed in the upper three stages.",
+        "source": "T29n1562_076:0755b10_5"
+    },
+    {
+        "source_sentence": "初定表心現前發者。",
+        "translation": "The first concentration shows that the mind is manifested in front of him.",
+        "source": "T29n1562_076:0755b11_6"
+    },
+    {
+        "source_sentence": "此心起位已出化心。",
+        "translation": "After this mind gives rise to the stage, it exits the transforming mind.",
+        "source": "T29n1562_076:0755b11_7"
+    },
+    {
+        "source_sentence": "應無化身化如何語。",
+        "translation": "There shouldn't be a transformation body that transforms what it says.",
+        "source": "T29n1562_076:0755b12_8"
+    },
+    {
+        "source_sentence": "由先願力留所化身。",
+        "translation": "By virtue of the power of his prior vow, he retains the body that he transforms.",
+        "source": "T29n1562_076:0755b12_9"
+    },
+    {
+        "source_sentence": "後起餘心發語表業。",
+        "translation": "Subsequently, he gives rise to other mental states that give rise to verbal and expressive actions.",
+        "source": "T29n1562_076:0755b13_10"
+    },
+    {
+        "source_sentence": "故無化語闕所依過。",
+        "translation": "Therefore, there's no mistake that the words of transformation lack the basis.",
+        "source": "T29n1562_076:0755b13_11"
+    },
+    {
+        "source_sentence": "非唯化主命現在時。",
+        "translation": "It's not just that the transformation master's life is present in the present.",
+        "source": "T29n1562_076:0755b14_12"
+    },
+    {
+        "source_sentence": "能留化身令久時住。",
+        "translation": "It can retain the transformation body and cause it to abide for a long time.",
+        "source": "T29n1562_076:0755b14_13"
+    },
+    {
+        "source_sentence": "亦有令住至命終後。",
+        "translation": "It's also possible to cause them to abide until the end of their life.",
+        "source": "T29n1562_076:0755b15_14"
+    },
+    {
+        "source_sentence": "即如尊者大迦葉波。",
+        "translation": "It's like Venerable Mahākāśyapa.",
+        "source": "T29n1562_076:0755b15_15"
+    },
+    {
+        "source_sentence": "留骨鎖身至慈尊世。",
+        "translation": "He leaves his bones locked up until he reaches the Bhagavān Maitreya.",
+        "source": "T29n1562_076:0755b16_16"
+    },
+    {
+        "source_sentence": "唯堅實體可得久留。",
+        "translation": "Only a firm entity can remain for a long time.",
+        "source": "T29n1562_076:0755b16_17"
+    },
+    {
+        "source_sentence": "異此飲光應留肉等。",
+        "translation": "It's different from this drinking light that should leave flesh and so forth.",
+        "source": "T29n1562_076:0755b17_18"
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say:",
+        "source": "T29n1562_076:0755b17_19"
+    },
+    {
+        "source_sentence": "願力留身必無有能令至死後。",
+        "translation": "The power of the vow remains in his body, and there must be no one who can cause it to reach after death.",
+        "source": "T29n1562_076:0755b17_20"
+    },
+    {
+        "source_sentence": "聖大迦葉留骨鎖身。",
+        "translation": "The noble Mahākāśyapa left his body in a chain of bones.",
+        "source": "T29n1562_076:0755b18_21"
+    },
+    {
+        "source_sentence": "由諸天神持令久住。",
+        "translation": "It's because the gods maintain it for a long time.",
+        "source": "T29n1562_076:0755b18_22"
+    },
+    {
+        "source_sentence": "初習業者由多化心。",
+        "translation": "The first is to cultivate karma because it's the mind that often transforms.",
+        "source": "T29n1562_076:0755b19_23"
+    },
+    {
+        "source_sentence": "要附所依起一化事。",
+        "translation": "It's necessary to give rise to a single transformation that depends on it.",
+        "source": "T29n1562_076:0755b19_24"
+    },
+    {
+        "source_sentence": "習成滿者由一化心。",
+        "translation": "It's because of one transformation mind that the accumulation is complete.",
+        "source": "T29n1562_076:0755b20_25"
+    },
+    {
+        "source_sentence": "能不附所依起眾多化事。",
+        "translation": "They can give rise to many transformations that don't rely on the support.",
+        "source": "T29n1562_076:0755b20_26"
+    },
+    {
+        "source_sentence": "總有二類能變化心。",
+        "translation": "In general, there are two kinds of mind that can change.",
+        "source": "T29n1562_076:0755b21_27"
+    },
+    {
+        "source_sentence": "一修所成。",
+        "translation": "One is formed by cultivation.",
+        "source": "T29n1562_076:0755b21_28"
+    },
+    {
+        "source_sentence": "二生得等。",
+        "translation": "The second is the attainment of birth and so forth.",
+        "source": "T29n1562_076:0755b22_29"
+    },
+    {
+        "source_sentence": "所起化果亦如彼說。",
+        "translation": "The result of the transformation that's produced is likewise explained there.",
+        "source": "T29n1562_076:0755b22_30"
+    },
+    {
+        "source_sentence": "修所成化攝處如前。",
+        "translation": "The place where cultivation is accomplished and the place where it's collected are as before.",
+        "source": "T29n1562_076:0755b22_31"
+    },
+    {
+        "source_sentence": "不能化為有情身故。",
+        "translation": "It's because they can't transform themselves into the bodies of sentient beings.",
+        "source": "T29n1562_076:0755b23_32"
+    },
+    {
+        "source_sentence": "生所得等。",
+        "translation": "What's attained by birth and so forth.",
+        "source": "T29n1562_076:0755b23_33"
+    },
+    {
+        "source_sentence": "於欲界中化為九處。",
+        "translation": "In the desire realm, it's transformed into nine places.",
+        "source": "T29n1562_076:0755b24_0"
+    },
+    {
+        "source_sentence": "色界化七依不離根。",
+        "translation": "The seven transformations in the form realm don't part from the faculties.",
+        "source": "T29n1562_076:0755b24_1"
+    },
+    {
+        "source_sentence": "言化九等理實無有能化作根。",
+        "translation": "It means that the nine transformations and so forth really have no faculties that are capable of being transformed.",
+        "source": "T29n1562_076:0755b24_2"
+    },
+    {
+        "source_sentence": "修果無心餘化容有。",
+        "translation": "The fruit of cultivation has no mind, and the remaining transformations can exist.",
+        "source": "T29n1562_076:0755b25_3"
+    },
+    {
+        "source_sentence": "修果起表由化主心。",
+        "translation": "The result of cultivation arises from the mind that's the master of transformation.",
+        "source": "T29n1562_076:0755b26_4"
+    },
+    {
+        "source_sentence": "餘容自心起身語表。",
+        "translation": "The rest allow their own mind to give rise to bodily and verbal expressions.",
+        "source": "T29n1562_076:0755b26_5"
+    },
+    {
+        "source_sentence": "修果飲食若為資身。",
+        "translation": "If he cultivates fruit and food for the purpose of sustaining his body.",
+        "source": "T29n1562_076:0755b27_6"
+    },
+    {
+        "source_sentence": "必在化主身中消化。",
+        "translation": "It must be digested in the transformation master's body.",
+        "source": "T29n1562_076:0755b27_7"
+    },
+    {
+        "source_sentence": "若為餘事吞金石等。",
+        "translation": "If he swallows gold and stone for other things, etc.",
+        "source": "T29n1562_076:0755b28_0"
+    },
+    {
+        "source_sentence": "或即住彼化事身中。",
+        "translation": "Or, he might be abiding in the body of those transformations.",
+        "source": "T29n1562_076:0755b28_1"
+    },
+    {
+        "source_sentence": "或隨所宜置在別處。",
+        "translation": "Or they may be placed in a different place as appropriate.",
+        "source": "T29n1562_076:0755b28_2"
+    },
+    {
+        "source_sentence": "餘化飲食隨住所依。",
+        "translation": "The rest of the food and drink that are transformed follow their abode.",
+        "source": "T29n1562_076:0755b29_3"
+    },
+    {
+        "source_sentence": "修果化心唯無記性。",
+        "translation": "The mind that cultivates fruition and transforms is only indeterminate in nature.",
+        "source": "T29n1562_076:0755b29_4"
+    },
+    {
+        "source_sentence": "餘通三性。",
+        "translation": "The rest are shared with the three natures.",
+        "source": "T29n1562_076:0755c01_5"
+    },
+    {
+        "source_sentence": "謂善惡等。",
+        "translation": "They are good and bad, and so forth.",
+        "source": "T29n1562_076:0755c01_6"
+    },
+    {
+        "source_sentence": "如天龍等能變化心。",
+        "translation": "They're like the minds of gods, dragons, and so forth that can transform.",
+        "source": "T29n1562_076:0755c01_7"
+    },
+    {
+        "source_sentence": "彼亦能為自他身化。",
+        "translation": "They can also transform themselves for others.",
+        "source": "T29n1562_076:0755c02_8"
+    },
+    {
+        "source_sentence": "天眼耳言為目何義。",
+        "translation": "What's the meaning of the words divine eye and ear as eyes?",
+        "source": "T29n1562_076:0755c02_9"
+    },
+    {
+        "source_sentence": "為目慧體。",
+        "translation": "It's the essence of eye wisdom.",
+        "source": "T29n1562_076:0755c03_10"
+    },
+    {
+        "source_sentence": "為目色根。",
+        "translation": "It's the eye and form faculty.",
+        "source": "T29n1562_076:0755c03_11"
+    },
+    {
+        "source_sentence": "若慧不應名天眼耳。",
+        "translation": "If wisdom doesn't, it shouldn't be called the divine eye.",
+        "source": "T29n1562_076:0755c03_12"
+    },
+    {
+        "source_sentence": "若色根者不應名通。",
+        "translation": "If it's the form faculty, it shouldn't be called supernormal.",
+        "source": "T29n1562_076:0755c04_13"
+    },
+    {
+        "source_sentence": "此前已說前何所說。",
+        "translation": "We've already explained what was explained before.",
+        "source": "T29n1562_076:0755c04_14"
+    },
+    {
+        "source_sentence": "謂說根本四靜慮中。",
+        "translation": "It means that it's said to be the root of the four meditations.",
+        "source": "T29n1562_076:0755c05_15"
+    },
+    {
+        "source_sentence": "有定相應勝無記慧。",
+        "translation": "There's the superior indeterminate wisdom associated with concentration.",
+        "source": "T29n1562_076:0755c05_16"
+    },
+    {
+        "source_sentence": "名為天眼及天耳通。",
+        "translation": "It's called the divine eye and divine hearing.",
+        "source": "T29n1562_076:0755c06_17"
+    },
+    {
+        "source_sentence": "此所引生勝大種果名天眼耳。",
+        "translation": "This is called the divine eye because it's the result of the superior great seeds that are induced.",
+        "source": "T29n1562_076:0755c06_18"
+    },
+    {
+        "source_sentence": "其體是何。",
+        "translation": "What's its essence?",
+        "source": "T29n1562_076:0755c07_19"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0755c07_20"
+    },
+    {
+        "source_sentence": "　天眼耳謂根　　即定地淨色",
+        "translation": "The divine eye and ear are the faculties, that is to say, the pure matter of the stages of absorption",
+        "source": "T29n1562_076:0755c08_0"
+    },
+    {
+        "source_sentence": "　恒同分無缺　　取障細遠等",
+        "translation": "Consisting of the same parts, without deficiency, it grasps the hindrances that are subtle, distant, etc.",
+        "source": "T29n1562_076:0755c09_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0755c10_0"
+    },
+    {
+        "source_sentence": "此體即是天眼耳根。",
+        "translation": "This body is the divine eye and ear faculty.",
+        "source": "T29n1562_076:0755c10_1"
+    },
+    {
+        "source_sentence": "謂緣聲光為加行故。",
+        "translation": "It means that it's conditioned by sound and light as applied practices.",
+        "source": "T29n1562_076:0755c10_2"
+    },
+    {
+        "source_sentence": "依四靜慮於眼耳邊。",
+        "translation": "Relying on the four meditations, it's at the edge of the eye and ear.",
+        "source": "T29n1562_076:0755c11_3"
+    },
+    {
+        "source_sentence": "引起彼地微妙大種。",
+        "translation": "It causes the subtle and great seeds of that ground to arise.",
+        "source": "T29n1562_076:0755c11_4"
+    },
+    {
+        "source_sentence": "所造淨色眼耳二根。",
+        "translation": "The pure form that's created is the two faculties of eye and ear.",
+        "source": "T29n1562_076:0755c12_0"
+    },
+    {
+        "source_sentence": "見色聞聲名天眼耳。",
+        "translation": "Seeing form and hearing sounds are called the divine eye.",
+        "source": "T29n1562_076:0755c12_1"
+    },
+    {
+        "source_sentence": "如是眼耳何故名天。",
+        "translation": "Thus, why is the eye and ear called heaven?",
+        "source": "T29n1562_076:0755c12_2"
+    },
+    {
+        "source_sentence": "體即是天。",
+        "translation": "The essence is heaven.",
+        "source": "T29n1562_076:0755c13_3"
+    },
+    {
+        "source_sentence": "定地攝故。",
+        "translation": "It's because it's included in the stage of concentration.",
+        "source": "T29n1562_076:0755c13_4"
+    },
+    {
+        "source_sentence": "極清淨故。",
+        "translation": "It's because it's extremely pure.",
+        "source": "T29n1562_076:0755c13_5"
+    },
+    {
+        "source_sentence": "立以天名。",
+        "translation": "It's established by the name of heaven.",
+        "source": "T29n1562_076:0755c14_6"
+    },
+    {
+        "source_sentence": "由此經言。",
+        "translation": "Thus, the sūtras say.",
+        "source": "T29n1562_076:0755c14_7"
+    },
+    {
+        "source_sentence": "天眼耳者無有皮肉筋纏血塗。",
+        "translation": "The divine eye and ear have no skin, flesh, tendons, tears, or blood coating.",
+        "source": "T29n1562_076:0755c14_8"
+    },
+    {
+        "source_sentence": "唯妙大種所造淨色。",
+        "translation": "It's only the pure form created by the marvelous material elements.",
+        "source": "T29n1562_076:0755c15_9"
+    },
+    {
+        "source_sentence": "然天眼耳種類有三。",
+        "translation": "Still, there are three kinds of divine eyes and ears.",
+        "source": "T29n1562_076:0755c15_10"
+    },
+    {
+        "source_sentence": "一修得天。",
+        "translation": "One is the heaven of cultivation and attainment.",
+        "source": "T29n1562_076:0755c16_11"
+    },
+    {
+        "source_sentence": "即如前說。",
+        "translation": "It's as explained above.",
+        "source": "T29n1562_076:0755c16_12"
+    },
+    {
+        "source_sentence": "二者生得。",
+        "translation": "The second is the attainment of birth.",
+        "source": "T29n1562_076:0755c16_13"
+    },
+    {
+        "source_sentence": "謂生天中。",
+        "translation": "It means to be born in the heavens.",
+        "source": "T29n1562_076:0755c17_0"
+    },
+    {
+        "source_sentence": "三者似天。",
+        "translation": "Three, it resembles heaven.",
+        "source": "T29n1562_076:0755c17_1"
+    },
+    {
+        "source_sentence": "謂生餘趣由勝業等之所引生。",
+        "translation": "The other destinies that arise are produced by superior karma and so forth.",
+        "source": "T29n1562_076:0755c17_2"
+    },
+    {
+        "source_sentence": "能遠見聞似天眼耳。",
+        "translation": "It's capable of seeing and hearing distantly like the divine eye.",
+        "source": "T29n1562_076:0755c18_3"
+    },
+    {
+        "source_sentence": "如藏臣寶菩薩輪王。",
+        "translation": "It's like the treasury minister, the jeweled bodhisattva wheel king.",
+        "source": "T29n1562_076:0755c18_4"
+    },
+    {
+        "source_sentence": "諸龍鬼神及中有等。",
+        "translation": "dragons, ghosts, spirits, and intermediate beings.",
+        "source": "T29n1562_076:0755c19_5"
+    },
+    {
+        "source_sentence": "修得眼耳過現當生恒是同分。",
+        "translation": "The cultivation of the attainment of the eye and ear faults that will arise in the present is always the same part.",
+        "source": "T29n1562_076:0755c19_6"
+    },
+    {
+        "source_sentence": "以至現在必與識俱。",
+        "translation": "It's because they must be accompanied by consciousness in the present.",
+        "source": "T29n1562_076:0755c20_7"
+    },
+    {
+        "source_sentence": "能見聞故處所必具無翳無缺。",
+        "translation": "Where they can see and hear, there must be nothing crude or deficient.",
+        "source": "T29n1562_076:0755c20_8"
+    },
+    {
+        "source_sentence": "如生色界一切有情。",
+        "translation": "It's like all sentient beings who are born in the form realm.",
+        "source": "T29n1562_076:0755c21_9"
+    },
+    {
+        "source_sentence": "能隨所應取彼障隔。",
+        "translation": "They can follow what's appropriate to them and grasp the other hindrances.",
+        "source": "T29n1562_076:0755c22_0"
+    },
+    {
+        "source_sentence": "極細遠等諸方色聲。",
+        "translation": "It's extremely subtle and distant, such as form and sound in various directions.",
+        "source": "T29n1562_076:0755c22_1"
+    },
+    {
+        "source_sentence": "故於此中有如是頌。",
+        "translation": "Therefore, there's a verse like this here.",
+        "source": "T29n1562_076:0755c22_2"
+    },
+    {
+        "source_sentence": "　肉眼於諸方　　被障細遠色",
+        "translation": "The physical eye in all directions is obstructed by the subtle form of distant form",
+        "source": "T29n1562_076:0755c24_0"
+    },
+    {
+        "source_sentence": "　無能見功用　　天眼見無遺",
+        "translation": "There is no one who can see the function of the divine eye, and the divine eye sees without remainder.",
+        "source": "T29n1562_076:0755c25_0"
+    },
+    {
+        "source_sentence": "前說化心修餘得異。",
+        "translation": "The previous explanation was that the mind cultivating transformation cultivates the other attainments differently.",
+        "source": "T29n1562_076:0755c26_0"
+    },
+    {
+        "source_sentence": "神境等五各有異耶。",
+        "translation": "Are the five mental objects and so forth different from each other?",
+        "source": "T29n1562_076:0755c26_1"
+    },
+    {
+        "source_sentence": "亦有。",
+        "translation": "It's also present.",
+        "source": "T29n1562_076:0755c26_2"
+    },
+    {
+        "source_sentence": "云何。",
+        "translation": "What does it mean?",
+        "source": "T29n1562_076:0755c27_3"
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1562_076:0755c27_4"
+    },
+    {
+        "source_sentence": "　神境五修生　　呪藥業成故",
+        "translation": "The five spiritual realms are cultivated by the five cultivations, because the spells and medicines are formed by karma.",
+        "source": "T29n1562_076:0755c28_0"
+    },
+    {
+        "source_sentence": "　他心修生呪　　又加占相成",
+        "translation": "The other mind cultivates the mantra of birth, and it's also formed by divination.",
+        "source": "T29n1562_076:0755c29_0"
+    },
+    {
+        "source_sentence": "　三修生業成　　除修皆三性",
+        "translation": "The three cultivations are produced by karma, and all except for cultivation have the same three natures.",
+        "source": "T29n1562_076:0756a01_0"
+    },
+    {
+        "source_sentence": "　人唯無生得　　地獄初能知",
+        "translation": "Only the acquisition of non-arising by humans can be known at the beginning of hell.",
+        "source": "T29n1562_076:0756a02_0"
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1562_076:0756a03_0"
+    },
+    {
+        "source_sentence": "神境智類總有五種。",
+        "translation": "There are five general types of cognition of the spiritual realm.",
+        "source": "T29n1562_076:0756a03_1"
+    },
+    {
+        "source_sentence": "一修得。",
+        "translation": "One is cultivating attainment.",
+        "source": "T29n1562_076:0756a03_2"
+    },
+    {
+        "source_sentence": "二生得。",
+        "translation": "The second is the attainment of birth.",
+        "source": "T29n1562_076:0756a03_3"
+    },
+    {
+        "source_sentence": "三呪成。",
+        "translation": "Three, the dhāraṇī is formed.",
+        "source": "T29n1562_076:0756a03_4"
+    },
+    {
+        "source_sentence": "四藥成。",
+        "translation": "Fourth, the medicine is formed.",
+        "source": "T29n1562_076:0756a04_5"
+    },
+    {
+        "source_sentence": "五業成。",
+        "translation": "The five karmas are formed.",
+        "source": "T29n1562_076:0756a04_6"
+    },
+    {
+        "source_sentence": "曼馱多王及中有等。",
+        "translation": "The king of the maṇḍala and the intermediate beings.",
+        "source": "T29n1562_076:0756a04_7"
+    },
+    {
+        "source_sentence": "諸神境智是業成攝。",
+        "translation": "The cognition of the divine objects is collected by karma.",
+        "source": "T29n1562_076:0756a04_8"
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say:",
+        "source": "T29n1562_076:0756a05_9"
+    },
+    {
+        "source_sentence": "神境有四。",
+        "translation": "There are four kinds of mental objects.",
+        "source": "T29n1562_076:0756a05_10"
+    },
+    {
+        "source_sentence": "即前行三變化為一。",
+        "translation": "That is, the three transformations of the previous practice are one.",
+        "source": "T29n1562_076:0756a05_11"
+    },
+    {
+        "source_sentence": "言變化者。",
+        "translation": "It's called transformation.",
+        "source": "T29n1562_076:0756a06_12"
+    },
+    {
+        "source_sentence": "如契經言。",
+        "translation": "As the sūtras say.",
+        "source": "T29n1562_076:0756a06_13"
+    },
+    {
+        "source_sentence": "分一為多。",
+        "translation": "The parts of one are many.",
+        "source": "T29n1562_076:0756a06_14"
+    },
+    {
+        "source_sentence": "乃至廣說。",
+        "translation": "It's even explained in detail.",
+        "source": "T29n1562_076:0756a07_15"
+    },
+    {
+        "source_sentence": "他心智類總有四種。",
+        "translation": "There are four general types of knowledge of the minds of others:",
+        "source": "T29n1562_076:0756a07_16"
+    },
+    {
+        "source_sentence": "前三如上加占相成。",
+        "translation": "The first three are as above, which are formed by adding the characteristic of divination.",
+        "source": "T29n1562_076:0756a07_17"
+    },
+    {
+        "source_sentence": "餘三各三。",
+        "translation": "The other three are each three.",
+        "source": "T29n1562_076:0756a08_18"
+    },
+    {
+        "source_sentence": "謂修生業。",
+        "translation": "It's cultivating karma that produces karma.",
+        "source": "T29n1562_076:0756a08_19"
+    },
+    {
+        "source_sentence": "除修所得皆通善等。",
+        "translation": "Except for what's cultivated and attained, they all permeate goodness and so forth.",
+        "source": "T29n1562_076:0756a08_20"
+    },
+    {
+        "source_sentence": "非定果故不得通名。",
+        "translation": "Because it's not the result of concentration, it can't be given a general name.",
+        "source": "T29n1562_076:0756a09_21"
+    },
+    {
+        "source_sentence": "人中都無生所得者。",
+        "translation": "Among humans, there's nothing to be attained by birth.",
+        "source": "T29n1562_076:0756a09_22"
+    },
+    {
+        "source_sentence": "餘皆容有。",
+        "translation": "The rest are all permissible.",
+        "source": "T29n1562_076:0756a10_23"
+    },
+    {
+        "source_sentence": "隨其所應本性生念業所成攝。",
+        "translation": "They are collected by mindfulness of karma that arises according to the original nature of what should be done.",
+        "source": "T29n1562_076:0756a10_24"
+    },
+    {
+        "source_sentence": "人由先業能憶過去。",
+        "translation": "It's because of past actions that people can recall the past.",
+        "source": "T29n1562_076:0756a11_25"
+    },
+    {
+        "source_sentence": "於地獄趣初受生時。",
+        "translation": "At the time when he's first born in the hell realm, he'll be reborn.",
+        "source": "T29n1562_076:0756a11_26"
+    },
+    {
+        "source_sentence": "唯以生得他心宿住知他心等。",
+        "translation": "It's only because they give rise to other minds that they abide in the constellations and know other minds.",
+        "source": "T29n1562_076:0756a12_27"
+    },
+    {
+        "source_sentence": "及過去生苦受逼已更無知義。",
+        "translation": "It's also the meaning of no knowing after suffering and painful feelings in past lives have been suppressed.",
+        "source": "T29n1562_076:0756a12_28"
+    },
+    {
+        "source_sentence": "彼憶過去以何證知。",
+        "translation": "How did they remember the past and realize it?",
+        "source": "T29n1562_076:0756a13_29"
+    },
+    {
+        "source_sentence": "如契經言。",
+        "translation": "As the sūtras say.",
+        "source": "T29n1562_076:0756a13_30"
+    },
+    {
+        "source_sentence": "彼自憶念。",
+        "translation": "They think to themselves.",
+        "source": "T29n1562_076:0756a14_31"
+    },
+    {
+        "source_sentence": "我等過去曾聞他說諸欲過失。",
+        "translation": "We've heard others say about the faults of desire in the past.",
+        "source": "T29n1562_076:0756a14_32"
+    },
+    {
+        "source_sentence": "而不厭離。",
+        "translation": "They don't become disillusioned with separation.",
+        "source": "T29n1562_076:0756a15_33"
+    },
+    {
+        "source_sentence": "故於今時。",
+        "translation": "Therefore, at the present time.",
+        "source": "T29n1562_076:0756a15_34"
+    },
+    {
+        "source_sentence": "受斯劇苦。",
+        "translation": "I'll experience this kind of great suffering.",
+        "source": "T29n1562_076:0756a15_35"
+    },
+    {
+        "source_sentence": "彼唯能憶次前一生。",
+        "translation": "They can only remember the next lifetime before that one.",
+        "source": "T29n1562_076:0756a15_36"
+    },
+    {
+        "source_sentence": "餘趣隨應恒有知義。",
+        "translation": "The other destinies are always accompanied by the meaning of knowing.",
+        "source": "T29n1562_076:0756a16_37"
+    },
+    {
+        "source_sentence": "傍生知過去。",
+        "translation": "An unenlightened person knows the past.",
+        "source": "T29n1562_076:0756a16_38"
+    },
+    {
+        "source_sentence": "如蠡聲狗等鬼知過去。",
+        "translation": "They're like the Li sound dogs and other ghosts who know the past.",
+        "source": "T29n1562_076:0756a17_39"
+    },
+    {
+        "source_sentence": "如有頌言。",
+        "translation": "It's like the verse that says.",
+        "source": "T29n1562_076:0756a17_40"
+    },
+    {
+        "source_sentence": "　我昔集眾財　　以法或非法",
+        "translation": "'In the past, I gathered all my wealth with the Dharma or without it.'",
+        "source": "T29n1562_076:0756a18_0"
+    },
+    {
+        "source_sentence": "　他今受富樂　　我獨受貧苦",
+        "translation": "Others now experience riches and happiness, but I am the only one suffering from poverty",
+        "source": "T29n1562_076:0756a19_0"
+    },
+    {
+        "source_sentence": "天知過去。",
+        "translation": "The gods know the past.",
+        "source": "T29n1562_076:0756a20_0"
+    },
+    {
+        "source_sentence": "如有頌言。",
+        "translation": "It's like the verse that says.",
+        "source": "T29n1562_076:0756a20_1"
+    },
+    {
+        "source_sentence": "　我施逝多林　　蒙大法王住",
+        "translation": "I gave it to Jeta's Grove, where the great king of the Dharma lived.",
+        "source": "T29n1562_076:0756a21_0"
+    },
+    {
+        "source_sentence": "　賢聖僧受用　　故我心歡喜",
+        "translation": "Good men and holy monks receive it, so my heart rejoices",
+        "source": "T29n1562_076:0756a22_0"
+    },
+    {
+        "source_sentence": "又契經說。",
+        "translation": "Furthermore, the sūtras say.",
+        "source": "T29n1562_076:0756a23_0"
+    },
+    {
+        "source_sentence": "諸生天者初生必起三種念言。",
+        "translation": "Those born in heaven must give rise to three kinds of thoughts when they're first born, saying.",
+        "source": "T29n1562_076:0756a23_1"
+    },
+    {
+        "source_sentence": "我從何歿今生何處。",
+        "translation": "Where did I come from and where will I be born now?",
+        "source": "T29n1562_076:0756a23_2"
+    },
+    {
+        "source_sentence": "乘何業故來生此間。",
+        "translation": "What's the reason they came to be born here because of their actions?",
+        "source": "T29n1562_076:0756a24_3"
+    },
+    {
+        "source_sentence": "說一切有部順正理論卷第七十六",
+        "translation": "Saṃyuktâgama-śāstra, vol. 76",
+        "source": "T29n1562_076:0756a25_0"
+    }
+]

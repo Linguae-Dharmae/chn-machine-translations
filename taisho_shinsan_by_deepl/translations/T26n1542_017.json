@@ -1,0 +1,2750 @@
+[
+    {
+        "source_sentence": "阿毘達磨品類足論卷第十七",
+        "translation": "Abhidharma-prakaraṇapāda-śāstra, Vol. 17",
+        "source": "T26n1542_017:0761b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者世友造",
+        "translation": "created by Venerable Layman",
+        "source": "T26n1542_017:0761b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T26n1542_017:0761b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "辯千問品第七之八",
+        "translation": "Chapter 7-8 of the Thousand Questions",
+        "source": "T26n1542_017:0761b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有身見為因非有身見因等者，一切應分別。",
+        "translation": "\"How many views of the body as cause and not as cause of views of the body and so forth should all be discriminated?",
+        "source": "T26n1542_017:0761b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色蘊，若染污有身見為因非有身見因、若不染污非有身見為因非有身見因。",
+        "translation": "This refers to the form aggregate, which is defiled by a view of the body as a cause and not a cause of a view of the body, and which is undefiled by a view of the body as a cause and not a cause of a view of the body.",
+        "source": "T26n1542_017:0761b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受蘊有三句。",
+        "translation": "The aggregate of sensation has three phrases.",
+        "source": "T26n1542_017:0761b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有身見為因非有身見因，謂除過去現在見苦所斷隨眠相應受蘊，及除過去現在見集所斷遍行隨眠相應受蘊，并除未來有身見相應受蘊，諸餘染污受蘊。",
+        "translation": "The aggregate of contingent bodily views that are the cause and not the cause of bodily views is the aggregate of defiled sensations other than those associated with latencies that are ended by past present views of suffering, the aggregate of latencies associated with pervasive latencies that are ended by past present views of accumulation, and the aggregate of sensations associated with future bodily views.",
+        "source": "T26n1542_017:0761b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有身見為因亦有身見因，謂前所除受蘊。",
+        "translation": "There may be a body view as cause and a body view as cause, which are the previously removed receptacle aggregates.",
+        "source": "T26n1542_017:0761c03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非有身見為因非有身見因，謂不染污受蘊。",
+        "translation": "Those that don't have body views as cause and those that don't have body views as cause are the undefiled feeling aggregates.",
+        "source": "T26n1542_017:0761c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "想、識蘊亦爾。",
+        "translation": "The same is true of the aggregate of perception and consciousness.",
+        "source": "T26n1542_017:0761c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行蘊有三句。",
+        "translation": "The aggregate of volition has three phrases.",
+        "source": "T26n1542_017:0761c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有身見為因非有身見因，謂除過去現在見苦所斷隨眠及彼相應俱有等行蘊，亦除過去現在見集所斷遍行隨眠及彼相應俱有行蘊，亦除未來有身見相應行蘊，亦除未來有身見及彼相應法生老住無常，諸餘染污行蘊。",
+        "translation": "They are the aggregate of formations that are removed from past present views, such as latencies that are ended by suffering and the concomitant coexistence of those latencies, the aggregate of formations that are ended by pervasive latencies that are ended by past present views, the aggregate of formations associated with future views of existence, and the aggregate of defiled formations that are removed from future views of existence and the concomitant birth, age, abiding, and impermanence of those formations.",
+        "source": "T26n1542_017:0761c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有身見為因亦有身見因，謂前所除行蘊。",
+        "translation": "Sometimes there's a view of the body as cause and there's a cause of a view of the body, which are the previously excluded formative aggregates.",
+        "source": "T26n1542_017:0761c11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非有身見為因非有身見因，謂不染污行蘊。",
+        "translation": "Sometimes there's a view of the body that's not the cause and not the cause of a view of the body, which are the non-defiled active aggregates.",
+        "source": "T26n1542_017:0761c12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾業非業異熟等者，一切應分別。",
+        "translation": "\"How many karmic and non-karmic forms of retribution and so forth should all be discerned?",
+        "source": "T26n1542_017:0761c13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色蘊有三句。",
+        "translation": "It means the form aggregate has three phrases.",
+        "source": "T26n1542_017:0761c14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業非業異熟，謂身語業。",
+        "translation": "Some are actions and non-actions that are not karmic maturation, which are physical and verbal actions.",
+        "source": "T26n1542_017:0761c14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業異熟非業，謂業異熟生色蘊。",
+        "translation": "What's karmic, non-karmic, and non-karmic refers to the form aggregate that arises from karmic retribution.",
+        "source": "T26n1542_017:0761c15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非業非業異熟，謂除業及業異熟色蘊諸餘色蘊。",
+        "translation": "What's not karmic and not karmic is ripe, which are the form aggregates other than karmic and karmic ripening form aggregates.",
+        "source": "T26n1542_017:0761c16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受蘊，或業異熟非業、或非業非業異熟。",
+        "translation": "The feeling aggregate, which is either karma-discipline or non-karma, is karma-discipline or non-karma-discipline.",
+        "source": "T26n1542_017:0761c17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "業異熟非業者謂業異熟生受蘊，諸餘受蘊非業非業異熟。",
+        "translation": "Being karmically immature and non-karmic means that karmic immaturity gives rise to the feeling aggregate, and the remaining feeling aggregates are neither karmic nor non-karmic immaturity.",
+        "source": "T26n1542_017:0761c18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "想、識蘊亦爾。",
+        "translation": "The same goes for the aggregates of perception and consciousness.",
+        "source": "T26n1542_017:0761c19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行蘊有四句。",
+        "translation": "The aggregate of volition has four phrases.",
+        "source": "T26n1542_017:0761c19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業非業異熟，謂業異熟所不攝思。",
+        "translation": "Some are karmic and non-karmic [karmic] maturation, which refers to the contemplation that's not included in karmic maturation.",
+        "source": "T26n1542_017:0761c20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業異熟非業，謂思所不攝業異熟生行蘊。",
+        "translation": "Some karma is ripe and not karma, meaning that karma is ripened by contemplation that doesn't include the formative aggregate.",
+        "source": "T26n1542_017:0761c21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業亦業異熟，謂業異熟生思。",
+        "translation": "Some karma and karma are both ripe, meaning that karma and karma are ripe that gives rise to thought.",
+        "source": "T26n1542_017:0761c22_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非業非業異熟，謂除業及業異熟行蘊諸餘行蘊。",
+        "translation": "What's not karma and what's not karma-analogous maturation refers to the remaining karmic aggregates other than karma and the karmic-analogous formative aggregate.",
+        "source": "T26n1542_017:0761c22_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾業非隨業轉等者，三隨業轉非業，二應分別。",
+        "translation": "How many actions don't follow actions? These three follow actions and non-actions, and the two should be discerned.",
+        "source": "T26n1542_017:0761c23_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色蘊有三句。",
+        "translation": "They are the three statements in the form aggregate.",
+        "source": "T26n1542_017:0761c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業非隨業轉，謂除隨業轉身語業，諸餘身語業。",
+        "translation": "Some actions don't evolve according to actions, meaning that they exclude physical and verbal actions that evolve according to actions and the remaining physical and verbal actions.",
+        "source": "T26n1542_017:0761c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業亦隨業轉，謂隨業轉身語業。",
+        "translation": "Some actions also change according to actions, which are the actions of body and speech that change according to actions.",
+        "source": "T26n1542_017:0761c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非業非隨業轉，謂除業及隨業轉色蘊，諸餘色蘊。",
+        "translation": "What's not karma and doesn't follow karma is the form aggregate, which is defined as the aggregate of form other than karma and the karma that follows karma, and the remaining form aggregates.",
+        "source": "T26n1542_017:0761c27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行蘊有三句。",
+        "translation": "The aggregate of volition has three phrases.",
+        "source": "T26n1542_017:0761c28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業非隨業轉，謂思。",
+        "translation": "That's karma and non-karma that doesn't follow karma, which is thought.",
+        "source": "T26n1542_017:0761c28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或隨業轉非業，謂思所不攝隨業轉行蘊。",
+        "translation": "What follows karma and isn't karma refers to the form aggregate that follows karma and isn't included in deliberation.",
+        "source": "T26n1542_017:0761c29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非業非隨業轉，謂除隨業轉心不相應行，諸餘心不相應行。",
+        "translation": "What's not karma and doesn't follow karma refers to the mental unassociated formations that follow karma and the mental unassociated formations that are the remainder.",
+        "source": "T26n1542_017:0762a01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾所造色非有見色等者，四非所造色非有見色，一應分別，謂色蘊有三句。",
+        "translation": "\"How many forms that are not created are not visible forms, etc.? The four forms that are not created are not visible forms, and one should discern that the form aggregate has three phrases.",
+        "source": "T26n1542_017:0762a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所造色非有見色，謂八處及二處少分。",
+        "translation": "Some of the forms that are not created do not have visible form, which are the eight sense-fields and the two sense-fields in a lesser degree.",
+        "source": "T26n1542_017:0762a04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所造色亦有見色，謂一處。",
+        "translation": "Sometimes the form that's created also has visible form, which is one place.",
+        "source": "T26n1542_017:0762a05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非所造色非有見色，謂一處少分。",
+        "translation": "It's a place that's a little bit different from the one that's not created form and doesn't have visible form.",
+        "source": "T26n1542_017:0762a05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此五蘊，幾所造色非有對色等者，四非所造色非有對色，一應分別。",
+        "translation": "Of these five aggregates, the four uncreated forms that don't have opposable form and so forth should be discerned as one form that's not created and doesn't have opposable form.",
+        "source": "T26n1542_017:0762a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色蘊應作四句。",
+        "translation": "These are the four statements that should be made about the form aggregate.",
+        "source": "T26n1542_017:0762a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所造色非有對色，謂一處少分。",
+        "translation": "'Form that's not made may not have opposable form, which is a small part of one place.'",
+        "source": "T26n1542_017:0762a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有對色非所造色，謂一處少分。",
+        "translation": "Sometimes there's opposable form that's not the form that's created, which is a small part of one place.",
+        "source": "T26n1542_017:0762a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所造色亦有對色，謂九處及一處少分。",
+        "translation": "Sometimes the form that's created also has opposable form, which are nine places and a small part of one place.",
+        "source": "T26n1542_017:0762a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非所造色非有對色，如是色不可得。",
+        "translation": "Whether it's a form that wasn't created and doesn't have oppositely formed forms, such forms are unobtainable.",
+        "source": "T26n1542_017:0762a11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾難見故甚深等者，一切難見故甚深，甚深故難見。",
+        "translation": "How difficult is it to see and therefore how profound are they? They are all difficult to see and therefore very profound.",
+        "source": "T26n1542_017:0762a12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾善非善為因等者，一切應分別。",
+        "translation": "How many good and not-so-good causes are there that should be discerned?",
+        "source": "T26n1542_017:0762a13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂各有三句。",
+        "translation": "They each have three phrases.",
+        "source": "T26n1542_017:0762a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或善為因非善，謂善異熟生五蘊。",
+        "translation": "Sometimes goodness is the cause and not goodness, which is the production of the five aggregates by good retribution.",
+        "source": "T26n1542_017:0762a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或善亦善為因，謂善五蘊。",
+        "translation": "Sometimes good and goodness are the cause, which are the five aggregates of goodness.",
+        "source": "T26n1542_017:0762a15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非善非善為因，謂除善異熟生五蘊，諸餘無記不善五蘊。",
+        "translation": "Sometimes they're not good and not good as causes, which are the five aggregates of indeterminate unwholesomeness other than the five aggregates of production from good ripeness.",
+        "source": "T26n1542_017:0762a15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾不善非不善為因等者，一切應分別。",
+        "translation": "How many are unwholesome and not-well-being as causes and so forth, all of which should be discerned?",
+        "source": "T26n1542_017:0762a17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色蘊有三句。",
+        "translation": "It means that the form aggregate has three phrases.",
+        "source": "T26n1542_017:0762a18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善為因非不善，謂不善異熟生色蘊。",
+        "translation": "Sometimes what's unwholesome is the cause and not unwholesome, which is the aggregate of form produced by unwholesome ripening.",
+        "source": "T26n1542_017:0762a18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善亦不善為因，謂不善色蘊。",
+        "translation": "Sometimes what's neither good nor unskillful is the cause, which is the aggregate of unskillful form.",
+        "source": "T26n1542_017:0762a19_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非不善非不善為因，謂除不善異熟色蘊諸餘無記，及善色蘊。",
+        "translation": "Whether it's not unwholesome or unwholesome as cause, it's the aggregate of form that's neither good nor unwholesome, which is indeterminate except for the aggregate of unwholesome ripening form, and the aggregate of good form.",
+        "source": "T26n1542_017:0762a20_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受蘊有三句。",
+        "translation": "The aggregate of feeling has three phrases.",
+        "source": "T26n1542_017:0762a21_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善為因非不善，謂不善異熟生受蘊，及欲界繫有身見邊執見相應受蘊。",
+        "translation": "They may be unwholesome as cause or not wholesome, meaning the aggregate of unwholesome ripening form, and the aggregate of form associated with attachment to the view of attachment to the body of the form that's bound to the desire realm.",
+        "source": "T26n1542_017:0762a21_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善亦不善為因，謂不善受蘊。",
+        "translation": "The feeling aggregate that's neither good nor unskillful as cause is the feeling aggregate of unskillfulness.",
+        "source": "T26n1542_017:0762a23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非不善非不善為因，謂除不善異熟生受蘊，及除欲界繫有身見邊執見相應受蘊諸餘無記，及善受蘊。",
+        "translation": "What's neither good nor unwholesome as a cause is the aggregate of feelings other than unwholesome ripeness, and the aggregate of indeterminate views associated with attachment to views of the body tied to the desire realm, as well as the aggregate of wholesome feelings.",
+        "source": "T26n1542_017:0762a24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "想、識蘊亦爾。",
+        "translation": "The same goes for the aggregates of perception and consciousness.",
+        "source": "T26n1542_017:0762a26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行蘊有三句。",
+        "translation": "The aggregate of volition has three phrases.",
+        "source": "T26n1542_017:0762a27_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善為因非不善，謂不善異熟生行蘊，及欲界繫有身見邊執見，及彼相應彼等起行蘊。",
+        "translation": "Those that are neither good nor unskillful as causes are the formative aggregate of unskillful ripening birth, the formative aggregate of attachment to views that are bound to the body in the desire realm, and the formative aggregate that arises in association with those views.",
+        "source": "T26n1542_017:0762a27_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善亦不善為因，謂不善行蘊。",
+        "translation": "What's neither good nor unskillful as cause refers to the unskillful aggregate of conditioned formations.",
+        "source": "T26n1542_017:0762a29_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非不善非不善為因，謂除不善異熟行蘊，及除欲界繫有身見邊執見并彼相應彼等起行蘊，諸餘無記及善行蘊。",
+        "translation": "What's not good and not good as causes are the remaining indeterminate and good formative aggregates, except for the unskillful ripening formative aggregate, and except for the formative aggregates that arise from attachment to a view of the finite body that's bound to the desire realm and its concomitant with that view.",
+        "source": "T26n1542_017:0762b01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾無記非無記為因等者，一切應分別，謂各有三句。",
+        "translation": "How many indeterminate and non-indeterminate causes are there, and so forth, which should all be distinguished, namely, three phrases each?",
+        "source": "T26n1542_017:0762b03_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或無記為因非無記，謂不善五蘊。",
+        "translation": "Some are caused by indeterminacy and some aren't indeterminacy, which are the five aggregates of what's unwholesome.",
+        "source": "T26n1542_017:0762b05_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或無記亦無記為因，謂無記五蘊。",
+        "translation": "Some have neither indeterminacy nor indeterminacy as causes, which are the five aggregates of indeterminacy.",
+        "source": "T26n1542_017:0762b05_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非無記非無記為因，謂善五蘊。",
+        "translation": "What's not indeterminate and what's not indeterminate as cause are the five good aggregates.",
+        "source": "T26n1542_017:0762b06_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾因緣非有因等者，一切是因緣亦有因。",
+        "translation": "How many causes and conditions aren't causes? All of them are causes and conditions that also have causes.",
+        "source": "T26n1542_017:0762b07_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾等無間非等無間緣等者，一非等無間非等無間緣，四應分別。",
+        "translation": "How many causes and conditions are equally and uninterruptedly and not equally and uninterruptedly conditioned?\" This refers to the four discriminable causes that are not equally and uninterruptedly and not equally and uninterruptedly conditioned.",
+        "source": "T26n1542_017:0762b08_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂受蘊有三句。",
+        "translation": "There are three statements referring to the aggregate of sensation.",
+        "source": "T26n1542_017:0762b09_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間非等無間緣，謂未來現前正起受蘊，及過去現在阿羅漢命終時受蘊。",
+        "translation": "They are the feeling aggregate that's directly produced in the future and the feeling aggregate that's experienced at the end of an arhat's life in the past and present, which are both equally and unequally induced and not equally induced conditions.",
+        "source": "T26n1542_017:0762b10_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間亦等無間緣，謂除過去現在阿羅漢命終時受蘊，諸餘過去現在受蘊。",
+        "translation": "Either they are equally and immediately conditioned, meaning the aggregate of sensation at the end of an arhat's life in the past present and the aggregate of sensation in the other past present.",
+        "source": "T26n1542_017:0762b12_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非等無間非等無間緣，謂除未來現前正起受蘊，諸餘未來受蘊。",
+        "translation": "These are the feeling aggregates in the future, except for the feeling aggregates that are directly produced in the future present, and the remaining feeling aggregates in the future.",
+        "source": "T26n1542_017:0762b13_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "想、識蘊亦爾。",
+        "translation": "The same goes for the aggregates of perception and consciousness.",
+        "source": "T26n1542_017:0762b15_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行蘊有三句。",
+        "translation": "The aggregate of volition has three terms.",
+        "source": "T26n1542_017:0762b15_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間非等無間緣，謂未來現前正起心所行蘊，及過去現在阿羅漢命終時心所行蘊，并已生正起無想滅定。",
+        "translation": "They are either equally uninterrupted or unequally uninterrupted conditions, which refer to the aggregate of mental functions that are directly produced in the future present, the aggregate of mental functions that will exist at the end of an arhat's life in the past present, and the concentration of cessation without perception that has been correctly produced.",
+        "source": "T26n1542_017:0762b16_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間亦等無間緣，謂除過去現在阿羅漢命終時心心所行蘊，諸餘過去現在心所行蘊。",
+        "translation": "Either equally and immediately conditioned, these are the mental functions of the mind at the time of the arhat's life in the past present, except for the mental functions of the mind at the time of the arhat's life in the past present, and the mental functions of the other mental functions in the past present.",
+        "source": "T26n1542_017:0762b18_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非等無間非等無間緣，謂除未來現前正起心所行蘊諸餘未來心所行蘊，及除等無間心不相應行諸餘心不相應行。",
+        "translation": "These are the mental functions of the mind at the time of the life of the arhat in the past and the mental functions of the remaining mental functions in the past, except for the mental functions of the mind in the future, which are directly initiated in the present, and the mental functions of the remaining mental factors that are not associated with the mental factors that are equally and immediately antecedent.",
+        "source": "T26n1542_017:0762b20_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾所緣緣非有所緣等者，一是所緣緣非有所緣，三是所緣緣亦有所緣，一應分別。",
+        "translation": "How many perceptual objects and not perceptual objects are perceptual objects and not perceptual objects, and three are perceptual objects and perceptual objects that should be discerned?",
+        "source": "T26n1542_017:0762b23_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂行蘊，若諸心所是所緣緣亦有所緣，若非心所是所緣緣非有所緣。",
+        "translation": "It's the aggregate of conditioned phenomena, if mental factors are conditioned and have conditioned objects, and if non-mental factors are conditioned and don't have conditioned objects.",
+        "source": "T26n1542_017:0762b25_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾增上緣非有增上等者，一切是增上緣亦有增上。",
+        "translation": "How many of these are contributory conditions that aren't contributory? Everything that is a contributory condition also has a contributory condition?",
+        "source": "T26n1542_017:0762b27_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾暴流非順暴流等者，一切應分別。",
+        "translation": "How many violent currents are not following violent currents? All of them should be discriminated.",
+        "source": "T26n1542_017:0762b28_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色蘊，若有漏順暴流非暴流，若無漏非暴流非順暴流。",
+        "translation": "It means that if the form aggregate is contaminated, then it's following torrents and not torrents, and if it's uncontaminated, not torrents, and not following torrents.",
+        "source": "T26n1542_017:0762b29_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受、想、識蘊亦爾。",
+        "translation": "The same goes for the aggregates of feeling, perception, and consciousness.",
+        "source": "T26n1542_017:0762c01_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行蘊有三句。",
+        "translation": "The aggregate of volition has three phrases.",
+        "source": "T26n1542_017:0762c01_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或順暴流非暴流，謂暴流所不攝有漏行蘊。",
+        "translation": "They are those that follow torrential flow and those that don't follow torrential flow, meaning the contaminated form aggregate isn't included in torrential flow.",
+        "source": "T26n1542_017:0762c02_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或暴流亦順暴流，謂四暴流。",
+        "translation": "Some are violent and compliant with violent flow, which are the four violent currents.",
+        "source": "T26n1542_017:0762c03_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非暴流非順暴流，謂無漏行蘊。",
+        "translation": "Those that are not violent and those that are not following violent currents are the uncontaminated aggregate of formative forces.",
+        "source": "T26n1542_017:0762c03_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十八界者，謂眼界色界眼識界乃至意界法界意識界。",
+        "translation": "The 18 elements are the element of vision, element of form, element of visual consciousness, and element of mind and element of Dharma, which is the element of consciousness.",
+        "source": "T26n1542_017:0762c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此十八界，幾有色等者，十有色，七無色，一應分別。",
+        "translation": "Of these 18 elements, how many are colored and so forth? 10 are colored, and 7 are formless, and one should be discerned.",
+        "source": "T26n1542_017:0762c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，或有色、或無色。",
+        "translation": "They are the Dharma realm that's either colored or formless.",
+        "source": "T26n1542_017:0762c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有色？",
+        "translation": "How are they colored?",
+        "source": "T26n1542_017:0762c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝身語業，諸餘法界是無色。",
+        "translation": "It means that the body, speech, and actions included in the Dharma realm and the rest of the Dharma realm are formless.",
+        "source": "T26n1542_017:0762c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有見等者，一有見，十七無見。",
+        "translation": "How many views are there, such as one view and 17 no views?",
+        "source": "T26n1542_017:0762c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有對等者，十有對，八無對。",
+        "translation": "How many exist in opposition and so forth, ten in opposition and eight in absence of opposition?",
+        "source": "T26n1542_017:0762c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有漏等者，十五有漏，三應分別。",
+        "translation": "How many are contaminated and so forth, fifteen are contaminated, and three should be discerned?",
+        "source": "T26n1542_017:0762c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意界，或有漏、或無漏。",
+        "translation": "It's the mind realm, which may be contaminated or uncontaminated.",
+        "source": "T26n1542_017:0762c11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有漏？",
+        "translation": "How are they contaminated?",
+        "source": "T26n1542_017:0762c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有漏作意相應意界。",
+        "translation": "It's the mental factor associated with contaminated contemplation.",
+        "source": "T26n1542_017:0762c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無漏？",
+        "translation": "How is it uncontaminated?",
+        "source": "T26n1542_017:0762c12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無漏作意相應意界。",
+        "translation": "It's the mental factor associated with uncontaminated contemplation.",
+        "source": "T26n1542_017:0762c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same goes for the mental consciousness element.",
+        "source": "T26n1542_017:0762c13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界，或有漏、或無漏。",
+        "translation": "The Dharma realm may be contaminated or uncontaminated.",
+        "source": "T26n1542_017:0762c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有漏？",
+        "translation": "What's contaminated?",
+        "source": "T26n1542_017:0762c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝有漏身語業及有漏受想行蘊。",
+        "translation": "It refers to the contaminated body, speech, action, and contaminated feelings, perceptions, and volitional aggregates that are included in the Dharma realm.",
+        "source": "T26n1542_017:0762c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無漏？",
+        "translation": "What are they, the uncontaminated?",
+        "source": "T26n1542_017:0762c15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無漏身語業及無漏受想行蘊并無為法。",
+        "translation": "They are the uncontaminated body, speech, actions, uncontaminated feelings, perceptions, volitions, and uncontained dharmas.",
+        "source": "T26n1542_017:0762c15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有為等者，十七是有為，一應分別。",
+        "translation": "How many existences and so forth? 17 are existences, and one should be discerned.",
+        "source": "T26n1542_017:0762c16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，或有為、或無為。",
+        "translation": "They are the Dharma realm that's either existent or nonexistent.",
+        "source": "T26n1542_017:0762c17_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有為？",
+        "translation": "What are the existent forms?",
+        "source": "T26n1542_017:0762c17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝身語業及受想行蘊。",
+        "translation": "It's the aggregate of body, speech, action, feeling, perception, and volition that's included in the Dharma realm.",
+        "source": "T26n1542_017:0762c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無為？",
+        "translation": "What is nonproductivity?",
+        "source": "T26n1542_017:0762c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂虛空、二滅。",
+        "translation": "They are space and two kinds of cessation.",
+        "source": "T26n1542_017:0762c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有異熟等者，八無異熟，十應分別。",
+        "translation": "How many kinds of ripening and so forth? The eight kinds of lack of ripening should be discerned from the ten.",
+        "source": "T26n1542_017:0762c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界，或有異熟、或無異熟。",
+        "translation": "They are the form realm, which may or may not have [karmic] retribution.",
+        "source": "T26n1542_017:0762c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有異熟？",
+        "translation": "How is there another kind of ripening?",
+        "source": "T26n1542_017:0762c20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂善不善色界。",
+        "translation": "It's the good and unskillful form realm.",
+        "source": "T26n1542_017:0762c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無異熟？",
+        "translation": "How is it lacking ripening?",
+        "source": "T26n1542_017:0762c21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無記色界聲。",
+        "translation": "It's the sound of the indeterminate form realm.",
+        "source": "T26n1542_017:0762c21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及五識界亦爾。",
+        "translation": "So are the five consciousnesses and the element of sound.",
+        "source": "T26n1542_017:0762c22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意界，或有異熟、或無異熟。",
+        "translation": "In the mental realm, there may or may not be ripening.",
+        "source": "T26n1542_017:0762c22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有異熟？",
+        "translation": "How is there another kind of ripening?",
+        "source": "T26n1542_017:0762c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不善善有漏意界。",
+        "translation": "It's the realm of unwholesome, wholesome, contaminated thoughts.",
+        "source": "T26n1542_017:0762c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無異熟？",
+        "translation": "What is non-maturation?",
+        "source": "T26n1542_017:0762c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無記無漏意界。",
+        "translation": "This refers to the element of indeterminate, uncontaminated thought.",
+        "source": "T26n1542_017:0762c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界、意識界亦爾。",
+        "translation": "So are the Dharma realm and the realm of consciousness.",
+        "source": "T26n1542_017:0762c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾是緣生等者，十七是緣生是因生是世攝，一應分別。",
+        "translation": "How many are conditions that arise and so forth? The 17 are conditions that arise, causes that arise, and worldly inclusions, and each should be discerned.",
+        "source": "T26n1542_017:0762c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，若有為是緣生是因生是世攝，若無為非緣生非因生非世攝。",
+        "translation": "It's the Dharma realm that's contingent on birth, which is caused by birth and is included in the world, and the nonsentient realm that's not contingent on birth, which is not caused by birth and is not included in the world.",
+        "source": "T26n1542_017:0762c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾色攝等者，十是色攝，七是名攝，一應分別。",
+        "translation": "How many forms are included and so forth? Ten are included by forms, and seven are included by names, which should be discerned as one.",
+        "source": "T26n1542_017:0762c27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝身語業是色攝，餘皆是名攝。",
+        "translation": "They are the physical, verbal, and karmic activities that are included in the Dharma realm, which are included in form, and the others are included in names.",
+        "source": "T26n1542_017:0762c28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾內處攝等者，十二是內處攝，六是外處攝。",
+        "translation": "How many internal sense-fields are included and so forth? Twelve are internal sense-fields, and six are external sense-fields.",
+        "source": "T26n1542_017:0762c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾智遍知所遍知等者，一切是智遍知所遍知。",
+        "translation": "How many knowables, pervasive knowables, and so forth, are all knowables and pervasive knowables?",
+        "source": "T26n1542_017:0763a01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此十八界，幾斷遍知所遍知等者，十五是斷遍知所遍知，三應分別。",
+        "translation": "Of these 18 elements, how many are cut off, pervasive knowables and pervasive knowables? Fifteen are cut off, pervasive knowables and pervasive knowables, and three should be discerned.",
+        "source": "T26n1542_017:0763a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意法意識界，若有漏是斷遍知所遍知，若無漏非斷遍知所遍知。",
+        "translation": "They are the mental factor of mind and the mental consciousness, which are pervasive knowables that are ended if they are contaminated and pervasive knowables that are not ended if they are uncontaminated.",
+        "source": "T26n1542_017:0763a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾應斷等者，十五是應斷，三應分別。",
+        "translation": "How many should be stopped and so forth? Fifteen are to be stopped, and three are to be discerned.",
+        "source": "T26n1542_017:0763a06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意法意識界，若有漏是應斷，若無漏不應斷。",
+        "translation": "They are those in the realm of the thinking consciousness of mind and dharmas that should be stopped if there are contaminants and those that shouldn't be stopped if there are no contaminants.",
+        "source": "T26n1542_017:0763a06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾應修等者，八不應修，十應分別。",
+        "translation": "How many should be cultivated and so forth? Eight should not be cultivated, and ten should be discriminated.",
+        "source": "T26n1542_017:0763a07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界，或應修、或不應修。",
+        "translation": "They are the form realm, which should either be cultivated or not cultivated.",
+        "source": "T26n1542_017:0763a08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何應修？",
+        "translation": "How should they be cultivated?",
+        "source": "T26n1542_017:0763a09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂善色界。",
+        "translation": "It's called the well-formed realm.",
+        "source": "T26n1542_017:0763a09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不應修？",
+        "translation": "How should it not be cultivated?",
+        "source": "T26n1542_017:0763a09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不善無記色界。",
+        "translation": "It's the unwholesome, indeterminate form realm.",
+        "source": "T26n1542_017:0763a10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界、六識界意界亦爾。",
+        "translation": "The same goes for the voice realm and the six consciousness realms and the mind realm.",
+        "source": "T26n1542_017:0763a10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界，或應修、或不應修。",
+        "translation": "In the Dharma realm, something should be cultivated or not cultivated.",
+        "source": "T26n1542_017:0763a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何應修？",
+        "translation": "What should be cultivated?",
+        "source": "T26n1542_017:0763a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂善有為法界。",
+        "translation": "It's the realm of good and artificial things.",
+        "source": "T26n1542_017:0763a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不應修？",
+        "translation": "How should it not be cultivated?",
+        "source": "T26n1542_017:0763a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不善、無記法界及擇滅。",
+        "translation": "They are unwholesome, the indeterminate realm of reality, and cessation by analytical meditation.",
+        "source": "T26n1542_017:0763a12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾染污等者，八不染污，十應分別。",
+        "translation": "How many defilements and so forth? The eight are undefiled, and the ten are to be discerned.",
+        "source": "T26n1542_017:0763a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界，或染污、或不染污。",
+        "translation": "They are the form realm, which may be defiled or undefiled.",
+        "source": "T26n1542_017:0763a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何染污？",
+        "translation": "How are they defiled?",
+        "source": "T26n1542_017:0763a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有覆色界。",
+        "translation": "It means there's an obstruction in the form realm.",
+        "source": "T26n1542_017:0763a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不染污？",
+        "translation": "How is it not defiled?",
+        "source": "T26n1542_017:0763a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無覆色界。",
+        "translation": "It's the unobstructed form realm.",
+        "source": "T26n1542_017:0763a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界、六識界、意法界亦爾。",
+        "translation": "So are the realms of voice, the six consciousnesses, and the mind-function realm.",
+        "source": "T26n1542_017:0763a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾果非有果等者，十七是果亦有果，一應分別。",
+        "translation": "How many fruits are not fruits? 17 are fruits and existences, and one should discriminate between them.",
+        "source": "T26n1542_017:0763a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界有三句。",
+        "translation": "There are three phrases in the realm of reality.",
+        "source": "T26n1542_017:0763a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是果非有果，謂擇滅。",
+        "translation": "Either the fruit is not a fruit that exists, which is cessation by analytical meditation.",
+        "source": "T26n1542_017:0763a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是果亦有果，謂有為法界。",
+        "translation": "Whether it's a fruit that's also a fruit, it's the realm of existence.",
+        "source": "T26n1542_017:0763a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非果非有果，謂虛空、非擇滅。",
+        "translation": "It may not be a fruit or a consequence that's not existent, which is the cessation of space and non-analytical cessation.",
+        "source": "T26n1542_017:0763a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有執受等者，九無執受，九應分別。",
+        "translation": "How many attachments and so forth? There are nine attachments that aren't attachments and nine that should be discerned.",
+        "source": "T26n1542_017:0763a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼界，或有執受、或無執受。",
+        "translation": "They are the visual realm, which may or may not have appropriation or appropriation.",
+        "source": "T26n1542_017:0763a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有執受？",
+        "translation": "How are there appropriated feelings?",
+        "source": "T26n1542_017:0763a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自體所攝眼界。",
+        "translation": "It's the visual field that's included in its own body.",
+        "source": "T26n1542_017:0763a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無執受？",
+        "translation": "What is the absence of appropriation?",
+        "source": "T26n1542_017:0763a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂非自體所攝眼界。",
+        "translation": "It's the eye realm that's not included in the essence.",
+        "source": "T26n1542_017:0763a21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色、耳、鼻、香、舌、味、身、觸界亦爾。",
+        "translation": "The same goes for the form, ear, nose, odor, tongue, taste, body, and tactile realms.",
+        "source": "T26n1542_017:0763a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾大種所造等者，九及二少分是大種所造，七及二少分非大種所造。",
+        "translation": "How many elements are created by the elements? Nine and two lesser elements are created by the elements, and seven and two lesser elements are not created by the elements.",
+        "source": "T26n1542_017:0763a22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有上等者，十七有上，一應分別。",
+        "translation": "How many of them are greater than the others? The 17 that are greater than one should be discerned.",
+        "source": "T26n1542_017:0763a24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，或有上、或無上。",
+        "translation": "The Dharma realm may be superior or unsurpassed.",
+        "source": "T26n1542_017:0763a25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有上？",
+        "translation": "How are they superior?",
+        "source": "T26n1542_017:0763a25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有為法界及虛空、非擇滅。",
+        "translation": "It refers to the artificial realm of reality, space, and non-selective cessation.",
+        "source": "T26n1542_017:0763a26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無上？",
+        "translation": "How are they unsurpassed?",
+        "source": "T26n1542_017:0763a26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂擇滅。",
+        "translation": "It's called scrutiny and cessation.",
+        "source": "T26n1542_017:0763a26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾是有等者，十五是有，三應分別。",
+        "translation": "How many are existent? The fifteen are existent, and the three should be discerned.",
+        "source": "T26n1542_017:0763a27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意法意識界，若有漏是有，若無漏非有。",
+        "translation": "They are the mental factor of the mental consciousness, which is existent if it's contaminated and nonexistent if it's uncontaminated.",
+        "source": "T26n1542_017:0763a27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾因相應等者，七因相應，十因不相應，一應分別。",
+        "translation": "How many are associated with causes? Seven are associated with causes, and ten are not associated with causes, and one should be discriminated.",
+        "source": "T26n1542_017:0763a28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，若諸心所因相應，若非心所因不相應。",
+        "translation": "They are the Dharma realm that's associated with causes that are mental, and the realm that's not associated with causes that are not mental.",
+        "source": "T26n1542_017:0763a29_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此十八界，與六善處相攝者，六善處攝十界少分，十界少分亦攝六善處。",
+        "translation": "These 18 elements are included with the six good states, which are included in a few of the 10 elements, and the few of the 10 elements are included in the six good states.",
+        "source": "T26n1542_017:0763b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與五不善處相攝者，五不善處攝十界少分，十界少分亦攝五不善處。",
+        "translation": "When it's included with the five unwholesome states, the five unwholesome states include the ten realms in a small part, and the ten realms in a small part also include the five unwholesome states.",
+        "source": "T26n1542_017:0763b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與七無記處相攝者，七無記處攝八界十界少分，八界十界少分亦攝七無記處。",
+        "translation": "They are included with the seven bases of indeterminacy, which include the eight realms and the ten realms in their small parts, and the eight realms and the ten realms in their small parts, which also include the seven bases of indeterminacy.",
+        "source": "T26n1542_017:0763b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與三漏處相攝者，三漏處攝一界少分，一界少分亦攝三漏處。",
+        "translation": "Those included with the three contaminated places are those in which the three contaminated places are included in a few parts of the first realm, and the few parts of the first realm are included in the three contaminated places.",
+        "source": "T26n1542_017:0763b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與五有漏處相攝者，五有漏處攝十五界三界少分，十五界三界少分亦攝五有漏處。",
+        "translation": "Those who are included with the five contaminated places are those whose five contaminated places include the three lesser parts of the fifteen elements, and the three lesser parts of the fifteen elements also include the five contaminated places.",
+        "source": "T26n1542_017:0763b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與八無漏處相攝者，八無漏處攝三界少分，三界少分亦攝八無漏處。",
+        "translation": "Those who are included with the eight uncontaminated places are included in the eight uncontaminated places, which are included in the three realms and the lesser parts of the three realms, which are included in the eight uncontaminated places.",
+        "source": "T26n1542_017:0763b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾過去等者，十七或過去或未來或現在，一應分別。",
+        "translation": "\"How many past and past?\" refers to the seventeen discriminations of past, future, and present.",
+        "source": "T26n1542_017:0763b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，若有為或過去或未來或現在，若無為非過去非未來非現在。",
+        "translation": "They are the Dharma realm that's existent, past, future, or present, and the nonexistent realm that's not past, not future, or present.",
+        "source": "T26n1542_017:0763b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾善等者，八無記，十應分別。",
+        "translation": "How many are good and so forth, eight are indeterminate, and ten should be discerned?",
+        "source": "T26n1542_017:0763b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界，或善、或不善、或無記。",
+        "translation": "It's the form realm that's either good, unskillful, or indeterminate.",
+        "source": "T26n1542_017:0763b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何善？",
+        "translation": "What's good?",
+        "source": "T26n1542_017:0763b16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂善身表。",
+        "translation": "\"It's a representation of a good body.",
+        "source": "T26n1542_017:0763b16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不善？",
+        "translation": "How is it not good?",
+        "source": "T26n1542_017:0763b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不善身表。",
+        "translation": "It's the expression of an unwholesome body.",
+        "source": "T26n1542_017:0763b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無記？",
+        "translation": "How is it indeterminate?",
+        "source": "T26n1542_017:0763b17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂除善不善身表諸餘色界。",
+        "translation": "These are the form realms other than the good and unskillful body representations.",
+        "source": "T26n1542_017:0763b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界，或善、或不善、或無記。",
+        "translation": "The voice realm is either good, unskillful, or indeterminate.",
+        "source": "T26n1542_017:0763b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何善？",
+        "translation": "What's good?",
+        "source": "T26n1542_017:0763b18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂善語表。",
+        "translation": "It's called a statement of good speech.",
+        "source": "T26n1542_017:0763b18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不善？",
+        "translation": "How is it not good?",
+        "source": "T26n1542_017:0763b18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不善語表。",
+        "translation": "It's a statement of unwholesome speech.",
+        "source": "T26n1542_017:0763b19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無記？",
+        "translation": "How is it indeterminate?",
+        "source": "T26n1542_017:0763b19_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂除善、不善語表諸餘聲界。",
+        "translation": "It's the remaining sound element, except for the expressions of good and unskillful speech.",
+        "source": "T26n1542_017:0763b19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼識界，或善、或不善、或無記。",
+        "translation": "The element of visual consciousness is either good, unskillful, or indeterminate.",
+        "source": "T26n1542_017:0763b20_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何善？",
+        "translation": "What's good?",
+        "source": "T26n1542_017:0763b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂善作意相應眼識。",
+        "translation": "\"Good contemplation is associated with the visual consciousness.",
+        "source": "T26n1542_017:0763b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不善？",
+        "translation": "How is it not good?",
+        "source": "T26n1542_017:0763b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不善作意相應眼識。",
+        "translation": "It's the visual consciousness associated with unwholesome contemplation.",
+        "source": "T26n1542_017:0763b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無記？",
+        "translation": "How is it indeterminate?",
+        "source": "T26n1542_017:0763b22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無記作意相應眼識。",
+        "translation": "It's the eye consciousness that's associated with indeterminate contemplation.",
+        "source": "T26n1542_017:0763b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘五識界、意界亦爾。",
+        "translation": "The same goes for the other five consciousnesses and the mind realm.",
+        "source": "T26n1542_017:0763b23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界，或善、或不善、或無記。",
+        "translation": "The Dharma realm is either good, unskillful, or indeterminate.",
+        "source": "T26n1542_017:0763b23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何善？",
+        "translation": "What's good?",
+        "source": "T26n1542_017:0763b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝善身語業及善受想行蘊并擇滅。",
+        "translation": "It means the Dharma realm contains good physical, verbal, and verbal actions, good feelings, perceptions, volitions, and aggregates that are selected and ceased.",
+        "source": "T26n1542_017:0763b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不善？",
+        "translation": "How are they not good?",
+        "source": "T26n1542_017:0763b25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝不善身語業及不善受想行蘊。",
+        "translation": "These are the unwholesome physical and verbal actions and the unwholesome feeling, perception, and volitional aggregates that are included in the Dharma realm.",
+        "source": "T26n1542_017:0763b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無記？",
+        "translation": "What is indeterminate?",
+        "source": "T26n1542_017:0763b26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無記受想行蘊及虛空、非擇滅。",
+        "translation": "They are the aggregate of indeterminate feeling, perception, volition, space, and non-selective cessation.",
+        "source": "T26n1542_017:0763b26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾欲界繫等者，四欲界繫，十四應分別。",
+        "translation": "\"How many desire-sector fetters and so forth? The four desire-sector fetters are 14 to be discerned.",
+        "source": "T26n1542_017:0763b27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼界，或欲界繫、或色界繫。",
+        "translation": "They are the fetters of the eye realm, the fetters of the desire realm, and the fetters of the form realm.",
+        "source": "T26n1542_017:0763b28_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何欲界繫？",
+        "translation": "What are the fetters of the desire realm?",
+        "source": "T26n1542_017:0763b29_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界大種所造眼界。",
+        "translation": "It's the visual sphere created by the material elements of the desire realm.",
+        "source": "T26n1542_017:0763b29_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何色界繫？",
+        "translation": "What are the fetters of the form realm?",
+        "source": "T26n1542_017:0763c01_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界大種所造眼界。",
+        "translation": "It's the eye realm created by the material elements of the form realm.",
+        "source": "T26n1542_017:0763c01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色、耳、聲、鼻、舌、身界亦爾。",
+        "translation": "The form, ear, sound, nose, tongue, and body realms are likewise.",
+        "source": "T26n1542_017:0763c01_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觸界，或欲界繫、或色界繫。",
+        "translation": "The contact realm is either bound to the desire realm or to the form realm.",
+        "source": "T26n1542_017:0763c02_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何欲界繫？",
+        "translation": "What are the fetters of the desire realm?",
+        "source": "T26n1542_017:0763c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界四大種及所造觸界。",
+        "translation": "They are the four major seeds of the desire realm and the contact realm that they create.",
+        "source": "T26n1542_017:0763c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何色界繫？",
+        "translation": "What are the fetters of the form realm?",
+        "source": "T26n1542_017:0763c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界四大種及所造觸界。",
+        "translation": "These are the four major varieties of the form realm and the tactile realm that's created.",
+        "source": "T26n1542_017:0763c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼識界，或欲界繫、或色界繫。",
+        "translation": "The visual consciousness realm is either bound to the desire realm or to the form realm.",
+        "source": "T26n1542_017:0763c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何欲界繫？",
+        "translation": "What are the fetters of the desire realm?",
+        "source": "T26n1542_017:0763c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界作意相應眼識。",
+        "translation": "It's the visual consciousness associated with the contemplation of the desire realm.",
+        "source": "T26n1542_017:0763c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何色界繫？",
+        "translation": "What is the fettering in the form realm?",
+        "source": "T26n1542_017:0763c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界作意相應眼識。",
+        "translation": "The form realm is associated with the contemplation of the eye consciousness.",
+        "source": "T26n1542_017:0763c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、身、識界亦爾。",
+        "translation": "The same goes for the ear, body, and consciousness realms.",
+        "source": "T26n1542_017:0763c07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意界，或欲界繫、或色界繫、或無色界繫、或不繫。",
+        "translation": "The mental realm may be fettered in the desire realm, fettered in the form realm, fettered in the formless realm, or not fettered at all.",
+        "source": "T26n1542_017:0763c07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何欲界繫？",
+        "translation": "What's the fettering of the desire realm?",
+        "source": "T26n1542_017:0763c08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界作意相應意界。",
+        "translation": "It's the mental factor associated with contemplation in the desire realm.",
+        "source": "T26n1542_017:0763c08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何色界繫？",
+        "translation": "What are the fetters of the form realm?",
+        "source": "T26n1542_017:0763c09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界作意相應意界。",
+        "translation": "It's the mental factor associated with contemplation in the form realm.",
+        "source": "T26n1542_017:0763c09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無色界繫？",
+        "translation": "What is the fettering of the formless realm?",
+        "source": "T26n1542_017:0763c10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無色界作意相應意界。",
+        "translation": "It's the mental element associated with contemplation in the formless realm.",
+        "source": "T26n1542_017:0763c10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不繫？",
+        "translation": "How is it not bound?",
+        "source": "T26n1542_017:0763c11_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無漏作意相應意界。",
+        "translation": "It's the mental factor associated with uncontaminated contemplation.",
+        "source": "T26n1542_017:0763c11_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same goes for the mental consciousness element.",
+        "source": "T26n1542_017:0763c11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界，或欲界繫、或色界繫、或無色界繫、或不繫。",
+        "translation": "The Dharma realm is either bound to the desire realm, bound to the form realm, bound to the formless realm, or not bound at all.",
+        "source": "T26n1542_017:0763c12_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何欲界繫？",
+        "translation": "What's the fettering of the desire realm?",
+        "source": "T26n1542_017:0763c13_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝欲界身語業及欲界受想行蘊。",
+        "translation": "It refers to the body, speech, actions, and form, feeling, perception, and volitional aggregates of the desire realm that are included in the Dharma realm.",
+        "source": "T26n1542_017:0763c13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何色界繫？",
+        "translation": "What are the fetters of the form realm?",
+        "source": "T26n1542_017:0763c14_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝色界身語業及色界受想行蘊。",
+        "translation": "It refers to the body, speech, actions, and form realms that are included in the Dharma realm and the form realm's appropriation, perception, and volitional aggregates.",
+        "source": "T26n1542_017:0763c14_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無色界繫？",
+        "translation": "What are the fetters of the formless realm?",
+        "source": "T26n1542_017:0763c15_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無色界受想行蘊。",
+        "translation": "It's the formless realm of feeling, perception, and volition.",
+        "source": "T26n1542_017:0763c16_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不繫？",
+        "translation": "How are they not bound?",
+        "source": "T26n1542_017:0763c16_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無漏身語業及無漏受想行蘊并無為法。",
+        "translation": "They are uncontaminated body, speech, uncontaminated feeling, perception, volition, and the unmanifest dharmas.",
+        "source": "T26n1542_017:0763c16_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾學等者，十五非學非無學，三應分別。",
+        "translation": "How much training and so forth are the 15 things that are not training or are not training, and the three should be discerned.",
+        "source": "T26n1542_017:0763c17_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意界，或學、或無學、或非學非無學。",
+        "translation": "They are the mental factor that's either training, untraining, or neither training nor untraining.",
+        "source": "T26n1542_017:0763c18_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何學？",
+        "translation": "What's training?",
+        "source": "T26n1542_017:0763c19_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂學作意相應意界。",
+        "translation": "It's the mental factor associated with training contemplation.",
+        "source": "T26n1542_017:0763c19_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無學？",
+        "translation": "What is post-learning?",
+        "source": "T26n1542_017:0763c20_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無學作意相應意界。",
+        "translation": "It's the mental factor associated with post-learning contemplation.",
+        "source": "T26n1542_017:0763c20_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非學非無學？",
+        "translation": "How is it neither training nor no-training?",
+        "source": "T26n1542_017:0763c21_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有漏作意相應意界。",
+        "translation": "It's the mental factor associated with contaminated contemplation.",
+        "source": "T26n1542_017:0763c21_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same goes for the mental consciousness element.",
+        "source": "T26n1542_017:0763c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界，或學、或無學、或非學非無學。",
+        "translation": "The experiential realm may be learned, unlearned, or neither learned nor unlearned.",
+        "source": "T26n1542_017:0763c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何學？",
+        "translation": "What is training?",
+        "source": "T26n1542_017:0763c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂學身語業及學受想行蘊。",
+        "translation": "It's the study of physical and verbal activity and the study of the sensation, perception, and volitional aggregates.",
+        "source": "T26n1542_017:0763c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無學？",
+        "translation": "What is post-learning?",
+        "source": "T26n1542_017:0763c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無學身語業及無學受想行蘊。",
+        "translation": "It's called the post-learning physical and verbal activity and the post-learning feeling, perception, and volitional aggregates.",
+        "source": "T26n1542_017:0763c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非學非無學？",
+        "translation": "How are these neither training nor no-training?",
+        "source": "T26n1542_017:0763c24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界所攝有漏身語業及有漏受想行蘊并無為法。",
+        "translation": "It refers to the contaminated body, speech, contaminated feeling, perception, volition, and the unmanifest dharmas that are included in the Dharma realm.",
+        "source": "T26n1542_017:0763c25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此十八界，幾見所斷等者，十五修所斷，三應分別。",
+        "translation": "Of these 18 elements, how many are stopped by views and so forth, 15 are stopped by cultivation, and three should be discerned.",
+        "source": "T26n1542_017:0763c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意界，或見所斷、或修所斷、或非所斷。",
+        "translation": "It's the mind element that's either stopped by views, stopped by cultivation, or stopped by neither.",
+        "source": "T26n1542_017:0763c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何見所斷？",
+        "translation": "What are they that are stopped by seeing?",
+        "source": "T26n1542_017:0763c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意界隨信隨法行現觀邊忍所斷。",
+        "translation": "It's the mental factor that's stopped by faith and following the practice of the present and observing the extremes of tolerance.",
+        "source": "T26n1542_017:0763c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此復云何？",
+        "translation": "What does this furthermore mean?",
+        "source": "T26n1542_017:0764a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見所斷八十八隨眠相應意界。",
+        "translation": "It's the mental factor associated with the 88 latent tendencies that are eliminated by seeing.",
+        "source": "T26n1542_017:0764a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何修所斷？",
+        "translation": "What is it that's cultivated and eliminated?",
+        "source": "T26n1542_017:0764a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意界學見迹修所斷。",
+        "translation": "It's the cultivation of the traces of training in the mental realm that are eliminated by seeing.",
+        "source": "T26n1542_017:0764a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此復云何？",
+        "translation": "What does this furthermore mean?",
+        "source": "T26n1542_017:0764a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂修所斷十隨眠相應意界及不染污有漏意界。",
+        "translation": "It's the mental factor associated with the ten latent tendencies that are cultivated and the contaminated mental factor that's undefiled.",
+        "source": "T26n1542_017:0764a03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非所斷？",
+        "translation": "What is it that's not eliminated?",
+        "source": "T26n1542_017:0764a04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無漏意界。",
+        "translation": "It's the element of uncontaminated thought.",
+        "source": "T26n1542_017:0764a04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same goes for the mental consciousness element.",
+        "source": "T26n1542_017:0764a04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界，或見所斷、或修所斷、或非所斷。",
+        "translation": "The Dharma realm is either stopped by seeing, stopped by cultivation, or stopped by neither.",
+        "source": "T26n1542_017:0764a05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何見所斷？",
+        "translation": "What is it that's stopped by seeing?",
+        "source": "T26n1542_017:0764a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界隨信隨法行現觀邊忍所斷。",
+        "translation": "It refers to the Dharma realm that's stopped by faith, following the practice of the Dharma, and by the acceptance of the extremes of clear observation.",
+        "source": "T26n1542_017:0764a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此復云何？",
+        "translation": "What does this furthermore mean?",
+        "source": "T26n1542_017:0764a07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見所斷八十八隨眠及彼相應法界并彼等起心不相應行。",
+        "translation": "It's the 88 latent afflictions that are eliminated in the path of seeing, the associated reality realm, and the mind's unassociated practices that arise from those.",
+        "source": "T26n1542_017:0764a07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何修所斷？",
+        "translation": "What are they that are cultivated and eliminated?",
+        "source": "T26n1542_017:0764a08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界學見迹修所斷。",
+        "translation": "It's called the path of training in the Dharma realm that's eliminated by seeing the traces and cultivating it.",
+        "source": "T26n1542_017:0764a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此復云何？",
+        "translation": "What does this furthermore mean?",
+        "source": "T26n1542_017:0764a09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂修所斷十隨眠及彼相應法界，并彼等起身語業心不相應行，若不染污有漏法界。",
+        "translation": "It's the ten latent dormancies that are stopped by cultivation, the Dharma realm associated with them, and the unassociated actions of body, speech, action, and mind that arise from them, if they aren't tainted with the contaminated Dharma realm.",
+        "source": "T26n1542_017:0764a09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非所斷？",
+        "translation": "How are they not something that's stopped?",
+        "source": "T26n1542_017:0764a11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無漏法界。",
+        "translation": "It's the untainted Dharma realm.",
+        "source": "T26n1542_017:0764a12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾非心等者，十非心非心所非心相應，七唯是心，一應分別。",
+        "translation": "How many are not mind and so forth? The ten are not mind, not what's in mind, and not associated with mind, and seven are only mind, one of which should be discerned.",
+        "source": "T26n1542_017:0764a12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，若有所緣是心所與心相應，若無所緣非心非心所非心相應。",
+        "translation": "It's the Dharma realm that's associated with mind if there are perceptual objects, and it's associated with mind if there are no perceptual objects that aren't mind and that aren't associated with mind.",
+        "source": "T26n1542_017:0764a13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾隨心轉非受相應等者，十非隨心轉非受相應，七受相應非隨心轉，一應分別。",
+        "translation": "How many are not associated with feelings that follow the mind? Ten are not associated with feelings that don't follow the mind, and seven are not associated with feelings that don't follow the mind, which should be discerned from one another.",
+        "source": "T26n1542_017:0764a15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界有三句。",
+        "translation": "There are three phrases in the realm of reality.",
+        "source": "T26n1542_017:0764a17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或隨心轉非受相應，謂隨心轉身語業心不相應行及受。",
+        "translation": "What's not associated with feelings that follow the mind refers to the mind that follows the changes in body, speech, actions, mind, and feelings that aren't associated with feelings.",
+        "source": "T26n1542_017:0764a17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或隨心轉亦受相應，謂想蘊及相應行蘊。",
+        "translation": "What follows mind and is also associated with feeling is the aggregate of perception and the associated aggregate of volition.",
+        "source": "T26n1542_017:0764a18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非隨心轉非受相應，謂除隨心轉身語業心不相應行，諸餘身語業心不相應行及無為法。",
+        "translation": "What's not associated with following mind and what's not associated with feeling are the other things that are not associated with the mind of physical action, speech, actions, and feelings, as well as the other things that are not associated with the mind of physical action, speech, actions, and feelings.",
+        "source": "T26n1542_017:0764a19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾隨心轉非想行相應等者，除其自性，如受應知。",
+        "translation": "What kinds of non-conceptual formations are associated with following mind, except for their own nature, as should be known from sensation?",
+        "source": "T26n1542_017:0764a21_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾隨尋轉非伺相應等者，十非隨尋轉非伺相應，五有尋有伺，三應分別。",
+        "translation": "What are the ten things that don't follow the change of discursive thought and aren't associated with discursive thought, and what are the three things that should be discerned when there's discursive thought and discursive discursive thought?",
+        "source": "T26n1542_017:0764a22_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意界，或有尋有伺、或無尋唯伺、或無尋無伺。",
+        "translation": "It means that in the mind realm, there's either finding and probation, no finding but probation, or no finding and no probation.",
+        "source": "T26n1542_017:0764a24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有尋有伺？",
+        "translation": "What's presence of discursive examination and presence of discursive examination?",
+        "source": "T26n1542_017:0764a25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有尋有伺作意相應意界。",
+        "translation": "It's the mental factor that's associated with the contemplation that has both discursive and discursive qualities.",
+        "source": "T26n1542_017:0764a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無尋唯伺？",
+        "translation": "How is there no discursive thought but only discursive thought?",
+        "source": "T26n1542_017:0764a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無尋唯伺作意相應意界。",
+        "translation": "It's the mental factor associated with contemplation that has no discursive thought but only discursive intent.",
+        "source": "T26n1542_017:0764a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無尋無伺？",
+        "translation": "What is the absence of discursive thought and the absence of discursive intent?",
+        "source": "T26n1542_017:0764a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無尋無伺作意相應意界。",
+        "translation": "\"The mental factor associated with the contemplation of no discursive thought and no discursive expectation.",
+        "source": "T26n1542_017:0764a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The mental consciousness element is likewise.",
+        "source": "T26n1542_017:0764a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有四句。",
+        "translation": "The Dharma realm has four phrases.",
+        "source": "T26n1542_017:0764a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或隨尋轉非伺相應，謂隨尋轉身語業心不相應行及尋相應伺。",
+        "translation": "They are those that follow the turn of the search and aren't concomitant with the search, which are the actions that are unassociated with the body, speech, actions, mind, and the search that's concomitant with the search.",
+        "source": "T26n1542_017:0764a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或伺相應非隨尋轉，謂尋及尋不相應伺相應心所法。",
+        "translation": "It's contingent on and not contingent on sensation, which is the mental factors associated with sensation and the lack of concomitant sensation.",
+        "source": "T26n1542_017:0764b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或隨尋轉亦伺相應，謂尋伺相應心所法。",
+        "translation": "It's associated with [the mental factors] that are concomitant with discursive reasoning and [the mental factors] that are concomitant with discursive reasoning.",
+        "source": "T26n1542_017:0764b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非隨尋轉非伺相應，謂除隨伺轉身語業心不相應行，諸餘身語業心不相應行及尋不相應伺，并無尋無伺心所法，若無為法。",
+        "translation": "What's not associated with following finding and what's not associated with probing refers to the mental factors that are not associated with the activities of physical, verbal, and mental actions that follow probing, the mental factors that are not associated with other physical, verbal, and mental actions, and probing that are not associated with probing, and the mental factors that are not associated with probing, such as the fact that there's no probing and no probing.",
+        "source": "T26n1542_017:0764b03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾見非見處等者，一見亦見處，十四見處非見，三應分別。",
+        "translation": "\"How many views and non-views are there? One is a view, another is a view, and fourteen are views and non-views, and three should be discerned.",
+        "source": "T26n1542_017:0764b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意界，若有漏見處非見，若無漏非見非見處。",
+        "translation": "This refers to the mind realm, if there are contaminated views and non-views, and if there are uncontaminated views and non-views, then there are uncontaminated views and non-views.",
+        "source": "T26n1542_017:0764b08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same goes for the mental consciousness realm.",
+        "source": "T26n1542_017:0764b09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有四句。",
+        "translation": "The Dharma realm has four phrases.",
+        "source": "T26n1542_017:0764b09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或見非見處，謂盡無生智所不攝無漏慧。",
+        "translation": "A place that's seen and not seen refers to uncontaminated wisdom that's not included in the cognition of total nonarising.",
+        "source": "T26n1542_017:0764b09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或見處非見，謂見所不攝有漏法界。",
+        "translation": "A place of seeing that's not seen refers to the contaminated Dharma realm that's not included in views.",
+        "source": "T26n1542_017:0764b10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或見亦見處，謂五染污見及世間正見。",
+        "translation": "Some views and the locus of views refer to the five defiled views and worldly right views.",
+        "source": "T26n1542_017:0764b11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非見非見處，謂見所不攝無漏法界。",
+        "translation": "Some don't see and don't see positions, which are the uncontaminated Dharma realms that are not included in views.",
+        "source": "T26n1542_017:0764b12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾有身見為因非有身見因等者，八非有身見為因非有身見因，十應分別。",
+        "translation": "How many views of the body are causes and not causes of views of the body? The eight views that aren't views of the body are causes and not causes of views of the body, and the ten should be discerned.",
+        "source": "T26n1542_017:0764b13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界，若染污有身見為因非有身見因，若不染污非有身見為因非有身見因。",
+        "translation": "It means that in the form realm, if there's a view of the body that's defiled as a cause and not a cause of a view of the body, and if it's undefiled, then that view of the body that's not defiled as a cause and not a cause of a view of the body.",
+        "source": "T26n1542_017:0764b15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界、五識界亦爾。",
+        "translation": "The same is true of the voice realm and the five consciousness realms.",
+        "source": "T26n1542_017:0764b16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界，或有身見為因非有身見因、或有身見為因亦有身見因、或非有身見為因非有身見因。",
+        "translation": "In the mental consciousness realm, either a view of the body is the cause and not the cause of a view of the body, or a view of the body is the cause and also the cause of a view of the body, or a view of the body is the cause and not the cause of a view of the body.",
+        "source": "T26n1542_017:0764b17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有身見為因非有身見因者，謂除過去現在見苦所斷隨眠相應意界，亦除過去現在見集所斷遍行隨眠相應意界，亦除未來有身見相應意界，諸餘染污意界。",
+        "translation": "Those who have a view of the body as cause and not as cause of a view of the body refer to the mental factor associated with stopping [afflictions] by seeing suffering in the past, the mental factor associated with stopping pervasive latencies by seeing accumulation in the past, and the mental factor associated with having a view of the body in the future, as well as the remaining defiled mental factors.",
+        "source": "T26n1542_017:0764b19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有身見為因亦有身見因者，謂前所除意界。",
+        "translation": "The mental factor that's the cause of having a view of the body and the cause of having a view of the body is the mental factor that was removed in the past.",
+        "source": "T26n1542_017:0764b23_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非有身見為因非有身見因者，謂不染污意界。",
+        "translation": "Someone who doesn't have a view of the body as a cause or a cause of a view of the body refers to the mind element that's not defiled.",
+        "source": "T26n1542_017:0764b24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same is true of the mental consciousness element.",
+        "source": "T26n1542_017:0764b25_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有三句。",
+        "translation": "The Dharma realm has three phrases.",
+        "source": "T26n1542_017:0764b25_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有身見為因非有身見因，謂除過去現在見苦所斷隨眠及彼相應俱有等法界，亦除過去現在見集所斷遍行隨眠及彼相應俱有法界，亦除未來有身見相應法界，亦除未來有身見及彼相應法生老住無常，諸餘染污法界。",
+        "translation": "That which has a view of the body as cause and isn't the cause of a view of the body means it's except for the realm of past present views, such as latencies that are ended by suffering and the concomitant coexistence of those views, except for the realm of past present views, such as the pervasive latencies that are ended by accumulation and the concomitant coexistence of those views, except for the realm of future existent views, except for the realm of future existent views and the concomitant dharmas that are born, age, abide, and are impermanent, and the other defiled realms.",
+        "source": "T26n1542_017:0764b25_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有身見為因亦有身見因，謂前所除法界。",
+        "translation": "Sometimes there's a view of the body as cause and there's a cause of a view of the body, which is the realm of defilements removed previously.",
+        "source": "T26n1542_017:0764c01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非有身見為因非有身見因，謂不染污法界。",
+        "translation": "Sometimes views that aren't bodily views are the cause and not bodily views are the cause, which is the realm that's not defiled.",
+        "source": "T26n1542_017:0764c02_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾業非業異熟等者，一切應分別。",
+        "translation": "\"How many karmic and non-karmic retributions and so forth should all be discriminated?",
+        "source": "T26n1542_017:0764c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼界，或業異熟非業、或非業非業異熟。",
+        "translation": "It's the visual realm that's either karma-discipline and non-karma, or non-karma and non-karma-discipline.",
+        "source": "T26n1542_017:0764c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "業異熟非業者，謂異熟生眼界。",
+        "translation": "Those whose karma is both ripe and non-karmic refer to the eye realm where ripeness arises.",
+        "source": "T26n1542_017:0764c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非業非業異熟者，謂餘眼界。",
+        "translation": "Those who are not karmic and not karmic results of retribution refer to the remaining element of the eye.",
+        "source": "T26n1542_017:0764c06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、舌、身、香、味、觸界及七心界亦爾。",
+        "translation": "The same goes for the ear, nose, tongue, body, smell, taste, and touch realms and the seven mental realms.",
+        "source": "T26n1542_017:0764c07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界有三句。",
+        "translation": "The form realm has three phrases.",
+        "source": "T26n1542_017:0764c07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業非業異熟，謂身表。",
+        "translation": "They are karmic and nonkarmic retribution, which refers to the surface of the body.",
+        "source": "T26n1542_017:0764c08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業異熟非業，謂業異熟生色界。",
+        "translation": "Either karma that's both ripe and non-karma, which refers to the form realm where karma is ripe for birth.",
+        "source": "T26n1542_017:0764c08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非業非業異熟，謂除業及業異熟色界諸餘色界。",
+        "translation": "It's neither karmic nor karmic retribution, which refers to the form realm other than the form realm of karma and karmic retribution.",
+        "source": "T26n1542_017:0764c09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界有二句。",
+        "translation": "There are two phrases in the realm of sound.",
+        "source": "T26n1542_017:0764c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業非業異熟，謂語表。",
+        "translation": "'Karma' and 'non-karma' are both karmic and 'non-karma' are both non-karmic and 'karma' are both karmic and 'karma' are both ripening in the form realm and the form realm.",
+        "source": "T26n1542_017:0764c11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非業非業異熟，謂餘聲界。",
+        "translation": "Either it's not karma or it's not karma that's ripening, which refers to the remaining sound realms.",
+        "source": "T26n1542_017:0764c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有四句。",
+        "translation": "The dharma realm has four phrases.",
+        "source": "T26n1542_017:0764c12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業非業異熟，謂法界所攝身語業及業異熟所不攝思。",
+        "translation": "'Karma and non-karma are both ripened, which is the physical, verbal, and karmic activity included in the Dharma realm and the thinking that's not included in karmic ripening.'",
+        "source": "T26n1542_017:0764c12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業異熟非業，謂思所不攝業異熟法界。",
+        "translation": "Whether karma is ripe or not karma, it's the realm of karma and karma that's not included in deliberation.",
+        "source": "T26n1542_017:0764c13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業亦業異熟，謂業異熟生思。",
+        "translation": "Whether it's karma or karmic retribution, it's karmic retribution that produces deliberation.",
+        "source": "T26n1542_017:0764c14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非業非業異熟，謂除業及業異熟法界諸餘法界。",
+        "translation": "What's not karma and what's not karma-analogous maturation refers to the other realms of the Dharma realm besides the karma and karma-analogous maturation realms.",
+        "source": "T26n1542_017:0764c15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾業非隨業轉等者，七隨業轉非業，八非業非隨業轉，三應分別。",
+        "translation": "How many actions don't follow actions? Seven follow actions that are not actions, and eight are not actions that don't follow actions, which are three to be discerned.",
+        "source": "T26n1542_017:0764c16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界，或業非隨業轉、或非業非隨業轉。",
+        "translation": "This refers to the form realm, where either karma doesn't develop according to karma or non-karma doesn't develop according to karma.",
+        "source": "T26n1542_017:0764c18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "業非隨業轉者，謂身表。",
+        "translation": "Those whose actions don't evolve according to actions refer to the manifestation of the body.",
+        "source": "T26n1542_017:0764c19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非業非隨業轉者，謂餘色界。",
+        "translation": "That which is not the result of actions and doesn't follow actions refers to the remaining form realm.",
+        "source": "T26n1542_017:0764c19_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界，或業非隨業轉、或非業非隨業轉。",
+        "translation": "In the voice realm, either karma doesn't follow karma or non-karma doesn't follow karma.",
+        "source": "T26n1542_017:0764c20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "業非隨業轉者，謂語表。",
+        "translation": "Whatever karma doesn't follow karma is called the surface of speech.",
+        "source": "T26n1542_017:0764c21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非業非隨業轉者，謂餘聲界。",
+        "translation": "Whatever is not karma and doesn't evolve according to karma refers to the remaining sound realm.",
+        "source": "T26n1542_017:0764c21_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有四句。",
+        "translation": "The Dharma realm has four phrases.",
+        "source": "T26n1542_017:0764c22_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業非隨業轉，謂除隨業轉身語業，諸餘法界所攝身語業及思。",
+        "translation": "'Karma not following karma' refers to the remaining body, speech, and thought that are included in the Dharma realm, except for the body, speech, and action that follow karma.",
+        "source": "T26n1542_017:0764c22_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或隨業轉非業，謂受蘊想蘊及思所不攝隨業轉行蘊。",
+        "translation": "What follows karma and doesn't follow karma is the karmic formations that are not included in the formations of feeling, perception, and thought that follow karma.",
+        "source": "T26n1542_017:0764c24_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或業亦隨業轉，謂隨業轉身語業。",
+        "translation": "Some karma also follows karma, which is the karma of body speech and action that follows karma.",
+        "source": "T26n1542_017:0764c25_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非業非隨業轉，謂除業及隨業轉法界諸餘法界。",
+        "translation": "What's not karma and what's not karma that's not karma's transformation is the rest of the Dharma realm except for karma and the Dharma realm that's transformed by karma.",
+        "source": "T26n1542_017:0764c26_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾所造色非有見色等者，應作三句。",
+        "translation": "\"How many forms created are not visible forms?\" should be interpreted as three phrases.",
+        "source": "T26n1542_017:0764c27_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所造色非有見色，謂八界及二界少分。",
+        "translation": "Sometimes the form that's created is not visible form, meaning the eight elements and a small part of the two elements.",
+        "source": "T26n1542_017:0764c28_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所造色亦有見色，謂一界。",
+        "translation": "Sometimes the form that's created also has visible form, which is the first realm.",
+        "source": "T26n1542_017:0764c29_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非所造色非有見色，謂七界及二界少分。",
+        "translation": "It's the seven elements and a small part of the two elements that don't have form that's not created and don't have visible form.",
+        "source": "T26n1542_017:0764c29_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此十八界，幾所造色非有對色等者，應作四句。",
+        "translation": "Of these 18 elements, there are four ways to say that the form that's created doesn't have counterpart form.",
+        "source": "T26n1542_017:0765a01_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所造色非有對色，謂一界少分。",
+        "translation": "'Form that's not made may not have opposable form, which is a small part of one realm.'",
+        "source": "T26n1542_017:0765a02_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有對色非所造色，謂一界少分。",
+        "translation": "Sometimes there's opposable form that's not the form that's created, which is a small part of one realm.",
+        "source": "T26n1542_017:0765a03_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所造色亦有對色，謂九界及一界少分。",
+        "translation": "Sometimes the form that's created also has oppositely formed forms, which are the nine realms and a small part of one realm.",
+        "source": "T26n1542_017:0765a04_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非所造色非有對色，謂七界及一界少分。",
+        "translation": "Sometimes there are forms that aren't created and don't have oppositely formed forms, which are seven elements and a small part of one element.",
+        "source": "T26n1542_017:0765a05_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾難見故甚深等者，一切難見故甚深，甚深故難見。",
+        "translation": "How difficult is it to see and therefore how profound are they? They are all difficult to see and therefore very profound.",
+        "source": "T26n1542_017:0765a06_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾善非善為因等者，一切應分別。",
+        "translation": "How many good and not-so-good causes are there that should be discriminated?",
+        "source": "T26n1542_017:0765a07_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼界，或善為因非善、或非善非善為因。",
+        "translation": "It's the visual realm that's either good as a cause or not good, or not good or not good as a cause.",
+        "source": "T26n1542_017:0765a08_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善為因非善者，謂善異熟生眼界。",
+        "translation": "Those for whom good is the cause and not good are the eye-worlds of good and ripening birth.",
+        "source": "T26n1542_017:0765a09_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非善非善為因者，謂餘眼界。",
+        "translation": "What's not good and not a good cause is the rest of the visual realm.",
+        "source": "T26n1542_017:0765a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、香、舌、味、身觸界亦爾。",
+        "translation": "The same goes for the ear, nose, smell, tongue, taste, and body contact realms.",
+        "source": "T26n1542_017:0765a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界有三句。",
+        "translation": "The form realm has three phrases.",
+        "source": "T26n1542_017:0765a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或善為因非善，謂善異熟生色界。",
+        "translation": "Sometimes good is the cause and not good, which is the birth in the form realm of good retribution.",
+        "source": "T26n1542_017:0765a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或善亦善為因，謂善色界。",
+        "translation": "Sometimes good and also good are the causes, which are the form realms that are good.",
+        "source": "T26n1542_017:0765a12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非善非善為因，謂除善異熟生色界，諸餘無記及不善色界。",
+        "translation": "Whether good or not, it's neither good as a cause nor good, which refers to the remaining indeterminate and unskillful form realms besides the form realm of good and ripening birth.",
+        "source": "T26n1542_017:0765a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六識意界亦爾。",
+        "translation": "The same is true of the six consciousnesses and the mind realm.",
+        "source": "T26n1542_017:0765a14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界有二句。",
+        "translation": "The voice realm has two phrases.",
+        "source": "T26n1542_017:0765a14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或善亦善為因，謂善聲界。",
+        "translation": "Either good and wholesome are the causes, which are the sound realm that's wholesome.",
+        "source": "T26n1542_017:0765a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非善非善為因，謂不善無記聲界。",
+        "translation": "Either good or not good is the cause, which is the unskillful, indeterminate sound realm.",
+        "source": "T26n1542_017:0765a15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有四句。",
+        "translation": "The dharma realm has four phrases.",
+        "source": "T26n1542_017:0765a16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或善非善為因，謂擇滅。",
+        "translation": "Either good or not-good is the cause, which is the cessation of discriminations.",
+        "source": "T26n1542_017:0765a16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或善為因非善，謂善異熟生法界。",
+        "translation": "Sometimes goodness is the cause and not goodness, which is the realm of well-ripened birth in the Dharma realm.",
+        "source": "T26n1542_017:0765a17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或善亦善為因，謂善有為法界。",
+        "translation": "Sometimes good and also good is the cause, which is the realm of good and acquired phenomena.",
+        "source": "T26n1542_017:0765a17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非善非善為因，謂除善異熟生法界，諸餘無記及不善法界。",
+        "translation": "What's not good and what's not good as a cause refers to the remaining indeterminate and unskillful realms, except for the realm of birth from good retribution.",
+        "source": "T26n1542_017:0765a18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾不善非不善為因等者，一切應分別。",
+        "translation": "How many are not good and how many are not good as causes? These should all be discerned.",
+        "source": "T26n1542_017:0765a20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼界，或不善為因非不善、或非不善非不善為因。",
+        "translation": "It's the visual realm that's either not good as a cause or not good, or not good or not good as a cause.",
+        "source": "T26n1542_017:0765a20_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不善為因非不善者，謂不善異熟生眼界。",
+        "translation": "One who considers unwholesome to be a cause and not unwholesome is the eye realm of unwholesome ripening birth.",
+        "source": "T26n1542_017:0765a22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非不善非不善為因者，謂餘眼界。",
+        "translation": "Whatever is not unwholesome or unwholesome as a cause, this is the remaining element of the eye.",
+        "source": "T26n1542_017:0765a23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、香、舌、味、身、觸界亦爾。",
+        "translation": "The same goes for the ear, nose, smell, tongue, taste, body, and touch realms.",
+        "source": "T26n1542_017:0765a23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界有三句。",
+        "translation": "The form realm has three phrases.",
+        "source": "T26n1542_017:0765a24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善為因非不善，謂不善異熟生色界。",
+        "translation": "What's neither good nor unskillful as a cause is the birth of the form realm from unskillful retribution.",
+        "source": "T26n1542_017:0765a24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善亦不善為因，謂不善色界。",
+        "translation": "It's neither good nor unskillful as a cause, which is the unskillful form realm.",
+        "source": "T26n1542_017:0765a25_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非不善非不善為因，謂除不善異熟生色界，諸餘無記及善色界。",
+        "translation": "Whether it's not unwholesome or unwholesome as a cause, it's the remaining indeterminate and wholesome form realms, except for the form realm of unwholesome ripening that arises from form.",
+        "source": "T26n1542_017:0765a26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼、耳、鼻、舌、身、識界亦爾。",
+        "translation": "The same goes for the element of the eyes, ears, nose, tongue, body, and consciousness.",
+        "source": "T26n1542_017:0765a27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界有二句。",
+        "translation": "The voice realm has two phrases.",
+        "source": "T26n1542_017:0765a28_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善亦不善為因，謂不善聲界。",
+        "translation": "Either it's not good or not good as a cause, which is the unskillful sound realm.",
+        "source": "T26n1542_017:0765a28_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非不善非不善為因，謂善無記聲界。",
+        "translation": "Either it's not unskillful or unskillful as a cause, which is the sound realm of good indeterminacy.",
+        "source": "T26n1542_017:0765a29_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意界有三句。",
+        "translation": "The mental realm has three phrases.",
+        "source": "T26n1542_017:0765b01_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善為因非不善，謂不善異熟生意界，及欲界繫有身見邊執見相應意界。",
+        "translation": "What's neither good as cause nor bad refers to the unskillful ripening business realm and the mental realm associated with the desire realm, which is tethered to a view of attachment to a body.",
+        "source": "T26n1542_017:0765b01_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善亦不善為因，謂不善意界。",
+        "translation": "What's neither good nor unskillful as a cause is the mental element of unskillfulness.",
+        "source": "T26n1542_017:0765b03_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非不善非不善為因，謂除不善異熟生意界，及除欲界繫有身見邊執見相應意界，諸餘無記及善意界。",
+        "translation": "Whether it's not unwholesome or unwholesome as a cause, it's the remaining indeterminate and wholesome mental realms, except for the unwholesome ripening business realm and the mental realm associated with the attachment to views of the extremes of the desire realm that are tied to the body.",
+        "source": "T26n1542_017:0765b04_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same goes for the mental consciousness element.",
+        "source": "T26n1542_017:0765b06_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有三句。",
+        "translation": "The Dharma realm has three phrases.",
+        "source": "T26n1542_017:0765b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善為因非不善，謂不善異熟生法界，及欲界繫有身見邊執見，及彼相應等起法界。",
+        "translation": "They may be unwholesome as a cause or not wholesome, meaning the realm of birth from unwholesome retribution, the desire realm that's tethered to a view of attachment to a body and its concomitant aspects, and the realm of arising from those concomitants.",
+        "source": "T26n1542_017:0765b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不善亦不善為因，謂不善法界。",
+        "translation": "What's neither good nor unskillful as a cause is the unskillful experiential realm.",
+        "source": "T26n1542_017:0765b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非不善非不善為因，謂除不善異熟生法界，及除欲界有身見邊執見并彼相應等起法界，諸餘無記及善法界。",
+        "translation": "What's not good and not good as a cause is the remaining indeterminate and good realms, except for the realm of unskillful and ripening birth, and except for the realm of desire, which is fettered with a view of the body and a view of attachment to the extremes and the concomitantly arising realms.",
+        "source": "T26n1542_017:0765b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾無記非無記為因等者，八無記亦無記為因，十應分別。",
+        "translation": "How many are indeterminate and non-indeterminate as causes, and so forth? The eight indeterminate and indeterminate are causes, and the ten should be discerned.",
+        "source": "T26n1542_017:0765b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界有三句。",
+        "translation": "There are three phrases in the form realm.",
+        "source": "T26n1542_017:0765b13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或無記為因非無記，謂不善色界。",
+        "translation": "What's not indeterminate but is the cause of indeterminacy is the unwholesome form realm.",
+        "source": "T26n1542_017:0765b14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或無記亦無記為因，謂無記色界。",
+        "translation": "Whether it's based on indeterminate or indeterminate causes, it's the indeterminate form realm.",
+        "source": "T26n1542_017:0765b15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非無記非無記為因，謂善色界。",
+        "translation": "Whether it's neither indeterminate nor indeterminate as cause, it's the good form realm.",
+        "source": "T26n1542_017:0765b15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲界、六識界、意界亦爾。",
+        "translation": "The same goes for the voice realm, the six consciousness realms, and the mind realm.",
+        "source": "T26n1542_017:0765b16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有四句。",
+        "translation": "The Dharma realm has four phrases.",
+        "source": "T26n1542_017:0765b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或無記非無記為因，謂虛空、非擇滅。",
+        "translation": "What's either indeterminate or non-indeterminate as cause is space and non-selective extinction.",
+        "source": "T26n1542_017:0765b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或無記為因非無記，謂不善法界。",
+        "translation": "What's neither indeterminate nor indeterminate as cause refers to the unwholesome Dharma realm.",
+        "source": "T26n1542_017:0765b18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或無記亦無記為因，謂無記有為法界。",
+        "translation": "What's neither indeterminate nor indeterminate as cause is the indeterminate, acquired reality realm.",
+        "source": "T26n1542_017:0765b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非無記非無記為因，謂善法界。",
+        "translation": "What's called the good Dharma realm that's neither indeterminate nor indeterminate as its cause?",
+        "source": "T26n1542_017:0765b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾因緣非有因等者，十七是因緣亦有因，一應分別。",
+        "translation": "How many causes and conditions are not causes? 17 These are causes and conditions that also have causes, and one should discriminate between them.",
+        "source": "T26n1542_017:0765b20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，若有為是因緣亦有因，若無為非因緣非有因。",
+        "translation": "It's the realm of reality if existent is a cause and a condition and a cause, and if nothing is a cause and not a condition and not a cause.",
+        "source": "T26n1542_017:0765b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾等無間非等無間緣等者，十非等無間非等無間緣，八應分別。",
+        "translation": "How many are equally and uninterruptedly and not equally and uninterruptedly conditioned, etc.? Ten are not equally and uninterruptedly and not equally and uninterruptedly conditioned, and eight should be discerned.",
+        "source": "T26n1542_017:0765b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼識界有三句。",
+        "translation": "There are three phrases in the visual consciousness realm.",
+        "source": "T26n1542_017:0765b24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間非等無間緣，謂未來現前正起眼識。",
+        "translation": "They are either equally and immediately or not equally and immediately conditioned, meaning the eye consciousness is directly produced in the future and present.",
+        "source": "T26n1542_017:0765b24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間亦等無間緣，謂過去現在眼識。",
+        "translation": "Either it's equally and unequally conditioned, which refers to the past-present visual consciousness.",
+        "source": "T26n1542_017:0765b26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非等無間非等無間緣，謂除未來現前正起眼識，諸餘未來眼識。",
+        "translation": "Either equally and unequally disconnected or equally and unequally conditioned, which refers to the future eye consciousness other than the future, present, and directly arising eye consciousness.",
+        "source": "T26n1542_017:0765b27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、舌、身、識界亦爾。",
+        "translation": "The same goes for the ear, nose, tongue, body, and consciousness realms.",
+        "source": "T26n1542_017:0765b28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意界有三句。",
+        "translation": "The mental realm has three conjugations.",
+        "source": "T26n1542_017:0765b29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間非等無間緣，謂未來現前正起意界，及過去現在阿羅漢命終時意界。",
+        "translation": "They are either equally and immediately or not equally and immediately conditioned, which are the mental element that's directly arising in the future present and the mental element that's at the end of an arhat's life in the past and present.",
+        "source": "T26n1542_017:0765b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間亦等無間緣，謂除過去現在阿羅漢命終時意界，諸餘過去現在意界。",
+        "translation": "Either it's equally and immediately conditioned, which refers to the mental factor in the past present except for the mental factor at the time of the arhat's life ending in the past, and the mental factors in the other past present.",
+        "source": "T26n1542_017:0765c02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非等無間非等無間緣，謂除未來現前正起意界，諸餘未來意界。",
+        "translation": "This refers to the mental factor in the future, except for the mental factor that's directly arising in the future present, and the remaining mental factors in the future.",
+        "source": "T26n1542_017:0765c04_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same goes for the mental consciousness element.",
+        "source": "T26n1542_017:0765c05_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有三句。",
+        "translation": "The experiential realm has three phrases.",
+        "source": "T26n1542_017:0765c05_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間非等無間緣，謂未來現前正起諸心所法，及過去現在阿羅漢命終時諸心所法，并已生正起無想滅定。",
+        "translation": "Either they are equally and unequally disconnected and not equally disconnected conditions, which are the directly arising mental factors in the future present, the mental factors at the end of an arhat's life in the past present, and the correctly arising concentration of no perception of cessation that has already arisen.",
+        "source": "T26n1542_017:0765c06_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是等無間亦等無間緣，謂除過去現在阿羅漢命終時諸心所法，諸餘過去現在心所法。",
+        "translation": "Either equally and immediately conditioned, these are mental factors in the past present except for those in the mind at the end of the life of the arhat in the past present, and those in the mind in the past present.",
+        "source": "T26n1542_017:0765c08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非等無間非等無間緣，謂除未來現前正起諸心所法諸餘未來心所法，及除等無間心不相應行諸餘心不相應行，及身語業并無為法。",
+        "translation": "These are the mental factors that are directly arising in the future except for those that are directly arising in the present, the remaining mental factors in the future, the mental factors that are not associated with the mental factors that are equally and indefinitely conditioned, the remaining mental factors that are not associated with the mental factors, and the factors of bodily actions, speech, and nonbeing.",
+        "source": "T26n1542_017:0765c10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾所緣緣非有所緣等者，十是所緣緣非有所緣，七是所緣緣亦有所緣，一應分別。",
+        "translation": "How many perceptual objects are perceptual and not perceptual? Ten are perceptual and not perceptual objects, and seven are perceptual and perceptual objects that also have perceptual objects, which should be discerned from one another.",
+        "source": "T26n1542_017:0765c14_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，若諸心所是所緣緣亦有所緣，若非心所是所緣緣非有所緣。",
+        "translation": "It refers to the Dharma realm, if mental factors are cognition and have cognition, and if non-mental factors are cognition and don't have cognition.",
+        "source": "T26n1542_017:0765c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾增上緣非有增上等者，十七是增上緣亦有增上，一應分別。",
+        "translation": "How many contributory conditions are not contributory? Seventeen are contributory conditions that also have contributory conditions, and one should discriminate them.",
+        "source": "T26n1542_017:0765c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂法界，若有為是增上緣亦有增上，若無為是增上緣非有增上。",
+        "translation": "It's the Dharma realm that if there are causes that are contributory conditions, there are contributory conditions, and if there are no causes that are contributory conditions, there are not contributory conditions.",
+        "source": "T26n1542_017:0765c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾暴流非順暴流等者，十五順暴流非暴流，三應分別。",
+        "translation": "How many violent currents are these? Fifteen are violent currents that follow and not violent currents, and three should be discerned.",
+        "source": "T26n1542_017:0765c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意界，若有漏順暴流非暴流，若無漏非暴流非順暴流。",
+        "translation": "It means that in the mind realm, if something is contaminated, it's going along with violent currents and not violent currents, and if it's uncontaminated, it's not violent currents and not going along with violent currents.",
+        "source": "T26n1542_017:0765c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意識界亦爾。",
+        "translation": "The same goes for the mental consciousness element.",
+        "source": "T26n1542_017:0765c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界有三句。",
+        "translation": "The Dharma realm has three phrases.",
+        "source": "T26n1542_017:0765c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或順暴流非暴流，謂暴流所不攝有漏法界。",
+        "translation": "They may be following torrential currents and not torrential currents, meaning that torrential currents don't include the contaminated Dharma realm.",
+        "source": "T26n1542_017:0765c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或暴流亦順暴流，謂四暴流。",
+        "translation": "Either it's violent and following violent currents, which are the four violent currents.",
+        "source": "T26n1542_017:0765c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非暴流非順暴流，謂無漏法界。",
+        "translation": "What's not violent and what's not following violent currents is the uncontaminated Dharma realm.",
+        "source": "T26n1542_017:0765c25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說一切有部品類足論卷第十七",
+        "translation": "Saṃyuktâgama-prakaraṇapāda-śāstra, vol. 17",
+        "source": "T26n1542_017:0765c26_0",
+        "is_bad_quality": false
+    }
+]

@@ -1,0 +1,4202 @@
+[
+    {
+        "source_sentence": "阿毘達磨大毘婆沙論卷第二十",
+        "translation": "Abhidharma-mahāvibhāṣā-śāstra, Vol. 20",
+        "source": "T27n1545_022:0110a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二",
+        "translation": "two",
+        "source": "T27n1545_022:0110a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五百大阿羅漢等造",
+        "translation": "created by five hundred great arhats and others",
+        "source": "T27n1545_022:0110a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T27n1545_022:0110a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雜蘊第一中智納息第二之十四",
+        "translation": "Second Fourteenth of the First of the Varieties of Wisdom and Exposure",
+        "source": "T27n1545_022:0110a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸心由隨眠故名有隨眠心。",
+        "translation": "\"All minds are called having latent mental states because of latent mental states.",
+        "source": "T27n1545_022:0110a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼隨眠於此心隨增耶。",
+        "translation": "Does that latent latency increase in response to this mind?",
+        "source": "T27n1545_022:0110a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至廣說。",
+        "translation": "It goes on to explain in detail.",
+        "source": "T27n1545_022:0110a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故作此論。",
+        "translation": "Q Why is this explanation given?",
+        "source": "T27n1545_022:0110a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答為止他宗顯正理故。",
+        "translation": "Answer: It's because the correct principle is expressed in a teaching that stops at other things.",
+        "source": "T27n1545_022:0110a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂或有執。",
+        "translation": "It means that there are some who hold to it.",
+        "source": "T27n1545_022:0110a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但有一心如說一心相續論者彼作是說。",
+        "translation": "'There's only one mind,' as they say in the theory of continuity of one mind, and they say this.",
+        "source": "T27n1545_022:0110a10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有隨眠心無隨眠心。",
+        "translation": "'There's a mind that's latent, and there's no latent mind.'",
+        "source": "T27n1545_022:0110a11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其性不異聖道現前。",
+        "translation": "Its nature isn't different from the manifestation of the noble path.",
+        "source": "T27n1545_022:0110a12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與煩惱相違不違心性。",
+        "translation": "It's at odds with the afflictions and not at odds with the nature of the mind.",
+        "source": "T27n1545_022:0110a12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為對治煩惱非對治心。",
+        "translation": "It's a mind that's antidotal to the afflictions and not antidotal to the mind.",
+        "source": "T27n1545_022:0110a13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如浣衣磨鏡鍊金等物。",
+        "translation": "It's like washing clothes, polishing mirrors, polishing gold, and other things.",
+        "source": "T27n1545_022:0110a13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與垢等相違不違衣等。",
+        "translation": "It's a contradiction with dirt and so forth and not a contradiction with clothing and so forth.",
+        "source": "T27n1545_022:0110a14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖道亦爾。",
+        "translation": "So it is with the noble path.",
+        "source": "T27n1545_022:0110a14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又此身中若聖道未現在前。",
+        "translation": "Furthermore, in this body, if the noble path hasn't yet appeared before ...",
+        "source": "T27n1545_022:0110a15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "煩惱未斷故心有隨眠。",
+        "translation": "The mind has latent tendencies because the afflictions haven't been stopped.",
+        "source": "T27n1545_022:0110a15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖道現前煩惱斷故心無隨眠。",
+        "translation": "When the noble path is manifested, the afflictions are stopped, so the mind has no latent dormancy.",
+        "source": "T27n1545_022:0110a16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此心雖有隨眠無隨眠時異。",
+        "translation": "Although this mind has latent dormancy and no latent time, they're different.",
+        "source": "T27n1545_022:0110a17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而性是一。",
+        "translation": "Yet its nature is the same.",
+        "source": "T27n1545_022:0110a17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如衣鏡金等未浣磨鍊等時。",
+        "translation": "It's like when a coat of mirror gold that hasn't been cleaned and polished is called a stained coat.",
+        "source": "T27n1545_022:0110a18_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名有垢衣等。",
+        "translation": "They're called soiled garments.",
+        "source": "T27n1545_022:0110a18_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若浣磨鍊等已。",
+        "translation": "If they've been cleaned, polished, and so forth, they're called undefiled clothing and so forth.",
+        "source": "T27n1545_022:0110a19_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名無垢衣等。",
+        "translation": "They're called undefiled garments and so forth.",
+        "source": "T27n1545_022:0110a19_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有無垢等時雖有異。",
+        "translation": "Although there are differences between when they're present and undefiled, their natures are not distinct.",
+        "source": "T27n1545_022:0110a19_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而性無別。",
+        "translation": "Their natures are not different.",
+        "source": "T27n1545_022:0110a20_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心亦如是。",
+        "translation": "The mind is likewise.",
+        "source": "T27n1545_022:0110a20_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為止彼執顯有隨眠心與無隨眠心其性。",
+        "translation": "To stop that attachment, it shows that the natures of the mind with and without dormancy are different.",
+        "source": "T27n1545_022:0110a20_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各異。",
+        "translation": "They're each different.",
+        "source": "T27n1545_022:0110a21_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復有執。",
+        "translation": "There may also be an attachment.",
+        "source": "T27n1545_022:0110a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨眠不於所緣隨增。",
+        "translation": "'Sufficient dormancy doesn't follow and increase with respect to its perceptual objects.'",
+        "source": "T27n1545_022:0110a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不於相應法有隨增義。",
+        "translation": "Nor does it have a concomitant meaning in terms of concomitant dharmas.",
+        "source": "T27n1545_022:0110a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如譬喻者彼作是說。",
+        "translation": "This is what they say, according to the metaphor.",
+        "source": "T27n1545_022:0110a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若隨眠於所緣隨增者於他界地及無漏法亦應隨增。",
+        "translation": "'If latent dormancy follows and increases in response to perceptual objects, then it should also increase in response to the ground of other realms and uncontaminated things.'",
+        "source": "T27n1545_022:0110a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是所緣故如自界地。",
+        "translation": "This is the perceptual object, so it's like the ground of the own realm.",
+        "source": "T27n1545_022:0110a25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於相應法有隨增義者。",
+        "translation": "If there's a meaning that increases according to the associated dharmas, then it should be something that's not yet stopped and that's stopped at all times.",
+        "source": "T27n1545_022:0110a25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則應未斷已斷一切時隨增。",
+        "translation": "Then it should follow and increase at all times before and after it's stopped.",
+        "source": "T27n1545_022:0110a26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應畢竟不相離故猶如自性。",
+        "translation": "The concomitance is ultimately not separate from each other, so it's like the self-nature.",
+        "source": "T27n1545_022:0110a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為止彼執。",
+        "translation": "In order to stop that kind of attachment, he shows that the latent tendencies are associated with perceptual objects.",
+        "source": "T27n1545_022:0110a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯諸隨眠於所緣相應俱有隨增義。",
+        "translation": "It shows that the concomitants of latent dormancy have a concomitant meaning with the perceptual objects.",
+        "source": "T27n1545_022:0110a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於自界地有漏法及相應法乃至未斷恒隨增故。",
+        "translation": "It means that in the realm of self, contaminants and concomitant dharmas up to and including those that have yet to be stopped will continue to increase.",
+        "source": "T27n1545_022:0110a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復有執。",
+        "translation": "Some people also hold to the view that.",
+        "source": "T27n1545_022:0110b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨眠唯於補特伽羅有隨增義。",
+        "translation": "'Sufficient dormancy has a meaning that increases only in the context of the person in charge.'",
+        "source": "T27n1545_022:0110b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如犢子部彼作是說。",
+        "translation": "According to the Vātsīputrīya school, this is what they say.",
+        "source": "T27n1545_022:0110b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "補特伽羅名有隨眠及無隨眠。",
+        "translation": "\"Potala is called 'latent' and 'latent'.",
+        "source": "T27n1545_022:0110b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非心等法。",
+        "translation": "It's not a mental dharma.",
+        "source": "T27n1545_022:0110b03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "補特伽羅有縛解故。",
+        "translation": "It's because the person in pudgala has bondage and liberation.",
+        "source": "T27n1545_022:0110b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為止彼執顯唯心等有縛有解名有隨眠及無隨眠。",
+        "translation": "To stop that attachment, it's called having latent and non-latent dormancy because it shows that only the mind and so forth have bondage and liberation.",
+        "source": "T27n1545_022:0110b04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非數取趣畢竟無故。",
+        "translation": "It's not because the number of acquired destinies is ultimately nonexistent.",
+        "source": "T27n1545_022:0110b05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為止此等他宗及顯無顛倒理故作斯論。",
+        "translation": "This explanation is made to stop these other schools and to show that there's no mistaken principle.",
+        "source": "T27n1545_022:0110b05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸心由隨眠故名有隨眠心。",
+        "translation": "It's because of their latent tendencies that they're called latent.",
+        "source": "T27n1545_022:0110b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼隨眠於此心隨增耶。",
+        "translation": "Does that latent dormancy increase in this mind?",
+        "source": "T27n1545_022:0110b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答或隨增或不隨增。",
+        "translation": "Answer: Either it follows and increases, or it doesn't follow and increases.",
+        "source": "T27n1545_022:0110b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何隨增。",
+        "translation": "How does it increase accordingly?",
+        "source": "T27n1545_022:0110b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼隨眠與此心相應未斷及緣此心。",
+        "translation": "It means that that latent dormancy is associated with this mind, yet it's not yet stopped, and it's conditioned by this mind.",
+        "source": "T27n1545_022:0110b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不隨增。",
+        "translation": "How does it not increase accordingly?",
+        "source": "T27n1545_022:0110b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼隨眠與此心相應已斷。",
+        "translation": "It means that that latent dormancy associated with this mind has been stopped.",
+        "source": "T27n1545_022:0110b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中諸心者有五部心。",
+        "translation": "There are five kinds of minds in this category of minds.",
+        "source": "T27n1545_022:0110b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見苦所斷心。",
+        "translation": "They are the mind that's stopped by seeing what's painful ...",
+        "source": "T27n1545_022:0110b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至修所斷心隨眠者有五部隨眠謂見苦所斷隨眠。",
+        "translation": "... mind that's stopped by cultivation ... latencies that have five latencies, which are latencies stopped by seeing suffering ...",
+        "source": "T27n1545_022:0110b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至修所斷隨眠。",
+        "translation": "It's the latent dormancy that's stopped by seeing suffering ... [and] the latent dormancy that's stopped by cultivation.",
+        "source": "T27n1545_022:0110b13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由二事故名有隨眠心。",
+        "translation": "These are called the minds that have latent dormancy because of two things.",
+        "source": "T27n1545_022:0110b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一由隨眠於此心有隨增性。",
+        "translation": "One, because latent dormancy is present in this mind, there's a tendency for it to increase.",
+        "source": "T27n1545_022:0110b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二由隨眠於此心有同伴性。",
+        "translation": "Second, it's because latent dormancy has a companionship in this mind.",
+        "source": "T27n1545_022:0110b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見苦所斷心於見苦所斷隨眠。",
+        "translation": "It's the mind that sees what's stopped by suffering and the mind that follows dormancy stopped by seeing suffering.",
+        "source": "T27n1545_022:0110b15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由二事故名有隨眠心。",
+        "translation": "These two events are called having a mind that follows dormancy.",
+        "source": "T27n1545_022:0110b16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見集所斷隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that sees the latent latencies that are ended by the accumulation of suffering, it's called a latent mind that exists because of one event.",
+        "source": "T27n1545_022:0110b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's subsequently proliferating.",
+        "source": "T27n1545_022:0110b17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the remaining latent tendencies, there are no two contingencies that aren't latent tendencies.",
+        "source": "T27n1545_022:0110b18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見集所斷心於見集所斷隨眠由二事。",
+        "translation": "The mind that sees what's gathered and is stopped consists of two things that follow sleep that's stopped by seeing what's gathered.",
+        "source": "T27n1545_022:0110b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名有隨眠心。",
+        "translation": "Therefore, it's called a mind with latent dormancy.",
+        "source": "T27n1545_022:0110b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦所斷隨眠由一事故名有隨眠心。",
+        "translation": "The mind that sees the latent dormancy that's stopped by suffering is called the mind with latent dormancy because of one condition.",
+        "source": "T27n1545_022:0110b20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's [the mind] that follows the nature of increase.",
+        "source": "T27n1545_022:0110b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the remaining latent afflictions, there are no two contingencies that don't make it a latently existent mind.",
+        "source": "T27n1545_022:0110b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷心於見滅所斷隨眠由二事故名有隨眠心。",
+        "translation": "A mind that sees what's stopped by cessation is called a mind with dormancy because of two events that follow the cessation of [suffering].",
+        "source": "T27n1545_022:0110b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦集所斷隨眠由一事故名有隨眠心。",
+        "translation": "The mind that follows dormancy in the wake of the cessation of suffering and the arising of suffering is called the mind that has dormancy because of one event.",
+        "source": "T27n1545_022:0110b23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's [the mind] that follows the nature of increase.",
+        "source": "T27n1545_022:0110b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the remaining latent afflictions, there are no two contingencies that aren't followed by a latent mind.",
+        "source": "T27n1545_022:0110b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見道所斷心於見道所斷隨眠由二事故名有隨眠心。",
+        "translation": "A mind that's stopped by the path of seeing is called a mind with dormancy that's stopped by two contingencies.",
+        "source": "T27n1545_022:0110b25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦集所斷隨眠由一事故名有隨眠心。",
+        "translation": "The mind that follows sleep that's stopped by seeing suffering and accumulation is called the mind that has followers by a single event.",
+        "source": "T27n1545_022:0110b27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's [the mind] that follows proliferation.",
+        "source": "T27n1545_022:0110b28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the remaining latent afflictions, there are no two contingencies that aren't latent afflictions.",
+        "source": "T27n1545_022:0110b28_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷心於修所斷隨眠由二事故名有隨眠心。",
+        "translation": "The mind that's stopped by cultivation is called having a mind that follows dormancy by two contingencies.",
+        "source": "T27n1545_022:0110b29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦集所斷隨眠由一事故名有隨眠心。",
+        "translation": "The mind that follows dormancy stopped by seeing suffering and accumulation is called having a mind that follows dormancy because of one incident.",
+        "source": "T27n1545_022:0110c01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's [the mind] that follows proliferation.",
+        "source": "T27n1545_022:0110c02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the remaining latent [afflictions], there are no two contingencies that don't make it a latent [afflictive] mind.",
+        "source": "T27n1545_022:0110c02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次見苦所斷心有二種。",
+        "translation": "\"Furthermore, there are two kinds of mind that sees what's stopped by suffering.",
+        "source": "T27n1545_022:0110c03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一遍行隨眠相應心。",
+        "translation": "One is the mind associated with pervasive latencies.",
+        "source": "T27n1545_022:0110c04_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二非遍行隨眠相應心。",
+        "translation": "The second is the mind associated with non-perpetuating latencies.",
+        "source": "T27n1545_022:0110c04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見集所斷心亦爾。",
+        "translation": "The mind that's stopped by seeing accumulation is likewise.",
+        "source": "T27n1545_022:0110c05_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷心有二種。",
+        "translation": "There are two kinds of mind that's stopped by seeing cessation.",
+        "source": "T27n1545_022:0110c05_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一有漏緣隨眠相應心。",
+        "translation": "One is mind associated with contaminated conditions followed by dormancy ...",
+        "source": "T27n1545_022:0110c06_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二無漏緣隨眠相應心。",
+        "translation": "The second is mind associated with dormancy that follows uncontaminated conditions.",
+        "source": "T27n1545_022:0110c06_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見道所斷心亦爾。",
+        "translation": "So is the mind that's stopped in the path of seeing.",
+        "source": "T27n1545_022:0110c07_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷心有二種。",
+        "translation": "There are two kinds of mind that's stopped by cultivation.",
+        "source": "T27n1545_022:0110c07_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一染污心。",
+        "translation": "One is a mind that's defiled ...",
+        "source": "T27n1545_022:0110c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二不染污心。",
+        "translation": "The second is the mind that's undefiled.",
+        "source": "T27n1545_022:0110c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見苦所斷遍行隨眠相應心。",
+        "translation": "The mind associated with pervasive latencies that are ended by seeing suffering ...",
+        "source": "T27n1545_022:0110c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦所斷遍行隨眠由二事故名有隨眠心。",
+        "translation": "The pervasive latencies that are ended in the view of suffering are called latent mental states due to two circumstances.",
+        "source": "T27n1545_022:0110c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦所斷非遍行隨眠及見集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that sees what's stopped by suffering that's not pervasively followed by dormancy and in the mind that sees what's stopped by accumulation that's pervasively followed by one condition, it's called having a mind that follows dormancy.",
+        "source": "T27n1545_022:0110c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "This is called following the proliferating nature.",
+        "source": "T27n1545_022:0110c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states of existence, there are no two contingencies that aren't latent mental states.",
+        "source": "T27n1545_022:0110c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見苦所斷非遍行隨眠相應心。",
+        "translation": "It's a mind associated with non-permanent latent dormancy that's stopped by seeing suffering.",
+        "source": "T27n1545_022:0110c13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦所斷非遍行隨眠由二事故名有隨眠心。",
+        "translation": "In the mind that's associated with non-penetrative latencies that are stopped by seeing suffering, that's called having latencies by two contingencies.",
+        "source": "T27n1545_022:0110c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that sees pervasive latencies that are stopped by suffering's accumulation, there's a latency that results from one event.",
+        "source": "T27n1545_022:0110c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's called following the proliferating nature.",
+        "source": "T27n1545_022:0110c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the remaining latent afflictions, there are no two contingencies that aren't followed by a latent mental state.",
+        "source": "T27n1545_022:0110c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見集所斷遍行隨眠相應心。",
+        "translation": "It's a mind associated with pervasive latencies that are eliminated in the view of origination.",
+        "source": "T27n1545_022:0110c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見集所斷遍行隨眠由二事故名有隨眠心。",
+        "translation": "In the mind that's associated with pervasive latencies that are eliminated in the view of the arising, these two contingencies are called having latencies.",
+        "source": "T27n1545_022:0110c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見集所斷非遍行隨眠及見苦所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that sees what's eliminated by accumulation that's not pervasively followed by dormancy and in the mind that sees what's eliminated by suffering that's pervasively followed by dormancy because of one contingency, it's called a mind with followers.",
+        "source": "T27n1545_022:0110c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "This is called following the proliferating nature.",
+        "source": "T27n1545_022:0110c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states of existence, there are no two incidents that aren't latent states of mind.",
+        "source": "T27n1545_022:0110c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見集所斷非遍行隨眠相應心。",
+        "translation": "It's a mind associated with [a form of] non-penetrative latent dormancy that's stopped by insight into the arising of suffering.",
+        "source": "T27n1545_022:0110c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見集所斷非遍行隨眠由二事故名有隨眠心。",
+        "translation": "In the mind that's associated with non-penetrative latencies that are ended by views of origination, this is called having latencies by two contingencies.",
+        "source": "T27n1545_022:0110c22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that sees pervasive latencies that are ended by suffering and accumulation, there's a latency that results from one event.",
+        "source": "T27n1545_022:0110c23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's [the mind] that follows proliferation.",
+        "source": "T27n1545_022:0110c24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the remaining latent afflictions, there are no two contingencies that aren't followed by a latent state of mind.",
+        "source": "T27n1545_022:0110c25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷有漏緣隨眠相應心。",
+        "translation": "It's a mind associated with latent dormancy that's the contaminants that are ended by seeing ... cessation.",
+        "source": "T27n1545_022:0110c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷有漏緣隨眠由二事故名有隨眠心。",
+        "translation": "Subsequent dormancy that's the result of two events is called 'submersed mind' when it's the result of contaminants that are stopped by seeing cessation.",
+        "source": "T27n1545_022:0110c26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that sees pervasive latent dormancy that's ended by suffering and accumulation, that's called latent mind by virtue of one event.",
+        "source": "T27n1545_022:0110c27_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's [the mind] that follows the nature of increase.",
+        "source": "T27n1545_022:0111a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the remaining latent tendencies, there are no two contingencies that aren't latent mental states.",
+        "source": "T27n1545_022:0111a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷無漏緣隨眠相應心。",
+        "translation": "It's a mind associated with the uncontaminated condition of latent dormancy that's stopped by seeing ... cessation.",
+        "source": "T27n1545_022:0111a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷無漏緣隨眠由二事故名有隨眠心。",
+        "translation": "The mind that follows dormancy in the context of the uncontaminated cognition that's stopped by seeing cessation is called having dormancy by two contingencies.",
+        "source": "T27n1545_022:0111a02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷有漏緣隨眠及見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "The mind that follows the contaminated causal followings of seeing what's stopped by cessation and the pervasive followings of seeing what's stopped by suffering and accumulation is called the mind that has followers by virtue of one event.",
+        "source": "T27n1545_022:0111a03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "This is called following the nature of increase.",
+        "source": "T27n1545_022:0111a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the other latent hindrances, there are no two incidents that aren't latent hindrances.",
+        "source": "T27n1545_022:0111a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見道所斷有漏緣隨眠相應心於見道所斷有漏緣隨眠由二事故名有隨眠心。",
+        "translation": "The mind associated with contaminated causal followings that are eliminated in the path of seeing is called the mind that has followed sleep because of two events.",
+        "source": "T27n1545_022:0111a06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that sees the pervasive latencies that are ended by suffering and accumulation, this is called a latent mind by virtue of one event.",
+        "source": "T27n1545_022:0111a08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's that which follows proliferation.",
+        "source": "T27n1545_022:0111a09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "Among the other latent hindrances, there are no two contingencies that aren't latent mental states.",
+        "source": "T27n1545_022:0111a09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見道所斷無漏緣隨眠相應心。",
+        "translation": "It's a mind associated with the uncontaminated condition of latent dormancy that's stopped in the path of seeing.",
+        "source": "T27n1545_022:0111a10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見道所斷無漏緣隨眠由二事故名有隨眠心。",
+        "translation": "The mind that follows dormancy for uncontaminated conditions that are ended in the path of seeing is called having dormancy by two contingencies.",
+        "source": "T27n1545_022:0111a11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見道所斷有漏緣隨眠及見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "The mind that follows the contaminated causal followings stopped in the path of seeing and the pervasive followings stopped in the path of seeing suffering and accumulation is called the mind that has followers by virtue of one event.",
+        "source": "T27n1545_022:0111a12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's following the nature of increase.",
+        "source": "T27n1545_022:0111a14_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states, there are no two incidents that aren't latent mental states.",
+        "source": "T27n1545_022:0111a14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷染污心於修所斷隨眠由二事故名有隨眠心。",
+        "translation": "The defiled mind that's eliminated by cultivation is said to have latent latent mental states because of two events.",
+        "source": "T27n1545_022:0111a15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "The pervasive latencies that are ended in the view of suffering and arising are called having latencies by virtue of one event.",
+        "source": "T27n1545_022:0111a16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's that which follows proliferation.",
+        "source": "T27n1545_022:0111a17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In other latent states, there are no two contingencies that aren't latent mental states.",
+        "source": "T27n1545_022:0111a18_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷不染污心於修所斷隨眠及見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "The undefiled mind that's ended by cultivation is called a mind with dormancy that's ended by cultivation and the pervasive latencies that are ended by seeing suffering and accumulation by a single event.",
+        "source": "T27n1545_022:0111a18_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's called following the nature of increase.",
+        "source": "T27n1545_022:0111a20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "For the other latent tendencies, there are no two contingencies that aren't latent tendencies.",
+        "source": "T27n1545_022:0111a21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次欲界見苦所斷心有十種。",
+        "translation": "Furthermore, there are 10 kinds of mind that sees what's stopped by suffering in the desire realm.",
+        "source": "T27n1545_022:0111a21_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂五見疑愛恚慢不共無明相應心。",
+        "translation": "They are the five views associated with doubt, craving, ill-will, and pride, and the mental state not shared with ignorance.",
+        "source": "T27n1545_022:0111a22_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見集所斷心有七種。",
+        "translation": "There are seven kinds of mind that's stopped by views of accumulation.",
+        "source": "T27n1545_022:0111a23_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂二見疑愛恚慢不共無明相應心。",
+        "translation": "These are the minds associated with two views that are doubtful, loving, arousing, and conceited but not shared with ignorance.",
+        "source": "T27n1545_022:0111a23_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷心亦爾。",
+        "translation": "The mind that's stopped by seeing cessation is likewise.",
+        "source": "T27n1545_022:0111a24_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見道所斷心有八種。",
+        "translation": "There are eight kinds of mind that's stopped by views of the path.",
+        "source": "T27n1545_022:0111a25_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂三見疑愛恚慢不共無明相應心。",
+        "translation": "They are three views that are associated with doubt, craving, agitation, and conceit that are not shared with ignorance.",
+        "source": "T27n1545_022:0111a25_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷心有五種。",
+        "translation": "There are five kinds of mind that's stopped by cultivation.",
+        "source": "T27n1545_022:0111a26_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂愛恚慢不共無明相應心及不染污心。",
+        "translation": "They are mind that's associated with craving, ill-will, conceit, and ignorance, and mind that's not defiled.",
+        "source": "T27n1545_022:0111a26_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂善有漏無覆無記。",
+        "translation": "They are the mind that's good, contaminated, unobstructed, and indeterminate.",
+        "source": "T27n1545_022:0111a27_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有身見相應心於有身見及彼相應無明由二事故名有隨眠心。",
+        "translation": "The mind associated with a view of the body is called the mind with dormancy due to two circumstances that are associated with the view of the body and the ignorance associated with it.",
+        "source": "T27n1545_022:0111a28_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘見苦所斷隨眠及見集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the remaining view, latent dormancy that's ended by suffering and pervasive latent dormancy that's ended by accumulation are called latent mental states that result from one event.",
+        "source": "T27n1545_022:0111b01_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's following the nature of increase.",
+        "source": "T27n1545_022:0111b03_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states of view, there are no two contingencies that aren't latent mental states.",
+        "source": "T27n1545_022:0111b03_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是乃至見苦所斷慢相應心應知亦爾。",
+        "translation": "Thus, even the mind associated with conceit that's stopped by seeing suffering should be known to be the same.",
+        "source": "T27n1545_022:0111b04_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見苦所斷不共無明相應心。",
+        "translation": "The mind that's associated with ignorance that's stopped by seeing suffering is not shared with the mind.",
+        "source": "T27n1545_022:0111b05_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦所斷不共無明由二事故名有隨眠心。",
+        "translation": "In the mind that's associated with ignorance that's not shared by the cessation of suffering, this is called the mind that has latent dormancy because of two circumstances.",
+        "source": "T27n1545_022:0111b06_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘見苦所斷隨眠及見集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In other states of mind, latent dormancy that's ended by seeing suffering and pervasive latent dormancy that's ended by seeing accumulation are called latent mental states that result from one event.",
+        "source": "T27n1545_022:0111b07_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's following the nature of increase.",
+        "source": "T27n1545_022:0111b08_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states of view, there are no two contingencies that don't make the mind latent.",
+        "source": "T27n1545_022:0111b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見集所斷心應知亦爾。",
+        "translation": "The mind that sees what's eliminated by accumulation should be known to be the same.",
+        "source": "T27n1545_022:0111b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷邪見相應心。",
+        "translation": "It's a mind associated with wrong views that are stopped by seeing what's cessation.",
+        "source": "T27n1545_022:0111b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷邪見及彼相應無明由二事故名有隨眠心。",
+        "translation": "The mind that's associated with wrong views and the ignorance associated with those views that are stopped by seeing extinction is called the mind with dormancy because of two circumstances.",
+        "source": "T27n1545_022:0111b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷有漏緣隨眠及見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that sees contaminated causal latent dormancy that's stopped by cessation and the mind that sees the pervasive latent dormancy that's stopped by suffering and accumulation, this is called having latent dormancy by virtue of one event.",
+        "source": "T27n1545_022:0111b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's [the mind that] follows the nature of increase.",
+        "source": "T27n1545_022:0111b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining consequent sleep, there are no two incidents that aren't consequent-sleeping states of mind.",
+        "source": "T27n1545_022:0111b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷疑相應心應知亦。",
+        "translation": "The mind associated with doubt that's ended by seeing extinction should also be known as such.",
+        "source": "T27n1545_022:0111b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾見滅所斷見取相應心。",
+        "translation": "'The mind associated with views and grasping that are stopped by seeing [the truth of] cessation.'",
+        "source": "T27n1545_022:0111b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷見取及彼相應無明由二事故名有隨眠心。",
+        "translation": "In the mind that's associated with the taking of views and the nescience associated with those views that are stopped by seeing and cessation, this is called the mind with latent dormancy because of two circumstances.",
+        "source": "T27n1545_022:0111b16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘見滅所斷有漏緣隨眠及見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In other views, contaminated causal followings of views that are ended by cessation and pervasive followings of views that are ended by suffering and accumulation are called followings of mind by virtue of one event.",
+        "source": "T27n1545_022:0111b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's concomitant with the nature of increase.",
+        "source": "T27n1545_022:0111b19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states of view, there are no two contingencies that aren't latent mental states.",
+        "source": "T27n1545_022:0111b19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷愛恚慢相應心應知亦爾。",
+        "translation": "The mind associated with craving, ill-will, and conceit that's ended by seeing should be known to be the same.",
+        "source": "T27n1545_022:0111b20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅所斷不共無明相應心。",
+        "translation": "It's a mind associated with ignorance that's not shared with what's stopped by seeing ... cessation.",
+        "source": "T27n1545_022:0111b21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷不共無明由二事故名有隨眠心。",
+        "translation": "In the mind associated with ignorance that's not shared by those whose views are ended, this is called the mind with latent dormancy because of two circumstances.",
+        "source": "T27n1545_022:0111b22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷有漏緣隨眠及見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the mind that's associated with contaminated cognition that's stopped by seeing cessation and the mind that's associated with the pervasive activity that's stopped by seeing suffering and accumulation, this is called having latent mind by virtue of one event.",
+        "source": "T27n1545_022:0111b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's called following the nature of increase.",
+        "source": "T27n1545_022:0111b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states, there are no two incidents that aren't latent mental states.",
+        "source": "T27n1545_022:0111b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見道所斷心應知亦爾。",
+        "translation": "The mind that's eliminated in the path of seeing should be known to be the same.",
+        "source": "T27n1545_022:0111b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨所斷愛相應心。",
+        "translation": "It's a mind associated with the craving that's stopped.",
+        "source": "T27n1545_022:0111b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於修所斷愛及彼相應無明由二事故名有隨眠心。",
+        "translation": "In the mind associated with the craving that's stopped by cultivation and the ignorance associated with it, these two contingencies are called having a mind with dormancy.",
+        "source": "T27n1545_022:0111b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘修所斷隨眠及見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In other cases, the mind that follows dormancy that's ended by cultivation and the pervasive followings that are ended by seeing suffering and accumulation are called having followers of dormancy by virtue of one event.",
+        "source": "T27n1545_022:0111b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's following the nature of increase.",
+        "source": "T27n1545_022:0111c01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states of existence, there are no two contingencies that aren't latent states of existence.",
+        "source": "T27n1545_022:0111c02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷恚慢相應心應知亦爾。",
+        "translation": "The mind associated with anger and conceit that's eliminated by cultivation should be known to be the same.",
+        "source": "T27n1545_022:0111c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷不共無明相應心。",
+        "translation": "The mind associated with ignorance that's not shared by those whose cultivation is eliminated ...",
+        "source": "T27n1545_022:0111c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於修所斷不共無明由二事故名有隨眠心。",
+        "translation": "The mind associated with nescience that's cultivated and eliminated but not shared is called the mind with latent dormancy because of two circumstances.",
+        "source": "T27n1545_022:0111c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘修所斷隨眠及見苦集所斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "In the remaining [mental states] of latent dormancy that are cut off by cultivation and pervasive latent dormancy that are cut off by seeing suffering and accumulation, this is called having latent mental states due to one incident.",
+        "source": "T27n1545_022:0111c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's following the nature of increase.",
+        "source": "T27n1545_022:0111c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "In the remaining latent states of existence, there are no two contingencies that aren't latent states of existence.",
+        "source": "T27n1545_022:0111c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷不染污心於修所斷隨眠及見苦集所。",
+        "translation": "The undefiled mind that's ended by cultivation is the mind that ends latencies and sees what's painful and accumulates as a result of one incident.",
+        "source": "T27n1545_022:0111c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷遍行隨眠由一事故名有隨眠心。",
+        "translation": "The mind that stops pervasive latencies because of one incident is called a mind with latencies.",
+        "source": "T27n1545_022:0111c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨增性。",
+        "translation": "It's the mind that follows proliferation.",
+        "source": "T27n1545_022:0111c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘隨眠無二事故非有隨眠心。",
+        "translation": "Among the other latent tendencies, there are no two contingencies that aren't latent mental states.",
+        "source": "T27n1545_022:0111c10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說欲界。",
+        "translation": "It's as explained for the desire realm.",
+        "source": "T27n1545_022:0111c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色無色界應知亦爾。",
+        "translation": "The form and formless realms should be understood to be the same.",
+        "source": "T27n1545_022:0111c11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是謂此處略毘婆沙。",
+        "translation": "This is called an abridged version of the Vibhāṣā council.",
+        "source": "T27n1545_022:0111c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是所說三界五部隨眠於此三界五部有隨眠心。",
+        "translation": "Thus, it's said that in these three realms and five parts of the latent hindrances, there's a latent mind in these three realms and five parts of the latent hindrances.",
+        "source": "T27n1545_022:0111c12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若未斷則隨增互相隨順而增長故隨眠於心增縛事故。",
+        "translation": "If they haven't yet been stopped, then they increase and develop in accordance with each other, so latent sleep is an increase in mental fetters.",
+        "source": "T27n1545_022:0111c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷則不隨增不相隨順非增長故隨眠於心無縛事故。",
+        "translation": "If it's been stopped, then it doesn't follow increase, doesn't mutually conform, and doesn't increase; therefore, latently sleeping mind is not fettered.",
+        "source": "T27n1545_022:0111c14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然未斷位心於相應所緣隨眠俱得建立有隨眠名。",
+        "translation": "However, in the uninterrupted state, the mind's concomitant objects and latent hindrances both establish the name latent.",
+        "source": "T27n1545_022:0111c16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已相應者具二事故。",
+        "translation": "Those who have been associated have both contingencies.",
+        "source": "T27n1545_022:0111c17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣縛心者但隨增故。",
+        "translation": "Those whose mind is fettered by cognition only increase in accordance with it.",
+        "source": "T27n1545_022:0111c18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷位此心唯於相應隨眠可得建立有隨眠名。",
+        "translation": "If the mind at the stage of having been stopped can establish the name of [conditioned] latent in association with latent dormancy only, then it's possible to establish the name of conditioned latent in association with latent dormancy.",
+        "source": "T27n1545_022:0111c18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非彼先來緣縛心者無隨增故。",
+        "translation": "It's not because those previously conditioned and fettered minds don't have latent tendencies.",
+        "source": "T27n1545_022:0111c19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠於心猶有同伴性故。",
+        "translation": "Concomitant latencies still have a companionship in the mind.",
+        "source": "T27n1545_022:0111c20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故心於相應隨眠已斷未斷俱得建立有隨眠名。",
+        "translation": "Why, then, can the mind establish the name [conditioned by] latent dormancy when it's associated with latent dormancy that's both stopped and unstopped?",
+        "source": "T27n1545_022:0111c21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所緣隨眠唯未斷位可得建立有隨眠名非已斷位耶。",
+        "translation": "Can it create the name of having latent dormancy in a conditioned latent state only when it's uninterrupted and not when it's interrupted?",
+        "source": "T27n1545_022:0111c22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答前來已說心於隨眠由二事故名有隨眠一隨增性。",
+        "translation": "Answer: As explained earlier, the mind's conditioned sleep is called conditioned sleep because of two things: first, its proclivity for following; and second, its companionship.",
+        "source": "T27n1545_022:0111c24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二同伴性。",
+        "translation": "The second is its companionship.",
+        "source": "T27n1545_022:0111c25_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠若未斷位由二事故心於彼立有隨眠名。",
+        "translation": "If this is concomitant with dormancy, then the mind in the uninterrupted state establishes the name of having dormancy due to those two contingencies.",
+        "source": "T27n1545_022:0111c25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷位彼於此心雖無隨增性而有同伴性故猶可立有隨眠名。",
+        "translation": "If he has stopped it, then even though he doesn't have stream-winner nature, he has companionship; therefore, he can still establish the name of having stream-winner nature.",
+        "source": "T27n1545_022:0111c26_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠若未斷位於心唯有隨增性故心於彼立有隨眠名。",
+        "translation": "If the conditioned latencies are not yet stopped, then the mind only has a concomitant quality; therefore, the mind is said to have latencies there.",
+        "source": "T27n1545_022:0111c28_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷位二事俱無故心於彼不復可立有隨眠名。",
+        "translation": "If both things are absent in a stage where it's been stopped, then the mind can no longer be called having latent dormancy there.",
+        "source": "T27n1545_022:0112a01_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問若相應隨眠於相應心若未斷位有隨增性及同伴性。",
+        "translation": "Q. If concomitant latencies exist in the mind that's concomitant with the uninterrupted state, then there's concomitant prominence and concomitant prominence.",
+        "source": "T27n1545_022:0112a03_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷位雖無隨增性而有同伴性心恒於彼名有隨眠者。",
+        "translation": "If there's a companionship in a mind that's always called having latencies even though there's no such companionship at the stage of having been stopped, then it's called having latencies at the stage of having been stopped.",
+        "source": "T27n1545_022:0112a04_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠於所緣心若未斷位有隨增性及所緣性。",
+        "translation": "Associative latencies have both an increasing and an associative quality in a mind that's associated with them if it's at a stage that's not yet stopped.",
+        "source": "T27n1545_022:0112a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷位雖無隨增性而有所緣性。",
+        "translation": "If there's a conditioned nature in a stage that's been stopped even though there's no increasing nature, then why doesn't the mind constantly establish itself in that stage?",
+        "source": "T27n1545_022:0112a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故心於彼不恒建立有隨眠名。",
+        "translation": "Why doesn't that mind always establish the name of having latent dormancy?",
+        "source": "T27n1545_022:0112a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答相應隨眠於相應心極相親近眾事皆等不可相離如羊與皮故斷未斷恒名相有。",
+        "translation": "Answer: Associative latencies are extremely close to the mind that's associated with them, and all things are equal and can't be separated from each other like a sheep and its hide.",
+        "source": "T27n1545_022:0112a08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠與所緣心非極親近眾事不等未嘗和合。",
+        "translation": "Associated latencies and associated minds that aren't extremely close are not equally compatible with each other and with various things that haven't yet been combined.",
+        "source": "T27n1545_022:0112a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若未斷時由隨增性可說相有。",
+        "translation": "If this is the case when it's not yet stopped, then it can be said that the characteristic exists because of its proliferation.",
+        "source": "T27n1545_022:0112a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷位極疎遠故不說相有。",
+        "translation": "If the stage of having been stopped is extremely remote, then it's not said that the characteristic exists.",
+        "source": "T27n1545_022:0112a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中有名依親強立。",
+        "translation": "Here, names are established on the basis of closeness and strength.",
+        "source": "T27n1545_022:0112a13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非如立有所緣等名。",
+        "translation": "It's not like positing names like 'having a causal basis.'",
+        "source": "T27n1545_022:0112a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者世友作如是說。",
+        "translation": "The Bhagavān, the world friend, explains it this way.",
+        "source": "T27n1545_022:0112a14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠染污心故。",
+        "translation": "'Associative followers of dormancy defile the mind.'",
+        "source": "T27n1545_022:0112a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠不如是故。",
+        "translation": "Contingent followers of dormancy don't act like this.",
+        "source": "T27n1545_022:0112a15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次相應隨眠不離心故。",
+        "translation": "Furthermore, it's because concomitant latent afflictions don't separate from the mind ...",
+        "source": "T27n1545_022:0112a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠不如是故。",
+        "translation": "Concomitant with latent dormancy, it's not like that.",
+        "source": "T27n1545_022:0112a16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次相應隨眠覆蔽心故。",
+        "translation": "Furthermore, it's because concomitant latent afflictions obscure the mind.",
+        "source": "T27n1545_022:0112a17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠不如是故。",
+        "translation": "... the accompanying dormancy that takes place doesn't approach it.",
+        "source": "T27n1545_022:0112a17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次相應隨眠隨心轉故。",
+        "translation": "Furthermore, it's because concomitant latent latencies follow the mind.",
+        "source": "T27n1545_022:0112a18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠不如是故。",
+        "translation": "That's not the case because the accompanying sleep that's the cause is not like that.",
+        "source": "T27n1545_022:0112a19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次相應隨眠擾亂心故。",
+        "translation": "Furthermore, it's because concomitant with that latent sleep that disturbs the mind.",
+        "source": "T27n1545_022:0112a19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠不如是故。",
+        "translation": "The accompanying sleep that's conditioned doesn't work like this.",
+        "source": "T27n1545_022:0112a20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次相應隨眠與相應心同一所依同一所緣同一行相同一果同一等流同一異熟。",
+        "translation": "Furthermore, concomitant with latent dormancy and concomitant mind are the same basis, the same perceptual object, the same practice, the same result, the same stream, and the same maturation.",
+        "source": "T27n1545_022:0112a20_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俱生俱住俱異俱滅。",
+        "translation": "They are both produced, abide, differ, and cease.",
+        "source": "T27n1545_022:0112a22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極親近故。",
+        "translation": "It's because they're extremely close.",
+        "source": "T27n1545_022:0112a23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠不如是故。",
+        "translation": "The conditioned followers of dormancy aren't like this.'",
+        "source": "T27n1545_022:0112a23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德說曰。",
+        "translation": "The great virtuoso explains this.",
+        "source": "T27n1545_022:0112a23_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠令相應心剛強[怡-台+龍]悷。",
+        "translation": "'Concomitant with latencies, the mind associated with them is rigid and [pleasant-dairy+nāga] sorrowful.'",
+        "source": "T27n1545_022:0112a24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智者訶厭難可出離。",
+        "translation": "The wise man loathes it, making it difficult to escape.",
+        "source": "T27n1545_022:0112a24_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠於所緣心無此事故。",
+        "translation": "Concomitant with latencies, there's no such thing in the mind that's the subject of the latency.",
+        "source": "T27n1545_022:0112a25_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者妙音作如是說。",
+        "translation": "Venerable Miaoyin explains it this way.",
+        "source": "T27n1545_022:0112a26_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠令相應心發起染污如烟焰得障礙聖果。",
+        "translation": "'Concomitant with latencies, the mind associated with them arouses defilements like smoke and flames that attain the noble fruit of obstruction.'",
+        "source": "T27n1545_022:0112a26_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠於所緣心無此事故。",
+        "translation": "There's no such event in the mind that's the perceptual referent of that latent latency.",
+        "source": "T27n1545_022:0112a27_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者覺天作如是說。",
+        "translation": "Venerable Kakuda thus explains it.",
+        "source": "T27n1545_022:0112a28_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠令相應心於所緣境迷謬不了。",
+        "translation": "'Concomitant latencies cause the mind associated with them to be confused and unable to understand the perceptual objects.'",
+        "source": "T27n1545_022:0112b01_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠於所緣心無此事故。",
+        "translation": "There's no such event in the mind that's the perceptual object of latent dormancy.",
+        "source": "T27n1545_022:0112b02_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由如是等種種因緣相應隨眠斷未斷位恒令心得有隨眠名。",
+        "translation": "Because of these various causes and conditions, concomitant latencies that are stopped and unstopped always cause the mind to have the name latency.",
+        "source": "T27n1545_022:0112b02_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣隨眠唯未斷位可令心得有隨眠名。",
+        "translation": "The only conditioned latent hindrances that can cause the mind to experience latent hindrances are those that have yet to be stopped.",
+        "source": "T27n1545_022:0112b04_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷位則不名有。",
+        "translation": "If it's at the stage of being stopped, then it's not called being present.",
+        "source": "T27n1545_022:0112b05_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設隨眠於心隨增此心但由彼隨眠故名有隨眠心耶答或由彼非餘。",
+        "translation": "Suppose following dormancy in the mind increases this mind but it's because of that following dormancy that it's called having a mind that follows dormancy? Answer: Either because of that and not other.",
+        "source": "T27n1545_022:0112b05_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或由彼及餘。",
+        "translation": "Or maybe it's because of that and the other.",
+        "source": "T27n1545_022:0112b07_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何由彼非餘。",
+        "translation": "How is it from that and not from the other?",
+        "source": "T27n1545_022:0112b07_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此心未斷。",
+        "translation": "It means this mind hasn't been stopped.",
+        "source": "T27n1545_022:0112b08_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何由彼及餘。",
+        "translation": "How is it because of that and the rest?",
+        "source": "T27n1545_022:0112b08_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂苦智已生集智未生。",
+        "translation": "It means knowledge of suffering has arisen and knowledge of the arising of suffering has yet to arise.",
+        "source": "T27n1545_022:0112b08_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若心見苦所斷見集。",
+        "translation": "If the mind sees what's painful and stops seeing what's set, then what's the perceptual object of the latent dormancy that's stopped?",
+        "source": "T27n1545_022:0112b09_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所斷隨眠所緣。",
+        "translation": "It's the condition of the latent affliction that's stopped.",
+        "source": "T27n1545_022:0112b09_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中由彼非餘者。",
+        "translation": "Here, it's from that and not from the others.",
+        "source": "T27n1545_022:0112b10_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有隨眠心但由彼於心隨增隨眠故名有隨眠心。",
+        "translation": "It means the mind with latent dormancy is called the mind with latent dormancy because it's followed by latent dormancy in the mind.",
+        "source": "T27n1545_022:0112b10_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非由餘於心不隨增隨眠故名有隨眠心。",
+        "translation": "It's not because of the others that the mind doesn't follow increased latencies that it's called a mind with latencies.",
+        "source": "T27n1545_022:0112b11_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此心未斷者。",
+        "translation": "It means the mind has not yet been stopped.",
+        "source": "T27n1545_022:0112b12_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若心未斷必但由彼於心隨增隨眠故名有隨眠心。",
+        "translation": "If the mind hasn't been stopped, it must be because it's followed by more and more latencies in the mind that it's called having latencies.",
+        "source": "T27n1545_022:0112b13_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非由餘於心不隨增隨眠故名有隨眠心。",
+        "translation": "It's not because there's nothing else in the mind that follows that increases and increases latencies that it's called a latent mental state.",
+        "source": "T27n1545_022:0112b14_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's an explanation.",
+        "source": "T27n1545_022:0112b15_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此文應作是說。",
+        "translation": "This is what the text should say.",
+        "source": "T27n1545_022:0112b15_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂具縛者諸染污心。",
+        "translation": "'The defiled minds of those who are fettered.'",
+        "source": "T27n1545_022:0112b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼不應作是說。",
+        "translation": "It shouldn't be said this way.",
+        "source": "T27n1545_022:0112b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以具縛者不具縛者有染污心無染污心皆可爾故。",
+        "translation": "It's because both the bound and unfettered defiled and undefiled minds can be like that.",
+        "source": "T27n1545_022:0112b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但應作是說。",
+        "translation": "They should simply say this.",
+        "source": "T27n1545_022:0112b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此心未斷諸未斷心名有隨眠。",
+        "translation": "'This mind has yet to be stopped, and those minds that have yet to be stopped are called having latent dormancy.'",
+        "source": "T27n1545_022:0112b18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但由於心隨增隨眠非由餘故。",
+        "translation": "It's only because they are accompanied by latencies in the mind and not by others.",
+        "source": "T27n1545_022:0112b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼及餘者。",
+        "translation": "It's from that and from others.",
+        "source": "T27n1545_022:0112b19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有隨眠心由彼於心隨增隨眠故名有隨眠心。",
+        "translation": "It means that the mind with latent dormancy is called the mind with latent dormancy because it follows the mind's tendency to increase and follow latencies.",
+        "source": "T27n1545_022:0112b20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及由餘於心不隨增隨眠故名有隨眠心。",
+        "translation": "And because it's not followed by more and less latent latencies in the mind, it's called a latently dormant mind.",
+        "source": "T27n1545_022:0112b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂苦智已生乃至廣說者。",
+        "translation": "It means that knowledge of suffering has arisen and has been explained in detail.",
+        "source": "T27n1545_022:0112b22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見苦所斷有隨眠心。",
+        "translation": "'The mind with latent dormancy is stopped by seeing what's painful.'",
+        "source": "T27n1545_022:0112b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時由彼見集所斷。",
+        "translation": "At that point, it's because they see what's stopped by accumulation.",
+        "source": "T27n1545_022:0112b23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於心隨增遍行隨眠故名有隨眠心。",
+        "translation": "It's called a mind with latent dormancy because it follows the mind's increasing and pervasive latent dormancy.",
+        "source": "T27n1545_022:0112b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及由餘見苦所斷。",
+        "translation": "It's also because of other views that are stopped by suffering.",
+        "source": "T27n1545_022:0112b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於心不隨增相應隨眠故名有隨眠心。",
+        "translation": "As a result, the mind doesn't follow increasing concomitant latencies, so it's called a latent mind.",
+        "source": "T27n1545_022:0112b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是即說見苦所斷心。",
+        "translation": "This is called the mind that's stopped by seeing what's painful.",
+        "source": "T27n1545_022:0112b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此位中由彼他部於心隨增隨眠故。",
+        "translation": "In this state, it's because those in other groups are subject to latencies that increase and decrease in the mind.",
+        "source": "T27n1545_022:0112b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及由餘自部於心不隨增隨眠故名有隨眠心。",
+        "translation": "It's because the other group doesn't follow that increase in latency in the mind that it's called having latent mental states.",
+        "source": "T27n1545_022:0112b27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故此中他部隨眠名彼。",
+        "translation": "Why is it that in this situation, latent mental states of the other group are called that group ... and latent mental states of the self group are called the other group?",
+        "source": "T27n1545_022:0112b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自部隨眠名餘。",
+        "translation": "The other's follows dormancy and the other's follows dormancy?",
+        "source": "T27n1545_022:0112c01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答以先問言設隨眠於心隨增此心但由彼隨眠故名有隨眠心耶。",
+        "translation": "Ans. Is it because the previous question asked, \"Suppose we suppose that latent dormancy in the mind follows and increases latent dormancy in this mind but it's because of that latent dormancy that it's called a latent dormant mind?",
+        "source": "T27n1545_022:0112c01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故今答言見苦所斷心於此位中非但由彼見集所斷於此心隨增遍行隨眠故名有隨眠心。",
+        "translation": "Therefore, I'll answer by saying that it's not just because he sees what's stopped by suffering that his mind is called having latent dormancy because it's increased by the pervasive latent dormancy of this mind.",
+        "source": "T27n1545_022:0112c03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦由餘見苦所斷。",
+        "translation": "It's also because of other views that are stopped by suffering.",
+        "source": "T27n1545_022:0112c05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此心不隨增相應隨眠故名有隨眠心。",
+        "translation": "Because this mind isn't followed by concomitant latencies, it's called a latent mind.",
+        "source": "T27n1545_022:0112c06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是即說正所問者名彼。",
+        "translation": "Thus, it's called that which is correctly asked.",
+        "source": "T27n1545_022:0112c07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非正所問者名餘。",
+        "translation": "Those who don't ask the right questions are called the others.",
+        "source": "T27n1545_022:0112c07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "他部隨眠爾時未斷。",
+        "translation": "At that point, the latent dormancy in other [realms] hasn't been stopped.",
+        "source": "T27n1545_022:0112c08_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由隨增故是正所問。",
+        "translation": "It's the right thing to ask because it's followed by increase.",
+        "source": "T27n1545_022:0112c08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自部隨眠爾時已斷。",
+        "translation": "At the time, latent dormancy in his own group had been stopped.",
+        "source": "T27n1545_022:0112c09_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不隨增故非正所問。",
+        "translation": "It doesn't increase along with it, so it's not the right thing to ask.",
+        "source": "T27n1545_022:0112c09_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's an explanation.",
+        "source": "T27n1545_022:0112c10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自部隨眠爾時轉至異前位故說之為餘。",
+        "translation": "'My own group's latent tendencies have changed since then to a different status than the previous one, so it's said to be other than that.'",
+        "source": "T27n1545_022:0112c10_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂前未斷今已斷故。",
+        "translation": "It's because it was stopped before and has been stopped now.'",
+        "source": "T27n1545_022:0112c11_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's an explanation.",
+        "source": "T27n1545_022:0112c11_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自部隨眠先得自在隨欲所作。",
+        "translation": "'My own latent tendencies were previously attained with ease following what I wanted to do.'",
+        "source": "T27n1545_022:0112c11_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今已斷故不得自在。",
+        "translation": "Now, it has been stopped, so it's not attainable with ease.",
+        "source": "T27n1545_022:0112c12_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所能作故說為餘。",
+        "translation": "Because it's incapable of doing so, it's said to be other than that.",
+        "source": "T27n1545_022:0112c13_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's an explanation.",
+        "source": "T27n1545_022:0112c13_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自部隨眠本來成就。",
+        "translation": "'The latent tendencies of this part were originally accomplished.",
+        "source": "T27n1545_022:0112c13_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今不成就故說為餘。",
+        "translation": "Because it's not accomplished now, it's said to be other than that.",
+        "source": "T27n1545_022:0112c14_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's an explanation.",
+        "source": "T27n1545_022:0112c14_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自部隨眠今為聖道究竟斷滅異昔來故說之為餘。",
+        "translation": "'The latent tendencies of this part are now terminated in the noble path, unlike in the past, so it's said to be other than that.'",
+        "source": "T27n1545_022:0112c14_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching that says.",
+        "source": "T27n1545_022:0112c16_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自部隨眠已為聖道簡別頓斷。",
+        "translation": "'The latent hindrances of this part have been ended specifically and immediately by the noble path.'",
+        "source": "T27n1545_022:0112c16_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不同昔來與餘四部同時漸斷故說為餘。",
+        "translation": "It's different from the four divisions that were gradually stopped at the same time in the past, so it's said to be the remainder.",
+        "source": "T27n1545_022:0112c17_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問修所斷心亦有此義。",
+        "translation": "This is also the meaning of the mind that's cut off by questioning.",
+        "source": "T27n1545_022:0112c18_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂斷一品乃至八品已斷染心。",
+        "translation": "It's the mind that's cut from the first rank up to the eighth rank of defilement that's been cut.",
+        "source": "T27n1545_022:0112c18_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼未斷及餘已斷名有隨眠。",
+        "translation": "Because it's not yet stopped and the others have been stopped, it's called having latent dormancy.",
+        "source": "T27n1545_022:0112c19_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故不說。",
+        "translation": "Why isn't it explained?",
+        "source": "T27n1545_022:0112c20_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答是作論者意欲爾故。",
+        "translation": "A It's because that's what the author of the treatise intended.",
+        "source": "T27n1545_022:0112c20_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至廣說。",
+        "translation": "He might even explain it in detail.",
+        "source": "T27n1545_022:0112c20_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次應說而不說者。",
+        "translation": "\"Furthermore, someone who doesn't explain what should be explained should know that there's more to it.",
+        "source": "T27n1545_022:0112c21_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知此義有餘。",
+        "translation": "You should know that there's more to this meaning.",
+        "source": "T27n1545_022:0112c21_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次若異部為彼異部為餘者。",
+        "translation": "\"Furthermore, if another part is another part or another part is other.",
+        "source": "T27n1545_022:0112c22_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中說之修所斷心。",
+        "translation": "This is called the mind that's cultivated and eliminated.",
+        "source": "T27n1545_022:0112c22_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有此義而自部為彼自部為餘故此不說。",
+        "translation": "Although it has this meaning, it's not explained because its own part is other than theirs.",
+        "source": "T27n1545_022:0112c23_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次此中但說斷已畢竟不復退者修所斷心。",
+        "translation": "Furthermore, it's only described here as the mind that's cultivated and stopped after ending it and never turning back.",
+        "source": "T27n1545_022:0112c24_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有此義而彼斷已。",
+        "translation": "Although it has this meaning, after it's stopped, it may regress again.",
+        "source": "T27n1545_022:0112c25_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有復退故不說之。",
+        "translation": "They may fall back again, so they don't explain it.",
+        "source": "T27n1545_022:0112c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問諸隨眠云何於所緣隨增云何於相應隨增耶。",
+        "translation": "\"How do these latent tendencies follow and increase in accordance with their objects? How do they follow and increase in accordance with each other?",
+        "source": "T27n1545_022:0112c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西方諸師作如是說。",
+        "translation": "Teachers in the West have said this.",
+        "source": "T27n1545_022:0112c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為繫縛性故。",
+        "translation": "'It's because of the nature of bondage.'",
+        "source": "T27n1545_022:0112c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所緣隨增。",
+        "translation": "It follows the increase in the perceptual object.",
+        "source": "T27n1545_022:0113a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為同伴性故。",
+        "translation": "It's because of the nature of their companions.",
+        "source": "T27n1545_022:0113a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於相應隨增。",
+        "translation": "It's concomitant with increase.'",
+        "source": "T27n1545_022:0113a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "迦濕彌羅國諸論師言。",
+        "translation": "The treatise masters in Kāśmīra said.",
+        "source": "T27n1545_022:0113a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所緣境各別行相隨執增益故。",
+        "translation": "\"It's because the distinctive defining characteristics of formations in the perceptual objects increase in accordance with attachment.",
+        "source": "T27n1545_022:0113a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名於所緣隨增。",
+        "translation": "It's called subsequently increasing in response to perceptual objects.",
+        "source": "T27n1545_022:0113a03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於相應法令同自過隨順增益故。",
+        "translation": "It's because they are accompanied by their own faults and subsequently increase in conformity with the associated law.",
+        "source": "T27n1545_022:0113a03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名於相應隨增。",
+        "translation": "This is called concomitant with increase.'",
+        "source": "T27n1545_022:0113a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "There are other masters who say.",
+        "source": "T27n1545_022:0113a04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸隨眠於所緣隨增如於相應。",
+        "translation": "'Sufficient dormancy follows and increases in regard to perceptual objects as it does in regard to concomitant objects.'",
+        "source": "T27n1545_022:0113a05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於相應隨增如於所緣。",
+        "translation": "They are concomitantly proliferated according to the perceptual objects.",
+        "source": "T27n1545_022:0113a05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問若爾品類足論當云何通。",
+        "translation": "Q: If this is the case, what does the Prakaraṇapāda-śāstra explain?",
+        "source": "T27n1545_022:0113a06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說。",
+        "translation": "It's like it says.",
+        "source": "T27n1545_022:0113a07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何欲貪隨眠隨增。",
+        "translation": "\"What is desire and craving that follows and increases according to dormancy?",
+        "source": "T27n1545_022:0113a07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂可愛可樂可憙可意。",
+        "translation": "It's what's desirable, enjoyable, pleasurable, jealous, and agreeable.",
+        "source": "T27n1545_022:0113a07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於相應無能緣義。",
+        "translation": "There's no referential meaning associated with it.",
+        "source": "T27n1545_022:0113a08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何亦說有可愛等。",
+        "translation": "How is it also said to have desirability and so forth?",
+        "source": "T27n1545_022:0113a08_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答彼顯貪相。",
+        "translation": "Answer: It shows the characteristic of craving.",
+        "source": "T27n1545_022:0113a09_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲貪隨眠有可愛等相故作是說。",
+        "translation": "They say that desire and latency have desirable and other characteristics.",
+        "source": "T27n1545_022:0113a09_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不顯所緣相應異相。",
+        "translation": "It doesn't reveal the difference in the perceptual objects that are associated with it.",
+        "source": "T27n1545_022:0113a10_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者世友作如是說。",
+        "translation": "Venerable World Honored Friend makes this statement.",
+        "source": "T27n1545_022:0113a10_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由四事故說諸隨眠有隨增義。",
+        "translation": "'Four things give rise to the meaning that latent desires have secondary effects.'",
+        "source": "T27n1545_022:0113a11_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一墮惡意故。",
+        "translation": "One is because they fall into bad intentions.",
+        "source": "T27n1545_022:0113a12_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如大眾中一人造惡令彼多人皆墮惡意。",
+        "translation": "Suppose one person in a large group creates evil, causing many others to fall into ill-will.",
+        "source": "T27n1545_022:0113a12_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是於一相應品中起一隨眠。",
+        "translation": "Thus, one latent dormancy arises in a concomitant class.",
+        "source": "T27n1545_022:0113a13_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即令此品心心所法皆墮惡意。",
+        "translation": "It causes this class of mind and mental factors to all fall into ill-will.",
+        "source": "T27n1545_022:0113a14_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二如火熱故。",
+        "translation": "Second, it's like when a fire is hot.",
+        "source": "T27n1545_022:0113a14_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如置熱鐵小水器中。",
+        "translation": "It's like putting a small dish of hot iron in a pot.",
+        "source": "T27n1545_022:0113a15_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其器及水無不皆熱。",
+        "translation": "Nothing in that vessel or its water is too hot.",
+        "source": "T27n1545_022:0113a15_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是於一心品法中起一煩惱。",
+        "translation": "Thus, a single affliction arises in one mental factor.",
+        "source": "T27n1545_022:0113a16_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即令一切心心所法皆成熱惱。",
+        "translation": "It causes all mind, mental states, and phenomena to become hot and disturbed.",
+        "source": "T27n1545_022:0113a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三如烟等故。",
+        "translation": "3. It's like smoke and so forth.",
+        "source": "T27n1545_022:0113a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如烟塵垢所著衣服皆成穢惡。",
+        "translation": "Just like smoke and dirt on clothing, they all become filthy.",
+        "source": "T27n1545_022:0113a18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是心品有一隨眠皆成染污。",
+        "translation": "Thus, one latent tendency in a mental quality will become defiled.",
+        "source": "T27n1545_022:0113a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四可毀厭故。",
+        "translation": "Four is because it's disgusting.",
+        "source": "T27n1545_022:0113a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如僧眾中有一犯罪眾皆受責。",
+        "translation": "Suppose there's one offense in a congregation of monks for which all are rebuked.",
+        "source": "T27n1545_022:0113a19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是心品有一隨眠皆可毀厭如於相應。",
+        "translation": "Thus, there's one latent mental quality that's disgusting as it's associated with.",
+        "source": "T27n1545_022:0113a20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有此四事說名隨增。",
+        "translation": "These four things are said to increase together.",
+        "source": "T27n1545_022:0113a21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所緣境亦增此四故名隨增。",
+        "translation": "When these four things increase in their perceptual objects, they're called consequent increases.",
+        "source": "T27n1545_022:0113a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂若所緣增長此四即說煩惱於彼隨增。",
+        "translation": "That is, if these four perceptual objects increase, it's said that afflictions increase along with them.",
+        "source": "T27n1545_022:0113a22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問過去未來隨眠亦隨增不。",
+        "translation": "Q Does latent afflictions in the past and future also increase accordingly?",
+        "source": "T27n1545_022:0113a23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答彼亦隨增。",
+        "translation": "Answer: They will also increase accordingly.",
+        "source": "T27n1545_022:0113a24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼隨眠不隨增者。",
+        "translation": "If that latent latent latent doesn't increase along with it, then...",
+        "source": "T27n1545_022:0113a24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不染污心現在前位應無隨眠。",
+        "translation": "The undefiled mind should have no latent hindrances in its present state.'",
+        "source": "T27n1545_022:0113a25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便違經說。",
+        "translation": "That would be contrary to what the sūtras say.",
+        "source": "T27n1545_022:0113a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說。",
+        "translation": "It's just as it says.",
+        "source": "T27n1545_022:0113a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告結鬘母言。",
+        "translation": "The Buddha told the mother of the garland, \"A baby lies on its belly.",
+        "source": "T27n1545_022:0113a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嬰孩小兒仰腹而臥。",
+        "translation": "\"A small child lies on its back.",
+        "source": "T27n1545_022:0113a26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尚不能了欲境勝劣。",
+        "translation": "It's still unable to comprehend the superiority or inferiority of the desire realm.",
+        "source": "T27n1545_022:0113a27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況復能起欲貪纏心。",
+        "translation": "How could it even become tethered by desire for it?",
+        "source": "T27n1545_022:0113a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然被欲貪隨眠繫縛。",
+        "translation": "However, it's bound by desire and craving as it drifts along.",
+        "source": "T27n1545_022:0113a28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問過去未來既無作用。",
+        "translation": "He asks how can he say that latent desire follows increase in latency?",
+        "source": "T27n1545_022:0113a28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何可說隨眠隨增。",
+        "translation": "How can it be said that latency follows increase?'",
+        "source": "T27n1545_022:0113a29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答彼能起。",
+        "translation": "Answer: They can give rise to it.",
+        "source": "T27n1545_022:0113a29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得現在前故。",
+        "translation": "It's because they can be present in the past.",
+        "source": "T27n1545_022:0113b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如火不現而能起烟。",
+        "translation": "It's like a fire that produces smoke when it doesn't appear.",
+        "source": "T27n1545_022:0113b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者妙音作如是說。",
+        "translation": "Venerable Miaoyin explains it this way.",
+        "source": "T27n1545_022:0113b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼雖無有取境作用。",
+        "translation": "'Although it doesn't have the effect of grasping objects, it has the effect of being tied to objects and associated dharmas as they are.'",
+        "source": "T27n1545_022:0113b02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而於所緣及相應法有如現在繫縛功能故。",
+        "translation": "Yet, for that reason, they have the ability to bind themselves to perceptual objects and associated dharmas as they are in the present.",
+        "source": "T27n1545_022:0113b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼隨眠有隨增義。",
+        "translation": "Their latent tendencies have a concomitant meaning.'",
+        "source": "T27n1545_022:0113b03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者設摩達多說曰。",
+        "translation": "Venerable Shirmadatta said.",
+        "source": "T27n1545_022:0113b04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由五事故可說過去未來隨眠有隨增義。",
+        "translation": "\"There are five things that can be said about latencies in the past and future that have a concomitant and increasing meaning.",
+        "source": "T27n1545_022:0113b04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者彼因未盡故。",
+        "translation": "One, it's because their causes haven't been exhausted.",
+        "source": "T27n1545_022:0113b05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者彼得未斷故。",
+        "translation": "Two, it's because Peter hasn't yet stopped it.",
+        "source": "T27n1545_022:0113b06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者未轉彼所依故。",
+        "translation": "Three, it's because they haven't yet changed their bases.",
+        "source": "T27n1545_022:0113b06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者未了彼所緣故。",
+        "translation": "4. because that object has yet to be comprehended ...",
+        "source": "T27n1545_022:0113b07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者未得彼對治故。",
+        "translation": "5. because their antidotes haven't been obtained.",
+        "source": "T27n1545_022:0113b07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸心由隨眠故名有隨眠心。",
+        "translation": "All minds are called having latent mental states because of latent tendencies.",
+        "source": "T27n1545_022:0113b08_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼隨眠於此心當斷耶。",
+        "translation": "Will that latent dormancy be stopped in this mind?",
+        "source": "T27n1545_022:0113b08_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答或當斷或不當斷。",
+        "translation": "Answer Either it will be stopped or it won't be stopped.",
+        "source": "T27n1545_022:0113b09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何當斷。",
+        "translation": "How will it be stopped?",
+        "source": "T27n1545_022:0113b09_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼隨眠緣此心。",
+        "translation": "It means that it's a condition of latent dormancy in this mind.",
+        "source": "T27n1545_022:0113b10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不當斷。",
+        "translation": "How will it not be stopped?",
+        "source": "T27n1545_022:0113b10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼隨眠與此心相應。",
+        "translation": "It means that it's conditioned by that latent dormancy and is associated with this mind.",
+        "source": "T27n1545_022:0113b10_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中顯示隨眠於所緣境可說當斷非於相應。",
+        "translation": "This shows that conditioned by latent dormancy, it can be said to be stopped and not concomitant with it.",
+        "source": "T27n1545_022:0113b11_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於所緣。",
+        "translation": "It means that it's in regard to the perceptual objects.",
+        "source": "T27n1545_022:0113b12_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可制煩惱令不現起造諸過失。",
+        "translation": "It can restrain afflictions so that they don't arise and create errors.",
+        "source": "T27n1545_022:0113b12_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非於相應可制煩惱令不復與心等相應故。",
+        "translation": "When it's not associated, it can restrain the afflictions so that they don't again associate with the mind and so forth.",
+        "source": "T27n1545_022:0113b13_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所緣可說當斷非於相應。",
+        "translation": "In regard to perceptual objects, it can be said that they should be stopped and not associated with them.",
+        "source": "T27n1545_022:0113b14_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's an explanation.",
+        "source": "T27n1545_022:0113b15_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此文應作是說。",
+        "translation": "This is what this text should say.",
+        "source": "T27n1545_022:0113b15_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何當斷。",
+        "translation": "\"How will it be stopped?",
+        "source": "T27n1545_022:0113b16_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼隨眠緣此心未斷。",
+        "translation": "It means that this mind has not yet stopped the condition of latent afflictions.",
+        "source": "T27n1545_022:0113b16_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不當斷。",
+        "translation": "How is it not [to be] stopped?",
+        "source": "T27n1545_022:0113b16_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼隨眠緣此心已斷及與此心相應。",
+        "translation": "It means that the condition of that latent tendency has been stopped in this mind and is associated with this mind.",
+        "source": "T27n1545_022:0113b17_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼說非理。",
+        "translation": "He says it's not true.",
+        "source": "T27n1545_022:0113b18_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T27n1545_022:0113b18_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前問諸心由隨眠故名有隨眠心。",
+        "translation": "The previous question asked whether it's because of latent dormancy that these minds are called having latent states of mind.",
+        "source": "T27n1545_022:0113b18_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼隨眠於此心當斷不。",
+        "translation": "Will that latent dormancy be stopped in this mind?",
+        "source": "T27n1545_022:0113b19_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今但應說。",
+        "translation": "Now, it should only be explained.",
+        "source": "T27n1545_022:0113b19_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何當斷。",
+        "translation": "\"How will it be stopped?",
+        "source": "T27n1545_022:0113b20_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼隨眠緣此心於義已足。",
+        "translation": "It means that the condition of that latent dormancy in this mind is sufficient in its meaning.",
+        "source": "T27n1545_022:0113b20_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何須更說未斷。",
+        "translation": "Why is it necessary to explain it before it's stopped?",
+        "source": "T27n1545_022:0113b21_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼已斷心不由彼名有隨眠便非所問。",
+        "translation": "If that mind that's been stopped doesn't have latent dormancy by that name, then it's not the question.",
+        "source": "T27n1545_022:0113b21_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不須更說未斷。",
+        "translation": "Therefore, it's not necessary to further explain what's not yet stopped.",
+        "source": "T27n1545_022:0113b22_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又緣此心已斷及言理不應說緣心隨眠。",
+        "translation": "Furthermore, since this mind has been stopped, it's not right to say that it's conditioned by mind with latent dormancy.",
+        "source": "T27n1545_022:0113b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若已斷者便非所問故。",
+        "translation": "If it had been stopped, then it wouldn't be a question.",
+        "source": "T27n1545_022:0113b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但應說。",
+        "translation": "It should only be said.",
+        "source": "T27n1545_022:0113b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不當斷。",
+        "translation": "\"Why shouldn't it be stopped?",
+        "source": "T27n1545_022:0113b24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼隨眠與此心相應其義已足。",
+        "translation": "It means that it's sufficient to say that this is latent dormancy that's associated with this mind.",
+        "source": "T27n1545_022:0113b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此中說諸隨眠於所緣可斷非於相應者。",
+        "translation": "However, it's said here that these latent dormancies can be stopped in terms of their cognition and not in terms of their concomitance.",
+        "source": "T27n1545_022:0113b25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依心名有隨眠義說。",
+        "translation": "It's said to rely on the meaning that the mind's name has latent dormancy.",
+        "source": "T27n1545_022:0113b26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不依隨增義說。",
+        "translation": "It doesn't rely on the meaning of concomitant.",
+        "source": "T27n1545_022:0113b27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以隨增義俱可斷故。",
+        "translation": "It's because both the meaning of followers and the meaning of proliferators can be stopped.",
+        "source": "T27n1545_022:0113b27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸隨眠因何當斷。",
+        "translation": "What are the causes of latent dormancy that should be stopped?",
+        "source": "T27n1545_022:0113b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答因所緣前所顯義今現其文。",
+        "translation": "Answer: The meaning of cause and condition as previously expressed is now presented in the text.",
+        "source": "T27n1545_022:0113b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸隨眠由對治力令彼於境不復起過。",
+        "translation": "It means that latent dormancies are caused by the power of antidotes to prevent them from further producing errors in their objects.",
+        "source": "T27n1545_022:0113c01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可說當斷。",
+        "translation": "They can be said to be stopped.",
+        "source": "T27n1545_022:0113c02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如人制子不令復入酒舍婬舍博戲舍等。",
+        "translation": "It's like when a person restrains a child from reentering a house of alcohol, a house of lust, a house of gambling, and so forth.",
+        "source": "T27n1545_022:0113c02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若令隨眠離相應法無有是處。",
+        "translation": "There's no place for latent dormancy to be removed from concomitant dharmas.",
+        "source": "T27n1545_022:0113c03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說彼於相應法無有斷義。",
+        "translation": "Therefore, it's said that there's no point in stopping it when it's associated with that thing.",
+        "source": "T27n1545_022:0113c04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝說隨眠因所緣當斷耶。",
+        "translation": "Do you say that the causes and conditions of latent hindrances will be stopped?",
+        "source": "T27n1545_022:0113c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答如是。",
+        "translation": "Answer: Yes.",
+        "source": "T27n1545_022:0113c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾諸隨眠見滅道所斷有漏緣彼隨眠因何當斷。",
+        "translation": "If these are the contaminated conditions that are stopped by the path to the cessation of views of latent dormancy, what are the causes of that latent dormancy that will be stopped?",
+        "source": "T27n1545_022:0113c06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言此斷彼斷俱不應理。",
+        "translation": "It's unreasonable to say that either one will be stopped or the other will be stopped.",
+        "source": "T27n1545_022:0113c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答見滅道所斷無漏緣隨眠因所緣故斷。",
+        "translation": "Answer: The uncontaminated condition of [the] latent causes that are stopped in the path of seeing cessation will be stopped.",
+        "source": "T27n1545_022:0113c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此斷故彼亦斷。",
+        "translation": "Because it's stopped, that [condition] will also be stopped.",
+        "source": "T27n1545_022:0113c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中意說。",
+        "translation": "This is what's meant by this.",
+        "source": "T27n1545_022:0113c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "要因慧見煩惱所緣隨眠方斷。",
+        "translation": "'It's only when wisdom sees the causes and conditions of affliction and latent dormancy that they're stopped.'",
+        "source": "T27n1545_022:0113c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為成此理。",
+        "translation": "This is the principle that's accomplished.",
+        "source": "T27n1545_022:0113c10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問答難通。",
+        "translation": "It's difficult to understand the answer to the question.",
+        "source": "T27n1545_022:0113c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝說隨眠因所緣當斷耶者。",
+        "translation": "Do you say that the causes and conditions of latent hindrances will be stopped?",
+        "source": "T27n1545_022:0113c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是問前雖略說而未審定。",
+        "translation": "This is a question that's been briefly explained but not yet ascertained.",
+        "source": "T27n1545_022:0113c12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不審定他宗所許說他過失無有是處。",
+        "translation": "If it's not ascertained, there's no place for the faults of others as permitted by other schools.",
+        "source": "T27n1545_022:0113c12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答如是者是答要因慧見煩惱所緣隨眠方斷。",
+        "translation": "This is the answer that requires wisdom to see that the afflictions that are the cause and condition of drowsiness will be stopped.",
+        "source": "T27n1545_022:0113c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其理決定。",
+        "translation": "Its principle is determined.",
+        "source": "T27n1545_022:0113c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更無異趣故言如是。",
+        "translation": "There's no other path, so he says it's like this.",
+        "source": "T27n1545_022:0113c15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾諸隨眠見滅道所斷有漏緣彼隨眠因何當斷。",
+        "translation": "If this is the case, what are the causes of those latent conditions that are the contaminants stopped by the path to the cessation of latent views?",
+        "source": "T27n1545_022:0113c15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言此斷。",
+        "translation": "If it's said that it's stopped here, then it's unreasonable to say that it's stopped there.",
+        "source": "T27n1545_022:0113c16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼斷俱不應理者。",
+        "translation": "It's not reasonable to say that either of them will be stopped.",
+        "source": "T27n1545_022:0113c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是難彼難意。",
+        "translation": "This is a refutation of the meaning of that refutation.",
+        "source": "T27n1545_022:0113c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言見滅道所斷有漏緣隨眠因何當斷。",
+        "translation": "What will be the cause of the contaminated condition of latent dormancy that's stopped by seeing the path to cessation that should be stopped?",
+        "source": "T27n1545_022:0113c17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言因慧見此苦集故得斷者。",
+        "translation": "If it's said that it's stopped because wisdom sees this suffering and accumulation, then that's not the case.",
+        "source": "T27n1545_022:0113c18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其理不然。",
+        "translation": "That's not the case.",
+        "source": "T27n1545_022:0113c19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見苦集時此未斷故。",
+        "translation": "It's because it's not yet stopped when he sees suffering and accumulation.",
+        "source": "T27n1545_022:0113c19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言因慧見彼滅道故得斷者。",
+        "translation": "If it's said that it's stopped because wisdom sees the path to cessation, then it's not the case.",
+        "source": "T27n1545_022:0113c20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理亦不然。",
+        "translation": "That's also not the truth.",
+        "source": "T27n1545_022:0113c20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅道非此所緣境故。",
+        "translation": "It's because the path to cessation isn't an object of that view.",
+        "source": "T27n1545_022:0113c21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答見滅道所斷無漏緣隨眠因所緣故。",
+        "translation": "Answer: Seeing what's stopped in the path to cessation as an uncontaminated condition, following dormancy as a cause and condition.",
+        "source": "T27n1545_022:0113c21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷由此斷故彼亦斷者是通。",
+        "translation": "He who stops it because it's stopped by this and that's also stopped by that is the general idea.",
+        "source": "T27n1545_022:0113c22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此通意言見滅道所斷有漏緣隨眠依止無漏緣隨眠故而得生長。",
+        "translation": "This generalization means that the contaminated cognitive condition and latent dormancy that's stopped in the path of seeing cessation depends on the uncontaminated cognitive condition and latent dormancy and thus comes into being.",
+        "source": "T27n1545_022:0113c23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅道時此無漏緣隨眠斷故。",
+        "translation": "When they see the path to cessation, this uncontaminated conditioned latent dormancy is stopped.",
+        "source": "T27n1545_022:0113c24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼見滅道所斷有漏緣隨眠亦隨斷。",
+        "translation": "The contaminated conditioned latent dormancy that's stopped by that view of the path to cessation is also stopped accordingly.",
+        "source": "T27n1545_022:0113c25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如羸病人依杖而立。",
+        "translation": "They're like a weak person standing on a staff.",
+        "source": "T27n1545_022:0113c26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "去杖便倒。",
+        "translation": "When he removes the staff, he falls down.",
+        "source": "T27n1545_022:0113c26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦如是。",
+        "translation": "This is likewise.",
+        "source": "T27n1545_022:0113c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問前定宗言要因慧見煩惱所緣隨眠方斷。",
+        "translation": "The previous school of meditation said that only afflictive causes and conditions of wisdom and vision and latent dormancy are stopped.",
+        "source": "T27n1545_022:0113c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今乃通言所緣斷故能緣隨斷。",
+        "translation": "Now, it's generally said that because the causal condition is stopped, the able condition is stopped accordingly.",
+        "source": "T27n1545_022:0113c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不相違。",
+        "translation": "Isn't that a contradiction?",
+        "source": "T27n1545_022:0113c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答無相違失。",
+        "translation": "Answer There's no contradiction.",
+        "source": "T27n1545_022:0113c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慧見所緣隨眠尚斷。",
+        "translation": "The latent dormancy that's the condition for the wisdom perspective has yet to be stopped.",
+        "source": "T27n1545_022:0113c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況所緣斷而不斷耶。",
+        "translation": "How much more so when the cognition of the cognition is stopped but not sustained?",
+        "source": "T27n1545_022:0114a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如果依樹動樹尚墮況樹傾倒而果不落。",
+        "translation": "If a tree is moved by its support, the tree still falls, so why would the fruit not fall even though the tree has fallen?",
+        "source": "T27n1545_022:0114a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦如是。",
+        "translation": "This is also the case.",
+        "source": "T27n1545_022:0114a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又前所說要因慧見煩惱所緣隨眠方斷者。",
+        "translation": "Furthermore, the prior teaching says that it's only because of wisdom that the afflictive causes and conditions of affliction and latent dormancy are stopped.",
+        "source": "T27n1545_022:0114a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不說要因慧見所斷煩惱所緣隨眠方斷。",
+        "translation": "It doesn't say that it's because of wisdom that the afflictions that are the causes and conditions of affliction and latent dormancy are stopped.",
+        "source": "T27n1545_022:0114a03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但說要因慧見所有煩惱所緣隨眠方斷故不相違。",
+        "translation": "It only says that it's because wisdom sees that all the afflictive conditions and latent objects of affliction are stopped that there's no contradiction.",
+        "source": "T27n1545_022:0114a04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂因慧見無漏緣煩惱所緣滅道故。",
+        "translation": "It's because wisdom sees the uncontaminated cognition and the afflictive conditions that are the causes and conditions of the path to cessation.",
+        "source": "T27n1545_022:0114a06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅道所斷有漏緣隨眠亦斷。",
+        "translation": "Contaminated conditions and latent dormancy that are stopped by seeing the path to cessation are also stopped.",
+        "source": "T27n1545_022:0114a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此理趣苦集法忍能斷緣上遍行隨眠。",
+        "translation": "This principle of the path to the tolerance of suffering, accumulation, and dharmas can stop the latent dormancy that's pervasive above the cognition of conditions.",
+        "source": "T27n1545_022:0114a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修道位中滅道二智。",
+        "translation": "In the stage of cultivation, he has the two kinds of cognition of the path to cessation.",
+        "source": "T27n1545_022:0114a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能斷九地修所斷惑。",
+        "translation": "It's able to end the afflictions that are ended in the ninth ground of cultivation.",
+        "source": "T27n1545_022:0114a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "There are other teachers who say.",
+        "source": "T27n1545_022:0114a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因所緣故隨眠斷者。",
+        "translation": "'Stopping latent hindrances because of their causal objects'?",
+        "source": "T27n1545_022:0114a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意顯煩惱所緣斷故隨眠方斷。",
+        "translation": "This means that it shows that latent dormancy is stopped only because the afflictive conditions are stopped.",
+        "source": "T27n1545_022:0114a10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為成此理問答難通。",
+        "translation": "To establish this principle, the answer to the question is difficult to understand.",
+        "source": "T27n1545_022:0114a11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝說隨眠因所緣當斷耶。",
+        "translation": "Do you say that latent hindrances will be stopped because of their causes and conditions?",
+        "source": "T27n1545_022:0114a11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答如是。",
+        "translation": "Answer Yes.",
+        "source": "T27n1545_022:0114a12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾諸隨眠見滅道所斷無漏緣彼隨眠因何當斷。",
+        "translation": "If these are the uncontaminated conditions that are stopped by the path to the cessation of insight into these latent dormancies, then how will their causes of latent dormancy be stopped?",
+        "source": "T27n1545_022:0114a12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言此相應斷故斷者。",
+        "translation": "If you say that it's stopped because it's associated with the cessation of these [afflictions], then it's not the case.",
+        "source": "T27n1545_022:0114a13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其理不然。",
+        "translation": "That's not the case.",
+        "source": "T27n1545_022:0114a14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前說隨眠非於相應可說斷故。",
+        "translation": "It's because the previously explained conditioned dormancy isn't associated with what can be said to be stopped.",
+        "source": "T27n1545_022:0114a14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言彼所緣斷故斷者。",
+        "translation": "If it's said that it's stopped because those [afflictions] are stopped by their cognition, then it's not the case.",
+        "source": "T27n1545_022:0114a15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理亦不然。",
+        "translation": "That's also not the case.",
+        "source": "T27n1545_022:0114a15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣滅道無諸過失不可斷故。",
+        "translation": "It's because there are no faults in the path to cessation that can't be stopped.",
+        "source": "T27n1545_022:0114a15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答見滅道所斷有漏緣隨眠斷故此亦隨斷。",
+        "translation": "A. The contaminants that are stopped in the path to cessation have their causes and conditions followed by dormancy stopped, so they're also stopped.",
+        "source": "T27n1545_022:0114a16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問前定宗言。",
+        "translation": "Q The prior settled doctrine says.",
+        "source": "T27n1545_022:0114a17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣斷故隨眠方斷。",
+        "translation": "'Because the cognition is stopped, latent hindrances are stopped.'",
+        "source": "T27n1545_022:0114a17_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今說能緣煩惱斷故隨眠方斷。",
+        "translation": "Now, it says that because the afflictions that are the causal condition are stopped, the latent tendencies are stopped.",
+        "source": "T27n1545_022:0114a18_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不相違。",
+        "translation": "Isn't that a contradiction?",
+        "source": "T27n1545_022:0114a19_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答無相違失。",
+        "translation": "Answer There's no contradiction.",
+        "source": "T27n1545_022:0114a19_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無漏緣隨眠依有漏緣隨眠而得生長。",
+        "translation": "It means that uncontaminated conditioned latent dormancy grows depending on contaminated conditioned latent dormancy.",
+        "source": "T27n1545_022:0114a19_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼任持此得相續故。",
+        "translation": "It's because they maintain this condition and attain continuity.",
+        "source": "T27n1545_022:0114a20_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼斷持此亦隨斷。",
+        "translation": "When they stop it, they maintain it, and it's stopped accordingly.",
+        "source": "T27n1545_022:0114a21_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如樹莖等依根而住。",
+        "translation": "It's like a tree stem that depends on its roots for support.",
+        "source": "T27n1545_022:0114a21_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若斷其根莖等隨倒。",
+        "translation": "If they cut their roots, the stems will fall down accordingly.",
+        "source": "T27n1545_022:0114a22_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦如是。",
+        "translation": "This is likewise.",
+        "source": "T27n1545_022:0114a22_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼說非理。",
+        "translation": "He says it's not true.",
+        "source": "T27n1545_022:0114a22_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "違前宗故。",
+        "translation": "It's contrary to the previous thesis.",
+        "source": "T27n1545_022:0114a23_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此本論文難通異故。",
+        "translation": "It's because the text of this thesis is difficult to interpret differently.",
+        "source": "T27n1545_022:0114a23_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有所緣斷時能緣未斷故。",
+        "translation": "It's because there are cognitive cognition that hasn't been stopped when the cognitive cognition is stopped.",
+        "source": "T27n1545_022:0114a23_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有能緣斷時所緣未斷故。",
+        "translation": "There are cognitive conditions that are stopped when the cognitive conditions are stopped but the cognitive conditions are not stopped.",
+        "source": "T27n1545_022:0114a24_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復有說。",
+        "translation": "There are also teachings that say.",
+        "source": "T27n1545_022:0114a25_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因所緣故隨眠斷者。",
+        "translation": "'Stopping latent dormancy because of a causal condition' ...",
+        "source": "T27n1545_022:0114a25_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意說要因有所緣道隨眠方斷。",
+        "translation": "They mean that latent dormancy is stopped only when there's a causal path.",
+        "source": "T27n1545_022:0114a25_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼說非理。",
+        "translation": "That's not true.",
+        "source": "T27n1545_022:0114a26_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以世尊說如是八支聖道能斷過去未來現在眾苦。",
+        "translation": "The Bhagavān explains that these eight noble paths can stop all suffering in the past, future, and present.",
+        "source": "T27n1545_022:0114a26_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "棄捨變吐盡離染滅寂靜涅槃。",
+        "translation": "Abandoning equanimity, changing emptiness, and ending defilement and cessation are quiescent nirvāṇas.",
+        "source": "T27n1545_022:0114a28_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故應說。",
+        "translation": "Therefore, it should be explained.",
+        "source": "T27n1545_022:0114a28_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有所緣道無所緣道俱能斷惑。",
+        "translation": "'Both the path with and without perceptual objects can end affliction.'",
+        "source": "T27n1545_022:0114a29_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於後說。",
+        "translation": "It's also explained later.",
+        "source": "T27n1545_022:0114a29_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若難若通俱不相應故彼非理。",
+        "translation": "'Whether it's difficult or shared is not relevant, so it's not true.'",
+        "source": "T27n1545_022:0114b01_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者設摩達多說曰。",
+        "translation": "The Venerable Shirmadatta said.",
+        "source": "T27n1545_022:0114b01_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由四事故諸隨眠斷。",
+        "translation": "\"It's because of four circumstances that latent afflictions are stopped.",
+        "source": "T27n1545_022:0114b02_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一由所緣斷故。",
+        "translation": "One is stopped because of the cessation of perceptual objects.",
+        "source": "T27n1545_022:0114b02_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如見滅道所斷有漏緣隨眠。",
+        "translation": "It's like the contaminated conditioned latent dormancy that's stopped in the path to the cessation of views.",
+        "source": "T27n1545_022:0114b03_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二由能緣斷故。",
+        "translation": "Second, it's stopped because of the cognition of the cognition of the cognition.",
+        "source": "T27n1545_022:0114b03_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如他界緣隨眠。",
+        "translation": "It's like conditioned latencies in other realms.",
+        "source": "T27n1545_022:0114b04_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三由俱緣斷故。",
+        "translation": "Third, it's stopped because of both cognitive and objective conditions.",
+        "source": "T27n1545_022:0114b04_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如見苦集所斷非遍行隨眠。",
+        "translation": "Thus, he sees latent dormancy that's stopped by suffering and accumulation and that's not pervasive.",
+        "source": "T27n1545_022:0114b05_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四由得對治故。",
+        "translation": "Fourth, it's because it's counteracted.",
+        "source": "T27n1545_022:0114b05_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如餘隨眠隨得對治彼則隨斷。",
+        "translation": "As with other latent dormancies, they are counteracted as they are subsequently stopped.",
+        "source": "T27n1545_022:0114b06_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者世友作如是說。",
+        "translation": "Venerable World Honored Friend explains it this way.",
+        "source": "T27n1545_022:0114b06_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由五事故諸隨眠斷。",
+        "translation": "'It's because of five circumstances that latent dormancy is stopped.'",
+        "source": "T27n1545_022:0114b07_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一見所緣故斷。",
+        "translation": "One is stopped because they see the perceptual objects.",
+        "source": "T27n1545_022:0114b07_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如無漏緣隨眠及緣自界遍行隨眠。",
+        "translation": "It's like uncontaminated conditioned latent dormancy and conditioned pervasive latent dormancy in the self-realm.",
+        "source": "T27n1545_022:0114b08_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二所緣斷故斷。",
+        "translation": "Second, it's stopped because the perceptual objects are stopped.",
+        "source": "T27n1545_022:0114b09_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如見滅道所斷有漏緣隨眠。",
+        "translation": "It's stopped because the contaminated conditioned latent dormancy that's stopped by seeing the path to cessation.",
+        "source": "T27n1545_022:0114b09_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三能緣斷故斷。",
+        "translation": "Third, it's stopped because the afflictive cognition is eliminated.",
+        "source": "T27n1545_022:0114b10_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如緣他界遍行隨眠。",
+        "translation": "It's stopped because the contaminants are stopped by the cognition of the path to cessation and the contaminants are stopped by the pervasive latencies of the self-realm.",
+        "source": "T27n1545_022:0114b10_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四俱緣斷故斷。",
+        "translation": "Four co-indicators are stopped because they are stopped.",
+        "source": "T27n1545_022:0114b10_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如見苦集所斷不遍行隨眠。",
+        "translation": "Thus, he stops because he sees latent latencies that are stopped by suffering and accumulation and that aren't pervasive.",
+        "source": "T27n1545_022:0114b11_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五得對治故斷。",
+        "translation": "5. it's stopped because it's counteracted.",
+        "source": "T27n1545_022:0114b11_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如修所斷隨眠。",
+        "translation": "It's like latent dormancy that's stopped by cultivation.",
+        "source": "T27n1545_022:0114b12_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設隨眠於心當斷。",
+        "translation": "Suppose that latent dormancy will be stopped in the mind.",
+        "source": "T27n1545_022:0114b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此心但由彼隨眠故名有隨眠心耶。",
+        "translation": "Is this mind called a mind with latent dormancy only because of that latent dormancy?",
+        "source": "T27n1545_022:0114b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答或由彼非餘。",
+        "translation": "Answer, it might be because of that and not the other.",
+        "source": "T27n1545_022:0114b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或由彼及餘。",
+        "translation": "Or maybe it's because of that and the other.",
+        "source": "T27n1545_022:0114b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何由彼非餘。",
+        "translation": "How is it from that and not from the other?",
+        "source": "T27n1545_022:0114b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心不染污修所斷。",
+        "translation": "It's the mind that's undefiled and cultivated, and it's stopped.",
+        "source": "T27n1545_022:0114b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何由彼及餘。",
+        "translation": "How is it because of that and the others?",
+        "source": "T27n1545_022:0114b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心染污。",
+        "translation": "It means the mind is defiled.",
+        "source": "T27n1545_022:0114b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中不染污者簡異染污。",
+        "translation": "Here, what's undefiled is simply different from what's defiled.",
+        "source": "T27n1545_022:0114b16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修所斷者簡異無漏。",
+        "translation": "that which is cultivated and eliminated is simply different from uncontaminated.",
+        "source": "T27n1545_022:0114b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有漏善心及無覆無記心。",
+        "translation": "It refers to the contaminated wholesome mind and the unobstructed indeterminate mind.",
+        "source": "T27n1545_022:0114b17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此心由彼者。",
+        "translation": "This mind is produced from that.",
+        "source": "T27n1545_022:0114b18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由緣此心隨增隨眠故名有隨眠心。",
+        "translation": "It's because this mind is accompanied by more and more latencies that it's called a latent mind.",
+        "source": "T27n1545_022:0114b18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非餘者。",
+        "translation": "It's not from the other.",
+        "source": "T27n1545_022:0114b19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非由相應隨眠故名有隨眠心。",
+        "translation": "It's not because of the concomitant latencies that it's called a latently sleeping mind.",
+        "source": "T27n1545_022:0114b19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此心相應無隨眠故。",
+        "translation": "It's because this mind is associated with no latent dormancy.",
+        "source": "T27n1545_022:0114b20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "染污心由彼者。",
+        "translation": "It's because of that that the mind is defiled.",
+        "source": "T27n1545_022:0114b20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由緣此心隨增隨眠故名有隨眠心。",
+        "translation": "It's because this mind follows increased latencies that it's called a mind with latencies.",
+        "source": "T27n1545_022:0114b21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及餘者及由餘相應隨眠故名有隨眠心。",
+        "translation": "Whatever else it is, it's called a mind with drowsiness because of the latent dormancy associated with the other.",
+        "source": "T27n1545_022:0114b22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故此中所緣隨眠說彼相應隨眠說餘。",
+        "translation": "Q Why is it that the conditioned latencies here are said to be concomitant with those latencies, and the latencies are said to be other latencies?",
+        "source": "T27n1545_022:0114b23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答以先問言設隨眠於心當斷。",
+        "translation": "A The question was first asked, \"Suppose we say that latent dormancy will be stopped in this mind.",
+        "source": "T27n1545_022:0114b24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此心但由彼隨眠故名有隨眠心耶。",
+        "translation": "Is this mind only called a mind with latent dormancy because of latent dormancy associated with that?",
+        "source": "T27n1545_022:0114b24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前說隨眠唯於所緣有當斷義非於相應。",
+        "translation": "The prior teaching states that latent dormancy only has the meaning of being stopped when it's conditioned, not when it's associated with it.",
+        "source": "T27n1545_022:0114b25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故彼言。",
+        "translation": "That's why they said.",
+        "source": "T27n1545_022:0114b26_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯說當斷所緣隨眠。",
+        "translation": "'Only [the] latent dormancy that's the object of immediate cessation is explained.'",
+        "source": "T27n1545_022:0114b26_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此隨眠是正所問故說為彼。",
+        "translation": "That is, this follows dormancy is the correct question, so it's said to be that.",
+        "source": "T27n1545_022:0114b27_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠非正所問故說為餘。",
+        "translation": "Concomitant latent dormancy isn't the correct question, so it's said to be the other.",
+        "source": "T27n1545_022:0114b28_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故復作如是問答。",
+        "translation": "Q Why does he again ask and answer in this way?",
+        "source": "T27n1545_022:0114b28_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答為令疑者得決定故。",
+        "translation": "Answer: In order to allow those who doubt to attain certainty.",
+        "source": "T27n1545_022:0114b29_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂或有疑唯當斷者。",
+        "translation": "It means that there may be doubts that should only be stopped.",
+        "source": "T27n1545_022:0114c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心由彼故名有隨眠。",
+        "translation": "It's because of that that the mind is called having latent dormancy.",
+        "source": "T27n1545_022:0114c01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠不當斷故。",
+        "translation": "Concomitant with this, latent dormancy shouldn't be stopped.",
+        "source": "T27n1545_022:0114c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心不由彼名有隨眠。",
+        "translation": "The mind doesn't name it as having latent dormancy because of that.",
+        "source": "T27n1545_022:0114c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲令此疑得決定故。",
+        "translation": "It's because they want this doubt to be resolved.",
+        "source": "T27n1545_022:0114c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯染污心亦由彼故名有隨眠。",
+        "translation": "It's also because of that that the mind that's manifestly defiled is called having latent dormancy.",
+        "source": "T27n1545_022:0114c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復有疑。",
+        "translation": "It's possible to have doubt.",
+        "source": "T27n1545_022:0114c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應隨眠亦當可斷故。",
+        "translation": "Associated with this is latent dormancy that should be stopped.",
+        "source": "T27n1545_022:0114c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今復顯相應隨眠無當斷義。",
+        "translation": "Now, it also shows that there's no sense in which concomitant latent dormancy should be stopped.",
+        "source": "T27n1545_022:0114c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復有疑心於隨眠名為有者。",
+        "translation": "'Again, there's a doubtful mind that's called having concomitant dormancy.'",
+        "source": "T27n1545_022:0114c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但依隨增性故。",
+        "translation": "It's only based on the fact that it's proliferating.",
+        "source": "T27n1545_022:0114c06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今復顯示依同伴性。",
+        "translation": "Now, we'll again show that it's based on the nature of the associates.",
+        "source": "T27n1545_022:0114c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無染污心但依隨增性名有隨眠。",
+        "translation": "It means that the mind that's not defiled but relies on the nature of followership is called having followership.",
+        "source": "T27n1545_022:0114c07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若染污心俱依二性。",
+        "translation": "If the defiled mind relies on both natures, then there may be latent dormancy that's eliminated and wisdom that's gained.",
+        "source": "T27n1545_022:0114c08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頗有隨眠斷而慧不見彼所緣耶。",
+        "translation": "Could it be that there's latent dormancy that's stopped and wisdom doesn't see its perceptual objects?",
+        "source": "T27n1545_022:0114c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答應作四句。",
+        "translation": "The answer should be four phrases.",
+        "source": "T27n1545_022:0114c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有隨眠斷而慧不見彼所緣。",
+        "translation": "\"There's stopping latent dormancy but wisdom doesn't see its perceptual objects.",
+        "source": "T27n1545_022:0114c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸異生離欲界乃至無所有處染時。",
+        "translation": "It means that when ordinary sentient beings are free of defilement in the desire realm and up to the extent of the nonexistent realm.",
+        "source": "T27n1545_022:0114c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷上地緣及無漏緣隨眠。",
+        "translation": "They stop latent dormancy that's a condition of the higher realms and an uncontaminated condition.",
+        "source": "T27n1545_022:0114c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸聖者現觀欲界苦集諦時。",
+        "translation": "When sages clearly observe the noble truths of suffering and arising in the desire realm, they stop the latent dormancy of the conditions in other realms.",
+        "source": "T27n1545_022:0114c12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷他界緣隨眠。",
+        "translation": "They stop the latent dormancy that's the condition of other realms.",
+        "source": "T27n1545_022:0114c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現觀滅道諦時。",
+        "translation": "When they now contemplate the truth of the path to cessation ...",
+        "source": "T27n1545_022:0114c13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷見滅道所斷有漏緣隨眠。",
+        "translation": "He stops the latent dormancy of the contaminated conditions that are stopped by seeing the path to cessation.",
+        "source": "T27n1545_022:0114c13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以滅道智離修所斷一切隨眠。",
+        "translation": "With the knowledge of the path to cessation, he parts with all the latent dormancy that's stopped by cultivation.",
+        "source": "T27n1545_022:0114c14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有慧見彼所緣而隨眠不斷。",
+        "translation": "With wisdom, he sees their causal conditions and doesn't stop the latent dormancy.",
+        "source": "T27n1545_022:0114c15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸異生離欲界乃至無所有處染時。",
+        "translation": "It means that when ordinary sentient beings are free of defilement in the desire realm ... [and] into the nonexistent realm ...",
+        "source": "T27n1545_022:0114c15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前後諸品所斷隨眠。",
+        "translation": "The latent dormancy that's stopped in the previous and subsequent classes.",
+        "source": "T27n1545_022:0114c16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離初靜慮乃至無所有處染時。",
+        "translation": "When they're free of defilement in the first concentration ... the extent of the absence of the finite realm ...",
+        "source": "T27n1545_022:0114c17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界乃至識無邊處所有他地緣隨眠。",
+        "translation": "... the desire realm ... the infinite realm of consciousness has latent dormancy that's contingent on other bases.",
+        "source": "T27n1545_022:0114c17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸聖者現觀色無色界苦集諦時。",
+        "translation": "When noble people clearly observe the noble truths of suffering and arising in the form and formless realms, then they'll experience latent dormancy from the causes of other realms in the desire realm and up to the infinity of consciousness.",
+        "source": "T27n1545_022:0114c18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界所有他界緣隨眠。",
+        "translation": "... there's conditioned latencies in the desire realm that belong to other realms.",
+        "source": "T27n1545_022:0114c19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現觀苦諦時。",
+        "translation": "When they now observe the truth of suffering ...",
+        "source": "T27n1545_022:0114c20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見集所斷自界緣隨眠。",
+        "translation": "Seeing the truth of suffering in the form and formless realms, it's a condition of latency in the other realms of the desire realm.",
+        "source": "T27n1545_022:0114c20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅道所斷有漏緣隨眠及修所斷一切隨眠。",
+        "translation": "He sees the latent latent dormancy of the contaminants stopped by the path of cessation and the latent dormancy of all the latent dormancies stopped by cultivation.",
+        "source": "T27n1545_022:0114c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現觀集諦時。",
+        "translation": "When he now observes the noble truth of arising, he sees the retributive causes of the self-realm that are stopped by suffering.",
+        "source": "T27n1545_022:0114c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見苦所斷自界緣隨眠。",
+        "translation": "He sees the self-realizing conditioned latencies that are stopped by suffering ...",
+        "source": "T27n1545_022:0114c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅道所斷有漏緣隨眠及修所斷一切隨眠。",
+        "translation": "He sees the latent dormancy of contaminated conditions that are stopped in the path to cessation and all latent dormancy that is stopped by cultivation.",
+        "source": "T27n1545_022:0114c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以苦集智及世俗智離修所斷染時。",
+        "translation": "When he parts with the defilement that's stopped by cultivation with knowledge of suffering's accumulation and worldly knowledge, then he'll see the latent dormancy of the contaminants that are stopped.",
+        "source": "T27n1545_022:0114c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見所斷有漏緣隨眠及前後品修所斷隨眠以滅道智離修所斷染時。",
+        "translation": "When he sees the latent dormancy of the contaminants that are stopped and the latent dormancy of the cultivation that's stopped in the previous and subsequent qualities, he parts with the defilement of the cultivation that's stopped with knowledge of the path to cessation.",
+        "source": "T27n1545_022:0114c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無漏緣隨眠。",
+        "translation": "untainted conditioned latencies ...",
+        "source": "T27n1545_022:0114c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及餘一切異生聖者。",
+        "translation": "and all the other sages who are unenlightened by the path.",
+        "source": "T27n1545_022:0114c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不斷煩惱而見煩惱所緣境時。",
+        "translation": "When they don't stop the afflictions but see the objects of affliction as objects of contemplation.",
+        "source": "T27n1545_022:0114c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切隨眠。",
+        "translation": "They all have latent dormancy.",
+        "source": "T27n1545_022:0114c28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有隨眠斷慧亦見彼所緣。",
+        "translation": "When there's the wisdom of stopping [afflictions] with latent dormancy, they also see their perceptual objects.",
+        "source": "T27n1545_022:0114c28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸異生離欲界乃至無所有處染時。",
+        "translation": "It means that when ordinary sentient beings are free of defilement in the desire realm ... [and] into the nonexistent realm ...",
+        "source": "T27n1545_022:0114c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有自地緣自品隨眠。",
+        "translation": "They have latent dormancy in their own category in response to their own grounds.",
+        "source": "T27n1545_022:0114c29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸聖者現觀苦集諦時。",
+        "translation": "When noble people clearly observe the truth of suffering's accumulation, they see the self-realm as a condition for the elimination of suffering's accumulation.",
+        "source": "T27n1545_022:0115a01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見苦集所斷自界緣隨眠。",
+        "translation": "They see the self-realm conditioned latencies that are ended by suffering and arising.",
+        "source": "T27n1545_022:0115a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現觀滅道諦時。",
+        "translation": "When they now contemplate the truth of the path to cessation.",
+        "source": "T27n1545_022:0115a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅道所斷無漏緣隨眠。",
+        "translation": "They see the latent latencies that are the uncontaminated conditions that are stopped in the path to cessation.",
+        "source": "T27n1545_022:0115a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以苦集智及世俗智。",
+        "translation": "With knowledge of suffering's accumulation and knowledge of worldliness.",
+        "source": "T27n1545_022:0115a03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離修所斷染時。",
+        "translation": "When he's free of defilement by what's cultivated, then he's free from defilement by what's cultivated.",
+        "source": "T27n1545_022:0115a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自地自品修所斷隨眠有隨眠不斷慧亦不見彼所緣。",
+        "translation": "When he's free of defilement by the knowledge of suffering's accumulation and worldliness, then he'll see that the latent causes stopped by cultivation have latent and unlatched wisdom, and he won't see those causes.",
+        "source": "T27n1545_022:0115a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂除前相。",
+        "translation": "That is, except for the prior aspect.",
+        "source": "T27n1545_022:0115a05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頗有一剎那頃隨眠斷而慧不見彼所緣耶。",
+        "translation": "Could it be that for one split second, latent dormancy is stopped and wisdom doesn't see its perceptual objects?",
+        "source": "T27n1545_022:0115a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答應作四句。",
+        "translation": "The answer should be four phrases.",
+        "source": "T27n1545_022:0115a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然有多位。",
+        "translation": "\"There are, of course, multiple ways.",
+        "source": "T27n1545_022:0115a07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂苦集法智忍及滅道法類智忍位皆有四句。",
+        "translation": "The stage of the cognitive acceptance of the truth of suffering's accumulation and the cessation of suffering's path both have four phrases.",
+        "source": "T27n1545_022:0115a07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苦法智忍位四句者。",
+        "translation": "The four phrases of the stage of the cognitive acceptance of suffering as a dharma are.",
+        "source": "T27n1545_022:0115a08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一句。",
+        "translation": "The first phrase is.",
+        "source": "T27n1545_022:0115a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界見苦所斷他界緣隨眠第二句。",
+        "translation": "The second sentence refers to the conditioned latencies in other realms that are stopped by seeing suffering in the desire realm.",
+        "source": "T27n1545_022:0115a09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界見集所斷自界緣隨眠。",
+        "translation": "The second sentence refers to the latent dormancy in the desire realm that sees the self-realm condition cut by the arising realm.",
+        "source": "T27n1545_022:0115a10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見滅道所斷有漏緣隨眠。",
+        "translation": "It's the latent dormancy that's caused by the contaminants that are stopped by the path of seeing cessation.",
+        "source": "T27n1545_022:0115a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及修所斷隨眠。",
+        "translation": "And it's the latent dormancy that's stopped by cultivation.'",
+        "source": "T27n1545_022:0115a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三句。",
+        "translation": "The third phrase.",
+        "source": "T27n1545_022:0115a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界見苦所斷自界緣隨眠。",
+        "translation": "It's the desire realm that sees latent dormancy in the self-realm conditioned by suffering that's stopped.",
+        "source": "T27n1545_022:0115a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四句。",
+        "translation": "The fourth phrase.",
+        "source": "T27n1545_022:0115a12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂除前相。",
+        "translation": "It's in addition to the previous form.",
+        "source": "T27n1545_022:0115a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "集法智忍位隨其所應四句亦爾。",
+        "translation": "The same goes for the four phrases that describe the stage of intellectual receptivity to the accumulation of qualities according to what's appropriate.",
+        "source": "T27n1545_022:0115a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅道法類智忍位。",
+        "translation": "The fourth sentence refers to the stage of forbearance based on the knowledge of the cessation of suffering in the form realm.",
+        "source": "T27n1545_022:0115a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若先異生位中分離欲界染。",
+        "translation": "Suppose someone in the first stage of worldlings partly escapes defilement in the desire realm.",
+        "source": "T27n1545_022:0115a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及於上七地或分或全離者。",
+        "translation": "In the upper seven stages, he might partly or completely part with it.",
+        "source": "T27n1545_022:0115a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得作四句。",
+        "translation": "He'll be able to create four phrases.",
+        "source": "T27n1545_022:0115a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且滅法智忍位四句者。",
+        "translation": "\"Furthermore, the four phrases of the stage of forbearance based on the knowledge of the cessation of phenomena.",
+        "source": "T27n1545_022:0115a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一句。",
+        "translation": "The first phrase.",
+        "source": "T27n1545_022:0115a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界見滅所斷先所未離有漏緣隨眠第二句。",
+        "translation": "The second phrase refers to the cessation of views in the desire realm that have not yet been freed from contaminants as a condition for latency.",
+        "source": "T27n1545_022:0115a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界見滅所斷先所已離無漏緣隨眠。",
+        "translation": "It refers to the desire realm that sees what's stopped by cessation and the prior existences that have been freed from uncontaminated conditions and latent dormancy.",
+        "source": "T27n1545_022:0115a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三句。",
+        "translation": "The third phrase.",
+        "source": "T27n1545_022:0115a18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界見滅所斷先所未離無漏緣隨眠。",
+        "translation": "It's the desire realm that sees cessation as the elimination of preexisting existences that haven't yet been freed from uncontaminated cognition and latencies.",
+        "source": "T27n1545_022:0115a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四句。",
+        "translation": "The fourth phrase.",
+        "source": "T27n1545_022:0115a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界見滅所斷先所已離有漏緣隨眠。",
+        "translation": "It's the desire realm that sees cessation in which the antecedent is removed and which has been freed from the latent causes and latencies of contamination.",
+        "source": "T27n1545_022:0115a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或除前相。",
+        "translation": "It may be free of the previous form.",
+        "source": "T27n1545_022:0115a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅類智忍及道法類智忍位。",
+        "translation": "It's the stage of the cognitive acceptance of the cessation of types and the cognitive acceptance of the path as a reality.",
+        "source": "T27n1545_022:0115a21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨其所應四句亦爾。",
+        "translation": "The same goes for the four phrases that correspond to them.",
+        "source": "T27n1545_022:0115a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸異生離欲界乃至無所有處染時。",
+        "translation": "\"If ordinary sentient beings part with defilement in the desire realm ... [and] up to the extent of the nonexistent abode ...",
+        "source": "T27n1545_022:0115a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一無間道中皆得作四句。",
+        "translation": "In each of these paths of transition, they'll be able to create four statements.",
+        "source": "T27n1545_022:0115a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一句。",
+        "translation": "The first phrase.",
+        "source": "T27n1545_022:0115a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自品他地緣隨眠。",
+        "translation": "It's the condition of latency in the self-stage and other stages.",
+        "source": "T27n1545_022:0115a24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二句謂前後品自地緣隨眠。",
+        "translation": "The second phrase refers to the latent conditioned latencies of the prior and subsequent classes of the self-stage.",
+        "source": "T27n1545_022:0115a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三句。",
+        "translation": "The third phrase refers to the self-preparation, which is the condition of self ground, and the latent latencies.",
+        "source": "T27n1545_022:0115a25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自品自地緣隨眠。",
+        "translation": "It refers to the self-preparation, self-conditions, and latent dormancy.",
+        "source": "T27n1545_022:0115a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四句。",
+        "translation": "The fourth phrase ...",
+        "source": "T27n1545_022:0115a26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂前後品他地緣隨眠或除前相。",
+        "translation": "It's the latent conditioned latencies of the prior and subsequent qualities and the conditioned latencies of the other qualities, or it's something other than the prior characteristics.",
+        "source": "T27n1545_022:0115a26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頗有於煩惱斷得而不捨捨而不得亦得亦捨不得不捨耶。",
+        "translation": "Could it be that there are afflictions that are stopped, acquired, but not abandoned, abandoned but not obtained, and abandoned that have to be abandoned?",
+        "source": "T27n1545_022:0115a27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_022:0115a28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得而不捨者。",
+        "translation": "Those who attain but don't abandon.",
+        "source": "T27n1545_022:0115a28_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸異生離欲界乃至無所有處染時。",
+        "translation": "It means it's when ordinary sentient beings part with defilement in the desire realm ... [and] even in the sphere of nothingness.",
+        "source": "T27n1545_022:0115a28_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸聖者斷煩惱時除得果位。",
+        "translation": "If sages stop the afflictions when they remove them and attain the fruit level, then they'll attain the fruit level.",
+        "source": "T27n1545_022:0115a29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨而不得者。",
+        "translation": "Those who attain and don't attain equanimity ...",
+        "source": "T27n1545_022:0115b01_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸異生從離染退下地沒生二定以上。",
+        "translation": "It means it's when ordinary sentient beings who escape defilement and retreat from the lower ground are forsaken and born above the second concentration.",
+        "source": "T27n1545_022:0115b01_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上二界沒生欲界時。",
+        "translation": "When they abandon the upper two realms and are reborn in the desire realm, then they'll attain the stage of realization.",
+        "source": "T27n1545_022:0115b02_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸聖者向中退斷。",
+        "translation": "If noble people regress and stop in the middle, then they'll attain and abandon them.",
+        "source": "T27n1545_022:0115b03_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦得亦捨者。",
+        "translation": "Those who also attain and abandon [them].",
+        "source": "T27n1545_022:0115b03_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸異生上地沒生初定以上。",
+        "translation": "It means that ordinary sentient beings in the upper realms are deprived of birth above the first concentration.",
+        "source": "T27n1545_022:0115b04_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸聖者練根得果。",
+        "translation": "If the noble ones train their faculties to attain the fruit.",
+        "source": "T27n1545_022:0115b04_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及退果時。",
+        "translation": "When they retreat from the fruit, they must abandon it.",
+        "source": "T27n1545_022:0115b05_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不得不捨者。",
+        "translation": "They mustn't stop at equanimity.",
+        "source": "T27n1545_022:0115b05_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂除前相。",
+        "translation": "This refers to the absence of the prior mark.",
+        "source": "T27n1545_022:0115b05_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第二十二",
+        "translation": "Saṃyuktâgama Abhidharma-mahāvibhāṣā-śāstra, vol. 22",
+        "source": "T27n1545_022:0115b07_0",
+        "is_bad_quality": false
+    }
+]

@@ -1,0 +1,1782 @@
+[
+    {
+        "source_sentence": "佛說大迦葉問大寶積正法經卷",
+        "translation": "Foshuo dajiaśeṣa wen da baoqi zhengfa jing",
+        "source": "T12n0352_002:0204b13_0"
+    },
+    {
+        "source_sentence": "第二",
+        "translation": "second",
+        "source": "T12n0352_002:0204b14_0"
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試鴻臚少卿",
+        "translation": "Xitian zhuan jing sanzang朝散 dafu xi Hongun shouxing",
+        "source": "T12n0352_002:0204b16_0"
+    },
+    {
+        "source_sentence": "傳法大師臣施護奉　詔譯",
+        "translation": "Translated by imperial edict by the Dharma Master Zhuanfa's minister, Shi Hu Feng",
+        "source": "T12n0352_002:0204b17_0"
+    },
+    {
+        "source_sentence": "佛告迦葉波：「若諸菩薩具足三十二法，名為菩薩。」",
+        "translation": "The Buddha told Kāśyapa, If bodhisattvas are fully endowed with the thirty-two teachings, they're called bodhisattvas.",
+        "source": "T12n0352_002:0204b18_0"
+    },
+    {
+        "source_sentence": "迦葉白言：「云何三十二法？」",
+        "translation": "Kāśyapa said, What are the thirty-two teachings?",
+        "source": "T12n0352_002:0204b19_1"
+    },
+    {
+        "source_sentence": "「所為利益一切眾生、一切智智種子；",
+        "translation": "“What they do is to benefit all sentient beings, the seeds of omniscience and knowledge.",
+        "source": "T12n0352_002:0204b19_2"
+    },
+    {
+        "source_sentence": "不量貴賤令得智慧；",
+        "translation": "They are immeasurable, noble and humble, enabling them to attain knowledge.",
+        "source": "T12n0352_002:0204b20_3"
+    },
+    {
+        "source_sentence": "為一切眾生低心離我；",
+        "translation": "For the sake of all sentient beings, they are lowly and free from self.",
+        "source": "T12n0352_002:0204b21_0"
+    },
+    {
+        "source_sentence": "真實愍念其意不退；",
+        "translation": "They are truly compassionate, mindful of their intentions without backsliding.",
+        "source": "T12n0352_002:0204b21_1"
+    },
+    {
+        "source_sentence": "善友惡友心行平等；",
+        "translation": "Good companions and bad companions are impartial in their thoughts and actions.",
+        "source": "T12n0352_002:0204b22_0"
+    },
+    {
+        "source_sentence": "雖到涅槃思念愛語；",
+        "translation": "Though they attain nirvana, they think of loving words.",
+        "source": "T12n0352_002:0204b22_1"
+    },
+    {
+        "source_sentence": "先意問訊愍見重擔；",
+        "translation": "The first thought was to greet the heavy burden of unworthy views.",
+        "source": "T12n0352_002:0204b22_2"
+    },
+    {
+        "source_sentence": "於諸眾生恒起悲心；",
+        "translation": "They always have compassion for sentient beings.",
+        "source": "T12n0352_002:0204b23_3"
+    },
+    {
+        "source_sentence": "常求妙法，心無疲厭；",
+        "translation": "They always seek the sublime Teaching, never getting tired of it.",
+        "source": "T12n0352_002:0204b23_4"
+    },
+    {
+        "source_sentence": "聞法無足；",
+        "translation": "Their hearing of the Dharma is not sufficient.",
+        "source": "T12n0352_002:0204b24_5"
+    },
+    {
+        "source_sentence": "常省己過、不說他犯；",
+        "translation": "They always reflect on their own faults and do not tell others of their transgressions.",
+        "source": "T12n0352_002:0204b24_6"
+    },
+    {
+        "source_sentence": "具諸威儀恒發大心；",
+        "translation": "They are endowed with all manner of deportment and always give rise to great determination.",
+        "source": "T12n0352_002:0204b25_7"
+    },
+    {
+        "source_sentence": "修諸勝業不求果報；",
+        "translation": "They cultivate superior deeds without seeking reward.",
+        "source": "T12n0352_002:0204b25_8"
+    },
+    {
+        "source_sentence": "所生戒德滅諸輪迴；",
+        "translation": "The virtue of morality that they produce extinguishes the cycles of transmigration.",
+        "source": "T12n0352_002:0204b26_0"
+    },
+    {
+        "source_sentence": "令諸有情道心增進；",
+        "translation": "Causing sentient beings to increase in their aspiration for enlightenment.",
+        "source": "T12n0352_002:0204b26_1"
+    },
+    {
+        "source_sentence": "一切善根皆悉集行；",
+        "translation": "All roots of goodness are collected and practiced.",
+        "source": "T12n0352_002:0204b26_2"
+    },
+    {
+        "source_sentence": "雖行忍辱精進，如入無色禪定；",
+        "translation": "Even though they practice patience and make effort, it is as entering meditative absorption of formlessness.",
+        "source": "T12n0352_002:0204b27_3"
+    },
+    {
+        "source_sentence": "智慧方便善解總持；",
+        "translation": "They are the universal support of knowledge, skill in means, and good understanding.",
+        "source": "T12n0352_002:0204b28_4"
+    },
+    {
+        "source_sentence": "恒以四攝巧便受行；",
+        "translation": "They always practiced by means of the four methods of salvation.",
+        "source": "T12n0352_002:0204b28_5"
+    },
+    {
+        "source_sentence": "持戒犯戒慈心不二；",
+        "translation": "The mind of observing precepts and violating precepts, being compassionate, are not two.",
+        "source": "T12n0352_002:0204b29_6"
+    },
+    {
+        "source_sentence": "常處山林樂問深法；",
+        "translation": "They always stayed in the mountains and forests, happy to ask questions of the profound Dharma.",
+        "source": "T12n0352_002:0204b29_7"
+    },
+    {
+        "source_sentence": "世間所有種種厭離；",
+        "translation": "All the various disgusts of the world are abandoned.",
+        "source": "T12n0352_002:0204c01_0"
+    },
+    {
+        "source_sentence": "愛樂出世無為果德；",
+        "translation": "They cherish transcendent virtue as the unconditioned fruit of enlightenment.",
+        "source": "T12n0352_002:0204c01_1"
+    },
+    {
+        "source_sentence": "遠離小乘正行大行；",
+        "translation": "They are far removed from the lesser vehicle, correctly practicing great practices.",
+        "source": "T12n0352_002:0204c01_2"
+    },
+    {
+        "source_sentence": "棄捨惡友親近善友；",
+        "translation": "They abandon bad friends and associate with virtuous ones.",
+        "source": "T12n0352_002:0204c02_3"
+    },
+    {
+        "source_sentence": "於四無量及五神通，皆悉通達已淨無知；",
+        "translation": "They comprehended the four immeasurables and five spiritual powers, all purified of ignorance.",
+        "source": "T12n0352_002:0204c02_4"
+    },
+    {
+        "source_sentence": "不著邪正如實依師；",
+        "translation": "They do not cling to error, just as they really rely on their teacher.",
+        "source": "T12n0352_002:0204c03_5"
+    },
+    {
+        "source_sentence": "發菩提心純一無雜。",
+        "translation": "They give rise to the mind of enlightenment that's pure and unadulterated.",
+        "source": "T12n0352_002:0204c04_6"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0204c04_7"
+    },
+    {
+        "source_sentence": "如是具足三十二法，是則名為菩薩。",
+        "translation": "Thus, someone who possesses the thirty-two teachings is called a bodhisattva.",
+        "source": "T12n0352_002:0204c04_8"
+    },
+    {
+        "source_sentence": "「利益諸眾生，　　欲行清淨行，",
+        "translation": "To benefit all sentient beings, they want to practice pure actions.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　令生一切智，　　不擇於貴賤，",
+        "translation": "Causing all kinds of knowledge to arise, They don’t discriminate between noble and humble.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　同入如來慧，　　真實愍眾生，",
+        "translation": "Together they enter the wisdom of the enlightened, Really pitying sentient beings.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　心意不退轉，　　善友及惡友，",
+        "translation": "Their minds and thoughts don’t regress, Good friends and bad friends.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　平等觀於彼，　　雖到於涅槃，",
+        "translation": "Observing them equally, even though they've reached nirvāṇa,",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　愛語先問訊，　　憂愍於重擔，",
+        "translation": "Their affectionate words are greeted first, and their grief is over the heavy burden.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　及彼諸眾生，　　不斷於大悲，",
+        "translation": "And those sentient beings don’t stop their great compassion.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　求法心無苦，　　聞義常不足，",
+        "translation": "Their minds seeking the truth have no suffering, and their hearing is always insufficient.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　恒省自身非，　　不譏他人犯，",
+        "translation": "He always observes his own faults and doesn't criticize others for violating them.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　具修眾威儀，　　而起大乘行，",
+        "translation": "They cultivate all manner of deportment And give rise to the practice of the Great Vehicle.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　不求於果報，　　所持諸戒德，",
+        "translation": "They don’t seek rewards, And the virtues of the precepts they uphold.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　斷滅於輪迴，　　令彼諸有情，",
+        "translation": "Ending transmigration, they cause those sentient beings to attain enlightenment.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　遠害增道意，　　忍辱集善根，",
+        "translation": "Distant from harming sentient beings and increasing the aspiration for enlightenment, Forbearance accumulates wholesome roots.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　精進修諸行，　　如入無色定，",
+        "translation": "The practice of effort is like entering the formless concentration.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　智慧諸方便，　　總持而善解，",
+        "translation": "The skillful means of wisdom are well-understood and well-maintained.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　四攝恒受行，　　持犯二俱愍，",
+        "translation": "The fourth embraces the practice of constant acceptance, upholding and violating the two kinds of discipline.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　常處於林間，　　恒樂聞深法，",
+        "translation": "They are always in the forest, Always glad to hear the profound teaching.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　厭離於世間，　　愛敬無上果，",
+        "translation": "Being disillusioned with the world, they love and respect it as the highest reward.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　遠離聲聞乘，　　而修大乘行，",
+        "translation": "They are far removed from the vehicle of śrāvakas And cultivate the practice of the Great Vehicle.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　棄捨於惡朋，　　親近於善友，",
+        "translation": "They abandon bad friends and associate with virtuous ones.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　五通四無量，　　智慧悉通達，",
+        "translation": "The five supernormal knowledges are the four immeasurables, All comprehended by wisdom.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　清淨絕無知，　　不著於邪正，",
+        "translation": "Their purity is cut off from ignorance, They are not attached to what’s wrong or right.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　依師究真實，　　純一無雜行，",
+        "translation": "Relying on the teacher’s investigation of reality, Their practice is pure and unadulterated.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　佛說觀行法，　　先發菩提心。",
+        "translation": "The Buddha teaches the method of contemplation and practice, first arousing the mind of enlightenment.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　若此三十二，　　善逝當演說，",
+        "translation": "If these thirty-two are well-gone, the Buddha will explain them.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "　菩薩具足行，　　得佛甘露味。」",
+        "translation": "The bodhisattva's perfect practice gives him the taste of the Buddha's ambrosia.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "我今於此重說頌曰：佛告迦葉波：「我為菩薩說譬喻法，令彼知見為菩薩德。」",
+        "translation": "Here, I'll repeat the verse: The Buddha told Kāśyapa, I'll explain an analogy for the bodhisattva and cause him to know and see that it's the bodhisattva's virtue.",
+        "source": "T12n0352_002:0204c05_9"
+    },
+    {
+        "source_sentence": "迦葉白言：「其義云何？」",
+        "translation": "Kāśyapa said, What does it mean?",
+        "source": "T12n0352_002:0205a05_10"
+    },
+    {
+        "source_sentence": "「迦葉！",
+        "translation": "Kasyapa!",
+        "source": "T12n0352_002:0205a05_11"
+    },
+    {
+        "source_sentence": "譬如地大，與一切眾生為其所依令彼長養，而彼地大於其眾生無求無愛。",
+        "translation": "It's like the earth that's large and gives all sentient beings what they rely on and causes them to grow, but that earth is large for those sentient beings without seeking or craving.",
+        "source": "T12n0352_002:0205a05_12"
+    },
+    {
+        "source_sentence": "菩薩亦然，從初發心直至道場坐得成菩提，於其中間，運度一切眾生無愛無求，",
+        "translation": "Similarly, enlightening beings attain enlightenment from the first determination for enlightenment up to their seats on the terrace of enlightenment, carrying all sentient beings therein without craving or seeking.",
+        "source": "T12n0352_002:0205a07_13"
+    },
+    {
+        "source_sentence": "亦復如是。",
+        "translation": "It's likewise.",
+        "source": "T12n0352_002:0205a09_14"
+    },
+    {
+        "source_sentence": "「譬如地大，　　與諸眾生，　　依止長養，",
+        "translation": "“Suppose the earth is large, and all sentient beings depend on it for nourishment.",
+        "source": "T12n0352_002:0205a09_15"
+    },
+    {
+        "source_sentence": "　於彼眾生，　　無求無愛。　　菩薩亦爾，",
+        "translation": "So it is with the enlightening beings Who have no desire or craving For those sentient beings.",
+        "source": "T12n0352_002:0205a09_15"
+    },
+    {
+        "source_sentence": "　從初發心，　　直至道場，　　成無上覺，",
+        "translation": "From the first arousal of mind Up to the terrace of enlightenment, They attain highest awakening.",
+        "source": "T12n0352_002:0205a09_15"
+    },
+    {
+        "source_sentence": "　運度有情，　　無求無愛，　　無冤無親，",
+        "translation": "He liberates sentient beings without seeking or craving, without enemies or intimacy.",
+        "source": "T12n0352_002:0205a09_15"
+    },
+    {
+        "source_sentence": "　平等攝受，　　令得菩提。」",
+        "translation": "They are equally collected and made to attain enlightenment.",
+        "source": "T12n0352_002:0205a09_15"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉波：「譬如水界，潤益一切藥草樹木，而彼水界於其草木無愛無求。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, Suppose the water element nourishes all medicinal plants and trees, but the water element has no craving or seeking for those plants and trees.",
+        "source": "T12n0352_002:0205a09_15"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205a17_16"
+    },
+    {
+        "source_sentence": "菩薩亦然，以清淨慈心遍行一切眾生，潤益有情白法種子，令得增長無愛無求。",
+        "translation": "Similarly, the bodhisattva pervades all sentient beings with a pure mind of kindness and nourishes the white seeds of the Dharma for sentient beings so that they grow without craving or seeking.",
+        "source": "T12n0352_002:0205a17_17"
+    },
+    {
+        "source_sentence": "「譬如水界，　　潤益一切，　　藥草樹木，",
+        "translation": "“It’s like the water element that nourishes all herbs, plants, trees, and shrubs.",
+        "source": "T12n0352_002:0205a19_18"
+    },
+    {
+        "source_sentence": "　令得生長，　　無愛無求。　　菩薩亦爾，",
+        "translation": "So it is with enlightening beings who cause sentient beings to grow, Without craving or seeking.",
+        "source": "T12n0352_002:0205a19_18"
+    },
+    {
+        "source_sentence": "　以淨慈心，　　遍及有情，　　次第普潤，",
+        "translation": "With pure minds of kindness, Universal and sentient beings, They successively nourish each other.",
+        "source": "T12n0352_002:0205a19_18"
+    },
+    {
+        "source_sentence": "　淨種增長，　　破大力魔，　　得佛菩提。」",
+        "translation": "The pure seed grows, breaks through the great demon of great power, and attains buddhahood.",
+        "source": "T12n0352_002:0205a19_18"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如火界，成熟一切穀麥苗稼，火界於彼無愛無求。",
+        "translation": "Here, I now compose a verse: The Buddha told Kāśyapa, It's like the fire element that ripens all grains, wheat, seedlings, and crops, and the fire element has no craving or seeking for them.",
+        "source": "T12n0352_002:0205a19_18"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205a26_19"
+    },
+    {
+        "source_sentence": "菩薩亦爾，以大智慧成熟一切眾生善芽。",
+        "translation": "So it is with the bodhisattva, who ripens the good sprouts of all sentient beings with great wisdom.",
+        "source": "T12n0352_002:0205a26_20"
+    },
+    {
+        "source_sentence": "「譬如火界，　　成熟一切，　　五穀苗稼，",
+        "translation": "“It’s like the fire realm, Which brings all things to maturity: The five grains, crops, and fields.",
+        "source": "T12n0352_002:0205a27_21"
+    },
+    {
+        "source_sentence": "　而彼火界，　　於其苗稼，　　無求無愛。",
+        "translation": "And in the fire realm, there's no desire or craving for its crops.",
+        "source": "T12n0352_002:0205a27_21"
+    },
+    {
+        "source_sentence": "　菩薩亦爾，　　以智慧火，　　成熟一切，",
+        "translation": "Enlightening beings are likewise, By the fire of knowledge and wisdom They develop all beings.",
+        "source": "T12n0352_002:0205a27_21"
+    },
+    {
+        "source_sentence": "　眾生善芽，　　菩薩於彼，　　無求無愛。」",
+        "translation": "The good sprouts of sentient beings, and bodhisattvas have no desire or craving for them.",
+        "source": "T12n0352_002:0205a27_21"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如風界，遍滿一切諸佛剎土。",
+        "translation": "Here, I now compose a verse: The Buddha told Kāśyapa, It's like the wind element that fills all the buddha-lands.",
+        "source": "T12n0352_002:0205a27_21"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205b03_22"
+    },
+    {
+        "source_sentence": "菩薩亦爾，以善方便遍眾生界令解佛法。",
+        "translation": "So it is with the bodhisattva, who uses good skillful means to pervade the realm of sentient beings and make them understand the Buddha's teaching.",
+        "source": "T12n0352_002:0205b04_23"
+    },
+    {
+        "source_sentence": "「譬如風界，　　隨自勢力，　　普遍佛剎。",
+        "translation": "“Suppose the wind element Pervades all buddha-lands According to one’s power.",
+        "source": "T12n0352_002:0205b05_0"
+    },
+    {
+        "source_sentence": "　諸菩薩眾，　　亦復如是，　　以善方便，",
+        "translation": "The assembly of enlightening beings Is also like this: By means of skillful means They teach the Dharma to sentient beings.",
+        "source": "T12n0352_002:0205b05_0"
+    },
+    {
+        "source_sentence": "　為其佛子，　　說最上法。」",
+        "translation": "For the sake of that Buddha's son, he teaches the supreme teaching.",
+        "source": "T12n0352_002:0205b05_0"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如魔冤領四軍兵，欲界諸天不能降彼。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, It's like when Māra enemies lead four armies of soldiers, and the gods in the desire realm can't subdue them.",
+        "source": "T12n0352_002:0205b05_0"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205b10_1"
+    },
+    {
+        "source_sentence": "菩薩亦爾，得意清淨，一切眾魔不能惑亂。",
+        "translation": "Similarly, the bodhisattva's mind is so pure that all the Māras can't disturb it.",
+        "source": "T12n0352_002:0205b10_2"
+    },
+    {
+        "source_sentence": "「譬如魔冤，　　領四軍兵，　　欲界諸天，",
+        "translation": "“Suppose Māra’s enemy leads four armies of soldiers, and the gods in the heavens of the realm of desire",
+        "source": "T12n0352_002:0205b11_3"
+    },
+    {
+        "source_sentence": "　不能降彼。　　菩薩亦爾，　　得意清淨，",
+        "translation": "So it is with the enlightening beings: Their minds are concentrated on purity, And they do not subjugate others.",
+        "source": "T12n0352_002:0205b11_3"
+    },
+    {
+        "source_sentence": "　一切眾魔，　　不可惑亂。」",
+        "translation": "All the Māras can't be confused.",
+        "source": "T12n0352_002:0205b11_3"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如白月，漸漸增長乃至圓滿。",
+        "translation": "Here I now compose a verse: The Buddha told Kasyapa, It's like the white moon that gradually grows until it's full.",
+        "source": "T12n0352_002:0205b11_3"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205b15_4"
+    },
+    {
+        "source_sentence": "菩薩亦爾，以無染心求一切法，乃至圓滿。",
+        "translation": "So it is with the bodhisattva, who seeks all dharmas with an undefiled mind up to their fullness.",
+        "source": "T12n0352_002:0205b16_5"
+    },
+    {
+        "source_sentence": "「譬如白月，　　漸漸增長，　　直至圓滿，",
+        "translation": "“Suppose the white moon gradually grows until it’s full.",
+        "source": "T12n0352_002:0205b17_0"
+    },
+    {
+        "source_sentence": "　菩薩亦爾，　　以無染心，　　求修諸善，",
+        "translation": "So it is with enlightening beings: With unstained minds They seek to cultivate virtue.",
+        "source": "T12n0352_002:0205b17_0"
+    },
+    {
+        "source_sentence": "　漸漸增進，　　白法圓滿。」",
+        "translation": "Gradually, it increases, and the white dharma is perfected.",
+        "source": "T12n0352_002:0205b17_0"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如日出放大光明，照彼世間無不朗然。",
+        "translation": "Here, I now compose a verse: The Buddha told Kāśyapa, It's like when the sun rises and emits great light that illuminates the world without fail.",
+        "source": "T12n0352_002:0205b17_0"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205b22_1"
+    },
+    {
+        "source_sentence": "菩薩亦爾，放智慧光照諸眾生，無不開悟。",
+        "translation": "So it is with the bodhisattva, who radiates the light of wisdom to illuminate sentient beings without fail and enlighten them.",
+        "source": "T12n0352_002:0205b22_2"
+    },
+    {
+        "source_sentence": "「譬如日出，　　照彼世間，　　一切物像，",
+        "translation": "“Suppose the sun comes out, Illumining all things in the world.",
+        "source": "T12n0352_002:0205b23_3"
+    },
+    {
+        "source_sentence": "　無不朗然。　　菩薩亦爾，　　放智慧光，",
+        "translation": "The enlightening beings are also like this, Emitting the light of knowledge.",
+        "source": "T12n0352_002:0205b23_3"
+    },
+    {
+        "source_sentence": "　照諸有情，　　無不開解。」",
+        "translation": "To illuminate all sentient beings, there's nothing that isn't enlightened.",
+        "source": "T12n0352_002:0205b23_3"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如師子獸王有大威德，於彼一切所行之處不驚不怖。",
+        "translation": "Here, I now compose a verse: The Buddha told Kāśyapa, It's like the lion king of animals with great authority, who isn't frightened or terrified wherever he walks.",
+        "source": "T12n0352_002:0205b23_3"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205b28_4"
+    },
+    {
+        "source_sentence": "菩薩亦爾，安住多聞戒德，如是一切所往之處不驚不怖。",
+        "translation": "So it is with the bodhisattva, who abides in the well-versed virtue of morality and thus doesn't fear or become frightened wherever he goes.",
+        "source": "T12n0352_002:0205b28_5"
+    },
+    {
+        "source_sentence": "「師子獸王，　　威德勇猛，　　所行之處，",
+        "translation": "“The lion, the king of animals, Is endowed with awesome power and courage. Wherever he walks,",
+        "source": "T12n0352_002:0205b29_6"
+    },
+    {
+        "source_sentence": "　心無驚怖。　　菩薩亦爾，　　安住多聞，",
+        "translation": "Their minds are not frightened, And so it is with the enlightening beings: They abide in great learning.",
+        "source": "T12n0352_002:0205b29_6"
+    },
+    {
+        "source_sentence": "　持戒智慧，　　於彼世間，　　所行之處，",
+        "translation": "Their observance of precepts and wisdom, Wherever they practice in that world,",
+        "source": "T12n0352_002:0205b29_6"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：　離諸怖畏。」",
+        "translation": "Here, I'll now say this verse, Be free of the fears.",
+        "source": "T12n0352_002:0205b29_6"
+    },
+    {
+        "source_sentence": "佛告迦葉：「譬如龍象有大勢力，擔負一切重物而無疲苦。",
+        "translation": "The Buddha told Kāśyapa, It's like a dragon or elephant with great power that carries all heavy things without suffering.",
+        "source": "T12n0352_002:0205c06_0"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205c07_1"
+    },
+    {
+        "source_sentence": "菩薩亦爾，擔負一切眾生五蘊諸苦，不得其苦。",
+        "translation": "So it is with the bodhisattva, who carries the five aggregates of suffering for all sentient beings and doesn't get their pain.",
+        "source": "T12n0352_002:0205c07_2"
+    },
+    {
+        "source_sentence": "「譬如龍象，　　有大勢力，　　身負重物，",
+        "translation": "“Suppose a dragon or elephant has great power, Carrying a heavy burden on its body.",
+        "source": "T12n0352_002:0205c08_3"
+    },
+    {
+        "source_sentence": "　而不疲苦。　　菩薩亦爾，　　擔負眾生，",
+        "translation": "So it is with enlightening beings, Carrying the burdens of sentient beings.",
+        "source": "T12n0352_002:0205c08_3"
+    },
+    {
+        "source_sentence": "　五蘊諸苦，　　亦無疲苦。」",
+        "translation": "The five aggregates are painful, and there's no suffering of weariness.",
+        "source": "T12n0352_002:0205c08_3"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如蓮華，生長水中淤泥濁水而不能染。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, It's like the lotus flower that grows in mud and dirty water but doesn't stain it.",
+        "source": "T12n0352_002:0205c08_3"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205c13_4"
+    },
+    {
+        "source_sentence": "菩薩亦爾，雖生世間，世間雜染終不能著。",
+        "translation": "So it is with the bodhisattva, who although born in the world, nevertheless can't be attached to worldly defilements.",
+        "source": "T12n0352_002:0205c13_5"
+    },
+    {
+        "source_sentence": "「譬如蓮華，　　出生水中，　　濁水淤泥，",
+        "translation": "“Suppose a lotus flower Is born in water, Filled with dirty water and mud.",
+        "source": "T12n0352_002:0205c14_6"
+    },
+    {
+        "source_sentence": "　而不可染。　　菩薩亦爾，　　雖生世間，",
+        "translation": "So it is with enlightening beings: Though they are born in the world, They cannot be defiled.",
+        "source": "T12n0352_002:0205c14_6"
+    },
+    {
+        "source_sentence": "　種種雜染，　　而不能著。」",
+        "translation": "Various kinds of defilements can't be attached.",
+        "source": "T12n0352_002:0205c14_6"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如有人方便斷樹不斷樹根，而於後時復生大地。",
+        "translation": "Here I now compose a verse: The Buddha told Kāśyapa, It's like a person who skillfully cuts down a tree and doesn't stop its roots, but then the earth grows again at some point later.",
+        "source": "T12n0352_002:0205c14_6"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205c19_7"
+    },
+    {
+        "source_sentence": "菩薩亦爾，以方便力斷彼煩惱不斷彼種，以大悲善根復生三界。",
+        "translation": "So it is with the bodhisattva, who uses the power of skillful means to end those afflictions and not stop those seeds, and then he's again born in the three realms with the good roots of great compassion.",
+        "source": "T12n0352_002:0205c19_8"
+    },
+    {
+        "source_sentence": "「譬如有人，　　以其方便，　　而斷樹身，",
+        "translation": "“Suppose there is a man Who, using skillful means, Cuts down the body of a tree.",
+        "source": "T12n0352_002:0205c21_0"
+    },
+    {
+        "source_sentence": "　不斷樹根，　　如是後時，　　復生大地。",
+        "translation": "If you don't cut off the roots of a tree, then so it will be when the earth grows again.",
+        "source": "T12n0352_002:0205c21_0"
+    },
+    {
+        "source_sentence": "　菩薩亦爾，　　以善方便，　　斷彼煩惱，",
+        "translation": "So it is with enlightening beings: By means of skillful means They eliminate those afflictions.",
+        "source": "T12n0352_002:0205c21_0"
+    },
+    {
+        "source_sentence": "　不斷彼種，　　以大悲故，　　復生三界。」",
+        "translation": "They don't stop those seeds, and because of their great compassion, they'll again be born in the three realms.",
+        "source": "T12n0352_002:0205c21_0"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如諸方所流河水，皆歸大海同一鹹味。",
+        "translation": "Here I now compose a verse: The Buddha told Kasyapa, Suppose the rivers that flow in all directions return to the great ocean with the same salty taste.",
+        "source": "T12n0352_002:0205c21_0"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0205c27_1"
+    },
+    {
+        "source_sentence": "菩薩亦爾，所有一切善根，種種利益迴向菩提，與彼涅槃同歸一味。",
+        "translation": "Similarly, all the good roots that are possessed by bodhisattvas and various benefits that they dedicate to enlightenment return to the same taste as those of nirvāṇa.",
+        "source": "T12n0352_002:0205c27_2"
+    },
+    {
+        "source_sentence": "「譬如一切，　　江河諸水，　　皆入大海，",
+        "translation": "“Suppose all the rivers and streams flow into the great ocean.",
+        "source": "T12n0352_002:0205c28_3"
+    },
+    {
+        "source_sentence": "　同一鹹味。　　菩薩亦爾，　　所有一切，",
+        "translation": "They all have the same salty taste, And so do enlightening beings.",
+        "source": "T12n0352_002:0205c28_3"
+    },
+    {
+        "source_sentence": "　善根利益，　　迴向菩提，　　及彼真際，",
+        "translation": "The benefits of the roots of virtue, dedication of merit and enlightenment, as well as their true extent.",
+        "source": "T12n0352_002:0205c28_3"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：　同歸一味。」",
+        "translation": "Here, I'll now say this verse, They all return to the same taste.",
+        "source": "T12n0352_002:0205c28_3"
+    },
+    {
+        "source_sentence": "佛告迦葉：「譬如四大天王及忉利天眾，要彼安住妙高之山。",
+        "translation": "The Buddha told Kāśyapa, Suppose the four great celestial kings and the Trāyastriṃśa gods want them to live on a wonderfully high mountain.",
+        "source": "T12n0352_002:0206a05_0"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206a06_1"
+    },
+    {
+        "source_sentence": "菩薩亦爾，為一切智所修善法，要彼安住菩提大心。",
+        "translation": "So it is with the bodhisattva, who cultivates the good qualities cultivated by omniscience and requires them to abide in the great mind of enlightenment.",
+        "source": "T12n0352_002:0206a06_2"
+    },
+    {
+        "source_sentence": "「譬如四王，　　及帝釋眾，　　要彼安住，",
+        "translation": "“Suppose the four kings and the Trāyastriṃśa gods Have to live in peace,",
+        "source": "T12n0352_002:0206a07_3"
+    },
+    {
+        "source_sentence": "　妙高之山。　　菩薩亦爾，　　為一切智，",
+        "translation": "For the sake of omniscience, Likewise do enlightening beings attain the supremely lofty mountain.",
+        "source": "T12n0352_002:0206a07_3"
+    },
+    {
+        "source_sentence": "　所修善法，　　安住菩提。」",
+        "translation": "Those who cultivate good qualities will abide in enlightenment.",
+        "source": "T12n0352_002:0206a07_3"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如國王，欲行王事須假宰臣。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, It's like a king who wants to perform the king's duties and requires a provisional ruler.",
+        "source": "T12n0352_002:0206a07_3"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206a12_4"
+    },
+    {
+        "source_sentence": "菩薩亦爾，欲為佛事，須假智慧方便。",
+        "translation": "So it is with the bodhisattva, who wants to do buddha-works and requires wisdom and skillful means.",
+        "source": "T12n0352_002:0206a13_5"
+    },
+    {
+        "source_sentence": "「譬如國王，　　欲行王事，　　須仗宰臣，",
+        "translation": "“Suppose a king wants to perform the king’s duties, And he needs help from his ministers.",
+        "source": "T12n0352_002:0206a13_6"
+    },
+    {
+        "source_sentence": "　而得成就。　　菩薩亦爾，　　欲為佛事，",
+        "translation": "So it is with the enlightening beings Who want to do buddha-work For the sake of sentient beings.",
+        "source": "T12n0352_002:0206a13_6"
+    },
+    {
+        "source_sentence": "　假方便慧，　　決定成就。」",
+        "translation": "By relying on the wisdom of skillful means, they'll surely accomplish it.",
+        "source": "T12n0352_002:0206a13_6"
+    },
+    {
+        "source_sentence": "我今於彼而說頌曰：佛告迦葉：「譬如晴天無其雲霧，於彼世間終無降雨之相。",
+        "translation": "Now, I'll say a verse here: The Buddha told Kāśyapa, It's like when the clear sky has no clouds or mist, and there's never any sign of rain falling in that world.",
+        "source": "T12n0352_002:0206a13_6"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206a19_7"
+    },
+    {
+        "source_sentence": "菩薩亦爾，寡聞少智於諸有情，終無說法之相。",
+        "translation": "So it is with the bodhisattvas, who have little learning and little wisdom but never teach the Dharma to sentient beings.",
+        "source": "T12n0352_002:0206a19_8"
+    },
+    {
+        "source_sentence": "「譬如虛空，　　晴無雲霧，　　於彼世間，",
+        "translation": "“Suppose the sky is clear and there’s no cloud or mist in that world.",
+        "source": "T12n0352_002:0206a20_9"
+    },
+    {
+        "source_sentence": "　終不降雨。　　菩薩亦爾，　　寡聞少智，",
+        "translation": "So it is with the bodhisattvas, Who have little learning and little wisdom.",
+        "source": "T12n0352_002:0206a20_9"
+    },
+    {
+        "source_sentence": "　於其有情，　　無說法相。」",
+        "translation": "In those sentient beings, there's no Dharma teaching.",
+        "source": "T12n0352_002:0206a20_9"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如虛空起大雲雷，必降甘雨成熟苗稼。",
+        "translation": "Here, I now compose a verse: The Buddha told Kāśyapa, Suppose there's a great cloud and thunder in the sky that will surely send down sweet rain to ripen crops.",
+        "source": "T12n0352_002:0206a20_9"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206a25_10"
+    },
+    {
+        "source_sentence": "菩薩亦爾，於其世間起慈悲雲，降妙法雨成熟眾生。",
+        "translation": "So it is with the bodhisattva, who produces clouds of compassion in that world and sends down a wonderful Dharma rain to ripen sentient beings.",
+        "source": "T12n0352_002:0206a25_11"
+    },
+    {
+        "source_sentence": "「譬如虛空，　　雲雷忽起，　　必降甘澤，",
+        "translation": "“Suppose clouds and thunder suddenly arise in the sky, And they surely fall down like sweet marsh.",
+        "source": "T12n0352_002:0206a26_12"
+    },
+    {
+        "source_sentence": "　成熟苗稼。　　菩薩亦爾，　　普覆慈雲，",
+        "translation": "So it is with the enlightening being Who develops seedlings and crops, Covering all clouds of compassion.",
+        "source": "T12n0352_002:0206a26_12"
+    },
+    {
+        "source_sentence": "　降霔法雨，　　成熟有情。」",
+        "translation": "He sends down the rain of the Dharma, ripening sentient beings.",
+        "source": "T12n0352_002:0206a26_12"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如轉輪聖王，有其七寶恒隨王行。",
+        "translation": "Here, I now compose a verse: The Buddha told Kāśyapa, Suppose there's a wheel-turning sage king whose seven treasures always follow the king's steps.",
+        "source": "T12n0352_002:0206a26_12"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206b02_13"
+    },
+    {
+        "source_sentence": "菩薩亦爾，有七覺支恒隨菩薩。",
+        "translation": "Bodhisattvas are likewise, with seven factors of awakening that always follow bodhisattvas.",
+        "source": "T12n0352_002:0206b02_14"
+    },
+    {
+        "source_sentence": "「譬如世間，　　轉輪聖王，　　所有七寶，",
+        "translation": "“Furthermore, it is like the case Of the seven jewels Which are found In the world of the universal ruler.",
+        "source": "T12n0352_002:0206b02_15"
+    },
+    {
+        "source_sentence": "　恒隨王行。　　菩薩亦爾，　　有七覺支，",
+        "translation": "So it is with the enlightening beings who are always following the king’s ways.",
+        "source": "T12n0352_002:0206b02_15"
+    },
+    {
+        "source_sentence": "　所到之處，　　隨逐菩薩。」",
+        "translation": "Wherever he goes, he follows the bodhisattva.",
+        "source": "T12n0352_002:0206b02_15"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如摩尼寶珠得多富貴，價直迦哩沙波拏百千富貴。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, Suppose there's a maṇi-jeweled pearl that's so wealthy and valuable that it's worth as much as a hundred thousand fortunes of Kālīṣapāṭa.",
+        "source": "T12n0352_002:0206b02_15"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206b08_16"
+    },
+    {
+        "source_sentence": "菩薩亦爾，得多富貴價，直聲聞緣覺百千富貴。",
+        "translation": "So it is with the bodhisattvas, who are so wealthy and valuable that they're worth a hundred thousand riches for direct śrāvakas and pratyekbuddhas.",
+        "source": "T12n0352_002:0206b08_17"
+    },
+    {
+        "source_sentence": "「譬如摩尼寶，　　富貴廣得多，",
+        "translation": "“Suppose there is a precious maṇi treasure Whose wealth is so great and vast",
+        "source": "T12n0352_002:0206b09_18"
+    },
+    {
+        "source_sentence": "　迦哩沙波拏，　　百千不可比。",
+        "translation": "The sands of Kālīṣapāṭa are incomparable in a hundred thousand ways.",
+        "source": "T12n0352_002:0206b09_18"
+    },
+    {
+        "source_sentence": "　菩薩亦如是，　　富貴倍弘多，",
+        "translation": "Enlightening beings are also like this, Doubling in wealth and prosperity.",
+        "source": "T12n0352_002:0206b09_18"
+    },
+    {
+        "source_sentence": "　辟支及聲聞，　　百千亦難比。」",
+        "translation": "The pratyekabuddhas and śrāvakas, a hundred thousand of them, are also difficult to compare.",
+        "source": "T12n0352_002:0206b09_18"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如忉利天眾，若住雜林者，受用富貴平等無二。",
+        "translation": "Here I now compose a verse: The Buddha told Kāśyapa, It's like the Trāyastriṃśa gods who live in a mixed forest and enjoy their wealth and prosperity equally without distinction.",
+        "source": "T12n0352_002:0206b09_18"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206b16_19"
+    },
+    {
+        "source_sentence": "菩薩亦爾，若住清淨心者，為一切眾生正直方便平等無二。",
+        "translation": "So it is with the bodhisattva, who abides in a pure mind and serves all sentient beings equally for their equality of righteousness and skillful means.",
+        "source": "T12n0352_002:0206b16_20"
+    },
+    {
+        "source_sentence": "「譬如忉利天，　　住彼雜林者，",
+        "translation": "“Suppose the Trāyastriṃśa gods live in that mixed forest.",
+        "source": "T12n0352_002:0206b17_21"
+    },
+    {
+        "source_sentence": "　受用於富貴，　　平等無有二。",
+        "translation": "Their enjoyment and use, wealth and prosperity, are equal and non-dual.",
+        "source": "T12n0352_002:0206b17_21"
+    },
+    {
+        "source_sentence": "　菩薩亦如是，　　住心清淨者，",
+        "translation": "Enlightening beings are also like this, Abiding in the purity of mind:",
+        "source": "T12n0352_002:0206b17_21"
+    },
+    {
+        "source_sentence": "　正直為群生，　　方便亦無二。」",
+        "translation": "Righteousness is for all sentient beings, and skillful means are also not two.",
+        "source": "T12n0352_002:0206b17_21"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如有人妙解禁呪善知毒藥，一切毒藥不能為害。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, Suppose someone marvelously understands the forbidden spell and well knows the poisonous medicine that all poisons can't harm them.",
+        "source": "T12n0352_002:0206b17_21"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206b24_22"
+    },
+    {
+        "source_sentence": "菩薩亦爾，具大智慧善行方便，一切煩惱不能為害。",
+        "translation": "So it is with the bodhisattva, who possesses great wisdom and skillful means that all afflictions can't harm him.",
+        "source": "T12n0352_002:0206b24_23"
+    },
+    {
+        "source_sentence": "「譬如世間人，　　善知藥禁呪，",
+        "translation": "“Suppose there are people in the world Who well know the prescriptions for medicine and the forbidden spells.",
+        "source": "T12n0352_002:0206b25_24"
+    },
+    {
+        "source_sentence": "　一切毒藥等，　　不能為損害。",
+        "translation": "All poisons and medicines Can't harm them.",
+        "source": "T12n0352_002:0206b25_24"
+    },
+    {
+        "source_sentence": "　菩薩亦如是，　　若具方便慧，",
+        "translation": "So it is with enlightening beings: If they are endowed with skill in means and wisdom,",
+        "source": "T12n0352_002:0206b25_24"
+    },
+    {
+        "source_sentence": "　一切煩惱毒，　　不能為損害。」",
+        "translation": "All the poisons of afflictions can't harm them.",
+        "source": "T12n0352_002:0206b25_24"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如世間糞壤之地，能生肥盛甘蔗。",
+        "translation": "Here I now compose a verse: The Buddha told Kāśyapa, Suppose there's a land of dung and dirt in the world that produces fertile sugarcane.",
+        "source": "T12n0352_002:0206b25_24"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c03_25"
+    },
+    {
+        "source_sentence": "菩薩亦爾，若處煩惱糞地，能生一切智種。",
+        "translation": "So it is with the bodhisattva, who can give rise to the seeds of omniscience if he's in the land of affliction and dung.",
+        "source": "T12n0352_002:0206c03_26"
+    },
+    {
+        "source_sentence": "「譬如糞壤地，　　出生於甘蔗，",
+        "translation": "“Suppose there’s a field of dung and dirt That produces sugarcane.",
+        "source": "T12n0352_002:0206c04_27"
+    },
+    {
+        "source_sentence": "　倍常而肥盛。　　菩薩處煩惱，",
+        "translation": "A bodhisattva in the midst of affliction is always suffering from hunger and thirst.",
+        "source": "T12n0352_002:0206c04_27"
+    },
+    {
+        "source_sentence": "　出生一切智，　　其義亦如是。」",
+        "translation": "The meaning of all the cognitions that arise is likewise.",
+        "source": "T12n0352_002:0206c04_27"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如有人不學武藝，若執器仗寧解施設？",
+        "translation": "Here, I now compose a verse: The Buddha told Kāśyapa, Suppose there's a person who doesn't train in the arts of war, and if he holds a container or a battle, how could he understand its designation?",
+        "source": "T12n0352_002:0206c04_27"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c09_28"
+    },
+    {
+        "source_sentence": "菩薩亦爾，先未聞法寡識機藥，若執智見何辯邪正？」",
+        "translation": "So it is with bodhisattvas who haven't heard the teaching before and have little consciousness for the medicine of the Dharma, so if they cling to wisdom and views, how can they debate right or wrong?",
+        "source": "T12n0352_002:0206c09_29"
+    },
+    {
+        "source_sentence": "佛告迦葉：「譬如窑師，欲燒瓦器須用大火。",
+        "translation": "The Buddha told Kāśyapa, It's like a potter who wants to burn a tile container that requires a great fire.",
+        "source": "T12n0352_002:0206c10_30"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c11_31"
+    },
+    {
+        "source_sentence": "菩薩亦爾，欲為愚迷眾生開發智慧，須用佛法智火。",
+        "translation": "So it is with the bodhisattva, who wants to develop wisdom for foolish sentient beings and requires the Buddha's fire of knowledge of the Dharma.",
+        "source": "T12n0352_002:0206c11_32"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c12_33"
+    },
+    {
+        "source_sentence": "是故此大寶積正法，令菩薩修學受持得解法行。」",
+        "translation": "That's why this great treasure is the accumulation of the right teaching, which causes bodhisattvas to cultivate and uphold it and attain understanding of the practice of the Dharma.",
+        "source": "T12n0352_002:0206c12_34"
+    },
+    {
+        "source_sentence": "迦葉白言：「菩薩云何受持，見正法行？」",
+        "translation": "Kāśyapa said, How does a bodhisattva receive and uphold the practice of seeing the right teaching?",
+        "source": "T12n0352_002:0206c15_0"
+    },
+    {
+        "source_sentence": "「迦葉！",
+        "translation": "Kasyapa!",
+        "source": "T12n0352_002:0206c15_1"
+    },
+    {
+        "source_sentence": "如自觀身，無我、無人、無眾生、無壽命，無名無相，無觀行故。",
+        "translation": "It's like observing for yourself that there's no self, no person, no sentient beings, no life, and no names and marks, because there are no contemplations and practices.",
+        "source": "T12n0352_002:0206c15_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c17_3"
+    },
+    {
+        "source_sentence": "如此說名正觀影像中法。",
+        "translation": "Thus, it's called the Dharma in the images of correct contemplation.",
+        "source": "T12n0352_002:0206c17_4"
+    },
+    {
+        "source_sentence": "復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0206c17_5"
+    },
+    {
+        "source_sentence": "如實正觀影像中法。",
+        "translation": "He correctly observes the teaching in images as it really is.",
+        "source": "T12n0352_002:0206c18_6"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c18_7"
+    },
+    {
+        "source_sentence": "云何影像中法，如正觀色，觀彼無常亦非無常；",
+        "translation": "What are the dharmas in images? They are as when one correctly observes form, observing that which is impermanent and not impermanent.",
+        "source": "T12n0352_002:0206c18_8"
+    },
+    {
+        "source_sentence": "如是受想行識，常與無常、無定無不定。",
+        "translation": "Thus, feeling, perception, volition, and consciousness are permanent, impermanent, indeterminate, and neither indeterminate.",
+        "source": "T12n0352_002:0206c19_9"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c20_10"
+    },
+    {
+        "source_sentence": "此說如實觀察影像中法。",
+        "translation": "This is called observing the Dharma in images as it really is.",
+        "source": "T12n0352_002:0206c20_11"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0206c22_0"
+    },
+    {
+        "source_sentence": "如實觀察影像中法，所有地界，常與無常、無定無不定。",
+        "translation": "He truly observes the earth realm that exists in the Dharma in the images, which is permanent and impermanent, without concentration or indeterminate.",
+        "source": "T12n0352_002:0206c22_1"
+    },
+    {
+        "source_sentence": "如是水界火界風界空界識界，亦復如是，無定無不定。",
+        "translation": "The element water element, the element fire element, the element wind element, the element space element and the element consciousness element are also like this: they are neither fixed nor indeterminate.",
+        "source": "T12n0352_002:0206c23_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c24_3"
+    },
+    {
+        "source_sentence": "此說如實觀察影像中法。",
+        "translation": "This is called observing the Dharma in images as it really is.",
+        "source": "T12n0352_002:0206c24_4"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0206c26_0"
+    },
+    {
+        "source_sentence": "所有眼處，常無常性、無定無不定。",
+        "translation": "The locus of the eye that exists is eternal, impermanent, unchanging, and neither determined nor indeterminate.",
+        "source": "T12n0352_002:0206c26_1"
+    },
+    {
+        "source_sentence": "如是耳處鼻處舌處身處意處，常無常性，無定無不定。",
+        "translation": "Thus, the ear-place, nose-place, tongue-place, body-place, and mind-place are permanent and impermanent, and there's neither concentration nor indeterminacy.",
+        "source": "T12n0352_002:0206c27_0"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0206c28_1"
+    },
+    {
+        "source_sentence": "此說影像中法如實觀察。",
+        "translation": "This is called observing the dharmas in images as they really are.",
+        "source": "T12n0352_002:0206c28_2"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0206c29_0"
+    },
+    {
+        "source_sentence": "此定一法、此不定二法。",
+        "translation": "This is a fixed one thing, and these are two things that are indeterminate.",
+        "source": "T12n0352_002:0206c29_1"
+    },
+    {
+        "source_sentence": "若彼二法，於是色中不見不住無微無識亦無相故。",
+        "translation": "If those two dharmas don't abide in form, they won't be seen, have no subtlety, no consciousness, and no marks.",
+        "source": "T12n0352_002:0206c29_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a01_3"
+    },
+    {
+        "source_sentence": "此說影像中法如實觀察。",
+        "translation": "This is called observing the dharmas in images as they really are.",
+        "source": "T12n0352_002:0207a02_4"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207a03_0"
+    },
+    {
+        "source_sentence": "我見一法、無我二法。",
+        "translation": "I see one thing as self and two things as selflessness.",
+        "source": "T12n0352_002:0207a03_1"
+    },
+    {
+        "source_sentence": "若彼二法，於是色中不見不住無微無識亦無相故。",
+        "translation": "If those two dharmas don't abide in form, they won't be seen, have no subtlety, no consciousness, and no marks.",
+        "source": "T12n0352_002:0207a03_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a04_3"
+    },
+    {
+        "source_sentence": "此說影像中法如實觀察。",
+        "translation": "This is called observing the dharmas in images as they really are.",
+        "source": "T12n0352_002:0207a05_4"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207a06_0"
+    },
+    {
+        "source_sentence": "此真實心一法、此不實心二法。",
+        "translation": "This is the true mind as one thing and these two things as an insubstantial mind.",
+        "source": "T12n0352_002:0207a06_1"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a06_2"
+    },
+    {
+        "source_sentence": "二法所在無心無覺無意無識。",
+        "translation": "Where the two dharmas are, there's no mind, no perception, no thought, and no consciousness.",
+        "source": "T12n0352_002:0207a07_3"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a07_4"
+    },
+    {
+        "source_sentence": "此說影像中法如實觀察。",
+        "translation": "This is called observing the dharmas in images as they really are.",
+        "source": "T12n0352_002:0207a07_5"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207a09_0"
+    },
+    {
+        "source_sentence": "善不善、世間出世間、有罪無罪、有漏無漏、有為無為、有煩惱無煩惱，",
+        "translation": "Good and bad, mundane and transmundane, blameworthy and blameless, contaminated and uncontaminated, conditioned and unconditioned, with and without affliction.",
+        "source": "T12n0352_002:0207a09_1"
+    },
+    {
+        "source_sentence": "如是一切法。",
+        "translation": "All these things are thus all dharmas.",
+        "source": "T12n0352_002:0207a10_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a11_3"
+    },
+    {
+        "source_sentence": "此生法一、此滅法二。",
+        "translation": "These are the dharmas that arise as one and these are the dharmas that cease as two.",
+        "source": "T12n0352_002:0207a11_4"
+    },
+    {
+        "source_sentence": "若二法中，無集無散不可求得。",
+        "translation": "If there's no accumulation or disintegration in two things, they can't be sought and obtained.",
+        "source": "T12n0352_002:0207a11_5"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a12_6"
+    },
+    {
+        "source_sentence": "此說影像中法如實觀察。",
+        "translation": "This is called observing the dharmas in images as they really are.",
+        "source": "T12n0352_002:0207a12_7"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207a14_0"
+    },
+    {
+        "source_sentence": "此有法一、此無法二。",
+        "translation": "These are the dharmas that are one and these are not two.",
+        "source": "T12n0352_002:0207a14_1"
+    },
+    {
+        "source_sentence": "若此二法，於是色中不見不住無微無識亦無相故。",
+        "translation": "If these two dharmas don't abide and don't abide in form, there's no subtlety, no consciousness, and no marks.",
+        "source": "T12n0352_002:0207a14_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a15_3"
+    },
+    {
+        "source_sentence": "此說影像中法如實觀察。",
+        "translation": "This is called observing the dharmas in images as they really are.",
+        "source": "T12n0352_002:0207a16_0"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207a17_0"
+    },
+    {
+        "source_sentence": "此輪迴一法、此涅槃二法。",
+        "translation": "This is the one teaching of transmigration and these are the two teachings of nirvāṇa.",
+        "source": "T12n0352_002:0207a17_1"
+    },
+    {
+        "source_sentence": "若彼二法，於是色中不見不住無微無識。",
+        "translation": "If those two dharmas are not seen in form, they don't abide or lack subtlety and consciousness.",
+        "source": "T12n0352_002:0207a17_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a18_3"
+    },
+    {
+        "source_sentence": "此說影像中法如實觀察。",
+        "translation": "This is called observing the dharmas in images as they really are.",
+        "source": "T12n0352_002:0207a18_4"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207a20_0"
+    },
+    {
+        "source_sentence": "我說汝等，無明緣生行，行緣生識，識緣生名色，名色緣生六入，六入緣生觸，",
+        "translation": "I teach you that conditioned by nescience there arises conditioned by conditioned phenomena; conditioned by phenomena there arises consciousness; conditioned by consciousness there arises name and form; conditioned by name-and-form there arises the six sense operations; conditioned by the six sense operations there arises contact.",
+        "source": "T12n0352_002:0207a20_1"
+    },
+    {
+        "source_sentence": "觸緣生受，受緣生愛，愛緣生取，取緣生有，有緣生老死，老死緣生憂悲苦惱。",
+        "translation": "Conditioned by contact, feeling arises; conditioned by sensation, thirst arises; conditioned by thirst, grasping arises; conditioned by grasping, existence arises; conditioned by existence, old age and death arise; conditioned by old age and death, sorrow and pain and vexation arise.",
+        "source": "T12n0352_002:0207a21_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a23_3"
+    },
+    {
+        "source_sentence": "如是集得此一大苦蘊。",
+        "translation": "Thus, they gather this great mass of painful aggregates.",
+        "source": "T12n0352_002:0207a23_4"
+    },
+    {
+        "source_sentence": "所有無明滅則行滅，行滅則識滅，識滅則名色滅，名色滅則六入滅，六入滅則觸滅，",
+        "translation": "When ignorance ceases, formations cease; when formations cease, consciousness ceases; when consciousness ceases, name and form cease; when name and form cease, the six sense operations cease; when the six sense operations cease, contact ceases.",
+        "source": "T12n0352_002:0207a24_5"
+    },
+    {
+        "source_sentence": "觸滅則受滅，受滅則愛滅，愛滅則取滅，取滅則有滅，有滅則生滅，生滅則老死滅，",
+        "translation": "When contact ceases, feeling ceases; when feeling ceases, thirst ceases; when thirst ceases, grasping ceases; when grasping ceases, existence ceases; when existence ceases, birth ceases; and when birth ceases, old age and death cease.",
+        "source": "T12n0352_002:0207a26_6"
+    },
+    {
+        "source_sentence": "老死滅憂悲苦惱得滅。",
+        "translation": "The cessation of old age and death, grief, sorrow, pain, and vexation will cease.",
+        "source": "T12n0352_002:0207a28_0"
+    },
+    {
+        "source_sentence": "如是得此一大苦蘊滅。",
+        "translation": "Thus, they attain the cessation of this great aggregate of suffering.",
+        "source": "T12n0352_002:0207a28_1"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a29_2"
+    },
+    {
+        "source_sentence": "若以智觀明無明等無此二相。",
+        "translation": "If we use cognition and contemplation to explain that nescience and so forth lack these two characteristics, then...",
+        "source": "T12n0352_002:0207a29_3"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207a29_4"
+    },
+    {
+        "source_sentence": "此影像中法如實觀察。",
+        "translation": "In this image, the Dharma is observed as it really is.",
+        "source": "T12n0352_002:0207b01_5"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207b02_0"
+    },
+    {
+        "source_sentence": "如是行行滅、如是識識滅、如是名色名色滅、如是六入六入滅、如是觸觸滅、如是受受滅、如是愛愛滅、如是取取滅、如是有有滅、如是生生滅、如是老死老死滅。",
+        "translation": "Thus is the cessation of volition, thus is the cessation of consciousness, thus is the cessation of name form and name form, thus are the cessations of the six sense-fields and six sense-fields, thus are the cessations of touch and touch, thus are the cessations of feeling and sensation, thus are the ces",
+        "source": "T12n0352_002:0207b02_1"
+    },
+    {
+        "source_sentence": "如是智觀生性滅性無二相故。",
+        "translation": "Thus, knowledge observes that the nature of arising and ceasing has no dual characteristics.",
+        "source": "T12n0352_002:0207b05_2"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207b06_3"
+    },
+    {
+        "source_sentence": "離此二相，此說影像中法如實觀察。",
+        "translation": "Being free of these two characteristics, this is called observing the Dharma in images as it really is.",
+        "source": "T12n0352_002:0207b06_4"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207b08_0"
+    },
+    {
+        "source_sentence": "應當正觀影像中法，彼法非空亦非不空。",
+        "translation": "You should correctly observe the dharmas in images, which are neither empty nor nonempty.",
+        "source": "T12n0352_002:0207b08_1"
+    },
+    {
+        "source_sentence": "如是空法，無法相、非無法相，法相即空相、空相即無相、無相即無願。",
+        "translation": "Thus, these dharmas of emptiness have no characteristics that are nonexistent and no characteristics that are not nonexistent, and the characteristics of dharmas are the characteristics of emptiness, the characteristics of emptiness are signlessness, and signlessness is wishlessness.",
+        "source": "T12n0352_002:0207b09_2"
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T12n0352_002:0207b10_3"
+    },
+    {
+        "source_sentence": "無所願作故，無相即空相。",
+        "translation": "Because nothing is wished to be done, the marklessness is the mark of emptiness.",
+        "source": "T12n0352_002:0207b10_4"
+    },
+    {
+        "source_sentence": "如是行者，若法未生不生，法未生故。",
+        "translation": "Such practitioner: If a factor has not arisen yet, it does not arise: because the factor has not arisen yet.",
+        "source": "T12n0352_002:0207b11_5"
+    },
+    {
+        "source_sentence": "如彼法生，彼亦不生，生已謝故。",
+        "translation": "Just as when this factor arises, it also does not arise: because after having arisen, it disappears.",
+        "source": "T12n0352_002:0207b12_6"
+    },
+    {
+        "source_sentence": "如是無生生離取故，法無自性，無性即空。",
+        "translation": "Thus, because nonarising and arising are free of grasping, dharmas lack self-nature, and the absence of nature is emptiness.",
+        "source": "T12n0352_002:0207b13_7"
+    },
+    {
+        "source_sentence": "如是正觀此說影像中法。",
+        "translation": "Thus, this is the correct contemplation that explains the teaching in the images.",
+        "source": "T12n0352_002:0207b14_0"
+    },
+    {
+        "source_sentence": "「復次迦葉！",
+        "translation": "Furthermore, Kāśyapa!",
+        "source": "T12n0352_002:0207b15_0"
+    },
+    {
+        "source_sentence": "補特伽羅非破壞空，即體是空，本非有故。",
+        "translation": "The pudgala does not destroy emptiness, that is to say, its essence is emptiness because it doesn't exist in the first place.",
+        "source": "T12n0352_002:0207b15_1"
+    },
+    {
+        "source_sentence": "非前際空、非後際空，現在即空。」",
+        "translation": "It's not the emptiness of the prior and not the emptiness of the subsequent, and the present is emptiness.",
+        "source": "T12n0352_002:0207b16_2"
+    },
+    {
+        "source_sentence": "迦葉白言：「彼補特伽羅，我今覺悟知彼是空，破壞我故。",
+        "translation": "Kāśyapa said, That pudgala, now that I've awakened to know that it's empty because it destroys self.",
+        "source": "T12n0352_002:0207b16_3"
+    },
+    {
+        "source_sentence": "一切皆空，此法如是。」",
+        "translation": "All things are empty, and so is this teaching.",
+        "source": "T12n0352_002:0207b18_4"
+    },
+    {
+        "source_sentence": "佛言：「迦葉！",
+        "translation": "The Buddha said, Kāśyapa!",
+        "source": "T12n0352_002:0207b18_5"
+    },
+    {
+        "source_sentence": "汝言非也。",
+        "translation": "You say it's not.",
+        "source": "T12n0352_002:0207b18_6"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207b19_7"
+    },
+    {
+        "source_sentence": "寧可見彼補特伽羅如須彌山量，勿得離我而見彼空。",
+        "translation": "It's better to see that pudgala as the size of a mountain, so you can't see its emptiness apart from yourself.",
+        "source": "T12n0352_002:0207b19_8"
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is it so?",
+        "source": "T12n0352_002:0207b20_9"
+    },
+    {
+        "source_sentence": "破我斷空執一切空，我則說為大病，而不可救。」",
+        "translation": "To refute self and cut off emptiness and cling to all emptiness, I'll say it's a great illness that can't be cured.",
+        "source": "T12n0352_002:0207b20_10"
+    },
+    {
+        "source_sentence": "佛告迦葉：「譬如人病，其病深重，而下良藥令彼服行，藥雖入腹病終不差。",
+        "translation": "The Buddha told Kāśyapa, Suppose a person's illness is so deep and serious that he sends down good medicine to cause them to take it, and even though the medicine enters his belly, his illness doesn't go away.",
+        "source": "T12n0352_002:0207b22_0"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207b23_1"
+    },
+    {
+        "source_sentence": "此人得免疾不？」",
+        "translation": "Will this person be freed from illness?",
+        "source": "T12n0352_002:0207b23_2"
+    },
+    {
+        "source_sentence": "迦葉白言：「不也。",
+        "translation": "Kāśyapa said, No.",
+        "source": "T12n0352_002:0207b24_3"
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!",
+        "source": "T12n0352_002:0207b24_4"
+    },
+    {
+        "source_sentence": "佛言：「於意云何？」",
+        "translation": "The Buddha said, What do you think?",
+        "source": "T12n0352_002:0207b24_5"
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "Bhagavān!",
+        "source": "T12n0352_002:0207b25_0"
+    },
+    {
+        "source_sentence": "此人病重故，不可療也。」",
+        "translation": "This person's illness is so serious that they can't be cured.",
+        "source": "T12n0352_002:0207b25_1"
+    },
+    {
+        "source_sentence": "佛言：「迦葉！",
+        "translation": "The Buddha said, Kāśyapa!",
+        "source": "T12n0352_002:0207b25_2"
+    },
+    {
+        "source_sentence": "彼著空者亦復如是，於一切處深著空見，我即不醫。",
+        "translation": "Those who are attached to emptiness are likewise, deeply attached to the view of emptiness in all places, and I'm not a doctor.",
+        "source": "T12n0352_002:0207b25_3"
+    },
+    {
+        "source_sentence": "「譬如重病者，　　令彼服良藥，",
+        "translation": "“Suppose someone with a serious illness causes them to take a good medicine,",
+        "source": "T12n0352_002:0207b27_4"
+    },
+    {
+        "source_sentence": "　雖服病不退，　　彼人不可療。",
+        "translation": "Even though they're sick and don't retreat, those people can't be cured.",
+        "source": "T12n0352_002:0207b27_4"
+    },
+    {
+        "source_sentence": "　著空亦如是，　　於彼一切處，",
+        "translation": "So it is with attachment to emptiness: In all those places,",
+        "source": "T12n0352_002:0207b27_4"
+    },
+    {
+        "source_sentence": "　深著於空見，　　我說不可醫。」",
+        "translation": "They're deeply attached to the view of emptiness, and I say they can't be cured.",
+        "source": "T12n0352_002:0207b27_4"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如愚人觀彼虛空，而生怕怖搥胸悲哭。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, Suppose a foolish man observes space and becomes frightened, beats his chest, and weeps in pity.",
+        "source": "T12n0352_002:0207b27_4"
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T12n0352_002:0207c04_5"
+    },
+    {
+        "source_sentence": "恐虛空落地損害於身。」",
+        "translation": "I'm afraid space will fall and harm my body.",
+        "source": "T12n0352_002:0207c04_6"
+    },
+    {
+        "source_sentence": "佛言：「迦葉！",
+        "translation": "The Buddha said, Kāśyapa!",
+        "source": "T12n0352_002:0207c04_7"
+    },
+    {
+        "source_sentence": "彼虛空能落地不？」",
+        "translation": "Can that space fall down?",
+        "source": "T12n0352_002:0207c05_8"
+    },
+    {
+        "source_sentence": "迦葉云：「不也。」",
+        "translation": "Kāśyapa said, No.",
+        "source": "T12n0352_002:0207c05_9"
+    },
+    {
+        "source_sentence": "佛言：「迦葉！",
+        "translation": "The Buddha said, Kāśyapa!",
+        "source": "T12n0352_002:0207c05_10"
+    },
+    {
+        "source_sentence": "若彼愚迷沙門婆羅門亦復如是，彼聞空法心生驚怖。",
+        "translation": "If those foolish ascetics and priests are likewise, they'll be frightened when they hear the teaching on emptiness.",
+        "source": "T12n0352_002:0207c06_11"
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T12n0352_002:0207c07_12"
+    },
+    {
+        "source_sentence": "若空我大，心依何行用？",
+        "translation": "If emptiness and self are great, what is the function of the mind?",
+        "source": "T12n0352_002:0207c07_13"
+    },
+    {
+        "source_sentence": "「譬如愚迷人，　　於空生怕怖，",
+        "translation": "“It’s like a foolish man Who becomes frightened by emptiness.",
+        "source": "T12n0352_002:0207c08_14"
+    },
+    {
+        "source_sentence": "　悲哭而遠行，　　恐虛空落地。",
+        "translation": "They wailed in pity and traveled far away, afraid that space might fall to them.",
+        "source": "T12n0352_002:0207c08_14"
+    },
+    {
+        "source_sentence": "　虛空無所礙，　　不損於眾生，",
+        "translation": "Space is unobstructed, Not harming sentient beings.",
+        "source": "T12n0352_002:0207c08_14"
+    },
+    {
+        "source_sentence": "　此人自愚迷，　　妄生於驚怖。",
+        "translation": "These people are themselves ignorant and deluded, And they falsely give rise to fear.",
+        "source": "T12n0352_002:0207c08_14"
+    },
+    {
+        "source_sentence": "　沙門婆羅門，　　愚見亦如是，",
+        "translation": "The śramaṇas and brāhmaṇas are likewise ignorant in their views.",
+        "source": "T12n0352_002:0207c08_14"
+    },
+    {
+        "source_sentence": "　聞彼諸法空，　　心生於怖畏，",
+        "translation": "When they hear about the emptiness of all things, their minds become frightened.",
+        "source": "T12n0352_002:0207c08_14"
+    },
+    {
+        "source_sentence": "　若空破壞我，　　依何生受用？」",
+        "translation": "If emptiness destroys self, on what basis will sensation and function arise?",
+        "source": "T12n0352_002:0207c08_14"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如畫師自畫醜惡夜叉，畫已驚怖迷悶仆倒。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, Suppose a painter paints his own picture of an ugly yakṣa and falls down in fear and confusion after he paints it.",
+        "source": "T12n0352_002:0207c08_14"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207c17_15"
+    },
+    {
+        "source_sentence": "彼凡夫眾生亦復如是，自作色聲香味觸法，作已迷彼墮落輪迴。",
+        "translation": "Ordinary sentient beings are likewise, who themselves create form, sound, odor, taste, and tactile dharmas, and after doing so, they're deluded by falling into the cycle of rebirth.",
+        "source": "T12n0352_002:0207c17_16"
+    },
+    {
+        "source_sentence": "「譬如工畫師，　　畫彼惡夜叉，",
+        "translation": "“Suppose a skillful painter paints that bad night-shark,",
+        "source": "T12n0352_002:0207c18_17"
+    },
+    {
+        "source_sentence": "　於彼自驚怖，　　迷悶仆倒地。",
+        "translation": "They were frightened, lost, and tumbled to the ground.",
+        "source": "T12n0352_002:0207c18_17"
+    },
+    {
+        "source_sentence": "　凡夫亦復然，　　自著於聲色，",
+        "translation": "Ordinary people are likewise, attached to sounds and forms for themselves.",
+        "source": "T12n0352_002:0207c18_17"
+    },
+    {
+        "source_sentence": "　迷彼不覺知，　　墮落輪迴道。」",
+        "translation": "If they're deluded and don't perceive it, they'll fall into the path of transmigration.",
+        "source": "T12n0352_002:0207c18_17"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如幻士變作幻化，是彼幻化能變幻士。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, It's like an illusory person transforming into an illusory transformation, and it's that illusory transformation that transforms an illusory person.",
+        "source": "T12n0352_002:0207c18_17"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0207c25_18"
+    },
+    {
+        "source_sentence": "相應行比丘亦復如是，而自發意如是，說一切皆空，彼虛空無實亦能如是說。",
+        "translation": "So it is with the bhikṣus who practice conjoined [the doctrine], but their own aroused minds are like this. They assert that all things are void. The same can be said of space which has no substance:",
+        "source": "T12n0352_002:0207c25_19"
+    },
+    {
+        "source_sentence": "「譬如於幻士，　　能變於幻化，",
+        "translation": "“Suppose an illusionist Is able to transform the illusion into something magical.",
+        "source": "T12n0352_002:0207c27_20"
+    },
+    {
+        "source_sentence": "　而彼幻化人，　　亦能變幻士。",
+        "translation": "And those illusory people can also transform illusory people.",
+        "source": "T12n0352_002:0207c27_20"
+    },
+    {
+        "source_sentence": "　相應行比丘，　　發意亦如是，",
+        "translation": "The same applies to the companion-practicing bhiksu: So it is with the one who arouses mind.",
+        "source": "T12n0352_002:0207c27_20"
+    },
+    {
+        "source_sentence": "　說彼一切空，　　無實空亦說。」",
+        "translation": "It's said that all of them are empty, and it's also said that they lack real emptiness.",
+        "source": "T12n0352_002:0207c27_20"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛告迦葉：「譬如二木相鑽風吹出火，火既生已燒彼二木。",
+        "translation": "Here, I'll now compose a verse, saying, The Buddha told Kāśyapa, It's like when two woods are drilled together and wind blows out fire, and after the fire arises, it burns those two woods.",
+        "source": "T12n0352_002:0207c27_20"
+    },
+    {
+        "source_sentence": "迦葉！",
+        "translation": "Kāśyapa!",
+        "source": "T12n0352_002:0208a04_21"
+    },
+    {
+        "source_sentence": "如實正觀亦復如是，於正見道生彼慧根，慧根既生燒彼正觀。",
+        "translation": "In the path of right view, this faculty of wisdom arises. The faculty of wisdom having arisen, burns up this right attentiveness.",
+        "source": "T12n0352_002:0208a04_22"
+    },
+    {
+        "source_sentence": "「譬如鑽二木，　　風吹生彼火，",
+        "translation": "“Suppose you drill two kinds of wood, and the wind blows to make that fire arise.",
+        "source": "T12n0352_002:0208a05_23"
+    },
+    {
+        "source_sentence": "　火生剎那間，　　而復燒二木。",
+        "translation": "The fire arises momentarily, and then burns two pieces of wood.",
+        "source": "T12n0352_002:0208a05_23"
+    },
+    {
+        "source_sentence": "　正觀亦如是，　　能生於慧根，",
+        "translation": "So it is with right contemplation, which can give rise to the faculty of wisdom.",
+        "source": "T12n0352_002:0208a05_23"
+    },
+    {
+        "source_sentence": "　生彼一剎那，　　還復燒正觀。」",
+        "translation": "If he gives rise to that one moment, he'll again burn the correct contemplation.",
+        "source": "T12n0352_002:0208a05_23"
+    },
+    {
+        "source_sentence": "我今於此而說頌曰：佛說大迦葉問大寶積正法經卷第二",
+        "translation": "Here I now compose a verse: The Buddha taught the Mahākāśyapa-sūtra, Volume 2 of which asks the Mahāprajñāpāramitā.",
+        "source": "T12n0352_002:0208a05_23"
+    }
+]

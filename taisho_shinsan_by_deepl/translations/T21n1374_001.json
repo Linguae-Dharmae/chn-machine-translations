@@ -1,0 +1,3458 @@
+[
+    {
+        "source_sentence": "佛說一切功德莊嚴王經一卷",
+        "translation": "Sutra of the Adorned King of All Merits, One Volume",
+        "source": "T21n1374_001:0890b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唐三藏法師義淨奉　制譯",
+        "translation": "Translation of the Tripiṭaka Dharma Master Yijing Feng",
+        "source": "T21n1374_001:0890b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我聞。",
+        "translation": "Thus I've heard.",
+        "source": "T21n1374_001:0890b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一時薄伽梵。",
+        "translation": "One time, the Bhagavān was in the bamboo grove of Kārttika Pond in Rājagṛha.",
+        "source": "T21n1374_001:0890b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在王舍城羯闌鐸迦池竹林園中。",
+        "translation": "He was in the bamboo grove of Kālīdaka Pond in Rājagṛha.",
+        "source": "T21n1374_001:0890b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與大苾芻眾五百人俱。",
+        "translation": "He was accompanied by a large congregation of 500 monks.",
+        "source": "T21n1374_001:0890b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩千二百人。",
+        "translation": "There were 1,200 bodhisattvas, mahāsattvas, and buddhas.",
+        "source": "T21n1374_001:0890b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆得陀羅尼辯才無滯。",
+        "translation": "They all attained the dhāraṇī of unimpeded eloquence.",
+        "source": "T21n1374_001:0890b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "獲無染智遊無礙境。",
+        "translation": "They attain the undefiled knowledge to travel to an unobstructed realm.",
+        "source": "T21n1374_001:0890b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善權方便攝引眾生。",
+        "translation": "They'll skillfully and expediently guide sentient beings.",
+        "source": "T21n1374_001:0890b29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀察世間。",
+        "translation": "They observe the world.",
+        "source": "T21n1374_001:0890b29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心行平等。",
+        "translation": "Their minds and actions are equal.",
+        "source": "T21n1374_001:0890c01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "饒益慈悲意樂純淨。",
+        "translation": "Their aspirations are pure, and they're enriched by compassion.",
+        "source": "T21n1374_001:0890c01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸佛所甚深妙法悉能諮問。",
+        "translation": "He's able to consult with all the buddhas about their profound and subtle teachings.",
+        "source": "T21n1374_001:0890c01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其名曰慈氏菩薩摩訶薩。",
+        "translation": "He's called the Merciful One bodhisattva-mahāsattva.",
+        "source": "T21n1374_001:0890c02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常勤勇菩薩摩訶薩。",
+        "translation": "He's the Bodhisattva of Constant Diligence and Courage, and he's the Bodhisattva Mahāsa.",
+        "source": "T21n1374_001:0890c03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "平等住菩薩摩訶薩。",
+        "translation": "Equanimously Abiding Bodhisattva Mahāsattva.",
+        "source": "T21n1374_001:0890c03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大慧菩薩摩訶薩。",
+        "translation": "Great Wisdom Bodhisattva Mahāsattva.",
+        "source": "T21n1374_001:0890c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無邊辯菩薩摩訶薩。",
+        "translation": "The Bodhisattva of Limitless Understanding, the Bodhisattva Mahāsattva.",
+        "source": "T21n1374_001:0890c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勇慧菩薩摩訶薩。",
+        "translation": "The Bodhisattva of Courageous Wisdom, the Bodhisattva Mahāsattva.",
+        "source": "T21n1374_001:0890c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自在菩薩摩訶薩。",
+        "translation": "The Bodhisattva of Avalokitêśvara Mahāsattva.",
+        "source": "T21n1374_001:0890c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除疑菩薩摩訶薩。",
+        "translation": "The Bodhisattva of Removing Doubts.",
+        "source": "T21n1374_001:0890c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等諸大菩薩摩訶薩而為上首。",
+        "translation": "These are the great bodhisattvas, the great mahāsattvas, and they're the leaders.",
+        "source": "T21n1374_001:0890c06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "并諸釋梵護世四天王龍神八部。",
+        "translation": "They were joined by the four heavenly kings, the dragons, gods, and the eight orders of the Śākyas and Brahmās who protected the world.",
+        "source": "T21n1374_001:0890c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及諸外道數有六千。",
+        "translation": "There were 6,000 of them and other non-Buddhists.",
+        "source": "T21n1374_001:0890c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各將眷屬悉皆雲集。",
+        "translation": "They all gathered their followers in great numbers.",
+        "source": "T21n1374_001:0890c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此等大眾咸至佛所。",
+        "translation": "All of these people went to the Buddha.",
+        "source": "T21n1374_001:0890c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "禮佛足已右繞三匝。",
+        "translation": "They bowed their heads at the Buddha's feet and circled him three times to his right.",
+        "source": "T21n1374_001:0890c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雨妙天花奏天音樂。",
+        "translation": "They rained down marvelous flowers and played the music of the gods.",
+        "source": "T21n1374_001:0890c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燒眾名香而為供養。",
+        "translation": "They burned multitudes of famous incense and made offerings.",
+        "source": "T21n1374_001:0890c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時大眾咸作是語。",
+        "translation": "At that point, the whole crowd said.",
+        "source": "T21n1374_001:0890c10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善哉善哉如來教法具大威德。",
+        "translation": "\"Good, good! The Tathāgata's teaching is full of great authority.",
+        "source": "T21n1374_001:0890c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有歸信者能斷煩惱。",
+        "translation": "Those who put their trust in it will be able to end affliction.'",
+        "source": "T21n1374_001:0890c11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是語已各坐一面。",
+        "translation": "After making these remarks, they each sat to one side.",
+        "source": "T21n1374_001:0890c12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊入能斷惑離垢三摩地。",
+        "translation": "It was then that the Bhagavān entered the samādhi of being able to cut off affliction and leave defilement behind.",
+        "source": "T21n1374_001:0890c12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入此定時大地即便六種震動。",
+        "translation": "When he entered this concentration, the earth shook in six ways.",
+        "source": "T21n1374_001:0890c13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雨天細末微妙栴檀。",
+        "translation": "It rains down fine, subtle sandalwood from the sky.",
+        "source": "T21n1374_001:0890c14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及妙天花在處彌布。",
+        "translation": "Flowers of fine, subtle sandalwood and marvelous flowers are spread everywhere.",
+        "source": "T21n1374_001:0890c14_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "放大光明周遍世界。",
+        "translation": "They emit a great radiance that spreads throughout the world.",
+        "source": "T21n1374_001:0890c15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸有情墮惡趣者蒙光得脫。",
+        "translation": "If sentient beings fall into a bad destiny, they'll be liberated by the light.",
+        "source": "T21n1374_001:0890c15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦至一切天龍藥叉八部之眾。",
+        "translation": "It also reaches all the gods, dragons, yakṣas, and the eight orders of men.",
+        "source": "T21n1374_001:0890c16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所居宮殿無不明照。",
+        "translation": "There's nothing in their palaces that they don't see illuminated.",
+        "source": "T21n1374_001:0890c17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聞天音樂及天妙香。",
+        "translation": "They hear the music of the gods and the wonderful fragrance of the gods.",
+        "source": "T21n1374_001:0890c17_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸天神見不思議希有事已。",
+        "translation": "After those gods see something inconceivable and rare, they all have this thought.",
+        "source": "T21n1374_001:0890c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆生是念誰作如是殊勝神力。",
+        "translation": "They all have this thought: 'Who did this extraordinary power?'",
+        "source": "T21n1374_001:0890c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令地大動雨天香花。",
+        "translation": "It causes the ground to greatly stir and rains down celestial flowers and fragrances.",
+        "source": "T21n1374_001:0890c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "放大光明照耀宮室。",
+        "translation": "They emitted a great radiance that shone brightly in their palaces.",
+        "source": "T21n1374_001:0890c19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是念已互相告曰。",
+        "translation": "After they had that thought, they told each other.",
+        "source": "T21n1374_001:0890c20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是如來現大威德。",
+        "translation": "\"This is the Tathāgata's manifestation of great authority.",
+        "source": "T21n1374_001:0890c20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非餘天等能有斯瑞。",
+        "translation": "No other gods or goddesses could have produced this kind of vision.",
+        "source": "T21n1374_001:0890c21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等今者應往竹園。",
+        "translation": "Now, we should go to the Bamboo Park.",
+        "source": "T21n1374_001:0890c21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "詣世尊所禮拜供養聽聞妙法。",
+        "translation": "We should go to the Bhagavān, venerate him, make offerings, and listen to the wonderful Dharma.",
+        "source": "T21n1374_001:0890c22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼各持大嗢鉢羅花拘物頭花分陀利花蘇健提花。",
+        "translation": "Each of them carries a large utpala flower, a kovidāra flower, a puṇḍarīka flower, and a sukhāntika flower.",
+        "source": "T21n1374_001:0890c22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曼陀羅華摩訶曼陀羅華。",
+        "translation": "They each carry a large mandāra flower, a mahāmandāra flower, and a mahāmandāra flower.",
+        "source": "T21n1374_001:0890c24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至世尊所頂禮雙足。",
+        "translation": "They go to the Bhagavān and bow their heads with both feet.",
+        "source": "T21n1374_001:0890c24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而為供養雨眾天華。",
+        "translation": "They offered offerings to the gods and rained down flowers.",
+        "source": "T21n1374_001:0890c25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彌滿大地積至于膝。",
+        "translation": "They fill the earth up to their knees.",
+        "source": "T21n1374_001:0890c25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "瞻仰尊顏合掌恭敬復有他方無量菩薩。",
+        "translation": "They looked up at the Bhagavān's face, joined their palms in respect, and there were measureless bodhisattvas from other directions.",
+        "source": "T21n1374_001:0890c26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及執金剛菩薩莊嚴王菩薩。",
+        "translation": "There's also the Vajrasa, the Adorned King Bodhisattva, and a hundred billion gods holding spells.",
+        "source": "T21n1374_001:0890c27_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "并萬億諸天持呪神王。",
+        "translation": "There were also a trillion gods holding spells for the king of gods.",
+        "source": "T21n1374_001:0890c27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見大光明各以威力。",
+        "translation": "Each one sees the great radiance and uses his authority.",
+        "source": "T21n1374_001:0890c28_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作妙莊嚴香華音樂。",
+        "translation": "They each produced a wonderfully ornate scent and flower music.",
+        "source": "T21n1374_001:0890c28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "來至佛所。",
+        "translation": "They all came to the Buddha.",
+        "source": "T21n1374_001:0890c29_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "并諸眷屬皆遶三匝。",
+        "translation": "He and his retinue circled him three times.",
+        "source": "T21n1374_001:0890c29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "虔誠合掌禮佛雙足為供養已。",
+        "translation": "After they sincerely bowed their palms to the Buddha's feet in offering of support, they retired to sit at one side with dignity and decorum.",
+        "source": "T21n1374_001:0890c29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆具威儀退坐一面。",
+        "translation": "They all withdrew to sit at one side with full regalia.",
+        "source": "T21n1374_001:0891a01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時慈氏等諸大菩薩。",
+        "translation": "It was then that Maitreya and the other great bodhisattvas saw the masses of people gathered in clouds.",
+        "source": "T21n1374_001:0891a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見諸大眾皆雲集已。",
+        "translation": "After they saw the large crowd gathered in clouds, they had this thought.",
+        "source": "T21n1374_001:0891a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作如是念我觀大眾咸至佛所。",
+        "translation": "They had this thought: 'I've observed this large crowd come to the Buddha.",
+        "source": "T21n1374_001:0891a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必當演說不可思議殊妙之法。",
+        "translation": "They will surely explain the unfathomably marvelous Dharma.'",
+        "source": "T21n1374_001:0891a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "咸皆寂慮佇聽微言。",
+        "translation": "They all remained calm and collected, listening to the subtle words.",
+        "source": "T21n1374_001:0891a05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時世尊知諸菩薩一切大眾心之所念。",
+        "translation": "The Bhagavān then knew what was on the minds of the bodhisattvas and the entire assembly.",
+        "source": "T21n1374_001:0891a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即從定起告莊嚴王菩薩言。",
+        "translation": "He rose from his meditative state and addressed the Bodhisattva Vairocana King, saying.",
+        "source": "T21n1374_001:0891a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子汝今宜去觀此大地。",
+        "translation": "\"Good sons, it's time for you to go and look at this great land.",
+        "source": "T21n1374_001:0891a07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何所見耶。",
+        "translation": "What do you see?",
+        "source": "T21n1374_001:0891a08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時莊嚴王菩薩承佛教已。",
+        "translation": "After he acknowledged the Buddha's teaching, the Vairocana-rāja Bodhisattva rose from his seat and looked at the earth.",
+        "source": "T21n1374_001:0891a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從座而起即觀大地。",
+        "translation": "He got up from his seat and looked around at the earth.",
+        "source": "T21n1374_001:0891a08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既遍觀已還至佛所。",
+        "translation": "After he had thoroughly contemplated it, he went back to the Buddha.",
+        "source": "T21n1374_001:0891a09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "禮佛雙足在一面立。",
+        "translation": "He bowed his feet to the Buddha and stood to one side.",
+        "source": "T21n1374_001:0891a09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白佛言世尊。",
+        "translation": "He said to the Buddha, \"Bhagavān!",
+        "source": "T21n1374_001:0891a10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我奉佛教觀此大地。",
+        "translation": "\"I've been taught to contemplate this great land.",
+        "source": "T21n1374_001:0891a10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有人天一切大眾普皆雲集唯願慈悲為諸眾生作饒益事。",
+        "translation": "All the gods and all the multitudes of people have gathered in great clouds, wishing only for compassionate works for the benefit of sentient beings.",
+        "source": "T21n1374_001:0891a11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時佛告莊嚴王菩薩言。",
+        "translation": "It was then that the Buddha addressed the Vairocana King Bodhisattva and said.",
+        "source": "T21n1374_001:0891a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝當一心聽我所說我今當與六十四億有緣眾生。",
+        "translation": "\"You must wholeheartedly listen to what I've taught you. Now, I will give 6.4 billion sentient beings with conditions.",
+        "source": "T21n1374_001:0891a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "授無上菩提記。",
+        "translation": "I will confer the mark of unsurpassed enlightenment on 6.4 billion sentient beings with conditions.",
+        "source": "T21n1374_001:0891a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時執金剛菩薩即從座起。",
+        "translation": "It was then that the Vajra-ruling Bodhisattva rose from his seat.",
+        "source": "T21n1374_001:0891a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "合掌向佛白言世尊。",
+        "translation": "He put his palms together and said to the Buddha, \"Bhagavān!",
+        "source": "T21n1374_001:0891a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今有無量億數天龍藥叉及諸羅剎乾闥婆阿蘇羅揭嚕荼緊那羅莫呼洛伽人。",
+        "translation": "\"Now, there are measureless millions of gods, dragons, yakṣas, rājas, gandharvas, asuras, raghulas, kiṃnaras, mahoragas, and non-humans.",
+        "source": "T21n1374_001:0891a16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及非人并諸外道。",
+        "translation": "They're non-humans, non-humans, and non-Buddhists.",
+        "source": "T21n1374_001:0891a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悉皆來集世尊今正是時。",
+        "translation": "They've all come to gather here, Bhagavān, now is the right time.",
+        "source": "T21n1374_001:0891a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願為說一切法功德莊嚴王經能銷一切業障。",
+        "translation": "Please let him teach us that the scripture of the king of merit of all things can remove all karmic hindrances.",
+        "source": "T21n1374_001:0891a19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能滅一切罪苦。",
+        "translation": "It can cease all sins and suffering.",
+        "source": "T21n1374_001:0891a20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能斷一切魔業。",
+        "translation": "It can stop all demonic activity.",
+        "source": "T21n1374_001:0891a20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未信有情令生敬信。",
+        "translation": "It will make sentient beings who aren't yet faithful become respectful and faithful.",
+        "source": "T21n1374_001:0891a20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除去飢饉常得豐樂。",
+        "translation": "It removes hunger and always produces plenty of happiness.",
+        "source": "T21n1374_001:0891a21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "銷諸疾病遠離抂死。",
+        "translation": "It cancels illnesses and frees those who die before it's time.",
+        "source": "T21n1374_001:0891a21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦令有情永除追悔。",
+        "translation": "It also causes sentient beings to be free of regret forever.",
+        "source": "T21n1374_001:0891a22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悉得安隱常受快樂。",
+        "translation": "They'll all attain peace and always experience happiness.",
+        "source": "T21n1374_001:0891a22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊我往昔時曾於電光佛所聽受此經。",
+        "translation": "Bhagavān, there was a time in the past when I heard and received this sūtra from the Buddha of Lightning.",
+        "source": "T21n1374_001:0891a23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "纔得聞已一切妙法皆得現前。",
+        "translation": "After I first heard it, all the wonderful things came to pass.",
+        "source": "T21n1374_001:0891a24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切惡道悉皆關閉所有業障咸得銷除。",
+        "translation": "All bad destinies were shut down, and all karmic hindrances were removed.",
+        "source": "T21n1374_001:0891a24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願慈悲為眾演說。",
+        "translation": "Please be kind and compassionate and explain it for them.",
+        "source": "T21n1374_001:0891a25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是語已世尊默然。",
+        "translation": "After making this statement, the Bhagavān was silent.",
+        "source": "T21n1374_001:0891a26_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時執金剛菩薩。",
+        "translation": "It was then that the Vajrapāṇi Bodhisattva assumed possession of the vajra.",
+        "source": "T21n1374_001:0891a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦復如是再三慇懃勸請為說。",
+        "translation": "He was likewise repeatedly urged and encouraged to explain it.",
+        "source": "T21n1374_001:0891a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告執金剛菩薩言。",
+        "translation": "The Buddha addressed the Vajra-ruler Bodhisattva, saying.",
+        "source": "T21n1374_001:0891a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子汝勿請我說一切法功德莊嚴王經。",
+        "translation": "\"Good sons, don't ask me to teach the Sutra of the Adorned King of Merit of All Dharmas.",
+        "source": "T21n1374_001:0891a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故我若說者。",
+        "translation": "Why is that? If I were to explain it.",
+        "source": "T21n1374_001:0891a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於後惡世當有眾生。",
+        "translation": "In a later bad age, there will be sentient beings who won't be able to believe and accept such words.",
+        "source": "T21n1374_001:0891b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能信受作如是語。",
+        "translation": "They won't be able to believe or accept it and say this.",
+        "source": "T21n1374_001:0891b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經非是如來所說。",
+        "translation": "'This sūtra isn't taught by the Tathāgata.",
+        "source": "T21n1374_001:0891b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦非讚毀此經。",
+        "translation": "Nor does it praise and disparage this sūtra.",
+        "source": "T21n1374_001:0891b02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能招善惡二種之業然彼眾生為慳貪故。",
+        "translation": "It's capable of inviting both good and bad actions, but because of their stinginess and greediness, sentient beings can't respect and offer support to this sūtra.",
+        "source": "T21n1374_001:0891b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能恭敬供養是經。",
+        "translation": "They can't respect and offer support to this sūtra.",
+        "source": "T21n1374_001:0891b03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於說法師亦不親近。",
+        "translation": "They don't get close to the Dharma preacher either.",
+        "source": "T21n1374_001:0891b04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謗毀是經廣興不信。",
+        "translation": "They denigrate the sūtra and promote disbelief.",
+        "source": "T21n1374_001:0891b04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於現世中造眾惡業。",
+        "translation": "In the present life, they create many bad karmas.",
+        "source": "T21n1374_001:0891b05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未來之世墮地獄中受燒然苦。",
+        "translation": "In a future life, they'll be cast into hell and suffer burning pain.'",
+        "source": "T21n1374_001:0891b05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子如此經王。",
+        "translation": "Good sons, this sūtra king is profoundly respectable like a father and mother.",
+        "source": "T21n1374_001:0891b06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "深可尊重猶如父母。",
+        "translation": "He's deeply respectable and like a father and mother.",
+        "source": "T21n1374_001:0891b06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復能滅除諸惡業障。",
+        "translation": "It also removes the hindrances of bad karma.",
+        "source": "T21n1374_001:0891b07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然於五濁惡世。",
+        "translation": "Still, in the five turbid bad times.",
+        "source": "T21n1374_001:0891b07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非是說時亦非聽時。",
+        "translation": "It's not the time to speak or the time to listen.",
+        "source": "T21n1374_001:0891b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故勿當令彼一切外道及諸有情。",
+        "translation": "Why is that? Don't cause all those non-Buddhists and sentient beings to fall into hell, hunger, and the surrounding world to experience suffering.",
+        "source": "T21n1374_001:0891b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮於地獄餓鬼傍生長受諸苦。",
+        "translation": "They'll fall into hell, hunger, ghosts, and the surrounding world and experience suffering.",
+        "source": "T21n1374_001:0891b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此眾生信心闕少。",
+        "translation": "Still, these sentient beings have little faith.",
+        "source": "T21n1374_001:0891b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂著諸欲勤營俗務販賣諍訟。",
+        "translation": "They're addicted to desires, busy with mundane tasks, and engaged in disputes and sales.",
+        "source": "T21n1374_001:0891b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此經典必起謗心。",
+        "translation": "They'll certainly become slanderous about these sūtras.",
+        "source": "T21n1374_001:0891b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此等眾生命終之後。",
+        "translation": "After their lives end, these sentient beings will fall into the eight great hells.",
+        "source": "T21n1374_001:0891b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮八大地獄當受極苦。",
+        "translation": "They'll fall into the eight great hells and experience extreme suffering.",
+        "source": "T21n1374_001:0891b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時眾中有八萬人。",
+        "translation": "It was then that 80,000 people in the crowd rose from their seats and paid homage to the Buddha.",
+        "source": "T21n1374_001:0891b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俱從坐起頂禮佛足。",
+        "translation": "They all got up from their seats and bowed their heads at the Buddha's feet.",
+        "source": "T21n1374_001:0891b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白佛言世尊。",
+        "translation": "They said to the Buddha, \"Bhagavān!",
+        "source": "T21n1374_001:0891b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等深心信是經典。",
+        "translation": "\"We deeply believe in this sūtra.",
+        "source": "T21n1374_001:0891b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊重供養書寫讀誦廣為他說。",
+        "translation": "We respect, make offerings, write, read, and recite it for others to hear.",
+        "source": "T21n1374_001:0891b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有愚人不信此法。",
+        "translation": "If there are foolish people who don't believe in this teaching.",
+        "source": "T21n1374_001:0891b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由慢法故亦當毀罵輕[夌*欠]於我。",
+        "translation": "Because they're conceited about the teaching, they'll also ridicule and despise [Yao*U] for me.",
+        "source": "T21n1374_001:0891b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於爾時悉皆忍受。",
+        "translation": "At that point, I'll tolerate them all.",
+        "source": "T21n1374_001:0891b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "報此經恩終無恨忿。",
+        "translation": "I'll never repay this sūtra's kindness without hatred or anger.",
+        "source": "T21n1374_001:0891b17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願為說殊勝經典。",
+        "translation": "I only wish to teach this extraordinary sūtra for you.",
+        "source": "T21n1374_001:0891b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何此妙經王。",
+        "translation": "Why is that, then, the king of marvelous sūtras?",
+        "source": "T21n1374_001:0891b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於當來世利益眾生如佛無異。",
+        "translation": "In the future, it will benefit sentient beings like the Buddha without distinction.'",
+        "source": "T21n1374_001:0891b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是語已退坐一面。",
+        "translation": "After he said this, he withdrew and sat to one side.",
+        "source": "T21n1374_001:0891b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "執金剛菩薩白佛言。",
+        "translation": "The Vajrapāṇi Bodhisattva said to the Buddha.",
+        "source": "T21n1374_001:0891b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊云何菩薩摩訶薩求善知識。",
+        "translation": "\"Bhagavān, how does a bodhisattva seek a good teacher?",
+        "source": "T21n1374_001:0891b20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子。",
+        "translation": "The Buddha said, \"Good sons.",
+        "source": "T21n1374_001:0891b20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "求善知識應當如是成就四法。",
+        "translation": "'Seeking a good teacher should thus fulfill four things.'",
+        "source": "T21n1374_001:0891b21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者數往請問。",
+        "translation": "One, you should frequently go to them to ask questions.",
+        "source": "T21n1374_001:0891b21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者起精勤心。",
+        "translation": "Two, he produces an attitude of diligence.",
+        "source": "T21n1374_001:0891b22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者意樂清淨。",
+        "translation": "Three, his intentions are purified.",
+        "source": "T21n1374_001:0891b22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者尊重愛法。",
+        "translation": "Four, respect and love the Dharma.",
+        "source": "T21n1374_001:0891b22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "執金剛菩薩白佛言。",
+        "translation": "The Vajra-wielding bodhisattva said to the Buddha.",
+        "source": "T21n1374_001:0891b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊云何菩薩住阿蘭若。",
+        "translation": "\"Bhagavān, how does a bodhisattva abide in a forest?",
+        "source": "T21n1374_001:0891b23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子成就四法住阿蘭若。",
+        "translation": "The Buddha said, \"Good sons, they've accomplished four things while abiding in a forest.",
+        "source": "T21n1374_001:0891b24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者捨離俗家。",
+        "translation": "One, he abandons his secular home.",
+        "source": "T21n1374_001:0891b25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者遠惡知識。",
+        "translation": "Two, he avoids bad friends.",
+        "source": "T21n1374_001:0891b25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者盡捨財物。",
+        "translation": "Three, he completely disposes of his possessions.",
+        "source": "T21n1374_001:0891b25_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者常攝自心。",
+        "translation": "The fourth is to always control one's own mind.",
+        "source": "T21n1374_001:0891b26_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時觀自在菩薩白佛言。",
+        "translation": "It was then that the Bodhisattva Kāraṇḍinya said to the Buddha.",
+        "source": "T21n1374_001:0891b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊我不見有聞此經人墮惡趣者。",
+        "translation": "\"Bhagavān, I don't see anyone who hears this sūtra who falls into a bad destiny.",
+        "source": "T21n1374_001:0891b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊此經有大威德難可思量。",
+        "translation": "Bhagavān, this sūtra has great authority that's hard to fathom.",
+        "source": "T21n1374_001:0891b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊若有暫聞此經禮拜讚歎供養恭敬獲無量福。",
+        "translation": "Bhagavān, if someone hears this sūtra for a moment and venerates it, praises it, makes offerings, and pays respect to it, they'll receive measureless merit.",
+        "source": "T21n1374_001:0891b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何況書寫讀誦受持。",
+        "translation": "How much more so when it's written, recited, memorized, and upheld.",
+        "source": "T21n1374_001:0891c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種香花而為供養。",
+        "translation": "He offers it up with various kinds of flowers and incense.",
+        "source": "T21n1374_001:0891c01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及說法師以衣食等而為供養。",
+        "translation": "He also teaches the Dharma teacher to make offerings with clothing, food, and so forth.",
+        "source": "T21n1374_001:0891c02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是之人一切諸佛。",
+        "translation": "Such a person is supported by all the buddhas.",
+        "source": "T21n1374_001:0891c02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共所護念為其授記。",
+        "translation": "They will all guard and remember him and give him assurance of future birth.",
+        "source": "T21n1374_001:0891c03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當得往生安樂世界。",
+        "translation": "He'll be reborn in the world of paradise.",
+        "source": "T21n1374_001:0891c03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是法師與佛無異。",
+        "translation": "Such a teacher of the Dharma is no different from a Buddha.",
+        "source": "T21n1374_001:0891c04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善哉善哉善男子。",
+        "translation": "The Buddha said, \"Good, good, good man!",
+        "source": "T21n1374_001:0891c04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我亦供養如是法師亦為授記。",
+        "translation": "'I'll also make offerings to such a teacher of the Dharma and give him a prediction.",
+        "source": "T21n1374_001:0891c05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當得生於安樂世界速趣菩提。",
+        "translation": "They will then be born in the world of peace and happiness and quickly proceed to enlightenment.'",
+        "source": "T21n1374_001:0891c06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若復有人於諸佛所及此經典。",
+        "translation": "\"Suppose another person goes to one of the buddha-places and this sūtra.",
+        "source": "T21n1374_001:0891c06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊重恭敬已。",
+        "translation": "After honoring and venerating them.",
+        "source": "T21n1374_001:0891c07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "妙香花塗香末香。",
+        "translation": "He puts on a wonderful scent, flowers, coats, and powdered incense.",
+        "source": "T21n1374_001:0891c07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "衣服瓔珞種種音樂。",
+        "translation": "They wear robes, mourning, and various kinds of music.",
+        "source": "T21n1374_001:0891c08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幢蓋繒旛而供養者。",
+        "translation": "He makes offerings with banners, shrouds, and silken banners.",
+        "source": "T21n1374_001:0891c08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此人終無非時橫死。",
+        "translation": "That person will never die untimely and illegally.",
+        "source": "T21n1374_001:0891c09_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有怨賊兵戰之怖。",
+        "translation": "There'll be no enemies, thieves, or the fear of battle.",
+        "source": "T21n1374_001:0891c09_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦無父母妻子眷屬朋友知識憂慼之苦。",
+        "translation": "Nor will he suffer the grief of his parents, wife, retinue, friends, and acquaintances.",
+        "source": "T21n1374_001:0891c10_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有所希求無不遂意。",
+        "translation": "Whatever he desires, it won't be possible for him to get what he wants.",
+        "source": "T21n1374_001:0891c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子諸佛出世。",
+        "translation": "Good sons, the buddhas appear in the world.",
+        "source": "T21n1374_001:0891c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其事甚難。",
+        "translation": "That's a very difficult thing to do.",
+        "source": "T21n1374_001:0891c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得聞是經更難於彼。",
+        "translation": "It's even more difficult for them to hear this sūtra.",
+        "source": "T21n1374_001:0891c12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若斯經典所在之處。",
+        "translation": "Suppose this is where a scripture is located.",
+        "source": "T21n1374_001:0891c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "城邑聚落蘭若林中及餘住處。",
+        "translation": "In cities, towns, villages, forests, and other dwelling places.",
+        "source": "T21n1374_001:0891c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知此地即是諸佛世尊之所攝受。",
+        "translation": "You should know that this place is where the buddhas and world-honored ones are collected.",
+        "source": "T21n1374_001:0891c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時執金剛菩薩白佛言世尊。",
+        "translation": "It was then that the Vajra-ruler Bodhisattva said to the Buddha, \"Bhagavān!",
+        "source": "T21n1374_001:0891c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自在菩薩者。",
+        "translation": "\"The bodhisattva Avalokitêśvara!",
+        "source": "T21n1374_001:0891c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以何因緣名觀自在。",
+        "translation": "What are the causes and conditions that give rise to the name Avalokitêśvara?",
+        "source": "T21n1374_001:0891c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊告曰。",
+        "translation": "The Bhagavān told him.",
+        "source": "T21n1374_001:0891c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常以淨眼觀察世間所有眾生。",
+        "translation": "\"He always observes all the sentient beings of the world with the pure eye.",
+        "source": "T21n1374_001:0891c16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慰喻成熟慈悲利益便得安隱。",
+        "translation": "They are comforted by metaphors, matured by compassion, and benefited by attaining peace.",
+        "source": "T21n1374_001:0891c17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若稱名者有所願求咸令滿足。",
+        "translation": "If someone who calls them by that name has a wish or request, it's fulfilled.",
+        "source": "T21n1374_001:0891c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣名觀自在。",
+        "translation": "This is the reason they're called Avalokitêśvara.",
+        "source": "T21n1374_001:0891c18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復白佛言。",
+        "translation": "Again, he said to the Buddha.",
+        "source": "T21n1374_001:0891c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有眾生但稱觀自在菩薩名者。",
+        "translation": "\"Suppose there are sentient beings who simply call the Bodhisattva Avalokitêśvara by name.",
+        "source": "T21n1374_001:0891c19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尚得滿足所求之事。",
+        "translation": "They'll still be able to fulfill what they seek.",
+        "source": "T21n1374_001:0891c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何況有人供養如來及此經典。",
+        "translation": "How could it be possible for someone to make offerings to the Tathāgata and this sūtra?",
+        "source": "T21n1374_001:0891c20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "書寫讀誦廣為他說。",
+        "translation": "He writes, reads, recites, and teaches them to others.",
+        "source": "T21n1374_001:0891c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "衣服香花而為供養。",
+        "translation": "They make offerings with clothing, scents, and flowers.",
+        "source": "T21n1374_001:0891c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此人得福無量無邊。",
+        "translation": "That person's merits would be immeasurable and limitless.",
+        "source": "T21n1374_001:0891c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自在菩薩白佛言。",
+        "translation": "The Bodhisattva of Spontaneous Contemplation said to the Buddha.",
+        "source": "T21n1374_001:0891c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊此經大有威德能作佛事。",
+        "translation": "\"Bhagavān, this sūtra is so authoritative and powerful that it can do Buddha-works.",
+        "source": "T21n1374_001:0891c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願世尊更為哀愍諸眾生故。",
+        "translation": "Please let the Bhagavān take pity on all sentient beings.",
+        "source": "T21n1374_001:0891c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為說陀羅尼呪。",
+        "translation": "Explain the dhāraṇī spell for them.",
+        "source": "T21n1374_001:0891c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子有陀羅尼。",
+        "translation": "The Buddha said, \"Good sons, there's a dhāraṇī.",
+        "source": "T21n1374_001:0891c25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名曰勝妙。",
+        "translation": "It's called 'excellent.'",
+        "source": "T21n1374_001:0891c25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我昔為菩薩時。",
+        "translation": "When I was a bodhisattva in the past.",
+        "source": "T21n1374_001:0891c25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於勝妙世界妙音佛所。",
+        "translation": "I was at the Sumeru-Mega World's Sumeru-Voice Buddha.",
+        "source": "T21n1374_001:0891c26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與諸大眾共聞此陀羅尼呪。",
+        "translation": "We heard this dhāraṇī together with the great assembly.",
+        "source": "T21n1374_001:0891c26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既受得已證十地法。",
+        "translation": "Once I received it, I realized the Dhāraṇī of the tenth ground.",
+        "source": "T21n1374_001:0891c27_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量眾生悉皆獲得無生法忍。",
+        "translation": "Measureless sentient beings all attained the patience of the nonarising of the Dharma.",
+        "source": "T21n1374_001:0891c27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時會中諸菩薩眾。",
+        "translation": "At that point, a large group of bodhisattvas rose from their seats and said to the Buddha.",
+        "source": "T21n1374_001:0891c28_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆從坐起白佛言世尊唯願慈哀憐愍。",
+        "translation": "They all got up from their seats and said to the Buddha, \"Bhagavān, please have compassion and mercy on us.",
+        "source": "T21n1374_001:0891c29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等說此陀羅尼呪。",
+        "translation": "We will recite this dhāraṇī spell.",
+        "source": "T21n1374_001:0892a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊以梵音聲。",
+        "translation": "At that point, the Bhagavān spoke with the voice of Brahmā.",
+        "source": "T21n1374_001:0892a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即說呪曰。",
+        "translation": "He then spoke the dhāraṇī in the voice of Brahmā, saying.",
+        "source": "T21n1374_001:0892a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "怛姪他　逝也逝也　逝耶縛訶(上)佉縛訶　逝也縛訶　忽魯忽魯鉢頭摩(引聲)薜阿婆麼梵謎薩囉薩唎泥(去)地哩地哩　地囉地哩提婆[多*頁]鉢利波唎泥(去)瑜陀嗢多[口*束*頁]儞鉢囉斫羯囉儞婆[口*束*頁]儞脯[口*束*頁]也婆伽梵我名某甲由佛加護一切所求咸願圓滿一切罪業皆悉銷除　莎訶佛言善男子此勝妙陀羅尼呪。",
+        "translation": "怛姪他　逝也逝也　逝耶縛訶(上)佉縛訶　逝也縛訶　忽魯忽魯鉢頭摩(引聲)薜阿婆麼梵謎薩囉薩唎泥(去)地哩地哩　地囉地哩提婆[多*頁]鉢利波唎泥(去)瑜陀嗢多[口*束*頁]儞鉢囉斫羯囉儞婆[口*束*頁]儞脯[口*束*頁]也婆伽梵我名某甲由佛加護一切所求咸願圓滿一切罪業皆悉銷除　莎訶佛言善男子此勝妙陀羅尼呪。",
+        "source": "T21n1374_001:0892a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能除一切罪障。",
+        "translation": "It can remove all the hindrances of sins.",
+        "source": "T21n1374_001:0892a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能摧伏他軍。",
+        "translation": "It can subdue other armies.",
+        "source": "T21n1374_001:0892a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "永無飢饉疾疫災難病苦之事。",
+        "translation": "It will never cause famine, epidemics, disasters, hardships, or illnesses.",
+        "source": "T21n1374_001:0892a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常能豐饒倉廩盈溢增益壽命。",
+        "translation": "It always produces an abundant storehouse and an overflowing life span.",
+        "source": "T21n1374_001:0892a12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此陀羅尼呪是諸佛母。",
+        "translation": "This dhāraṇī spell is the mother of all buddhas.",
+        "source": "T21n1374_001:0892a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有善男子善女人。",
+        "translation": "Suppose there are good men and good women.",
+        "source": "T21n1374_001:0892a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信心頂禮恭敬供養。",
+        "translation": "Make offerings with faith, prostration, respect, and veneration.",
+        "source": "T21n1374_001:0892a13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "書寫讀誦受持此經。",
+        "translation": "They write, read, recite, and memorize this sūtra.",
+        "source": "T21n1374_001:0892a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦復供養持經法師。",
+        "translation": "He also makes offerings to the Dharma teacher who upholds the sūtra.",
+        "source": "T21n1374_001:0892a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此人業障皆得消滅不遭橫死。",
+        "translation": "That person's karmic hindrances will all be extinguished, and he won't experience sudden death.",
+        "source": "T21n1374_001:0892a15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於現身中常受歡樂。",
+        "translation": "In his present body, he'll always experience happiness.",
+        "source": "T21n1374_001:0892a15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "父母妻子朋友眷屬悉皆安隱。",
+        "translation": "His parents, wife, friends, and retinue are all peaceful.",
+        "source": "T21n1374_001:0892a16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有願求無不遂意。",
+        "translation": "Whatever he wishes, none of his desires are fulfilled.",
+        "source": "T21n1374_001:0892a17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "執金剛菩薩復白佛言。",
+        "translation": "Again, the Vajra-wielding Bodhisattva said to the Buddha.",
+        "source": "T21n1374_001:0892a17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊我亦敬心持是經典。",
+        "translation": "\"Bhagavān, I also respectfully maintain this sūtra.",
+        "source": "T21n1374_001:0892a18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若復有人以妙香花并諸飲食。",
+        "translation": "Suppose another person offers this sūtra and the Dharma teacher flowers of fine incense and food.",
+        "source": "T21n1374_001:0892a18_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "供養此經及法師者。",
+        "translation": "I'll follow suit and make offerings with my heart to this sūtra and Dharma teacher.",
+        "source": "T21n1374_001:0892a19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我亦隨喜用心供養此經。",
+        "translation": "I'll also follow suit and wholeheartedly make offerings to this sūtra.",
+        "source": "T21n1374_001:0892a19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在其國土王及諸人我皆擁護。",
+        "translation": "I'll protect the king and all the people in his land.",
+        "source": "T21n1374_001:0892a20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令離衰惱所求遂願。",
+        "translation": "I'll make them free from misery and fulfill their desires.",
+        "source": "T21n1374_001:0892a21_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊我今發起勇猛之心。",
+        "translation": "Bhagavān, I now arouse a courageous intention.",
+        "source": "T21n1374_001:0892a21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為彼國王及信受者。",
+        "translation": "For the king of that country and those who believe and accept it.",
+        "source": "T21n1374_001:0892a22_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦為宣說陀羅尼呪而為擁護。",
+        "translation": "I'll also explain the dhāraṇī spell for them and give them my support.",
+        "source": "T21n1374_001:0892a22_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子。",
+        "translation": "The Buddha said, \"Good man.",
+        "source": "T21n1374_001:0892a23_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝能為諸眾生利益安樂說陀羅尼我當隨喜。",
+        "translation": "'I will delight in your ability to expound the dhāraṇī for the benefit and welfare of sentient beings.'",
+        "source": "T21n1374_001:0892a23_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時執金剛菩薩。",
+        "translation": "It was then that the Vajrapāṇi Bodhisattva took possession of the Dhāraṇī.",
+        "source": "T21n1374_001:0892a24_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以佛神力所加持故。",
+        "translation": "It was because of the Buddha's spiritual power that he supported him.",
+        "source": "T21n1374_001:0892a25_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說此陀羅尼呪。",
+        "translation": "He spoke this dhāraṇī spell.",
+        "source": "T21n1374_001:0892a25_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "南麼薩婆勃陀　怛他揭多喃(引)南麼阿彌多婆也　怛他揭多也　南麼薩婆菩提薩埵喃(引)南麼薩婆莫喝地雞弊(毘也反)怛姪他虎呼謎　虎呼謎　末底莫訶末底　跋折囉末底　姪栗茶跋折囉末底　怛他揭多　阿奴鉢哩婆利帝　薩囉薩囉　阿瑜目企　苾哩俱[打-丁+致]　毘俱多目企　訖栗閉　訖栗波　鹿計　薩帝(丁也反)阿奴颯末囉薄伽梵跛折囉波儞薩婆波跛羯麼賚也我某甲(自稱己名)所有願求皆得遂意當與我願以佛陀實語達摩實語菩薩實語聲聞實語莎訶世尊若復有人欲入菩薩地願見諸如來樂生淨土。",
+        "translation": "\"Nan mosaprabhūta, tathāgatagarbha, tathāgatagarbha, nan mosaprabhūta, bodhisattva, tathāgatagarbha, nan mosaprabhūta, mahāmati, mahāmati, vajrarā mati, mleccha, vajrarā mati, tathāgata, anupalipṛthi, sarasāra, ayurveda, bhrigupta, vikuta, kṛmi, kṛpi, kṛpi, sādi (dinyā), anusāsamālā, bhagavān, lazeraprabhāsa, svāpabhāsa, lamekamāra, and I. I wish that all my vows and desires will be fulfilled, and I will grant them to him.",
+        "source": "T21n1374_001:0892a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及希富貴財寶豐盈無病延壽者。",
+        "translation": "They want to be rich and prosperous, have an abundance of wealth and possessions, be without illness, and have a long life.",
+        "source": "T21n1374_001:0892b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應當持此微妙經典及以法師。",
+        "translation": "They should memorize this subtle sūtra and use a teacher of the Dharma.",
+        "source": "T21n1374_001:0892b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "書寫讀誦香花伎樂。",
+        "translation": "They should write, read, recite, scent, flower, and play music.",
+        "source": "T21n1374_001:0892b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "衣服飲食繒蓋幢幡而為供養。",
+        "translation": "They should make offerings of clothing, food, drink, silken canopies, banners, and streamers.",
+        "source": "T21n1374_001:0892b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是之人我當擁護所求願滿當起愛念猶如一子。",
+        "translation": "Such a person will be supported by me, and the fulfillment of his or her vows will be cherished as if he or she were a son.",
+        "source": "T21n1374_001:0892b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊若復有人稟性癡鈍欲求聰明。",
+        "translation": "Bhagavān, suppose there's another person who's dull and stupid by nature and wants to be intelligent.",
+        "source": "T21n1374_001:0892b12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及護國土令與無疾疫者。",
+        "translation": "They want to protect their land so that it won't become disease-free.",
+        "source": "T21n1374_001:0892b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當於白月八日起首。",
+        "translation": "He must begin on the eighth day of the white moon.",
+        "source": "T21n1374_001:0892b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一日斷食念誦此呪。",
+        "translation": "For one day, he cuts off food and recites this dhāraṇī.",
+        "source": "T21n1374_001:0892b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至十五日乃至月盡。",
+        "translation": "From fifteen days until the end of the month, he'll eat only three kinds of white food.",
+        "source": "T21n1374_001:0892b15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中唯食三種白食。",
+        "translation": "During that time, he'll eat only three kinds of white food.",
+        "source": "T21n1374_001:0892b15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂白餅乳酪。",
+        "translation": "They are white bread and milk cheese.",
+        "source": "T21n1374_001:0892b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨澡浴誦此神呪滿十萬遍。",
+        "translation": "Take a clean bath and recite this dhāraṇī up to 100,000 times.",
+        "source": "T21n1374_001:0892b16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有力者滿三十萬遍常可隨力供養三寶。",
+        "translation": "If he has the strength to recite it 300,000 times, he can always make offerings to the Three Treasures according to his strength.",
+        "source": "T21n1374_001:0892b17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次令畫師受八戒齋。",
+        "translation": "Next, he asks the painter to accept the eight precepts.",
+        "source": "T21n1374_001:0892b18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身衣淨潔而畫其像。",
+        "translation": "He paints his portrait with his body clean and clothed.",
+        "source": "T21n1374_001:0892b18_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於其鋪中安釋迦佛像。",
+        "translation": "He places an image of Śākyamuni Buddha in his bunk.",
+        "source": "T21n1374_001:0892b19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處師子座作說法儀。",
+        "translation": "He'll sit at his lion's seat and explain the rituals of the Dharma.",
+        "source": "T21n1374_001:0892b19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右邊安觀自在菩薩。",
+        "translation": "To his right, he placed the Bodhisattva Avalokitêśvara.",
+        "source": "T21n1374_001:0892b20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以諸嚴具而莊飾之。",
+        "translation": "He adorned it with an array of ornaments.",
+        "source": "T21n1374_001:0892b20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於蓮花上立身有四臂。",
+        "translation": "He's standing on a lotus flower with four arms.",
+        "source": "T21n1374_001:0892b21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右邊上手執梵本經。",
+        "translation": "In his upper right hand, he's holding a copy of the Sanskrit sūtra.",
+        "source": "T21n1374_001:0892b21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下手執數珠。",
+        "translation": "In his lower hand, he holds several pearls.",
+        "source": "T21n1374_001:0892b22_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "左邊上手執白蓮花。",
+        "translation": "On the left, he holds a white lotus flower in his upper hand.",
+        "source": "T21n1374_001:0892b22_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下手把君持。",
+        "translation": "In his lower hand, he holds the ruler in his hand.",
+        "source": "T21n1374_001:0892b22_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "左邊安執金剛神。",
+        "translation": "On the left, he's holding the vajra deity.",
+        "source": "T21n1374_001:0892b23_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右手執金剛杵。",
+        "translation": "In his right hand, he holds a vajra pounder.",
+        "source": "T21n1374_001:0892b23_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "左手遙承杵頭。",
+        "translation": "With his left hand, he holds the head of the pounder in his distance.",
+        "source": "T21n1374_001:0892b23_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顏貌和悅瓔珞嚴身。",
+        "translation": "His features are pleasant, and his body is adorned with jewelry.",
+        "source": "T21n1374_001:0892b24_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於其四邊安護世四天王。",
+        "translation": "On each side, he's placed the four heavenly guardian kings.",
+        "source": "T21n1374_001:0892b24_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此等尊像皆以繒帶。",
+        "translation": "Each of these images is covered with a silken ribbon.",
+        "source": "T21n1374_001:0892b25_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盛佛舍利刺在身中。",
+        "translation": "They carry the Buddha's relics in their bodies and are pierced.",
+        "source": "T21n1374_001:0892b25_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次於像前可作一壇隨時大小。",
+        "translation": "Next, a stand of any size can be built in front of the image.",
+        "source": "T21n1374_001:0892b26_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四面開門。",
+        "translation": "It has open doors on all sides.",
+        "source": "T21n1374_001:0892b26_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以牛糞塗拭。",
+        "translation": "It's smeared with cow-dung and wiped with it.",
+        "source": "T21n1374_001:0892b27_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種香花散布其上。",
+        "translation": "Various kinds of flowers and incense are scattered on it.",
+        "source": "T21n1374_001:0892b27_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "香鑪五具別然五香。",
+        "translation": "The five incense stoves are equipped with five separate fragrances.",
+        "source": "T21n1374_001:0892b27_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂沈檀蘇合安息熏陸。",
+        "translation": "They are called shendang, suhe, and aniruddha.",
+        "source": "T21n1374_001:0892b28_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於壇四門各安兩瓶。",
+        "translation": "At each of the four entrances to the altar, two vials are placed.",
+        "source": "T21n1374_001:0892b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或盛清水或復盛乳。",
+        "translation": "Some may be filled with clear water, and some may be filled with milk.",
+        "source": "T21n1374_001:0892b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燈盞十六隨處安置。",
+        "translation": "Sixteen lamps and lanterns are placed in various places.",
+        "source": "T21n1374_001:0892b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "懸繒旛蓋及眾音樂。",
+        "translation": "A silken banner is hung, and there's music.",
+        "source": "T21n1374_001:0892c01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "香水灑地香花飲食而為供養。",
+        "translation": "Perfume is sprinkled on the ground, and flowers, food, and drink are offered as offerings.",
+        "source": "T21n1374_001:0892c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於壇四角令人讀誦此經。",
+        "translation": "At the four corners of the altar, people read and recite this sūtra.",
+        "source": "T21n1374_001:0892c02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各各澡浴著鮮淨衣食三白食。",
+        "translation": "Each one washes and bathes, puts on fresh and clean clothing, and eats the three white foods.",
+        "source": "T21n1374_001:0892c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其所為人置花手中。",
+        "translation": "They place flowers in the hands of the person for whom they're making the offering.",
+        "source": "T21n1374_001:0892c03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼合掌說所求事。",
+        "translation": "They fold their palms and tell them what they're asking for.",
+        "source": "T21n1374_001:0892c04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起慈念心隨情發願以花散佛。",
+        "translation": "They then arouse a mindfulness of kindness and follow their heart's desire to scatter flowers to the Buddha.",
+        "source": "T21n1374_001:0892c04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有所願者皆得從心。",
+        "translation": "Anyone who wishes for it will have their wish complied with.",
+        "source": "T21n1374_001:0892c05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於七日中我當為現殊勝相狀。",
+        "translation": "In seven days, I will show them extraordinary appearances.",
+        "source": "T21n1374_001:0892c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令見好夢共其言語。",
+        "translation": "I'll cause them to see a good dream and share my words with them.",
+        "source": "T21n1374_001:0892c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滿彼求心除不信者。",
+        "translation": "Fulfilling their minds with seeking, I'll remove those who don't believe.",
+        "source": "T21n1374_001:0892c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善哉善哉。",
+        "translation": "The Buddha said, \"Good, good!",
+        "source": "T21n1374_001:0892c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝能愍諸有情說此呪法。",
+        "translation": "You can speak this dhāraṇī for the sake of sentient beings.",
+        "source": "T21n1374_001:0892c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時觀自在菩薩。",
+        "translation": "It was then that the Bodhisattva of Spontaneous Contemplation spoke to the Vajra-ruler Bodhisattva.",
+        "source": "T21n1374_001:0892c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "告執金剛菩薩言。",
+        "translation": "He told the bodhisattva holding the vajra, \"This wonderful sūtra is difficult to encounter.",
+        "source": "T21n1374_001:0892c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此妙經典難可值遇。",
+        "translation": "\"This wonderful scripture is difficult to encounter.",
+        "source": "T21n1374_001:0892c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "薄福眾生於其國內。",
+        "translation": "Weakly endowed sentient beings within their own countries.",
+        "source": "T21n1374_001:0892c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有此經不能得見。",
+        "translation": "Even though they have this sūtra, they can't see it.",
+        "source": "T21n1374_001:0892c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦復不能書寫讀誦聽聞受持。",
+        "translation": "They also can't write it, read it, recite it, hear it, or uphold it.",
+        "source": "T21n1374_001:0892c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故由有惡魔為障礙故。",
+        "translation": "Why is that? Because there are harmful demons as obstacles.",
+        "source": "T21n1374_001:0892c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次善男子若有眾生。",
+        "translation": "\"Furthermore, good sons, if there are sentient beings who write, read, and recite this sūtra, then they won't be able to see it.",
+        "source": "T21n1374_001:0892c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "書寫讀誦此經典時。",
+        "translation": "When they write, read, and recite this sūtra, there are four evil demons that disturb them.",
+        "source": "T21n1374_001:0892c13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有四惡魔而為惱亂。",
+        "translation": "There are four bad demons that cause disruption.",
+        "source": "T21n1374_001:0892c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為四。",
+        "translation": "What are the four?",
+        "source": "T21n1374_001:0892c14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者情生懈怠。",
+        "translation": "One, their emotions become lazy.",
+        "source": "T21n1374_001:0892c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者起不信心。",
+        "translation": "Two, they become unfaithful.",
+        "source": "T21n1374_001:0892c14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者於法師處不生尊重。",
+        "translation": "Three, they don't respect the Dharma teacher.",
+        "source": "T21n1374_001:0892c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者心不能定。",
+        "translation": "Four, their minds aren't able to concentrate.",
+        "source": "T21n1374_001:0892c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此人即應知是魔事。",
+        "translation": "That person should know that this is a demonic act.",
+        "source": "T21n1374_001:0892c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有四種惡魔之業。",
+        "translation": "\"There are four more kinds of evil demonic actions.",
+        "source": "T21n1374_001:0892c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為四。",
+        "translation": "What are the four?",
+        "source": "T21n1374_001:0892c16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者遠離善知識。",
+        "translation": "One, he's removed from good teachers.",
+        "source": "T21n1374_001:0892c17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者不如理作意。",
+        "translation": "Two, he doesn't contemplate correctly.",
+        "source": "T21n1374_001:0892c17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者不解文字。",
+        "translation": "Three doesn't understand words.",
+        "source": "T21n1374_001:0892c17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者唯見現在言無未來。",
+        "translation": "Four, they only see the present and say there's no future.",
+        "source": "T21n1374_001:0892c18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "造諸惡業心無怖懼說無因果。",
+        "translation": "He creates bad actions, has no fear in his mind, and explains that there's no cause and effect.",
+        "source": "T21n1374_001:0892c18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我說者是餘皆非法。",
+        "translation": "I say this, and the rest are unlawful.",
+        "source": "T21n1374_001:0892c19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂營俗務貪染所纏。",
+        "translation": "They enjoy engaging in worldly pursuits and are tethered by craving and defilement.",
+        "source": "T21n1374_001:0892c20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是眾生當墮地獄。",
+        "translation": "Such sentient beings will fall into hell.",
+        "source": "T21n1374_001:0892c20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經無數劫受大苦惱。",
+        "translation": "They'll pass through countless eons and experience great suffering and distress.",
+        "source": "T21n1374_001:0892c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次有四種魔云何為四。",
+        "translation": "\"Furthermore, what are the four kinds of Māra?",
+        "source": "T21n1374_001:0892c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者貪著財物。",
+        "translation": "One is addiction to possessions.",
+        "source": "T21n1374_001:0892c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者觀近惡友。",
+        "translation": "Two, they look at people who are close to them and have bad friends.",
+        "source": "T21n1374_001:0892c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者障礙法師。",
+        "translation": "Three, they obstruct the Dharma teacher.",
+        "source": "T21n1374_001:0892c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者於法師說陳其罪過。",
+        "translation": "Four, they tell the Dharma teacher about their faults.",
+        "source": "T21n1374_001:0892c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是等眾生由此業故當受貧窮。",
+        "translation": "As a result of these sentient beings' actions, they'll be impoverished.",
+        "source": "T21n1374_001:0892c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不見善友遠離尊師。",
+        "translation": "They don't see good friends and distance themselves from venerable teachers.",
+        "source": "T21n1374_001:0892c24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作邪見想說無因果。",
+        "translation": "They develop wrong views and conceptions that teach about the lack of cause and effect.",
+        "source": "T21n1374_001:0892c25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮於地獄受諸劇苦。",
+        "translation": "They'll fall into hell and experience terrible suffering.",
+        "source": "T21n1374_001:0892c25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告大眾我今再三實言告汝。",
+        "translation": "The Buddha told the crowd, \"Now, I'll tell you again and again in truth.",
+        "source": "T21n1374_001:0892c26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勿為放逸輕此經典。",
+        "translation": "'Don't despise this sūtra for your own indulgence.",
+        "source": "T21n1374_001:0892c27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一心信受莫生誹謗。",
+        "translation": "Wholeheartedly believe it and don't denigrate it.",
+        "source": "T21n1374_001:0892c27_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重宣此義。",
+        "translation": "It was then that the Bhagavān wanted to recapitulate this teaching.",
+        "source": "T21n1374_001:0892c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而說頌言。",
+        "translation": "He spoke a verse, saying.",
+        "source": "T21n1374_001:0892c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我曾宣說眾經王　　令諸眾生得正覺　今更說斯真妙典　　汝聞恭敬善修行　勿受當來極苦痛　　墮在地獄經多劫　能於此經生信心　　世世常為我真子　又復供養此經者　　當得生於淨土中　現無羅剎鬼神欺　　亦無眾惡來侵擾　若此經王所住處　　無諸災厄能害人　所有求願悉隨心　　安樂能至菩提岸爾時四天王聞此頌已。",
+        "translation": "\"I once taught you the king of sūtras so that sentient beings would attain right awakening, and now I'm telling you this truly wonderful sūtra. Hear it, honor it, and well practice it so that you won't experience future suffering or fall into hell for many eons. If you give faith to this sūtra and make offerings to it, you'll be born in the pure land, free from deception by rājas and ghosts and free from the harassment of many evils. If this sūtra king lives in a place where there are no disasters or difficulties that can harm people, all your aspirations will be followed, and you'll reach the shore of enlightenment with well-being.",
+        "source": "T21n1374_001:0892c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悲泣流淚舉身戰掉。",
+        "translation": "They wept with pity and lifted their bodies in tears.",
+        "source": "T21n1374_001:0893a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "禮佛雙足白言世尊。",
+        "translation": "They bowed their heads to the Buddha's feet and said, \"Bhagavān!",
+        "source": "T21n1374_001:0893a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等四天王若見守持此經法師。",
+        "translation": "\"Bhagavān, if we four celestial kings see a teacher who guards the teachings of this sūtra.",
+        "source": "T21n1374_001:0893a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我當供養彼說法時。",
+        "translation": "I will make offerings to him when he teaches the Dharma.",
+        "source": "T21n1374_001:0893a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及諸聽眾皆當覆護。",
+        "translation": "We and the listening audience will protect him.",
+        "source": "T21n1374_001:0893a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有國王於此經典。",
+        "translation": "Suppose there's a king who writes, reads, recites, upholds, and makes offerings to this sūtra.",
+        "source": "T21n1374_001:0893a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "書寫讀誦受持供養者。",
+        "translation": "He writes it, reads it, recites it, memorizes it, and makes offerings to it.",
+        "source": "T21n1374_001:0893a11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我當擁衛及彼國人由如一子。",
+        "translation": "I will embrace and guard him and his people as if he were a son.",
+        "source": "T21n1374_001:0893a12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦以衣服瓔珞而供給之。",
+        "translation": "I'll also make offerings to them with robes and jewelry.",
+        "source": "T21n1374_001:0893a12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼國界豐饒財寶無所闕乏。",
+        "translation": "That nation's borders will be rich in possessions and treasures, and there'll be no lack of them.",
+        "source": "T21n1374_001:0893a13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若戰陣時常令得勝。",
+        "translation": "If I were to win a battle, I'd always win.",
+        "source": "T21n1374_001:0893a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念報佛恩我無懈怠。",
+        "translation": "I won't be lazy in mindfully repaying the Buddha's kindness.",
+        "source": "T21n1374_001:0893a14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊若復有人聞此經典。",
+        "translation": "Bhagavān, suppose there's another person who hears this sūtra and doesn't have faith in it and makes offerings to the Dharma teacher.",
+        "source": "T21n1374_001:0893a15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不生信心供養法師者。",
+        "translation": "They don't have faith and make offerings to the teacher of the Dharma.",
+        "source": "T21n1374_001:0893a15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於是人無有方便。",
+        "translation": "I don't have any skillful means for that person.",
+        "source": "T21n1374_001:0893a16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能為救脫但生憂惱。",
+        "translation": "He'll only become sad and troubled for salvation.'",
+        "source": "T21n1374_001:0893a16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善哉善哉汝護正法。",
+        "translation": "The Buddha said, \"Good, good, you protect the right teaching.",
+        "source": "T21n1374_001:0893a17_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能生如是殷重之心。",
+        "translation": "Can you give rise to such a serious mind?",
+        "source": "T21n1374_001:0893a17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時持國天王乾闥婆主。",
+        "translation": "It was then that the god-holding king of gods, Lord Ganondorf, rose from his seat and bowed his head at the Buddha's feet.",
+        "source": "T21n1374_001:0893a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從坐而起頂禮佛足。",
+        "translation": "He got up from his seat and bowed his head at the Buddha's feet.",
+        "source": "T21n1374_001:0893a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "合掌恭敬白佛言世尊。",
+        "translation": "He put his palms together in respect and said to the Buddha, \"Bhagavān!",
+        "source": "T21n1374_001:0893a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當來之世有諸眾生。",
+        "translation": "\"In a future life, there will be sentient beings who always behave unskillfully and don't believe in the Tathāgata.",
+        "source": "T21n1374_001:0893a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常行不善不信如來。",
+        "translation": "They always behaved unskillfully and didn't believe in the Tathāgata.",
+        "source": "T21n1374_001:0893a21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此經典不能供養書寫讀誦。",
+        "translation": "They can't make offerings to or write or recite these sūtras.",
+        "source": "T21n1374_001:0893a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不行施不信布施有現世樂報。",
+        "translation": "They don't practice generosity and don't believe that generosity has pleasant rewards in the present life.",
+        "source": "T21n1374_001:0893a22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊大慈為如是等不信人故。",
+        "translation": "The Bhagavān has great compassion for such unbelievers.",
+        "source": "T21n1374_001:0893a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說此經典令彼受行。",
+        "translation": "He teaches them this sūtra so that they'll accept and practice it.",
+        "source": "T21n1374_001:0893a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子有二種事。",
+        "translation": "The Buddha said, \"Good sons, there are two kinds of things.",
+        "source": "T21n1374_001:0893a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令諸眾生墮大地獄生死輪迴。",
+        "translation": "They cause sentient beings to fall into the great hell of the cycle of birth-and-death.",
+        "source": "T21n1374_001:0893a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者婬欲二者瞋恚。",
+        "translation": "One is lust, and the other is anger.",
+        "source": "T21n1374_001:0893a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有四法令諸眾生生人天中云何為四。",
+        "translation": "What are the other four things that cause sentient beings to be born in the heavens?",
+        "source": "T21n1374_001:0893a25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者於諸眾生心行平等。",
+        "translation": "One is to conduct oneself equally with all sentient beings.",
+        "source": "T21n1374_001:0893a26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者於三寶所起慇重心。",
+        "translation": "Two, they give rise to attentiveness to the Three Treasures.",
+        "source": "T21n1374_001:0893a27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者所有資生皆悉能施。",
+        "translation": "Third, he gives generously to all the necessities of life.",
+        "source": "T21n1374_001:0893a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者堅持梵行無所有缺。",
+        "translation": "Four, they adhere to the religious practice without any shortcomings.",
+        "source": "T21n1374_001:0893a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重宣此義。",
+        "translation": "It was then that the Bhagavān wanted to recapitulate this meaning.",
+        "source": "T21n1374_001:0893a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而說頌言。",
+        "translation": "He spoke a verse, saying.",
+        "source": "T21n1374_001:0893a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　布施能有大威神　　於三惡趣拔眾苦　眾生慳貪癡所惑　　種種染欲惱其情　聞此經典不敬受　　於佛法中無信施　捨身當墮於惡趣　　當受無邊大劇苦　饒益國主及人民　　我說斯經具威德　令離惡病眾邪惱　　不被藥叉等所害　若有信經書寫人　　供養能生無量福　一切眾生智如佛　　多劫說福不能盡　若有經於多劫數　　供養一切諸菩薩　不如於此妙經王　　暫時信心書一字　持前功德比此福　　此為億分不及一　是故智人於此經　　一心奉行無懈怠爾時觀自在菩薩。",
+        "translation": "　布施能有大威神　　於三惡趣拔眾苦　眾生慳貪癡所惑　　種種染欲惱其情　聞此經典不敬受　　於佛法中無信施　捨身當墮於惡趣　　當受無邊大劇苦　饒益國主及人民　　我說斯經具威德　令離惡病眾邪惱　　不被藥叉等所害　若有信經書寫人　　供養能生無量福　一切眾生智如佛　　多劫說福不能盡　若有經於多劫數　　供養一切諸菩薩　不如於此妙經王　　暫時信心書一字　持前功德比此福　　此為億分不及一　是故智人於此經　　一心奉行無懈怠爾時觀自在菩薩。",
+        "source": "T21n1374_001:0893b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白佛言世尊。",
+        "translation": "He said to the Buddha, \"Bhagavān!",
+        "source": "T21n1374_001:0893b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當來之世若有善男子善女人。",
+        "translation": "\"Bhagavān, suppose there are good men and good women in a future age.",
+        "source": "T21n1374_001:0893b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此經典深生敬信。",
+        "translation": "profoundly respect and believe in this sūtra.",
+        "source": "T21n1374_001:0893b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以妙香花及諸飲食衣服臥具。",
+        "translation": "They would bring beautiful flowers and incense, food and drink, clothing and bedding.",
+        "source": "T21n1374_001:0893b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "咸悉供養說法之師。",
+        "translation": "They all make offerings to the Dharma teacher who teaches the Dharma.",
+        "source": "T21n1374_001:0893b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及寫此經讀誦之者。",
+        "translation": "He writes and recites this sūtra.",
+        "source": "T21n1374_001:0893b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此人現世必當獲得無量福利。",
+        "translation": "That person will surely attain measureless benefits in the present life.",
+        "source": "T21n1374_001:0893b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "饒益其身離諸病苦。",
+        "translation": "His body will be enriched, and he'll be freed from illness and suffering.",
+        "source": "T21n1374_001:0893b17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼等六根清淨無患。",
+        "translation": "His six faculties, such as the eyes, will be purified and free of trouble.",
+        "source": "T21n1374_001:0893b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不遭水火飢饉厄難。",
+        "translation": "He won't suffer from the miseries of flood and fire, hunger and famine.",
+        "source": "T21n1374_001:0893b18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦無惡毒之所中傷。",
+        "translation": "Nor will he be harmed by bad poison.",
+        "source": "T21n1374_001:0893b18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切有情見者歡喜。",
+        "translation": "All sentient beings rejoice when they see that.",
+        "source": "T21n1374_001:0893b19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "命終之時見不動佛來相慰諭。",
+        "translation": "When his life ends, he sees the Akṣobhya Buddha come to console him.",
+        "source": "T21n1374_001:0893b19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "告言善男子汝修善根其福無量。",
+        "translation": "He tells them, \"Good sons, you've cultivated good roots, and your merits are immeasurable.",
+        "source": "T21n1374_001:0893b20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十方淨土極樂世界隨意受生。",
+        "translation": "You'll be born at will in the paradise world of the pure lands in the ten directions.",
+        "source": "T21n1374_001:0893b21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時觀自在菩薩。",
+        "translation": "It was then that the Bodhisattva Avalokitêśvara said to the Buddha, \"Good, Bhagavān! Good!",
+        "source": "T21n1374_001:0893b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白佛言世尊善哉善哉世尊。",
+        "translation": "He said to the Buddha, \"Bhagavān, good, good, Bhagavān!",
+        "source": "T21n1374_001:0893b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲哀愍贍部洲中諸眾生故說此經典。",
+        "translation": "This sūtra was preached in order to take pity on the sentient beings in the Jambudvīpa region.",
+        "source": "T21n1374_001:0893b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當來之世廣作佛事利益眾生。",
+        "translation": "In a future life, it will create a wide range of Buddha-works to benefit sentient beings.",
+        "source": "T21n1374_001:0893b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此大明呪能除一切極重業障。",
+        "translation": "This great incantation will remove all the most serious karmic hindrances.",
+        "source": "T21n1374_001:0893b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子。",
+        "translation": "The Buddha said, \"Good sons!",
+        "source": "T21n1374_001:0893b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡業眾生其罪深重。",
+        "translation": "'The sins of sentient beings with bad karma are deep and heavy.",
+        "source": "T21n1374_001:0893b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不聞此經不能書寫受持讀誦。",
+        "translation": "Unless they hear this sūtra, they can't write it down, memorize it, or recite it.",
+        "source": "T21n1374_001:0893b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有眾生聞此經典。",
+        "translation": "If there are sentient beings who hear this sūtra.",
+        "source": "T21n1374_001:0893b26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "書寫受持尊重供養。",
+        "translation": "They write it down, memorize it, respect it, and make offerings to it.",
+        "source": "T21n1374_001:0893b27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知皆是佛之威神力故。",
+        "translation": "You should know that it's because of the Buddha's authoritative power.",
+        "source": "T21n1374_001:0893b27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若復有人於此經典。",
+        "translation": "Suppose there's another person who uses this sūtra.",
+        "source": "T21n1374_001:0893b28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能為他人說一字者。",
+        "translation": "If someone can say a single word for another person, then they'll make offerings to that person, who is no different from the Buddha.",
+        "source": "T21n1374_001:0893b28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "供養此人與佛無異。",
+        "translation": "Making offerings to that person is no different than making offerings to the Buddha.",
+        "source": "T21n1374_001:0893b29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故善男子。",
+        "translation": "Why is that, good sons?",
+        "source": "T21n1374_001:0893b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經乃是過去七千諸佛之所宣說。",
+        "translation": "This sūtra was taught by 7,000 buddhas in the past.",
+        "source": "T21n1374_001:0893c01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切菩薩悉皆隨喜。",
+        "translation": "All the bodhisattvas were delighted by it.",
+        "source": "T21n1374_001:0893c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸天擁護是菩薩母。",
+        "translation": "The gods embraced this as the mother of all bodhisattvas.",
+        "source": "T21n1374_001:0893c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時執金剛菩薩。",
+        "translation": "It was then that the Vajrapāṇi Bodhisattva took possession of the scriptures.",
+        "source": "T21n1374_001:0893c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白佛言世尊。",
+        "translation": "He said to the Buddha, \"Bhagavān!",
+        "source": "T21n1374_001:0893c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此之經典於未來世。",
+        "translation": "\"Bhagavān, where will this scripture be fully circulated in the future?",
+        "source": "T21n1374_001:0893c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當於何處具足流通。",
+        "translation": "Where will it be fully circulated?'",
+        "source": "T21n1374_001:0893c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子。",
+        "translation": "The Buddha said, \"Good sons!",
+        "source": "T21n1374_001:0893c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經當於海龍王宮及三十三天皆具足有。",
+        "translation": "'This sūtra will be fully present in the palace of the ocean dragon king and the Trāyastriṃśa Heaven.'",
+        "source": "T21n1374_001:0893c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "贍部洲中但有少分隨處流通。",
+        "translation": "There will be only a few copies circulating anywhere in the Jambudvīpa.",
+        "source": "T21n1374_001:0893c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子。",
+        "translation": "The Buddha said, \"Good sons!",
+        "source": "T21n1374_001:0893c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今以此經典付囑於汝。",
+        "translation": "'Now, I'm entrusting this sūtra to you.",
+        "source": "T21n1374_001:0893c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應當受持供養擁護與佛無異。",
+        "translation": "You must retain it, make offerings, and safeguard it, no different than the Buddha.",
+        "source": "T21n1374_001:0893c07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在處流通勿令斷絕。",
+        "translation": "Circulate it everywhere, so that it doesn't become extinct.",
+        "source": "T21n1374_001:0893c08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "利益眾生廣為佛事。",
+        "translation": "Benefit sentient beings and perform extensive Buddha-works.",
+        "source": "T21n1374_001:0893c08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "執金剛菩薩白佛言。",
+        "translation": "The Vajragarbha Bodhisattva said to the Buddha.",
+        "source": "T21n1374_001:0893c09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊我今受佛教勅流布此經。",
+        "translation": "\"Bhagavān, now I've been commanded by the Buddha to circulate this sūtra.",
+        "source": "T21n1374_001:0893c09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦復護彼持經法師。",
+        "translation": "I'll also protect the Dharma teacher who holds the sūtra.",
+        "source": "T21n1374_001:0893c10_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善哉善哉善男子。",
+        "translation": "The Buddha said, \"Good, good, good man!",
+        "source": "T21n1374_001:0893c10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此實是汝所作之事。",
+        "translation": "This is really what you've done!",
+        "source": "T21n1374_001:0893c11_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次觀自在菩薩。",
+        "translation": "\"Furthermore, the Bodhisattva Avalokitêśvara said to the Buddha.",
+        "source": "T21n1374_001:0893c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白佛言世尊。",
+        "translation": "He said to the Buddha, \"Bhagavān!",
+        "source": "T21n1374_001:0893c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今至誠敬禮如是微妙經典。",
+        "translation": "\"Now, I sincerely venerate such a subtle sūtra.",
+        "source": "T21n1374_001:0893c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於說法者及書寫人悉皆供養。",
+        "translation": "I've made offerings to all the Dharma preachers and writers.",
+        "source": "T21n1374_001:0893c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊若有薄福之國無道君王。",
+        "translation": "Bhagavān, suppose there's a weak-merit country that has no virtuous ruler.",
+        "source": "T21n1374_001:0893c14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設有此經不能供養。",
+        "translation": "Suppose they had this sūtra and weren't able to make offerings to it.",
+        "source": "T21n1374_001:0893c14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及以法師此經隱沒。",
+        "translation": "And because of the Dharma teacher, this sūtra disappears.",
+        "source": "T21n1374_001:0893c15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼國當有災難惡事禍變現前。",
+        "translation": "Disasters and bad things will happen in that country, and misfortune will manifest before it.",
+        "source": "T21n1374_001:0893c15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是當知正法欲滅。",
+        "translation": "Thus, you should know that the right teaching is about to cease.",
+        "source": "T21n1374_001:0893c16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智者見已慇心供養。",
+        "translation": "After he saw this, the wise man paid court to his heart and made offerings.",
+        "source": "T21n1374_001:0893c16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善哉善哉善男子如汝所說。",
+        "translation": "The Buddha said, \"Good, good, good man, just as you said.",
+        "source": "T21n1374_001:0893c17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "假使有人滿足千歲。",
+        "translation": "'Suppose there's a person who fulfills a thousand years.",
+        "source": "T21n1374_001:0893c18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以種種樂具。",
+        "translation": "With various implements of joy, he makes offerings to the great bodhisattvas and their voices.",
+        "source": "T21n1374_001:0893c18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "供養諸大菩薩及聲聞眾數若恒河沙。",
+        "translation": "Their offerings to the great bodhisattvas and śrāvakas would be as numerous as the sands of the Ganges River.",
+        "source": "T21n1374_001:0893c18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復以七寶同此沙數而為布施後捨自身。",
+        "translation": "They then give alms of the same number of sands with seven treasures and then abandon themselves.",
+        "source": "T21n1374_001:0893c19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子如是之福比於供養持經之福。",
+        "translation": "Good sons, such merit is comparable to the merit of making offerings to and maintaining the sūtras.",
+        "source": "T21n1374_001:0893c20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至一句一字百千萬分彼不及一。",
+        "translation": "Even a single word or a hundred thousand million parts of it won't amount to one.",
+        "source": "T21n1374_001:0893c21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何況盡能書寫讀誦。",
+        "translation": "How could it be possible to write, read, and recite them?",
+        "source": "T21n1374_001:0893c22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故此經及呪有大威力。",
+        "translation": "Why is that reason why sūtras and dhāraṇīs have great power?",
+        "source": "T21n1374_001:0893c22_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若受持者了身無堅。",
+        "translation": "If someone accepts and memorizes them, they'll understand that their body is not hard.",
+        "source": "T21n1374_001:0893c23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如幻如夢知法無我。",
+        "translation": "He's like an illusion or a dream and knows that things are without self.",
+        "source": "T21n1374_001:0893c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蒙佛授記得大菩提。",
+        "translation": "He'll be granted by the Buddha to remember the great enlightenment.",
+        "source": "T21n1374_001:0893c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時大眾一切菩薩。",
+        "translation": "At the time, the whole assembly consisted of all the bodhisattvas.",
+        "source": "T21n1374_001:0893c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及天龍藥叉阿蘇羅揭路茶人非人等。",
+        "translation": "They were joined by gods, dragons, yakṣas, asuras, lotus, humans, and nonhumans.",
+        "source": "T21n1374_001:0893c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆共一心同聲讚佛善哉善哉。",
+        "translation": "They all joined together with one mind and one voice to praise the Buddha as good, good, good.",
+        "source": "T21n1374_001:0893c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是第二轉大法輪。",
+        "translation": "'This is the second turning of the great wheel of the Dharma!'",
+        "source": "T21n1374_001:0893c27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等悉皆恭敬供養。",
+        "translation": "We all respect and venerate it and make offerings to it.",
+        "source": "T21n1374_001:0893c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經所在國土城邑。",
+        "translation": "The lands and cities where this sūtra is located.",
+        "source": "T21n1374_001:0893c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦當擁護并說法者。",
+        "translation": "They will also embrace those who teach the Dharma.",
+        "source": "T21n1374_001:0893c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有眾生謗此經者。",
+        "translation": "If there are sentient beings who denigrate this sūtra.",
+        "source": "T21n1374_001:0893c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現身獲得無量重罪。",
+        "translation": "They'll incur measureless and heavy crimes in their present life.",
+        "source": "T21n1374_001:0893c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "命終之後當墮地獄。",
+        "translation": "After their lives end, they'll fall into hell.",
+        "source": "T21n1374_001:0893c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我捨是人不為擁護。",
+        "translation": "I'll abandon this person and not support him.",
+        "source": "T21n1374_001:0894a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子。",
+        "translation": "The Buddha said, \"Good man.",
+        "source": "T21n1374_001:0894a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今亦以經典付囑於汝。",
+        "translation": "\"Now, I've also entrusted you with this sūtra.",
+        "source": "T21n1374_001:0894a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當來之世廣為宣揚勿令斷滅。",
+        "translation": "In a future life, proclaim it widely so that it won't be cut off.",
+        "source": "T21n1374_001:0894a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經有大利益安樂人天。",
+        "translation": "This sūtra has great benefits that will bring comfort to humans and gods.",
+        "source": "T21n1374_001:0894a03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增長福田離三惡趣。",
+        "translation": "It will increase the field of merit and keep you out of the three bad destinies.",
+        "source": "T21n1374_001:0894a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勿生疑惑常勸受持。",
+        "translation": "Don't have doubts and confusions, and always encourage its adherence.",
+        "source": "T21n1374_001:0894a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說此經時。",
+        "translation": "When the Buddha taught this sūtra.",
+        "source": "T21n1374_001:0894a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六萬四千人。",
+        "translation": "64,000 people.",
+        "source": "T21n1374_001:0894a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆得無生法忍。",
+        "translation": "They all attained the patience of the nonarising of the Dharma.",
+        "source": "T21n1374_001:0894a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自在菩薩復白佛言。",
+        "translation": "Again, the Bodhisattva of Spontaneous Contemplation said to the Buddha.",
+        "source": "T21n1374_001:0894a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊若有眾生。",
+        "translation": "\"Bhagavān, suppose there are sentient beings who...",
+        "source": "T21n1374_001:0894a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信心書寫受持讀誦供養此經者。",
+        "translation": "\"Suppose a sentient being faithfully writes, retains, reads, recites, and makes offerings to this sūtra.",
+        "source": "T21n1374_001:0894a06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此人命終當生何處得幾所福。",
+        "translation": "Where will that person be born when their life ends and how much merit will they attain?'",
+        "source": "T21n1374_001:0894a07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言善男子。",
+        "translation": "The Buddha said, \"Good sons.",
+        "source": "T21n1374_001:0894a08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝能問此殊勝福事。",
+        "translation": "'Can you ask this question about this extraordinary merit?'",
+        "source": "T21n1374_001:0894a08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此人命終永離惡趣常生淨土。",
+        "translation": "At the end of his life, he'll be permanently freed from the bad destinies and always be born in the pure land.",
+        "source": "T21n1374_001:0894a09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "假使有人行菩薩行。",
+        "translation": "Suppose someone practices the bodhisattva path.",
+        "source": "T21n1374_001:0894a09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨頭目手足及以妻子。",
+        "translation": "He would abandon his head, eyes, hands, feet, and wife.",
+        "source": "T21n1374_001:0894a10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦復不如持此經典。",
+        "translation": "They wouldn't do as well as this sūtra.",
+        "source": "T21n1374_001:0894a10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經在處其地方所。",
+        "translation": "This sūtra is present in their local place.",
+        "source": "T21n1374_001:0894a11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則為是塔皆應供養。",
+        "translation": "These stūpas should then be consecrated.",
+        "source": "T21n1374_001:0894a11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自在菩薩復白佛言。",
+        "translation": "Again, the Bodhisattva Kauṇḍinya said to the Buddha.",
+        "source": "T21n1374_001:0894a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊當來之世持此經者。",
+        "translation": "\"Bhagavān, in a future life, this sūtra will be held by someone who retains it.",
+        "source": "T21n1374_001:0894a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我為授記。",
+        "translation": "I will grant it to him for record keeping.",
+        "source": "T21n1374_001:0894a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "消滅五逆極重罪障。",
+        "translation": "It will extinguish the five heinous crimes and the most serious hindrances.",
+        "source": "T21n1374_001:0894a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九萬劫中常受富貴。",
+        "translation": "He'll always be rich and famous for 90,000 eons.",
+        "source": "T21n1374_001:0894a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於八萬劫作轉輪聖王。",
+        "translation": "In 80,000 eons, he'll become a wheel-turning sage king.''",
+        "source": "T21n1374_001:0894a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言如是如是善男子。",
+        "translation": "The Buddha said, \"So it is, good man.",
+        "source": "T21n1374_001:0894a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我憶過去無量劫。",
+        "translation": "'I remember a time in the past of measureless eons.",
+        "source": "T21n1374_001:0894a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時有佛世尊名無邊功德法智清淨星宿王如來。",
+        "translation": "There was a Buddha, the Bhagavān, who was called the Tathāgata of Unlimited Merit, Dharma Knowledge, and Clear Astral Constellation King.",
+        "source": "T21n1374_001:0894a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於爾時作婆羅門。",
+        "translation": "At the time, I was a brāhmaṇa.",
+        "source": "T21n1374_001:0894a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼佛所得聞此經。",
+        "translation": "I heard this sūtra from that Buddha.",
+        "source": "T21n1374_001:0894a18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受持讀誦得法眼淨。",
+        "translation": "I memorized it, read it, and recited it, and then I attained purification of the Dharma eye.",
+        "source": "T21n1374_001:0894a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其同聽者從是已來不墮惡趣。",
+        "translation": "Those who listened to it with me will not fall into bad destinies from this point forward.",
+        "source": "T21n1374_001:0894a19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "漸次當得無上菩提。",
+        "translation": "They'll gradually attain unsurpassed enlightenment.",
+        "source": "T21n1374_001:0894a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子我於無量曠大劫中。",
+        "translation": "\"Good sons, I spent measureless and vast great eons.",
+        "source": "T21n1374_001:0894a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為此法故捨諸財寶。",
+        "translation": "For the sake of this teaching, I abandoned my possessions and treasures.",
+        "source": "T21n1374_001:0894a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頭目手足妻子城邑。",
+        "translation": "My head, eyes, hands, feet, wife, and town.",
+        "source": "T21n1374_001:0894a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修淨梵行無悔惱心。",
+        "translation": "I cultivated a pure religious practice without remorse.",
+        "source": "T21n1374_001:0894a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等亦當如是修習。",
+        "translation": "You too should cultivate it in this way.",
+        "source": "T21n1374_001:0894a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時大眾聞說過去苦行之事。",
+        "translation": "The whole crowd then heard about the ascetic practices of the past.",
+        "source": "T21n1374_001:0894a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "咸皆泣淚白佛言。",
+        "translation": "They all wept and said to the Buddha.",
+        "source": "T21n1374_001:0894a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "希有世尊當來之世。",
+        "translation": "\"It's rare, Bhagavān, in a future life.",
+        "source": "T21n1374_001:0894a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有能受持讀誦供養此經典者。",
+        "translation": "If someone can memorize, recite, and make offerings to this sūtra.",
+        "source": "T21n1374_001:0894a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無量福。",
+        "translation": "They'll attain measureless merit.",
+        "source": "T21n1374_001:0894a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有苾芻苾芻尼鄔波索迦鄔波斯迦等。",
+        "translation": "If there are any monks or nuns, such as Upāsaka or Upāsaka, who can't read or recite this sūtra, then they won't be able to.",
+        "source": "T21n1374_001:0894a25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此經王不能讀誦。",
+        "translation": "The king of sūtras can't read or recite it.",
+        "source": "T21n1374_001:0894a26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "陀羅尼呪不肯受持。",
+        "translation": "They won't accept or uphold the dhāraṇī spell.",
+        "source": "T21n1374_001:0894a26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦復不能勤修六度。",
+        "translation": "They also can't diligently cultivate the six perfections.",
+        "source": "T21n1374_001:0894a27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於苦惱者無憐愍心。",
+        "translation": "They have no compassion for those who suffer.",
+        "source": "T21n1374_001:0894a27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是之人於無量劫。",
+        "translation": "Such a person goes through an incalculably long eon.",
+        "source": "T21n1374_001:0894a28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮生死海受諸苦惱。",
+        "translation": "They'll fall into the ocean of birth and death and experience suffering and distress.",
+        "source": "T21n1374_001:0894a28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子譬如婦人身懷重孕乃至十月。",
+        "translation": "Good sons, it's like a woman who's heavily pregnant until the tenth month.",
+        "source": "T21n1374_001:0894a29_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時此婦人加諸病苦。",
+        "translation": "That woman then suffers from illness.",
+        "source": "T21n1374_001:0894b01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "支節酸疼猶如刀解不能飲食。",
+        "translation": "Her joints ache like a knife, and she can't eat or drink.",
+        "source": "T21n1374_001:0894b01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲產之時受大劇苦作如是念。",
+        "translation": "When she's about to give birth, she experiences great suffering and thinks.",
+        "source": "T21n1374_001:0894b02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我若免難永不婬欲常修梵行。",
+        "translation": "'Suppose I were to avoid suffering and never engage in sexual passions and always cultivate the religious practice.'",
+        "source": "T21n1374_001:0894b03_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "纔產之後還行惡法。",
+        "translation": "After I give birth, I'll return to practicing bad things.",
+        "source": "T21n1374_001:0894b03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便忘先時苦切之患。",
+        "translation": "Then I'd forget the pain and suffering of the past.",
+        "source": "T21n1374_001:0894b04_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子當來之世愚癡眾生亦復如是。",
+        "translation": "Good sons, in a future life foolish sentient beings will likewise be like that.",
+        "source": "T21n1374_001:0894b04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不信此經亦不讀誦布施持戒忍辱精進修定修慧。",
+        "translation": "They don't believe in this sūtra, don't read it, don't recite it, don't give alms, observe precepts, tolerate humiliation, and make effort to cultivate concentration and cultivate wisdom.",
+        "source": "T21n1374_001:0894b05_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貪著俗情樂世間事。",
+        "translation": "They cling to worldly desires and enjoy worldly affairs.",
+        "source": "T21n1374_001:0894b06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不行三業清淨之因。",
+        "translation": "They don't practice the pure causes of the three activities.",
+        "source": "T21n1374_001:0894b07_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此等眾生墮地獄已始生悔心。",
+        "translation": "Such sentient beings first become remorseful after falling into hell.",
+        "source": "T21n1374_001:0894b07_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如懷孕婦人身遭極苦。",
+        "translation": "They're like pregnant women who experience extreme physical pain.",
+        "source": "T21n1374_001:0894b08_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受苦惱已從地獄出。",
+        "translation": "After suffering pain and distress, they're released from hell.",
+        "source": "T21n1374_001:0894b08_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既得人身耽五欲樂。",
+        "translation": "Having attained a human body, they'll long for the five desires and pleasures.",
+        "source": "T21n1374_001:0894b09_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其地獄苦不能記念還造惡業。",
+        "translation": "They can't remember the pain of hell and return to creating bad karma.",
+        "source": "T21n1374_001:0894b09_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子譬如有人多飲藥酒。",
+        "translation": "Good sons, it's like a person who drinks a lot of medicinal alcohol.",
+        "source": "T21n1374_001:0894b10_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飲已昏迷不知家處。",
+        "translation": "After drinking it, they become deluded and don't know where they live.",
+        "source": "T21n1374_001:0894b11_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛法僧寶父母妻子。",
+        "translation": "They don't know where they live, and they don't remember the buddhas, Dharma, saṃgha, parents, and wives.",
+        "source": "T21n1374_001:0894b11_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曾不憶念無恭敬心。",
+        "translation": "They never remember them and have no respect for them.",
+        "source": "T21n1374_001:0894b12_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由昏醉故遂往屍林險難之處。",
+        "translation": "Because they're drunk, they go to a dangerous place in a forest of corpses.",
+        "source": "T21n1374_001:0894b12_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦無怖畏惶懼之心。",
+        "translation": "They don't have fear or trepidation.",
+        "source": "T21n1374_001:0894b13_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作如是念。",
+        "translation": "He had this thought.",
+        "source": "T21n1374_001:0894b13_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈有天龍藥叉之類能怖於我。",
+        "translation": "'Could there be a god or dragon or yakṣa who would be able to frighten me?'",
+        "source": "T21n1374_001:0894b14_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是醉人雖於此時。",
+        "translation": "Even though he's drunk, at this point he's lying down on a thorn.",
+        "source": "T21n1374_001:0894b14_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "委臥荊棘便生樂想。",
+        "translation": "He'll lie down on a thorn and then have pleasant thoughts.",
+        "source": "T21n1374_001:0894b15_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "醉醒之後必懷迫悔。",
+        "translation": "When he wakes up, he'll surely feel compelled to repent.",
+        "source": "T21n1374_001:0894b15_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自知非法言我從今乃至命盡。",
+        "translation": "He knows it's not right and says, 'From now on, I'll live to the end of my days.'",
+        "source": "T21n1374_001:0894b16_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更不飲酒作眾過失。",
+        "translation": "'I won't drink again, and I'll commit many misdeeds.'",
+        "source": "T21n1374_001:0894b16_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後遇惡緣還復耽飲同前造過。",
+        "translation": "Later, when they encounter bad conditions, they'll again delay drinking and commit the same faults as before.",
+        "source": "T21n1374_001:0894b17_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "愚癡有情亦復如是。",
+        "translation": "Foolish sentient beings are likewise.",
+        "source": "T21n1374_001:0894b18_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由貪染故多蓄珍財。",
+        "translation": "Because of defiled desire, they store much wealth and treasure.",
+        "source": "T21n1374_001:0894b18_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作諸憍逸不念三寶。",
+        "translation": "They become proud and don't think about the Three Treasures.",
+        "source": "T21n1374_001:0894b19_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "棄背尊親亦不修行施戒忍等。",
+        "translation": "They abandon their venerable family and don't cultivate generosity, morality, tolerance, and so forth.",
+        "source": "T21n1374_001:0894b19_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不欲希求淨佛國土。",
+        "translation": "They don't wish to pursue the pure buddha-lands.",
+        "source": "T21n1374_001:0894b20_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此等有情常處生死無涯海中。",
+        "translation": "Such sentient beings are always caught in the endless ocean of birth-and-death.",
+        "source": "T21n1374_001:0894b20_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當墮地獄長受眾苦。",
+        "translation": "They'll fall into hell and experience a long history of suffering.",
+        "source": "T21n1374_001:0894b21_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設得為人處胎之時。",
+        "translation": "Suppose they become human beings in the womb.",
+        "source": "T21n1374_001:0894b21_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受眾苦惱被苦逼身。",
+        "translation": "They'll be subject to many sufferings and be forced by pain into their bodies.",
+        "source": "T21n1374_001:0894b22_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便作是念我若得免此厄難者。",
+        "translation": "They'll then think, \"Suppose I were spared this misfortune.",
+        "source": "T21n1374_001:0894b22_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更不作罪受斯極苦。",
+        "translation": "I would never again commit a sin or undergo this extreme suffering.",
+        "source": "T21n1374_001:0894b23_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恒修善業願生淨土。",
+        "translation": "I'll always cultivate good actions and wish to be born in the Pure Land.",
+        "source": "T21n1374_001:0894b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼得人身由愚癡故。",
+        "translation": "But this person's folly caused him to commit many sins and fall back into a bad destiny.",
+        "source": "T21n1374_001:0894b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作眾罪業還墮惡道。",
+        "translation": "They create numerous bad deeds and fall back into a bad destiny.",
+        "source": "T21n1374_001:0894b24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故汝等當善修行勿為放逸是我要略之所教誡。",
+        "translation": "Therefore, you must cultivate good conduct and not become careless. This is my abbreviated teaching.",
+        "source": "T21n1374_001:0894b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時具壽阿難陀白佛言。",
+        "translation": "It was then that Kauṣṭhila Ānanda said to the Buddha.",
+        "source": "T21n1374_001:0894b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊此經復有何名云何受持。",
+        "translation": "\"Bhagavān, what's the title of this sūtra and how do I memorize it?",
+        "source": "T21n1374_001:0894b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言此經凡有五名。",
+        "translation": "The Buddha said, \"There are five names for this sūtra.",
+        "source": "T21n1374_001:0894b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一名救一切眾生苦厄。",
+        "translation": "One is to save all sentient beings from suffering and distress.",
+        "source": "T21n1374_001:0894b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二名菩薩真實所問。",
+        "translation": "Two are called the true and genuine questions of the bodhisattvas.",
+        "source": "T21n1374_001:0894b29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三名神通莊嚴王。",
+        "translation": "Three are called the adorned king of supernormal powers.",
+        "source": "T21n1374_001:0894b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四名能成諸佛正覺。",
+        "translation": "Four is called the ability to accomplish the correct awakening of the buddhas.",
+        "source": "T21n1374_001:0894c01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五名一切法功德莊嚴王。",
+        "translation": "The fifth name is the Ornamented King of the Merits of All Dharmas.",
+        "source": "T21n1374_001:0894c01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說是經已。",
+        "translation": "After the Buddha taught this sūtra.",
+        "source": "T21n1374_001:0894c02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸大菩薩及聲聞眾。",
+        "translation": "The great bodhisattvas and śrāvakas gathered there.",
+        "source": "T21n1374_001:0894c02_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天龍藥叉阿蘇羅乾闥婆人非人等。",
+        "translation": "gods, dragons, yakṣas, asuras, gandharvas, humans, and nonhumans.",
+        "source": "T21n1374_001:0894c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆大歡喜信受奉行。",
+        "translation": "They all rejoiced greatly and believed and handed it down.",
+        "source": "T21n1374_001:0894c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說一切功德莊嚴王經",
+        "translation": "Foshuo qigongde zhuangyanwang jing",
+        "source": "T21n1374_001:0894c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大唐神龍元年七月十五日三藏法師義淨奉制于洛州大福先寺新譯并綴文正字翻經沙門婆羅門大德槃度讀梵文翻經沙門荊州大唐龍興寺大德弘景證文翻經沙門大總持寺上座大宜證文翻經沙門大薦福寺大德勝莊證義翻經沙門相州禪河寺大德玄傘筆受翻經沙門溜州大雲寺大德慧沼證義翻經沙門大唐龍興寺大德智積證義中大夫檢校兵部侍郎臣崔湜潤文大中大夫行給事中上柱國臣盧燦潤文正字",
+        "translation": "On the fifteenth day of the seventh month of the first year of Shenlong's reign of the Tang dynasty, the tripiṭaka master Yijing was instructed to translate the scriptures at Dafusian Temple in Luozhou, China, with a new translation and a set of correct words, into Sanskrit, and then into Sanskrit.",
+        "source": "T21n1374_001:0894c06_0",
+        "is_bad_quality": false
+    }
+]

@@ -1,0 +1,4652 @@
+[
+    {
+        "source_sentence": "阿毘達磨大毘婆沙論卷第八十",
+        "translation": "Abhidharma-mahāvibhāṣā-śāstra, Volume 80",
+        "source": "T27n1545_085:0437c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五",
+        "translation": "five",
+        "source": "T27n1545_085:0437c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五百大阿羅漢等造",
+        "translation": "created by five hundred great arhats and others",
+        "source": "T27n1545_085:0437c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T27n1545_085:0437c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "結蘊第二中十門納息第四之十五",
+        "translation": "The Fourth and Fifteenth of the Ten Aspects of Nāgas in the Second Fascicle",
+        "source": "T27n1545_085:0437c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經說。",
+        "translation": "As the sutra explains.",
+        "source": "T27n1545_085:0437c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有一苾芻來詣佛所。",
+        "translation": "\"There was a monk who came to the Buddha.",
+        "source": "T27n1545_085:0437c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頂禮佛足退坐一面。",
+        "translation": "He bowed his head at the Buddha's feet and withdrew to sit at one side.",
+        "source": "T27n1545_085:0437c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而白佛言。",
+        "translation": "He said to the Buddha.",
+        "source": "T27n1545_085:0437c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊。",
+        "translation": "\"Bhagavān!",
+        "source": "T27n1545_085:0437c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說有明界淨界。",
+        "translation": "'It's said that there's the element of illumination and the element of purity.",
+        "source": "T27n1545_085:0437c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊處界。",
+        "translation": "'There's the element of the infinite sphere of emptiness ...",
+        "source": "T27n1545_085:0437c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識無邊處界。",
+        "translation": "'The sphere of the infinite realm of consciousness.'",
+        "source": "T27n1545_085:0437c10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所有處界。",
+        "translation": "'The sphere of the sphere of the nonexistent.'",
+        "source": "T27n1545_085:0437c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非想非非想處界。",
+        "translation": "The realm of the abode of neither perception nor non-perception ...",
+        "source": "T27n1545_085:0437c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅界。",
+        "translation": "... the element of cessation.",
+        "source": "T27n1545_085:0437c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是七界緣何施設。",
+        "translation": "What are the conditions for defining these seven elements?",
+        "source": "T27n1545_085:0437c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊告曰。",
+        "translation": "The Bhagavān told them.",
+        "source": "T27n1545_085:0437c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣闇故施設明界。",
+        "translation": "'It's because of darkness that we designate the element of insight.",
+        "source": "T27n1545_085:0437c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣不淨故施設淨界。",
+        "translation": "conditioned by impurity, it's the pure element that's designated.",
+        "source": "T27n1545_085:0437c12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣色趣故施設空無邊處界。",
+        "translation": "conditioned by the destiny of form, it's the realm of the infinite sphere of emptiness that's designated.",
+        "source": "T27n1545_085:0437c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣邊際故施設識無邊處界。",
+        "translation": "conditioned by extremes, it's the realm of the infinite sphere of consciousness that's being declared.",
+        "source": "T27n1545_085:0437c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣所有故施設無所有處界。",
+        "translation": "conditioned by existence, it declares the sphere of the sphere of the sphere of the nonexistence of existence.",
+        "source": "T27n1545_085:0437c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣有身故施設非想非非想處界。",
+        "translation": "conditioned by the existence of a body, it's the realm of the abodes of neither perception nor non-perception that's profiled.",
+        "source": "T27n1545_085:0437c15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣有身滅故施設滅界。",
+        "translation": "It's because there's the cessation of the body that the cessation realm is designated.",
+        "source": "T27n1545_085:0437c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問此中苾芻依何事問。",
+        "translation": "The monk asks, \"What are the things on the basis of which the monk asks this question?",
+        "source": "T27n1545_085:0437c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊復以何事而答。",
+        "translation": "What further matter does the Bhagavān answer with?",
+        "source": "T27n1545_085:0437c17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答此中苾芻依八解脫覆相而問。",
+        "translation": "He replied, \"The Bhagavān asks this question based on the eight concealing characteristics of liberation.",
+        "source": "T27n1545_085:0437c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛亦以此覆相而答。",
+        "translation": "The Buddha also answered on the basis of these coverings.",
+        "source": "T27n1545_085:0437c18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明界者。",
+        "translation": "\"The clarification is about the [eight] elements.",
+        "source": "T27n1545_085:0437c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂初二解脫。",
+        "translation": "It refers to the first two kinds of liberation.",
+        "source": "T27n1545_085:0437c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨界者。",
+        "translation": "The pure realm refers to the third liberation.",
+        "source": "T27n1545_085:0437c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂第三解脫。",
+        "translation": "It's the third liberation.",
+        "source": "T27n1545_085:0437c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四無色處界者。",
+        "translation": "'The four formless realms' refers to the four formless liberations.",
+        "source": "T27n1545_085:0437c19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂四無色解脫。",
+        "translation": "These are the four formless realms of liberation.",
+        "source": "T27n1545_085:0437c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅界者。",
+        "translation": "\"The cessation realm refers to the cessation of perceptions, feelings, and liberation.",
+        "source": "T27n1545_085:0437c20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂想受滅解脫。",
+        "translation": "This refers to the liberation of cessation of perception and sensation.",
+        "source": "T27n1545_085:0437c20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故苾芻依八解脫覆相而問答。",
+        "translation": "He asked why the monk relied on the covering of the eight liberations and answered.",
+        "source": "T27n1545_085:0437c21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以彼苾芻少欲喜足覆藏己善。",
+        "translation": "It's because that monk has few desires, is satisfied, and hides his own goodness.",
+        "source": "T27n1545_085:0437c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不欲令他知自有德故作此問。",
+        "translation": "They don't want others to know about their virtues, so they ask this question.",
+        "source": "T27n1545_085:0437c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故世尊以八解脫覆相而答。",
+        "translation": "He asked why the Bhagavān answered on the basis of the eight coverings of liberation.",
+        "source": "T27n1545_085:0437c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答欲令苾芻意樂滿故。",
+        "translation": "He answered that he wanted to cause a monk to fulfill his intention.",
+        "source": "T27n1545_085:0437c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼苾芻作如是念。",
+        "translation": "That monk thinks this.",
+        "source": "T27n1545_085:0437c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若佛為我覆相而答。",
+        "translation": "'Suppose the Buddha answered for me by covering my features. Wouldn't the eight liberations be good?'",
+        "source": "T27n1545_085:0437c25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八解脫者豈不善哉。",
+        "translation": "Wouldn't the eight liberations be good?'",
+        "source": "T27n1545_085:0437c25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此世尊覆相而答。",
+        "translation": "The Bhagavān thus answered with a covering of appearances.",
+        "source": "T27n1545_085:0437c26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中緣闇故施設明界者。",
+        "translation": "\"Here, the condition of darkness is to designate the zone of illumination.",
+        "source": "T27n1545_085:0437c26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "闇謂欲界緣色處貪。",
+        "translation": "Darkness refers to desire realm as a condition for desire in the form realm.",
+        "source": "T27n1545_085:0437c27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初二解脫是彼對治故緣彼立。",
+        "translation": "The first two liberations are contingent on their antidotes and therefore are posited there.",
+        "source": "T27n1545_085:0437c27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣不淨故施設淨界者。",
+        "translation": "\"Whoever defines the pure realm because of its impurity?",
+        "source": "T27n1545_085:0437c28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不淨謂初二解脫第三解脫。",
+        "translation": "Impurity refers to the first two liberations and the third liberation.",
+        "source": "T27n1545_085:0437c29_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是彼對治故緣彼立。",
+        "translation": "It's established as a condition because it's their antidote.",
+        "source": "T27n1545_085:0437c29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣色趣故施設空無邊處界者。",
+        "translation": "\"Whoever defines the realm of the infinite space of emptiness because of the destiny of form.",
+        "source": "T27n1545_085:0438a01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色趣謂第四靜慮第四解脫。",
+        "translation": "The destiny of form refers to the fourth meditation and the fourth liberation.",
+        "source": "T27n1545_085:0438a02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是彼對治故緣彼立。",
+        "translation": "It's conditioned by these antidotes that they be posited.",
+        "source": "T27n1545_085:0438a02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣邊際故施設識無邊處界者。",
+        "translation": "\"Whoever defines the sphere of the infinite realm of consciousness in view of the extremes ...",
+        "source": "T27n1545_085:0438a03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "邊際謂空無邊處。",
+        "translation": "The extremes refer to the infinite realm of emptiness.",
+        "source": "T27n1545_085:0438a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼住色邊際故。",
+        "translation": "It's because they reside at the limit of form.",
+        "source": "T27n1545_085:0438a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第五解脫是彼對治故緣彼立。",
+        "translation": "The fifth liberation is conditioned by their antidotes.",
+        "source": "T27n1545_085:0438a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣所有故施設無所有處界者。",
+        "translation": "Those who define the sphere of the infinite realm of consciousness because of its possessions ...",
+        "source": "T27n1545_085:0438a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有謂識無邊處彼有無邊行相轉故。",
+        "translation": "'Possession' refers to the infinite realm of consciousness and the fact that it has limitless form and activity.",
+        "source": "T27n1545_085:0438a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第六解脫是彼對治故緣彼立。",
+        "translation": "The sixth liberation is conditioned by that antidote.",
+        "source": "T27n1545_085:0438a07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣有身故施設非想非非想處界者。",
+        "translation": "Whoever defines the realm of neither perception nor non-perception in reference to the existence of a body.",
+        "source": "T27n1545_085:0438a07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有身謂無所有處。",
+        "translation": "To have a body means to have no sphere of existence.",
+        "source": "T27n1545_085:0438a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此猶有生死身非全無所有故。",
+        "translation": "It's just like the body of birth-and-death that's not completely devoid of existence.",
+        "source": "T27n1545_085:0438a09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第七解脫是彼對治故緣彼立。",
+        "translation": "The seventh liberation is established in reference to that as a countermeasure.",
+        "source": "T27n1545_085:0438a09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣有身滅故施設滅界者。",
+        "translation": "He who designates the cessation realm because the body exists and ceases.",
+        "source": "T27n1545_085:0438a10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有身滅謂非想非非想處。",
+        "translation": "The cessation of the existent body refers to the abode of neither perception nor non-perception.",
+        "source": "T27n1545_085:0438a11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以彼能滅無所有處有身法故。",
+        "translation": "It's because it can extinguish the existence of a body and dharmas in the absence of existence.",
+        "source": "T27n1545_085:0438a11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第八解脫是彼對治故緣彼立。",
+        "translation": "The eighth liberation is conditioned by that antidote.",
+        "source": "T27n1545_085:0438a12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "It's explained this way.",
+        "source": "T27n1545_085:0438a13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中苾芻依略廣離三界染覆相而問。",
+        "translation": "Here, the monk asks a question based on the defiling aspect of being free of the three realms in a broad sense.",
+        "source": "T27n1545_085:0438a13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊亦以此覆相而答。",
+        "translation": "The Bhagavān also answers based on this overwhelming aspect.",
+        "source": "T27n1545_085:0438a14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明界者。",
+        "translation": "\"The clarification is about the realms.",
+        "source": "T27n1545_085:0438a14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略顯離欲界染加行道。",
+        "translation": "It briefly shows the path of defiling preparatory practices that are free of the desire realm.",
+        "source": "T27n1545_085:0438a15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此緣闇施設者。",
+        "translation": "It's conditioned by the definition of darkness.",
+        "source": "T27n1545_085:0438a15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "闇謂欲界緣五欲貪。",
+        "translation": "Darkness refers to the desire realm as a condition for the five desires and cravings.",
+        "source": "T27n1545_085:0438a16_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界加行是彼對治故緣彼立。",
+        "translation": "The form realm's formative practices are counteracted by them, so they're posited in reference to them.",
+        "source": "T27n1545_085:0438a16_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨界者略顯離欲界染。",
+        "translation": "The pure realm is an abbreviation that shows freedom from defilement in the desire realm.",
+        "source": "T27n1545_085:0438a17_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊處界者。",
+        "translation": "'The sphere of the infinity of space' refers to the sphere of the desire realm.",
+        "source": "T27n1545_085:0438a17_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略顯離色界染。",
+        "translation": "It's briefly expressed as being free of defilement in the form realm.",
+        "source": "T27n1545_085:0438a18_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識無邊無所有非想非非想處界者。",
+        "translation": "'The sphere of the infinity of consciousness and the sphere of nonconception and nonconception.'",
+        "source": "T27n1545_085:0438a18_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣顯離無色界染。",
+        "translation": "It's broadly expressed as being free of defilement in the formless realm.",
+        "source": "T27n1545_085:0438a19_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅界者略顯離無色界染。",
+        "translation": "'That which is in the cessation realm is shown to be free of defilement in the formless realm.'",
+        "source": "T27n1545_085:0438a19_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中有說。",
+        "translation": "It's explained here.",
+        "source": "T27n1545_085:0438a20_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明界者略顯離欲界染。",
+        "translation": "\"Those in the wisdom realm are shown to be free of defilement in the desire realm in brief.",
+        "source": "T27n1545_085:0438a20_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯未至定斷欲闇故。",
+        "translation": "It's only because they haven't yet reached concentration and stopped the darkness of desire.",
+        "source": "T27n1545_085:0438a21_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨界者廣顯離色界染。",
+        "translation": "Those in the pure realm are broadly shown to be free of defilement in the form realm.",
+        "source": "T27n1545_085:0438a21_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以四靜慮等皆名淨故。",
+        "translation": "It's because the four meditations and so forth are all called pure.",
+        "source": "T27n1545_085:0438a22_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊處界者。",
+        "translation": "\"The element of the infinity of space is free of defilement in the form realm.",
+        "source": "T27n1545_085:0438a22_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略顯離色界染。",
+        "translation": "It's briefly expressed as being free of defilement in the form realm.",
+        "source": "T27n1545_085:0438a23_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後三無色處界者。",
+        "translation": "The last three realms of the formless realm are shown in detail as being free of defilement in the form realm and ceasing defilement in the form realm.",
+        "source": "T27n1545_085:0438a23_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣顯離無色界染滅界者。",
+        "translation": "They are broadly expressed as being free of defilement in the formless realm.",
+        "source": "T27n1545_085:0438a23_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略顯離無色界染。",
+        "translation": "It briefly shows that it's free of defilement in the formless realm.",
+        "source": "T27n1545_085:0438a24_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界唯有一地染故。",
+        "translation": "It's because there's only one ground of defilement in the desire realm.",
+        "source": "T27n1545_085:0438a24_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略顯對治色無色界各有四地染故。",
+        "translation": "It's because the form and formless realms each have four stages of defilement that they're briefly counteracted.",
+        "source": "T27n1545_085:0438a25_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣略顯彼對治。",
+        "translation": "They are broadly and briefly shown to be counteracting it.",
+        "source": "T27n1545_085:0438a26_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬喻者說。",
+        "translation": "The metaphorical speaker explains.",
+        "source": "T27n1545_085:0438a26_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中苾芻依八等至覆相而問。",
+        "translation": "\"Here, the Bhagavān asks a question based on the eight overshadowing characteristics of the meditative equipoise.",
+        "source": "T27n1545_085:0438a26_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛亦以此覆相而答。",
+        "translation": "The Buddha also answers based on these overshadowing characteristics.",
+        "source": "T27n1545_085:0438a27_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此經文誦者增減。",
+        "translation": "Still, this is a sūtra whose recitation increases and decreases.",
+        "source": "T27n1545_085:0438a28_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂增減界而減廣界。",
+        "translation": "It refers to increasing and decreasing the perceptual level and decreasing the broad perceptual level.",
+        "source": "T27n1545_085:0438a28_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明界者。",
+        "translation": "The clarification of the elements refers to this condition of the first two meditations.",
+        "source": "T27n1545_085:0438a29_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂初二靜慮此緣闇施設者。",
+        "translation": "This refers to the first two meditations, which are contingent on the designation of darkness.",
+        "source": "T27n1545_085:0438a29_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "闇謂外緣諸蓋。",
+        "translation": "Darkness refers to the external cognitive hindrances.",
+        "source": "T27n1545_085:0438a29_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初二靜慮是彼對治故緣彼立。",
+        "translation": "The first two meditations are their antidotes and therefore are conditioned by their establishment.",
+        "source": "T27n1545_085:0438b01_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨界者。",
+        "translation": "\"The pure realm ...",
+        "source": "T27n1545_085:0438b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂第三靜慮。",
+        "translation": "It's the third concentration.",
+        "source": "T27n1545_085:0438b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣界者。",
+        "translation": "The extensive realm refers to the fourth meditation.",
+        "source": "T27n1545_085:0438b02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂第四靜慮。",
+        "translation": "It refers to the fourth concentration.",
+        "source": "T27n1545_085:0438b02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四無色處界即四無色處。",
+        "translation": "The four formless realms are the four formless places.",
+        "source": "T27n1545_085:0438b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此經說。",
+        "translation": "It's what this sūtra says.",
+        "source": "T27n1545_085:0438b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼苾芻聞佛所說歡喜敬受。",
+        "translation": "That monk then heard what the Buddha taught and rejoiced and respected it.",
+        "source": "T27n1545_085:0438b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復白佛言。",
+        "translation": "He again said to the Buddha.",
+        "source": "T27n1545_085:0438b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊。",
+        "translation": "\"Bhagavān!",
+        "source": "T27n1545_085:0438b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明界乃至滅界由何定得。",
+        "translation": "\"Bhagavān, what is the certainty that the light realm and even the cessation realm will come from?",
+        "source": "T27n1545_085:0438b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告苾芻。",
+        "translation": "The Buddha told the monk.",
+        "source": "T27n1545_085:0438b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是諸界由自行餘定得。",
+        "translation": "\"Such are the elements that are obtained by their own remaining concentration.",
+        "source": "T27n1545_085:0438b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苾芻聞已歡喜敬受禮佛而去。",
+        "translation": "After hearing this, the monk rejoiced, honored, and bowed to the Buddha, and departed.",
+        "source": "T27n1545_085:0438b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中有說。",
+        "translation": "It's explained here.",
+        "source": "T27n1545_085:0438b07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼問得界。",
+        "translation": "'They ask about the attainment of the elements.'",
+        "source": "T27n1545_085:0438b07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有說者。",
+        "translation": "\"Again, there's a speaker who says.",
+        "source": "T27n1545_085:0438b08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼問得斷。",
+        "translation": "'They ask about attaining it, and it's stopped.'",
+        "source": "T27n1545_085:0438b08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若問得界彼問意言。",
+        "translation": "If he asks about the attainment of a realm, he asks, 'What do these realms determine about their essence?'",
+        "source": "T27n1545_085:0438b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是諸界由何定得彼體。",
+        "translation": "\"What is the definite basis for attaining the essence of such a realm?",
+        "source": "T27n1545_085:0438b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛答意言。",
+        "translation": "The Buddha answered their question with the intention.",
+        "source": "T27n1545_085:0438b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明界乃至非想非非想處界。",
+        "translation": "'The objective realm ... the realm of neither perception nor non-perception.'",
+        "source": "T27n1545_085:0438b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由自行定得。",
+        "translation": "It's attained by one's own concentration.",
+        "source": "T27n1545_085:0438b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自行定者謂自近分。",
+        "translation": "Self-concentration refers to the own-neighborhood part.",
+        "source": "T27n1545_085:0438b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由自近分離下地染得自地解脫。",
+        "translation": "From that proximate part, he parts with defilements in the lower stages and attains liberation in his own stage.",
+        "source": "T27n1545_085:0438b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂由初靜慮近分離欲界染得初二解脫。",
+        "translation": "It's from the near part of first meditation that he parts with the defilements of the desire realm and attains liberation from the first two.",
+        "source": "T27n1545_085:0438b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由第四靜慮近分離第三靜慮染得淨解脫。",
+        "translation": "From the fourth concentration's proximate part, he's freed from the third concentration's defilements and attains pure liberation.",
+        "source": "T27n1545_085:0438b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由空無邊處近分離第四靜慮染得空無邊處解脫。",
+        "translation": "From the proximity of the infinity of emptiness to the fourth concentration, he parts with the defilement of the fourth concentration and attains liberation from the infinity of emptiness.",
+        "source": "T27n1545_085:0438b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至由非想非非想處近分。",
+        "translation": "... from the proximate part of the abode of neither perception nor non-perception.",
+        "source": "T27n1545_085:0438b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離無所有處染得非想非非想處解脫。",
+        "translation": "Secluded from the defilement of the sphere of nothing, he attains liberation from the sphere of neither perception nor non-perception.",
+        "source": "T27n1545_085:0438b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯有滅界由餘定得。",
+        "translation": "Only the cessation realm is attained by remaining concentrations.",
+        "source": "T27n1545_085:0438b17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘定者謂有所依定。",
+        "translation": "The remaining concentrations are those that have a basis.",
+        "source": "T27n1545_085:0438b18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是非想非非想處。",
+        "translation": "They are the abodes of neither perception nor non-perception.",
+        "source": "T27n1545_085:0438b18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼是諸有根本定故。",
+        "translation": "It's because they are the fundamental concentrations of existence.",
+        "source": "T27n1545_085:0438b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有說。",
+        "translation": "Some people say.",
+        "source": "T27n1545_085:0438b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此名有勝定。",
+        "translation": "'This is called the concentration of existence.",
+        "source": "T27n1545_085:0438b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸有中此最勝故。",
+        "translation": "It's the most powerful of all existences.",
+        "source": "T27n1545_085:0438b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說此名想受滅定。",
+        "translation": "Some say it's called the concentration of cessation of perception.",
+        "source": "T27n1545_085:0438b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是想受滅入出定故。",
+        "translation": "It's because this is the concentration of entering and leaving [the world] with the cessation of perceptions.",
+        "source": "T27n1545_085:0438b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此定得第八解脫。",
+        "translation": "From this concentration, he attains the eighth liberation.",
+        "source": "T27n1545_085:0438b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若問得斷彼問意言。",
+        "translation": "If someone asks, 'What concentration has obtained its cessation?' they ask, 'What concentration has obtained its cessation?'",
+        "source": "T27n1545_085:0438b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是諸界由何定得彼斷。",
+        "translation": "\"What concentration did he attain that would stop such realms?",
+        "source": "T27n1545_085:0438b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛答意言。",
+        "translation": "The Buddha replied with the intention, saying.",
+        "source": "T27n1545_085:0438b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明界乃至無所有處界。",
+        "translation": "'The objective realm ... the realm of the ungraspable.'",
+        "source": "T27n1545_085:0438b23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由自行餘定得。",
+        "translation": "It's attained by other concentrations of their own.",
+        "source": "T27n1545_085:0438b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自行定者。",
+        "translation": "Self-concentration is defined as the near part, which is contaminated concentration.",
+        "source": "T27n1545_085:0438b24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自近分即有漏定。",
+        "translation": "It's the self-concentration that's the proximate part, which is the contaminated concentration.",
+        "source": "T27n1545_085:0438b24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘定者謂諸無漏定。",
+        "translation": "The other concentrations are the uncontaminated concentrations.",
+        "source": "T27n1545_085:0438b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界乃至無所有處。",
+        "translation": "It's in the desire realm ... the extent of the absence of the finite realm.",
+        "source": "T27n1545_085:0438b25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆由此二定離染得彼斷。",
+        "translation": "All of these two concentrations are freed from defilement and attained by their elimination.",
+        "source": "T27n1545_085:0438b25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非想非非想。",
+        "translation": "They are neither perceived nor unperceived.",
+        "source": "T27n1545_085:0438b26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處界但由餘定得。",
+        "translation": "The finite realm is only attained by the other concentrations.",
+        "source": "T27n1545_085:0438b26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無漏定能離非想非非想處染得彼斷。",
+        "translation": "Only uncontaminated concentration can part with defilement in the abode of neither perception nor non-perception and obtain its cessation.",
+        "source": "T27n1545_085:0438b27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故滅界但由餘得。",
+        "translation": "Therefore, the cessation realm is attained only from the remaining.",
+        "source": "T27n1545_085:0438b28_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘謂有身滅即是涅槃。",
+        "translation": "The cessation of the remaining existence is called nirvāṇa.",
+        "source": "T27n1545_085:0438b28_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "般涅槃時捨滅盡定說名為斷。",
+        "translation": "At the time of parinirvāṇa, the concentration of equanimity and cessation is said to be stopped.",
+        "source": "T27n1545_085:0438b29_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由餘涅槃而得彼斷故說彼由餘得。",
+        "translation": "Because nirvāṇa is attained by the remainder of that cessation, it's said to be attained by the remainder.",
+        "source": "T27n1545_085:0438c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八勝處者。",
+        "translation": "\"The eight abodes of excellence are.",
+        "source": "T27n1545_085:0438c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一內有色想觀外色少。",
+        "translation": "One is when internal perceptions of form and external form are few.",
+        "source": "T27n1545_085:0438c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二內有色想觀外色多。",
+        "translation": "Two, internal perceptions of form and contemplation of external form are numerous.",
+        "source": "T27n1545_085:0438c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三內無色想觀外色少。",
+        "translation": "3. imagining himself lacking form, he observes small external forms.",
+        "source": "T27n1545_085:0438c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四內無色想觀外色多。",
+        "translation": "4. imagining himself lacking form, he sees large external forms.",
+        "source": "T27n1545_085:0438c03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內無色想觀外諸色青黃赤白。",
+        "translation": "The internal formless perception observes external forms that are blue, yellow, red, and white.",
+        "source": "T27n1545_085:0438c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復為四種。",
+        "translation": "There are four more kinds.",
+        "source": "T27n1545_085:0438c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是八種名八勝處。",
+        "translation": "These eight kinds are called the eight abodes of excellence.",
+        "source": "T27n1545_085:0438c05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問此八勝處自性是何。",
+        "translation": "Q What are the own-natures of these eight abodes of excellence?",
+        "source": "T27n1545_085:0438c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答無貪善根以為自性對治貪故。",
+        "translation": "A The good root of no craving takes as its own nature to counteract craving.",
+        "source": "T27n1545_085:0438c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若兼取相應隨轉。",
+        "translation": "If they are also taken to be associated with following.",
+        "source": "T27n1545_085:0438c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則欲界者以四蘊為自性。",
+        "translation": "Then, those in the desire realm have the four aggregates as their own nature.",
+        "source": "T27n1545_085:0438c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界者以五蘊為自性。",
+        "translation": "Those in the form realm have the five aggregates as their own nature.",
+        "source": "T27n1545_085:0438c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名為勝處自性。",
+        "translation": "This is called the own-nature of the superior realm.",
+        "source": "T27n1545_085:0438c08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我物自體相分本性。",
+        "translation": "The self-nature of the essential parts of self and things is the nature of the characteristics.",
+        "source": "T27n1545_085:0438c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已說自性所以今當說。",
+        "translation": "I've already explained its own nature, so now I'll explain it.",
+        "source": "T27n1545_085:0438c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故名勝處。",
+        "translation": "\"What is the name of the abode of excellence?",
+        "source": "T27n1545_085:0438c10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勝處是何義。",
+        "translation": "What's the meaning of the superior place?",
+        "source": "T27n1545_085:0438c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答勝所緣境故名勝處。",
+        "translation": "Answer The place of excellence is called the place of excellence because it's superior to the objects that are its objects.",
+        "source": "T27n1545_085:0438c11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次勝諸煩惱故名勝處。",
+        "translation": "Furthermore, it's called the superior state because it's superior to the afflictions.",
+        "source": "T27n1545_085:0438c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖觀行者非一切能勝所緣境。",
+        "translation": "Even though the practitioner observes that he's not capable of overcoming all perceptual objects, he doesn't have afflictions that arise in response to those perceptual objects.",
+        "source": "T27n1545_085:0438c12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而於所緣不起煩惱亦名為勝。",
+        "translation": "Still, the absence of afflictions in the perceived perceptual objects is also called superior.",
+        "source": "T27n1545_085:0438c13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經說。",
+        "translation": "As the sūtras say.",
+        "source": "T27n1545_085:0438c13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此處勝故名勝處。",
+        "translation": "'Because this place is superior, it's called a superior place.'",
+        "source": "T27n1545_085:0438c14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此八勝處界者皆是色界。",
+        "translation": "These eight abodes of excellence are all in the form realm.",
+        "source": "T27n1545_085:0438c14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地者前四勝處在初二靜慮及未至定靜慮中間。",
+        "translation": "The first four superior bases of the form realm are between the first two meditations and the meditation that has yet to reach concentration.",
+        "source": "T27n1545_085:0438c15_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後四勝處在第四靜慮。",
+        "translation": "The last four abodes of excellence are in the fourth concentration.",
+        "source": "T27n1545_085:0438c16_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所依者皆依欲界身起。",
+        "translation": "The basis is that they all arise from the body in the desire realm.",
+        "source": "T27n1545_085:0438c16_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行相者一切皆非分明行相。",
+        "translation": "The form is that none of them are clearly delineated forms.",
+        "source": "T27n1545_085:0438c17_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣者皆緣欲界一切色處。",
+        "translation": "The perceptual objects are all perceptual objects in the desire realm and in all the form realms.",
+        "source": "T27n1545_085:0438c18_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問若爾經說當云何通。",
+        "translation": "Q: If this is what the sūtras say, how would it be interpreted?",
+        "source": "T27n1545_085:0438c18_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者無滅在室羅筏住一精舍。",
+        "translation": "Venerable Wunderkind was staying at a monastery in Śrāvastī.",
+        "source": "T27n1545_085:0438c19_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時有四悅意天女。",
+        "translation": "At the time, there were four goddesses of pleasure.",
+        "source": "T27n1545_085:0438c20_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "來至尊者座前而立。",
+        "translation": "They came to stand in front of the Venerable's seat.",
+        "source": "T27n1545_085:0438c20_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白言。",
+        "translation": "They said.",
+        "source": "T27n1545_085:0438c21_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等於四色處轉變自在。",
+        "translation": "\"We've been transformed freely in four places of form.",
+        "source": "T27n1545_085:0438c21_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨所愛色皆能化作。",
+        "translation": "Whatever form they desire, they can conjure it up.",
+        "source": "T27n1545_085:0438c21_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以相娛樂隨心所玩。",
+        "translation": "We entertain ourselves with appearances and play with them as our minds desire.",
+        "source": "T27n1545_085:0438c22_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "衣服嚴具皆能現之。",
+        "translation": "We can present them with clothing and adornment.",
+        "source": "T27n1545_085:0438c22_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願垂納受以充供侍。",
+        "translation": "May I accept them as an offering to you.",
+        "source": "T27n1545_085:0438c23_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者無滅作是念言。",
+        "translation": "Venerable Wunderkind had this thought, saying.",
+        "source": "T27n1545_085:0438c23_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我應緣彼起不淨觀。",
+        "translation": "'It's in that context that I should contemplate impurity.'",
+        "source": "T27n1545_085:0438c24_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是念已入初靜慮。",
+        "translation": "After having this thought, he entered into the first concentration.",
+        "source": "T27n1545_085:0438c24_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣彼不能起不淨想。",
+        "translation": "Conditioned on that, I won't be able to give rise to thoughts of impurity.",
+        "source": "T27n1545_085:0438c25_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至後入第四靜慮緣亦不能起不淨想。",
+        "translation": "Even if I later enter the fourth concentration, I won't be able to give rise to an impure contemplation based on that.",
+        "source": "T27n1545_085:0438c25_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復作是念。",
+        "translation": "Again, he thinks.",
+        "source": "T27n1545_085:0438c26_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此天女身有種種色惑亂人意。",
+        "translation": "'That celestial woman's body has various forms that confuse people's minds.'",
+        "source": "T27n1545_085:0438c27_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼純作一種色者。",
+        "translation": "If she simply created one form, then...",
+        "source": "T27n1545_085:0438c27_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我能於彼起不淨觀。",
+        "translation": "I could give rise to the contemplation of impurity in that person.'",
+        "source": "T27n1545_085:0438c28_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念已語言姊等前說於四色處轉變自在。",
+        "translation": "After that thought, I said to my sisters and others that I could freely transform in the four form areas.",
+        "source": "T27n1545_085:0438c28_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願能為我皆現青色。",
+        "translation": "'May it be possible for me to have them all appear blue in color.'",
+        "source": "T27n1545_085:0438c29_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天女奉教即為現青。",
+        "translation": "The goddess complied and she showed them cyan.",
+        "source": "T27n1545_085:0439a01_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣亦不能起不淨想。",
+        "translation": "For that reason, she wouldn't be able to give rise to thoughts of impurity.",
+        "source": "T27n1545_085:0439a01_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復作是念。",
+        "translation": "She also had this thought.",
+        "source": "T27n1545_085:0439a02_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於四色轉變自在。",
+        "translation": "'They are at ease in the transformation of the four forms.'",
+        "source": "T27n1545_085:0439a02_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若作餘色或能緣之起不淨觀。",
+        "translation": "If he creates another color, perhaps he can cognitively contemplate it as impure.",
+        "source": "T27n1545_085:0439a03_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念已語言願現黃色。",
+        "translation": "After he's mindful of that, he says, \"I wish to have them appear yellow.",
+        "source": "T27n1545_085:0439a03_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天女即為皆現黃色。",
+        "translation": "The goddess then causes them all to appear yellow in color.",
+        "source": "T27n1545_085:0439a04_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣亦不能起不淨想。",
+        "translation": "Even when they're conditioned, they can't give rise to thoughts of impurity.",
+        "source": "T27n1545_085:0439a04_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復語天女皆現赤色。",
+        "translation": "Again, he says the goddesses will all appear red in color.",
+        "source": "T27n1545_085:0439a05_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣亦不能起不淨想。",
+        "translation": "Even for that reason, they won't be able to give rise to thoughts of impurity.'",
+        "source": "T27n1545_085:0439a05_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復作是念。",
+        "translation": "Again, they think.",
+        "source": "T27n1545_085:0439a06_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸色中白色最能順不淨觀。",
+        "translation": "'Of all the colors, white is the most conducive to contemplating what's impure.",
+        "source": "T27n1545_085:0439a06_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我當令彼皆現白色。",
+        "translation": "I will cause them all to appear white.'",
+        "source": "T27n1545_085:0439a07_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念已語言願現白色。",
+        "translation": "After he thinks this, he says, 'I wish they would all appear white.'",
+        "source": "T27n1545_085:0439a07_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天女復為皆現白色。",
+        "translation": "The goddess then causes them all to appear white.",
+        "source": "T27n1545_085:0439a08_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣亦不能起不淨想。",
+        "translation": "For that reason, they won't be able to give rise to thoughts of impurity.",
+        "source": "T27n1545_085:0439a08_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者無滅作是念言。",
+        "translation": "Venerable Wunderkind had this thought, saying.",
+        "source": "T27n1545_085:0439a09_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天色殊妙不可勝伏。",
+        "translation": "'The color of the sky is marvelous and unsurpassed.'",
+        "source": "T27n1545_085:0439a09_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是閉目默然而坐。",
+        "translation": "He then closed his eyes and sat silently.",
+        "source": "T27n1545_085:0439a10_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天知尊者都無染心。",
+        "translation": "The gods knew that Venerable Wunderbar had no defiled thoughts at all.",
+        "source": "T27n1545_085:0439a10_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相顧既慚忽然不現。",
+        "translation": "After looking at each other in shame, he suddenly didn't appear.",
+        "source": "T27n1545_085:0439a11_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時尊者定不勝彼境。",
+        "translation": "At the time, the venerable's concentration wasn't superior to that object.",
+        "source": "T27n1545_085:0439a11_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "境亦不能勝尊者定。",
+        "translation": "Nor can the object outperform the venerable's concentration.",
+        "source": "T27n1545_085:0439a12_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如二力士展轉力齊不能相勝。",
+        "translation": "Just as two strong men in succession have the same power, they can't be superior to each other.",
+        "source": "T27n1545_085:0439a12_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦如是。",
+        "translation": "This is likewise.",
+        "source": "T27n1545_085:0439a13_67",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經所說當云何通。",
+        "translation": "What does what this sūtra says apply?",
+        "source": "T27n1545_085:0439a13_68",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答尊者無滅於天色境雖不能勝。",
+        "translation": "Answer Although the Bhagavān has no extinction and the heavenly form and objects can't overcome him.",
+        "source": "T27n1545_085:0439a14_69",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子等利根勝定皆能勝之。",
+        "translation": "Venerable Śāriputra and others with sharp faculties and superior concentration are able to overcome it.",
+        "source": "T27n1545_085:0439a15_70",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問緣佛身色頗有能起不淨觀不。",
+        "translation": "Q Is there anything that can give rise to an observation of impurity depending on the Buddha's body as form?",
+        "source": "T27n1545_085:0439a15_71",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "Some people say.",
+        "source": "T27n1545_085:0439a16_72",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能。",
+        "translation": "No.",
+        "source": "T27n1545_085:0439a16_73",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以佛身色光明赫曜清淨無垢。",
+        "translation": "It's because the Buddha's body image is brilliant and clear, pure, and undefiled.",
+        "source": "T27n1545_085:0439a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有能緣起不淨想。",
+        "translation": "There's no perception of impurity that can arise in reference to it.'",
+        "source": "T27n1545_085:0439a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "There's this explanation.",
+        "source": "T27n1545_085:0439a18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切異生聲聞獨覺。",
+        "translation": "'All unenlightened beings, śrāvakas, and solitary realizers ...",
+        "source": "T27n1545_085:0439a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆不能緣諸佛身色起不淨想。",
+        "translation": "None of them can cause the buddha's body image to give rise to an impure conception.",
+        "source": "T27n1545_085:0439a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯佛世尊於佛身色容有能緣起不淨想。",
+        "translation": "Only the Bhagavān allows the Buddha's body-morphology to be a condition for the arising of impure perceptions.",
+        "source": "T27n1545_085:0439a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有說者。",
+        "translation": "Some people say.",
+        "source": "T27n1545_085:0439a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不淨觀有二種。",
+        "translation": "\"There are two kinds of contemplation of impurity.",
+        "source": "T27n1545_085:0439a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一觀色過患。",
+        "translation": "One is contemplating the faults and distress of form.",
+        "source": "T27n1545_085:0439a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二觀色緣起。",
+        "translation": "The second is contemplating form in reference to its arising.",
+        "source": "T27n1545_085:0439a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀色過患者。",
+        "translation": "Someone who observes the faults of form ...",
+        "source": "T27n1545_085:0439a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能緣佛起不淨想。",
+        "translation": "He can't contemplate the Buddha as an object and give rise to an impure perception.",
+        "source": "T27n1545_085:0439a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀色緣起者亦能緣佛起不淨想。",
+        "translation": "Someone who observes form conditioned by arising can also condition a Buddha to give rise to an impure perception.",
+        "source": "T27n1545_085:0439a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有說者。",
+        "translation": "There's another explanation.",
+        "source": "T27n1545_085:0439a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不淨觀有二種。",
+        "translation": "\"There are two kinds of contemplation of impurity.",
+        "source": "T27n1545_085:0439a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一於自相轉。",
+        "translation": "One is when it's transformed by its own characteristics.",
+        "source": "T27n1545_085:0439a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二於共相轉。",
+        "translation": "The second is when it's transformed by shared characteristics.",
+        "source": "T27n1545_085:0439a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自相轉者。",
+        "translation": "Those who are transformed by their own marks.",
+        "source": "T27n1545_085:0439a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能緣佛起不淨想。",
+        "translation": "They can't contemplate the Buddha as an object of impurity.",
+        "source": "T27n1545_085:0439a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於共相轉者。",
+        "translation": "Those who are transformed by common characteristics ...",
+        "source": "T27n1545_085:0439a25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦能緣佛起不淨想。",
+        "translation": "It's also possible to condition a Buddha to give rise to an impure perception.",
+        "source": "T27n1545_085:0439a26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問諸不淨觀為在意地為在五識。",
+        "translation": "Q Are the contemplations of impurity based on the mind ground or on the five consciousnesses?",
+        "source": "T27n1545_085:0439a26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答在意地非五識。",
+        "translation": "A: They're on the mind ground and not the five consciousnesses.",
+        "source": "T27n1545_085:0439a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問若爾經說當云何通。",
+        "translation": "Q If this is what the sūtras say, how will it be interpreted?",
+        "source": "T27n1545_085:0439a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說眼見色已隨觀不淨如理思惟。",
+        "translation": "As it's said, after the eye sees form, it follows the contemplation of impurity according to reason.",
+        "source": "T27n1545_085:0439a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至身覺觸已隨觀不淨如理思惟。",
+        "translation": "It's explained in detail up to the body, sensation, contact, and then contemplation of the impure as it is in principle.",
+        "source": "T27n1545_085:0439a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答由五識身方便引起諸不淨觀故作是說。",
+        "translation": "A This is explained because the five consciousnesses themselves skillfully cause contemplation of impurity.",
+        "source": "T27n1545_085:0439b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如意近行實唯意地。",
+        "translation": "Thus, the mind's proximate activity is really only the mind ground.",
+        "source": "T27n1545_085:0439b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五識引起此亦應爾。",
+        "translation": "The five consciousnesses cause this as well.",
+        "source": "T27n1545_085:0439b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問諸不淨觀唯緣色處。",
+        "translation": "Q Which of these contemplations of impurity has only reference to the form realm?",
+        "source": "T27n1545_085:0439b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但應說言眼見色已。",
+        "translation": "He should simply say that after he sees form with his eyes, he should consider it according to the observation of its impurity in a rational way.",
+        "source": "T27n1545_085:0439b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨觀不淨如理思惟。",
+        "translation": "He follows the contemplation of impurity and reflects on it according to reason.",
+        "source": "T27n1545_085:0439b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故亦言耳聞聲已。",
+        "translation": "Why does it also say that after hearing sound in the ear?",
+        "source": "T27n1545_085:0439b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至身覺觸已如理思惟。",
+        "translation": "It's also explained in detail that after hearing sound, the ear hears sound, and after feeling contact with the body, he reflects on it according to reason.",
+        "source": "T27n1545_085:0439b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答如不淨觀能伏色貪亦能伏餘四境貪故。",
+        "translation": "Answer: If contemplating impurity subdues desire for form, it can also subdue desire for the other four objects.",
+        "source": "T27n1545_085:0439b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作如是說亦不違理。",
+        "translation": "It's not inconsistent to say that.",
+        "source": "T27n1545_085:0439b07_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "It's been said this way.",
+        "source": "T27n1545_085:0439b07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼見色已廣說乃至身覺觸已。",
+        "translation": "'After the eye sees form, it's explained in detail ... after bodily sensation and contact.'",
+        "source": "T27n1545_085:0439b08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一皆能引起緣色不淨觀故作如是說。",
+        "translation": "Each one of these things can give rise to the contemplation of the impurity of form as a cognitive object, so they say.",
+        "source": "T27n1545_085:0439b08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有說者。",
+        "translation": "Some people say that.",
+        "source": "T27n1545_085:0439b09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非不淨觀緣聲等起。",
+        "translation": "'It's not the contemplation of impurity that arises in reference to sounds and so forth.'",
+        "source": "T27n1545_085:0439b10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別有殊勝不淨行相。",
+        "translation": "There are other things that are superior, impure forms of contemplation.",
+        "source": "T27n1545_085:0439b10_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能緣聲等不淨相生。",
+        "translation": "It can arise in reference to the impure characteristic of sound and so forth.",
+        "source": "T27n1545_085:0439b11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有說者。",
+        "translation": "There's another person who says.",
+        "source": "T27n1545_085:0439b11_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸瑜伽師。",
+        "translation": "\"Yogis.",
+        "source": "T27n1545_085:0439b11_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先緣色處修不淨觀。",
+        "translation": "First, they cultivate the contemplation of impurity in reference to the form realm.",
+        "source": "T27n1545_085:0439b12_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得成熟已後緣聲等。",
+        "translation": "After attaining maturity, they then refer to sounds and so forth.",
+        "source": "T27n1545_085:0439b12_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起厭患想勝伏彼境。",
+        "translation": "They give rise to discomforting thoughts about the superiority of those objects and subdue them.",
+        "source": "T27n1545_085:0439b13_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能伏者善。",
+        "translation": "Those who can subdue them are good.",
+        "source": "T27n1545_085:0439b13_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不能伏復緣色處起不淨觀。",
+        "translation": "If he can't subdue them, then he again directs his attention to the form realm and produces an observation of impurity.",
+        "source": "T27n1545_085:0439b13_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如習鬪戰而活命者從木冊出。",
+        "translation": "Like someone who's been practicing fighting and lives, he comes out of a wooden book.",
+        "source": "T27n1545_085:0439b14_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與他鬪戰得勝者善。",
+        "translation": "He'll win a fight with another person, and that's good.",
+        "source": "T27n1545_085:0439b15_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不得勝還入木冊。",
+        "translation": "If he doesn't win, he goes back into the wooden book.",
+        "source": "T27n1545_085:0439b15_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦如是故不相違。",
+        "translation": "This is also the case; therefore, it's not contradictory.",
+        "source": "T27n1545_085:0439b16_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say.",
+        "source": "T27n1545_085:0439b16_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此契經中不說緣色起不淨觀。",
+        "translation": "\"This sūtra doesn't say that the contemplation of impurity arises in response to form.",
+        "source": "T27n1545_085:0439b17_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但說於色等起厭患想。",
+        "translation": "It only says to give rise to thoughts of disillusionment with form and so forth.",
+        "source": "T27n1545_085:0439b17_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀此成滿已乃至能厭心心所法。",
+        "translation": "After contemplating this accomplishment, it's possible to become disillusioned with mind and mental factors.",
+        "source": "T27n1545_085:0439b18_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故彼經說意知法已。",
+        "translation": "That's why the sūtra says that after knowing the teaching with the mind.",
+        "source": "T27n1545_085:0439b19_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨觀不淨如理思惟。",
+        "translation": "He observes what's impure and reflects on it according to reason.",
+        "source": "T27n1545_085:0439b19_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不淨言顯厭患想非不淨觀。",
+        "translation": "Therefore, when it's called impure, it shows that disagreeable thoughts are not impure contemplations.",
+        "source": "T27n1545_085:0439b20_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故八勝處唯以欲界一切色處為所緣境。",
+        "translation": "Therefore, the eight abodes of excellence are only objects that take all the form places in the desire realm as objects.",
+        "source": "T27n1545_085:0439b21_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念住者此八唯與身念住俱。",
+        "translation": "The abode of mindfulness refers to these eight abodes that are only associated with the mindfulness of the body.",
+        "source": "T27n1545_085:0439b22_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智者一切唯與世俗智俱。",
+        "translation": "For cognition, they're all only associated with worldly cognition.",
+        "source": "T27n1545_085:0439b22_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三摩地者。",
+        "translation": "Samādhi: These are only with samādhi.",
+        "source": "T27n1545_085:0439b23_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切不與三摩地俱。",
+        "translation": "They all don't pertain to samādhi.",
+        "source": "T27n1545_085:0439b23_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "根相應者總說但與喜捨相應。",
+        "translation": "Those whose faculties are associated with are generally described as only those associated with joy and equanimity.",
+        "source": "T27n1545_085:0439b24_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三世者皆通三世。",
+        "translation": "The three worlds are all shared with the three times.",
+        "source": "T27n1545_085:0439b24_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣三世者。",
+        "translation": "Those who refer to the three times.",
+        "source": "T27n1545_085:0439b25_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此八勝處過去緣過去。",
+        "translation": "These eight abodes of excellence were contingent on the past.",
+        "source": "T27n1545_085:0439b25_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現在緣現在。",
+        "translation": "The present depends on the present.",
+        "source": "T27n1545_085:0439b26_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未來若生法緣未來。",
+        "translation": "If dharmas arise in the future, they'll be conditioned by the future.",
+        "source": "T27n1545_085:0439b26_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不生法緣三世。",
+        "translation": "If things don't arise in the future, they'll be conditioned by the three times.",
+        "source": "T27n1545_085:0439b26_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善不善無記者。",
+        "translation": "The good, unskillful, and nonproductive [states of mind] are all conditioned by goodness alone.",
+        "source": "T27n1545_085:0439b27_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯是善緣善不善無記者皆緣三種。",
+        "translation": "They all have only good conditions, and good, unskillful, and unattached [beings] have three kinds of conditions.",
+        "source": "T27n1545_085:0439b27_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三界繫及不繫者皆唯色界繫。",
+        "translation": "Those who are bound to the three realms and those who aren't bound to them are all bound only to the form realm.",
+        "source": "T27n1545_085:0439b28_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣三界繫及不繫者。",
+        "translation": "Those who are conditioned by the tethers of the three realms and those who aren't are conditioned only by the tethers of the form realm.",
+        "source": "T27n1545_085:0439b29_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯緣欲界繫。",
+        "translation": "They are all conditioned solely by the fetters of the desire realm.",
+        "source": "T27n1545_085:0439b29_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "學無學非學非無學者。",
+        "translation": "Those who are engaged in training, aren't engaged in training, and aren't engaged in training or aren't engaged in training are only engaged in the form realm.",
+        "source": "T27n1545_085:0439c01_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯非學非無學。",
+        "translation": "They are all only not training and not training.",
+        "source": "T27n1545_085:0439c01_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣學無學非學非無學者。",
+        "translation": "Those who condition themselves to training, to no training, and to neither training nor no training are all conditioned only to the desire realm.",
+        "source": "T27n1545_085:0439c02_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯緣非學非無學。",
+        "translation": "They are all conditioned only by what's not training and not by what's not training.",
+        "source": "T27n1545_085:0439c02_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見所斷修所斷非所斷者。",
+        "translation": "Those who see what's stopped, cultivate what's stopped, and don't stop it.",
+        "source": "T27n1545_085:0439c03_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯修所斷。",
+        "translation": "They are all only that which is cut by cultivation.",
+        "source": "T27n1545_085:0439c04_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣見所斷修所斷非所斷者。",
+        "translation": "Those who condition what's stopped by seeing and what's stopped by cultivating and not by cutting are conditioned only by cultivating what's stopped.",
+        "source": "T27n1545_085:0439c04_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯緣修所斷。",
+        "translation": "They are only conditioned by what's cut and what's cut by cultivation.",
+        "source": "T27n1545_085:0439c05_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣名緣義者。",
+        "translation": "Those who take names as conditions and those who take meanings as conditions.",
+        "source": "T27n1545_085:0439c05_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯緣義。",
+        "translation": "They are all only the meaning of cognition.",
+        "source": "T27n1545_085:0439c05_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣自相續他相續非相續者。",
+        "translation": "Those who take self-continuity and other-continuity and non-continuity as condition ...",
+        "source": "T27n1545_085:0439c06_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初二緣自他相續。",
+        "translation": "The first two conditions are self-continuity and other-continuity.",
+        "source": "T27n1545_085:0439c06_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後六有說。",
+        "translation": "The last six are explained as being solely conditioned by the continuity of others.",
+        "source": "T27n1545_085:0439c07_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯緣他相續。",
+        "translation": "They are only conditioned by the continuity of others.'",
+        "source": "T27n1545_085:0439c07_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching that says.",
+        "source": "T27n1545_085:0439c07_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "通緣自他相續。",
+        "translation": "'Conditioned on the continuity of self and other,' there's a teaching that refers to both.",
+        "source": "T27n1545_085:0439c07_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "加行得離染得者。",
+        "translation": "Those who attain freedom from defilement by application of practices ...",
+        "source": "T27n1545_085:0439c08_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆通二種。",
+        "translation": "They both share the two kinds.",
+        "source": "T27n1545_085:0439c08_67",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離染得者。",
+        "translation": "Those who attain freedom from defilement.",
+        "source": "T27n1545_085:0439c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在初靜慮者離欲界染時得。",
+        "translation": "It's attained when someone in the first concentration is freed from defilement in the desire realm.",
+        "source": "T27n1545_085:0439c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在第二靜慮者離初靜慮染時得。",
+        "translation": "In second concentration, it's attained when he's free of defilement in first concentration.",
+        "source": "T27n1545_085:0439c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在第四靜慮者離第三靜慮染時得。",
+        "translation": "In the fourth concentration, it's attained when he's freed from defilement in the third concentration.",
+        "source": "T27n1545_085:0439c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼後由加行現在前加行得者由加行故得。",
+        "translation": "Those who subsequently attain it by applying practices and manifesting previous applied practices will attain it because of applied practices.",
+        "source": "T27n1545_085:0439c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦由加行故現在前。",
+        "translation": "It's also because of applied practices that they're present in the prior.",
+        "source": "T27n1545_085:0439c12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞或由中加行。",
+        "translation": "It's either by the middle way of applied practices or by the higher way of applied practices that a direct disciple attains it.",
+        "source": "T27n1545_085:0439c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或由上加行。",
+        "translation": "It's also by virtue of superior applied practices.",
+        "source": "T27n1545_085:0439c13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "獨覺由下加行。",
+        "translation": "A pratyekabuddha attains it by lower applied practices.",
+        "source": "T27n1545_085:0439c13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛不由加行得及現前。",
+        "translation": "A buddha doesn't attain and presently manifest because of applied practices.",
+        "source": "T27n1545_085:0439c14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曾得未曾得者。",
+        "translation": "Those who have attained and have not yet attained ...",
+        "source": "T27n1545_085:0439c14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆通曾得未曾得。",
+        "translation": "They are all shared by those who have attained and those who haven't attained.",
+        "source": "T27n1545_085:0439c15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸聖者及內法異生皆通二種。",
+        "translation": "They mean that the sages and internal worldlings all share both kinds.",
+        "source": "T27n1545_085:0439c15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "外法異生唯是曾得如是已說勝處總相。",
+        "translation": "External worldlings are only ever-attained. Thus, we've already explained the general aspect of the superior position.",
+        "source": "T27n1545_085:0439c16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一別相今應廣說。",
+        "translation": "Each of these distinctive aspects should now be explained in detail.",
+        "source": "T27n1545_085:0439c17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內有色想觀外色少。",
+        "translation": "'Internal beings conceive of form and observe external form as small.'",
+        "source": "T27n1545_085:0439c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若好若惡於彼諸色勝知勝見是初勝處。",
+        "translation": "Whether it's good or bad, knowing and seeing those forms in a superior way is the first superior place.",
+        "source": "T27n1545_085:0439c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中內有色想者。",
+        "translation": "\"Here, what's internal perception of form is this.",
+        "source": "T27n1545_085:0439c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有內各別色想未離未捨未除。",
+        "translation": "It's the conception of each internal distinctive form that's not yet parted with, not yet abandoned, and not yet removed.",
+        "source": "T27n1545_085:0439c19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀外色者謂為離捨除各別內色想。",
+        "translation": "Observing external form means to part with, abandon, and remove each distinct internal conception of form.",
+        "source": "T27n1545_085:0439c20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由勝解作意觀外諸色。",
+        "translation": "It's based on the contemplation of superior understanding that observes external forms.",
+        "source": "T27n1545_085:0439c21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少者謂二種少。",
+        "translation": "'Few' refers to two kinds of fewness.",
+        "source": "T27n1545_085:0439c22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一所緣少。",
+        "translation": "One is few in terms of objects.",
+        "source": "T27n1545_085:0439c22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二自在少。",
+        "translation": "The second is having few [external] form that's self-possessed.",
+        "source": "T27n1545_085:0439c22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若好者。",
+        "translation": "If something is good, it means it's not corrupt, blue, yellow, red, or yellowish.",
+        "source": "T27n1545_085:0439c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不弊壞青黃赤白色。",
+        "translation": "It's indestructible, blue, yellow, red, and white.",
+        "source": "T27n1545_085:0439c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若惡者。",
+        "translation": "If something is bad, it means it's not bad blue, yellow, red, and white.",
+        "source": "T27n1545_085:0439c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂弊壞青黃赤白色。",
+        "translation": "It means it's corrupt, blue, yellow, red, and white.",
+        "source": "T27n1545_085:0439c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼諸色勝知勝見者。",
+        "translation": "He who has superior knowledge and superior views of those forms.",
+        "source": "T27n1545_085:0439c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂為調伏欲貪故。",
+        "translation": "It's for the purpose of controlling desire and greed.",
+        "source": "T27n1545_085:0439c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷壞欲貪故。",
+        "translation": "It's because it stops desire and greed and destroys it.",
+        "source": "T27n1545_085:0439c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "超越欲貪故。",
+        "translation": "It's because they transcend desire and greed.",
+        "source": "T27n1545_085:0439c25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼諸色起勝知見勝伏彼色。",
+        "translation": "Giving rise to superior knowledge and views of those forms overcomes those forms.",
+        "source": "T27n1545_085:0439c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂攝受彼及調伏彼。",
+        "translation": "It's taking them in and disciplining them.",
+        "source": "T27n1545_085:0439c26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶如大家及大家子攝受調伏自諸僕使。",
+        "translation": "It's like a great family and a great family's son taking in and disciplining their own servants.",
+        "source": "T27n1545_085:0439c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故名為勝知勝見。",
+        "translation": "This is called superior knowledge and superior views.",
+        "source": "T27n1545_085:0439c28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是初勝處者。",
+        "translation": "\"This is the first place of superiority.",
+        "source": "T27n1545_085:0439c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初謂名數次第在初。",
+        "translation": "At first, it's called the first in the sequence of naming.",
+        "source": "T27n1545_085:0439c29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或入彼定次第在初勝處者。",
+        "translation": "It's also the first superior place that's the order of entering that concentration.",
+        "source": "T27n1545_085:0439c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂入彼定時所有善色。",
+        "translation": "It means that when he enters that concentration, he has good form.",
+        "source": "T27n1545_085:0440a01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受想行識總名勝處。",
+        "translation": "*Feelings, perceptions, volitions, and consciousness are collectively called the first abode of excellence.",
+        "source": "T27n1545_085:0440a01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如初勝處應知第二勝處亦爾。",
+        "translation": "As the first abode of excellence, it should be understood that the second abode of excellence is the same.",
+        "source": "T27n1545_085:0440a02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有差別者。",
+        "translation": "There are distinctions.",
+        "source": "T27n1545_085:0440a03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此第二觀外色多。",
+        "translation": "This second abode of observing external form is numerous.",
+        "source": "T27n1545_085:0440a03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多有二種一所緣多。",
+        "translation": "There are two kinds of plethora: one is contingent on plethora ...",
+        "source": "T27n1545_085:0440a03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二自在多。",
+        "translation": "The second is the abundance of self-containedness.",
+        "source": "T27n1545_085:0440a04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘如前說。",
+        "translation": "The rest are as explained above.",
+        "source": "T27n1545_085:0440a04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內無色想觀外色少。",
+        "translation": "'Internal conceptions of formlessness and observing external forms are few.'",
+        "source": "T27n1545_085:0440a04_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若好若惡於彼諸色勝知勝見。",
+        "translation": "Whether it's good or bad, he has superior knowledge and superior views of those forms.",
+        "source": "T27n1545_085:0440a05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是第三勝處。",
+        "translation": "This is the third superior position.",
+        "source": "T27n1545_085:0440a06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中內無色想者。",
+        "translation": "Here, internal conceptions of formlessness are defined as having parted with, abandoned, and removed the conceptions of each distinct form internally.",
+        "source": "T27n1545_085:0440a06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂內各別色想已離已捨已除。",
+        "translation": "It's the internal conception of each distinct form that's been parted with, abandoned, and removed.",
+        "source": "T27n1545_085:0440a06_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀外色者。",
+        "translation": "Someone who observes external form means they haven't done so for the sake of seclusion and abandonment.",
+        "source": "T27n1545_085:0440a07_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不為離捨除內各別色相。",
+        "translation": "It means that he doesn't remove the distinctive internal marks of form for the sake of avoiding and abandoning them.",
+        "source": "T27n1545_085:0440a07_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而由勝解作意觀外諸色。",
+        "translation": "Instead, he observes external forms based on the contemplation of a superior understanding.",
+        "source": "T27n1545_085:0440a08_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘如前說。",
+        "translation": "The rest is as explained above.",
+        "source": "T27n1545_085:0440a09_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如第三勝處應知第四勝處亦爾。",
+        "translation": "As with the third abode of excellence, you should know that the fourth abode of excellence is likewise.",
+        "source": "T27n1545_085:0440a09_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有差別者。",
+        "translation": "There are distinctions.",
+        "source": "T27n1545_085:0440a10_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂第四勝處觀外色多。",
+        "translation": "The fourth abode of excellence observes many external forms.",
+        "source": "T27n1545_085:0440a10_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內無色想。",
+        "translation": "There's no internal perception of form.",
+        "source": "T27n1545_085:0440a11_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀外色青青顯青現青光無量。",
+        "translation": "He observes external form as blue and green, showing an infinite amount of blue light.",
+        "source": "T27n1545_085:0440a11_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量淨妙可喜可樂不可違逆。",
+        "translation": "It's immeasurably pure and wonderful, pleasing and enjoyable, and irreversible.",
+        "source": "T27n1545_085:0440a12_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如隖莫迦花。",
+        "translation": "It's like the Kharmakṣema flower.",
+        "source": "T27n1545_085:0440a12_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或婆羅痆斯染青衣色。",
+        "translation": "Or maybe it's the color of a blue robe dyed in Vārāṇasī.",
+        "source": "T27n1545_085:0440a13_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼諸色勝知勝見有如是想。",
+        "translation": "In that superior knowledge and view of form, he has this kind of perception.",
+        "source": "T27n1545_085:0440a13_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是第五勝處。",
+        "translation": "This is the fifth place of excellence.",
+        "source": "T27n1545_085:0440a14_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中內無色想外觀色義如前說。",
+        "translation": "Here, internal conceptions of formlessness and external observation of form have the same meaning as the previous explanation.",
+        "source": "T27n1545_085:0440a14_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "青者謂諸青色。",
+        "translation": "\"Cyan\" refers to the blue colors.",
+        "source": "T27n1545_085:0440a15_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若大若小總說為青。",
+        "translation": "Whether they're large or small, they're generally described as blue.",
+        "source": "T27n1545_085:0440a15_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "青顯者。",
+        "translation": "The term 'cyan' refers to those cyan colors that are visible.",
+        "source": "T27n1545_085:0440a16_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼青色眼所照了眼所行境故名青顯。",
+        "translation": "It means the blue-colored eye illuminates the objects that the eye perceives, so it's called cyan manifestation.",
+        "source": "T27n1545_085:0440a16_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "青現者。",
+        "translation": "'Green appearance' means that it's a blue color that's perceived by the eye as such.",
+        "source": "T27n1545_085:0440a17_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼青色如為眼識所了別已。",
+        "translation": "It means that the cyan color is discerned by the visual consciousness as it is.",
+        "source": "T27n1545_085:0440a17_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "引生意識亦分別之故名青現。",
+        "translation": "It's called cyan manifestation because it causes the business consciousness to discern it as well.",
+        "source": "T27n1545_085:0440a18_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "青光者。",
+        "translation": "\"Blue light\" means that it's a blue color that shines brightly.",
+        "source": "T27n1545_085:0440a19_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼青色光明照曜故名青光。",
+        "translation": "It's called blue radiance because it's a blue color that shines brightly.",
+        "source": "T27n1545_085:0440a19_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量者。",
+        "translation": "'Immeasurable' means that the blue color is vast and limitless.",
+        "source": "T27n1545_085:0440a20_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼青色廣無邊際故名無量。",
+        "translation": "It's called immeasurable because that blue color is vast and limitless.",
+        "source": "T27n1545_085:0440a20_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量淨妙者。",
+        "translation": "'Immeasurable and pure' means it's as wide and limitless as that blue color.",
+        "source": "T27n1545_085:0440a21_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂如青色廣無邊際。",
+        "translation": "It means that just as the blue color is vast and limitless, so too is its pure and marvelous features limitless.",
+        "source": "T27n1545_085:0440a21_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼淨妙相亦無邊際。",
+        "translation": "Its pure and marvelous features also have no limit.",
+        "source": "T27n1545_085:0440a21_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故名為無量淨妙。",
+        "translation": "Therefore, it's called immeasurable pure and marvelous.",
+        "source": "T27n1545_085:0440a22_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可憙者。",
+        "translation": "'Jealousy' means that it's a blue color that's pleasing and attractive.",
+        "source": "T27n1545_085:0440a22_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼青色可欣可悅令意悅豫故名可憙。",
+        "translation": "It means that cyan color is pleasing and delightful to the mind, so it's called jolly.",
+        "source": "T27n1545_085:0440a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可樂者。",
+        "translation": "'Pleasurable' means that it's a blue color that's pleasing and pleasant to the mind.",
+        "source": "T27n1545_085:0440a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼青色可愛可玩。",
+        "translation": "It means that cyan color is desirable and playable.",
+        "source": "T27n1545_085:0440a24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若緣於此不復希餘故名可樂。",
+        "translation": "If he takes it as condition, he won't desire anything else, so it's called enjoyable.",
+        "source": "T27n1545_085:0440a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不可違逆者謂彼青色令心堪忍隨順趣向。",
+        "translation": "Irrepressible\" means that cyan color makes the mind tolerable and leads to conformity.",
+        "source": "T27n1545_085:0440a25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故名為不可違逆。",
+        "translation": "It's therefore called irreversible.",
+        "source": "T27n1545_085:0440a26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如隖莫迦花或婆羅痆斯染青衣色者。",
+        "translation": "It's like the red Mongolian flower or the blue-colored garment of Vārāṇasī.",
+        "source": "T27n1545_085:0440a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼極青故引為喻。",
+        "translation": "It means it's extremely blue, so it's cited as a metaphor.",
+        "source": "T27n1545_085:0440a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼諸色勝知勝見。",
+        "translation": "He has superior knowledge and superior views of those forms.",
+        "source": "T27n1545_085:0440a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義如前說。",
+        "translation": "Their meaning is as explained above.",
+        "source": "T27n1545_085:0440a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有如是想者。",
+        "translation": "\"Someone with this kind of conception ...",
+        "source": "T27n1545_085:0440a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於彼青色有如前說。",
+        "translation": "It means that there's a blue color as explained above.",
+        "source": "T27n1545_085:0440a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "青想現前是第五勝處。",
+        "translation": "The manifestation of the perception of blue is the fifth place of superiority.",
+        "source": "T27n1545_085:0440b01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義亦如前。",
+        "translation": "It also has the same meaning as before.",
+        "source": "T27n1545_085:0440b01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說青勝處說黃赤白勝處應知亦爾。",
+        "translation": "As it's said about the place of cyan predominance, it should be known about the place of yellow, red, and white predominance as well.",
+        "source": "T27n1545_085:0440b01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有差別者黃勝處應說如羯尼迦羅花。",
+        "translation": "Where there's a difference, the yellow abode of excellence should be explained like the kanakara flower.",
+        "source": "T27n1545_085:0440b02_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "赤勝處應說如槃度時縛迦花。",
+        "translation": "The red abode of excellence should be described as the flower of Vātsīvaka at the time of liberation.",
+        "source": "T27n1545_085:0440b03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白勝處應說如隖殺私星婆羅痆斯。",
+        "translation": "The white place of preeminence should be taught like the Vātsīputrīya-vārāja flower.",
+        "source": "T27n1545_085:0440b04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "黃赤白衣隨類應說。",
+        "translation": "The yellow, red, and white garments should be explained according to their type.",
+        "source": "T27n1545_085:0440b05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問四顯色中何者最勝。",
+        "translation": "He asked, \"Which of the four manifest forms is the most excellent?",
+        "source": "T27n1545_085:0440b05_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者世友作如是說白色最勝世共說此是吉祥故。",
+        "translation": "Venerable world friend said this, 'White is the most excellent.' The world says this is auspicious.",
+        "source": "T27n1545_085:0440b06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如四方中東方最勝。",
+        "translation": "For example, of the four directions, the east is the most superior.",
+        "source": "T27n1545_085:0440b07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是吉祥故白色亦爾。",
+        "translation": "Because it's auspicious, white is also like that.'",
+        "source": "T27n1545_085:0440b07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德說曰。",
+        "translation": "The great virtuous one said.",
+        "source": "T27n1545_085:0440b08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣白色時令心明淨。",
+        "translation": "\"When the condition white causes the mind to be clear and pure.",
+        "source": "T27n1545_085:0440b08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以不隨順惛沈睡眠。",
+        "translation": "It's because they don't follow torpor and drowsiness.",
+        "source": "T27n1545_085:0440b09_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能任持身故最為勝。",
+        "translation": "It's most excellent because it's able to maintain the body.",
+        "source": "T27n1545_085:0440b09_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十遍處者。",
+        "translation": "\"The ten pervasive concentrations are.",
+        "source": "T27n1545_085:0440b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂青黃赤白地水火風空無邊處識無邊處遍處。",
+        "translation": "They are the pervasive fields of blue, yellow, red, and white, earth, water, fire, air, space, and infinity, and the infinite field of consciousness.",
+        "source": "T27n1545_085:0440b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問此十遍處自性是何。",
+        "translation": "Q What are the own-natures of these ten pervasive places?",
+        "source": "T27n1545_085:0440b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答前八遍處以無貪善根為自性對治貪故。",
+        "translation": "A The first eight pervasive places have the good root of no craving as their self-nature to counteract craving.",
+        "source": "T27n1545_085:0440b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若兼取相應隨轉。",
+        "translation": "If they are also taken to be associated with following.",
+        "source": "T27n1545_085:0440b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即欲界者以四蘊為自性。",
+        "translation": "That is, those in the desire realm have the four aggregates as their own nature.",
+        "source": "T27n1545_085:0440b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界者以五蘊為自性。",
+        "translation": "Those in the form realm have the five aggregates as their own nature.",
+        "source": "T27n1545_085:0440b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處俱以四蘊為自性。",
+        "translation": "The latter two pervasive sense-fields both have the four aggregates as their own nature.",
+        "source": "T27n1545_085:0440b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名為遍處自性。",
+        "translation": "Thus, they're called the own-nature of the pervasive sense-fields.",
+        "source": "T27n1545_085:0440b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我物自體相分本性。",
+        "translation": "They are the own-nature of the characteristic parts of self and things.",
+        "source": "T27n1545_085:0440b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已說自性所以今當說。",
+        "translation": "I've already explained their own nature, so now I'll explain it.",
+        "source": "T27n1545_085:0440b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故名遍處。",
+        "translation": "\"What's the name of the pervasive sphere?",
+        "source": "T27n1545_085:0440b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遍處是何義。",
+        "translation": "What does it mean to be a pervasive place?",
+        "source": "T27n1545_085:0440b18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答由二緣故名為遍處。",
+        "translation": "A It's called a pervasive place because of two conditions.",
+        "source": "T27n1545_085:0440b18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一由無間。",
+        "translation": "One is because it's uninterrupted.",
+        "source": "T27n1545_085:0440b19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二由廣大。",
+        "translation": "The second is because it's vast.",
+        "source": "T27n1545_085:0440b19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由無間者。",
+        "translation": "One is because it's uninterrupted.",
+        "source": "T27n1545_085:0440b19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂純青等勝解作意不相間雜故名無間。",
+        "translation": "It's called being uninterrupted because the contemplations of purity, youth, and other resolutes aren't intermingled.",
+        "source": "T27n1545_085:0440b19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由廣大者。",
+        "translation": "It's because it's vast.",
+        "source": "T27n1545_085:0440b20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂緣青等勝解作意。",
+        "translation": "It refers to the resolute contemplation that takes blues and so forth as object.",
+        "source": "T27n1545_085:0440b21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "境相無邊故名廣大。",
+        "translation": "The objects and characteristics are limitless, so it's called vast.",
+        "source": "T27n1545_085:0440b21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德說曰。",
+        "translation": "The great virtuous one explains this.",
+        "source": "T27n1545_085:0440b22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣寬廣無有間隙故名遍處。",
+        "translation": "'The perceptual objects are wide and without gaps, so it's called the pervasive range.'",
+        "source": "T27n1545_085:0440b22_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此十遍處界者。",
+        "translation": "\"The ten pervasive realms are the form realm.",
+        "source": "T27n1545_085:0440b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處是色界。",
+        "translation": "The first eight pervasive bases are in the form realm.",
+        "source": "T27n1545_085:0440b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處是無色界。",
+        "translation": "The second two pervasive realms are the formless realm.",
+        "source": "T27n1545_085:0440b24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地者前八遍處在第四靜慮。",
+        "translation": "The first eight pervasive places of the form realm are in the fourth concentration.",
+        "source": "T27n1545_085:0440b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第九遍處在空無邊處。",
+        "translation": "The ninth pervasive place is in the sphere of the infinity of space.",
+        "source": "T27n1545_085:0440b25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第十遍處在識無邊處。",
+        "translation": "The tenth pervading place is in the infinity of consciousness.",
+        "source": "T27n1545_085:0440b26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T27n1545_085:0440b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以淨解脫在第四靜慮。",
+        "translation": "It's because pure liberation is in the fourth meditation.",
+        "source": "T27n1545_085:0440b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此能入後四勝處。",
+        "translation": "This enables him to enter the last four abodes of excellence.",
+        "source": "T27n1545_085:0440b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此後四勝處復能入前八遍處。",
+        "translation": "These latter four abodes of excellence can also enter the first eight pervasive abodes.",
+        "source": "T27n1545_085:0440b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中解脫唯於所緣總取淨相。",
+        "translation": "Here, liberation is only based on the general grasping of the pure aspect of the perceptual object.",
+        "source": "T27n1545_085:0440b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未能分別青黃赤白。",
+        "translation": "It can't discern the blue, yellow, red, and white.",
+        "source": "T27n1545_085:0440b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後四勝處雖能分別青黃赤白。",
+        "translation": "Even though the latter four abodes of excellence can discern blue, yellow, red, and white, they can't create the characteristic of limitless practice.",
+        "source": "T27n1545_085:0440c01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而未能作無邊行相。",
+        "translation": "But they can't perform the characteristic of limitless practice.",
+        "source": "T27n1545_085:0440c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前四遍處非唯分別青黃赤白。",
+        "translation": "The first four pervasive sense-fields aren't just discriminating blue, yellow, red, and white.",
+        "source": "T27n1545_085:0440c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而亦能作無邊行相。",
+        "translation": "They can also perform the characteristic of limitless practice.",
+        "source": "T27n1545_085:0440c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂觀青等一一無邊。",
+        "translation": "That is, they observe that each of the blues and so forth is limitless.",
+        "source": "T27n1545_085:0440c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復思青等為何所依。",
+        "translation": "Again, it's considered what the blues and so forth rely on.",
+        "source": "T27n1545_085:0440c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知依大種故。",
+        "translation": "He knows that it's based on the great elements.",
+        "source": "T27n1545_085:0440c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次觀地等一一無邊。",
+        "translation": "Each of the fields of viewing and so forth is limitless.",
+        "source": "T27n1545_085:0440c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復思此所覺色由何廣大知由虛空故。",
+        "translation": "Again, he considers the vastness of the form he perceives and knows it's because of space.",
+        "source": "T27n1545_085:0440c05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次起空無邊處復思此能覺誰為所依。",
+        "translation": "Next, he arises from the sphere of the infinity of emptiness and then considers what this agent perceives as a basis.",
+        "source": "T27n1545_085:0440c06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知依廣識故。",
+        "translation": "He knows it depends on the breadth of consciousness.",
+        "source": "T27n1545_085:0440c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次復起識無邊處。",
+        "translation": "Then, he further gives rise to the sphere of the infinity of consciousness.",
+        "source": "T27n1545_085:0440c07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此所依識無別所依。",
+        "translation": "This consciousness that's relied upon has no other basis.",
+        "source": "T27n1545_085:0440c08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故更不立上為遍處。",
+        "translation": "Therefore, it doesn't establish the above as the pervasive sphere.",
+        "source": "T27n1545_085:0440c08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所依者前八遍處唯依欲界身起。",
+        "translation": "For the basis, the first eight pervasive sense-fields arise only from the body in the desire realm.",
+        "source": "T27n1545_085:0440c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處通依三界身起。",
+        "translation": "The latter two pervasive sense-fields arise based on the body of the three realms in general.",
+        "source": "T27n1545_085:0440c09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行相者。",
+        "translation": "\"The mark of activity.",
+        "source": "T27n1545_085:0440c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此十皆作無邊行相。",
+        "translation": "All ten of these are manifestations of limitless activity.",
+        "source": "T27n1545_085:0440c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣者。",
+        "translation": "'Object of reference'?",
+        "source": "T27n1545_085:0440c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處唯緣欲界色處。",
+        "translation": "The first eight pervasive sense-fields only have reference to the form-field of the desire realm.",
+        "source": "T27n1545_085:0440c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處各緣自地四蘊。",
+        "translation": "The latter two pervasive areas each have reference to the four aggregates of their own ground.",
+        "source": "T27n1545_085:0440c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念住者。",
+        "translation": "'Abiding in mindfulness'?",
+        "source": "T27n1545_085:0440c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處身念住俱。",
+        "translation": "The first eight pervasive places are both abiding in mindfulness of the body ...",
+        "source": "T27n1545_085:0440c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處法念住俱。",
+        "translation": "The latter two pervasive areas are accompanied by the mindfulness of qualities.",
+        "source": "T27n1545_085:0440c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智者一切皆與世俗智俱三摩地者一切不與三摩地俱。",
+        "translation": "For those who are wise, they're all part of conventional wisdom, and for those who are in samādhi, they're not part of samādhi.",
+        "source": "T27n1545_085:0440c13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "根相應者。",
+        "translation": "Those whose faculties are associated with each other.",
+        "source": "T27n1545_085:0440c15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切唯與捨根相應。",
+        "translation": "Everything is associated with the faculty of equanimity alone.",
+        "source": "T27n1545_085:0440c15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三世者。",
+        "translation": "\"The three worlds.",
+        "source": "T27n1545_085:0440c15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆通三世。",
+        "translation": "They all pertain to the three times.",
+        "source": "T27n1545_085:0440c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣三世者。",
+        "translation": "Those who refer to the three times.",
+        "source": "T27n1545_085:0440c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處過去緣過去。",
+        "translation": "The first eight pervasive sense-fields refer to the past as the past.",
+        "source": "T27n1545_085:0440c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現在緣現在未來若生法緣未來。",
+        "translation": "The present depends on the present and future, and if things arise, they depend on the future.",
+        "source": "T27n1545_085:0440c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不生法緣三世。",
+        "translation": "If things don't arise, they'll be conditioned by the three times.",
+        "source": "T27n1545_085:0440c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處俱緣三世。",
+        "translation": "The latter two pervasive areas are both conditioned by the three times.",
+        "source": "T27n1545_085:0440c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善不善無記者。",
+        "translation": "The good, unskillful, and nonreporters are only good in their condition.",
+        "source": "T27n1545_085:0440c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯善緣善不善無記者。",
+        "translation": "They all have only good conditions, and good, unskillful, and no reporters.",
+        "source": "T27n1545_085:0440c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處緣三種。",
+        "translation": "The first eight pervasive sense-fields have reference to the three kinds.",
+        "source": "T27n1545_085:0440c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處緣善無記。",
+        "translation": "The latter two pervasive realms are conditioned by the good and the indeterminate.",
+        "source": "T27n1545_085:0440c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三界繫及不繫者。",
+        "translation": "Those bound to the three realms and those not bound to them.",
+        "source": "T27n1545_085:0440c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處唯色界繫。",
+        "translation": "The first eight pervasive places are only the form realm that's fettered.",
+        "source": "T27n1545_085:0440c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處唯無色界繫。",
+        "translation": "The latter two pervasions are only for the formless realm's fetters.",
+        "source": "T27n1545_085:0440c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣三界繫及不繫者。",
+        "translation": "Those who are concerned with the three realms as fetters and those who aren't fetters.",
+        "source": "T27n1545_085:0440c22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處唯緣欲界繫。",
+        "translation": "The first eight pervasive places are only those that are conditioned by the fetters of the desire realm.",
+        "source": "T27n1545_085:0440c22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處唯緣無色界繫。",
+        "translation": "The latter two pervasive realms are only conditioned by the bonds of the formless realm.",
+        "source": "T27n1545_085:0440c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "學無學非學非無學者。",
+        "translation": "Those who are engaged in training, aren't engaged in training, and aren't engaged in training or aren't engaged in training.",
+        "source": "T27n1545_085:0440c23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯非學非無學。",
+        "translation": "They are only not training and not training.",
+        "source": "T27n1545_085:0440c24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣學無學非學非無學者。",
+        "translation": "Conditioned by training, post-learners, non-trainees, and non-non-academics, these are only conditioned by non-trainees and non-non-academics.",
+        "source": "T27n1545_085:0440c24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯緣非學非無學。",
+        "translation": "They are only conditioned by what's not learned and not by what's not learned.",
+        "source": "T27n1545_085:0440c25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見所斷修所斷非所斷者。",
+        "translation": "Those who see what's stopped, cultivate what's stopped, and don't stop it.",
+        "source": "T27n1545_085:0440c25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆唯修所斷。",
+        "translation": "They are all only that which is cut by cultivation.",
+        "source": "T27n1545_085:0440c26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣見所斷修所斷非所斷者。",
+        "translation": "Those who condition themselves on what's stopped by seeing and what's stopped by cultivating and not stopped by cultivating.",
+        "source": "T27n1545_085:0440c26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處唯緣修所斷。",
+        "translation": "The first eight pervasive sense-fields are contingent only on what's cut by cultivation.",
+        "source": "T27n1545_085:0440c27_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處緣見修所斷。",
+        "translation": "The latter two pervasive areas are contingent on what's cut by seeing and what's cut by cultivation.",
+        "source": "T27n1545_085:0440c28_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣名緣義者。",
+        "translation": "'Conditioned by name, conditioned by meaning'?",
+        "source": "T27n1545_085:0440c28_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆緣義。",
+        "translation": "They are all conditioned in meaning.",
+        "source": "T27n1545_085:0440c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣自相續他相續非相續者。",
+        "translation": "Those who condition self-continuity, other-continuity, and non-continuity.",
+        "source": "T27n1545_085:0440c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處。",
+        "translation": "The first eight pervasive concentrations.",
+        "source": "T27n1545_085:0440c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_085:0441a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯緣他相續。",
+        "translation": "'Only conditioned by the continuity of others ...'",
+        "source": "T27n1545_085:0441a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說通緣自他相續。",
+        "translation": "Some say it's conditioned universally by the continuity of self and other.",
+        "source": "T27n1545_085:0441a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處俱緣自他相續。",
+        "translation": "The latter two pervasive areas are both conditioned by the continuity of self and other.",
+        "source": "T27n1545_085:0441a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "加行得離染得者。",
+        "translation": "\"The attainment of applied practices and the attainment of freedom from defilement.",
+        "source": "T27n1545_085:0441a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆通加行得及離染得。",
+        "translation": "Both are shared by the attainment of applied practices and the attainment of freedom from defilement.",
+        "source": "T27n1545_085:0441a03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離染得者。",
+        "translation": "'Attained free of defilement' means that the first eight pervasive places are free of the third concentration.",
+        "source": "T27n1545_085:0441a03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處離第三靜慮染時得。",
+        "translation": "The first eight pervasive places are attained when they're freed from the defilement of the third concentration.",
+        "source": "T27n1545_085:0441a03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第九遍處離第四靜慮染時得。",
+        "translation": "The ninth pervading place is attained when it's free of the defilement of the fourth concentration.",
+        "source": "T27n1545_085:0441a04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第十遍處離空無邊處染時得。",
+        "translation": "The tenth pervading place is attained when it's freed from the defilement of the infinity of space.",
+        "source": "T27n1545_085:0441a05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼後由加行現在前。",
+        "translation": "It's subsequently attained when the manifestation of applied practices takes place.",
+        "source": "T27n1545_085:0441a06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "加行得者由加行故得。",
+        "translation": "It's because of application of practices that someone attains it.",
+        "source": "T27n1545_085:0441a06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦由加行故現在前。",
+        "translation": "It's also because of applied practices that they're present in the present.",
+        "source": "T27n1545_085:0441a07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞或由中加行。",
+        "translation": "A direct disciple might attain it by applying practices in the middle ...",
+        "source": "T27n1545_085:0441a07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或由上加行。",
+        "translation": "It's also by virtue of application of practices from above.",
+        "source": "T27n1545_085:0441a08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "獨覺由下加行。",
+        "translation": "A pratyekabuddha attains it by lower applied practices.",
+        "source": "T27n1545_085:0441a08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛不由加行得及現前。",
+        "translation": "A buddha doesn't attain and presently manifest himself by applied practices.",
+        "source": "T27n1545_085:0441a08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曾得未曾得者。",
+        "translation": "Those who have attained and have not yet attained ...",
+        "source": "T27n1545_085:0441a09_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆通曾得未曾得。",
+        "translation": "They are all shared by those who have attained and those who haven't attained.",
+        "source": "T27n1545_085:0441a09_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸聖者及內法異生通曾得未曾得。",
+        "translation": "It means that the noble ones and internal worldlings are all once-attained and not-yet-attained.",
+        "source": "T27n1545_085:0441a10_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "外法異生唯是曾得。",
+        "translation": "External worldlings are only ever-obtained.",
+        "source": "T27n1545_085:0441a10_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問此十遍處加行云何。",
+        "translation": "Q What are these ten pervasive preparatory practices?",
+        "source": "T27n1545_085:0441a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答前四遍處以眼識為加行。",
+        "translation": "A The first four pervasive bases are based on the eye consciousness as an applied practice.",
+        "source": "T27n1545_085:0441a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至成滿時緣青黃赤白四色處為境。",
+        "translation": "When they reach completion, they're conditioned by the four form fields of blue, yellow, red, and white as their objects.",
+        "source": "T27n1545_085:0441a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中四遍處以身識為加行。",
+        "translation": "The middle four pervasive sense-fields take the body consciousness as an additive practice.",
+        "source": "T27n1545_085:0441a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至成滿時緣地水火風四觸處為境。",
+        "translation": "When it reaches its completion, it's conditioned by the four sense-fields of earth, water, fire, and wind as its objects.",
+        "source": "T27n1545_085:0441a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "It's been explained this way.",
+        "source": "T27n1545_085:0441a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前七遍處以眼識為加行。",
+        "translation": "'For the first seven pervasive sense-fields, the eye consciousness is used as an additive.",
+        "source": "T27n1545_085:0441a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中一遍處以身識為加行。",
+        "translation": "In the middle one, the body consciousness is used as an additive practice.",
+        "source": "T27n1545_085:0441a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T27n1545_085:0441a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地水火遍處。",
+        "translation": "The pervasive sense-fields of earth, water, and fire are the perceptual objects.",
+        "source": "T27n1545_085:0441a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以形顯色為所緣故。",
+        "translation": "It's because form reveals form as the perceptual object.",
+        "source": "T27n1545_085:0441a17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "風遍處以動性觸為所緣故。",
+        "translation": "The pervasive place of wind has moving contact as its perceptual object.",
+        "source": "T27n1545_085:0441a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有說者。",
+        "translation": "There's also an explanation.",
+        "source": "T27n1545_085:0441a18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處皆以眼識為加行。",
+        "translation": "'The first eight pervasive sense-fields all have the visual consciousness as an additive.'",
+        "source": "T27n1545_085:0441a19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T27n1545_085:0441a19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "風遍處亦以色為所緣故。",
+        "translation": "The pervasive sense-field of the wind also has form as its perceptual object.",
+        "source": "T27n1545_085:0441a20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如世間說。",
+        "translation": "As the world says.",
+        "source": "T27n1545_085:0441a20_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "東風南風西風北風。",
+        "translation": "'There's an east wind, a south wind, a west wind, and a north wind.'",
+        "source": "T27n1545_085:0441a20_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有塵風無塵風。",
+        "translation": "'There's the wind of innumerable details and the wind of immateriality.'",
+        "source": "T27n1545_085:0441a21_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "毘隰縛風。",
+        "translation": "There's the wind of scriptures and the wind of vaipulya.",
+        "source": "T27n1545_085:0441a21_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吠嵐婆風。",
+        "translation": "'The wind of the vairambha.'",
+        "source": "T27n1545_085:0441a22_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "風輪風等。",
+        "translation": "It's a wind-wheel wind and so forth.",
+        "source": "T27n1545_085:0441a22_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故風遍處亦緣色處。",
+        "translation": "Therefore, the pervasive range of winds also takes the range of form as object.",
+        "source": "T27n1545_085:0441a22_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊處以空為加行。",
+        "translation": "The sphere of the infinity of emptiness has emptiness as an added practice.",
+        "source": "T27n1545_085:0441a23_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識無邊處以識為加行。",
+        "translation": "The sphere of the infinity of consciousness takes consciousness as an additional practice.",
+        "source": "T27n1545_085:0441a23_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是已說遍處總相。",
+        "translation": "Thus, we've described the general aspect of the pervasive sense-fields.",
+        "source": "T27n1545_085:0441a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一別相今應略說。",
+        "translation": "Now, we should explain each distinct aspect in brief.",
+        "source": "T27n1545_085:0441a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切青若上若下若傍。",
+        "translation": "'In all things blue, whether it's above, below, or beside, there's no duality or limitlessness.'",
+        "source": "T27n1545_085:0441a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無二無量。",
+        "translation": "There are no two, and they're immeasurable.",
+        "source": "T27n1545_085:0441a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起一青想是初遍處。",
+        "translation": "To conceive of a single blue color is the first pervasive place.",
+        "source": "T27n1545_085:0441a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切青者。",
+        "translation": "'All blues' means they are small or numerous.",
+        "source": "T27n1545_085:0441a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸青色若小若大總名為青。",
+        "translation": "They're all cyan colors, whether small or large, that are collectively called blue.",
+        "source": "T27n1545_085:0441a27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上者謂上方。",
+        "translation": "The upper part is above, and the lower part is below.",
+        "source": "T27n1545_085:0441a28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下者謂下方。",
+        "translation": "The lower part refers to the lower part.",
+        "source": "T27n1545_085:0441a28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傍者謂四方四維無二者。",
+        "translation": "The adjacent refers to the four directions and four dimensions without two.",
+        "source": "T27n1545_085:0441a28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂純青相無餘間雜。",
+        "translation": "It refers to pure blue form without any other intermingling.",
+        "source": "T27n1545_085:0441a29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量者。",
+        "translation": "The term 'immeasurable' means without limit.",
+        "source": "T27n1545_085:0441a29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無邊際。",
+        "translation": "It means without limit.",
+        "source": "T27n1545_085:0441b01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起一青想者。",
+        "translation": "\"He who gives rise to the perception of a single blue color.",
+        "source": "T27n1545_085:0441b01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂由勝解作意於一切處起一青想。",
+        "translation": "It's the contemplation of a single blue color arising from the contemplation of a resolute understanding in all places.",
+        "source": "T27n1545_085:0441b01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是初遍處者。",
+        "translation": "\"This is the first pervasive place.",
+        "source": "T27n1545_085:0441b02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初謂名數次第在初。",
+        "translation": "The first refers to the first place where the number of terms is counted in sequence.",
+        "source": "T27n1545_085:0441b02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或入此定次第在初遍處。",
+        "translation": "Perhaps the order of entering this concentration is in the first pervasive place.",
+        "source": "T27n1545_085:0441b03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂入此定時所有善色受想行識總名遍處。",
+        "translation": "When he enters this concentration, all good forms, feelings, perceptions, volitions, and consciousnesses are collectively called the pervasive abode.",
+        "source": "T27n1545_085:0441b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如青遍處廣說。",
+        "translation": "It's explained in detail as the blue pervasive area.",
+        "source": "T27n1545_085:0441b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至識無邊處遍處亦爾。",
+        "translation": "*Up to the infinite range of consciousnesses and their pervasive range are likewise.",
+        "source": "T27n1545_085:0441b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有差別者。",
+        "translation": "There's a difference.",
+        "source": "T27n1545_085:0441b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處不應說色。",
+        "translation": "The latter two pervasive realms shouldn't be described as form.",
+        "source": "T27n1545_085:0441b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯應說受想行識蘊。",
+        "translation": "They should only speak of the aggregate of feeling, perception, volition, and consciousness.",
+        "source": "T27n1545_085:0441b06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問前八遍處可有上下。",
+        "translation": "He asks whether the first eight pervasive sense-fields can have an up or down.",
+        "source": "T27n1545_085:0441b07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼所緣境有方處故。",
+        "translation": "It's because there's a direction for their perceptual objects.",
+        "source": "T27n1545_085:0441b07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二遍處緣空緣識。",
+        "translation": "The latter two pervasive sense-fields refer to emptiness and consciousness.",
+        "source": "T27n1545_085:0441b08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣既無方處上下。",
+        "translation": "Since the perceptual objects don't have a direction or location up or down, how can it be said that there's up or down?",
+        "source": "T27n1545_085:0441b08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何可說有上下耶。",
+        "translation": "How can they be said to have up and down?",
+        "source": "T27n1545_085:0441b09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答後二遍處所緣雖無上下方所。",
+        "translation": "Answer: Although the objects of the second two pervasive sense-fields have no higher or lower perceptual objects, the objects that they're based on must have three classes.",
+        "source": "T27n1545_085:0441b09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而所依定有三品。",
+        "translation": "But there are definitely three classes of objects that are supported.",
+        "source": "T27n1545_085:0441b10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故可說上下。",
+        "translation": "Therefore, it can be said that there's an up and down.",
+        "source": "T27n1545_085:0441b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上謂依上品定。",
+        "translation": "The upper refers to the concentration that relies on the higher level.",
+        "source": "T27n1545_085:0441b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下謂依下品定。",
+        "translation": "The lower refers to that which relies on the lower level of concentration.",
+        "source": "T27n1545_085:0441b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復言傍者依中品定。",
+        "translation": "Also, it's called the nearer depending on the middle grade of concentration.",
+        "source": "T27n1545_085:0441b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次修觀行者。",
+        "translation": "\"Furthermore, a practitioner who cultivates contemplation depends on the lower level of concentration.",
+        "source": "T27n1545_085:0441b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身所居處有上下故可言上下傍。",
+        "translation": "The place where he lives has an up and down, so he can be called up and down and near.",
+        "source": "T27n1545_085:0441b12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂處等其事云何下者住人中。",
+        "translation": "What are these things, such as locations? The lower one abides among humans.",
+        "source": "T27n1545_085:0441b13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中者住四大王眾天。",
+        "translation": "The middle dwells in the four great heavenly kings.",
+        "source": "T27n1545_085:0441b14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上者住三十三天。",
+        "translation": "The upper one abides in the Trāyastriṃśa Heaven.",
+        "source": "T27n1545_085:0441b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是乃至他化自在展轉相望為下中上。",
+        "translation": "Thus, up to the extent that they are freely transformed by others, they are regarded as lower, middle, and upper.",
+        "source": "T27n1545_085:0441b15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上者名上。",
+        "translation": "The upper one is called superior.",
+        "source": "T27n1545_085:0441b16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下者名下。",
+        "translation": "The inferior is called lower.",
+        "source": "T27n1545_085:0441b16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中者名傍。",
+        "translation": "The middle is called the lesser.",
+        "source": "T27n1545_085:0441b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故第三靜慮無解脫勝處遍處耶。",
+        "translation": "Q Why doesn't the third concentration have a superior place of liberation that's pervasive?",
+        "source": "T27n1545_085:0441b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答非田器故乃至廣說。",
+        "translation": "A. It's because it's not a vessel for the field and it goes on to be explained in detail.",
+        "source": "T27n1545_085:0441b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次對治欲界初靜慮中。",
+        "translation": "\"Furthermore, in the first concentration of the desire realm, the antidote is form craving.",
+        "source": "T27n1545_085:0441b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識身所引緣色貪故。",
+        "translation": "It's because of form craving as a causal condition for the consciousness body.",
+        "source": "T27n1545_085:0441b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初二靜慮立緣不淨解脫勝處。",
+        "translation": "The first two meditations establish the contingent on the superior state of liberation from impurity.",
+        "source": "T27n1545_085:0441b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二第三靜慮無識身所引緣色貪故。",
+        "translation": "The second and third meditations lack the consciousness body as a condition for form craving.",
+        "source": "T27n1545_085:0441b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三第四靜慮。",
+        "translation": "The third and fourth states of meditation don't establish the perception of form as a condition for the liberation of impurity.",
+        "source": "T27n1545_085:0441b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不立緣色不淨解脫勝處。",
+        "translation": "It doesn't establish the distinguished state of liberation that's contingent on the impurity of form.",
+        "source": "T27n1545_085:0441b22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前三靜慮有尋伺喜樂。",
+        "translation": "The first three meditations have the joy and pleasure of discursive thought.",
+        "source": "T27n1545_085:0441b23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及入出息擾亂事故無淨解脫。",
+        "translation": "The first three meditations have the joy and pleasure of discursive thought and the disturbances of breathing in and out, and the absence of pure liberation.",
+        "source": "T27n1545_085:0441b23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後四勝處前八遍處緣淨妙境能伏煩惱其事甚難。",
+        "translation": "The latter four abodes of excellence and the first eight pervasive sense-fields have pure and wonderful objects that subdue afflictions, which is a difficult task.",
+        "source": "T27n1545_085:0441b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故必依無擾亂地乃得成就。",
+        "translation": "Therefore, they must rely on the ground of no disturbance to achieve it.",
+        "source": "T27n1545_085:0441b25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次第三靜慮去欲界遠。",
+        "translation": "Furthermore, the third concentration is far removed from the desire realm.",
+        "source": "T27n1545_085:0441b26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於靜慮中又非最勝。",
+        "translation": "It's also not the most superior of the meditations.",
+        "source": "T27n1545_085:0441b26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故無解脫勝處遍處復次第三靜慮如第三無色。",
+        "translation": "Therefore, there's no superior place of liberation that pervades everywhere. Furthermore, the third concentration is like the third formless state.",
+        "source": "T27n1545_085:0441b27_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無多功德故無解脫等。",
+        "translation": "Because it doesn't have many attributes, there's no liberation and so forth.",
+        "source": "T27n1545_085:0441b28_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂空識無邊處有無邊行相功德。",
+        "translation": "It means the sphere of the infinity of consciousness in emptiness has the virtue of limitless practice.",
+        "source": "T27n1545_085:0441b29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非想非非想處有滅定功德。",
+        "translation": "The abode of neither perception nor non-perception has the virtue of concentration of cessation.",
+        "source": "T27n1545_085:0441b29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所有處無無邊行相。",
+        "translation": "The sphere of nothingness has no limitless defining qualities.",
+        "source": "T27n1545_085:0441c01_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又無滅定。",
+        "translation": "There's also no concentration of cessation.",
+        "source": "T27n1545_085:0441c02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故此地功德減少第三靜慮如彼亦無解脫勝處遍處功德。",
+        "translation": "Therefore, the merits of this place are diminished by the third concentration, which, like that, has no merits of the superior place of liberation or the pervasive place.",
+        "source": "T27n1545_085:0441c02_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次第三靜慮有生死中最勝受樂。",
+        "translation": "Furthermore, the third concentration has the most excellent feelings and pleasures in birth-and-death.",
+        "source": "T27n1545_085:0441c03_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能令行者耽著迷亂故無解脫勝處遍處。",
+        "translation": "It causes practitioners to become addicted and confused, so there's no superior place of liberation that pervades it.",
+        "source": "T27n1545_085:0441c04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問若爾應無無量通等諸餘功德。",
+        "translation": "Q If that's the case, then there shouldn't be any other virtues like immeasurable power.",
+        "source": "T27n1545_085:0441c05_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答言功德少不說全無。",
+        "translation": "Answer: They say their virtues are few, not all of them.",
+        "source": "T27n1545_085:0441c06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若此地中無無量等應此靜慮空無功德。",
+        "translation": "If there's measurelessness and so forth in this place, then this meditation is empty and lacks merit.",
+        "source": "T27n1545_085:0441c06_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次無量總緣通慧遊戲此地。",
+        "translation": "Furthermore, measureless general conditions, penetrating insights, and playgrounds are here.",
+        "source": "T27n1545_085:0441c07_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得有解脫勝處遍處功德。",
+        "translation": "He attains the merit of having the superior place of liberation and the pervasive place.",
+        "source": "T27n1545_085:0441c08_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別緣色等伏諸煩惱以難成故此地中無。",
+        "translation": "Because it's difficult to subdue the afflictions with specific conditions like form, there's nothing in this place.",
+        "source": "T27n1545_085:0441c09_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經說。",
+        "translation": "It's like the sutra says.",
+        "source": "T27n1545_085:0441c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得地遍處定者。",
+        "translation": "\"Someone who has attained the concentration of the ground and the pervasive sense-fields will have this thought.",
+        "source": "T27n1545_085:0441c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作如是念。",
+        "translation": "He thinks this.",
+        "source": "T27n1545_085:0441c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地即是我我即是地。",
+        "translation": "'The ground is me, and I am the ground.'",
+        "source": "T27n1545_085:0441c11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地之與我無二無別。",
+        "translation": "The ground and I are not two, and there's no distinction between them.",
+        "source": "T27n1545_085:0441c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得餘遍處定者。",
+        "translation": "Someone who has attained the concentration of the other pervasive sense-fields will say the same thing in detail, according to their own perceptual objects.",
+        "source": "T27n1545_085:0441c12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨自所緣廣說亦爾。",
+        "translation": "The same is explained in detail according to their own conditions.",
+        "source": "T27n1545_085:0441c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問得遍處定者。",
+        "translation": "He who attains the concentration of the pervasive sense-fields must have parted with the defilement of the third concentration.",
+        "source": "T27n1545_085:0441c13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必已離第三靜慮染。",
+        "translation": "He must have parted with the defilement of the third concentration.",
+        "source": "T27n1545_085:0441c14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼所起我見必是第四靜慮。",
+        "translation": "The view of self that arises in that state must be the fourth concentration.",
+        "source": "T27n1545_085:0441c14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若第四靜慮我見。",
+        "translation": "If there's a view of self in the fourth concentration, then it must only be conditioned by the fourth concentration ground and so forth.",
+        "source": "T27n1545_085:0441c15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必唯緣第四靜慮地等前八遍處。",
+        "translation": "It must only be conditioned by the first eight pervasive sense-fields, such as the fourth concentration ground.",
+        "source": "T27n1545_085:0441c15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但緣欲界色處為境。",
+        "translation": "It's only directed toward the form realm of the desire realm as its object.",
+        "source": "T27n1545_085:0441c16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如何可說與彼我見同緣地等。",
+        "translation": "How can it be said that it's the same as that view of self that's directed to the ground and so forth?",
+        "source": "T27n1545_085:0441c16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "There's this explanation.",
+        "source": "T27n1545_085:0441c17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中於未得彼定者說得彼定者聲。",
+        "translation": "'Here, a person who hasn't attained that concentration says 'I've attained that concentration'.",
+        "source": "T27n1545_085:0441c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如非沙門說名沙門。",
+        "translation": "It's like calling it an ascetic when it's not an ascetic.",
+        "source": "T27n1545_085:0441c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非婆羅門說名婆羅門。",
+        "translation": "A person who isn't a brāhmaṇa says it's a brāhmaṇa.",
+        "source": "T27n1545_085:0441c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂以欲界聞思所成初學修習地等遍處。",
+        "translation": "It means that it's the first stage of training and cultivation that's formed by hearing and contemplating the desire realm and other pervasive locations.",
+        "source": "T27n1545_085:0441c20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶未能斷欲界煩惱。",
+        "translation": "He's still not able to stop the afflictions of the desire realm.",
+        "source": "T27n1545_085:0441c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未得根本地等遍處。",
+        "translation": "They haven't yet attained the fundamental ground and such pervasive sense-fields.",
+        "source": "T27n1545_085:0441c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故緣地等容起我見。",
+        "translation": "Therefore, depending on the stages and so forth, it's possible to give rise to a view of self.",
+        "source": "T27n1545_085:0441c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有說者。",
+        "translation": "Some people say that.",
+        "source": "T27n1545_085:0441c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仍舊名說亦不相違。",
+        "translation": "It's not a contradiction to say the same old thing.",
+        "source": "T27n1545_085:0441c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有國王。",
+        "translation": "It's like a king.",
+        "source": "T27n1545_085:0441c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖失王位。",
+        "translation": "Even though he's lost his position as king, he still calls himself king even though he's been called by his old name.",
+        "source": "T27n1545_085:0441c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仍舊名說亦呼為王。",
+        "translation": "He still calls it king even though it's still called by its old name.",
+        "source": "T27n1545_085:0441c23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是先得地遍處等。",
+        "translation": "Thus, he first attained a ground that's pervasive and so forth.",
+        "source": "T27n1545_085:0441c24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今雖退失仍名得者。",
+        "translation": "Now, even though he's lost it, he's still called having attained it.",
+        "source": "T27n1545_085:0441c24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼起欲界我見。",
+        "translation": "They give rise to a view of self in the desire realm.",
+        "source": "T27n1545_085:0441c25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣欲界地等計我於理無違。",
+        "translation": "It's not inconsistent with the principle to think of self based on the desire realm and such as the ground.",
+        "source": "T27n1545_085:0441c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有說者。",
+        "translation": "There's another person who says.",
+        "source": "T27n1545_085:0441c26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依速入出遍處我見。",
+        "translation": "'I rely on the view of the self that quickly enters and exits the pervasive sense-fields.'",
+        "source": "T27n1545_085:0441c26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作如是說亦不相違。",
+        "translation": "It's not inconsistent to say this.",
+        "source": "T27n1545_085:0441c27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼先得地遍處等。",
+        "translation": "It means that someone first attains the ground, the pervasive sense-fields, and so forth.",
+        "source": "T27n1545_085:0441c27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後速退起欲界我見。",
+        "translation": "Later, they quickly regress and develop a view of self in the desire realm.",
+        "source": "T27n1545_085:0441c28_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣執欲界地等為我。",
+        "translation": "The condition is to attach to the ground of desire realm and so forth as self.",
+        "source": "T27n1545_085:0441c28_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "速復還得第四靜慮地遍處等彼緣欲界地等為境。",
+        "translation": "He quickly returns to the fourth concentration ground, such as the pervasive sense-fields, and so forth, depending on the desire realm ground and so forth as his object.",
+        "source": "T27n1545_085:0441c29_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如提婆達多先得靜慮。",
+        "translation": "Suppose Devadatta first attains meditation.",
+        "source": "T27n1545_085:0442a01_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以神境通力變作小兒。",
+        "translation": "With the power of supernormal cognition, he transforms into a small child.",
+        "source": "T27n1545_085:0442a02_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "著金縷俗衣作五花頂。",
+        "translation": "He wore a gold robe and made a five-flower robe.",
+        "source": "T27n1545_085:0442a02_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在未生怨太子膝上婉轉而戲。",
+        "translation": "He moved around and played on the lap of a prince who hadn't yet arisen from enmity.",
+        "source": "T27n1545_085:0442a03_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仍令太子知是尊者提婆達多。",
+        "translation": "He still made the prince know that he was Venerable Devadatta.",
+        "source": "T27n1545_085:0442a03_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時未生怨憐愛抱弄。",
+        "translation": "He then took pity on the unarisen enemy and fondled him.",
+        "source": "T27n1545_085:0442a04_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嗚而復以唾置口中。",
+        "translation": "He then repeatedly put his saliva in his mouth.",
+        "source": "T27n1545_085:0442a05_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "提婆達多貪利養故遂咽其唾。",
+        "translation": "Devadatta's desire for profit led him to swallow his saliva.",
+        "source": "T27n1545_085:0442a05_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故佛訶曰。",
+        "translation": "So the Buddha reprimanded him.",
+        "source": "T27n1545_085:0442a06_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝是死屍食人唾者。",
+        "translation": "'You're a dead corpse who eats people's saliva.'",
+        "source": "T27n1545_085:0442a06_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼咽唾時便退靜慮。",
+        "translation": "When he swallows his saliva, he then retreats from meditation.",
+        "source": "T27n1545_085:0442a07_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "速復還得令所變身在太子膝如故而戲。",
+        "translation": "He quickly returns and causes the body he's transformed into to sit at the prince's knees and play as before.",
+        "source": "T27n1545_085:0442a07_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遍處我見應知亦爾。",
+        "translation": "I should know that I see it everywhere.",
+        "source": "T27n1545_085:0442a08_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say.",
+        "source": "T27n1545_085:0442a09_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中有身見執第四靜慮地等為我。",
+        "translation": "'Here, there's a view of the body that takes the fourth ground of meditation and so forth as self.'",
+        "source": "T27n1545_085:0442a09_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處亦緣第四靜慮地等。",
+        "translation": "The first eight pervasive sense-fields also have reference to the fourth ground of meditation and so forth.",
+        "source": "T27n1545_085:0442a10_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問豈不前八遍處緣欲界色耶。",
+        "translation": "Isn't it true that the first eight pervasive sense-fields are directed toward form in the desire realm?",
+        "source": "T27n1545_085:0442a10_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答亦緣欲界色亦緣第四靜慮色。",
+        "translation": "Answer, they're also conditioned by the form of the desire realm and the fourth state of meditation.",
+        "source": "T27n1545_085:0442a11_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問色界諸天純一白色。",
+        "translation": "Q. The form realm gods are purely white.",
+        "source": "T27n1545_085:0442a12_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何緣彼作青等耶。",
+        "translation": "How are they conditioned to produce blue and so forth?",
+        "source": "T27n1545_085:0442a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答色界有情純一白色。",
+        "translation": "A The form realm's sentient beings are purely white.",
+        "source": "T27n1545_085:0442a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼非情數亦有青等。",
+        "translation": "Their insentient counterparts are also cyan and so forth.",
+        "source": "T27n1545_085:0442a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "評曰。",
+        "translation": "Comment: \"They shouldn't say that.",
+        "source": "T27n1545_085:0442a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼不應作是說。",
+        "translation": "'They shouldn't say that.'",
+        "source": "T27n1545_085:0442a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有身見與八遍處相應俱有。",
+        "translation": "'If there's a view of the body that's concomitant with the eight universal abodes, then there's a concomitant with the eight universal abodes.'",
+        "source": "T27n1545_085:0442a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可設難言如何相應俱有法。",
+        "translation": "It's difficult to say how they're associated with the principle of co-existence.",
+        "source": "T27n1545_085:0442a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或緣第四靜慮或緣欲界。",
+        "translation": "It's either conditioned by the fourth concentration or conditioned by the desire realm.",
+        "source": "T27n1545_085:0442a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然有身見前八遍處非相應非俱有不應為難。",
+        "translation": "Still, it shouldn't be difficult to say that the eight universal sense-fields preceding a view of the body aren't associated and non-accomplicated.",
+        "source": "T27n1545_085:0442a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而一有情名計我者亦名得定者。",
+        "translation": "A sentient being who's called imagining self is also called someone who's attained concentration.",
+        "source": "T27n1545_085:0442a18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以有身見故名計我者。",
+        "translation": "He's called someone who imagines himself because he has a view of the body.",
+        "source": "T27n1545_085:0442a19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以遍處故名得定者。",
+        "translation": "He's called someone who's attained concentration because of the pervasive sense-fields.",
+        "source": "T27n1545_085:0442a19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有身見執第四靜慮地等為我。",
+        "translation": "Those who have a view of the body attach to the fourth ground of meditation and so forth as self.",
+        "source": "T27n1545_085:0442a20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八遍處緣欲界色非俱時故善通此經。",
+        "translation": "When the first eight pervasive sense-fields take form in the desire realm as object and aren't concurrent, that's why they're well understood in this sūtra.",
+        "source": "T27n1545_085:0442a20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此有身見與八遍處所依身同所緣境異。",
+        "translation": "This view of existence as body and the eight pervasive sense-fields rely on the same body and have different objects as objects.",
+        "source": "T27n1545_085:0442a21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經說。",
+        "translation": "It's like the sutra says.",
+        "source": "T27n1545_085:0442a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有地等定有地等遍處。",
+        "translation": "'There's the sameness of the concentration of the earth and the sameness of the pervasive sense-fields.'",
+        "source": "T27n1545_085:0442a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問此地等定與地等遍處有何差別。",
+        "translation": "Q What's the difference between this equipoise and the earthly pervasive sense-fields?",
+        "source": "T27n1545_085:0442a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答地等定在欲界四靜慮地等遍處唯在第四靜慮。",
+        "translation": "A: Equanimous concentration is in the four meditations of the desire realm, and the equanimous pervasive sense-fields are only in the fourth meditation.",
+        "source": "T27n1545_085:0442a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次加行時名地等定。",
+        "translation": "Furthermore, when he's applying practice, it's called such concentration as the ground.",
+        "source": "T27n1545_085:0442a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成滿時名地等遍處。",
+        "translation": "When it's completed, it's called the level of the terrestrial and pervasive concentrations.",
+        "source": "T27n1545_085:0442a26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次因時名地等定。",
+        "translation": "Furthermore, when it's a cause, it's called an equipoise of the grounds.",
+        "source": "T27n1545_085:0442a26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "果時名地等遍處。",
+        "translation": "When it's fruition, it's called the ground and its pervasive abodes.",
+        "source": "T27n1545_085:0442a27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次若作少分解時名地等定。",
+        "translation": "\"Furthermore, when he does a little decomposition, it's called the equipoise of the ground.",
+        "source": "T27n1545_085:0442a27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若作周遍解時名地等遍處。",
+        "translation": "When it's done with a complete understanding, it's called the ground being equally pervasive.",
+        "source": "T27n1545_085:0442a28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是謂差別。",
+        "translation": "This is called a distinction.",
+        "source": "T27n1545_085:0442a29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問解脫勝處遍處有何差別。",
+        "translation": "Q What's the distinction between the superior place of liberation and the pervasive place?",
+        "source": "T27n1545_085:0442b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答名即差別謂此名解脫此名勝處此名遍處。",
+        "translation": "A The name is a distinction that this is called liberation, this is called the superior place, and this is called the pervasive place.",
+        "source": "T27n1545_085:0442b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次下品善根名解脫。",
+        "translation": "\"Furthermore, the lower good roots are called liberation.",
+        "source": "T27n1545_085:0442b02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中品善根名勝處。",
+        "translation": "The middle-grade good roots are called the superior place.",
+        "source": "T27n1545_085:0442b03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上品善根名遍處。",
+        "translation": "The higher good roots are called the pervasive sphere.",
+        "source": "T27n1545_085:0442b03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次小善根名解脫。",
+        "translation": "\"Furthermore, the lesser good roots are called liberation ...",
+        "source": "T27n1545_085:0442b04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大善根名勝處。",
+        "translation": "The greater good roots are called the superior place.",
+        "source": "T27n1545_085:0442b04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量善根名遍處。",
+        "translation": "Measureless good roots are called the pervasive sphere.",
+        "source": "T27n1545_085:0442b05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次唯因名解脫。",
+        "translation": "\"Furthermore, only the causes are called liberation ...",
+        "source": "T27n1545_085:0442b05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯果名遍處。",
+        "translation": "Only the results are called the pervasive sphere.",
+        "source": "T27n1545_085:0442b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "通因果名勝處。",
+        "translation": "The pervasive cause and effect are called the superior field.",
+        "source": "T27n1545_085:0442b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次能有棄背名解脫。",
+        "translation": "\"Furthermore, to be able to have renunciation is called liberation.",
+        "source": "T27n1545_085:0442b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能勝伏境名勝處。",
+        "translation": "The ability to subdue objects is called the superior place.",
+        "source": "T27n1545_085:0442b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能廣所緣名遍處。",
+        "translation": "The ability to expand the perceptual objects is called the pervasive sphere.",
+        "source": "T27n1545_085:0442b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次唯作勝解名解脫。",
+        "translation": "\"Furthermore, to produce only superior understanding is called liberation.",
+        "source": "T27n1545_085:0442b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能伏煩惱名勝處。",
+        "translation": "Being able to subdue the afflictions is called the superior state.",
+        "source": "T27n1545_085:0442b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所緣境無二無量名遍處。",
+        "translation": "The absence of duality and limitlessness in the perceptual objects is called the pervasive range.",
+        "source": "T27n1545_085:0442b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次若得解脫未必已得勝處遍處。",
+        "translation": "\"Furthermore, if he attains liberation, he may not have already attained the superior place and the pervasive place.",
+        "source": "T27n1545_085:0442b09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若得勝處必已得解脫。",
+        "translation": "If he has attained the superior place, he must have attained liberation.",
+        "source": "T27n1545_085:0442b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未必已得遍處。",
+        "translation": "It's not necessary to have attained the pervasive range.",
+        "source": "T27n1545_085:0442b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若得遍處必已得解脫及勝處。",
+        "translation": "If he has attained the pervasive range, he must have attained liberation and the superior range.",
+        "source": "T27n1545_085:0442b11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T27n1545_085:0442b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從解脫入勝處。",
+        "translation": "From liberation, he'll enter the superior place.",
+        "source": "T27n1545_085:0442b12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從勝處入遍處。",
+        "translation": "From the superior place, he enters the pervasive place.",
+        "source": "T27n1545_085:0442b13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故是謂解脫勝處遍處差別。",
+        "translation": "Therefore, this is called a distinction between the superior place of liberation and the pervasive place.",
+        "source": "T27n1545_085:0442b13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中八智三三摩地。",
+        "translation": "Here are the three samādhis of the eight kinds of wisdom.",
+        "source": "T27n1545_085:0442b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三重三摩地。",
+        "translation": "The three samādhis are three layers of wisdom.",
+        "source": "T27n1545_085:0442b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如後智蘊當廣分別。",
+        "translation": "These subsequent aggregates of wisdom will be discussed in detail.",
+        "source": "T27n1545_085:0442b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三結乃至九十八隨眠。",
+        "translation": "It goes from the three bonds up to the ninety-eight latent tendencies.",
+        "source": "T27n1545_085:0442b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如此蘊初已廣分別。",
+        "translation": "The first of these aggregates has already been extensively discerned.",
+        "source": "T27n1545_085:0442b16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第八十五",
+        "translation": "Saṃyuktâgama Abhidharma-mahāvibhāṣā-śāstra, vol. 85",
+        "source": "T27n1545_085:0442b18_0",
+        "is_bad_quality": false
+    }
+]

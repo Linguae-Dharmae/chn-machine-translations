@@ -1,0 +1,3482 @@
+[
+    {
+        "source_sentence": "大般若波羅蜜多經卷第四百八",
+        "translation": "Mahāprajñāpāramitā-sūtra, Volume 4.08",
+        "source": "T07n0220_408:0040b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T07n0220_408:0040b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二分善現品第六之三",
+        "translation": "Sixth Ter of the Second Part of the Chapter on Good Presentations",
+        "source": "T07n0220_408:0040b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，善現！",
+        "translation": "\"Furthermore, good performance!",
+        "source": "T07n0220_408:0040b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言菩薩摩訶薩者，於意云何？",
+        "translation": "What do you mean by \"bodhisattva-mahāsattva\"?",
+        "source": "T07n0220_408:0040b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地界增語是菩薩摩訶薩不？」",
+        "translation": "Is this bodhisattva-mahāsattva who speaks intensively about the earth realm?\"",
+        "source": "T07n0220_408:0040b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks intensively about the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界常增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who always speaks louder than the earth's realm?\"",
+        "source": "T07n0220_408:0040b18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界常增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who always speaks more about the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040b19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界無常增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks incrementally about the impermanence of the earth realm?\"",
+        "source": "T07n0220_408:0040b21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界無常增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks incrementally about the impermanence of the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040b22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界樂增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the pleasures of the earth realm?\"",
+        "source": "T07n0220_408:0040b23_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界樂增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks intensively about the pleasures of the water, fire, wind, air, and consciousness realms?\"",
+        "source": "T07n0220_408:0040b24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界苦增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the suffering of the earth realm?\"",
+        "source": "T07n0220_408:0040b25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界苦增語是菩薩摩訶薩不？」",
+        "translation": "\"Is the augmentation of suffering in the realms of water, fire, wind, air, and consciousness a bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0040b26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界我增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who augments the words of the self in the earth realm?\"",
+        "source": "T07n0220_408:0040b27_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b28_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b28_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界我增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who augments the words of I in the realms of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040b28_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040b29_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040b29_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界無我增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the absence of self in the earth realm?\"",
+        "source": "T07n0220_408:0040b29_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c01_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界無我增語是菩薩摩訶薩不？」",
+        "translation": "\"Is the augmentation of the absence of self in the realms of water, fire, wind, air, and consciousness a bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0040c01_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c02_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c02_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks purely and intensively about the earth's realm?\"",
+        "source": "T07n0220_408:0040c02_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c03_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c03_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks purely and intensively about the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040c03_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c04_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c04_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界不淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks increased words about the impurity of the earth realm?\"",
+        "source": "T07n0220_408:0040c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界不淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks more about the impurity of the water, fire, wind, air, and consciousness realms?\"",
+        "source": "T07n0220_408:0040c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界空增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the emptiness of the earth's realm?\"",
+        "source": "T07n0220_408:0040c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界空增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks intensively about the emptiness of the water, fire, wind, air, and consciousness realms?\"",
+        "source": "T07n0220_408:0040c08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界不空增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the nonemptyness of the earth's realm?\"",
+        "source": "T07n0220_408:0040c09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界不空增語是菩薩摩訶薩不？」",
+        "translation": "\"Is the nonempty augmentation of the elements of water, fire, wind, air, and consciousness a bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0040c10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界有相增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks intensively about the existence of characteristics in the earth realm?\"",
+        "source": "T07n0220_408:0040c11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c12_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界有相增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who says, 'Water, fire, wind, air, and the consciousness realm have characteristics that increase their speech?'\"",
+        "source": "T07n0220_408:0040c12_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c13_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c13_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界無相增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the marklessness of the earth realm?\"",
+        "source": "T07n0220_408:0040c13_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c14_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c14_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界無相增語是菩薩摩訶薩不？」",
+        "translation": "\"Is the markless proliferation of water, fire, wind, air, and the consciousness realm a bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0040c14_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c15_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c15_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界有願增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who vows to increase speech in the earth realm?\"",
+        "source": "T07n0220_408:0040c16_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c16_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c16_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界有願增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who vows to increase speech in the realms of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040c17_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c18_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c18_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界無願增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the lack of aspiration in the earth realm?\"",
+        "source": "T07n0220_408:0040c18_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c19_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c19_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界無願增語是菩薩摩訶薩不？」",
+        "translation": "\"Is the wishless proliferation of the elements of water, fire, wind, air, and consciousness a bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0040c19_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c20_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c20_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界寂靜增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks calmly and intensively about the earth realm?\"",
+        "source": "T07n0220_408:0040c20_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c21_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c21_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界寂靜增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks calmly and intensively about the realms of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040c21_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c22_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c22_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界不寂靜增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who speaks passionately about the lack of quiescence in the earth realm?\"",
+        "source": "T07n0220_408:0040c22_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c23_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c23_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界不寂靜增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who speaks passionately about the nonquietness of the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040c23_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c24_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界遠離增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks freely from the earth realm?\"",
+        "source": "T07n0220_408:0040c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界遠離增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who speaks freely and intensively about the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界不遠離增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who does not speak linguistically in isolation from the earth realm?\"",
+        "source": "T07n0220_408:0040c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界不遠離增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who doesn't speak fluently and in isolation from the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0040c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0040c29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0040c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界雜染增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks impurely and intensively about the earth realm?\"",
+        "source": "T07n0220_408:0040c29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界雜染增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva to speak impurely and intensively about the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0041a01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界清淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks purely and intensively about the earth's realm?\"",
+        "source": "T07n0220_408:0041a02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a03_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界清淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who speaks purely and intensively about the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0041a03_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a04_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a05_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界生增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the production of the earth realm?\"",
+        "source": "T07n0220_408:0041a05_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a05_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界生增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks passionately about the arising of the elements of water, fire, wind, air, and consciousness?\"",
+        "source": "T07n0220_408:0041a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「地界滅增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the cessation of the earth realm?\"",
+        "source": "T07n0220_408:0041a07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「水、火、風、空、識界滅增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks passionately about the cessation of the water, fire, wind, air, and consciousness realms?\"",
+        "source": "T07n0220_408:0041a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，善現！",
+        "translation": "\"Furthermore, good performance!",
+        "source": "T07n0220_408:0041a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言菩薩摩訶薩者，於意云何？",
+        "translation": "What do you mean by \"bodhisattva-mahāsattva\"?",
+        "source": "T07n0220_408:0041a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無明增語是菩薩摩訶薩不？」",
+        "translation": "Is nescience enhanced by language a bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0041a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行、識、名色、六處、觸、受、愛、取、有、生、老死增語是菩薩摩訶薩不？」",
+        "translation": "\"Are the augmentative statements \"form, consciousness, name-and-form, the six sense-fields, touch, feeling, craving, grasping, existence, birth, and old age and death the bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0041a11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明常增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who always speaks louder than ignorance?\"",
+        "source": "T07n0220_408:0041a13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死常增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks constantly and intensively about practice up to old age and death?\"",
+        "source": "T07n0220_408:0041a14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明無常增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about nescience and impermanence?\"",
+        "source": "T07n0220_408:0041a15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死無常增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks repeatedly about the impermanence of practice and even old age and death?\"",
+        "source": "T07n0220_408:0041a16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a17_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明樂增語是菩薩摩訶薩不？」",
+        "translation": "\"Is the aspiration for nescience enhanced by language a bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0041a17_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a18_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a18_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死樂增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks intensively about practices and even the pleasures of old age and death?\"",
+        "source": "T07n0220_408:0041a18_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a19_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a19_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明苦增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the suffering of nescience?\"",
+        "source": "T07n0220_408:0041a19_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a20_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a20_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死苦增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks intensively about practices and even the suffering of old age and death?\"",
+        "source": "T07n0220_408:0041a20_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a21_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a21_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明我增語是菩薩摩訶薩不？」",
+        "translation": "\"Is the increased speech of the nescient self the bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0041a21_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a22_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a22_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死我增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who intensifies his speech, from practice up to old age and death?\"",
+        "source": "T07n0220_408:0041a22_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a23_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a23_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明無我增語是菩薩摩訶薩不？」",
+        "translation": "\"Is the augmentation of nescience and selflessness the bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0041a23_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a24_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a24_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死無我增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks intensively about the lack of self in practice and even in old age and death?\"",
+        "source": "T07n0220_408:0041a24_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a25_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a25_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who purifies and increases the speech of nescience?\"",
+        "source": "T07n0220_408:0041a25_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a26_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a26_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who purifies and increases practice up to old age and death?\"",
+        "source": "T07n0220_408:0041a26_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a27_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a27_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明不淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks passionately about the impurity of nescience?\"",
+        "source": "T07n0220_408:0041a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死不淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks increasing words about the impurity of practice and even old age and death?\"",
+        "source": "T07n0220_408:0041a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明空增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the emptiness of nescience?\"",
+        "source": "T07n0220_408:0041b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死空增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks intensively about practices and even the emptiness of old age and death?\"",
+        "source": "T07n0220_408:0041b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明不空增語是菩薩摩訶薩不？」",
+        "translation": "\"Is nescience nonempty and augmented speech a bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0041b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死不空增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks passionately about the nonemptyness of practice and even old age and death?\"",
+        "source": "T07n0220_408:0041b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明有相增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the existence of characteristics of nescience?\"",
+        "source": "T07n0220_408:0041b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死有相增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks intensively about the marks of practice and even old age and death?\"",
+        "source": "T07n0220_408:0041b06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明無相增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about nescience and marklessness?\"",
+        "source": "T07n0220_408:0041b07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b08_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死無相增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who says, 'Actions up to and including old age and death have no characteristics?'\"",
+        "source": "T07n0220_408:0041b08_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b09_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明有願增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who increases ignorance and vows?\"",
+        "source": "T07n0220_408:0041b09_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b10_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死有願增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who vows to increase his speech from practice until old age and death?\"",
+        "source": "T07n0220_408:0041b10_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b11_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b11_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明無願增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks passionately about nescience and wishlessness?\"",
+        "source": "T07n0220_408:0041b11_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b12_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b12_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死無願增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who practices until old age and death without wishing to speak louder?\"",
+        "source": "T07n0220_408:0041b12_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b13_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明寂靜增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks calmly and intensively about nescience?\"",
+        "source": "T07n0220_408:0041b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死寂靜增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks intensively about practices up to the quiescence of old age and death?\"",
+        "source": "T07n0220_408:0041b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明不寂靜增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who speaks intensively about the lack of quiescence of nescience?\"",
+        "source": "T07n0220_408:0041b16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死不寂靜增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who does not speak quietly about practices up to old age and death?\"",
+        "source": "T07n0220_408:0041b17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明遠離增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who speaks freely from ignorance?\"",
+        "source": "T07n0220_408:0041b18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死遠離增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who practices until old age and death and abandons increased speech?\"",
+        "source": "T07n0220_408:0041b19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明不遠離增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who does not speak freely from nescience?\"",
+        "source": "T07n0220_408:0041b20_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b21_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b21_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死不遠離增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it a bodhisattva-mahāsattva who practices and doesn't part with increased speech up to the point of old age and death?\"",
+        "source": "T07n0220_408:0041b21_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b22_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b22_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明雜染增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this bodhisattva-mahāsattva who speaks intensively about the defilements of nescience?\"",
+        "source": "T07n0220_408:0041b23_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b23_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b23_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死雜染增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks intensively about defilements in practice and even in old age and death?\"",
+        "source": "T07n0220_408:0041b24_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明清淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who purifies nescience and speaks louder?\"",
+        "source": "T07n0220_408:0041b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死清淨增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks purely and intensively about practices up to old age and death?\"",
+        "source": "T07n0220_408:0041b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明生增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks passionately about the arising of ignorance?\"",
+        "source": "T07n0220_408:0041b27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死生增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who practices and speaks intensively about old age, death, and birth?\"",
+        "source": "T07n0220_408:0041b28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041b29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041b29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無明滅增語是菩薩摩訶薩不？」",
+        "translation": "\"Is it the bodhisattva-mahāsattva who speaks passionately about the cessation of ignorance?\"",
+        "source": "T07n0220_408:0041b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041c01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041c01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「行乃至老死滅增語是菩薩摩訶薩不？」",
+        "translation": "\"Is this the bodhisattva-mahāsattva who speaks intensively about practices up to the cessation of old age and death?\"",
+        "source": "T07n0220_408:0041c01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不也！",
+        "translation": "\"No!",
+        "source": "T07n0220_408:0041c02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！」",
+        "translation": "Bhagavān!\"",
+        "source": "T07n0220_408:0041c02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，佛告具壽善現：「汝觀何義作如是言：色等法增語非菩薩摩訶薩？",
+        "translation": "It was then that the Buddha addressed Kauśāmbī Sunbeam, \"What is the meaning of your observation that makes you say this, 'Increasing speech about form and other things is not bodhisattva-mahāsattva?'",
+        "source": "T07n0220_408:0041c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復觀何義作如是言：色等法若常若無常增語、若樂若苦增語、若我若無我增語、若淨若不淨增語、若空若不空增語、若有相若無相增語、若有願若無願增語、若寂靜若不寂靜增語、若遠離若不遠離增語、若雜染若清淨增語、若生若滅增語，亦非菩薩摩訶薩耶？」",
+        "translation": "\"Furthermore, what is the point of observing and saying, 'Is it true that form and other things that increase whether they are permanent or impermanent, that increase whether they are pleasant or painful, that increase whether they are self or selfless, that increase whether they are pure or impure, that increase whether they are empty or not empty, that increase whether they have similarities or no similarities, that increase whether they have or not wishes, that increase whether they are quiescent or not quiescent, that increase whether they are isolated or not isolated, that increase whether they are defiled or pure, and that increase whether they arise or cease not bodhisattvas?'\"",
+        "source": "T07n0220_408:0041c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，具壽善現白佛言：「世尊！",
+        "translation": "Kauśāmbī then said to the Buddha, \"Bhagavān!",
+        "source": "T07n0220_408:0041c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法尚畢竟不可得，性非有故，況有色等法增語！",
+        "translation": "It's true that such things as form are ultimately unobtainable and non-existent in nature, so why should there be any additional words about such things as form?",
+        "source": "T07n0220_408:0041c11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法增語是菩薩摩訶薩？",
+        "translation": "Since this augmentation is not present, how can it be said that the augmentation of form and other dharmas is bodhisattva-mahāsattva?",
+        "source": "T07n0220_408:0041c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0041c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法常尚畢竟不可得，性非有故，況有色等法無常！",
+        "translation": "If the permanence of such things as form is ultimately unobtainable and their nature is not existent, how could it be that such things as form are impermanent?",
+        "source": "T07n0220_408:0041c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法常無常尚畢竟不可得，況有色等法常無常增語！",
+        "translation": "It's ultimately impossible to say that such things as form are permanent and impermanent, so why should it be possible to say that such things are permanent and impermanent?",
+        "source": "T07n0220_408:0041c14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法常無常增語是菩薩摩訶薩？",
+        "translation": "Since this augmentation is not existent, how can it be said that form and other things that are permanent and impermanent augmentations are bodhisattvas, mahāsattvas, and so forth?",
+        "source": "T07n0220_408:0041c16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0041c17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法樂尚畢竟不可得，性非有故，況有色等法苦！",
+        "translation": "If the pleasures of form and other dharmas are ultimately unobtainable and non-existent in nature, how could there be the suffering of form and other dharmas?",
+        "source": "T07n0220_408:0041c17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法樂苦尚畢竟不可得，況有色等法樂苦增語！",
+        "translation": "When the pleasures and sufferings of form and other dharmas are ultimately unobtainable, how could it be that the pleasures and sufferings of form and other dharmas are intensified?",
+        "source": "T07n0220_408:0041c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法樂苦增語是菩薩摩訶薩？",
+        "translation": "Since this augmentation is not present, how can it be said that the augmentation of form and other dharmas that are pleasant and painful is the bodhisattva-mahāsattva?",
+        "source": "T07n0220_408:0041c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0041c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法我尚畢竟不可得，性非有故，況有色等法無我！",
+        "translation": "If the self of such things as form is ultimately unobtainable and does not exist in nature, how could it be that such things as form are without a self?",
+        "source": "T07n0220_408:0041c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法我無我尚畢竟不可得，況有色等法我無我增語！",
+        "translation": "If the self and selflessness of form and other dharmas are ultimately unobtainable, how could the self and selflessness of form and other dharmas be added to the conversation?",
+        "source": "T07n0220_408:0041c22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法我無我增語是菩薩摩訶薩？",
+        "translation": "Since this augmentation is not existent, how can it be said that the augmentation of self and selflessness of form and other things is bodhisattva-mahāsattva?",
+        "source": "T07n0220_408:0041c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0041c25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法淨尚畢竟不可得，性非有故，況有色等法不淨！",
+        "translation": "If the purity of such things as form is ultimately unobtainable, and their nature is not existent, how could it be that such things as form are impure?",
+        "source": "T07n0220_408:0041c25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法淨不淨尚畢竟不可得，況有色等法淨不淨增語！",
+        "translation": "It's ultimately impossible to say that such things as form are pure or impure, so why should it be possible to say anything more than that such things are pure or impure?",
+        "source": "T07n0220_408:0041c27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法淨不淨增語是菩薩摩訶薩？",
+        "translation": "Since this intensifier is not present, how can it be said that the pure and impure intensifiers of form and other dharmas are bodhisattvas, mahāsattvas, and so forth?",
+        "source": "T07n0220_408:0041c28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0041c29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法不空尚畢竟不可得，性非有故，況有色等法空！",
+        "translation": "If such things as form are not empty, they are ultimately unobtainable; therefore, since their nature is not existent, how could such things as form be empty?",
+        "source": "T07n0220_408:0041c29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法空不空尚畢竟不可得，況有色等法空不空增語！",
+        "translation": "It's ultimately impossible to say that form and such things are empty and nonempty, so why should form and such things be empty and nonempty?",
+        "source": "T07n0220_408:0042a02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法空不空增語是菩薩摩訶薩？",
+        "translation": "Since this augmentation is not existent, how can it be said that form and other dharmas are empty and non-empty augmentations are bodhisattvas, mahāsattvas, and so forth?",
+        "source": "T07n0220_408:0042a03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0042a04_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法有相尚畢竟不可得，性非有故，況有色等法無相！",
+        "translation": "It's ultimately impossible for such things as form to have marks, so why should such things as form lack marks when their nature is not existent?",
+        "source": "T07n0220_408:0042a04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法有相無相尚畢竟不可得，況有色等法有相無相增語！",
+        "translation": "It's ultimately impossible to say that such things as form have marks and no marks, so why wouldn't it be possible to say that such things have marks and no marks?",
+        "source": "T07n0220_408:0042a06_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法有相無相增語是菩薩摩訶薩？",
+        "translation": "Since this intensifier is not existent, how can it be said that form and other things that have marks and marksless intensifiers are bodhisattvas, mahāsattvas, and so forth?",
+        "source": "T07n0220_408:0042a07_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0042a09_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法有願尚畢竟不可得，性非有故，況有色等法無願！",
+        "translation": "If it's the wish of a form being, how could it be that a form being is wishless when its nature is not existent?",
+        "source": "T07n0220_408:0042a09_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法有願無願尚畢竟不可得，況有色等法有願無願增語！",
+        "translation": "It's ultimately impossible to wish or not wish for such things as form, so why should it be possible to wish or not wish for such things as form?",
+        "source": "T07n0220_408:0042a10_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法有願無願增語是菩薩摩訶薩？",
+        "translation": "Since this augmentation is not existent, how can it be said that form and other things that are desired or not desired in augmentation are bodhisattvas, mahāsattvas, and so forth?",
+        "source": "T07n0220_408:0042a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0042a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法寂靜尚畢竟不可得，性非有故，況有色等法不寂靜！",
+        "translation": "If the quiescence of form and other dharmas is ultimately unobtainable and their nature is not existent, how could there be form and other dharmas that are not quiescent?",
+        "source": "T07n0220_408:0042a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法寂靜不寂靜尚畢竟不可得，況有色等法寂靜不寂靜增語！",
+        "translation": "It's ultimately impossible for such things as form to be quiescent and not quiescent, so why should it be possible for such things as form to be quiescent and not quiescent to be added to the conversation?",
+        "source": "T07n0220_408:0042a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法寂靜不寂靜增語是菩薩摩訶薩？",
+        "translation": "Since this augmentation is not existent, how can it be said that form and other dharmas that are quiescent and non-quiescent augmentations are bodhisattvas, mahāsattvas, and so forth?",
+        "source": "T07n0220_408:0042a16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0042a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法遠離尚畢竟不可得，性非有故，況有色等法不遠離！",
+        "translation": "When form and such things are removed, they are ultimately unobtainable, and their nature is not existent, so why wouldn't form and such things be removed?",
+        "source": "T07n0220_408:0042a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法遠離不遠離尚畢竟不可得，況有色等法遠離不遠離增語！",
+        "translation": "When such things as form are remote and not remote, they are ultimately unobtainable, so why should such things as form be remote and not remote in addition?",
+        "source": "T07n0220_408:0042a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法遠離不遠離增語是菩薩摩訶薩？",
+        "translation": "Since this augmentation is not existent, how can it be said that form and other dharmas that are free from and not free from augmentations are bodhisattvas, mahāsattvas, and so forth?",
+        "source": "T07n0220_408:0042a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0042a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法雜染尚畢竟不可得，性非有故，況有色等法清淨！",
+        "translation": "If the defilement of form and so forth is ultimately unobtainable and does not exist in nature, how could it be possible for form and so forth to be pure?",
+        "source": "T07n0220_408:0042a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法雜染清淨尚畢竟不可得，況有色等法雜染清淨增語！",
+        "translation": "When the defilement and purity of form and such things are ultimately unobtainable, how could it be possible to speak of the defilement and purity of form and such things?",
+        "source": "T07n0220_408:0042a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法雜染清淨增語是菩薩摩訶薩？",
+        "translation": "Since this intensifier is not present, how can it be said that the defiled and pure intensifier of form and other things is the bodhisattva-mahāsattva?",
+        "source": "T07n0220_408:0042a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0042a26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法生尚畢竟不可得，性非有故，況有色等法滅！",
+        "translation": "It's ultimately impossible for such things as form to arise, so why should such things as form cease when their nature is not existent?",
+        "source": "T07n0220_408:0042a26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法生滅尚畢竟不可得，況有色等法生滅增語！",
+        "translation": "When the arising and ceasing of such things as form is ultimately impossible, how could it be possible to speak of the arising and ceasing of such things as form?",
+        "source": "T07n0220_408:0042a28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此增語既非有，如何可言色等法生滅增語是菩薩摩訶薩？」",
+        "translation": "Since this augmentation is not existent, how can it be said that the augmentation of the production and cessation of form and other things is bodhisattva-mahāsattva?\"",
+        "source": "T07n0220_408:0042a29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「善現！",
+        "translation": "The Buddha said, \"Good performance!",
+        "source": "T07n0220_408:0042b01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善哉！",
+        "translation": "Bravo!",
+        "source": "T07n0220_408:0042b01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善哉！",
+        "translation": "Bravo!",
+        "source": "T07n0220_408:0042b02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是！",
+        "translation": "So it is!",
+        "source": "T07n0220_408:0042b02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是！",
+        "translation": "So it is!",
+        "source": "T07n0220_408:0042b02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如汝所說。",
+        "translation": "Just as you said.",
+        "source": "T07n0220_408:0042b02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現！",
+        "translation": "Well-presented!",
+        "source": "T07n0220_408:0042b02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等法及常無常等不可得故，色等法增語及常無常等增語亦不可得，法及增語不可得故，諸菩薩摩訶薩亦不可得，諸菩薩摩訶薩不可得故，所行般若波羅蜜多亦不可得。",
+        "translation": "Because form and such things as form and impermanence are unobtainable, augmentative speech about form and such things as form and impermanence are also unobtainable, and because form and augmentative speech are unobtainable, the bodhisattvas, mahāsattvas, and the prajñāpāramitā that they practice are also unobtainable because the bodhisattvas, mahāsattvas, and so forth are unobtainable.",
+        "source": "T07n0220_408:0042b02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現！",
+        "translation": "Well done, Sugata!",
+        "source": "T07n0220_408:0042b06_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩修行般若波羅蜜多時應如是學。",
+        "translation": "When bodhisattvas and mahāsattvas cultivate the perfection of wisdom, they should train in this way.",
+        "source": "T07n0220_408:0042b06_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，善現！",
+        "translation": "\"Furthermore, good performance!",
+        "source": "T07n0220_408:0042b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝先所言『我都不見有一法可名菩薩摩訶薩。』",
+        "translation": "You first said, 'I don't see a single thing that can be called a bodhisattva-mahāsattva.'",
+        "source": "T07n0220_408:0042b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "者，如是！",
+        "translation": "So it is!",
+        "source": "T07n0220_408:0042b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是！",
+        "translation": "So it is!",
+        "source": "T07n0220_408:0042b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如汝所說。",
+        "translation": "As you said.",
+        "source": "T07n0220_408:0042b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good performance!",
+        "source": "T07n0220_408:0042b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸法不見諸法，諸法不見法界，法界不見諸法，法界不見法界。",
+        "translation": "They don't see the dharmas, they don't see the Dharma realm, they don't see the dharmas in the Dharma realm, and they don't see the Dharma realm in the Dharma realm.",
+        "source": "T07n0220_408:0042b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good manifestation!",
+        "source": "T07n0220_408:0042b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界不見色界，色界不見法界；法界不見受、想、行、識界，受、想、行、識界不見法界。",
+        "translation": "The Dharma realm doesn't see the form realm, and the form realm doesn't see the Dharma realm; the Dharma realm doesn't see the feeling, perception, volition, and consciousness realms, and the feeling, perception, volition, and consciousness realms don't see the Dharma realm.",
+        "source": "T07n0220_408:0042b12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good performance!",
+        "source": "T07n0220_408:0042b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界不見眼處，眼處不見法界；法界不見耳、鼻、舌、身、意處，耳、鼻、舌、身、意處不見法界。",
+        "translation": "The Dharma realm doesn't see the eye, and the eye doesn't see the Dharma realm; the Dharma realm doesn't see the ear, nose, tongue, body, and mind, and the ear, nose, tongue, body, and mind don't see the Dharma realm.",
+        "source": "T07n0220_408:0042b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good performance!",
+        "source": "T07n0220_408:0042b16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界不見色處，色處不見法界；法界不見聲、香、味、觸、法處，聲、香、味、觸、法處不見法界。",
+        "translation": "The Dharma realm doesn't see the form realm, and the form realm doesn't see the Dharma realm; the Dharma realm doesn't see the sense, smell, taste, touch, and dharma realms, and the sense, smell, taste, touch, and dharma realms don't see the Dharma realm.",
+        "source": "T07n0220_408:0042b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good performance!",
+        "source": "T07n0220_408:0042b18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界不見眼界，眼界不見法界；法界不見耳、鼻、舌、身、意界，耳、鼻、舌、身、意界不見法界。",
+        "translation": "The Dharma realm doesn't see the eye realm, and the eye realm doesn't see the Dharma realm; the Dharma realm doesn't see the ear, nose, tongue, body, and mind realms, and the ear, nose, tongue, body, and mind realms don't see the Dharma realm.",
+        "source": "T07n0220_408:0042b18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good performance!",
+        "source": "T07n0220_408:0042b20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界不見色界，色界不見法界；法界不見聲、香、味、觸、法界，聲、香、味、觸、法界不見法界。",
+        "translation": "The Dharma realm doesn't see the form realm, and the form realm doesn't see the Dharma realm; the Dharma realm doesn't see the sound, smell, taste, touch, and Dharma realms, and the sound, smell, taste, touch, and Dharma realms don't see the Dharma realm.",
+        "source": "T07n0220_408:0042b20_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good performance!",
+        "source": "T07n0220_408:0042b22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界不見眼識界，眼識界不見法界；法界不見耳、鼻、舌、身、意識界，耳、鼻、舌、身、意識界不見法界。",
+        "translation": "The Dharma realm doesn't see the element of visual consciousness, and the element of visual consciousness doesn't see the Dharma realm; the Dharma realm doesn't see the ear, nose, tongue, body, and consciousness realms, and the ear, nose, tongue, body, and consciousness realms don't see the Dharma realm.",
+        "source": "T07n0220_408:0042b22_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good manifestation!",
+        "source": "T07n0220_408:0042b24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界不見地界，地界不見法界；法界不見水、火、風、空、識界，水、火、風、空、識界不見法界。",
+        "translation": "The Dharma realm doesn't see the earth realm, and the earth realm doesn't see the Dharma realm; the Dharma realm doesn't see the element of water, fire, wind, space, and consciousness, and the element of water, fire, wind, space, and consciousness doesn't see the Dharma realm.",
+        "source": "T07n0220_408:0042b24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good manifestation!",
+        "source": "T07n0220_408:0042b26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界不見無明，無明不見法界；法界不見行、識、名色、六處、觸、受、愛、取、有、生、老死，行乃至老死不見法界。",
+        "translation": "The Dharma realm doesn't see ignorance, ignorance doesn't see the Dharma realm, and the Dharma realm doesn't see form, consciousness, name-and-form, the six sense-fields, touch, feeling, craving, apprehension, existence, birth, and old age, and form and even old age don't see the Dharma realm.",
+        "source": "T07n0220_408:0042b26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good performance!",
+        "source": "T07n0220_408:0042b29_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有為界不見無為界，無為界不見有為界。",
+        "translation": "They don't see the realm of the existent but don't see the realm of the nonexistent, and they don't see the realm of the existent but don't see the realm of the nonexistent.",
+        "source": "T07n0220_408:0042b29_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good manifestation!",
+        "source": "T07n0220_408:0042c01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非離有為施設無為，非離無為施設有為。",
+        "translation": "They don't define nonexistence apart from existent activity, and they don't define existent activity apart from nonexistence.",
+        "source": "T07n0220_408:0042c01_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「如是，善現！",
+        "translation": "\"So it is, good present!",
+        "source": "T07n0220_408:0042c02_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩修行般若波羅蜜多時，於一切法都無所見，無所見故其心不驚不恐不怖，於一切法心不沈沒亦不憂悔。",
+        "translation": "When bodhisattvas and mahāsattvas practice the perfection of wisdom, they see nothing of all things, and because they see nothing, their minds aren't startled or frightened or terrified, and their minds aren't submerged in all things, and they don't become sad or regretful.",
+        "source": "T07n0220_408:0042c02_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0042c05_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現！",
+        "translation": "Good manifestation!",
+        "source": "T07n0220_408:0042c05_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩摩訶薩如是修行甚深般若波羅蜜多時，不見色，不見受、想、行、識；不見眼處，不見耳、鼻、舌、身、意處；不見色處，不見聲、香、味、觸、法處；不見眼界，不見耳、鼻、舌、身、意界；不見色界，不見聲、香、味、觸、法界；不見眼識界，不見耳、鼻、舌、身、意識界；不見地界，不見水、火、風、空、識界；不見無明，不見行、識、名色、六處、觸、受、愛、取、有、生、老死；不見貪欲，不見瞋恚、愚癡；不見我，不見有情、命者、生者、養者、士夫、補特伽羅、意生、儒童、作者、受者、知者、見者；不見欲界，不見色、無色界；不見聲聞及聲聞法，不見獨覺及獨覺法，不見菩薩及菩薩法，不見諸佛及諸佛法，不見無上正等菩提。",
+        "translation": "是菩薩摩訶薩如是修行甚深般若波羅蜜多時，不見色，不見受、想、行、識；不見眼處，不見耳、鼻、舌、身、意處；不見色處，不見聲、香、味、觸、法處；不見眼界，不見耳、鼻、舌、身、意界；不見色界，不見聲、香、味、觸、法界；不見眼識界，不見耳、鼻、舌、身、意識界；不見地界，不見水、火、風、空、識界；不見無明，不見行、識、名色、六處、觸、受、愛、取、有、生、老死；不見貪欲，不見瞋恚、愚癡；不見我，不見有情、命者、生者、養者、士夫、補特伽羅、意生、儒童、作者、受者、知者、見者；不見欲界，不見色、無色界；不見聲聞及聲聞法，不見獨覺及獨覺法，不見菩薩及菩薩法，不見諸佛及諸佛法，不見無上正等菩提。",
+        "source": "T07n0220_408:0042c05_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，善現！",
+        "translation": "Thus, good performance!",
+        "source": "T07n0220_408:0042c18_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩於一切法都無所見，無所見故其心不驚不恐不怖，於一切法心不沈沒亦不憂悔。」",
+        "translation": "All bodhisattvas, mahāsattvas, see nothing of all things, and because they see nothing, their minds aren't startled, they aren't afraid, and they aren't terrified; their minds aren't submerged in all things, and they don't regret it.\"",
+        "source": "T07n0220_408:0042c18_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，具壽善現白佛言：「世尊！",
+        "translation": "It was then that the life-size Good Samaritan said to the Buddha, \"Bhagavān!",
+        "source": "T07n0220_408:0042c20_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復何因緣諸菩薩摩訶薩修行般若波羅蜜多時，於一切法心不沈沒亦不憂悔？」",
+        "translation": "What other cause does a bodhisattva-mahāsattva cultivate the perfection of wisdom when his mind isn't sunken in all dharmas and doesn't regret them?\"",
+        "source": "T07n0220_408:0042c21_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告善現：「諸菩薩摩訶薩修行般若波羅蜜多時，普於一切心、心所法不得不見，由是因緣，於一切法心不沈沒亦不憂悔。」",
+        "translation": "The Buddha told Śaṅgālī, \"When bodhisattvas and mahāsattvas practice the perfection of wisdom, they can't help but see all minds and mental factors, and as a result, their minds aren't sunken or distressed about all factors.\"",
+        "source": "T07n0220_408:0042c23_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具壽善現復白佛言：「世尊！",
+        "translation": "Guoshou Shancheng then said to the Buddha, \"Bhagavān!",
+        "source": "T07n0220_408:0042c26_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩修行般若波羅蜜多時，何因緣故於一切法其心不驚不恐不怖？」",
+        "translation": "When bodhisattvas and mahāsattvas practice the perfection of wisdom, what are the reasons why their minds aren't frightened or terrified of or afraid of all things?\"",
+        "source": "T07n0220_408:0042c26_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告善現：「諸菩薩摩訶薩修行般若波羅蜜多時，普於一切意及意界不得不見。",
+        "translation": "The Buddha told Śaṅgālī, \"When bodhisattvas and mahāsattvas practice the perfection of wisdom, they have to see it in all minds and mental elements.",
+        "source": "T07n0220_408:0042c28_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，善現！",
+        "translation": "Thus, Sun-jen!",
+        "source": "T07n0220_408:0043a01_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩修行般若波羅蜜多時，於一切法其心不驚不恐不怖。",
+        "translation": "When bodhisattvas and mahāsattvas practice the perfection of wisdom, their minds aren't startled or frightened by or afraid of all things.",
+        "source": "T07n0220_408:0043a01_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，善現！",
+        "translation": "\"Furthermore, good performance!",
+        "source": "T07n0220_408:0043a03_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩於一切法都無所得，應行般若波羅蜜多。",
+        "translation": "For those bodhisattvas and mahāsattvas who have nothing to gain from all things, they should practice the perfection of wisdom.",
+        "source": "T07n0220_408:0043a03_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，善現！",
+        "translation": "\"Furthermore, good performance!",
+        "source": "T07n0220_408:0043a04_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩修行般若波羅蜜多時，於一切處及一切時，不得般若波羅蜜多，不得般若波羅蜜多名；不得菩薩摩訶薩，不得菩薩摩訶薩名，亦不得菩薩摩訶薩心。",
+        "translation": "When bodhisattvas, mahāsattvas, and bodhisattvas cultivate prajñāpāramitā, they can't attain prajñāpāramitā or prajñāpāramitā in all places and at all times, and they can't attain bodhisattva, bodhisattva-mahāsattva name, or bodhisattva-mahāsattva mind.",
+        "source": "T07n0220_408:0043a05_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現！",
+        "translation": "Well done, Sugata!",
+        "source": "T07n0220_408:0043a08_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應如是教誡教授諸菩薩摩訶薩，令於般若波羅蜜多皆得成辦。」",
+        "translation": "Thus should you instruct and teach the bodhisattvas and mahāsattvas, so that the perfection of wisdom will be accomplished.\"",
+        "source": "T07n0220_408:0043a08_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二分入離生品第七",
+        "translation": "The Second Part Enters the Chapter of Freedom from Birth, Number Seven",
+        "source": "T07n0220_408:0043a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，具壽善現白佛言：「世尊！",
+        "translation": "At that point, Kauśāmbī said to the Buddha, \"Bhagavān!",
+        "source": "T07n0220_408:0043a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲圓滿布施波羅蜜多，當學般若波羅蜜多；欲圓滿淨戒、安忍、精進、靜慮、般若波羅蜜多，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva wishes to perfect the perfection of generosity, he should train in the perfection of wisdom; if he wishes to perfect the perfection of pure morality, patience, effort, meditation, and the perfection of wisdom, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知色，當學般若波羅蜜多；欲遍知受、想、行、識，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to know form universally, he should train in prajñāpāramitā; if he wants to know feeling, perception, volition, and consciousness universally, he should train in prajñpāramitā.",
+        "source": "T07n0220_408:0043a15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知眼處，當學般若波羅蜜多；欲遍知耳、鼻、舌、身、意處，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to know everything about the eye, he should train in prajñā-pāramitā; if he wants to know everything about the ear, nose, tongue, body, and mind, he should train in prajñ-pāramitā.",
+        "source": "T07n0220_408:0043a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知色處，當學般若波羅蜜多；欲遍知聲、香、味、觸、法處，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to know everything about form, he or she should train in the perfection of wisdom; if he or she wants to know everything about sound, smell, taste, touch, and dharmas, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知眼界，當學般若波羅蜜多；欲遍知耳、鼻、舌、身、意界，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to know the eye realm universally, he should train in prajñāpāramitā; if he wants to know the ear, nose, tongue, body, and mind realms universally, he should train in prajñapāramitā.",
+        "source": "T07n0220_408:0043a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知色界，當學般若波羅蜜多；欲遍知聲、香、味、觸、法界，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to know the form realm universally, he should train in prajñāpāramitā; if he wants to know the sound, smell, taste, touch, and dharma realms universally, he should train in prajñapāramitā.",
+        "source": "T07n0220_408:0043a23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知眼識界，當學般若波羅蜜多；欲遍知耳、鼻、舌、身、意識界，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to know the element of visual consciousness universally, he should train in prajñāpāramitā; if he wants to know the elements of ear, nose, tongue, body, and consciousness universally, he should train in prajñapāramitā.",
+        "source": "T07n0220_408:0043a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知眼觸，當學般若波羅蜜多；欲遍知耳、鼻、舌、身、意觸，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to know ocular contact universally, he should train in prajñāpāramitā; if he wants to know ear, nose, tongue, body, and mental contact universally, he should train in prajñapāramitā.",
+        "source": "T07n0220_408:0043a28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知眼觸為緣所生諸受，當學般若波羅蜜多；欲遍知耳、鼻、舌、身、意觸為緣所生諸受，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to know completely the sensations that arise from eye contact as a condition, he or she should train in prajñāpāramitā; if he or she wants to know completely the sensations that arise from ear, nose, tongue, body, and mind contact as a condition, he or she should train in prajñapāramitā.",
+        "source": "T07n0220_408:0043b01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知地界，當學般若波羅蜜多；欲遍知水、火、風、空、識界當學般若波羅蜜多。",
+        "translation": "If a bodhisattva wishes to know the earth realm thoroughly, he should train in the perfection of wisdom; if he wishes to know the water, fire, wind, air, and consciousness realms thoroughly, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遍知無明，當學般若波羅蜜多；欲遍知行、識、名色、六處、觸、受、愛、取、有、生、老死，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva Mahāsattva wants to know nescience completely, he should train in the perfection of wisdom; if he wants to know form, consciousness, name-and-form, the six sense-fields, touch, feeling, craving, grasping, existence, birth, and old age completely, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若菩薩摩訶薩欲永斷貪欲、瞋恚、愚癡，當學般若波羅蜜多。",
+        "translation": "\"If a bodhisattva-mahāsattva wants to permanently stop craving, anger, and delusion, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲永斷薩迦耶見、戒禁取、疑、欲貪、瞋恚，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva Mahāsattva wants to permanently end the view of identity, adherence to precepts, doubt, desire, and anger, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲永斷色貪、無色貪、無明、慢、掉舉，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva-mahāsattva wants to permanently end form greed, formless greed, ignorance, conceit, and agitation, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲永斷一切隨眠、纏結，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva-mahāsattva wants to permanently end all latent dormancy and entanglement, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲永斷四食，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva-mahāsattva wants to permanently end the four kinds of food, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲永斷四暴流、軛、取、身繫、顛倒，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva Mahāsattva wants to permanently end the four violent flows, yokes, attachments, bodily bonds, and delusions, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲遠離十不善業道，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva-mahāsattva wants to avoid the ten unwholesome courses of action, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲受行十善業道，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva Mahāsattva wants to accept and practice the ten good courses of action, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若菩薩摩訶薩欲修行四靜慮，當學般若波羅蜜多；欲修行四無量、四無色定，當學般若波羅蜜多。",
+        "translation": "\"If a bodhisattva Mahāsattva wants to cultivate the four states of meditation, he should train in the perfection of wisdom; if he wants to cultivate the four immeasurable and four formless concentrations, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲修行四念住，當學般若波羅蜜多；欲修行四正斷、四神足、五根、五力、七等覺支、八聖道支，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva wants to cultivate the four abodes of mindfulness, he should train in the perfection of wisdom; if he wants to cultivate the four correct eliminations, the four miraculous powers, the five faculties, the five powers, the seven factors of virtual enlightenment, and the eight noble factors of the path, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲得佛十力，當學般若波羅蜜多；欲得四無所畏、四無礙解、大慈、大悲、大喜、大捨、十八佛不共法，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva wants to attain the Buddha's ten powers, he should train in the perfection of wisdom; if he wants to attain the four fearlessnesses, the four unhindered understandings, great kindness, great compassion, great joy, great equanimity, and the 18 uncommon dharmas of the Buddha, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲自在入覺支三摩地，當學般若波羅蜜多。",
+        "translation": "If a bodhisattva, Mahāsattva, wants to enter the samādhi of the factors of awakening with ease, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲自在遊戲六種神通，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva-mahāsattva wants to play with the six supernormal powers at ease, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲於四靜慮、四無色、滅盡定次第超越順逆自在，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva Mahāsattva wants to transcend the four meditations, the four formless forms, and the concentration of cessation in order of superiority and adversity with ease, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043c01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲於一切陀羅尼門、三摩地門皆得自在，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva Mahāsattva wants to attain mastery over all the dhāraṇī and samādhi teachings, he or she should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043c03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若菩薩摩訶薩欲於一切師子遊戲三摩地，乃至師子奮迅三摩地入出自在，當學般若波羅蜜多。",
+        "translation": "\"If the bodhisattva Mahāsattva wants to attain mastery over all lion's play samādhis ... and even lion's swift samādhi entry, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043c05_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲於入出健行三摩地、寶印三摩地、妙月三摩地、月幢相三摩地、一切法印三摩地、觀印三摩地、法界決定三摩地、決定幢相三摩地、金剛喻三摩地、入一切法門三摩地、三摩地王三摩地、王印三摩地、力清淨三摩地、寶篋三摩地、入一切法言詞決定三摩地、入一切法增語三摩地、觀察十方三摩地、一切法陀羅尼門印三摩地、一切法無忘失三摩地、一切法等趣行相印三摩地、住虛空處三摩地、三輪清淨三摩地、不退神通三摩地、器涌三摩地、勝定幢相三摩地及餘無量勝三摩地皆得自在，當學般若波羅蜜多。",
+        "translation": "若菩薩摩訶薩欲於入出健行三摩地、寶印三摩地、妙月三摩地、月幢相三摩地、一切法印三摩地、觀印三摩地、法界決定三摩地、決定幢相三摩地、金剛喻三摩地、入一切法門三摩地、三摩地王三摩地、王印三摩地、力清淨三摩地、寶篋三摩地、入一切法言詞決定三摩地、入一切法增語三摩地、觀察十方三摩地、一切法陀羅尼門印三摩地、一切法無忘失三摩地、一切法等趣行相印三摩地、住虛空處三摩地、三輪清淨三摩地、不退神通三摩地、器涌三摩地、勝定幢相三摩地及餘無量勝三摩地皆得自在，當學般若波羅蜜多。",
+        "source": "T07n0220_408:0043c07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲滿一切有情所願，當學般若波羅蜜多。",
+        "translation": "If the bodhisattva Mahāsattva wants to fulfill the wishes of all sentient beings, he should train in the perfection of wisdom.",
+        "source": "T07n0220_408:0043c19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩欲滿如是殊勝善根，由此善根得圓滿故，不墮諸惡趣，不生貧賤家，不墮聲聞及獨覺地，於菩薩頂終不退墮，當學般若波羅蜜多。」",
+        "translation": "If a bodhisattva, Mahāsattva, wishes to fulfill such excellent good roots, and because of the completion of these good roots, he won't fall into bad destinies, isn't born in a poor or humble home, doesn't fall into the stages of direct disciples and solitary realizers, and never falls back when he's at the top of the bodhisattva tree, he should train in the perfection of prajñāpāramitā.\"",
+        "source": "T07n0220_408:0043c20_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，舍利子問善現言：「云何名為菩薩頂墮？」",
+        "translation": "It was then that Śāriputra asked the good present, \"What is called the fall from the pinnacle of the bodhisattva?\"",
+        "source": "T07n0220_408:0043c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現答言：「若諸菩薩無方便善巧而行六波羅蜜多，無方便善巧而住三解脫門，退墮聲聞或獨覺地，不入菩薩正性離生，如是名為菩薩頂墮。」",
+        "translation": "The Śakra replied, \"If bodhisattvas practice the six perfections without skillful means, abide in the gate of the three liberations without skillful means, fall back into the stage of śrāvaka or pratyekabuddha, and don't enter the bodhisattva's true nature of freedom from birth, this is called a bodhisattva falling through the cracks.\"",
+        "source": "T07n0220_408:0043c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，舍利子問善現言：「何者名生？」",
+        "translation": "Śāriputra then asked the good present, \"What's called birth?\"",
+        "source": "T07n0220_408:0043c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現對曰：「生謂法愛。」",
+        "translation": "The Śakra replied, \"It's called craving for the Dharma that arises.\"",
+        "source": "T07n0220_408:0043c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子言：「何謂法愛？」",
+        "translation": "Śāriputra said, \"What's called attachment to the Dharma?\"",
+        "source": "T07n0220_408:0044a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現對曰：「若菩薩摩訶薩修行般若波羅蜜多，安住色空而起想著，安住受、想、行、識空而起想著；安住色無相而起想著，安住受、想、行、識無相而起想著；安住色無願而起想著，安住受、想、行、識無願而起想著；安住色寂靜而起想著，安住受、想、行、識寂靜而起想著；安住色遠離而起想著，安住受、想、行、識遠離而起想著；安住色無常而起想著，安住受、想、行、識無常而起想著；安住色苦而起想著，安住受、想、行、識苦而起想著；安住色無我而起想著，安住受、想、行、識無我而起想著；安住色不淨而起想著，安住受、想、行、識不淨而起想著。",
+        "translation": "善現對曰：「若菩薩摩訶薩修行般若波羅蜜多，安住色空而起想著，安住受、想、行、識空而起想著；安住色無相而起想著，安住受、想、行、識無相而起想著；安住色無願而起想著，安住受、想、行、識無願而起想著；安住色寂靜而起想著，安住受、想、行、識寂靜而起想著；安住色遠離而起想著，安住受、想、行、識遠離而起想著；安住色無常而起想著，安住受、想、行、識無常而起想著；安住色苦而起想著，安住受、想、行、識苦而起想著；安住色無我而起想著，安住受、想、行、識無我而起想著；安住色不淨而起想著，安住受、想、行、識不淨而起想著。",
+        "source": "T07n0220_408:0044a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T07n0220_408:0044a13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為菩薩摩訶薩隨順法愛，即此法愛說名為生。",
+        "translation": "This is the bodhisattva Mahāsattva's compliant love of the Dharma, which is called birth.",
+        "source": "T07n0220_408:0044a14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T07n0220_408:0044a15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩作如是念：『此色應斷，此受、想、行、識應斷；由此故色應斷，由此故受、想、行、識應斷。",
+        "translation": "If a bodhisattva-mahāsattva thinks, 'This form should be stopped, and this feeling, perception, volition, and consciousness should be stopped; therefore form should be stopped, and therefore feeling, perception, volition, and consciousness should be stopped.",
+        "source": "T07n0220_408:0044a15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此苦應遍知，由此故苦應遍知；此集應永斷，由此故集應永斷；此滅應作證，由此故滅應作證；此道應修習，由此故道應修習。",
+        "translation": "This suffering should be known universally, and therefore suffering should be known universally; this aggregate should be stopped permanently, and therefore aggregate should be stopped permanently; this cessation should be realized, and therefore cessation should be realized; this path should be cultivated, and therefore the path should be cultivated.",
+        "source": "T07n0220_408:0044a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是雜染，此是清淨；此應親近，此不應親近；此應行，此不應行；此是道，此非道；此是應學，此不應學。",
+        "translation": "This is defiled, and this is pure; this should be approached, and this shouldn't be approached; this should be practiced, and this shouldn't be practiced; this is the path, and this is not the path; this should be studied, and this shouldn't be studied.",
+        "source": "T07n0220_408:0044a20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是布施波羅蜜多，此非布施波羅蜜多；此是淨戒、安忍、精進、靜慮、般若波羅蜜多，此非淨戒、安忍、精進、靜慮、般若波羅蜜多。",
+        "translation": "This is the perfection of generosity, and this is not the perfection of generosity; this is the perfection of pure morality, patience, effort, meditation, and wisdom, and this is not the perfection of pure morality, patience, effort, meditation, and wisdom.",
+        "source": "T07n0220_408:0044a22_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是方便善巧，此非方便善巧；此是菩薩生，此是菩薩離生。』",
+        "translation": "This is skillful means, and this is not skillful means; this is the birth of a bodhisattva, and this is the bodhisattva's freedom from birth.'",
+        "source": "T07n0220_408:0044a25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T07n0220_408:0044a27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩修行般若波羅蜜多時，安住此等種種法門而起想著，是為菩薩摩訶薩隨順法愛，即此法愛說名為生，如宿食生能為過患。」",
+        "translation": "If a bodhisattva-mahāsattva cultivates the perfection of wisdom and abides in these various teachings and gives rise to conceptual attachments, this is called a bodhisattva-mahāsattva who follows the craving for the Dharma, which is called birth, and it's like the production of a persistent diet that causes faults.\"",
+        "source": "T07n0220_408:0044a27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，具壽舍利子問具壽善現言：「云何菩薩摩訶薩入正性離生？」",
+        "translation": "At that point, Kauśālīputra asked Kauśālīputra, a well-appointed one, \"How does a bodhisattva Mahāsattva enter into the true nature of freedom from birth?\"",
+        "source": "T07n0220_408:0044b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現對曰：「舍利子！",
+        "translation": "Sunetra replied, \"Śāriputra!",
+        "source": "T07n0220_408:0044b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩修行般若波羅蜜多時，不見內空，不依內空而觀外空；不見外空，不依外空而觀內空，不依外空而觀內外空；不見內外空，不依內外空而觀外空，不依內外空而觀空空；不見空空，不依空空而觀內外空，不依空空而觀大空；不見大空，不依大空而觀空空，不依大空而觀勝義空；不見勝義空，不依勝義空而觀大空，不依勝義空而觀有為空；不見有為空，不依有為空而觀勝義空，不依有為空而觀無為空；不見無為空，不依無為空而觀有為空，不依無為空而觀畢竟空；不見畢竟空，不依畢竟空而觀無為空，不依畢竟空而觀無際空；不見無際空，不依無際空而觀畢竟空，不依無際空而觀散無散空；不見散無散空，不依散無散空而觀無際空，不依散無散空而觀本性空；不見本性空，不依本性空而觀散無散空，不依本性空而觀自共相空；不見自共相空，不依自共相空而觀本性空，不依自共相空而觀一切法空；不見一切法空，不依一切法空而觀自共相空，不依一切法空而觀不可得空；不見不可得空，不依不可得空而觀一切法空，不依不可得空而觀無性空；不見無性空，不依無性空而觀不可得空，不依無性空而觀自性空；不見自性空，不依自性空而觀無性空，不依自性空而觀無性自性空；不見無性自性空，不依無性自性空而觀自性空。",
+        "translation": "若菩薩摩訶薩修行般若波羅蜜多時，不見內空，不依內空而觀外空；不見外空，不依外空而觀內空，不依外空而觀內外空；不見內外空，不依內外空而觀外空，不依內外空而觀空空；不見空空，不依空空而觀內外空，不依空空而觀大空；不見大空，不依大空而觀空空，不依大空而觀勝義空；不見勝義空，不依勝義空而觀大空，不依勝義空而觀有為空；不見有為空，不依有為空而觀勝義空，不依有為空而觀無為空；不見無為空，不依無為空而觀有為空，不依無為空而觀畢竟空；不見畢竟空，不依畢竟空而觀無為空，不依畢竟空而觀無際空；不見無際空，不依無際空而觀畢竟空，不依無際空而觀散無散空；不見散無散空，不依散無散空而觀無際空，不依散無散空而觀本性空；不見本性空，不依本性空而觀散無散空，不依本性空而觀自共相空；不見自共相空，不依自共相空而觀本性空，不依自共相空而觀一切法空；不見一切法空，不依一切法空而觀自共相空，不依一切法空而觀不可得空；不見不可得空，不依不可得空而觀一切法空，不依不可得空而觀無性空；不見無性空，不依無性空而觀不可得空，不依無性空而觀自性空；不見自性空，不依自性空而觀無性空，不依自性空而觀無性自性空；不見無性自性空，不依無性自性空而觀自性空。",
+        "source": "T07n0220_408:0044b03_2",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T07n0220_408:0044c01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩摩訶薩修行般若波羅蜜多時作如是觀，名入菩薩正性離生。",
+        "translation": "This is called the entry into the bodhisattva's correct nature of freedom from birth when the bodhisattva makes this observation while cultivating the perfection of wisdom.",
+        "source": "T07n0220_408:0044c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T07n0220_408:0044c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩修行般若波羅蜜多時應如是學：如實知色不應執，如實知受、想、行、識不應執；如實知眼處不應執，如實知耳、鼻、舌、身、意處不應執；如實知色處不應執，如實知聲、香、味、觸、法處不應執；如實知眼界不應執，如實知耳、鼻、舌、身、意界不應執；如實知色界不應執，如實知聲、香、味、觸、法界不應執；如實知眼識界不應執，如實知耳、鼻、舌、身、意識界不應執；如實知布施波羅蜜多不應執，如實知淨戒、安忍、精進、靜慮、般若波羅蜜多不應執；如實知四靜慮不應執，如實知四無量、四無色定不應執；如實知四念住不應執，如實知四正斷、四神足、五根、五力、七等覺支、八聖道支不應執；如實知佛十力不應執，如實知四無所畏、四無礙解、大慈、大悲、大喜、大捨、十八佛不共法不應執。",
+        "translation": "諸菩薩摩訶薩修行般若波羅蜜多時應如是學：如實知色不應執，如實知受、想、行、識不應執；如實知眼處不應執，如實知耳、鼻、舌、身、意處不應執；如實知色處不應執，如實知聲、香、味、觸、法處不應執；如實知眼界不應執，如實知耳、鼻、舌、身、意界不應執；如實知色界不應執，如實知聲、香、味、觸、法界不應執；如實知眼識界不應執，如實知耳、鼻、舌、身、意識界不應執；如實知布施波羅蜜多不應執，如實知淨戒、安忍、精進、靜慮、般若波羅蜜多不應執；如實知四靜慮不應執，如實知四無量、四無色定不應執；如實知四念住不應執，如實知四正斷、四神足、五根、五力、七等覺支、八聖道支不應執；如實知佛十力不應執，如實知四無所畏、四無礙解、大慈、大悲、大喜、大捨、十八佛不共法不應執。",
+        "source": "T07n0220_408:0044c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「如是，舍利子！",
+        "translation": "\"So it is, Śāriputra!",
+        "source": "T07n0220_408:0044c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩修行般若波羅蜜多時，能如實知菩提心不應執，無等等心不應執，廣大心不應執。",
+        "translation": "When bodhisattvas and mahāsattvas cultivate the perfection of wisdom, they can truly know that the enlightened mind shouldn't be attached, the peerless mind shouldn't be attached, and the vast mind shouldn't be attached.",
+        "source": "T07n0220_408:0044c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0044c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T07n0220_408:0044c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是心非心，本性淨故。」",
+        "translation": "This is mind and not mind, so the original nature is purified.\"",
+        "source": "T07n0220_408:0044c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，舍利子問善現言：「云何是心本性清淨？」",
+        "translation": "Śāriputra then asked the good present, \"What is the intrinsic purity of the mind?\"",
+        "source": "T07n0220_408:0044c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現對曰：「是心本性，非貪相應非不相應，非瞋相應非不相應，非癡相應非不相應，非諸纏結、隨眠相應非不相應，非諸見趣、漏等相應非不相應，與諸聲聞、獨覺心等亦非相應非不相應。",
+        "translation": "The good present replied, \"The original nature of this mind is not associated or unassociated with greed, not associated or unassociated with anger, not associated or unassociated with delusion, not associated or unassociated with the bonds of entanglement and latencies, not associated or unassociated with the destinies of views and contaminants, and not associated or unassociated with the minds of śrāvakas and solitary realizers.",
+        "source": "T07n0220_408:0044c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "\"Śāriputra!",
+        "source": "T07n0220_408:0044c28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩知心如是本性清淨。」",
+        "translation": "All bodhisattvas, mahāsattvas, know that the mind is inherently pure in this way.\"",
+        "source": "T07n0220_408:0044c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，舍利子問善現言：「是心為有非心性不？」",
+        "translation": "Śāriputra then asked the good present, \"Does this mind exist and isn't it the nature of a mind?\"",
+        "source": "T07n0220_408:0045a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現詰言：「非心性中有性無性為可得不？」",
+        "translation": "Sunetra questioned, \"Isn't it possible to say that there is a nature and no nature in the nature of mind?\"",
+        "source": "T07n0220_408:0045a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子言：「不也！",
+        "translation": "Śāriputra said, \"No!",
+        "source": "T07n0220_408:0045a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現！」",
+        "translation": "well-presented!\"",
+        "source": "T07n0220_408:0045a03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現對曰：「非心性中有性無性若不可得，云何可問是心為有非心性不？」",
+        "translation": "Sunetra replied, \"If the nature of existence and non-nature in non-mind cannot be obtained, then how can one ask, 'Is this mind what is and isn't mind?'\"",
+        "source": "T07n0220_408:0045a03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，舍利子問善現言：「何等名為非心性耶？」",
+        "translation": "Śāriputra then asked the good present, \"What is called non-mindfulness?\"",
+        "source": "T07n0220_408:0045a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現對曰：「於一切法無變異、無分別，是名非心性。」",
+        "translation": "The Śakra replied, \"The absence of variation and nondiscrimination in all things is called not the nature of mind.\"",
+        "source": "T07n0220_408:0045a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子言：「為但心無變異、無分別，為色、受、想、行、識等亦無變異、無分別耶？」",
+        "translation": "Śāriputra said, \"Why is it that the mind has no variation and makes no discrimination, and form, feeling, perception, volition, consciousness, and so forth also have no variation and make no discrimination?\"",
+        "source": "T07n0220_408:0045a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現對曰：「如心無變異、無分別，色、受、想、行、識亦無變異、無分別，如是乃至諸佛無上正等菩提亦無變異、無分別。」",
+        "translation": "The good present replied, \"Just as the mind is unchanging and undiscriminated, form, feeling, perception, volition, and consciousness are also unchanging and undiscriminated, and so it is up to the buddhas to achieve unsurpassed perfect enlightenment, which is also unchanging and undiscriminated.\"",
+        "source": "T07n0220_408:0045a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，舍利子讚善現言：「善哉！",
+        "translation": "Śāriputra then praised the good manifestation, saying, \"Good!",
+        "source": "T07n0220_408:0045a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善哉！",
+        "translation": "Bravo!",
+        "source": "T07n0220_408:0045a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誠如所說。",
+        "translation": "\"It's just as it's been said.",
+        "source": "T07n0220_408:0045a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝真佛子，從佛心生，從佛口生，從佛法生，從法化生，受佛法分，不受財分，於諸法中身自作證，慧眼現見而能起說。",
+        "translation": "You are truly a son of the Buddha who arises from the Buddha's mind, from the Buddha's mouth, from the Buddha's teaching, from the teaching of the Dharma, receives the Buddha's share of the Dharma and doesn't receive his share of the wealth, personally personally discerns all the teachings, and is able to initiate discourse when the eye of wisdom clearly sees it.",
+        "source": "T07n0220_408:0045a12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛常說汝聲聞眾中住無諍定最為第一，如佛所說真實不虛。",
+        "translation": "The Buddha always says that you're the best among śrāvakas in terms of abiding in the concentration without disputation, and what he says is true and not false.",
+        "source": "T07n0220_408:0045a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現！",
+        "translation": "Well done, Sugata!",
+        "source": "T07n0220_408:0045a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩於深般若波羅蜜多應如是學。",
+        "translation": "All bodhisattvas and mahāsattvas should thus train in the profound perfection of wisdom.",
+        "source": "T07n0220_408:0045a16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現！",
+        "translation": "Well-presented!",
+        "source": "T07n0220_408:0045a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩於深般若波羅蜜多能如是學，應知已住不退轉地，不離般若波羅蜜多。",
+        "translation": "If a bodhisattva-mahāsattva can thus train in the profound perfection of wisdom, he should know that he has stayed in the stage of nonretrogression and hasn't departed from the perfection of wisdom.",
+        "source": "T07n0220_408:0045a17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「善現！",
+        "translation": "\"Good performance!",
+        "source": "T07n0220_408:0045a19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若善男子、善女人等欲學聲聞地者，當於如是甚深般若波羅蜜多，應勤聽習、讀誦、受持、如理思惟，令至究竟；欲學獨覺地者，亦於如是甚深般若波羅蜜多，應勤聽習、讀誦、受持、如理思惟，令至究竟；欲學菩薩地者，亦於如是甚深般若波羅蜜多，應勤聽習、讀誦、受持、如理思惟，令至究竟。",
+        "translation": "If good sons and good women want to train in the śrāvaka stage, they should diligently listen to and study, recite, receive, and rationally contemplate the perfection of these profound prajñāpāramitā; those who want to train in the pratyekabuddha stage should also diligently listen to and study, recite, receive, and rationally contemplate these profound prajñpāramitās, so that they may reach the ultimate; and those who want to train in the bodhisattva stage should also diligently listen to and study, recite, receive, and rationally contemplate these profound prajñpāramitās, so that they may reach the ultimate.",
+        "source": "T07n0220_408:0045a19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045a26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現！",
+        "translation": "Good manifestation!",
+        "source": "T07n0220_408:0045a26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是般若波羅蜜多甚深經中，廣說開示三乘法故。",
+        "translation": "Thus, the profound sūtras of Prajñāpāramitā explain and reveal the teachings of the three vehicles in detail.",
+        "source": "T07n0220_408:0045a26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩能學般若波羅蜜多，則為遍學三乘諸法皆得善巧。」",
+        "translation": "If a bodhisattva-mahāsattva can train in the perfection of wisdom, then he'll attain skillfulness in the universal study of the teachings of the three vehicles.\"",
+        "source": "T07n0220_408:0045a27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二分勝軍品第八之一",
+        "translation": "Chapter Two, Victorious Army, Chapter Eight, Part One",
+        "source": "T07n0220_408:0045b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，具壽善現白佛言：「世尊！",
+        "translation": "At that point, Kauśāmbī said to the Buddha, \"Bhagavān!",
+        "source": "T07n0220_408:0045b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於菩薩摩訶薩及於般若波羅蜜多皆不知不得，云何令我以般若波羅蜜多相應之法，教誡教授諸菩薩摩訶薩？",
+        "translation": "Since I don't know or understand the bodhisattvas, how can I instruct and teach the bodhisattvas with the teachings that are associated with the perfection of wisdom?",
+        "source": "T07n0220_408:0045b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於諸法若增若減不知不得，若以諸法教誡教授諸菩薩摩訶薩，我當有悔。",
+        "translation": "\"If I didn't know whether to increase or decrease the teachings, and if I were to instruct the bodhisattvas and mahāsattvas in the teachings, I would have regrets.",
+        "source": "T07n0220_408:0045b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於諸法若增若減不知不得，云何可言：此名菩薩摩訶薩，此名般若波羅蜜多？",
+        "translation": "How can I say, 'This is called bodhisattva, Mahāsattva, and this is called prajñāpāramitā,' if I don't know whether I'm increasing or decreasing in the various dharmas?",
+        "source": "T07n0220_408:0045b07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045b09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩名及般若波羅蜜多名，皆無所住亦非不住。",
+        "translation": "The names of the bodhisattvas, the names of the great bodhisattvas, and the names of the prajñāpāramitās have no abiding and don't abide.",
+        "source": "T07n0220_408:0045b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是二種義無所有故，此二種名都無所住亦非不住。",
+        "translation": "Because these two kinds of meaning have no existence, neither of these two names is abiding or non-abiding.",
+        "source": "T07n0220_408:0045b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045b12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於色乃至識若增若減不知不得，如何可言此是色乃至識？",
+        "translation": "If I don't know whether form or consciousness is increasing or decreasing, how can I say that this is form or consciousness?",
+        "source": "T07n0220_408:0045b12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是色等名皆無所住亦非不住。",
+        "translation": "\"Such names as form have no abiding and don't stop.",
+        "source": "T07n0220_408:0045b13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045b14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是色等義無所有故，此色等名都無所住亦非不住。",
+        "translation": "Because these forms and so forth have no meaning, these names for forms and so forth neither abide nor don't abide.",
+        "source": "T07n0220_408:0045b14_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045b15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於眼處乃至意處若增若減不知不得，如何可言此是眼處乃至意處？",
+        "translation": "If I don't know whether I'm increasing or decreasing in the sense-field of the eye or the sense-field of the mind, how can I say that this is the sense-field of the eye or the sense-field of the mind?",
+        "source": "T07n0220_408:0045b15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼處等名皆無所住亦非不住。",
+        "translation": "\"The names of the eye-field and so forth all lack abiding and don't lack abiding.",
+        "source": "T07n0220_408:0045b17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045b18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼處等義無所有故，眼處等名都無所住亦非不住。",
+        "translation": "Because such things as the eye field have no meaning, such names as the eye field have no abiding and don't abide.",
+        "source": "T07n0220_408:0045b18_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045b19_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於色處乃至法處若增若減不知不得，如何可言此是色處乃至法處？",
+        "translation": "If I don't know whether I'm in the form realm or even the Dharma realm, how can I say that this is the form realm or even the Dharma realm?",
+        "source": "T07n0220_408:0045b19_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色處等名皆無所住亦非不住。",
+        "translation": "\"The names of form and other places have no abiding and don't abide.",
+        "source": "T07n0220_408:0045b21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色處等義無所有故，色處等名都無所住亦非不住。",
+        "translation": "Because form and such things have no meaning, the names of form and such things neither abide nor don't abide.",
+        "source": "T07n0220_408:0045b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於眼界乃至意界若增若減不知不得，如何可言此是眼界乃至意界？",
+        "translation": "If I don't know whether I'm increasing or decreasing in the visual or mental realm, how can I say that this is the visual or mental realm?",
+        "source": "T07n0220_408:0045b23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界等名皆無所住亦非不住。",
+        "translation": "\"Names like the visual sphere have no abiding and don't stop.",
+        "source": "T07n0220_408:0045b25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045b25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界等義無所有故，眼界等名都無所住亦非不住。",
+        "translation": "Because such things as the visual sphere have no meaning, such names as the visual sphere have no abiding and don't stop.",
+        "source": "T07n0220_408:0045b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於色界乃至法界若增若減不知不得，如何可言此是色界乃至法界？",
+        "translation": "If I don't know whether I'm increasing or decreasing in the form realm or even the Dharma realm, how can I say that this is the form realm or even the Dharma realm?",
+        "source": "T07n0220_408:0045b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界等名皆無所住亦非不住。",
+        "translation": "\"Names like the form realm have no abode and don't stop.",
+        "source": "T07n0220_408:0045b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045b29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界等義無所有故，色界等名都無所住亦非不住。",
+        "translation": "Because the meaning of the form realm and so forth has no existence, the names of the form realm and so forth have no abiding and don't abide.",
+        "source": "T07n0220_408:0045b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於眼識界乃至意識界若增若減不知不得，如何可言此是眼識界乃至意識界？",
+        "translation": "If I don't know whether I'm increasing or decreasing in the element of visual consciousness or the element of consciousness, how can I say that this is the element of visual consciousness or the element of consciousness?",
+        "source": "T07n0220_408:0045c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼識界等名皆無所住亦非不住。",
+        "translation": "The names of the visual consciousness factor and so forth all lack abiding and don't lack abiding.",
+        "source": "T07n0220_408:0045c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼識界等義無所有故，眼識界等名都無所住亦非不住。",
+        "translation": "Because the sense of the visual consciousness factor and so forth has no existence, the names of the visual consciousness factor and so forth have no abiding and don't abide.",
+        "source": "T07n0220_408:0045c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於眼觸乃至意觸若增若減不知不得，如何可言此是眼觸乃至意觸？",
+        "translation": "If I don't know whether I'm increasing or decreasing eye contact or mind contact, how can I say that this is eye contact or mind contact?",
+        "source": "T07n0220_408:0045c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸等名皆無所住亦非不住。",
+        "translation": "The words \"eye contact\" and so forth have no abiding and don't stop.",
+        "source": "T07n0220_408:0045c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸等義無所有故，眼觸等名都無所住亦非不住。",
+        "translation": "Because the meaning of eyes and tactile objects has no existence, the names of eyes and tactile objects have no abiding and don't abide.",
+        "source": "T07n0220_408:0045c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於眼觸為緣所生諸受乃至意觸為緣所生諸受若增若減不知不得，如何可言此是眼觸為緣所生諸受乃至意觸為緣所生諸受？",
+        "translation": "If I don't know whether the sensations that arise from visual contact as a condition or the sensations that arise from mental contact as a condition increase or decrease, how can I say that these are sensations that arise from visual contact as a condition or sensations that arise from mental contact as a condition?",
+        "source": "T07n0220_408:0045c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸為緣所生諸受等名皆無所住亦非不住。",
+        "translation": "The names of sensations that arise from visual contact as a condition are neither abiding nor non-abiding.",
+        "source": "T07n0220_408:0045c13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045c14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸為緣所生諸受等義無所有故，眼觸為緣所生諸受等名都無所住亦非不住。",
+        "translation": "Because the sensations that arise from visual contact as a condition have no meaning, the names of the sensations that arise from visual contact as a condition have no abiding and don't abide.",
+        "source": "T07n0220_408:0045c14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045c16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於無明乃至老死若增若減不知不得，如何可言此是無明乃至老死？",
+        "translation": "If I don't know whether nescience or old age and death are increasing or decreasing, how can I say that this is nescience or old age and death?",
+        "source": "T07n0220_408:0045c16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無明等名皆無所住亦非不住。",
+        "translation": "The names nescience and so forth all lack abiding and don't lack abiding.",
+        "source": "T07n0220_408:0045c17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045c18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無明等義無所有故，無明等名都無所住亦非不住。",
+        "translation": "Because nescience and such things have no meaning, nescience and such names neither abide nor don't abide.",
+        "source": "T07n0220_408:0045c18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於無明滅乃至老死滅若增若減不知不得，如何可言此是無明滅乃至老死滅？",
+        "translation": "If I don't know whether nescience ceases or old age ceases, how can I say that this is the cessation of nescience and old age ceasing?",
+        "source": "T07n0220_408:0045c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無明滅等名皆無所住亦非不住。",
+        "translation": "The names nescience cessation and so forth are neither abiding nor non-abiding.",
+        "source": "T07n0220_408:0045c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無明滅等義無所有故，無明滅等名都無所住亦非不住。",
+        "translation": "Because such things as the cessation of nescience have no meaning, the names such as the cessation of nescience have no abiding and don't abide.",
+        "source": "T07n0220_408:0045c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於貪、瞋、癡及諸纏結、隨眠、見趣若增若減不知不得，如何可言此是貪等？",
+        "translation": "How can I say that this is craving and so forth when I don't know whether to increase or decrease craving, anger, delusion, the bonds of entanglement, latencies, and the destinies of views?",
+        "source": "T07n0220_408:0045c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是貪等名皆無所住亦非不住。",
+        "translation": "These names of craving have no abiding, and they don't stop.",
+        "source": "T07n0220_408:0045c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0045c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是貪等義無所有故，此貪等名都無所住亦非不住。",
+        "translation": "Because these kinds of craving and other meanings have nothing, these names for craving and other things neither abide nor don't abide.",
+        "source": "T07n0220_408:0045c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0045c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於布施波羅蜜多乃至般若波羅蜜多若增若減不知不得，如何可言此是布施波羅蜜多乃至般若波羅蜜多？",
+        "translation": "If I don't know how much the perfection of generosity or even the perfection of wisdom increases or decreases, how can I say that this is the perfection of generosity or even the perfection of wisdom?",
+        "source": "T07n0220_408:0045c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "布施波羅蜜多等名皆無所住亦非不住。",
+        "translation": "\"The names generosity and pāramitā have no abiding and don't stop.",
+        "source": "T07n0220_408:0046a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0046a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "布施波羅蜜多等義無所有故，布施波羅蜜多等名都無所住亦非不住。",
+        "translation": "Because such things as the perfection of generosity have no meaning, the names such as the perfection of generosity have no abiding and don't stop there.",
+        "source": "T07n0220_408:0046a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0046a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於我乃至見者若增若減不知不得，如何可言此是我乃至見者？",
+        "translation": "How can I say that this is a self or even a view when I don't know if I'm increasing or decreasing in that view?",
+        "source": "T07n0220_408:0046a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等名皆無所住亦非不住。",
+        "translation": "Our names are neither abiding nor non-abiding.",
+        "source": "T07n0220_408:0046a06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0046a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等義無所有故，我等名都無所住亦非不住。",
+        "translation": "Because our meanings are nonexistent, our names all lack abiding and don't lack abiding.",
+        "source": "T07n0220_408:0046a07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0046a08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於四念住乃至八聖道支若增若減不知不得，如何可言此是四念住乃至八聖道支？",
+        "translation": "If I don't know whether I'm gaining or losing the four abodes of mindfulness or the eightfold noble path, how can I say that these are the four abodes of mindfulness and the eightfold noble path?",
+        "source": "T07n0220_408:0046a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四念住等名皆無所住亦非不住。",
+        "translation": "\"The four abodes of mindfulness and other names are neither abiding nor non-abiding.",
+        "source": "T07n0220_408:0046a10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0046a11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四念住等義無所有故，四念住等名都無所住亦非不住。",
+        "translation": "Because the four bases of mindfulness and so forth have no meaning, the names of the four bases of mindfulness and so forth all lack abiding and don't stop.",
+        "source": "T07n0220_408:0046a11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0046a12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於空解脫門乃至無願解脫門若增若減不知不得，如何可言此是空解脫門乃至無願解脫門？",
+        "translation": "If I don't know whether I'm gaining or losing the gate of liberation through emptiness or the gate of liberation through wishlessness, how can I say that this is the gate of liberation through emptiness or the gate of liberation through wishlessness?",
+        "source": "T07n0220_408:0046a12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空解脫門等名皆無所住亦非不住。",
+        "translation": "The names such as the liberation through emptiness have no abiding and don't stop.",
+        "source": "T07n0220_408:0046a14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0046a15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空解脫門等義無所有故，空解脫門等名都無所住亦非不住。",
+        "translation": "Because the meaning of the gate of the liberation of emptiness and so forth has no existence, the names of the gate of the liberation of emptiness and so forth have no abiding and don't abide.",
+        "source": "T07n0220_408:0046a15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0046a17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於四靜慮、四無量、四無色定若增若減不知不得，如何可言此是四靜慮、四無量、四無色定？",
+        "translation": "If I don't know whether the four meditations, the four immeasurable concentrations, and the four formless concentrations are increased or decreased, how can I say that these are the four meditations, the four immeasurable concentrations, and the four formless concentrations?",
+        "source": "T07n0220_408:0046a17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四靜慮等名皆無所住亦非不住。",
+        "translation": "The four names of meditation and so forth are neither abiding nor non-abiding.",
+        "source": "T07n0220_408:0046a19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0046a20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四靜慮等義無所有故，四靜慮等名都無所住亦非不住。",
+        "translation": "Because the meaning of the four meditations and so forth has no existence, the names of the four meditations and so forth have no abiding and don't abide.",
+        "source": "T07n0220_408:0046a20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0046a21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於佛隨念、法隨念、僧隨念、戒隨念、捨隨念、天隨念、入出息隨念、死隨念若增若減不知不得，如何可言此是佛隨念乃至死隨念？",
+        "translation": "If I don't know whether to be mindful of the Buddha's mindfulness, the Dharma's mindfulness, the saṃgha's mindfulness, the precepts' mindfulness, equanimity's mindfulness, the gods' mindfulness, the mindfulness of breathing in and out, or the mindfulness of death, how can I say that this is the mindfulness of the Buddha's mindfulness or even the mindfulness of death?",
+        "source": "T07n0220_408:0046a21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛隨念等名皆無所住亦非不住。",
+        "translation": "Such names as mindfulness of the Buddha have no abiding and don't stop.",
+        "source": "T07n0220_408:0046a24_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0046a25_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛隨念等義無所有故，佛隨念等名都無所住亦非不住。",
+        "translation": "Because such things as the mindfulness of the Buddha have no meaning, such names as the mindfulness of the Buddha have no abiding and don't abide.",
+        "source": "T07n0220_408:0046a25_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T07n0220_408:0046a27_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於佛十力乃至十八佛不共法若增若減不知不得，如何可言此是佛十力乃至十八佛不共法？",
+        "translation": "If I don't know whether the ten powers of the Buddha or the 18 distinctive characteristics of the Buddha are increased or decreased, how can I say that these are the ten powers of the Buddha or the 18 distinctive characteristics of the Buddha?",
+        "source": "T07n0220_408:0046a27_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛十力等名皆無所住亦非不住。",
+        "translation": "\"The names of the Buddha's ten powers neither abide nor don't abide.",
+        "source": "T07n0220_408:0046a29_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T07n0220_408:0046b01_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛十力等義無所有故，佛十力等名都無所住亦非不住。",
+        "translation": "Because the ten powers of the Buddha and other things have no meaning, the names of the ten powers of the Buddha neither abide nor don't abide.",
+        "source": "T07n0220_408:0046b01_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大般若波羅蜜多經卷第四百八",
+        "translation": "Mahāprajñāpāramitā-sūtra, Volume 4, Section 108",
+        "source": "T07n0220_408:0046b03_0",
+        "is_bad_quality": false
+    }
+]

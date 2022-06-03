@@ -1,0 +1,896 @@
+[
+    {
+        "source_sentence": "居士傳二",
+        "translation": "Biography of the Layman",
+        "source": "X88n1646_002:0187a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "劉遺民傳",
+        "translation": "Liu Yumin's Biography",
+        "source": "X88n1646_002:0187a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "劉遺民者。",
+        "translation": "Liu Yumin.",
+        "source": "X88n1646_002:0187a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名程之。",
+        "translation": "His name was Cheng Zhi.",
+        "source": "X88n1646_002:0187a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "字仲思。",
+        "translation": "His name was Zhongshi.",
+        "source": "X88n1646_002:0187a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彭城人。",
+        "translation": "He was from Pengcheng.",
+        "source": "X88n1646_002:0187a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "漢楚元王之後也。",
+        "translation": "He was a descendant of King Yuan of the Han Dynasty.",
+        "source": "X88n1646_002:0187a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少孤。",
+        "translation": "He was a young orphan.",
+        "source": "X88n1646_002:0187a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "事母孝。",
+        "translation": "He was filial to his mother.",
+        "source": "X88n1646_002:0187a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善老莊言。",
+        "translation": "He was a good teacher of the old and the upright.",
+        "source": "X88n1646_002:0187a15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不委蛇於時俗。",
+        "translation": "He didn't conform to the customs of the time.",
+        "source": "X88n1646_002:0187a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初為府參軍。",
+        "translation": "At first, he served as a military attaché in the office.",
+        "source": "X88n1646_002:0187a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "晉司徒王謐．丞相桓元．侍中謝琨．太尉劉裕先後引薦。",
+        "translation": "He was recommended by Jin's director Wang Jian, prime minister Huan Yuan, retainer Xie Kun, and chief lieutenant Liu Yu.",
+        "source": "X88n1646_002:0187a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆力辭。",
+        "translation": "They all strongly resisted.",
+        "source": "X88n1646_002:0187a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時慧遠法師止於廬山東林寺。",
+        "translation": "At the time, the teacher Huiyuan stayed at the East Forest Temple in Mount Lu.",
+        "source": "X88n1646_002:0187a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "脩念佛三昧。",
+        "translation": "He trained in the samādhi of mindfulness of the Buddha.",
+        "source": "X88n1646_002:0187a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺民往依之。",
+        "translation": "The surviving residents went to rely on him.",
+        "source": "X88n1646_002:0187a18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠師曰。",
+        "translation": "The farmer said.",
+        "source": "X88n1646_002:0187a18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "官祿巍巍云何不為。",
+        "translation": "\"Officially, your salary is lofty, so why don't you do it?",
+        "source": "X88n1646_002:0187a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺民曰。",
+        "translation": "The hermits said.",
+        "source": "X88n1646_002:0187a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "晉室無磐石之固。",
+        "translation": "'The Jin court doesn't have a rock solidity.",
+        "source": "X88n1646_002:0187a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "物情有壘卵之危。",
+        "translation": "Things are in danger of being crushed to bits.",
+        "source": "X88n1646_002:0187a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾何為哉。",
+        "translation": "What should we do?",
+        "source": "X88n1646_002:0187a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "劉裕以其不屈。",
+        "translation": "Liu Yue thought he was unyielding.",
+        "source": "X88n1646_002:0187a19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃以遺民之號旌焉。",
+        "translation": "He then honored them with the name of the remnant.",
+        "source": "X88n1646_002:0187a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同時宗少文．周道祖．雷仲倫．張萊民．張秀實．畢士頴咸來廬山。",
+        "translation": "At the same time, Zong Shaowen, Zhou Daozu, Lei Zhonglun, Zhang Lemin, Zhang Xiuji, and Bi Shiyuan all came to Mount Lu.",
+        "source": "X88n1646_002:0187a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠師曰。",
+        "translation": "Yuan Shi said.",
+        "source": "X88n1646_002:0187a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸君之來。",
+        "translation": "\"You've all come.",
+        "source": "X88n1646_002:0187a21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能無意於淨土乎。",
+        "translation": "\"Can you not intend to visit the Pure Land?",
+        "source": "X88n1646_002:0187a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃造西方三聖像。",
+        "translation": "He then built images of the three sages of the West.",
+        "source": "X88n1646_002:0187a22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "建齋立社。",
+        "translation": "He built a purification hall and established a community.",
+        "source": "X88n1646_002:0187a22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾至百二十有三人。",
+        "translation": "The congregation numbered one hundred and twenty or three.",
+        "source": "X88n1646_002:0187a23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺民鑱石為誓。",
+        "translation": "The surviving residents took a stone as their vow.",
+        "source": "X88n1646_002:0187a23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其辭曰。",
+        "translation": "The words were.",
+        "source": "X88n1646_002:0187a23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夫緣化之理既明。",
+        "translation": "\"Now that the principle of conditioning and transformation is clear.",
+        "source": "X88n1646_002:0187a23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則去來之兆顯矣。",
+        "translation": "Then the signs of coming and going will be evident.",
+        "source": "X88n1646_002:0187a24_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遷感之數既符。",
+        "translation": "Once the number of transmigration is matched, the results of good and evil will surely follow.",
+        "source": "X88n1646_002:0187a24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則善惡之報必矣。",
+        "translation": "Then the effects of good and evil will surely follow.",
+        "source": "X88n1646_002:0187a24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "推交臂之潛淪。",
+        "translation": "He deduces the potential degradation of interrelationships.",
+        "source": "X88n1646_002:0187b01_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悟無常之期切。",
+        "translation": "He realizes the expectation of impermanence and cuts it off.",
+        "source": "X88n1646_002:0187b01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "審三報之相催。",
+        "translation": "He examines the mutual urgency of the three kinds of retribution.",
+        "source": "X88n1646_002:0187b01_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知險趣之難拔。",
+        "translation": "They'll know the difficulty of escaping from dangerous destinies.",
+        "source": "X88n1646_002:0187b02_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此其同志諸賢所以夕惕朝勤仰思攸濟者也。",
+        "translation": "This is why his comrades, the good men, are so vigilant and diligent every evening and look up to try to help.",
+        "source": "X88n1646_002:0187b02_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盖神者可以感涉而不可以跡求。",
+        "translation": "The soul can be sensed and involved, but not sought after by traces.",
+        "source": "X88n1646_002:0187b03_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必感之有物則幽路咫尺。",
+        "translation": "When there's something to sense, the hidden path is a stone's throw away.",
+        "source": "X88n1646_002:0187b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苟求之無主則渺茫何津。",
+        "translation": "If it's sought without a subject, then it's a long way off.",
+        "source": "X88n1646_002:0187b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今幸以不謀而感僉心西境。",
+        "translation": "Now, it's fortunate that I've been able to help you feel the western part of your heart without plotting against you.",
+        "source": "X88n1646_002:0187b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "叩篇開信亮情天發。",
+        "translation": "Knocking on the door, he opened his mind and believed in the brightness of his feelings, which were aroused in heaven.",
+        "source": "X88n1646_002:0187b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃機象通於寢夢。",
+        "translation": "It was then that his vision passed through his sleep and dreams.",
+        "source": "X88n1646_002:0187b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欣歡百於子來。",
+        "translation": "I'm delighted and happy that my son has come.",
+        "source": "X88n1646_002:0187b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是雲圖表暉影侔神造。",
+        "translation": "Thus, clouds, diagrams, flashes, and shadows are like divine creations.",
+        "source": "X88n1646_002:0187b06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "功由理諧事非人運。",
+        "translation": "Their success is based on the harmony of principle and the non-human agency of phenomena.",
+        "source": "X88n1646_002:0187b07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "茲實天啟其誠。",
+        "translation": "This is really a divine revelation of his sincerity.",
+        "source": "X88n1646_002:0187b07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "冥運來萃者矣。",
+        "translation": "It's really a collection of mysterious fortune.",
+        "source": "X88n1646_002:0187b07_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然其景績參差功德不一。",
+        "translation": "However, their achievements are varied, and their merits are not the same.",
+        "source": "X88n1646_002:0187b08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖晨祈云同夕歸攸隔。",
+        "translation": "Even though their morning prayers are the same, their evening returns are far apart.",
+        "source": "X88n1646_002:0187b08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即我師友之眷。",
+        "translation": "That's the family of my teacher and friend.",
+        "source": "X88n1646_002:0187b09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "良可悲矣。",
+        "translation": "It's really sad.",
+        "source": "X88n1646_002:0187b09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是以慨焉胥命。",
+        "translation": "That's why I was so sorry to hear about their fate.",
+        "source": "X88n1646_002:0187b09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "整襟法堂等施一心。",
+        "translation": "He straightened his bosom, gave his Dharma hall, and so forth, with one mind.",
+        "source": "X88n1646_002:0187b09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亭懷幽極。",
+        "translation": "The pavilion was filled with seclusion.",
+        "source": "X88n1646_002:0187b10_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誓茲同人俱遊絕域。",
+        "translation": "We vowed to travel together with others to a desolate region.",
+        "source": "X88n1646_002:0187b10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其驚出絕倫首登神界。",
+        "translation": "They'll be astonished to emerge from this unparalleled world and ascend to the divine realm.",
+        "source": "X88n1646_002:0187b10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則無獨善於雲嶠。",
+        "translation": "They're not alone in their skillfulness in the clouds.",
+        "source": "X88n1646_002:0187b11_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "忘兼全於幽谷。",
+        "translation": "Forgetting both, they'll be in a mysterious valley.",
+        "source": "X88n1646_002:0187b11_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然後妙覲天儀啟心貞照。",
+        "translation": "Then, they'll visit the heavenly ceremony to reveal the mind's true illumination.",
+        "source": "X88n1646_002:0187b11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識以悟心形由化革。",
+        "translation": "He uses consciousness to awaken his mind, and his form is transformed by transformation.",
+        "source": "X88n1646_002:0187b12_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "藉芙蓉於中流。",
+        "translation": "By relying on a lotus in the middle of the stream.",
+        "source": "X88n1646_002:0187b12_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蔭瓊柯以咏言。",
+        "translation": "It's shaded by a pine tree and used for reciting words.",
+        "source": "X88n1646_002:0187b13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飄雲衣於八極。",
+        "translation": "He spreads his robe of clouds across the eight extremities.",
+        "source": "X88n1646_002:0187b13_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汎香風以窮年。",
+        "translation": "He spreads incense in the breeze to end his years.",
+        "source": "X88n1646_002:0187b13_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臨三塗而緬謝。",
+        "translation": "He approaches the three destinies and looks back.",
+        "source": "X88n1646_002:0187b14_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傲天宮而長辭。",
+        "translation": "He takes pride in his heavenly palace and says goodbye.",
+        "source": "X88n1646_002:0187b14_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "紹眾靈以繼軌。",
+        "translation": "He presents the many spirits as a successor to the Way.",
+        "source": "X88n1646_002:0187b14_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指大覺以為期。",
+        "translation": "Pointing to Daikaku for a further period, he said.",
+        "source": "X88n1646_002:0187b14_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "究茲道也豈不弘哉。",
+        "translation": "Wouldn't it be great to examine this path?",
+        "source": "X88n1646_002:0187b15_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺民度西林澗北別立禪坊。",
+        "translation": "The surviving folk established a separate meditation hall north of Xi Lin Jiang.",
+        "source": "X88n1646_002:0187b15_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "精研元理兼持禁戒。",
+        "translation": "He studied the fundamental principles and observed the precepts.",
+        "source": "X88n1646_002:0187b16_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "甞貽書關中。",
+        "translation": "He was a former student of Guanzhong.",
+        "source": "X88n1646_002:0187b16_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與什公．肇公揚榷經義。",
+        "translation": "He discussed the sūtras' teachings with Duke Sh and Duke Zhaogong.",
+        "source": "X88n1646_002:0187b16_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "著念佛三昧詩。",
+        "translation": "He wrote poems on the samādhi of mindfulness of the Buddha.",
+        "source": "X88n1646_002:0187b17_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "居半載。",
+        "translation": "He stayed there for half a year.",
+        "source": "X88n1646_002:0187b17_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於定中見佛光照地皆作金色。",
+        "translation": "Immediately, while in meditation, he saw the Buddha's light shining on the ground, making it golden.",
+        "source": "X88n1646_002:0187b17_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更十五年於正念佛時。",
+        "translation": "For another fifteen years, when he was correctly mindful of the Buddha, he saw the jade ray of Amitâbha Buddha.",
+        "source": "X88n1646_002:0187b18_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見阿彌陀佛玉毫光照垂手慰接。",
+        "translation": "He saw Amitâbha's jade hair shining brightly, and he put his hand up to receive him.",
+        "source": "X88n1646_002:0187b18_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺民曰。",
+        "translation": "The survivors said.",
+        "source": "X88n1646_002:0187b19_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "安得如來為我摩頂。",
+        "translation": "\"Did the Tathāgata ever lay his hand on my head and put it on my robe?",
+        "source": "X88n1646_002:0187b19_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "覆我以衣。",
+        "translation": "He covered me with his robe.",
+        "source": "X88n1646_002:0187b20_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俄而佛為摩頂。",
+        "translation": "Then the Buddha gave him a hand-rub and covered him with his robe.",
+        "source": "X88n1646_002:0187b20_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "引袈裟以被之。",
+        "translation": "He took the reddish-brown robe and covered him with it.",
+        "source": "X88n1646_002:0187b20_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "他日又夢入七寶池。",
+        "translation": "Another day, he dreamed that he'd enter a lake of seven jewels.",
+        "source": "X88n1646_002:0187b20_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見蓮華青白色。",
+        "translation": "He saw lotus flowers that were blue and white.",
+        "source": "X88n1646_002:0187b21_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其水湛湛。",
+        "translation": "Their water was crystal clear.",
+        "source": "X88n1646_002:0187b21_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有人頂有圓光胸出卍字。",
+        "translation": "On top of someone's head was a swastika that appeared in a circular light on his chest.",
+        "source": "X88n1646_002:0187b21_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指池水曰。",
+        "translation": "Pointing to the water of the pond, he said.",
+        "source": "X88n1646_002:0187b22_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八功德水。",
+        "translation": "\"That's the water of the eight attributes.",
+        "source": "X88n1646_002:0187b22_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝可飲之。",
+        "translation": "You may drink from it.",
+        "source": "X88n1646_002:0187b22_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺民飲水甘美。",
+        "translation": "The water was delicious when the people left behind drank it.",
+        "source": "X88n1646_002:0187b22_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及寤異香發於毛孔。",
+        "translation": "When he awoke, a strange fragrance rose from his pores.",
+        "source": "X88n1646_002:0187b23_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃語人曰。",
+        "translation": "He then said to the people.",
+        "source": "X88n1646_002:0187b23_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾淨土之緣至矣。",
+        "translation": "\"The conditions for my Pure Land have arrived.",
+        "source": "X88n1646_002:0187b23_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "請僧轉妙法蓮華經近數百周。",
+        "translation": "He asked the saṃgha to recite the Sutra of the Lotus of the Wonderful Dharma for nearly a few hundred weeks.",
+        "source": "X88n1646_002:0187b24_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺民對像焚香再拜而祝曰。",
+        "translation": "The survivor burned incense at the image, paid homage again, and wished.",
+        "source": "X88n1646_002:0187b24_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我以釋迦遺教。",
+        "translation": "'Based on the legacy of the Śākyas, I know there's an Amitâbha Buddha.'",
+        "source": "X88n1646_002:0187c01_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知有阿彌陀佛。",
+        "translation": "I know there's an Amitâbha Buddha.",
+        "source": "X88n1646_002:0187c01_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此香當先供養釋迦如來。",
+        "translation": "This incense should be offered first to the Śākyamuni Tathāgata.",
+        "source": "X88n1646_002:0187c01_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次供養阿彌陀佛。",
+        "translation": "Next, they should make offerings to Amitâbha Buddha.",
+        "source": "X88n1646_002:0187c02_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次供養妙法蓮華經。",
+        "translation": "Next, I'll make offerings to the Lotus Sutra of the Wonderful Dharma.",
+        "source": "X88n1646_002:0187c02_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以得生淨土。",
+        "translation": "That's how I was born in the Pure Land.",
+        "source": "X88n1646_002:0187c03_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此經功德。",
+        "translation": "Because of the merits of this sūtra.",
+        "source": "X88n1646_002:0187c03_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願與一切有情俱生淨土。",
+        "translation": "May he and all sentient beings be born in the Pure Land together.",
+        "source": "X88n1646_002:0187c03_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即與眾別。",
+        "translation": "He then parted with the crowd.",
+        "source": "X88n1646_002:0187c04_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臥牀上面西合掌泊然化去。",
+        "translation": "He put his palms together and withdrew while lying on top of his bed in the west.",
+        "source": "X88n1646_002:0187c04_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "預勅子雍即土為墳。",
+        "translation": "I've instructed my son Yong to use the earth as his grave.",
+        "source": "X88n1646_002:0187c04_67",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勿用棺槨。",
+        "translation": "Don't use a coffin.",
+        "source": "X88n1646_002:0187c05_68",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時義熈六年。",
+        "translation": "It was the sixth year of the Yiqie era.",
+        "source": "X88n1646_002:0187c05_69",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "年五十九。",
+        "translation": "He was fifty-nine years old.",
+        "source": "X88n1646_002:0187c05_70",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後六年遠師宴坐龕中。",
+        "translation": "For the next six years, Yuan Shi was sitting in a niche during a banquet.",
+        "source": "X88n1646_002:0187c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從定起。",
+        "translation": "He rose from his meditation.",
+        "source": "X88n1646_002:0187c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見阿彌陀佛身滿虗空。",
+        "translation": "He saw Amitâbha Buddha's body filling the sky.",
+        "source": "X88n1646_002:0187c06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀音勢至左右侍。",
+        "translation": "Avalokitêśvara arrived at his right and left to attend him.",
+        "source": "X88n1646_002:0187c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺民及社中僧先化者皆在側前揖遠師曰。",
+        "translation": "The surviving residents and the saṃgha of the community who had been converted before were all at his side, and he greeted the founder of the school.",
+        "source": "X88n1646_002:0187c07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師早發心。",
+        "translation": "\"The teacher had long since begun his intention.",
+        "source": "X88n1646_002:0187c08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何來之晚。",
+        "translation": "How could he have come so late?'",
+        "source": "X88n1646_002:0187c08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃展期七日而逝(東林傳．出三藏記集)。",
+        "translation": "He took seven days and passed away (Donglin zhuan ... Translation of the Tripiṭaka Record).",
+        "source": "X88n1646_002:0187c08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知歸子曰。",
+        "translation": "Zhigui Zi said.",
+        "source": "X88n1646_002:0187c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛法入茲土。",
+        "translation": "\"The Buddha-dharma entered this land.",
+        "source": "X88n1646_002:0187c10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "始昌於晉。",
+        "translation": "It first prospered in Jin.",
+        "source": "X88n1646_002:0187c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而士大夫之息心淨土者罕聞焉。",
+        "translation": "But it was rare to hear of a scholar or a great man who had stopped to think about the Pure Land.",
+        "source": "X88n1646_002:0187c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至遺民一唱。",
+        "translation": "When the hermits first sang, it was heard everywhere.",
+        "source": "X88n1646_002:0187c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠近傾動。",
+        "translation": "It stirred people from near and far.",
+        "source": "X88n1646_002:0187c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖遠師實成之。",
+        "translation": "Although it was actually accomplished by distant masters.",
+        "source": "X88n1646_002:0187c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦由遺民精誠內激。",
+        "translation": "It was also because the hermits were so sincerely stirred up inside.",
+        "source": "X88n1646_002:0187c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "冥孚眾志。",
+        "translation": "They secretly supported the aspirations of the people.",
+        "source": "X88n1646_002:0187c12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初遺民與周道祖．陶淵明稱潯陽三隱。",
+        "translation": "At first, the hermits, Zhou Daozu, and Tao Yuanming were called the three hermits of Xunyang.",
+        "source": "X88n1646_002:0187c12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "道祖既入社。",
+        "translation": "After Daozu had joined the community, Yuan Shi recruited Yuan Ming with a book.",
+        "source": "X88n1646_002:0187c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠師以書招淵明。",
+        "translation": "Yuan Shi recruited Yuan Ming with a letter.",
+        "source": "X88n1646_002:0187c13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淵明曰。",
+        "translation": "Yuanming said.",
+        "source": "X88n1646_002:0187c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "許我飲酒則諾。",
+        "translation": "\"I'll drink wine if you promise.",
+        "source": "X88n1646_002:0187c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "許之遂造焉。",
+        "translation": "He agreed, and so he went ahead with it.",
+        "source": "X88n1646_002:0187c14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無何攢眉而去。",
+        "translation": "Nothing happened, and he left with a raised eyebrow.",
+        "source": "X88n1646_002:0187c14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "志尚雖高。",
+        "translation": "Even though his aspiration was high.",
+        "source": "X88n1646_002:0187c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於道闊矣。",
+        "translation": "The path is broad enough.",
+        "source": "X88n1646_002:0187c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惜哉。",
+        "translation": "It's a pity.",
+        "source": "X88n1646_002:0187c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汪大紳云。",
+        "translation": "Wang Dajian said.",
+        "source": "X88n1646_002:0187c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此真冷淡生活。",
+        "translation": "'This is really a life of indifference.",
+        "source": "X88n1646_002:0187c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淡得盡時方好。",
+        "translation": "It's good when it's so indifferent that it's exhausted.",
+        "source": "X88n1646_002:0187c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知歸子已入此保社矣。",
+        "translation": "You should know that your son has already entered this protective society.",
+        "source": "X88n1646_002:0187c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大佳大佳。",
+        "translation": "That's very good! Very good!",
+        "source": "X88n1646_002:0187c17_4",
+        "is_bad_quality": false
+    }
+]

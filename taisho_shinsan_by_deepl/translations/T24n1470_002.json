@@ -1,0 +1,2372 @@
+[
+    {
+        "source_sentence": "大比丘三千威儀卷下",
+        "translation": "The Three Thousand Regulations for Great Bhikṣus, Volume II",
+        "source": "T24n1470_002:0919b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後漢安息國三藏安世高譯",
+        "translation": "An Shigao Translation of the Tripiṭaka of the Later Han Kingdom of Anzhi",
+        "source": "T24n1470_002:0919b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二頭陀者：一者不受人請，日行乞食，亦不受比丘僧一飯食分錢財。",
+        "translation": "The twelve ascetics: one doesn't accept invitations from people to go begging for food every day, and he doesn't accept a meal or a share of money from the monks and nuns.",
+        "source": "T24n1470_002:0919b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者止宿山上，不宿人舍郡縣聚落。",
+        "translation": "Second, they stop at staying on the mountain and don't stay at a village in a county or town owned by someone else.",
+        "source": "T24n1470_002:0919b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者不得從人乞衣被，人與衣被亦不受，但取丘塚間死人所棄衣補治衣之。",
+        "translation": "Third, he doesn't beg for clothing from people, and he doesn't accept clothing from people, except to take the clothing discarded by dead people in mounds and shrines and patch it up.",
+        "source": "T24n1470_002:0919b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者止宿野田中樹下。",
+        "translation": "Four, he stops sleeping under trees in a wild field.",
+        "source": "T24n1470_002:0919b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者一日一食，一名僧迦僧泥。",
+        "translation": "Fifth, he eats once a day, which is called 'saṃghâvaśeṣa'.",
+        "source": "T24n1470_002:0919b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者晝夜不臥但坐，睡來起經行，一名僧泥沙者傴。",
+        "translation": "Sixth, he doesn't lie down by day or night but sits up when he comes to bed and walks through the scriptures, a monk's niraya.",
+        "source": "T24n1470_002:0919b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者有三領衣，無有餘衣，亦不臥被中。",
+        "translation": "Seventh, he has three collars of clothing and no more, and he doesn't lay under a blanket.",
+        "source": "T24n1470_002:0919b12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者在塚間，不在佛寺中，亦不在人間，目視死人骸骨，坐禪求道。",
+        "translation": "Eight, he lives in a tomb, not in a Buddhist temple or among humans, looks at the bones of the dead, and sits in meditation seeking the path.",
+        "source": "T24n1470_002:0919b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者但欲獨處不欲見人，亦不欲與人共臥。",
+        "translation": "Nine, someone who wants to be alone and doesn't want to see people, and they don't want to share their bed.",
+        "source": "T24n1470_002:0919b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者先食菓蓏却食飯，食已不得復食菓。",
+        "translation": "Ten, someone first eats fruit and fruit products, but then eats rice; after eating, they mustn't eat fruit again.",
+        "source": "T24n1470_002:0919b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一者但欲露臥，不在樹下屋宿。",
+        "translation": "11. A person wants to sleep in the open air but not under a tree.",
+        "source": "T24n1470_002:0919b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二者不食肉亦不食醍醐，麻油不塗身。",
+        "translation": "Twelve people don't eat meat or ghee, and they don't rub sesame oil on their bodies.",
+        "source": "T24n1470_002:0919b17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持錫杖有二十五事：一者為地虫故。",
+        "translation": "There are 25 things about carrying a tin cane: one, it's for the sake of earthworms.",
+        "source": "T24n1470_002:0919b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者為年老故。",
+        "translation": "Two, it's because he's old.",
+        "source": "T24n1470_002:0919b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者為分衛故。",
+        "translation": "Three, it's for the sake of his security.",
+        "source": "T24n1470_002:0919b20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者出入見佛像，不得使頭有聲。",
+        "translation": "Four, when he enters or leaves and sees an image of the Buddha, he mustn't make a sound with his head.",
+        "source": "T24n1470_002:0919b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者不得持杖入眾。",
+        "translation": "Five, he mustn't carry the staff into the congregation.",
+        "source": "T24n1470_002:0919b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者日中後不得復持杖出。",
+        "translation": "Sixth, he mustn't carry the staff out again after midday.",
+        "source": "T24n1470_002:0919b21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者不得擔著肩上。",
+        "translation": "7. He mustn't carry it on his shoulders.",
+        "source": "T24n1470_002:0919b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者不得橫著肩上以手懸兩頭。",
+        "translation": "Eight, he mustn't put it across his shoulders and hang his hands over both heads.",
+        "source": "T24n1470_002:0919b22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者不得手掉前却。",
+        "translation": "9. He mustn't drop his hands in front of him.",
+        "source": "T24n1470_002:0919b23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者不得持杖至舍後。",
+        "translation": "Ten, he mustn't carry the staff to the back of the house.",
+        "source": "T24n1470_002:0919b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一者三師已持杖出，不得復持杖隨出。",
+        "translation": "Eleven: After the three masters have carried the staff out, they mustn't carry it out again.",
+        "source": "T24n1470_002:0919b24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二者若四人共行，一人以持杖出，不得復持杖隨後。",
+        "translation": "12. If four people are traveling together, one person may emerge with the staff and not carry it again afterward.",
+        "source": "T24n1470_002:0919b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十三者至檀越家，應杖不得離身。",
+        "translation": "Thirteen: When he goes to a donor's house, his staff must not leave his body.",
+        "source": "T24n1470_002:0919b26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十四者至人門時，當三欬瘶不出，應當便去至餘處。",
+        "translation": "When he arrives at a person's door, he must cleanse his throat three times and not leave, and then he must leave and go to another place.",
+        "source": "T24n1470_002:0919b27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十五者設人出，應當杖著左肘挾之。",
+        "translation": "Fifteen: When he asks someone to leave, he should put his staff over his left elbow and carry it.",
+        "source": "T24n1470_002:0919b28_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十六者杖在室中，不得使著地。",
+        "translation": "Sixteen: When the staff is in the room, it mustn't fall to the ground.",
+        "source": "T24n1470_002:0919b29_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十七者當持自近臥床。",
+        "translation": "Seventeen: He should carry it near his bed.",
+        "source": "T24n1470_002:0919c01_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十八者當取拭之。",
+        "translation": "Eighteen: You must pick it up and wipe it.",
+        "source": "T24n1470_002:0919c01_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十九者不得使頭有生。",
+        "translation": "Nineteen: You mustn't let anything grow on your head.",
+        "source": "T24n1470_002:0919c02_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十者欲持杖出，當從沙彌受、若白衣受。",
+        "translation": "Twenty: If he wants to carry the staff out, he must accept it from a novice or from a white-clothed man.",
+        "source": "T24n1470_002:0919c02_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十一者至病瘦家宿，應得暮杖。",
+        "translation": "Twenty-one: When he goes to stay at a sick or thin house, he'll get his staff at sunset.",
+        "source": "T24n1470_002:0919c03_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十二者遠送過去，當得暮杖。",
+        "translation": "22. When someone is sent away from home, they'll receive a staff at sunset.",
+        "source": "T24n1470_002:0919c04_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十三者遠請行宿，應得暮杖。",
+        "translation": "Twenty-three people who go to sleep at a distance should receive a staff at sunset.",
+        "source": "T24n1470_002:0919c05_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十四者行阿其云，應得暮杖。",
+        "translation": "Twenty-four people who travel to Akṣayun should receive a walking stick at sunset.",
+        "source": "T24n1470_002:0919c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十五者常當以自近，不得指人若畫地作字。",
+        "translation": "Twenty-five people should always approach themselves, not pointing at others or drawing words on the ground.",
+        "source": "T24n1470_002:0919c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至優婆塞家有五事應往：一者為僧使、二者分衛、三者阿其云、四者請飯、五者疾病死亡。",
+        "translation": "There are five things he should do when he goes to an Upāsaka's house: first, serve as a monk's envoy, second, share his guard, third, ask for food, and fifth, die of illness.",
+        "source": "T24n1470_002:0919c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其餘一切皆不應往。",
+        "translation": "Nothing else should be done.",
+        "source": "T24n1470_002:0919c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘為優婆夷說經有五事：一者優婆夷抱小兒來問經，不應持婬意向說。",
+        "translation": "There are five things a monk should do when teaching a scripture to an Upāsik: 1. An Upāsik who brings a small child to ask about a scripture shouldn't teach it with sexual intent.",
+        "source": "T24n1470_002:0919c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者設婬意起，不得前取小兒摩弄。",
+        "translation": "Second, if sexual intent arises, he mustn't pick up the child and rub it with his hands.",
+        "source": "T24n1470_002:0919c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者不得牽坐著邊。",
+        "translation": "Third, he mustn't pull his seat to the edge.",
+        "source": "T24n1470_002:0919c13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者優婆夷使比丘說麻油術經，當令男子持楊枝與比丘，當持男子手中楊枝者善不應說。",
+        "translation": "4. When an Upāsikā makes a monk preach the sutra on the art of hemp-seed oil, he must ask the man to carry a poplar branch to the monk, and he should hold the poplar branch in the man's hand; he should not preach it in good faith.",
+        "source": "T24n1470_002:0919c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者若優婆塞與優婆夷俱來問經，若優婆塞先去，比丘亦應出，不者非法。",
+        "translation": "Fifth, if an upāsaka and an upāsikā came together to ask about the sūtras, the monk should leave if the upāsaka goes first; it's not right if he doesn't.",
+        "source": "T24n1470_002:0919c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "新至比丘有十德：一者禮佛已，當却住問摩摩德姓字、比丘僧幾人、日持為姓字。",
+        "translation": "There are ten virtues for newly arrived monks: first, after they've paid homage to the Buddha, they must stand still and ask about Māmāṃsa's family name, the number of monks and nuns in the monastery, and the name of the monk who holds the sun.",
+        "source": "T24n1470_002:0919c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者上座當禮、下座問訊。",
+        "translation": "Second, the elder monk should pay homage to the superior monk and the junior monk should ask about him.",
+        "source": "T24n1470_002:0919c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者不得問所止處。",
+        "translation": "Third, they mustn't ask where they're staying.",
+        "source": "T24n1470_002:0919c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者人與比丘床席臥具，不得呵好醜。",
+        "translation": "Fourth, a person giving a monk a seat and bedding mustn't criticize it for being nice or ugly.",
+        "source": "T24n1470_002:0919c20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者當求依止阿闍梨。",
+        "translation": "Five, he must seek refuge in the preceptor.",
+        "source": "T24n1470_002:0919c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者當亦供養。",
+        "translation": "Sixth, they must also make offerings.",
+        "source": "T24n1470_002:0919c22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者不得呵經。",
+        "translation": "7. They mustn't heckle the sūtras.",
+        "source": "T24n1470_002:0919c22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者不得自在出入。",
+        "translation": "Eight, he mustn't freely enter or leave.",
+        "source": "T24n1470_002:0919c23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者欲掃塔上當報摩波梨。",
+        "translation": "Nine: If he wants to sweep up a stūpa, he must report to Māparī.",
+        "source": "T24n1470_002:0919c23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者欲出去，有臥具當寄主人。",
+        "translation": "Ten, if he wants to go out, he must send his master some bedding.",
+        "source": "T24n1470_002:0919c24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者當憂眾事、二者不得妄用寺中淨水、三者不得妄至人戶、四者不得逆行、五者不得踰越寺中杖木上。",
+        "translation": "There are five other things: first, you must be concerned about various matters; second, you mustn't mistakenly use the pure water in the temple; third, you mustn't mistakenly go to someone's house; fourth, you mustn't walk against the rules; and fifth, you mustn't cross the staff or logs in the temple.",
+        "source": "T24n1470_002:0919c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當以十事待新至比丘：一者當避與房。",
+        "translation": "There are ten things he should do for newly arrived monks: 1. He should avoid giving them a room.",
+        "source": "T24n1470_002:0919c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者當給所須。",
+        "translation": "Two, you must give him what he needs.",
+        "source": "T24n1470_002:0919c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者當朝暮往問訊。",
+        "translation": "Third, he must go to the monastery morning and evening to ask questions.",
+        "source": "T24n1470_002:0919c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者當語國土習俗。",
+        "translation": "Four, he must tell them about the customs of his land.",
+        "source": "T24n1470_002:0919c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者當教避諱。",
+        "translation": "Five, he must teach avoidance of anonymity.",
+        "source": "T24n1470_002:0920a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者當語乞匃處。",
+        "translation": "Six, he must tell them where to go begging for food.",
+        "source": "T24n1470_002:0920a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者當語僧教令。",
+        "translation": "Seven, he will tell the saṃgha what to teach.",
+        "source": "T24n1470_002:0920a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者當語其可食。",
+        "translation": "Eight, you must tell him what he can eat.",
+        "source": "T24n1470_002:0920a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者當語縣官禁忌。",
+        "translation": "Nine, he must tell the magistrate that it's forbidden.",
+        "source": "T24n1470_002:0920a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者當語賊盜，某許可逃、某許不可逃。",
+        "translation": "Ten, you must tell a thief that he may or may not flee.",
+        "source": "T24n1470_002:0920a03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "新至比丘欲到賢者所自歸持作依止阿闍梨，當先自說言：「今我為某遠離三師，各去是若干里。",
+        "translation": "When a newly arrived monk wants to go to a good man and take refuge in him as a supporting preceptor, he must first say, \"Now, I've left three teachers for someone who's many miles away from me.",
+        "source": "T24n1470_002:0920a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今某獨來在此，本意欲學，連遇國君不安，故來到是。",
+        "translation": "Now, I've come here alone with the original intention of studying, but even when the ruler of my country was unsettled, I came here.",
+        "source": "T24n1470_002:0920a06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今自歸賢者，當為我作依止阿闍梨。",
+        "translation": "Now, I'd like you to take me under your wing, good man, and be a supportive preceptor for me.",
+        "source": "T24n1470_002:0920a07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賢者用某自歸故，受某甲為弟子，當與某甲共止作弟子，當依某甲與共居，為某甲弟子。",
+        "translation": "That good man will accept that certain person as a disciple because he's a self-recipient, will work with that person as a disciple, will rely on that person to live with him, and will be a disciple of that person.",
+        "source": "T24n1470_002:0920a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賢者當用法故，當為某甲作阿闍梨師。」",
+        "translation": "Because of your actions, you will be a teacher of some one as a teacher of Ajātaśatru.\"",
+        "source": "T24n1470_002:0920a10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已頭面作禮，因言：「阿闍梨！",
+        "translation": "After bowing with his head and face, he said, \"Ajātaśatru!",
+        "source": "T24n1470_002:0920a11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為用三尊故，已受某甲為師作，當教某甲所行出入法。",
+        "translation": "\"For the sake of using the three honored ones, someone who's been accepted as a teacher will teach that person the way in and out of practice.",
+        "source": "T24n1470_002:0920a12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有強共某諍某，阿闍梨當有某甲作弟子。",
+        "translation": "If someone is strong enough to fight with that person, the preceptor will have that person as a disciple.",
+        "source": "T24n1470_002:0920a13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若阿闍梨若某欲去止，俱得自在。",
+        "translation": "If the preceptor wishes to leave and stop, they'll both be free to do so.",
+        "source": "T24n1470_002:0920a14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設某去後，復從彼面來還，阿闍梨故當受某為弟子。」",
+        "translation": "If someone goes away and comes back from that side, the ācārya will accept that person as a disciple.\"",
+        "source": "T24n1470_002:0920a15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是說至三。",
+        "translation": "He spoke thus up to the third time.",
+        "source": "T24n1470_002:0920a16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師當言報：「賢者某聽今我所說，令卿得道，常當行如佛語，當護戒、當忍辱、當精進、當一心念道、當念慧、當止身口意滅毒、當為三法事。",
+        "translation": "The teacher will say in return, \"Good man, listen to what I've told you so that you can achieve the path and always conduct yourself according to the Buddha's words, guard precepts, tolerate humiliation, exert yourself, concentrate your mind on the path, remember wisdom, stop the poison of body, speech, and thought, and perform the three works of the teaching.",
+        "source": "T24n1470_002:0920a16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已作佛弟子，不得念行世間事。",
+        "translation": "Once they've become a disciple of the Buddha, they mustn't be mindful of performing worldly tasks.",
+        "source": "T24n1470_002:0920a19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能如法行者，會當得道度世耳。」",
+        "translation": "Those who can conduct themselves according to the teaching will then attain the path and save the world.\"",
+        "source": "T24n1470_002:0920a20_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說竟。",
+        "translation": "After he finished speaking, he rose, paid homage, and held his head and face up.",
+        "source": "T24n1470_002:0920a21_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起作禮，持頭面著師足去，還取衣鉢往上師從受衣。",
+        "translation": "He rose, paid homage, put his head and face on the teacher's feet, and departed, taking his robe and bowl back to the senior teacher to accept his robe.",
+        "source": "T24n1470_002:0920a21_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘受衣鉢三衣，阿闍梨比丘當自說亡失，若水火盜賊壞敗因緣。",
+        "translation": "If a monk accepts the three garments as his robe and bowl, the Ajari monk will tell himself that he lost them or that they were the cause of his ruin through flood, fire, and robbery.",
+        "source": "T24n1470_002:0920a22_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘先自歸言：「明賢者！",
+        "translation": "The monk first returned to himself and said, \"Good man!",
+        "source": "T24n1470_002:0920a24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慧行淨戒是某三師。」",
+        "translation": "These are the three teachers of someone who practices wisdom and pure precepts.\"",
+        "source": "T24n1470_002:0920a24_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為某如是便三說本因緣已，三說便上若鉢若衣受阿闍梨，便說教誡：「某賢者聽！",
+        "translation": "After he had explained the causes and conditions for this three times, he then went up to receive a bowl or robe from an ācārya after explaining it three times, and then he instructed, \"Certain good man, listen!",
+        "source": "T24n1470_002:0920a25_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人有六情，當護當念清淨。",
+        "translation": "\"Man has the six senses, so he should protect and be mindful of their purity.",
+        "source": "T24n1470_002:0920a27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖世間淨潔，不能到清淨，行慧者道當護內外清淨，不垢不漏內外相應，是為能致清淨道者，是故當依當攝當護。",
+        "translation": "Although worldly purity and cleanliness can't be purified, someone who practices the path of wisdom should guard internal and external purity, be undefiled and uncontaminated, and have internal and external correspondence; this is someone who can achieve the pure path, so they should rely on, gather, and protect it.",
+        "source": "T24n1470_002:0920a27_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為鉢事依者，當言數持視數著以時浣。",
+        "translation": "This is the person who takes the bowls as a support, which should be described as repeatedly held, regarded, and adhered to over time.",
+        "source": "T24n1470_002:0920b01_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘譬如賢者，亦世間處身，樂沐浴薰香衣服臥具，寧欲令身不安隱、意不安隱。",
+        "translation": "A monk like that good man who also lives in the world and enjoys bathing, perfuming, clothing, and bedding would rather make his body unstable and his mind unstable.",
+        "source": "T24n1470_002:0920b02_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有可意有破服。",
+        "translation": "Whatever he possesses, he may wish to have ragged clothing.",
+        "source": "T24n1470_002:0920b04_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不設具堅安隱。",
+        "translation": "He doesn't equip himself for a firm and secure existence.",
+        "source": "T24n1470_002:0920b04_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不能致清淨慧者道中。",
+        "translation": "Nor can they attain the path of pure wisdom.",
+        "source": "T24n1470_002:0920b04_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若漏濕為虫所食腐，譬身若一處腐爛，從是不安隱、不致慧者道。",
+        "translation": "If contaminated moisture is eaten by insects and rotted, it's like a part of the body that rots, which makes it uneasy and doesn't lead to the path of the wise.",
+        "source": "T24n1470_002:0920b05_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬身若一處為虫所食瘡、若痛若痒、從是不安隱、不致慧者道。",
+        "translation": "It's like a spot on your body that's eaten by insects, whether it hurts or itches, which makes it uneasy and doesn't lead to the path of the wise.",
+        "source": "T24n1470_002:0920b06_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從上至竟依、護內外洗淨、是為除貪亦少欲、使致賢者清淨。",
+        "translation": "From the top to the end, depending on and protecting internal and external cleansing, this removes craving and reduces desires, which purifies the virtuous.",
+        "source": "T24n1470_002:0920b08_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為依事。」",
+        "translation": "This is the condition of reliance.\"",
+        "source": "T24n1470_002:0920b09_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依止阿闍梨教弟子有十五事：一者比丘僧會時，當教如法視上下。",
+        "translation": "There are fifteen things a junior monk may teach his disciples in order to rely on him: first, when the monks and nuns meet, they'll be taught to look up and down according to the teaching.",
+        "source": "T24n1470_002:0920b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者比丘僧有令語，使莫犯。",
+        "translation": "Second, the monks and nuns are instructed to say something, so that they don't violate it.",
+        "source": "T24n1470_002:0920b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者當教隨順僧上下。",
+        "translation": "Third, he should teach them to obey the saṃgha and go up and down.",
+        "source": "T24n1470_002:0920b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者當教令恭敬。",
+        "translation": "Four, he will be taught to be respectful.",
+        "source": "T24n1470_002:0920b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者當語國土方俗忌諱，所可食飯、應爾不應爾。",
+        "translation": "Fifth, he must tell the monks about the taboos of the land's customs, what's allowed to be eaten, and what should or shouldn't be eaten.",
+        "source": "T24n1470_002:0920b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者當語匃處，某處可往、某許不可往。",
+        "translation": "Six, you must tell him to go to a certain place that's allowed and a certain place that's forbidden.",
+        "source": "T24n1470_002:0920b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者若有賊盜，某處可逃、某處不可逃。",
+        "translation": "7. If there's a thief, he'll tell them where he can escape and where he can't.",
+        "source": "T24n1470_002:0920b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者病瘦，當占視之。",
+        "translation": "Eight, if he's sick and thin, he'll be examined.",
+        "source": "T24n1470_002:0920b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者衣被破壞，當給與。",
+        "translation": "Nine, if your clothes are damaged, you'll give them to him.",
+        "source": "T24n1470_002:0920b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者若有去住不得留難。",
+        "translation": "Ten, if he leaves or stays, he won't be able to stay.",
+        "source": "T24n1470_002:0920b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一者當相視人意。",
+        "translation": "11. They must examine the thoughts of others.",
+        "source": "T24n1470_002:0920b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二者當隨方便所住。",
+        "translation": "12. They will follow the skillful means to their abode.",
+        "source": "T24n1470_002:0920b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十三者來有問當答讓。",
+        "translation": "13. If someone comes to ask a question, they'll give an answer.",
+        "source": "T24n1470_002:0920b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十四者欲澆灑地常當謙讓。",
+        "translation": "14. Those who want to sprinkle the earth should always be humble.",
+        "source": "T24n1470_002:0920b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十五者有過，不得言我不復與卿語。",
+        "translation": "Fifteen: If there's a mistake, they mustn't say, 'I won't talk to you again.'",
+        "source": "T24n1470_002:0920b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為依止阿闍梨法。",
+        "translation": "This is the rule of relying on the ācārya.",
+        "source": "T24n1470_002:0920b20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "弟子依止阿闍梨有五事：一者當數往、二者往至戶當三彈指、三者入當頭面禮、四者長跪問消息、五者去當還出戶。",
+        "translation": "There are five things a disciple does to rely on a preceptor: 1. he must frequently go there; 2. he must snap his fingers three times when he goes to the door; 3. he must bow head to head when he enters; 4. he must kneel down long enough to ask for news; and 5. he must go back out of the door when he leaves.",
+        "source": "T24n1470_002:0920b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者旦夕往問訊；二者師呼即著袈裟往應，不得單身著屐入；三者當掃地具澡水拂拭床席；四者若自有所作、若出入行止當報；五者往受經問解，得不得不應有恐意。",
+        "translation": "There are another five things: first, he'll go to the house at sunrise and sunset to ask for news; second, he'll put on his robe when the teacher calls and go to the house, not wearing wooden sandals alone; third, he'll sweep the floor, wash the water, and wipe the seats; fourth, he'll give retribution if he does anything himself or goes in and out of the house; and fifth, he'll go to the sutra to ask for an explanation, so he shouldn't have to be afraid.",
+        "source": "T24n1470_002:0920b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為五事，自依止阿闍梨法。",
+        "translation": "These are the five things that a monk should do to support the Ajari teachings.",
+        "source": "T24n1470_002:0920b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賢者比丘不應畜七種藥：一者辟穀藥、二者消穀藥、三者吐下藥、四者強中藥、五者服食藥、六者毒藥、七者兵瘡藥。",
+        "translation": "Good monks shouldn't store seven kinds of medicine: first, anti-grain medicine, second, anti-grain medicine, third, medicine for vomiting, fourth, strong medicine, fifth, medicine for eating, sixth, poison, and seven, medicine for sores.",
+        "source": "T24n1470_002:0920c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有病，一切不應服藥，亦不得與他人使服，墮罪。",
+        "translation": "A monk who wants to start a novice monk's practice has a problem.",
+        "source": "T24n1470_002:0920c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘欲起沙彌法有五事：一者當知四阿含、二者當知戒、三者當知經、四者當知有慧、五者當有德。",
+        "translation": "There are five things a monk wants to do to raise a novice: 1) he must know the four Āgamas, 2) he must know the precepts, 3) he must know the sūtras, 4) he must know the presence of wisdom, and 5) he must have virtue.",
+        "source": "T24n1470_002:0920c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者當持戒、二者當不犯戒、三者當能解經、四者當忍辱、五者當自守一切。",
+        "translation": "There are another five things: one should observe the precepts, two should not violate the precepts, three should be able to interpret the sūtras, four should be patient, and five should guard all by themselves.",
+        "source": "T24n1470_002:0920c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具有是行者，乃可舉沙彌；不悉知，不應起沙彌。",
+        "translation": "Someone with these practices might then raise a novice; someone who doesn't fully understand them shouldn't raise a novice.",
+        "source": "T24n1470_002:0920c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘有沙彌，當教行五事：一者沙彌作眾事未竟，不得呼使；二者不得令沙彌求賢者長短；三者不得信沙彌語；四者不得於眾中大聲罵沙彌；五者不得獨使令，當給眾事。",
+        "translation": "A monk who has a novice should teach five things: first, he mustn't summon the novice before he finishes performing many tasks; second, he mustn't cause the novice to seek the length of a good man; third, he mustn't believe the novice's words; fourth, he mustn't shout abuses at the novice in the crowd; and fifth, he mustn't order the novice to do all the work alone.",
+        "source": "T24n1470_002:0920c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有三事不應與沙彌共居：一者愛端正好、二者見之欲瞋、三者疾病。",
+        "translation": "There are three things you shouldn't do with a novice: first, you like what's right and good, second, you want to get angry when you see him, and third, you're sick.",
+        "source": "T24n1470_002:0920c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有三事應逐去：一者言犯戒無罪、二者言無佛法僧、三者行向人說和上阿闍梨善惡。",
+        "translation": "There are three things they should do to get rid of them: first, they say it's blameless to violate the precepts, second, they say there's no Buddha, Dharma, or Saṃgha, and third, they act to tell others about the good and bad qualities of the superior ācārya.",
+        "source": "T24n1470_002:0920c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若欲遠行，持沙彌寄人，有五事：一者先問沙彌某可汝意不？",
+        "translation": "If you want to travel far and send a novice monk with you, there are five things he should do: first, ask the novice if he's acceptable to you.",
+        "source": "T24n1470_002:0920c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者汝承事主能可人意不？",
+        "translation": "Second, are you able to accept the master's responsibility to do what people want?",
+        "source": "T24n1470_002:0920c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者設呵罵汝，不得言非我阿闍梨，罵我為非。",
+        "translation": "\"Third, if you're rebuked, you mustn't say that you're not my teacher or that you're rebuking me as wrong.",
+        "source": "T24n1470_002:0920c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者承事主如視我。",
+        "translation": "Four, you must obey the master as you see me.",
+        "source": "T24n1470_002:0920c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者如法教汝，不得捨去。",
+        "translation": "Five, I'll teach you according to the teaching, and you mustn't abandon it.",
+        "source": "T24n1470_002:0920c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持沙彌至，主許寄時，有五事：一者當教頭面禮；二者教自歸；三者當言卿視我沙彌如卿沙彌；四者我從彼來還，自當歸我；五者若我無常，長屬卿。",
+        "translation": "When a novice monk arrives and the master permits his monk to send him, there are five things: first, he must teach you to bow with your head; second, he must teach you to return; third, he must say that he regards my monk as his own; fourth, he will return to me after I come from there; and fifth, if I'm impermanent, he'll always be yours.",
+        "source": "T24n1470_002:0920c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受人寄沙彌有五事：一者當教讀經、二者教莫犯戒、三者當教隨眾上下、四者當教行步法則、五者教恭敬眾人。",
+        "translation": "There are five things that a monk who accepts a commission from another should do: first, he should teach to read the sūtras; second, he should teach not to violate the precepts; third, he should teach to go up and down with the crowd; fourth, he should teach the rules for walking; and fifth, he should teach to respect the people.",
+        "source": "T24n1470_002:0920c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘僧飯時有五事：一者上座未坐不得先坐、二者上座未受案不得先受、三者上座未飯不得先飯、四者上座飯未訖不得先止、五者上座未起不得先起。",
+        "translation": "When a monk is eating, there are five things: 1) he mustn't sit before the ascending seat; 2) he mustn't accept the table before the ascending seat; 3) he mustn't eat before the ascending seat; 4) he mustn't stop before the ascending seat has finished eating; and 5) he mustn't get up before the ascending seat has risen.",
+        "source": "T24n1470_002:0921a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受案有五事：一者當持手巾并受、二者當決闊尺六、三者當持手巾連案若机足、四者當却膝、五者兩肘不得離膝。",
+        "translation": "There are five things that should be done when accepting a stool: first, you should accept it with a handkerchief; second, you should accept it by a full foot; third, you should accept it with a handkerchief and a stool that's like a machine's foot; fourth, you should remove your knees; and fifth, your elbows shouldn't fall away from your knees.",
+        "source": "T24n1470_002:0921a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者已受莫離；二者不得狂左右顧視；三者已離當從上座受；四者設人不應不得食；五者若人宿與不相便，可當自作方便、若自呼人。",
+        "translation": "There are five other things: 1. Don't leave after accepting it; 2. Don't look wildly to your left or right; 3. Accept it from the seat above after leaving; 4. Don't ask someone not to eat; 5. If someone stays overnight and doesn't get along with you, you can make your own way or call on someone.",
+        "source": "T24n1470_002:0921a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者左右手不得有所携持、二者不得大呼有所求索、三者授人鉢當視上下相前人、四者授鉢當右手撫上、五者當護所受。",
+        "translation": "There are five other things: first, you mustn't carry something in your right or left hand; second, you mustn't shout for help; third, when you give a person a bowl, you must look up or down at the person in front of you; fourth, when you give a bowl, you must touch it with your right hand; and fifth, you must guard what you've received.",
+        "source": "T24n1470_002:0921a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者人來授物，手近當更澡手；二者不得持上著鉢中；三者若見不可意不應食，亦不得使左右人知；四者食中不得唾上座前；五者不應飯而飯之，墮罪。",
+        "translation": "There are five other things: first, when someone comes to give you something, you must wash your hands together when they're near; second, you mustn't put your bowl on top; third, if you see something you don't want, you mustn't eat it, and you mustn't let anyone on your left or right know about it; fourth, you mustn't spit on the person in front of your seat while eating; and fifth, if you eat a meal that shouldn't be eaten, you'll commit a sin.",
+        "source": "T24n1470_002:0921a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者不得以手摩抆面目、二者左手已污不得近右手、三者若手已污不得獲鉢水、四者不得已污手正袈裟、五者不得持手巾拭膩手。",
+        "translation": "There are five other things: first, you mustn't wipe your face with your hand; second, you mustn't touch your right hand after your left hand has been soiled; third, you mustn't obtain a bowl of water after your hand has been soiled; fourth, you mustn't put your hand over your robe after it's been soiled; and fifth, you mustn't wipe your hands with a handkerchief.",
+        "source": "T24n1470_002:0921a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者前杯著設橫當正之，不正者不得食；二者食具已墮不應復食；三者若人來有所益，常當以指墮柱之；四者不見來時不應食；五者飯食在前不得甞味。",
+        "translation": "There are five other things: first, a cup placed horizontally in front of you must be correctly placed, and you mustn't eat it if it's not correctly placed; second, you mustn't eat again after dropping your food utensils; third, if someone comes to offer you something, you must always put your finger on the pole; fourth, you mustn't eat when you don't see them coming; and fifth, you mustn't taste food while it's still in front of you.",
+        "source": "T24n1470_002:0921a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者飯時不得於坐上失風；二者飯未已不得中唾前地；三者急欲唾，唾履下；四者已澡手不得復持履；五者已持履自知手污，不取拭者不得以持袈裟。",
+        "translation": "There are five other things: first, you mustn't lose the breeze while sitting during meals; second, you mustn't spit on the ground before finishing your meal; third, if you're eager to spit, you must spit on the bottom of your feet; fourth, you mustn't hold your feet again after washing your hands; and fifth, you mustn't hold the reddish-brown robe after holding the feet because you know your hands are dirty and don't remove them to wipe them.",
+        "source": "T24n1470_002:0921a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右飯食四十條事。",
+        "translation": "Right, there are forty rules for eating a meal.",
+        "source": "T24n1470_002:0921b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飯食上澡漱有五事：一者不得挼手杯上、二者不得手指挑撩口中、三者不得涕鼻大唾鉢中、四者漱口不得令有飯吐鉢中、五者不得大奮手污濺左右人。",
+        "translation": "There are five things to do when washing at a meal: first, you mustn't rub your hands on the cup; second, you mustn't tease your mouth with your fingers; third, you mustn't spit in the bowl with snot and nose; fourth, you mustn't rinse your mouth so that rice is spit out of the bowl; and fifth, you mustn't splash your left or right hand with a loud noise.",
+        "source": "T24n1470_002:0921b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者持手巾不得教軟，當先熟歷手；二者不得奮濕取燥；三者不得以手拭面目鼻口；四者不得言我自有，不取持去；五者當如法用之。",
+        "translation": "There are five other things: first, you mustn't teach a person to hold a hand cloth that's soft; you must first familiarize your hands with it; second, you mustn't get it wet and dry; third, you mustn't wipe your face, eyes, nose, and mouth with your hands; fourth, you mustn't say, \"I have my own,\" and not take it and carry it away; and fifth, you must use it according to the teaching.",
+        "source": "T24n1470_002:0921b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者以拭手燥即當藏棄膝上巾；二者已即當正袈裟，不得羅左右人；三者下座澡未已，不得呵令使來；四者日達嚫不得亂語；五者達嚫未竟不得妄起。",
+        "translation": "There are five other things: first, when you wipe your hands and dry them, you must hide the towel on your knees; second, once you've done so, you must properly put on the robe and not pull anyone around; third, you mustn't tell someone to come before you finish bathing; fourth, you mustn't talk nonsense when you reach dakṣiṇā; and fifth, you mustn't rouse yourself before reaching dakṣiṇā.",
+        "source": "T24n1470_002:0921b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者若上座為檀越說經，當正坐聽；二者若急欲去作眾事，當過白摩波利；三者急欲東西使，當語下坐人；四者若得錢分即當撿藏之；五者若有所還、若欲寄人，不得以足推徙，亦不得遙擲與。",
+        "translation": "There are five other things: 1. If the elder patron explains a sūtra to a donor, you must sit correctly and listen; 2. If you urgently want to go and do many things, you must go past Prabhākaramitra; 3. If you urgently want to send something, you must tell the person sitting down; 4. If you get a share of money, you must store it; 5. If you return something or want to send it to someone, you mustn't push it away with your feet, and you mustn't throw it away from them.",
+        "source": "T24n1470_002:0921b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飯上有十事，左右顧視無不有罪：一者當視上座受案未；二者當視上座前具未；三者視下座亦爾；四者人皆飯，當復視之，上座前少，何等有盡者為呼益；五者視下座亦爾；六者飯未已，當復中止視，上座欲得何等；七者視下座亦爾；八者當視上座已未，設自先已，以手持前所有，不得坐視人；九者視下座亦爾；十者不得先取案，當排之、當持待人。",
+        "translation": "There are ten things at a meal that are not unlawful when looked at from side to side: first, you must examine the person at the head table before he receives the meal; second, you must examine the person in front of the head table before he gets it; third, you must examine the person at the foot table as well; fourth, when everyone has eaten, you must again examine the person in front of the head table before he gets enough; fifth, you must examine the person at the foot table as well; sixth, when the meal is over, you must again stop and examine the person at the head table before he gets it; seven, you must examine the person at the foot table as well; eighth, when you examine the person at the head table before he gets it, you must take what's in front of you in your hand and not sit down and look at him; ninth, you must examine the person at the foot table as well; ten, you must not take the seat first, but must line it up and hold it for someone else.",
+        "source": "T24n1470_002:0921b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘持賓揵澡槃有二十五事：一者手不淨不得擭上飾手；二者手不淨不得擭上蓋；三者手不淨不得擭前口；四者手不淨不得使益水；五者手不淨不得擭前頸；六者當從下捧腹；七者水少但當小洗手使淨；八者當出益水、還入善澆；九者欲益澡水，當先澆水三洗令淨；十者欲著水，當三倒易水滿持入；十一者欲持入，不得當道住；十二者安著屏處；十三者下常當使有枝；十四者安正上蓋；十五者當宿盛水令滿；十六者持澡槃不得曳有聲；十七者不得使上邊污；十八者不得使中有飯；十九者棄不淨水；二十者棄水不得遠，手徐徐瀉之；二十一者澡槃當先澡內外使澡淨；二十二者持澡槃手不淨，不得中止持漱口；二十三者持澡槃手污，不得擭賓揵上拭若口；二十四者不得取竈下水用澡賓揵；二十五者中外各當三更水澡乃得持入。",
+        "translation": "比丘持賓揵澡槃有二十五事：一者手不淨不得擭上飾手；二者手不淨不得擭上蓋；三者手不淨不得擭前口；四者手不淨不得使益水；五者手不淨不得擭前頸；六者當從下捧腹；七者水少但當小洗手使淨；八者當出益水、還入善澆；九者欲益澡水，當先澆水三洗令淨；十者欲著水，當三倒易水滿持入；十一者欲持入，不得當道住；十二者安著屏處；十三者下常當使有枝；十四者安正上蓋；十五者當宿盛水令滿；十六者持澡槃不得曳有聲；十七者不得使上邊污；十八者不得使中有飯；十九者棄不淨水；二十者棄水不得遠，手徐徐瀉之；二十一者澡槃當先澡內外使澡淨；二十二者持澡槃手不淨，不得中止持漱口；二十三者持澡槃手污，不得擭賓揵上拭若口；二十四者不得取竈下水用澡賓揵；二十五者中外各當三更水澡乃得持入。",
+        "source": "T24n1470_002:0921b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲持賓揵著槃中，不得大投使有聲。",
+        "translation": "When he wants to carry his gandharva inside the urn, he mustn't make a sound by throwing it out loud.",
+        "source": "T24n1470_002:0921c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當用手巾有五事：一者當拭上下頭；二者當用一頭拭手，以一頭拭面目；三者不得持拭鼻；四者以用拭膩污當即浣之；五者不得拭身體，若澡浴各當自有巾。",
+        "translation": "There are five things you should do with a hand cloth: first, you must wipe your head up and down; second, you must wipe your hands with one head and your face and eyes with the other; third, you mustn't wipe your nose with it; fourth, you must wipe away dirt with it and rinse it immediately; fifth, you mustn't wipe your body, and each should have his own cloth if he's bathing.",
+        "source": "T24n1470_002:0921c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若著僧伽梨時，持手巾有五事：一者不得使巾頭垂見；二者不得持白巾；三者當敗色令黑；四者不得拭面；五者飯當用覆膝上，飯已當下去。",
+        "translation": "When wearing a monk's robe, there are five things about the handkerchief: first, you mustn't let the head of the cloth hang down; second, you mustn't hold a white cloth; third, you must defeat the color and make it black; fourth, you mustn't wipe your face; and fifth, you must cover your knees with rice and put it down after eating.",
+        "source": "T24n1470_002:0921c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設不去，若有來作禮、若起去，先取襞去之。",
+        "translation": "If he doesn't go, then if someone comes to pay homage or rises to depart, he'll first take the cloth and remove it.",
+        "source": "T24n1470_002:0921c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘僧有七人，不應作摩波利及直日：一者年老不任事、二者病疹瘡不淨潔、三者久病羸極、四者眾人共使養病、五者上座日、六者摩摩德、七者直歲。",
+        "translation": "There are seven monks and nuns who shouldn't do the māpāli or the straight day: one who's elderly and unable to serve, two who have a disease and sores that aren't clean, three who have been sick and weak for a long time, four who are made sick by the community, five who spend the day on the throne, six who are mātṛkās, and seven who live a straight year.",
+        "source": "T24n1470_002:0921c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是七人皆不應作，若有強揵，如反不欲作者，不應訶問。",
+        "translation": "None of these seven people should do anything, and if they are forced to do so, they shouldn't reprimand them if they don't want to do it.",
+        "source": "T24n1470_002:0922a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自是後世珍寶藏也。",
+        "translation": "They will be a storehouse of treasures for the generations to come.",
+        "source": "T24n1470_002:0922a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作鉢泥僧摩波利，當行百六十德。",
+        "translation": "When you make a pāṇḍi saṃmbhāri, you'll practice 160 virtues.",
+        "source": "T24n1470_002:0922a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作直月，當行六十德。",
+        "translation": "When he makes a straight moon, he'll perform 60 virtues.",
+        "source": "T24n1470_002:0922a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作直日，當行十德。",
+        "translation": "When he makes a straight sun, he'll practice ten virtues.",
+        "source": "T24n1470_002:0922a05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作摩摩德，當行三十德。",
+        "translation": "He'll cultivate 30 virtues when he creates māmāṃpāramitā.",
+        "source": "T24n1470_002:0922a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作直歲，當行十德。",
+        "translation": "He'll do straight years, and he'll perform ten virtues.",
+        "source": "T24n1470_002:0922a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此上五人如上行者，久會至無為度世道矣。",
+        "translation": "These five people who conduct themselves as above will attain the worldly path of nonretrogression in the near future.",
+        "source": "T24n1470_002:0922a06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "鉢泥僧摩波利，有十五德：一者用佛故；二者用法故；三者用比丘僧故；四者當惜眾物；五者當惜招提僧物；六者當惜比丘僧物；七者當知佛事；八者當知招提僧事；九者當知比丘僧事；十者不得持塔物著招提僧物中；十一者不得持塔物著比丘僧物中；十二者不得持招提僧物著塔物中；十三者不得持招提僧物著比丘僧物中；十四者不得持比丘僧物著塔物中；十五者不得持比丘僧物著招提。",
+        "translation": "鉢泥僧摩波利，有十五德：一者用佛故；二者用法故；三者用比丘僧故；四者當惜眾物；五者當惜招提僧物；六者當惜比丘僧物；七者當知佛事；八者當知招提僧事；九者當知比丘僧事；十者不得持塔物著招提僧物中；十一者不得持塔物著比丘僧物中；十二者不得持招提僧物著塔物中；十三者不得持招提僧物著比丘僧物中；十四者不得持比丘僧物著塔物中；十五者不得持比丘僧物著招提。",
+        "source": "T24n1470_002:0922a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "僧物中復有十五德：一者欲有所作，當白報眾人。",
+        "translation": "There are fifteen other virtues in the property of the saṃgha: one, when he desires to do something, he must report it to the people.",
+        "source": "T24n1470_002:0922a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者不得割奪眾物獨匿自入。",
+        "translation": "Second, he mustn't plunder the property of the others and hide it by himself.",
+        "source": "T24n1470_002:0922a18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者不得持眾人物私意饒益親厚。",
+        "translation": "Third, he mustn't harbor the personal intentions of people to give benefits to their loved ones.",
+        "source": "T24n1470_002:0922a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者不得斷取眾家物以匿施用作名字。",
+        "translation": "Four, he mustn't cut off the possessions of many households and use them to hide his name from charity.",
+        "source": "T24n1470_002:0922a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者當數護理眾家臥具。",
+        "translation": "Five, he must repeatedly care for the bedding of the many families.",
+        "source": "T24n1470_002:0922a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者若有病痛當占視，隨所思持與之。",
+        "translation": "Sixth, if someone is ill, he must examine them and give them whatever support he considers appropriate.",
+        "source": "T24n1470_002:0922a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者當恭敬瞻視比丘僧。",
+        "translation": "7. He must respectfully look up to the monks.",
+        "source": "T24n1470_002:0922a22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者為比丘僧作飯食當令淨潔。",
+        "translation": "Eight, he'll prepare meals for the monks and make them clean.",
+        "source": "T24n1470_002:0922a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者當隨婆羅門意。",
+        "translation": "Nine, you must follow the wishes of the brāhmaṇas.",
+        "source": "T24n1470_002:0922a23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者譬如事鬼神無有異。",
+        "translation": "Ten, it's like serving a spirit without any difference.",
+        "source": "T24n1470_002:0922a23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一者不得自瞋喜。",
+        "translation": "11. He mustn't be angry with himself and rejoice.",
+        "source": "T24n1470_002:0922a24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二者欲行清淨，不得露身於竈下作事。",
+        "translation": "12. If he wants to practice purity, he mustn't work beneath a kitchen-stove with his body exposed.",
+        "source": "T24n1470_002:0922a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十三者日暮常當自起按行門戶，視諸比丘戶皆閉不？",
+        "translation": "13. At sunset, he must always get up by himself and go to the door, seeing that the monks' doors are closed.",
+        "source": "T24n1470_002:0922a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設見異人，不得即呵，問言：「卿為是沙門？」",
+        "translation": "Suppose he sees an outsider and doesn't allow him to be summarily rebuked and asks, \"Are you an ascetic?\"",
+        "source": "T24n1470_002:0922a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "許當復待明日。",
+        "translation": "\"Perhaps he'll wait until tomorrow again.",
+        "source": "T24n1470_002:0922a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十四者不得掃寒著熱。",
+        "translation": "Fourteen people mustn't sweep away the cold and get into the heat.",
+        "source": "T24n1470_002:0922a28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十五者不得掃熱著寒。",
+        "translation": "Fifteen people mustn't sweep hot and put cold in their bodies.",
+        "source": "T24n1470_002:0922a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為十五事。",
+        "translation": "These are the fifteen duties.",
+        "source": "T24n1470_002:0922a29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "營事維那，飯時於堂中當行二十五德：一者已布空案，當自身行遍視下竟皆遍淨不。",
+        "translation": "During the meal, Yosena should perform twenty-five virtues in the hall: one, after laying out an empty cloth, should he himself perform a thorough examination of the following and thoroughly purify it?",
+        "source": "T24n1470_002:0922b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者不得先布空案。",
+        "translation": "Second, he mustn't first lay out an empty table.",
+        "source": "T24n1470_002:0922b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者上座已有應分飯。",
+        "translation": "Third, the elder monk already has a share of the meal.",
+        "source": "T24n1470_002:0922b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者一切有所分布，皆當至沙彌，若白衣受。",
+        "translation": "Fourth, whatever distribution there is should go to the novice monk, if the white coat accepts it.",
+        "source": "T24n1470_002:0922b03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者三師在中不得持增益。",
+        "translation": "Five, the three masters in the audience must not hold or gain anything.",
+        "source": "T24n1470_002:0922b04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者作分上下當使平等。",
+        "translation": "6. Those who make the distribution should make it equal for those above and below them.",
+        "source": "T24n1470_002:0922b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者分飯自當更手令平。",
+        "translation": "7. When sharing the meal, they must change their hands to make it equal.",
+        "source": "T24n1470_002:0922b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者欲分羹當三迴杓乃斟。",
+        "translation": "8. Those who want to share the soup should turn the ladle three times before pouring it.",
+        "source": "T24n1470_002:0922b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者令汁滓調。",
+        "translation": "Nine, he should make the juice and dregs adjust.",
+        "source": "T24n1470_002:0922b07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者不得即以釜中羹著人鉢中，皆當先更分著器中。",
+        "translation": "Ten, he mustn't immediately put the soup from the kettle into his bowl; he must first put another portion into the pot.",
+        "source": "T24n1470_002:0922b07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一者所有分不得於上語笑。",
+        "translation": "11. Anyone who shares it mustn't talk or laugh about it.",
+        "source": "T24n1470_002:0922b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二者不得遙大呼言取某來。",
+        "translation": "12. They mustn't shout out loud in the distance, saying, \"Get someone here!",
+        "source": "T24n1470_002:0922b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十三者眾中有不食羹者，為取所便與之。",
+        "translation": "Thirteen: If there's someone in the crowd who doesn't eat the soup, he'll take what's available and give it to them.",
+        "source": "T24n1470_002:0922b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十四者若眾中有不相便可者，不得即於坐中呵罵。",
+        "translation": "14. If there's someone in the crowd who doesn't take what's convenient for him, he mustn't immediately ridicule them while sitting in meditation.",
+        "source": "T24n1470_002:0922b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十五者急當念養病。",
+        "translation": "Fifteen: Urgently, he should be mindful of recuperating from illness.",
+        "source": "T24n1470_002:0922b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十六者飯時人持物來，當即分布盡之，不得言當遺後日。",
+        "translation": "Sixteen: When someone brings something during the meal, he must distribute it immediately and finish it, not saying he'll leave it for another day.",
+        "source": "T24n1470_002:0922b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十七者急先益羹。",
+        "translation": "17. He's eager to serve soup first.",
+        "source": "T24n1470_002:0922b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十八者急當益中飯盡。",
+        "translation": "18. He's eager to finish his midday meal.",
+        "source": "T24n1470_002:0922b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十九者不得中止踞視僧。",
+        "translation": "19. He mustn't stop standing and look at the saṃgha.",
+        "source": "T24n1470_002:0922b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十者不得遠離僧於前捨出。",
+        "translation": "Twenty, he mustn't leave the saṃgha and abandon it in front of him.",
+        "source": "T24n1470_002:0922b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十一者皆已飯，當自視中所不具者，復視多少益。",
+        "translation": "Twenty-one: After they've eaten, they must examine for themselves what they don't have, and then examine how much more they'll get.",
+        "source": "T24n1470_002:0922b16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十二者不得住大呼從人撿挍食具去。",
+        "translation": "Twenty-two: He mustn't stay and shout at someone to gather up the food preparation.",
+        "source": "T24n1470_002:0922b17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十三者蓋藏無令有聲、捐棄著地。",
+        "translation": "Twenty-three: Don't make the lid of the monk's hall audible or put it on the ground.",
+        "source": "T24n1470_002:0922b18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十四者當教人豫具掃箒澡水手巾。",
+        "translation": "Twenty-four: You must teach others to prepare a bathing cloth, soap, and water.",
+        "source": "T24n1470_002:0922b19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十五者當住待僧達嚫竟，自當白畢竟乃出去。",
+        "translation": "Twenty-five people must wait until the saṃgha has received the dakṣiṇā, and then they must leave after giving their own explanation.",
+        "source": "T24n1470_002:0922b20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "竈下有二十五德：一者為鉢泥僧盡力忍辱。",
+        "translation": "There are twenty-five virtues beneath the kitchen-stove: first, he'll do his best to bear with the saṃgha over the bowl and mud.",
+        "source": "T24n1470_002:0922b21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者當佛法行恭敬等視上下。",
+        "translation": "Second, when the Buddha's teaching is practiced, he'll respect it and look up and down equally.",
+        "source": "T24n1470_002:0922b22_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者若人從有所索，有即當一切與，不得逆言無有。",
+        "translation": "Third, if someone asks for something, they must give it to him whatever it is, not rebelliously say that it's nonexistent.",
+        "source": "T24n1470_002:0922b23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者當早起行，視當一切具。",
+        "translation": "Fourth, he must get up early and walk, and he must examine everything that's available to him.",
+        "source": "T24n1470_002:0922b24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者一切使人行，若有所買不得施乞之。",
+        "translation": "Five, all messengers must go, and if they have anything to buy, they mustn't give or beg for it.",
+        "source": "T24n1470_002:0922b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者欲呼使不得遙大作聲呼。",
+        "translation": "Sixth, a messenger who wants to call out to someone mustn't make a loud, distant call.",
+        "source": "T24n1470_002:0922b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者一切有所作，不得使物器大有聲。",
+        "translation": "7. Whatever he does, he mustn't make things or utensils make a lot of noise.",
+        "source": "T24n1470_002:0922b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者一切當可眾人意，不得自在直行強。",
+        "translation": "8. Whatever is desired by the people, he mustn't act freely and directly.",
+        "source": "T24n1470_002:0922b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者若人持飯來、若餘物多少，即當白眾人使達嚫，不得獨受便遣令去。",
+        "translation": "9. If someone brings in food or whatever amount of food is left, they must tell the crowd to accept the dakṣiṇā, not to accept it alone and then send it away.",
+        "source": "T24n1470_002:0922b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者即分布令遍，設使過時當藏棄，不得便先當視。",
+        "translation": "Ten, he should distribute it so that it's available everywhere, and if it's too much, he should hide it and throw it away; he mustn't then look at it first.",
+        "source": "T24n1470_002:0922c01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一者若檀越來言欲作飯，未見所有，不得即對人說；若主人持錢來作比丘僧飯，若鉢泥僧與主人，若白賢者，共議所當兩作，不得獨自可。",
+        "translation": "11. If a donor says he wants to cook rice but hasn't seen it, he mustn't immediately tell someone; if the owner brings money to cook rice for the monks, then if the bowl of clay is given to the monk, the owner and the monk must discuss what should be made by both together, and he mustn't do it alone.",
+        "source": "T24n1470_002:0922c02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二者汲水不得大投瓶井中令水濁。",
+        "translation": "Twelve: A monk may not draw water by throwing it into a well with a large pot, causing the water to become muddy.",
+        "source": "T24n1470_002:0922c05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十三者不得自擇米。",
+        "translation": "Thirteen: A monk may not choose his own rice.",
+        "source": "T24n1470_002:0922c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十四者澡釜三易水令淨。",
+        "translation": "14. He should wash the caldron three times and make the water clean.",
+        "source": "T24n1470_002:0922c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十五者勿持釜中熱湯澆瀆中。",
+        "translation": "Fifteen: Don't pour hot water from a cauldron into a ditch.",
+        "source": "T24n1470_002:0922c07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十六者不得自然竈。",
+        "translation": "Sixteen: You mustn't use a natural kitchen-stove.",
+        "source": "T24n1470_002:0922c08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十七者不得自掃生草斷去根。",
+        "translation": "17. He mustn't sweep up raw herbs by himself and cut off their roots.",
+        "source": "T24n1470_002:0922c08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十八者不得以生菜根葉著火中。",
+        "translation": "18. He mustn't put raw vegetable roots and leaves in the fire.",
+        "source": "T24n1470_002:0922c09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十九者不得持食飯注瀆中。",
+        "translation": "19. He mustn't pour food and drink into the water with his bowl of rice.",
+        "source": "T24n1470_002:0922c10_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十者一切飯具當覆上，不得使受塵坌。",
+        "translation": "Twenty: All food utensils must be covered, and they mustn't be exposed to dust.",
+        "source": "T24n1470_002:0922c10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十一者不得教人作長分，設僧不食當自置棄之。",
+        "translation": "21. He mustn't teach others to make a long meal, and if the saṃgha doesn't eat, they must discard it themselves.",
+        "source": "T24n1470_002:0922c11_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十二者不得持眾物猗身以作恩惠。",
+        "translation": "Twenty-two: They mustn't carry various things to interfere with their bodies as a favor.",
+        "source": "T24n1470_002:0922c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十三者蓋藏自當行視令堅。",
+        "translation": "Twenty-three: He must conduct his own inspection of the obscuration to make it sturdy.",
+        "source": "T24n1470_002:0922c13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十四者不得分今日食遺旦日。",
+        "translation": "24. He mustn't share today's food with the sunrise.",
+        "source": "T24n1470_002:0922c14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十五者不得持旦食遺今日。",
+        "translation": "Twenty-five people mustn't leave this day behind with food for the new day.",
+        "source": "T24n1470_002:0922c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有七事以待新至比丘：一者來至即當問消息、二者當為次座上下、三者當給與房室、四者當給臥具被枕、五者當給與燈火、六者當語比丘僧教令、七者當語國土習俗。",
+        "translation": "There are seven things to expect of a newly arrived monk: first, he must ask for news when he arrives, second, he must give a seat up and down, third, he must give a room, fourth, he must give bedding and pillows, fifth, he must give a lamp, sixth, he must tell the monks what he's been taught, and seventh, he must tell them the customs of his land.",
+        "source": "T24n1470_002:0922c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教人市買有五事：一者當教莫與人諍、二者當教買淨者、三者莫使侵人、四者不得走促人、五者當護人意。",
+        "translation": "There are five things you should teach people about buying in the market: first, you should teach them not to fight with others; second, you should teach them to buy pure things; third, they shouldn't allow others to intrude; fourth, they shouldn't go near people; and fifth, they should protect their minds.",
+        "source": "T24n1470_002:0922c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "買肉有五事：一者設見肉完，未斷不應便買；二者人已斷，餘乃應買；三者設見肉少，不得盡買；四者若肉少，不得妄增錢取；五者設肉已盡，不得言當多買。",
+        "translation": "There are five things about buying meat: first, suppose you see that the meat is finished and you don't buy it before it's cut off; second, suppose someone has cut it off and the rest should be bought; third, suppose you see that the meat is small and you don't buy all of it; fourth, if the meat is small, you mustn't falsely add more money to it; and fifth, suppose you've bought all the meat and you don't say you'll buy more.",
+        "source": "T24n1470_002:0922c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教人汲水有五事：一者當使先淨澡器、二者當使著屏處、三者當覆上令淨、四者不得持膩汁污、五者若人有污不得復用。",
+        "translation": "There are five things that people are taught to do when drawing water: 1) they must first purify the vessel, 2) they must put it over a screen, 3) they must cover it so that it's clean, 4) they mustn't hold greasy juice that defiles it, and 5) if someone is defiled, they mustn't use it again.",
+        "source": "T24n1470_002:0922c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教人破薪有五事：一者莫當道、二者先視斧柄令堅、三者不得使破有青草薪、四者不得妄破塔材、五者積著燥處。",
+        "translation": "Five things are taught about breaking firewood: first, don't do it; second, examine the ax handle first to make it strong; third, don't make it break firewood that has grass in it; fourth, don't break stūpas falsely; and fifth, leave it lying in a dry place.",
+        "source": "T24n1470_002:0923a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教人擇米有五事：一者當自量視多少、二者不得有草、三者擇去鼠屎、四者不得令有穬、五者向淨地。",
+        "translation": "Five things are taught about choosing rice: first, you must examine by yourself how much it is, second, you mustn't get any grass, third, you must choose to remove mouse droppings, fourth, you mustn't let there be Mario, and fifth, you must go to a clean place.",
+        "source": "T24n1470_002:0923a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教人洮米有五事：一者當用堅器、二者用淨水、三者五易水令淨、四者內著屏處、五者覆上令密。",
+        "translation": "Five things are taught about rice: first, you must use a sturdy container, second, use clean water, third, purify the water by changing the five, fourth, put it inside a screened place, and fifth, cover it with a cloth to make it airtight.",
+        "source": "T24n1470_002:0923a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "澡釜有五事：一者不得持汁大衝釜底、二者當使蓋器受污水出棄之、三者當添滿水、四者淨澡木蓋覆上、五者日暮覆上看令堅。",
+        "translation": "There are five things about a caldron: one, you mustn't hold juice in a large way to rinse the bottom of the caldron; two, you must make the lid accept the water and throw it away; three, you must fill it with water; four, you must cover it with a clean wooden lid; and five, you must cover it at sunset to make it firm.",
+        "source": "T24n1470_002:0923a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燃竈有五事：一者燃火不得橫薪、二者不得燃生薪、三者不得燃釜倒逆薪、四者不得自以口吹火燃、五者不得持熱湯澆火滅。",
+        "translation": "There are five things about burning a kitchen-stove: first, the fire must not burn firewood sideways; second, it must not burn raw firewood; third, it must not burn firewood upside down in the kettle; fourth, it must not burn fire by blowing on it with its own mouth; and fifth, it must not extinguish the fire by pouring hot soup over it.",
+        "source": "T24n1470_002:0923a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教人炊米有五事：一者當教待氣出而莊之；二者隨氣上米稍稍炊之；三者安正甑不得令氣泄；四者著米甑中隨覆之；五者已熟下之，亦當覆上莫使露也。",
+        "translation": "There are five things to teach someone about cooking rice: first, they must be taught to wait for the gas to escape and then adorn it; second, they must follow the gas up to the rice and cook it slightly; third, they must set the pot correctly so that the gas doesn't escape; fourth, they must put the rice in the pot and cover it accordingly; and fifth, they must cover it after it's ripened so that it doesn't get exposed.",
+        "source": "T24n1470_002:0923a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "擇菜有五事：一者當去根、二者當令等、三者不得令青黃合、四者當使澡淨、五者皆當令向火知之乃得布用。",
+        "translation": "There are five things to consider when selecting vegetables: first, the roots should be removed; second, they should be made equal; third, the green and yellow should not be combined; fourth, they should be made clean; and fifth, they should be made known to the fire before they can be distributed for use.",
+        "source": "T24n1470_002:0923a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作羹有五事：一者當教如次內物、二者當令熟、三者令味調適、四者當自視令淨潔、五者已熟當去下火覆之。",
+        "translation": "There are five things to do when preparing soup: first, you must teach the inner contents in order, second, you must make it ripen, third, you must make it taste right, fourth, you must examine it yourself to make it clean, and fifth, once it's ripened, you must remove it and cover it with the fire.",
+        "source": "T24n1470_002:0923a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教人澡案一切食具有五事：一者皆當三易水使淨、二者拭使淨、三者布案使相去二尺、四者皆當案正下橙令堅、五者不得令污比丘僧衣。",
+        "translation": "There are five things that a person is taught to do with food that's being washed: first, they must cleanse it with three changes of water; second, they must wipe it so it's clean; third, they must lay it out so that it's two feet apart; fourth, they must lay it out correctly and make it orange and firm; and fifth, they mustn't allow the monks' robes to become soiled.",
+        "source": "T24n1470_002:0923a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "揵椎有五事：一者常會時、二者旦食時、三者晝飯時、四者暮投槃時、五者一切無常。",
+        "translation": "There are five things in gandharva: 1. when there's a regular assembly, 2. when there's a midday meal, 3. when there's a midday meal, 4. when there's a late-day throw-off, and 5. when everything is impermanent.",
+        "source": "T24n1470_002:0923b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有七法：一者縣官、二者大火、三者大水、四者盜賊、五者會沙彌、六者會優婆塞、七者呼私兒。",
+        "translation": "There are also seven things: 1. a magistrate, 2. a great fire, 3. great flooding, 4. thieves, 5. an assembly of novices, 6. an assembly of upāsaka, and 7. a caller to a private child.",
+        "source": "T24n1470_002:0923b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當復知十二時揵椎。",
+        "translation": "You should also know the twelve periods of gandharva.",
+        "source": "T24n1470_002:0923b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常會時先從小起稍至大，大下擊二十，稍小二十一下，小小十下，復大三下。",
+        "translation": "When he always meets, he starts with the small and goes from the smallest to the largest, striking the large one twenty times, the small one twenty-one times, the small one ten times, and the large one three times.",
+        "source": "T24n1470_002:0923b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "旦食大下八，晝食一通，投槃亦一通。",
+        "translation": "He eats eight large and eight small in the morning, one meal in the daytime, and one throwaway meal.",
+        "source": "T24n1470_002:0923b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "會沙彌三下，優婆塞三下，無常者隨視時。",
+        "translation": "They assemble śrāmaṇeras three times and upāsaka three times, and those who are impermanent follow the times.",
+        "source": "T24n1470_002:0923b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "縣官、水火、盜賊亦隨時。",
+        "translation": "The magistrate, fire and water, and thieves also come at appropriate times.",
+        "source": "T24n1470_002:0923b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "呼私兒一下，持一通至比丘揵椎無後音。",
+        "translation": "He calls his private son once and gives him one pass to reach a monk's gandharva without a subsequent sound.",
+        "source": "T24n1470_002:0923b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有百六十事鉢泥僧會，摩波利所當行。",
+        "translation": "There are 160 things that Mahāprajāpatī should do during the pratyutpanna assembly.",
+        "source": "T24n1470_002:0923b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "鉢泥僧會時，有五事：一者當禮佛、二者當禮僧、三者隨次坐、四者不得大踞床有聲、五者遺上座處。",
+        "translation": "During the pratyekabuddha assembly, there are five things: 1) you must worship the Buddha, 2) you must worship the saṃgha, 3) you must sit in order, 4) you mustn't make a sound while prostrating on the bed, and 5) you must leave the upper seat unattended.",
+        "source": "T24n1470_002:0923b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者不得諍坐上下；二者當恭敬上座；三者當隨眾法令；四者若摩波利次直日，若使作即當如法受；五者已畢，起坐，當過白和上阿闍梨。",
+        "translation": "There are another five things: 1) you mustn't argue about sitting up or down; 2) you must honor the superior seat; 3) you must follow the commands of the assembly; 4) if Māpāli takes the next straight day, he must accept it according to the teaching if asked to do so; 5) when he's finished, he rises from his seat and explains it to the superior preceptor.",
+        "source": "T24n1470_002:0923b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已受直日有五事：一者當先受戶鑰、二者當數銅佛像、三者當數銅香爐、四者當數銅燈、五者當正坐席自承比。",
+        "translation": "There are five things that must be done after receiving the straight day: first, you must first receive the door key; second, you must count the bronze Buddha images; third, you must count the bronze incense burners; fourth, you must count the bronze lamps; and fifth, you must correctly sit at your seat and undertake the comparison.",
+        "source": "T24n1470_002:0923b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "掃塔上有五事：一者不得著履上、二者不得背佛掃塔、三者不得取上墡土持下棄、四者當下佛像上故花、五者當且過澡手自持淨巾還。",
+        "translation": "There are five things to do when sweeping up a stūpa: first, you mustn't put your foot on it; second, you mustn't sweep the stūpa behind the Buddha's back; third, you mustn't take the top of the Śākyamuni soil and carry it down to throw it away; fourth, you must put down the flowers on the Buddha image; and fifth, you must return with a clean towel in your hand after bathing.",
+        "source": "T24n1470_002:0923b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "拭佛像復有五事：一者當堅持、二者常拭令淨、三者不得以手摩近面目羅手指、四者當自出錢買花、五者當布與人令散佛上。",
+        "translation": "There are five more things to do when cleaning a Buddha image: first, you must insist on it; second, you must always wipe it down to make it clean; third, you mustn't rub your hand near your face or eyes or fingers; fourth, you must pay for the flowers yourself; and fifth, you must hand out a cloth to someone to scatter on top of the Buddha.",
+        "source": "T24n1470_002:0923b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "掃塔下有五事：一者當先灑地、二者當使調、三者當待燥、四者不得逆掃、五者不得逆風掃。",
+        "translation": "There are five things to do when sweeping down a stūpa: one, you must first sprinkle the ground; two, you must make it tame; three, you must wait until it dries; four, you mustn't sweep against the wind; and five, you mustn't sweep against the wind.",
+        "source": "T24n1470_002:0923b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "掃除又有五事：一者不得去墡土、二者當自手拾草、三者當取中土轉著下處、四者不得令四角掃處有迹、五者掃塔前六步使淨。",
+        "translation": "There are also five things to do when sweeping: first, you mustn't remove the soil of the uneven seaside, second, you must pick up the grass with your own hands, third, you must take the middling soil and put it down, fourth, you mustn't allow traces to remain on the four corners of the sweep, and fifth, you must sweep the six steps in front of the stūpa so that it's clean.",
+        "source": "T24n1470_002:0923c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設大比丘僧會時，掃除講堂中有七事：一者當早起行視門戶開未；二者當撿空燈當摒之；三者當掃拭佛像去前宿花；四者當燒香著佛前；五者當作大燈火著堂中央，却正比丘僧坐席；六者僧比丘事畢去，徐當灑地；七者當更淨掃地。",
+        "translation": "When a large assembly of monks and nuns is called, there are seven things to do when sweeping the discussion hall: first, you must get up early and walk around to see if the door is open; second, you must pick up the empty lamp and put it away; third, you must sweep away the flowers that are still standing in front of the Buddha's image; fourth, you must burn incense and put it in front of the Buddha; fifth, you must put a large lamp and fire in the center of the hall and correct the monks' seats; sixth, after the monks and nuns have finished their business, they must slowly sprinkle the ground; and seven, they must clean the floor again.",
+        "source": "T24n1470_002:0923c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有五事灑地：一者當却行、二者當輕手、三者當令遍、四者當待燥、五者不得濺人衣。",
+        "translation": "There are five things to sprinkle on the ground: first, you must refrain from walking; second, you must use a light hand; third, you must make it dry; fourth, you must wait until it's dry; and fifth, you mustn't splash someone's clothes.",
+        "source": "T24n1470_002:0923c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "掃塔地有五事：一者不得背佛；二者不得不掉手污人足；三者不得掃去墡土；四者當自手除出棄之；五者不得當人道，亦莫棄水中及圊中。",
+        "translation": "There are five things to do when sweeping the stūpa floor: 1. you mustn't turn your back on the Buddha; 2. you mustn't soil the feet of others; 3. you mustn't sweep away the soil of the Śākyamuni; 4. you must remove it from your hand and discard it; 5. you mustn't treat people humanely, and you mustn't throw it in the water or in the toilet.",
+        "source": "T24n1470_002:0923c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿燈有五事：一者不得滅中炷、二者當瀉中餘膏作大燈燃著佛前、三者當取空燈內著常處、四者不得妄破碎、五者若亡物皆當應買償著常處。",
+        "translation": "There are five things about collecting a lamp: first, you mustn't extinguish the middle burner; second, you must pour out the remaining paste and make a large lamp to burn in front of the Buddha; third, you must take an empty lamp and put it inside the permanent place; fourth, it mustn't be broken falsely; and fifth, if something dies, you must buy it and put it in the permanent place.",
+        "source": "T24n1470_002:0923c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燒香著佛前有三事：一者易中故火、二者當自出香、三者當布與人。",
+        "translation": "There are three things about burning incense and placing it in front of the Buddha: one, it's easy to make a fire, two, you must produce your own incense, and three, you must distribute it to people.",
+        "source": "T24n1470_002:0923c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "整頓比丘僧床席有三事：一者當安隱視床足使堅；二者當下意掃拭令淨；三者拂拭席當使遍，不得令污比丘僧衣。",
+        "translation": "There are three things that should be done to adjust a monk's bed and seat: one, you should securely examine the foot of the bed so that it's sturdy; two, you should purify it with a deliberate motion; and three, you should wipe the seat thoroughly so that it doesn't stain the monk's robes.",
+        "source": "T24n1470_002:0923c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具香爐有三事：一者當先除去故火，拾取中香聚一面；二者當拭令淨乃著火，還取故香著中；三者著火不得大熾火、不得少，令灰火疾滅冥。",
+        "translation": "There are three things about lighting a censer: first, you must remove the old fire and gather the incense from one side; second, you must wipe it clean before putting it on the fire and return it to the old incense; third, you must not put the fire on a large blazing fire or a small one, so that the ashes will quickly go out and become invisible.",
+        "source": "T24n1470_002:0923c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燃燈有五事：一者當持淨巾拭中外令淨；二者當作淨炷；三者當自作麻油；四者著膏不得令滿，亦不得令少；五者當護令堅，莫懸妨人道污人。",
+        "translation": "There are five things about lighting a lamp: first, you must wipe your exterior and interior with a clean towel to make it clean; second, you must make a clean wick; third, you must make your own hemp-seed oil; fourth, you must put on paste that isn't full and that isn't too small; and fifth, you must guard it so that it's sturdy and doesn't hang in the way of people who want to defile themselves.",
+        "source": "T24n1470_002:0923c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是直日法，如上行之得福。",
+        "translation": "These are the straightforward daily rules, which are practiced as above to obtain merit.",
+        "source": "T24n1470_002:0924a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右六十事直日所行。",
+        "translation": "The right 60 things are practiced on a straight day.",
+        "source": "T24n1470_002:0924a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "摩摩德有十五德：一者用佛故；二者用法故；三者用比丘僧故；四者用和上阿闍梨故；五者用我棄家作沙門故；六者用作主人，耐忍四遠故；七者當待四遠故；八者眾中人有過，不得於前言當擅罰之；九者眾中一人有過，眾人欲罰，當下座請之，不得獨匿；十者當有德；十一者當能致檀越；十二者四遠比丘來，衣被破壞，當為乞匃補納之；十三者飯食一切當共用；十四者占視病瘦當等；十五者聞外有病比丘，當往看視之。",
+        "translation": "摩摩德有十五德：一者用佛故；二者用法故；三者用比丘僧故；四者用和上阿闍梨故；五者用我棄家作沙門故；六者用作主人，耐忍四遠故；七者當待四遠故；八者眾中人有過，不得於前言當擅罰之；九者眾中一人有過，眾人欲罰，當下座請之，不得獨匿；十者當有德；十一者當能致檀越；十二者四遠比丘來，衣被破壞，當為乞匃補納之；十三者飯食一切當共用；十四者占視病瘦當等；十五者聞外有病比丘，當往看視之。",
+        "source": "T24n1470_002:0924a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有六事：一者不得招提僧物著塔物、二者不得持招提僧物著比丘物、三者不得塔物著招提僧物、四者不得塔物著比丘僧物、五者不得持比丘僧物著塔物、六者不得持比丘僧物著招提僧物。",
+        "translation": "There are also six things: first, you mustn't lay a solicited monk's property on a stūpa; second, you mustn't carry a solicited monk's property on a monk's property; third, you mustn't carry a solicited monk's property on a stūpa; fourth, you mustn't carry a stūpa on a monk's property; fifth, you mustn't carry a monk's property on a stūpa; and sixth, you mustn't carry a monk's property on a solicited monk's property.",
+        "source": "T24n1470_002:0924a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有三事：一者一切從如毛髮至無數，不得有匿。",
+        "translation": "There are three more things: first, nothing from a hair to an incalculable number may be hidden.",
+        "source": "T24n1470_002:0924a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者從沙彌上至日，若有疾病、衣被壞，當買與易，不得持作恩惠求名聞，皆當使作平等。",
+        "translation": "Second, from the ascendancy of a novice to the sun, if he becomes ill or his robes are worn out, he must buy and exchange them; he mustn't claim them as a favor or seek fame; he must make them equal.",
+        "source": "T24n1470_002:0924a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者一切塔有物、若招提僧所有物，不得行來出入，如此輩不得先受彼福。",
+        "translation": "Third, all the things that belong to stūpas and those that belong to soliciting monks must not be walked in or out of, and such people must not first receive their merits.",
+        "source": "T24n1470_002:0924a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能護是事者，可為摩摩德。",
+        "translation": "Those who can protect this will be considered māma-deities.",
+        "source": "T24n1470_002:0924a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有四事：一者從四月十五日至七月十五日，當與比丘僧共對計，具視凡疏白。",
+        "translation": "There are four more things: first, from April 15 to July 15, he and the monks will confront each other and explain the complete examination of the monks' commentaries.",
+        "source": "T24n1470_002:0924a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是已計眾人皆知要，當所餘視皆現在分明。",
+        "translation": "After this calculation, everyone will know the essentials, and all the rest of their observations will be made clearly and distinctly.",
+        "source": "T24n1470_002:0924a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者槃泥僧從十五日至十五日，若摩波利若僧共計視疏念非常，是為四行。",
+        "translation": "Second, from fifteen days to fifteen days, if the monks of Pāṇḍu count together with the saṃgha, they'll examine the commentary and be mindful of it, which are the four practices.",
+        "source": "T24n1470_002:0924a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者若比丘欲到彼面設宿，從問三法事等，問塔、若佛像、若僧數雜物、若比丘僧、若日名檀越姓字一切所問，皆當報語使得具知。",
+        "translation": "Third, if a monk who wants to stay overnight there as a guest asks about the three things of the Dharma, asks about the stūpa, the image of the Buddha, the number of monks and sundry items, the names of the monks and nuns, or the surnames and letters of the patrons, he'll give an answer that makes everything known.",
+        "source": "T24n1470_002:0924b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者若國尊、長者、寺主、檀越持物多少來，即白僧令知具聞。",
+        "translation": "Fourth, if a national venerable, an elder, a temple director, or a donor comes with a quantity of goods, he'll tell the saṃgha that he knows and hears about it.",
+        "source": "T24n1470_002:0924b04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是四事，賢者所值已不惜，是為摩摩德功効，自淨得度世道。",
+        "translation": "These four things, which a good man doesn't hesitate to do after he's received them, are the merits of marmacide, which purify oneself and lead to salvation in the worldly path.",
+        "source": "T24n1470_002:0924b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "直歲有十德：一者為三法盡力。",
+        "translation": "There are ten virtues in directly attaining that age: first, he does his best for the three dharmas.",
+        "source": "T24n1470_002:0924b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者若有比丘從遠方來，當逆安隱。",
+        "translation": "Second, if a monk comes from a distant land, he'll be rebellious and peaceful.",
+        "source": "T24n1470_002:0924b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者當給與床席若燈火三日至七日。",
+        "translation": "Third, he'll be given a bed and seat or a lamp and fire for three to seven days.",
+        "source": "T24n1470_002:0924b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者設房皆滿，當自避，持處與之。",
+        "translation": "Fourth, if he sets up a room that's full, he'll take refuge in it and give it to the monk who holds it.",
+        "source": "T24n1470_002:0924b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者當數往問訊占視。",
+        "translation": "Five, he'll frequently go there to inquire about it and examine it.",
+        "source": "T24n1470_002:0924b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者當為說國土習俗。",
+        "translation": "Six, he'll explain the customs of his land.",
+        "source": "T24n1470_002:0924b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者當憂所不具足。",
+        "translation": "Seven, he'll be concerned about what's not provided.",
+        "source": "T24n1470_002:0924b12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者若中有共諍者，不得有所助，常當和解令安隱。",
+        "translation": "Eight, if there's a mutual dispute between them, they mustn't be helped, but they must always be reconciled and made comfortable.",
+        "source": "T24n1470_002:0924b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者若宿與不相便安，不得於眾中呵罵，亦不得呼人使共作某，令主不可。",
+        "translation": "Nine, if he's been with someone for a long time and they don't get along, he mustn't ridicule them in the crowd, and he mustn't call on someone to make them work together, which would make it impossible for the master.",
+        "source": "T24n1470_002:0924b13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者不得與摩波利共諍求長短，數於眾中若行說之，亦不得取三法中所有物持行作恩惠。",
+        "translation": "Ten, he mustn't argue with a māpāli about his length, or he might explain it to a group of people if he practices it, or he might not take any of the three things in the Dharma and practice them as a favor.",
+        "source": "T24n1470_002:0924b15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如法行者可作直歲。",
+        "translation": "Those who practice according to the Dharma can live a straight life.",
+        "source": "T24n1470_002:0924b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "萬物何因緣生？",
+        "translation": "What are the causes and conditions for the birth of all things?",
+        "source": "T24n1470_002:0924b18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有五事：一者四時五行、二者種性、三者自然、四者施與、五者功德。",
+        "translation": "There are five things: the first is the four seasons and five practices, the second is seed nature, the third is spontaneous, the fourth is generosity, and the fifth is merit.",
+        "source": "T24n1470_002:0924b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "直歲以是五事，會當得佛。",
+        "translation": "Because of these five things, he'll attain Buddhahood when he meets in the direct future.",
+        "source": "T24n1470_002:0924b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "都摩波利揵椎有五事：一者當會、二者常會讀經、三者布薩、四者會僧飯、五者一切非常。",
+        "translation": "There are five things that Dharmapālikas do: one, they'll meet, two, they'll always meet to read the sūtras, three, they'll disseminate the saṃgha, four, they'll meet for a meal, and five, they'll be extraordinary.",
+        "source": "T24n1470_002:0924b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者撾揵椎時當先視早晚；二者常當報上座；三者當復待檀越視般泥僧具未；四者當可眾人意；五者當次僧坐處，不得數起僧。",
+        "translation": "There are five other things: first, when he launches his gandharva, he must first examine the morning and evening; second, he must always report to the superior seat; third, he must again wait for the donor to examine whether the saṃgha is fully ordained; fourth, he must accede to the wishes of the people; and fifth, he must take the place of the saṃgha's seat and not repeatedly raise the saṃgha.",
+        "source": "T24n1470_002:0924b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者不得正對僧坐、二者不得先自檀罰人、三者語但順人意、四者白事不得增減人語、五者若有所分皆當調等。",
+        "translation": "There are five other things: first, you mustn't sit facing the saṃgha; second, you mustn't punish others before yourself; third, you must speak only to the will of the people; fourth, you mustn't add or subtract from what the people say; and fifth, if there's any part, you must adjust it equally.",
+        "source": "T24n1470_002:0924b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者若僧中不如法者，不應便自於眾中呵罵；二者不得違僧正令；三者不得數捨僧出妄行；四者事畢當從僧悔，若語言不可、分布不等，乞除罪；五者白彼已不得先出去。",
+        "translation": "There are five other things: 1) if someone in the saṃgha is not following the Dharma, they shouldn't immediately ridicule them in the congregation; 2) they mustn't disobey the proper orders of the saṃgha; 3) they mustn't repeatedly abandon the saṃgha to false behavior; 4) after the task is completed, they must repent from the saṃgha, and if they say something that's unacceptable or unequal, they must beg to be excused; 5) they mustn't go out first after telling them.",
+        "source": "T24n1470_002:0924c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者朝暮當行視病瘦；二者當日行問訊上座諸大人；三者當時往至檀越家勞問；四者若有遠許比丘來當安隱之；五者若同學中有命盡，當占視遠送之。",
+        "translation": "There are five other things: first, he'll go out in the morning and evening to examine the sick and the thin; second, he'll go out that day to question the adults on the throne; third, he'll go to the donor's house at the time and ask about it; fourth, if some monk comes from afar, he'll be reassured; and fifth, if there's a fellow student whose life has ended, he'll look into it and send him away.",
+        "source": "T24n1470_002:0924c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是都摩波利二十五德。",
+        "translation": "These are the twenty-five virtues of Dharmapāla.",
+        "source": "T24n1470_002:0924c10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從是五德：一者後世在所從生，若有被病著床，當有自然持神藥往瞻視護汝。",
+        "translation": "From these five virtues, one is that in a later life, if he's born under a sick bed, a natural being will bring spiritual medicine to you to look after you.",
+        "source": "T24n1470_002:0924c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者後世若在厄難處，無所聞知，當有自然呼者。",
+        "translation": "Second, in a later life, if you're in a place of trouble and don't hear or understand, there will be someone who naturally calls to you.",
+        "source": "T24n1470_002:0924c13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者後世若在無穀水漿之處，當有自然持香甘美食往與之。",
+        "translation": "Third, if there's a place in the afterlife where there's no grain or water to drink, someone will naturally bring fragrant, sweet food to give it to you.",
+        "source": "T24n1470_002:0924c14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者後世若在不安隱處地飢渴，當有自然持甘露與之。",
+        "translation": "Fourth, if there's hunger and thirst in a later life in a place that's not stable, someone will naturally bring sweet nectar to give it to him.",
+        "source": "T24n1470_002:0924c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者已受是福，後世會當得道神足。",
+        "translation": "Fifth, once he receives this merit, he'll attain the miraculous powers of the path in the afterlife.",
+        "source": "T24n1470_002:0924c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當會揵椎，當先從小起，大下三十，次下二十，次下十，小小下五。",
+        "translation": "When they assemble the gandharvas, they'll start with the small, and the large will descend by 30, the next 20, the next 10, and the small by 5.",
+        "source": "T24n1470_002:0924c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是至三，後大下三。",
+        "translation": "It's like this up to the third, and then it's like this down to the third from the great.",
+        "source": "T24n1470_002:0924c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "會沙門時，便大下四十，次下三十，次下二十，次下十，小小下五。",
+        "translation": "When he meets with the ascetics, he then descends 40 times from the great, 30 times from the next, 20 times from the next, 10 times from the next, and 5 times from the small.",
+        "source": "T24n1470_002:0924c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上三通，後三大下。",
+        "translation": "The first three pass through, and the last three are large and inferior.",
+        "source": "T24n1470_002:0924c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若布薩時，先小小下七，大下五十，次四十，次三十，次二十，次小小下十。",
+        "translation": "When he prepares a monk, the first is seven below the small, the second is fifty below the large, the next is forty, the next is thirty, the next is twenty, the next is ten below the small.",
+        "source": "T24n1470_002:0924c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦三通，大下三。",
+        "translation": "There are also three passageways, and three at the bottom of the big one.",
+        "source": "T24n1470_002:0924c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "僧飯時，先大下四，疏直下二十，次下十，小小下亦十，次下五，後再通。",
+        "translation": "When the saṃgha is fed, the first four are inferior to the great, the second twenty are directly inferior, the next ten are inferior, the second ten are inferior to the small, the next five are inferior, and the latter are again penetrating.",
+        "source": "T24n1470_002:0924c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先數隨時，趣三通當視因緣。",
+        "translation": "First, the number is counted at any time, and the destination of the three passages depends on the circumstances.",
+        "source": "T24n1470_002:0924c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非常時無數，先急後緩或時先緩後急，是都摩波利揵椎法。",
+        "translation": "Not counting the number of times, but first being urgent and then being slow, or sometimes being slow and then urgent, is the Dharmapāla gandharva.",
+        "source": "T24n1470_002:0924c27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當會有五事：一者聞揵椎聲即當著袈裟出戶如法；二者於講堂戶外當止住正袈裟脫帽乃入；三者有佛像者當頭面著地作禮却禮僧；四者當隨次向上座；五者當遺上座處，上座隨坐踞隨踞。",
+        "translation": "There are five things that should come together: first, when you hear the sound of the gandharva, you should put on your robe and leave the house according to the teaching; second, when you're outside the discussion hall, you should stop and put on your robe and take off your hat before entering; third, if there's an image of the Buddha, you should bow with your head and face on the ground and pay homage to the saṃgha; fourth, you should ascend to the upper seat in turn; fifth, you should leave the upper seat where the ascendants sit and crouch down according to their position.",
+        "source": "T24n1470_002:0924c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "踞坐有五事：一者不得交足、二者不得雙前兩足、三者不得却踞兩手掉捎兩足、四者不得支柱一足申一足、五者不得上下足。",
+        "translation": "There are five things about sitting upright: first, you mustn't cross your legs; second, you mustn't cross your legs in front of each other; third, you mustn't sit down with both hands and drop your feet; fourth, you mustn't cross one leg at a time; and fifth, you mustn't get up or down on your feet.",
+        "source": "T24n1470_002:0925a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正坐有五事：一者不得倚壁、二者不得以兩手前據、三者不得以肘據床、四者不得伏臥以兩手捧頭、五者不得以手指拄頰。",
+        "translation": "There are five things about sitting correctly: first, you mustn't lean against a wall; second, you mustn't put your hands in front of you; third, you mustn't put your elbows on a bed; fourth, you mustn't lie down and hold your head in your hands; and fifth, you mustn't put your fingers on your cheeks.",
+        "source": "T24n1470_002:0925a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者不得倚左右人肩、二者不得妄起至上座前邊坐、三者不得妄咄叱摩波利若下坐、四者不得解袈裟著上座舍出、五者不得坐自搖使床有聲。",
+        "translation": "There are five other things: first, he mustn't lean on the shoulders of someone on his left or right; second, he mustn't presumptuously get up and sit near the top seat; third, he mustn't presumptuously scold Maudgalyāyana for sitting down; fourth, he mustn't put his robe on the top seat and get out; and fifth, he mustn't sit and shake his bed so that it makes noise.",
+        "source": "T24n1470_002:0925a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者欲出當先正袈裟，不得參差；二者欲正袈裟，視左右不得令拂人面；三者起時視地，不得過六尺；四者起出不得使袈裟被地；五者行直視前，不得左右顧視。",
+        "translation": "There are five other things: first, when he wants to get out, he must first straighten his robe and must not mix it; second, when he wants to straighten his robe, he mustn't make it brush his face when he looks to his left and right; third, when he rises, he mustn't look at the ground more than six feet; fourth, when he rises, he mustn't allow his robe to reach the ground; and fifth, he must walk straight and look ahead, not to his left or right.",
+        "source": "T24n1470_002:0925a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者上座說經，不得從下是正。",
+        "translation": "There are five other things: first, a superior monk may not preach a sūtra that's correct from below.",
+        "source": "T24n1470_002:0925a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者設有上座自共諍語，不得從下有所助。",
+        "translation": "Second, when a person in the ascendancy shares a controversial speech, he mustn't get help from the inferior.",
+        "source": "T24n1470_002:0925a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者下座共諍語，若有所白，不得強呵止。",
+        "translation": "Third, when a junior monk speaks aloud in a dispute, he mustn't forcibly stop him if he has something to say.",
+        "source": "T24n1470_002:0925a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者摩波利來前，有所白使行，上座者即當起下床坐，當言諾。",
+        "translation": "Fourth, when Māpāli comes and makes a request for permission to practice, the person in the ascendancy must get up and get off the seat and sit down, and he or she must say yes.",
+        "source": "T24n1470_002:0925a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者不得言上座某次當行，下座某常示，為我前自以作某。",
+        "translation": "Fifth, he mustn't say that the higher seat will do something at some point, and the lower seat will always show that it's for me to do something.",
+        "source": "T24n1470_002:0925a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者已白彼去，不得於後說某今日所作為強自用耳。",
+        "translation": "Again, there are five things: first, once you've told them to leave, you mustn't say later that what you did today was for your own use.",
+        "source": "T24n1470_002:0925a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者不得言我今日欲難某，但欲用某故置之耳。",
+        "translation": "Second, he mustn't say, \"Today, I want to make something difficult, but I want to use something so I can put it aside.",
+        "source": "T24n1470_002:0925a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者和尚阿闍梨有所過當隨，若教先去有所取，當如教受語。",
+        "translation": "Third, a monk or preceptor who has a fault should follow it, and if he teaches someone to take something before leaving, he should accept it as taught.",
+        "source": "T24n1470_002:0925a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者若自共歸，不得先歸入門，當隨後倚右面，若行日中不得蹈師影。",
+        "translation": "Fourth, if he returns alone, he mustn't go in first and enter the door; he must lean to his right afterward, and if he's walking in the middle of the day, he mustn't step into the teacher's shadow.",
+        "source": "T24n1470_002:0925a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者人欲止留飯者，當報師以去，不得使留止飯。",
+        "translation": "Five, if someone wants to stop them from eating, they must report to the teacher and leave; they mustn't allow them to stop eating.",
+        "source": "T24n1470_002:0925a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者設人堅坐留飯不得報師，飯已即當求去，不得坐至冥。",
+        "translation": "There are five other things: first, if a person firmly sits down to stay for food, they mustn't report to the teacher; after they finish eating, they must then ask to leave, and they mustn't sit down until they reach the darkness.",
+        "source": "T24n1470_002:0925b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者若至冥歸，當如事自說悔過。",
+        "translation": "Second, if he goes to the darkness and returns, he must confess his faults according to the situation.",
+        "source": "T24n1470_002:0925b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者不得屏處自譽言：「某今日獨留我止飯，無所不有。」",
+        "translation": "Third, he mustn't praise himself in a secluded place and say, \"Today, someone left me alone to stop eating, and there's nothing I don't have.\"",
+        "source": "T24n1470_002:0925b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者不得於人前言：「我今日自當還飯，某強留我飯，使我腹中不安隱。」",
+        "translation": "4. You mustn't say to someone, \"Today, I myself will return to my meal, but someone forced me to stay for food, which made my stomach feel uneasy and unpredictable.\"",
+        "source": "T24n1470_002:0925b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者還且當經行入室思惟念道，不得妄至人室中說世間事。",
+        "translation": "Fifth, he must go back to his room with his practices, reflect, and mind the path, and not go into people's rooms and talk about worldly affairs.",
+        "source": "T24n1470_002:0925b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "布薩時入眾有五事：一者不得著靼[革*區]入眾、二者不得拄錫杖入眾、三者不得持入竹扇持白手巾入眾、四者不得白履入眾、五者不得著屐入眾。",
+        "translation": "There are five things that bodhisattvas do when they enter the congregation: first, they mustn't wear a straw [ghaṭṭā] into the congregation, second, they mustn't carry a tin stick into the congregation, third, they mustn't carry a bamboo fan into the congregation with a white handkerchief, fourth, they mustn't wear white shoes into the congregation, and fifth, they mustn't wear wooden sandals into the congregation.",
+        "source": "T24n1470_002:0925b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者比丘僧會，不得但著結袈裟入行眾中。",
+        "translation": "There are five other things: first, a monk may not enter the congregation while wearing a monk's robe.",
+        "source": "T24n1470_002:0925b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者不得當講堂戶中觀僧。",
+        "translation": "2. He mustn't stand in the door of the discussion hall and watch the saṃgha.",
+        "source": "T24n1470_002:0925b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者不得踞戶外聽僧語。",
+        "translation": "3. He mustn't stand outside and listen to the words of the saṃgha.",
+        "source": "T24n1470_002:0925b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者不得住戶中大呼留上人。",
+        "translation": "4. He mustn't shout out to the superior person in the living quarters.",
+        "source": "T24n1470_002:0925b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者設講堂戶已閉，不得排開，急欲入當三彈指。",
+        "translation": "Five, once the door of the discussion hall is closed, he mustn't open it and snap his fingers three times if he wants to enter urgently.",
+        "source": "T24n1470_002:0925b16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者已讀經戒，不應復作禮。",
+        "translation": "There are five other things: first, after reading the sūtras and precepts, you mustn't make obeisance again.",
+        "source": "T24n1470_002:0925b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者當低頭從上下至坐。",
+        "translation": "Second, he must lower his head and go from up and down to his seat.",
+        "source": "T24n1470_002:0925b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者不得排奪人處。",
+        "translation": "Third, you mustn't plunder people's places.",
+        "source": "T24n1470_002:0925b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者勿道口說外因緣事。",
+        "translation": "Four, don't speak out of turn about external causes and conditions.",
+        "source": "T24n1470_002:0925b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者已安坐，不得語比丘僧今日會何大早。",
+        "translation": "Fifth, once you've sat down, you mustn't say to the monks what kind of early morning assembly they'll have today.",
+        "source": "T24n1470_002:0925b20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有五事：一者眾人議事不得戲語、二者不得妄唾前地、三者不得持手捧膝、四者不得持手捧頭睡臥、五者不得大張口欠。",
+        "translation": "There are another five things: 1. You mustn't engage in joking when people discuss business; 2. you mustn't spit on the ground; 3. you mustn't hold your hands on your knees; 4. you mustn't sleep or lay with your head in your hands; and 5. you mustn't open your mouth wide and become indebted.",
+        "source": "T24n1470_002:0925b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至舍後有二十五事：一者欲大小便當行時，不得道上為上座作禮。",
+        "translation": "After arriving at the monastery, there are twenty-five things: first, when he wants to urinate or defecate, he mustn't make obeisance to the superior seat on the road.",
+        "source": "T24n1470_002:0925b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者亦莫受人禮。",
+        "translation": "Second, you mustn't accept another person's salutation.",
+        "source": "T24n1470_002:0925b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者往時當直低頭視地。",
+        "translation": "3. When he goes, he must straighten his head and look down at the ground.",
+        "source": "T24n1470_002:0925b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者往當三彈指。",
+        "translation": "Four, when you go, you must snap your fingers three times.",
+        "source": "T24n1470_002:0925b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者已有人彈指，不得逼。",
+        "translation": "Five, someone who has already flicked his finger must not force him to do so.",
+        "source": "T24n1470_002:0925b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者已止住，三彈指乃踞。",
+        "translation": "Six: After stopping, he snaps his fingers three times before standing down.",
+        "source": "T24n1470_002:0925b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七者正踞中。",
+        "translation": "Seven, he's correctly planted in the middle.",
+        "source": "T24n1470_002:0925b29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八者不得一足前一足却。",
+        "translation": "Eight, he mustn't put one foot in front of the other and leave it there.",
+        "source": "T24n1470_002:0925b29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九者不得令身倚。",
+        "translation": "Nine, he mustn't allow his body to lean on it.",
+        "source": "T24n1470_002:0925c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十者斂衣不得使垂圊中。",
+        "translation": "Ten, he mustn't let his robe hang down in his toilet.",
+        "source": "T24n1470_002:0925c01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一者不得大咽使而赤。",
+        "translation": "Eleven, he mustn't make his throat go red with his big mouth.",
+        "source": "T24n1470_002:0925c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二者當直視前不得顧聽。",
+        "translation": "Twelve: He must look straight ahead and not look or listen.",
+        "source": "T24n1470_002:0925c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十三者不得唾污四壁。",
+        "translation": "Thirteen: You mustn't spit on the four walls.",
+        "source": "T24n1470_002:0925c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十四者不得低頭視圊中。",
+        "translation": "14. He mustn't lower his head and look into the toilet.",
+        "source": "T24n1470_002:0925c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十五者不得視陰。",
+        "translation": "15. He mustn't look at the aggregates.",
+        "source": "T24n1470_002:0925c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十六者不得以手持陰。",
+        "translation": "Sixteen mustn't hold his hand to the shadows.",
+        "source": "T24n1470_002:0925c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十七者不得持草畫地作字。",
+        "translation": "17. He mustn't paint the ground with grass to make letters.",
+        "source": "T24n1470_002:0925c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十八者不得持草畫壁作字。",
+        "translation": "18. He mustn't paint the walls with grass to make letters.",
+        "source": "T24n1470_002:0925c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十九者用水不得大費。",
+        "translation": "19. He mustn't use large amounts of water.",
+        "source": "T24n1470_002:0925c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十者不得污濺。",
+        "translation": "Twenty, he mustn't defile it.",
+        "source": "T24n1470_002:0925c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十一者用水不得使前手著後手。",
+        "translation": "21. No one may use water so that the front hand touches the back hand.",
+        "source": "T24n1470_002:0925c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十二者用土當三過。",
+        "translation": "Twenty-two: You must use the earth three times.",
+        "source": "T24n1470_002:0925c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十三者當澡豆。",
+        "translation": "Twenty-three: You must wash beans.",
+        "source": "T24n1470_002:0925c08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十四者三過水。",
+        "translation": "Twenty-four people use water three times.",
+        "source": "T24n1470_002:0925c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十五者設見水草土盡，當語直日主者，若自手取為善。",
+        "translation": "Twenty-five: When he sees that the water, grass, and dirt are gone, he must tell the Vairocana leader that it's good if he takes it with his own hands.",
+        "source": "T24n1470_002:0925c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應用水有十事：一者作塔事、二者作比丘僧事、三者大寒、四者行道、五者不與女人共圊、六者欲起經、七者寫經、八者作法衣、九者染衣、十者遠行應請，是皆不得用水；若有香草得用水。",
+        "translation": "There are ten things you shouldn't do with water: 1. make a stūpa, 2. make a monk monk, 3. make it cold, 4. practice the path, 5. don't share a toilet with a woman, 6. want to start a scripture, 7. write a scripture, 8. make Dharma robes, 9. dye robes, and 10. travel far at your request.",
+        "source": "T24n1470_002:0925c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "陰起有十事、五事有罪、五事無罪：一者見色起、二者聞因緣起、三者思念女人端正、四者思念故宿因緣、五者手持起，有罪。",
+        "translation": "There are ten things that arise from the aggregates, five that are blameworthy and five that are not blameworthy: first, arising from seeing form, second, arising from hearing about causes and conditions, third, contemplating a woman's propriety, fourth, contemplating the causes and conditions of previous lives, and fifth, arising from holding a hand, which is blameworthy.",
+        "source": "T24n1470_002:0925c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無罪：一者謂臥臏申、二者常習、三者臥頻申、四者體有瘡手把近、五者欲行小便逼捉不得，陰起無罪。",
+        "translation": "Not guilty: one is caused by lying down, two by constant practice, three by frequent lying down, four by having sores on his body and hands, and five by wanting to urinate and being forced to stop, the aggregate arises without guilt.",
+        "source": "T24n1470_002:0925c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從八月十六日至臘月十五日為一時，百二十日屬冬。",
+        "translation": "From the sixteenth day of the eighth month to the fifteenth day of the waxing moon, there's one period of time, and one hundred and twenty days belong to winter.",
+        "source": "T24n1470_002:0925c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從臘月十六日至四月十五日為一時，百二十日屬春。",
+        "translation": "The period from the 16th day of the waxing moon to the 15th day of the 4th month is one time, and 120 days fall in spring.",
+        "source": "T24n1470_002:0925c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從四月十六日至八月十五日為一時，百二十日屬夏，為長歲盡。",
+        "translation": "From the sixteenth day of the fourth month to the fifteenth day of the eighth month, there's one period of 120 days that falls in summer, which is the end of a long year.",
+        "source": "T24n1470_002:0925c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從八月十六日至臘月十五日即屬冬。",
+        "translation": "From the sixteenth day of August to the fifteenth day of the month of Luna, it's winter.",
+        "source": "T24n1470_002:0925c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作沙門不更夏，雖得鉢惒蘭不得歲。",
+        "translation": "Even though a monk doesn't go beyond summer, he can't attain longevity if he attains pravāra.",
+        "source": "T24n1470_002:0925c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有十五日得歲者，或十六日得歲者沙門。",
+        "translation": "There may be ascetics who attain longevity on the fifteenth day or ascetics who attain longevity on the sixteenth day.",
+        "source": "T24n1470_002:0925c27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "薩和多部者，博通敏智導利法化，應著絳袈裟。",
+        "translation": "Those of the Sarvâstivāda school are well-versed, intelligent, and beneficial in teaching the Dharma, and they should wear a monk's robe.",
+        "source": "T24n1470_002:0925c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曇無德部者，奉執重戒斷當法律，應著皂袈裟。",
+        "translation": "Those of the Dharmagupta school are dedicated to upholding the precepts and cutting off future discipline, and they should wear a soap robe.",
+        "source": "T24n1470_002:0926a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "迦葉維部者，精勤勇決拯護眾生，應著木蘭袈裟。",
+        "translation": "Those of the Kāśyapīya school, who are diligent and resolute in protecting sentient beings, should wear the magnolia robe.",
+        "source": "T24n1470_002:0926a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彌沙塞部，禪思入微究暢玄幽，應著青袈裟。",
+        "translation": "From the Mahāsāṃghika group, those who penetrate the subtleties of meditation and delve into the profundities and mysteries should wear the blue robe.",
+        "source": "T24n1470_002:0926a03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "摩訶僧部者，勤學眾經敷演義理，應著黃袈裟。",
+        "translation": "Those in the Mahāsāṃghika group who diligently study the scriptures and expound the doctrine should wear the yellow robe.",
+        "source": "T24n1470_002:0926a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "昔佛在此時，眾被服唯純直，不衣雜白。",
+        "translation": "In the past, when the Buddha was here, the monks' robes were only pure and straight, not made of white.",
+        "source": "T24n1470_002:0926a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自後起比丘羅旬踰，每行分衛輒飢空還，佛知其宿罪，欲視殃福示後世明戒故，眾僧分為五部，著五色袈裟，於是遂相承制。",
+        "translation": "Since then, the monks Rājagṛha knew of their past misdeeds and wanted to show future generations the importance of the precepts in light of their misfortune and fortune, so they divided the saṃgha into five groups and wore five colored robes.",
+        "source": "T24n1470_002:0926a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "直至佛度世後，立號稱名舉取長名其被色。",
+        "translation": "It wasn't until after the Buddha had passed away that they were given names, given titles, and given long names, and then they were given colors.",
+        "source": "T24n1470_002:0926a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸人集會悉共忍聽！",
+        "translation": "All the people who gathered there tolerated it!",
+        "source": "T24n1470_002:0926a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今比丘規度四方，諸可瑞應及施餘業，眾僧時會皆共和忍，於是同辭專精禁戒，修行平等淨護諸學。",
+        "translation": "Now, when monks disciplined the four directions, they all shared the same resolve to focus on the precepts and cultivate the training of equal and pure protection of others based on their admirable responses and gifts.",
+        "source": "T24n1470_002:0926a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今者結界，此之言教悉共忍聽與並規度四方，以說禁戒結精舍界。",
+        "translation": "Now, when he sets up the community, these words and teachings are all heard with patience, and he disciplines the four directions to preach the precepts and set up the community of fine living.",
+        "source": "T24n1470_002:0926a13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "堪能爾，咸共寂然；若能忍，便說不可。",
+        "translation": "If they can do so, they'll all be silent together; if they can tolerate it, then they'll say no.",
+        "source": "T24n1470_002:0926a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾僧會，以共專精平等結界，已說禁戒。",
+        "translation": "The congregation of monks assembled to focus their energies together and equally form the community, and they then explained the precepts.",
+        "source": "T24n1470_002:0926a15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾僧可之，便默然持。",
+        "translation": "The monks accepted it, so they silently observed it.",
+        "source": "T24n1470_002:0926a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大比丘三千威儀卷下",
+        "translation": "The Three Thousand Regulations for Great Bhikṣus, Volume 2",
+        "source": "T24n1470_002:0926a18_0",
+        "is_bad_quality": false
+    }
+]

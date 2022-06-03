@@ -1,0 +1,962 @@
+[
+    {
+        "source_sentence": "傳教大師將來越州錄",
+        "translation": "Record of the Master Zhuanjiao's arrival in Yuezhou",
+        "source": "T55n2160_001:1058b03_0"
+    },
+    {
+        "source_sentence": "日本國求法僧最澄目錄。",
+        "translation": "It's the list of the most accomplished Buddhist monks seeking the Dharma in Japan.",
+        "source": "T55n2160_001:1058b05_0"
+    },
+    {
+        "source_sentence": "總合二百三十部四百六十卷。",
+        "translation": "It is a collection of two hundred and thirty fascicles, four hundred and sixty fascicles in all.",
+        "source": "T55n2160_001:1058b06_0"
+    },
+    {
+        "source_sentence": "向台州求得法門。",
+        "translation": "He went to Taizhou to seek the Dharma teaching.",
+        "source": "T55n2160_001:1058b07_0"
+    },
+    {
+        "source_sentence": "都合一百二十八部三百四十五卷(名目具別錄)。",
+        "translation": "It's made up of one hundred and twenty-eight parts in three hundred and forty-five fascicles (the names are listed in a separate record).",
+        "source": "T55n2160_001:1058b07_1"
+    },
+    {
+        "source_sentence": "向越府取本寫取經并念誦法門。",
+        "translation": "He went to the Yue prefecture, took the original copy, copied the sūtras, and recited the teachings.",
+        "source": "T55n2160_001:1058b09_0"
+    },
+    {
+        "source_sentence": "都合一百二部一百一十五卷。",
+        "translation": "It's one hundred and twelve parts in one hundred and fifteen fascicles.",
+        "source": "T55n2160_001:1058b09_1"
+    },
+    {
+        "source_sentence": "五佛頂轉輪王經五卷(一百張)",
+        "translation": "Sutra of the Five Buddha-Headed Wheel-Turning King, Five Fascicle (1 hundred fascicles)",
+        "source": "T55n2160_001:1058b11_0"
+    },
+    {
+        "source_sentence": "大輪金剛陀羅尼經一卷",
+        "translation": "Mahāprajñāpāramitā-sūtra, one volume",
+        "source": "T55n2160_001:1058b12_0"
+    },
+    {
+        "source_sentence": "常求利毒女經一卷",
+        "translation": "One Fascicle of the Sutra on the Woman Who Always Seeking profit and poison (Skt. 常求利毒女經)",
+        "source": "T55n2160_001:1058b13_0"
+    },
+    {
+        "source_sentence": "理趣品別譯經一卷",
+        "translation": "Sutra of the Distinct Translation of the Chapter on the Path of Logic, One Fascicle",
+        "source": "T55n2160_001:1058b14_0"
+    },
+    {
+        "source_sentence": "軍荼利菩薩法一卷",
+        "translation": "Kuṇḍalī Bodhisattva's Teachings in One Fascicle",
+        "source": "T55n2160_001:1058b15_0"
+    },
+    {
+        "source_sentence": "軍荼利別法一卷",
+        "translation": "Kuṇḍalī specific teachings in one volume",
+        "source": "T55n2160_001:1058b16_0"
+    },
+    {
+        "source_sentence": "瞿醯三卷",
+        "translation": "three fascicles of the Gogṛha",
+        "source": "T55n2160_001:1058b17_0"
+    },
+    {
+        "source_sentence": "無量壽如來瑜伽儀軌一卷(二十五枚)一字頂輪王瑜伽法一卷普賢金剛瑜伽法一卷十八會瑜伽法一卷普賢行願讚一卷(十枚)三十七尊名一卷三十七尊心要一卷寶部金剛讚一卷觀音法一卷毘奈耶經一卷般若心經梵本漢字一卷梵漢字金剛輪真言一卷陀羅尼啟請文一卷已上二十部二十六卷(同帙)。",
+        "translation": "無量壽如來瑜伽儀軌一卷(二十五枚)一字頂輪王瑜伽法一卷普賢金剛瑜伽法一卷十八會瑜伽法一卷普賢行願讚一卷(十枚)三十七尊",
+        "source": "T55n2160_001:1058b18_0"
+    },
+    {
+        "source_sentence": "大陀羅尼經一卷",
+        "translation": "Mahāprajñāpāramitā-sūtra in one volume",
+        "source": "T55n2160_001:1058c03_0"
+    },
+    {
+        "source_sentence": "梵天擇地經一卷",
+        "translation": "One Fascicle of the Sutra on the Determination of the Earth of Brahmā",
+        "source": "T55n2160_001:1058c04_0"
+    },
+    {
+        "source_sentence": "雜真言一卷",
+        "translation": "Saṃyuktâgama-sūtra in one volume",
+        "source": "T55n2160_001:1058c05_0"
+    },
+    {
+        "source_sentence": "漢頂三昧耶戒一卷",
+        "translation": "Hanzō sanmaya precepts in one volume",
+        "source": "T55n2160_001:1058c06_0"
+    },
+    {
+        "source_sentence": "梵字佛頂尊勝真言一卷",
+        "translation": "One Fascicle of the Sanskrit-字佛頂尊勝真言一卷",
+        "source": "T55n2160_001:1058c07_0"
+    },
+    {
+        "source_sentence": "壇樣一卷",
+        "translation": "shape of the altar in one roll",
+        "source": "T55n2160_001:1058c08_0"
+    },
+    {
+        "source_sentence": "三十七尊樣一卷",
+        "translation": "thirty-seven images of the Buddha in one volume",
+        "source": "T55n2160_001:1058c09_0"
+    },
+    {
+        "source_sentence": "三十七尊供養具樣一卷",
+        "translation": "thirty-seven honored offerings to the Buddha in one volume",
+        "source": "T55n2160_001:1058c10_0"
+    },
+    {
+        "source_sentence": "壇樣并供養具樣一卷",
+        "translation": "model of the altar and its offerings in one volume",
+        "source": "T55n2160_001:1058c11_0"
+    },
+    {
+        "source_sentence": "雜供養具印一卷",
+        "translation": "One Fascicle of the Seal of the Miscellaneous具供養印一卷",
+        "source": "T55n2160_001:1058c12_0"
+    },
+    {
+        "source_sentence": "多聞天法一卷",
+        "translation": "One Fascicle of the Dharma of the Well-versed Gods 1 volume",
+        "source": "T55n2160_001:1058c13_0"
+    },
+    {
+        "source_sentence": "金輪佛頂像樣一卷",
+        "translation": "shape of the Buddha's head in the form of the golden wheel, one volume",
+        "source": "T55n2160_001:1058c14_0"
+    },
+    {
+        "source_sentence": "一字轉輪三印一卷",
+        "translation": "One word for turning the wheel of the three mudrās in one volume",
+        "source": "T55n2160_001:1058c15_0"
+    },
+    {
+        "source_sentence": "七俱胝佛母像樣一卷",
+        "translation": "shape of the image of the mother of the seven corpuscles buddha in one volume",
+        "source": "T55n2160_001:1058c16_0"
+    },
+    {
+        "source_sentence": "一字梵字一卷",
+        "translation": "One word of the Sanskrit phoneme a fascicle",
+        "source": "T55n2160_001:1058c17_0"
+    },
+    {
+        "source_sentence": "火頭金剛像樣一卷",
+        "translation": "one volume of the fire-headed vajra image in one roll",
+        "source": "T55n2160_001:1058c18_0"
+    },
+    {
+        "source_sentence": "八菩薩位樣一卷",
+        "translation": "eight bodhisattva stages in one volume",
+        "source": "T55n2160_001:1058c19_0"
+    },
+    {
+        "source_sentence": "冥道無遮齋法一卷(加火吽儀軌一卷)已上一十八部一十八卷同帙。",
+        "translation": "One Fascicle of the Unobstructed Cultivation of the Way of Meditation on the Underlying Path (a Fascicle of the Approach to the Ritual Procedure for Adding a Firebrand) and the eighteen parts and 18 Fasci",
+        "source": "T55n2160_001:1058c20_0"
+    },
+    {
+        "source_sentence": "四教義二卷(第三第四)",
+        "translation": "The Meaning of the Four Teachings, 2 volumes (3rd and 4th)",
+        "source": "T55n2160_001:1058c22_0"
+    },
+    {
+        "source_sentence": "章安大師碑文一卷(常州弘善寺釋法宣撰　八紙)梁肅與道士吳筠書一卷(三紙)天台智者大師別傳一卷(章安和上述二十紙)止觀輔行傳序一卷(普門子述)釋籤緣起序一卷(君山除饉男普門子詞)剡山石城寺彌勒石像碑一卷妙樂和上遺旨一卷三如來畫像贊一卷天台大師誦經觀記一卷(荊溪和上撰)祭第六祖荊溪和上文一卷(天台沙門靈嶷作)止觀記中異義一卷(邃座主記天台沙門乾濟集)天台第七祖智度和尚略傳一卷(沙門志明集)唐佛隴故荊溪大師讚一卷(會稽神邕述)天台國清雜集一卷國清寺智者大師影堂記一卷(長安沙門曇羿)青溪山記一卷止觀小科文一卷四教科文一卷十不二科文一卷長安座主傳一卷(天台沙門乾濟述)已上二十一部二十二卷同帙(雜第一三十紙)。",
+        "translation": "章安大師碑文一卷(常州弘善寺釋法宣撰 八紙)梁肅與道士 Wu筠書一卷(三紙)天台智者大師別傳一卷(章安和上述二十紙)止觀輔行",
+        "source": "T55n2160_001:1058c23_0"
+    },
+    {
+        "source_sentence": "金剛經疏三卷(沙門圓暉撰)",
+        "translation": "Commentary on the Three Fascicles of the Commentary on the Jingang jing (compiled by the ascetic Yuanhui)",
+        "source": "T55n2160_001:1059a15_0"
+    },
+    {
+        "source_sentence": "瓦官寺維摩碑一卷",
+        "translation": "One Fascicle of the Vimalakīrti Stele of Waguan Temple",
+        "source": "T55n2160_001:1059a16_0"
+    },
+    {
+        "source_sentence": "關河文筆一卷",
+        "translation": "Guanghe wentshou 1 roll",
+        "source": "T55n2160_001:1059a17_0"
+    },
+    {
+        "source_sentence": "智度論音一卷",
+        "translation": "Zhidu lun yun 1 roll",
+        "source": "T55n2160_001:1059a18_0"
+    },
+    {
+        "source_sentence": "古今佛道論衡二卷",
+        "translation": "Ancient and Modern Treatise on the Buddha Way, 2 volumes",
+        "source": "T55n2160_001:1059a19_0"
+    },
+    {
+        "source_sentence": "五百問事一卷",
+        "translation": "One Fascicle of the Five Hundred Questions",
+        "source": "T55n2160_001:1059a20_0"
+    },
+    {
+        "source_sentence": "真人集一卷",
+        "translation": "One volume of the Mahāprajñāpāramitā-sūtra",
+        "source": "T55n2160_001:1059a21_0"
+    },
+    {
+        "source_sentence": "已上七部十卷同帙(雜第二)。",
+        "translation": "The above-mentioned seven parts and ten volumes are the same as the second part of the collection (compilation).",
+        "source": "T55n2160_001:1059a22_0"
+    },
+    {
+        "source_sentence": "諸賢問答一卷",
+        "translation": "One volume of the questions and answers of the venerable ones",
+        "source": "T55n2160_001:1059a23_0"
+    },
+    {
+        "source_sentence": "翰林院等集一卷",
+        "translation": "Hanlin院等集一卷",
+        "source": "T55n2160_001:1059a24_0"
+    },
+    {
+        "source_sentence": "西國付法記一卷",
+        "translation": "Record of the Transmission of the Dharma from the Western Regions 1 volume",
+        "source": "T55n2160_001:1059a25_0"
+    },
+    {
+        "source_sentence": "湖州皎然和上齋文一卷",
+        "translation": "Huzhou's Commentary on the physiognomy of Enlightenment, 1 volume",
+        "source": "T55n2160_001:1059a26_0"
+    },
+    {
+        "source_sentence": "雜文五首一卷",
+        "translation": "five collections of miscellaneous texts in one volume",
+        "source": "T55n2160_001:1059a27_0"
+    },
+    {
+        "source_sentence": "韋之晉傳一卷",
+        "translation": "Weizhi Jin zhuan 1 roll",
+        "source": "T55n2160_001:1059a28_0"
+    },
+    {
+        "source_sentence": "傅大士還詩十二首一卷",
+        "translation": "Fu Dashi returner's poetry, twelve chapters in one volume",
+        "source": "T55n2160_001:1059b01_0"
+    },
+    {
+        "source_sentence": "華嚴法界觀一卷",
+        "translation": "Huayan fashi guan 1 roll",
+        "source": "T55n2160_001:1059b02_0"
+    },
+    {
+        "source_sentence": "齋文式一卷",
+        "translation": "One Fascicle of the Ritual Procedure for fasting",
+        "source": "T55n2160_001:1059b03_0"
+    },
+    {
+        "source_sentence": "浮漚篇一卷",
+        "translation": "Pūrṇa-sūtra, 1 volume",
+        "source": "T55n2160_001:1059b04_0"
+    },
+    {
+        "source_sentence": "佛道二宗論一卷",
+        "translation": "Treatise on the Two Doctrines of Buddhism and Daoism in One Volume",
+        "source": "T55n2160_001:1059b05_0"
+    },
+    {
+        "source_sentence": "三教不齊論一卷",
+        "translation": "Treatise on the Non-alignment of the Three Teachings in One Volume",
+        "source": "T55n2160_001:1059b06_0"
+    },
+    {
+        "source_sentence": "十弟子讚一卷",
+        "translation": "One Fascicle of the Praise of the Ten Disciples",
+        "source": "T55n2160_001:1059b07_0"
+    },
+    {
+        "source_sentence": "什法師付法一卷",
+        "translation": "Shi Fashi's transmission of the Dharma in one volume",
+        "source": "T55n2160_001:1059b08_0"
+    },
+    {
+        "source_sentence": "刀挮歌一卷",
+        "translation": "One volume of the Song of the Sword and Armor, one volume",
+        "source": "T55n2160_001:1059b09_0"
+    },
+    {
+        "source_sentence": "靖心寺鐘銘一卷",
+        "translation": "One Fascicle of the Inscription on the bell at Jingxin Temple",
+        "source": "T55n2160_001:1059b10_0"
+    },
+    {
+        "source_sentence": "五更讚念佛一卷",
+        "translation": "Five-Honored Praise of the Buddha One Fascicle",
+        "source": "T55n2160_001:1059b11_0"
+    },
+    {
+        "source_sentence": "菩薩戒文句一卷",
+        "translation": "text and phrases of the bodhisattva precepts in one volume",
+        "source": "T55n2160_001:1059b12_0"
+    },
+    {
+        "source_sentence": "西域大師論一卷",
+        "translation": "Treatise on the Great Master of the Western Regions, 1 volume",
+        "source": "T55n2160_001:1059b13_0"
+    },
+    {
+        "source_sentence": "看心論一卷",
+        "translation": "Seeing the Mind Treatise in One Fascicle",
+        "source": "T55n2160_001:1059b14_0"
+    },
+    {
+        "source_sentence": "無生義一卷",
+        "translation": "One Fascicle on the Meaning of Nonproduction",
+        "source": "T55n2160_001:1059b15_0"
+    },
+    {
+        "source_sentence": "雙林大士集一卷(二十紙)",
+        "translation": "Shuanglin dashi ji 1 roll (20 sheets)",
+        "source": "T55n2160_001:1059b16_0"
+    },
+    {
+        "source_sentence": "曹溪大師傳一卷",
+        "translation": "Caoxi daishi zhuan 1 roll",
+        "source": "T55n2160_001:1059b17_0"
+    },
+    {
+        "source_sentence": "絕觀論一卷",
+        "translation": "Yiqieguan lun 1 roll",
+        "source": "T55n2160_001:1059b18_0"
+    },
+    {
+        "source_sentence": "法華經名相一卷",
+        "translation": "Fahua jing mingqiao 1 roll",
+        "source": "T55n2160_001:1059b19_0"
+    },
+    {
+        "source_sentence": "青面北天陀羅尼法一卷",
+        "translation": "Dhāraṇī of the Northern Heaven of the Pure Land, One Fascicle",
+        "source": "T55n2160_001:1059b20_0"
+    },
+    {
+        "source_sentence": "般若心經略疏一卷",
+        "translation": "Prajñāpāramitā-sūtra, Abridged Commentary in One Volume",
+        "source": "T55n2160_001:1059b21_0"
+    },
+    {
+        "source_sentence": "達磨系圖一卷",
+        "translation": "Bodhidharma's diagram of the lineage in one volume",
+        "source": "T55n2160_001:1059b22_0"
+    },
+    {
+        "source_sentence": "佛受苦決義一卷(十五紙)",
+        "translation": "The Meaning of the Determination on the Suffering of the Buddha One Fascicle (fifteen sheets)",
+        "source": "T55n2160_001:1059b23_0"
+    },
+    {
+        "source_sentence": "法性章一卷(加青辨量判斷一卷十紙)二定二戒體一卷四分律鈔數義一卷(二十紙)四分律鈔音訓一卷(十五紙)道場頂一卷(闕)已上三十四部三十四卷同帙(雜第三六十紙)。",
+        "translation": "Chapter on the Dharma-Nature of the Dharma One Fascicle (along with one Fascicle, ten Fascicles) Two定二戒體一卷四分律鈔數義一卷(二十紙)四分律鈔音訓一卷(十五",
+        "source": "T55n2160_001:1059b24_0"
+    },
+    {
+        "source_sentence": "總日本國求法目錄一卷",
+        "translation": "Catalogue of Buddhist Practices Sought in the All-Japan Regions, 1 volume",
+        "source": "T55n2160_001:1059b30_0"
+    },
+    {
+        "source_sentence": "相送集四卷(甲乙丙丁戊己庚　百紙)已上二部五卷同帙。",
+        "translation": "The above two collections and five fascicles of the four-fascicle collection of mutual transmission (a.e., A.E., B.C., E.G., F.",
+        "source": "T55n2160_001:1059c01_0"
+    },
+    {
+        "source_sentence": "念誦供養具樣",
+        "translation": "to recite the scripture and make offerings",
+        "source": "T55n2160_001:1059c03_0"
+    },
+    {
+        "source_sentence": "五鈷拔折羅樣一口",
+        "translation": "a mouthful made of five koṭis of vajra-like rice",
+        "source": "T55n2160_001:1059c04_0"
+    },
+    {
+        "source_sentence": "五鈷金剛鈴樣一口",
+        "translation": "a mouth shaped like a five-pronged vajra bell",
+        "source": "T55n2160_001:1059c05_0"
+    },
+    {
+        "source_sentence": "金剛輪二口",
+        "translation": "two mouths of the vajra wheel",
+        "source": "T55n2160_001:1059c06_0"
+    },
+    {
+        "source_sentence": "金剛羯磨二口",
+        "translation": "two mouths of the vajra-karma",
+        "source": "T55n2160_001:1059c07_0"
+    },
+    {
+        "source_sentence": "真言和上付法印信三鈷拔折羅一口",
+        "translation": "Śāriputra, the true man, entrusted with the seal of the Dharma, believes in the three koṭis of vajra-paripṛcchā(sūtra).",
+        "source": "T55n2160_001:1059c08_0"
+    },
+    {
+        "source_sentence": "已上念誦供養具樣也。",
+        "translation": "It's the same as the above-mentioned recitation of the offering.",
+        "source": "T55n2160_001:1059c09_0"
+    },
+    {
+        "source_sentence": "右件念誦法門等并念誦供養具樣等。",
+        "translation": "The right part recites the teachings, such as recitation of the dharma-gate and recitation of the offerings.",
+        "source": "T55n2160_001:1059c10_0"
+    },
+    {
+        "source_sentence": "向越府龍興寺。",
+        "translation": "He went to the Longxingsi Temple in Yue prefecture.",
+        "source": "T55n2160_001:1059c10_1"
+    },
+    {
+        "source_sentence": "詣順曉和上所。",
+        "translation": "He went to the monk Shunxue.",
+        "source": "T55n2160_001:1059c11_2"
+    },
+    {
+        "source_sentence": "即最澄并義真。",
+        "translation": "That is, it's the most pure and true in meaning.",
+        "source": "T55n2160_001:1059c11_3"
+    },
+    {
+        "source_sentence": "逐和上到湖鏡東峯山道場。",
+        "translation": "He followed Vātsīputrīya and went to the enlightenment site on the eastern peak of the mountain east of the lake.",
+        "source": "T55n2160_001:1059c11_4"
+    },
+    {
+        "source_sentence": "和上導兩僧治道場。",
+        "translation": "Vātsīputrīya led the two monks to govern the site of enlightenment.",
+        "source": "T55n2160_001:1059c12_5"
+    },
+    {
+        "source_sentence": "引入五部灌頂曼荼羅壇場。",
+        "translation": "He enters the five-part consecration maṇḍala altar site.",
+        "source": "T55n2160_001:1059c13_6"
+    },
+    {
+        "source_sentence": "現蒙授真言法。",
+        "translation": "Now, he's been taught the true teaching of words.",
+        "source": "T55n2160_001:1059c13_7"
+    },
+    {
+        "source_sentence": "又灌頂真言水。",
+        "translation": "He also consecrates the water of the true words.",
+        "source": "T55n2160_001:1059c14_8"
+    },
+    {
+        "source_sentence": "便寫取上件念誦法門并供養具樣。",
+        "translation": "He then wrote a copy of the above-mentioned recitation of the teaching and made offerings.",
+        "source": "T55n2160_001:1059c14_9"
+    },
+    {
+        "source_sentence": "勘定已畢。",
+        "translation": "After he had finished his investigation, he said.",
+        "source": "T55n2160_001:1059c15_10"
+    },
+    {
+        "source_sentence": "最澄等。",
+        "translation": "It's most pure and so forth.",
+        "source": "T55n2160_001:1059c15_11"
+    },
+    {
+        "source_sentence": "深蒙郎中慈造。",
+        "translation": "I'm deeply grateful to the kindness created by Mr. Jōzō.",
+        "source": "T55n2160_001:1059c15_12"
+    },
+    {
+        "source_sentence": "去年向台州。",
+        "translation": "In the past year, he went to Taizhou.",
+        "source": "T55n2160_001:1059c16_0"
+    },
+    {
+        "source_sentence": "兩僧等。",
+        "translation": "The two saṃgha and so forth.",
+        "source": "T55n2160_001:1059c16_1"
+    },
+    {
+        "source_sentence": "受大小二乘戒。",
+        "translation": "They'll receive the precepts of both large and small two-vehicle bodhisattvas.",
+        "source": "T55n2160_001:1059c16_2"
+    },
+    {
+        "source_sentence": "又寫取數百卷文書。",
+        "translation": "He also wrote and collected several hundreds of scrolls of records.",
+        "source": "T55n2160_001:1059c16_3"
+    },
+    {
+        "source_sentence": "今年進越府。",
+        "translation": "This year, he entered the Yue prefecture.",
+        "source": "T55n2160_001:1059c17_4"
+    },
+    {
+        "source_sentence": "二僧入五部灌頂壇。",
+        "translation": "Two, the saṃgha enters the five parts of the consecration altar.",
+        "source": "T55n2160_001:1059c17_5"
+    },
+    {
+        "source_sentence": "又抄取念誦法門。",
+        "translation": "He also copied and recited the recitation of the Dharma teaching.",
+        "source": "T55n2160_001:1059c18_6"
+    },
+    {
+        "source_sentence": "前後都總二百三十部。",
+        "translation": "The former and latter are two hundred and thirty collections in all.",
+        "source": "T55n2160_001:1059c18_7"
+    },
+    {
+        "source_sentence": "四百六十卷也。",
+        "translation": "It's 4.5 million fascicles long.",
+        "source": "T55n2160_001:1059c19_0"
+    },
+    {
+        "source_sentence": "能事已畢。",
+        "translation": "After he's finished performing the task, he says.",
+        "source": "T55n2160_001:1059c19_1"
+    },
+    {
+        "source_sentence": "今歸本鄉今欲請當州印信。",
+        "translation": "Now, I'll return to my native land and now I want to invite the governor of that state to believe in it.",
+        "source": "T55n2160_001:1059c19_2"
+    },
+    {
+        "source_sentence": "外方學徒等。",
+        "translation": "They're trainees from outside the world and so forth.",
+        "source": "T55n2160_001:1059c20_3"
+    },
+    {
+        "source_sentence": "將示求法元由矣。",
+        "translation": "I'll show you the original reason for seeking the Dharma.",
+        "source": "T55n2160_001:1059c20_4"
+    },
+    {
+        "source_sentence": "然則郎中傳法之功。",
+        "translation": "Still, it's the merit of transmitting the Dharma in the middle.",
+        "source": "T55n2160_001:1059c20_5"
+    },
+    {
+        "source_sentence": "攀福於現當。",
+        "translation": "They cling to merit in the present and future.",
+        "source": "T55n2160_001:1059c21_6"
+    },
+    {
+        "source_sentence": "群生聽法之德。",
+        "translation": "The virtue of sentient beings listening to the Dharma.",
+        "source": "T55n2160_001:1059c21_7"
+    },
+    {
+        "source_sentence": "期果於妙覺。",
+        "translation": "It's expected to result in marvelous awakening.",
+        "source": "T55n2160_001:1059c22_8"
+    },
+    {
+        "source_sentence": "伏願使君。",
+        "translation": "I humbly wish to entrust it to you.",
+        "source": "T55n2160_001:1059c22_9"
+    },
+    {
+        "source_sentence": "近登三台位。",
+        "translation": "He was about to ascend to the throne of the Three Treasures.",
+        "source": "T55n2160_001:1059c22_10"
+    },
+    {
+        "source_sentence": "遠證三點果。",
+        "translation": "He's far from realizing the fruit of the three dots.",
+        "source": "T55n2160_001:1059c22_11"
+    },
+    {
+        "source_sentence": "然後。",
+        "translation": "Then, he said.",
+        "source": "T55n2160_001:1059c23_12"
+    },
+    {
+        "source_sentence": "竪通三界。",
+        "translation": "It's permeated with the three realms.",
+        "source": "T55n2160_001:1059c23_13"
+    },
+    {
+        "source_sentence": "橫撥十方。",
+        "translation": "They horizontally deny the ten directions.",
+        "source": "T55n2160_001:1059c23_14"
+    },
+    {
+        "source_sentence": "六道四生一切含靈。",
+        "translation": "The six destinies, four births, and all containing spirits.",
+        "source": "T55n2160_001:1059c23_15"
+    },
+    {
+        "source_sentence": "同入禪門。",
+        "translation": "They all enter the Chan teaching together.",
+        "source": "T55n2160_001:1059c24_16"
+    },
+    {
+        "source_sentence": "俱遊慧苑。",
+        "translation": "They all traveled to the Huiyuan.",
+        "source": "T55n2160_001:1059c24_17"
+    },
+    {
+        "source_sentence": "信謗平等。",
+        "translation": "They believe in and denigrate equality.",
+        "source": "T55n2160_001:1059c24_18"
+    },
+    {
+        "source_sentence": "自他得益歟。",
+        "translation": "They benefit themselves and others.",
+        "source": "T55n2160_001:1059c24_19"
+    },
+    {
+        "source_sentence": "大唐貞元貳拾壹年歲次乙酉五月朔己巳拾參日辛巳日本國求法僧　最澄錄日本國求法譯語僧　義真日本國求法傔從丹　福成孔夫子云。",
+        "translation": "In the fifth month, in the first year of Zhenguan's reign, he gathered the monks who sought the Dharma in Xinsi (i.e., Buddhist monks) and asked them to pay homage to him.",
+        "source": "T55n2160_001:1059c26_0"
+    },
+    {
+        "source_sentence": "吾聞。",
+        "translation": "I've heard it.",
+        "source": "T55n2160_001:1060a02_1"
+    },
+    {
+        "source_sentence": "西方有聖人焉。",
+        "translation": "In the West, there are sages.",
+        "source": "T55n2160_001:1060a02_2"
+    },
+    {
+        "source_sentence": "其教以清淨無為為本。",
+        "translation": "Their teaching is based on purity and nonexistence as the root.",
+        "source": "T55n2160_001:1060a02_3"
+    },
+    {
+        "source_sentence": "不染不著為妙。",
+        "translation": "What's undefiled and unattached is marvelous.",
+        "source": "T55n2160_001:1060a03_4"
+    },
+    {
+        "source_sentence": "其化人也。",
+        "translation": "He's a transformation person.",
+        "source": "T55n2160_001:1060a03_5"
+    },
+    {
+        "source_sentence": "具足功德。",
+        "translation": "It's replete with merit.",
+        "source": "T55n2160_001:1060a03_6"
+    },
+    {
+        "source_sentence": "乃為圓明。",
+        "translation": "It's then perfect clarity.",
+        "source": "T55n2160_001:1060a04_7"
+    },
+    {
+        "source_sentence": "最澄闍梨。",
+        "translation": "The most pure preceptor.",
+        "source": "T55n2160_001:1060a04_8"
+    },
+    {
+        "source_sentence": "性稟生知之才。",
+        "translation": "It's naturally endowed with the power of knowing.",
+        "source": "T55n2160_001:1060a04_9"
+    },
+    {
+        "source_sentence": "來自禮義之國。",
+        "translation": "They came from the land of ritual and righteousness.",
+        "source": "T55n2160_001:1060a04_10"
+    },
+    {
+        "source_sentence": "萬里求法。",
+        "translation": "He traveled ten thousand miles to seek the Dharma.",
+        "source": "T55n2160_001:1060a05_11"
+    },
+    {
+        "source_sentence": "視險若夷。",
+        "translation": "They look at danger as if it's a barbarian.",
+        "source": "T55n2160_001:1060a05_12"
+    },
+    {
+        "source_sentence": "不憚艱勞。",
+        "translation": "They don't experience hardships and troubles.",
+        "source": "T55n2160_001:1060a05_13"
+    },
+    {
+        "source_sentence": "神力保護。",
+        "translation": "He's protected by his supernormal powers.",
+        "source": "T55n2160_001:1060a06_0"
+    },
+    {
+        "source_sentence": "南登天台之巔。",
+        "translation": "To the south, he ascended to the top of Tiantai.",
+        "source": "T55n2160_001:1060a06_1"
+    },
+    {
+        "source_sentence": "西泛鏡湖之水。",
+        "translation": "To the west, it flows into the water of mirror lake.",
+        "source": "T55n2160_001:1060a06_2"
+    },
+    {
+        "source_sentence": "窮智者之法門。",
+        "translation": "It's the dharma-gate of the one who has exhausted wisdom.",
+        "source": "T55n2160_001:1060a06_3"
+    },
+    {
+        "source_sentence": "探灌頂之神祕。",
+        "translation": "He investigates the esoteric secrets of the consecration.",
+        "source": "T55n2160_001:1060a07_4"
+    },
+    {
+        "source_sentence": "可謂法門龍象。",
+        "translation": "They can be called the Dharma-gate dragons and elephants.",
+        "source": "T55n2160_001:1060a07_5"
+    },
+    {
+        "source_sentence": "青蓮出池。",
+        "translation": "The blue lotus comes out of the pond.",
+        "source": "T55n2160_001:1060a08_0"
+    },
+    {
+        "source_sentence": "將此大乘往傳本國。",
+        "translation": "He sent this great vehicle to transmit it to his own country.",
+        "source": "T55n2160_001:1060a08_1"
+    },
+    {
+        "source_sentence": "求茲印信執以為憑。",
+        "translation": "Seeking this seal of faith, they cling to it as a source.",
+        "source": "T55n2160_001:1060a08_2"
+    },
+    {
+        "source_sentence": "昨者陸台州已與題記。",
+        "translation": "Yesterday, Lu Taizhou had given him the title of the record.",
+        "source": "T55n2160_001:1060a09_3"
+    },
+    {
+        "source_sentence": "故具所覩爰申直筆。",
+        "translation": "Therefore, it's a straightforward statement that fully describes what I've done.",
+        "source": "T55n2160_001:1060a09_4"
+    },
+    {
+        "source_sentence": "大唐貞元二十一年五月十五日。",
+        "translation": "On the fifteenth day of the fifth month in the twenty-first year of Zongguan's reign in the Great Tang.",
+        "source": "T55n2160_001:1060a10_5"
+    },
+    {
+        "source_sentence": "朝議郎使持節明州諸軍事守明州刺史上柱國滎陽鄭審則書。",
+        "translation": "The court councilor, the envoy of the imperial court, the military governor of Mingzhou, and the Assassin of Mingzhou, Zheng Xunyang, the historian of the pillar country, wrote this book.",
+        "source": "T55n2160_001:1060a10_6"
+    },
+    {
+        "source_sentence": "日本國入唐使。",
+        "translation": "The Japanese kingdom entered the Tang emissary.",
+        "source": "T55n2160_001:1060a13_0"
+    },
+    {
+        "source_sentence": "持節大使從四位上行太政官右大",
+        "translation": "Ambassador Jīvaka follows the four positions and ascends to the right of the crown prince.",
+        "source": "T55n2160_001:1060a14_0"
+    },
+    {
+        "source_sentence": "辨兼越前守　　　藤原朝臣　葛野麿",
+        "translation": "Former governor of Bian and Yue, the courtier of Fūyuan, Kusuma",
+        "source": "T55n2160_001:1060a15_0"
+    },
+    {
+        "source_sentence": "準判官兼譯語正六位上行備前掾",
+        "translation": "Correctly judged officials and translators correct the six grades of the above-mentioned practice in order to prepare for the prior offense.",
+        "source": "T55n2160_001:1060a16_0"
+    },
+    {
+        "source_sentence": "笠　　臣　　田作",
+        "translation": "Hats, ministers, and field-workers",
+        "source": "T55n2160_001:1060a17_0"
+    },
+    {
+        "source_sentence": "錄事正六位上行式部省少錄兼伊",
+        "translation": "Recorded matters are mainly the six grades of the above-mentioned order, which are recorded in the minor records and compiled together with the official records.",
+        "source": "T55n2160_001:1060a18_0"
+    },
+    {
+        "source_sentence": "勢大目勳六等　　山田造　大庭",
+        "translation": "The powerful Mahāmaudgalyāyana and the six others built a great courtyard in the mountain fields.",
+        "source": "T55n2160_001:1060a19_0"
+    },
+    {
+        "source_sentence": "錄事正六位上行太政官左少史兼",
+        "translation": "Recorded officials correct the six positions, including the junior historian Zuo, who is the head of the Taizōan superintendent.",
+        "source": "T55n2160_001:1060a20_0"
+    },
+    {
+        "source_sentence": "常陸少目　　　　上毛野公　　穎人",
+        "translation": "small-eyed Chang Lu, the king of hairlessness and wildness, a native of Ying",
+        "source": "T55n2160_001:1060a21_0"
+    },
+    {
+        "source_sentence": "山家將來目錄序",
+        "translation": "Preface to the Catalogue of the Coming of the Mountain School",
+        "source": "T55n2160_001:1060a23_0"
+    },
+    {
+        "source_sentence": "昔者吾三聖之入唐求法也。",
+        "translation": "In the past, we three sages entered the Tang to seek the Dharma.",
+        "source": "T55n2160_001:1060a24_0"
+    },
+    {
+        "source_sentence": "皆有將來錄。",
+        "translation": "They all have future records.",
+        "source": "T55n2160_001:1060a24_1"
+    },
+    {
+        "source_sentence": "先是刊行於世矣。",
+        "translation": "It's already been publicized in the world.",
+        "source": "T55n2160_001:1060a24_2"
+    },
+    {
+        "source_sentence": "今復殊壽此摹錄者。",
+        "translation": "Now, there's also this copying of the record by Mañjuśrī.",
+        "source": "T55n2160_001:1060a25_3"
+    },
+    {
+        "source_sentence": "蓋使其真蹟不朽也。",
+        "translation": "It's because it causes the true relics to not perish.",
+        "source": "T55n2160_001:1060a25_4"
+    },
+    {
+        "source_sentence": "夫國朝文物之盛。",
+        "translation": "The kingdom's dynasty is a great collection of relics.",
+        "source": "T55n2160_001:1060a26_5"
+    },
+    {
+        "source_sentence": "云緇云素。",
+        "translation": "It's called the plain, and it's called the plain.",
+        "source": "T55n2160_001:1060a26_6"
+    },
+    {
+        "source_sentence": "莫太於延曆弘仁聖代。",
+        "translation": "It's not too late in the reign of Yanli Hongren, the noble one.",
+        "source": "T55n2160_001:1060a26_7"
+    },
+    {
+        "source_sentence": "至若其書法精眇。",
+        "translation": "Suppose someone writes a book about the essence of the Dharma.",
+        "source": "T55n2160_001:1060a27_8"
+    },
+    {
+        "source_sentence": "則晚唐以還聲書之士實所不能及。",
+        "translation": "In the late Tang, it's really beyond the ability of a person who returns to sound and writes.",
+        "source": "T55n2160_001:1060a27_9"
+    },
+    {
+        "source_sentence": "人僉知焉。",
+        "translation": "Everyone knew it.",
+        "source": "T55n2160_001:1060a28_10"
+    },
+    {
+        "source_sentence": "宋人讚曰幾二王亦非誣。",
+        "translation": "The Song people praised him, saying, How many two kings are not mistaken?",
+        "source": "T55n2160_001:1060a28_11"
+    },
+    {
+        "source_sentence": "當時尚然。",
+        "translation": "It's just like that.",
+        "source": "T55n2160_001:1060a29_12"
+    },
+    {
+        "source_sentence": "況今世存數千字者。",
+        "translation": "How could there be thousands of words in the present world?",
+        "source": "T55n2160_001:1060a29_13"
+    },
+    {
+        "source_sentence": "可謂希世巨寶也。",
+        "translation": "It can be called a rare worldly great treasure.",
+        "source": "T55n2160_001:1060b01_14"
+    },
+    {
+        "source_sentence": "雖然毖之臧中。",
+        "translation": "Although it's said to be in Zangzhi.",
+        "source": "T55n2160_001:1060b01_15"
+    },
+    {
+        "source_sentence": "則非但人知稀。",
+        "translation": "It's not just that people know it's rare.",
+        "source": "T55n2160_001:1060b02_0"
+    },
+    {
+        "source_sentence": "或恐不能全璧於後世。",
+        "translation": "Perhaps they won't be able to completely perfect it in the afterlife.",
+        "source": "T55n2160_001:1060b02_1"
+    },
+    {
+        "source_sentence": "豈可不憾乎。",
+        "translation": "How could it not be regretted?",
+        "source": "T55n2160_001:1060b02_2"
+    },
+    {
+        "source_sentence": "今茲辛巳之夏。",
+        "translation": "Now, this is the summer of Xinsi.",
+        "source": "T55n2160_001:1060b03_3"
+    },
+    {
+        "source_sentence": "法曼超公齎郭填之本徠曰。",
+        "translation": "Dharmaman Chaogong brought Guo Zhenzhi's book, saying.",
+        "source": "T55n2160_001:1060b03_4"
+    },
+    {
+        "source_sentence": "大師入滅壹千年。",
+        "translation": "The great teacher entered into extinction for 1,000 years.",
+        "source": "T55n2160_001:1060b04_5"
+    },
+    {
+        "source_sentence": "於今真蹟儼可見矣。",
+        "translation": "At the present, the true traces are clearly visible.",
+        "source": "T55n2160_001:1060b04_6"
+    },
+    {
+        "source_sentence": "今刻之以置開□塔院。",
+        "translation": "Now, he carved it to place it in the stūpa hall.",
+        "source": "T55n2160_001:1060b05_7"
+    },
+    {
+        "source_sentence": "則猶傳永世可不盛觀哉。",
+        "translation": "Then it's like transmitting the eternal world that can't flourish as contemplation.",
+        "source": "T55n2160_001:1060b05_8"
+    },
+    {
+        "source_sentence": "於茲吾儕彈指隨憙而諾矣。",
+        "translation": "At this point, my friend snapped his fingers and promised to follow the arrow.",
+        "source": "T55n2160_001:1060b06_9"
+    },
+    {
+        "source_sentence": "頃日剞劂告功成。",
+        "translation": "Soon after that, he was told of his accomplishment.",
+        "source": "T55n2160_001:1060b06_10"
+    },
+    {
+        "source_sentence": "同法切責題一言。",
+        "translation": "It's the same as the one word in the title of the statement of remorse and rebuke.",
+        "source": "T55n2160_001:1060b07_11"
+    },
+    {
+        "source_sentence": "予固辭不許。",
+        "translation": "I resolutely refused to allow it.",
+        "source": "T55n2160_001:1060b07_12"
+    },
+    {
+        "source_sentence": "故不顧唯質而不文書其始末云。",
+        "translation": "That's why they don't focus on only quality and don't document it. It's said at the beginning and end of the book.",
+        "source": "T55n2160_001:1060b07_13"
+    },
+    {
+        "source_sentence": "文政辛巳僧自恣日。",
+        "translation": "Wenzheng Xinshi's monks performed the ritual on the day of self-restraint.",
+        "source": "T55n2160_001:1060b09_0"
+    },
+    {
+        "source_sentence": "延曆寺遮那業苾芻亮照撰併書。",
+        "translation": "A combined book was compiled by the monk Changshou Liangzhao of Yanli Temple.",
+        "source": "T55n2160_001:1060b09_1"
+    }
+]

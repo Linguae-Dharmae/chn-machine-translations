@@ -1,0 +1,2252 @@
+[
+    {
+        "source_sentence": "貞元新定釋教目錄卷第一",
+        "translation": "Zhenyan Revised List of Canonical Buddhist Texts, Volume 1",
+        "source": "T55n2157_001:0771a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西京西明寺沙門圓照撰",
+        "translation": "Xijings Ximing Temple, written by the monk Yuanzhao",
+        "source": "T55n2157_001:0771a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謹按舊錄云。",
+        "translation": "We refer to the old records as saying.",
+        "source": "T55n2157_001:0771a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夫目錄之興也。",
+        "translation": "\"The rise of the eye record is also.",
+        "source": "T55n2157_001:0771a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蓋所以別真偽明是非。",
+        "translation": "It's to distinguish the genuine from the counterfeit and to clarify right from wrong.",
+        "source": "T55n2157_001:0771a06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "記人代之古今。",
+        "translation": "It records the past and present of human generations.",
+        "source": "T55n2157_001:0771a07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "摽卷部之多小。",
+        "translation": "It shows how numerous and how small the volumes are.",
+        "source": "T55n2157_001:0771a07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "摭拾遺漏刪夷駢贅。",
+        "translation": "It gathers up omissions and eliminates superfluities.",
+        "source": "T55n2157_001:0771a07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲使正教合理金言有緒。",
+        "translation": "The goal is to make the true teaching reasonable, and the golden words have a thread.",
+        "source": "T55n2157_001:0771a08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "提綱舉要歷然可觀也。",
+        "translation": "It's also a summary of the essentials that can be seen clearly.",
+        "source": "T55n2157_001:0771a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但以法門幽邃化網恢弘。",
+        "translation": "But the profundity of the teaching is profound, and the web of the teaching is vast.",
+        "source": "T55n2157_001:0771a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前後翻傳年移代謝。",
+        "translation": "It's been handed down from generation to generation over the years.",
+        "source": "T55n2157_001:0771a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "屢經散滅卷軸參差。",
+        "translation": "It's been scattered and dispersed time and again, and the scrolls have been jumbled together.",
+        "source": "T55n2157_001:0771a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有異人時增偽妄。",
+        "translation": "Moreover, there are non-Buddhists who sometimes add falsehoods.",
+        "source": "T55n2157_001:0771a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "致令混雜難究蹤由。",
+        "translation": "This causes confusion and makes it difficult to investigate the origins.",
+        "source": "T55n2157_001:0771a11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是以先德儒賢製斯條錄。",
+        "translation": "That's why Confucian scholars of earlier virtues produced this record.",
+        "source": "T55n2157_001:0771a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今其存者殆六七家。",
+        "translation": "Today, it survives in almost half a dozen schools.",
+        "source": "T55n2157_001:0771a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然猶未極根源尚多疎闕。",
+        "translation": "However, it's still not quite at the root, and there are still many shortcomings.",
+        "source": "T55n2157_001:0771a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "昇以庸淺久事披尋。",
+        "translation": "I've been searching for a long time because of its mediocrity and shallowness.",
+        "source": "T55n2157_001:0771a13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "參練異同指陳臧否。",
+        "translation": "He investigated the differences and similarities, and pointed out the praises and negatives.",
+        "source": "T55n2157_001:0771a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成茲部帙。",
+        "translation": "I've compiled this list.",
+        "source": "T55n2157_001:0771a14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "庶免乖違。",
+        "translation": "I hope it avoids being inconsistent.",
+        "source": "T55n2157_001:0771a14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幸諸哲人俯共詳覽。",
+        "translation": "I'm grateful that philosophers will look into it.",
+        "source": "T55n2157_001:0771a15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今觀先賢所撰冠絕群英。",
+        "translation": "Now, we've seen how the writings of our predecessors have surpassed those of the herd.",
+        "source": "T55n2157_001:0771a15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "伏從庚午以來增七十祀。",
+        "translation": "Fubu has added seventy rituals since Gengwu.",
+        "source": "T55n2157_001:0771a16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏繼踵于今四朝。",
+        "translation": "The Tripiṭaka has followed in four dynasties.",
+        "source": "T55n2157_001:0771a16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖上欽明翻譯相次。",
+        "translation": "The noble ones have dictated the order of translation.",
+        "source": "T55n2157_001:0771a17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一百餘部經律特明。",
+        "translation": "There are more than a hundred sūtras and vinaya texts that are especially clear.",
+        "source": "T55n2157_001:0771a17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "累降。",
+        "translation": "It's been repeatedly decreed.",
+        "source": "T55n2157_001:0771a18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "鴻私許令修述。",
+        "translation": "Hongzhi ordered them to be cultivated and explained.",
+        "source": "T55n2157_001:0771a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "圓照等才智短淺思不延文。",
+        "translation": "Yuanzhao and the others were too short in ability and shallow in wisdom to extend the text.",
+        "source": "T55n2157_001:0771a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "祇奉。",
+        "translation": "We simply bowed to his wishes.",
+        "source": "T55n2157_001:0771a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皇恩俛仰恭命。",
+        "translation": "We are grateful to the emperor for his kindness and respectful commands.",
+        "source": "T55n2157_001:0771a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今所譯者約以類分。",
+        "translation": "The present translation is divided into categories.",
+        "source": "T55n2157_001:0771a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨三藏文相次附入。",
+        "translation": "They are attached to the Tripiṭaka text in order.",
+        "source": "T55n2157_001:0771a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自惟以索繼組。",
+        "translation": "I only use the cords to follow the group.",
+        "source": "T55n2157_001:0771a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以礫次金。",
+        "translation": "By conglomerate, it is followed by gold.",
+        "source": "T55n2157_001:0771a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "疑則闕之。",
+        "translation": "If there's doubt, it's missing.",
+        "source": "T55n2157_001:0771a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以俟來哲也。",
+        "translation": "We'll wait for future philosophers.",
+        "source": "T55n2157_001:0771a23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　稽首善逝牟尼尊　　無上丈夫調御士　亦禮三乘淨妙法　　五部祕密總持門　并及八輩應真僧　　普賢妙德諸菩薩　五眼三身咸照世　　至誠歸命願加威　我撰經錄護法城　　三寶垂慈幸冥祐　唯願法燈長夜照　　迷徒因此得慧明　正法遐久住世間　　依學速登無上地自後漢孝明皇帝永平十年歲次丁卯。",
+        "translation": "I salute the Bhagavān, the unsurpassed tamer, the pure and wonderful Dharma of the three vehicles, the fivefold, esoteric approach of the Zongchi, the eight groups of true monks, the bodhisattvas of marvelous virtue, the five eyes and three bodies that all illuminate the world, the sincere vow to bestow life, and the vow to empower. I compiled the sūtras and records to protect the Dharma city, and the Three Treasures have been kind and fortunate in their blessings. May the lamp of the Dharma shine for a long time, and the misguided disciples thus attain the wisdom and insight of the true Dharma that will long endure in the world. I've been studying and quickly ascending to the unsurpassed stage since the year Dingmao in the tenth year of Emperor Xiaoming's reign in the Latter Han Dynasty.",
+        "source": "T55n2157_001:0771a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至大唐聖神文武皇帝貞元十六年庚辰之歲。",
+        "translation": "From the year Dingmao in the tenth year of Emperor Xiaoming's reign in the Latter Han Dynasty to the year Gengchen in the sixteenth year of Emperor Shengshen Wenwu's reign in the Great Tang Dynasty.",
+        "source": "T55n2157_001:0771b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡七百三十四載(內從開元十八年庚午至今庚辰加七十一歲也)中間傳譯緇素總一百八十七人。",
+        "translation": "For a total of 734 years (from Gengwu in the 18th year of the Kaiyuan emperor's reign to Gengchen in the 16th year of his reign, plus 71 years), the total number of translators in between was 187.",
+        "source": "T55n2157_001:0771b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所出大小二乘三藏聖教。",
+        "translation": "What was produced was the holy teachings of the three collections of the greater and lesser two vehicles.",
+        "source": "T55n2157_001:0771b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及賢聖集傳并及失譯。",
+        "translation": "The three collections of holy teachings, large and small, two vehicles, and the collected biographies of good sages, as well as the lost translations.",
+        "source": "T55n2157_001:0771b06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總二千四百四十七部(內新加一百三十九部矣)合七千三百九十九卷。",
+        "translation": "In total, these 2,447 works (there are 139 new works added to the list) comprise 7,399 volumes.",
+        "source": "T55n2157_001:0771b06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其見行闕本並該前數(內新加三百四十二卷)。",
+        "translation": "The number of copies in circulation is the same as the previous number (a new one of 342 volumes was added to the list).",
+        "source": "T55n2157_001:0771b07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "新定目錄合三十卷。",
+        "translation": "The newly established catalog combines thirty volumes.",
+        "source": "T55n2157_001:0771b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "開為總別。",
+        "translation": "It's opened as a general record.",
+        "source": "T55n2157_001:0771b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總錄分二。",
+        "translation": "The general record is divided into two.",
+        "source": "T55n2157_001:0771b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初奉承恩制。",
+        "translation": "The first is to receive the system of compassion.",
+        "source": "T55n2157_001:0771b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次總集群經。",
+        "translation": "The second is a general collection of sūtras.",
+        "source": "T55n2157_001:0771b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別錄亦二。",
+        "translation": "The separate record also has two parts.",
+        "source": "T55n2157_001:0771b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初分乘藏差殊。",
+        "translation": "The first divides the collection of vehicles into distinctions.",
+        "source": "T55n2157_001:0771b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次明賢聖集傳。",
+        "translation": "The second explains the collected biographies of Bhadrayānīya and Bhallika.",
+        "source": "T55n2157_001:0771b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總中分為一十九卷。",
+        "translation": "The general part is divided into 19 volumes. The special part is divided into 11 volumes.",
+        "source": "T55n2157_001:0771b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別中分成一十一卷。",
+        "translation": "The separate record is divided into eleven volumes.",
+        "source": "T55n2157_001:0771b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "就別分乘藏中更有七門。",
+        "translation": "In the separate division of the vehicle collection, there are another seven divisions.",
+        "source": "T55n2157_001:0771b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今先敘科條餘。",
+        "translation": "We'll first describe the remainder of the textual organization.",
+        "source": "T55n2157_001:0771b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次編載。",
+        "translation": "Next, it's compiled.",
+        "source": "T55n2157_001:0771b13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總錄二文上。",
+        "translation": "The general record is above the two texts.",
+        "source": "T55n2157_001:0771b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初特承恩旨錄有三。",
+        "translation": "The first record of specially acknowledged merits has three entries.",
+        "source": "T55n2157_001:0771b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右新譯華嚴經一。",
+        "translation": "The right one is a new translation of the Flower Ornament Sutra.",
+        "source": "T55n2157_001:0771b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三朝翻譯經律論二。",
+        "translation": "Two are translations of sūtras, vinaya, and treatises from the three dynasties.",
+        "source": "T55n2157_001:0771b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大佛名經一部等三。",
+        "translation": "Three are the one translation of the Mahābuddha-name Sutra and three others.",
+        "source": "T55n2157_001:0771b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斯皆特降絲綸。",
+        "translation": "These are all specially descended from the filaments.",
+        "source": "T55n2157_001:0771b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "許編目錄。",
+        "translation": "They are all specially descended silk linen.",
+        "source": "T55n2157_001:0771b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具列如左。",
+        "translation": "They are listed on the left.",
+        "source": "T55n2157_001:0771b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二總集群經錄。",
+        "translation": "Record of the Two General Clusters of Scriptures.",
+        "source": "T55n2157_001:0771b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右從漢至唐所有翻述。",
+        "translation": "These are all the sūtras translated from the Han to the Tang on the right.",
+        "source": "T55n2157_001:0771b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具。",
+        "translation": "It's complete.",
+        "source": "T55n2157_001:0771b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "帝王年代并譯人本事所出教等。",
+        "translation": "The age of the emperors and the teachings that were produced by the translators' skills are listed below.",
+        "source": "T55n2157_001:0771b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以人代先後為倫。",
+        "translation": "They are arranged according to the order of precedence of people.",
+        "source": "T55n2157_001:0771b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不依三藏之次。",
+        "translation": "It doesn't follow the order of the Tripiṭaka.",
+        "source": "T55n2157_001:0771b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兼敘目錄新舊同異。",
+        "translation": "It also describes the similarities and differences between the old and new catalogues.",
+        "source": "T55n2157_001:0771b23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別錄二文下。",
+        "translation": "Under the two separate records, the text is recorded.",
+        "source": "T55n2157_001:0771b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初分乘藏差殊錄。",
+        "translation": "The first is a record of the first part of the vehicle collection, the Cājagṛha.",
+        "source": "T55n2157_001:0771b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右別錄之內典分為七。",
+        "translation": "The right-hand Special Record of the Inner Canon is divided into seven.",
+        "source": "T55n2157_001:0771b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一有譯有本。",
+        "translation": "One has a translation and a source.",
+        "source": "T55n2157_001:0771b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二有譯無本。",
+        "translation": "Two have a translation without a source.",
+        "source": "T55n2157_001:0771b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三文派別行。",
+        "translation": "Three are separate lines of textual organization.",
+        "source": "T55n2157_001:0771b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四刪略繁重。",
+        "translation": "Four are abridged and redundant.",
+        "source": "T55n2157_001:0771b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五拾遺補闕。",
+        "translation": "5. gleaning the missing and filling in the gaps.",
+        "source": "T55n2157_001:0771b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六疑惑再詳。",
+        "translation": "6. further details of doubts and confusions.",
+        "source": "T55n2157_001:0771b29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七偽邪亂正。",
+        "translation": "7. counterfeiting, error, and confusion in regard to the correct.",
+        "source": "T55n2157_001:0771b29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "就七門中。",
+        "translation": "Of the seven approaches, these are the seventh.",
+        "source": "T55n2157_001:0771b29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二乘區別。",
+        "translation": "The two vehicles are distinguished.",
+        "source": "T55n2157_001:0771c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏殊科。",
+        "translation": "The three collections are distinguished.",
+        "source": "T55n2157_001:0771c01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具悉委曲。",
+        "translation": "It's fully detailed.",
+        "source": "T55n2157_001:0771c01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兼明部偶。",
+        "translation": "It also explains the parallels between the three collections.",
+        "source": "T55n2157_001:0771c01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二明賢聖集傳錄。",
+        "translation": "Second, it explains the collection of records of the noble ones.",
+        "source": "T55n2157_001:0771c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右集傳之內有二不同。",
+        "translation": "There are two differences within the right set of biographies.",
+        "source": "T55n2157_001:0771c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一梵本翻譯。",
+        "translation": "One is a translation of a Sanskrit text.",
+        "source": "T55n2157_001:0771c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂集自西方流傳東夏。",
+        "translation": "It means the collection was transmitted from the West to Eastern Xia.",
+        "source": "T55n2157_001:0771c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏碩德翻譯奉行。",
+        "translation": "The Tripiṭaka was translated by great virtues and handed down.",
+        "source": "T55n2157_001:0771c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二此方撰述。",
+        "translation": "The second is a narrative written in this region.",
+        "source": "T55n2157_001:0771c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此土高僧撰成傳記。",
+        "translation": "This refers to the biographies compiled by the eminent monks of this land.",
+        "source": "T55n2157_001:0771c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三寶三藏悉以甄明。",
+        "translation": "The three treasures of the Tripiṭaka are all explained in detail.",
+        "source": "T55n2157_001:0771c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神異感通戒定慧行。",
+        "translation": "They are the miraculous, supernormal, and supernormal powers of morality, meditation, wisdom, and practice.",
+        "source": "T55n2157_001:0771c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "備如文列詳而鏡諸。",
+        "translation": "They are listed in detail in the text and mirrored here.",
+        "source": "T55n2157_001:0771c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一特承恩旨錄有三者",
+        "translation": "The first record of specially acknowledged merits has three parts.",
+        "source": "T55n2157_001:0771c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初華嚴經",
+        "translation": "First Fascicle of the Flower Ornament Sutra",
+        "source": "T55n2157_001:0771c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "崇福寺新譯華嚴經四十卷",
+        "translation": "Forty Fascicles of the New Translation of the Flower Ornament Sutra at Chongfusi",
+        "source": "T55n2157_001:0771c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "左右監門衛將軍知內侍省事馬承倩奏。",
+        "translation": "The general of the left and right guards knew that Ma Chengqian was in charge of the inner sanctum.",
+        "source": "T55n2157_001:0771c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臣得光宅寺寫一切藏經院撿挍寫經。",
+        "translation": "\"I have obtained a copy of the scriptures written at the Guangzhaisi temple's scripture writing institute.",
+        "source": "T55n2157_001:0771c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "僧智通狀稱撿藏經開元目錄。",
+        "translation": "The monk Zhitong said in his statement that he had collected the scriptures from the Kaiyuan catalog.",
+        "source": "T55n2157_001:0771c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上都華嚴寺沙門玄逸撰集釋教目內未入藏經數。",
+        "translation": "The number of scriptures in the catalogue of the Śākyamuni teachings that hadn't yet been entered into the collection was compiled by the monk Xuan Yi of Huayan Temple in Shangdu.",
+        "source": "T55n2157_001:0771c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中書門下　牒。",
+        "translation": "It was compiled by the junior monk of the Zhongshu school.",
+        "source": "T55n2157_001:0771c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右街功德使　牒。",
+        "translation": "The Minister of Merit of the Right Street [was] given this order.",
+        "source": "T55n2157_001:0771c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "奉　勅宣令所司附入目錄牒。",
+        "translation": "\"I am commanded to declare that the division attached to the catalog should enter it.",
+        "source": "T55n2157_001:0771c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至準勅故牒。",
+        "translation": "This is the document that was submitted in response to the above-mentioned command.",
+        "source": "T55n2157_001:0771c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貞元十五年九月八日　牒中書侍郎平章事鄭餘慶。",
+        "translation": "On the eighth day of the ninth month in the fifteenth year of the Zhenyan period, he submitted the document to the secretary-general, Zheng Yeohyeong, and the minister-general, Zheng Yeohyeong.",
+        "source": "T55n2157_001:0771c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "門下侍郎平章事崔損。",
+        "translation": "Cui Hao, Minister of the Under-Secretary, Minister of Pingzhang.",
+        "source": "T55n2157_001:0771c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍右僕射平章事韋(使)。",
+        "translation": "He instructed the right servant-general, PyeongChang, and Wei (the envoy).",
+        "source": "T55n2157_001:0771c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍左僕射平章事劉(使)。",
+        "translation": "He took charge of the left servant-general, Minister of Equalization, Mr. Liu (envoy).",
+        "source": "T55n2157_001:0771c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右僕射平章事賈耽。",
+        "translation": "He took charge of the right servant's emissary, Minister Jia Tan.",
+        "source": "T55n2157_001:0771c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍司徒兼中書令渾(使)。",
+        "translation": "He took charge of the secretary and commander in chief, Hun (envoy).",
+        "source": "T55n2157_001:0771c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍大尉兼中書令王(使)。",
+        "translation": "He took charge of the captain and commander-in-chief, Wang (an envoy).",
+        "source": "T55n2157_001:0771c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "百九十一卷經。",
+        "translation": "There are one hundred and ninety-one scrolls of scriptures.",
+        "source": "T55n2157_001:0771c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當街新譯華嚴經等。",
+        "translation": "The new translation of the Flower Ornament Sutra in the Tang dynasty.",
+        "source": "T55n2157_001:0771c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及三朝先於京城等處翻譯。",
+        "translation": "It was translated at the capital and other places in the three dynasties.",
+        "source": "T55n2157_001:0771c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未入開元目錄經。",
+        "translation": "It was not yet included in the Kaiyuan Catalogue of Scriptures.",
+        "source": "T55n2157_001:0771c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總二百三十二卷(又新編上十卷)四十卷新譯華嚴經等准。",
+        "translation": "There are 232 scrolls in total (and 10 scrolls on the new compilation), 40 scrolls of new translations of the Flower Ornament Sutra, and so forth.",
+        "source": "T55n2157_001:0771c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勅見入目錄。",
+        "translation": "Imaizumi entered it into the catalog.",
+        "source": "T55n2157_001:0772a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次一百九十一卷先翻譯請准華嚴經例入目錄。",
+        "translation": "The next one hundred and ninety-one volumes were previously translated, so please approve the Huayan jing's examples and include them in the catalog.",
+        "source": "T55n2157_001:0772a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又新編上十卷。",
+        "translation": "The first one is a new translation of the Huayan Sutra.",
+        "source": "T55n2157_001:0772a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "玄宗朝三藏無能勝等譯大威力等經五卷。",
+        "translation": "In the reign of the Xuanzong dynasty, the Tripiṭaka of Wu Nansheng and others translated five volumes of the Sutra of Great Might and So forth.",
+        "source": "T55n2157_001:0772a02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大威力烏樞瑟摩明王經三卷。",
+        "translation": "The Sutra of Great Mighty Ushuṣmah, King of Illumination, in three volumes.",
+        "source": "T55n2157_001:0772a03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "穢跡金剛說神通大滿陀羅尼法術靈要門一卷。",
+        "translation": "One volume: The Spiritual Essentials of the Shentong, the Dhāraṇī, and the Dharma Techniques of the Vajra of the Defiled Tracks.",
+        "source": "T55n2157_001:0772a04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "穢跡金剛法禁百變法一卷。",
+        "translation": "One volume of the Dharma-prohibiting One Hundred Transformations of the Vajra with Defiled Tracks.",
+        "source": "T55n2157_001:0772a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已上五卷並北天竺國三藏無能勝譯。",
+        "translation": "The preceding five volumes were translated by the Tripiṭaka of Northern India, which is unsurpassed.",
+        "source": "T55n2157_001:0772a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "普遍智藏般若波羅蜜多心經一卷",
+        "translation": "One volume of the Prajñāpāramitā Heart Sutra of the Universal Treasury of Wisdom",
+        "source": "T55n2157_001:0772a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "東天竺國三藏沙門法月譯",
+        "translation": "Translated by the Tripiṭaka Master Fayue of Eastern India",
+        "source": "T55n2157_001:0772a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛頂瑜伽修習毘盧遮那三麼地法一卷千手千眼觀世音菩薩大身呪本一卷千手千眼觀自在菩薩廣大圓滿無礙大悲心陀羅尼呪本一卷不動使者陀羅尼祕密法一卷千臂千鉢曼殊室利經十卷(保大中拾遺編上)已上十四卷南天竺國三藏沙門金剛智譯。",
+        "translation": "金剛頂瑜伽修習毘盧遮那三麼地法一卷千手千眼觀世音菩薩大身呪本一卷千手千眼觀自在菩薩廣大圓滿無礙大悲心陀羅尼呪本一卷不動使者陀羅尼祕密法一卷千臂千鉢曼殊室利經十卷(保大中拾遺編上)已上十四卷南天竺國三藏沙門金剛智譯。",
+        "source": "T55n2157_001:0772a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "肅宗代宗朝三藏大廣智不空譯。",
+        "translation": "Translated by Bhūkū, the Tripiṭaka of the Daizō Dynasty of the Sukjong School.",
+        "source": "T55n2157_001:0772a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛大教王等經一百四十二卷",
+        "translation": "Jingang dajiaowang dengza jing 142 rolls",
+        "source": "T55n2157_001:0772a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛頂瑜伽真實大教王經三卷",
+        "translation": "Three Fascicle Sutra of the King of the True Great Teaching of the Vajraśekhara Yoga",
+        "source": "T55n2157_001:0772a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛頂瑜伽般若理趣經一卷",
+        "translation": "Vajraśekhara Yoga Prajñāpāramitā Sutra in One Volume",
+        "source": "T55n2157_001:0772a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自在菩薩授記經一卷",
+        "translation": "Sutra of the Granting of Indication by the Bodhisattva of Spontaneous Contemplation (1 roll)",
+        "source": "T55n2157_001:0772a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "瑜伽念珠經一卷",
+        "translation": "Yogâcārabhūmi-sūtra in one volume",
+        "source": "T55n2157_001:0772a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "奇特佛頂經三卷",
+        "translation": "Three Fascicle Sutra of the Peculiar Buddha-Corona",
+        "source": "T55n2157_001:0772a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自在菩薩最勝明王心經二卷",
+        "translation": "Guanzizai pusa zuisheng mingwang xin jing 2 rolls",
+        "source": "T55n2157_001:0772a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛頂瑜伽文殊師利菩薩經二卷",
+        "translation": "Mañjuśrī Bodhisattva's Vajraśekhara Yoga Sutra, 2 volumes",
+        "source": "T55n2157_001:0772a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿唎多羅阿魯力經一卷",
+        "translation": "One Fascicle of the Āryatāra-ārūmi Sutra",
+        "source": "T55n2157_001:0772a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "普賢行願讚一卷",
+        "translation": "One Fascicle of the Hymn to the Practicing Vows of Samantabhadra",
+        "source": "T55n2157_001:0772a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地藏菩薩問法身讚一卷",
+        "translation": "Kṣitigarbha Bodhisattva's Inquiry into the Dharma-body Hymn in One Volume",
+        "source": "T55n2157_001:0772a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出生無邊門經一卷",
+        "translation": "Sutra of the [Birth of the] Infinite Portal One Fascicle",
+        "source": "T55n2157_001:0772a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大吉祥天女經一卷",
+        "translation": "One Fascicle of the Sutra of the Great Auspicious Goddess",
+        "source": "T55n2157_001:0772b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "底哩三昧耶經一卷",
+        "translation": "Dili sanmeiye jing one roll",
+        "source": "T55n2157_001:0772b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一面觀自在菩薩經三卷",
+        "translation": "Sutra of the Bodhisattva of Spontaneous Contemplation on the Eleven Facets, 3 volumes",
+        "source": "T55n2157_001:0772b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吉祥天女十二名號經一卷",
+        "translation": "Sutra of the Twelve Names of the Auspicious Goddess in One Volume",
+        "source": "T55n2157_001:0772b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛頂瑜伽十八會指歸一卷",
+        "translation": "Synopsis of the Eighteen Assemblies in the Vajraśekhara Yoga, One Volume",
+        "source": "T55n2157_001:0772b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛頂瑜伽三十七尊分別聖位法門一卷菩提場所說一字頂輪王經五卷寶篋經一卷金剛壽命陀羅尼經一卷大孔雀明王經三卷大雲請雨經二卷雨寶陀羅尼經一卷蘘麌利童女經一卷稻[卄/幹]喻經一卷大寶廣博樓閣經三卷菩提場莊嚴經一卷除一切疾病陀羅尼經一卷能淨一切眼陀羅尼經一卷施焰口餓鬼陀羅尼經一卷三十五佛名經一卷八大菩薩曼茶羅經一卷葉衣觀自在菩薩陀羅尼經一卷訶利帝母經一卷毘沙門天王經一卷觀自在菩薩說普賢陀羅尼經一卷文殊問字母品經一卷金剛頂蓮華部心念誦法一卷金剛頂瑜伽千手千眼觀自在念誦法二卷無量壽如來念誦儀軌一卷阿閦如來念誦法一卷佛頂尊勝念誦法一卷金剛頂勝初瑜伽普賢菩薩念誦法一卷金剛王菩薩祕密念誦法一卷普賢金剛薩埵念誦法一卷金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌一卷金剛壽命念誦法一卷一字頂輪王瑜伽經一卷一字佛頂輪王念誦儀軌一卷仁王般若念誦法一卷如意輪念誦法一卷大虛空藏菩薩念誦法一卷瑜伽蓮華部念誦法一卷聖觀自在菩薩心真言觀行儀軌一卷觀自在多羅瑜伽誦念法一卷甘露軍吒利瑜伽念誦法一卷花嚴入法界四十二字觀門一卷文殊讚法身禮一卷受菩提心戒儀一卷金剛頂瑜伽三十七尊禮一卷般若理趣釋二卷大曼荼羅十七尊釋一卷金剛頂瑜伽護摩儀一卷都部陀羅尼目一卷大乘緣生論一卷七俱胝佛母陀羅尼經一卷大虛空藏菩薩所問經八卷仁王經二卷密嚴經三卷仁王念誦儀軌一卷大聖文殊師利菩薩佛剎功德莊嚴經一部三卷成就妙法蓮華經王瑜伽觀智儀軌一卷金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀軌一卷大樂金剛薩埵修行成就儀軌一卷大藥叉女歡喜母并愛子成就法一卷普遍光明大隨求陀羅尼經二卷金剛頂超勝三界經說文殊五字真言勝相一卷五字陀羅尼頌一卷聖閻曼德迦威怒王立成大神驗念誦法一卷文殊師利菩薩根本大教王金翅鳥王品一卷不空羂索毘盧遮那佛灌頂光真言一卷聖迦抳忿怒金剛童子菩薩成就儀軌經三卷大威怒烏蒭澁摩成就儀軌一卷佛說摩利支天經一卷金剛頂經一字頂輪王成佛儀軌一卷佛為優填王說王法政論經一卷大方廣如來藏經一卷佛說壹髻尊陀羅尼經一卷速疾立驗摩醯首羅天說迦婁羅阿尾奢法一卷太日經略攝念誦隨行法一卷大毘盧遮那成佛神變加持經略示七支念誦隨行法一卷木槵經一卷金剛頂經瑜伽文殊師利菩薩儀軌供養法一卷曼殊室唎童子菩薩五字瑜伽法一卷金剛頂降三世大儀軌一卷文殊師利菩薩及諸仙所說吉凶時日善惡宿曜經二卷金剛頂經觀自在王如來修法一卷金剛頂瑜伽中發阿耨多羅三藐三菩提心論一卷瑜伽金剛頂經釋字母品一卷修習般若波羅蜜菩薩觀行念誦儀軌一卷仁王般若陀羅尼釋一卷成就大悲觀自在蓮華部瑜伽念誦法門一卷大孔雀明王畫像壇場儀軌一卷金剛手光明灌頂經一卷末利支提婆花鬘經一卷大聖天歡喜雙身毘那夜迦法一卷觀自在菩薩如意輪瑜伽一卷金輪王佛頂輪念誦法一卷金剛頂瑜伽降三世成就極深密門一卷金剛頂瑜伽他化自在天理趣會普賢修行念誦儀軌一卷(此一卷元進數中無欠者)已上並三藏沙門大廣智不空譯。",
+        "translation": "金剛頂瑜伽三十七尊分別聖位法門一卷菩提場所說一字頂輪王經五卷寶篋經一卷金剛壽命陀羅尼經一卷大孔雀明王經三卷大雲請雨經二卷雨寶陀羅尼經一卷蘘麌利童女經一卷稻[卄/幹]喻經一卷大寶廣博樓閣經三卷菩提場莊嚴經一卷除一切疾病陀羅尼經一卷能淨一切眼陀羅尼經一卷施焰口餓鬼陀羅尼經一卷三十五佛名經一卷八大菩薩曼茶羅經一卷葉衣觀自在菩薩陀羅尼經一卷訶利帝母經一卷毘沙門天王經一卷觀自在菩薩說普賢陀羅尼經一卷文殊問字母品經一卷金剛頂蓮華部心念誦法一卷金剛頂瑜伽千手千眼觀自在念誦法二卷無量壽如來念誦儀軌一卷阿閦如來念誦法一卷佛頂尊勝念誦法一卷金剛頂勝初瑜伽普賢菩薩念誦法一卷金剛王菩薩祕密念誦法一卷普賢金剛薩埵念誦法一卷金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌一卷金剛壽命念誦法一卷一字頂輪王瑜伽經一卷一字佛頂輪王念誦儀軌一卷仁王般若念誦法一卷如意輪念誦法一卷大虛空藏菩薩念誦法一卷瑜伽蓮華部念誦法一卷聖觀自在菩薩心真言觀行儀軌一卷觀自在多羅瑜伽誦念法一卷甘露軍吒利瑜伽念誦法一卷花嚴入法界四十二字觀門一卷文殊讚法身禮一卷受菩提心戒儀一卷金剛頂瑜伽三十七尊禮一卷般若理趣釋二卷大曼荼羅十七尊釋一卷金剛頂瑜伽護摩儀一卷都部陀羅尼目一卷大乘緣生論一卷七俱胝佛母陀羅尼經一卷大虛空藏菩薩所問經八卷仁王經二卷密嚴經三卷仁王念誦儀軌一卷大聖文殊師利菩薩佛剎功德莊嚴經一部三卷成就妙法蓮華經王瑜伽觀智儀軌一卷金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀軌一卷大樂金剛薩埵修行成就儀軌一卷大藥叉女歡喜母并愛子成就法一卷普遍光明大隨求陀羅尼經二卷金剛頂超勝三界經說文殊五字真言勝相一卷五字陀羅尼頌一卷聖閻曼德迦威怒王立成大神驗念誦法一卷文殊師利菩薩根本大教王金翅鳥王品一卷不空羂索毘盧遮那佛灌頂光真言一卷聖迦抳忿怒金剛童子菩薩成就儀軌經三卷大威怒烏蒭澁摩成就儀軌一卷佛說摩利支天經一卷金剛頂經一字頂輪王成佛儀軌一卷佛為優填王說王法政論經一卷大方廣如來藏經一卷佛說壹髻尊陀羅尼經一卷速疾立驗摩醯首羅天說迦婁羅阿尾奢法一卷太日經略攝念誦隨行法一卷大毘盧遮那成佛神變加持經略示七支念誦隨行法一卷木槵經一卷金剛頂經瑜伽文殊師利菩薩儀軌供養法一卷曼殊室唎童子菩薩五字瑜伽法一卷金剛頂降三世大儀軌一卷文殊師利菩薩及諸仙所說吉凶時日善惡宿曜經二卷金剛頂經觀自在王如來修法一卷金剛頂瑜伽中發阿耨多羅三藐三菩提心論一卷瑜伽金剛頂經釋字母品一卷修習般若波羅蜜菩薩觀行念誦儀軌一卷仁王般若陀羅尼釋一卷成就大悲觀自在蓮華部瑜伽念誦法門一卷大孔雀明王畫像壇場儀軌一卷金剛手光明灌頂經一卷末利支提婆花鬘經一卷大聖天歡喜雙身毘那夜迦法一卷觀自在菩薩如意輪瑜伽一卷金輪王佛頂輪念誦法一卷金剛頂瑜伽降三世成就極深密門一卷金剛頂瑜伽他化自在天理趣會普賢修行念誦儀軌一卷(此一卷元進數中無欠者)已上並三藏沙門大廣智不空譯。",
+        "source": "T55n2157_001:0772b06_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "今朝罽賓國三藏般若等譯大乘理趣新花嚴等經七十卷。",
+        "translation": "In the present day, the Tripiṭaka of Kāśmīra and others have translated seventy volumes of the Mahāyāna Ritual for the New Translation of the Flower Ornament Sutra.",
+        "source": "T55n2157_001:0773b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "守護國界主陀羅尼經十卷",
+        "translation": "Shouhu guojiezhu tuoluoni jing shishi ten rolls",
+        "source": "T55n2157_001:0773b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本生心地觀經八卷",
+        "translation": "Sutra of Contemplation of the Mind Ground in the Buddha's Life (8 volumes)",
+        "source": "T55n2157_001:0773b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大乘理趣六波羅蜜多經一部十卷",
+        "translation": "Six Perfections of the Mahāyāna Path, One Ten-fascicle Sutra",
+        "source": "T55n2157_001:0773b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大花嚴長者問佛那羅延力經一卷",
+        "translation": "Sutra of the Great Flower Ornament Elder's Inquiry into the Power of the Buddha's Nārāyaṇa in One Volume",
+        "source": "T55n2157_001:0773c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "般若波羅蜜多心經一卷",
+        "translation": "One Fascicle of the Heart Sutra",
+        "source": "T55n2157_001:0773c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "新譯花嚴經一部四十卷",
+        "translation": "One Forty-fascicle New Translation of the Flower Ornament Sutra",
+        "source": "T55n2157_001:0773c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已上六部共七十卷並般若三藏奉詔譯。",
+        "translation": "The above six sūtras totaled seventy volumes and were translated by the imperial order of the Tripiṭaka of Prajñā.",
+        "source": "T55n2157_001:0773c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十力經一卷(已上一經龜茲國三藏勿提犀魚唐言蓮華精進於安西譯)迴向輪經一卷十地經九卷已上二經共十卷。",
+        "translation": "The Sutra of the Ten Powers in One Volume (the preceding one was translated at Ansi by the Tripiṭaka of Guzi, Betishyo, and the Tang language Lotus Sajin), the Sutra of the Revolving Wheel in One Volume, and the Sutra of the Ten Stages in Nine Volumes (the preceding two sūtras totaling ten volumes).",
+        "source": "T55n2157_001:0773c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "並于闐三藏尸羅達摩於北庭譯。",
+        "translation": "It was also translated by the Yutan Tripiṭaka Śīladharma in North India.",
+        "source": "T55n2157_001:0773c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右句當右街功德所都句當右街諸寺觀釋道二教事。",
+        "translation": "The Right Translation of the Sutra on the Right Street, the Merit Seat of the Right Street, and the Right Translation of the Sutra on the Right Street, the Temples and Monasteries Observe the Two Teachings of Buddhism and Buddhism.",
+        "source": "T55n2157_001:0773c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "千福寺上座增靈邃進狀。",
+        "translation": "The superior seat of Qianfusi Zengling profoundly advanced the scriptures.",
+        "source": "T55n2157_001:0773c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前件經謹具分析如前。",
+        "translation": "The preceding sūtras are analyzed as before.",
+        "source": "T55n2157_001:0773c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其新譯花嚴經狀。",
+        "translation": "His new translation of the Flower Ornament Sutra is as described above.",
+        "source": "T55n2157_001:0773c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "准今年九月八日勅。",
+        "translation": "It's according to a command issued on the eighth day of the ninth month of this year.",
+        "source": "T55n2157_001:0773c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入開元目錄。",
+        "translation": "It was entered into the Kaiyuan Catalogue.",
+        "source": "T55n2157_001:0773c12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其先翻譯及安西所進經得翻譯。",
+        "translation": "His previous translations and the scriptures advanced by Anxi were translated.",
+        "source": "T55n2157_001:0773c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臨壇大德圓照等狀上件經未入目錄。",
+        "translation": "The sūtras on the platform of the great virtuous Yuanzhao and other forms were not included in the catalog.",
+        "source": "T55n2157_001:0773c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "伏緣是三朝翻譯時乞　聞奏。",
+        "translation": "Fuyuan requested to hear and present it when it was translated during the three dynasties.",
+        "source": "T55n2157_001:0773c14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "請同新花嚴經例入開元目錄。",
+        "translation": "Please follow the example of the New Flower Ornament Sutra and include it in the Kaiyuan Catalogue.",
+        "source": "T55n2157_001:0773c15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則天下諸寺依目傳寫皆入一切經藏。",
+        "translation": "Then, all the temples in the world would be entered into the catalog of all scriptures according to the transmission of the title.",
+        "source": "T55n2157_001:0773c15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "庶免失墜金言廣敷。",
+        "translation": "That way, they won't lose sight of the extensive publication of the golden texts.",
+        "source": "T55n2157_001:0773c16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仍請改舊目為貞元新定釋教目錄。",
+        "translation": "Please also change the old catalogue to the Zhenyan Revised List of the Buddhist Canon.",
+        "source": "T55n2157_001:0773c17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈唯事超昔帝。",
+        "translation": "Wouldn't this only surpass the affairs of past emperors?",
+        "source": "T55n2157_001:0773c17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "抑亦道冠真宗。",
+        "translation": "Is it not also the case that the Way crowns the true school?",
+        "source": "T55n2157_001:0773c18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "介福無窮上資皇祚。",
+        "translation": "His merit is boundless, and it will support the emperor's throne.",
+        "source": "T55n2157_001:0773c18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中書門下　牒。",
+        "translation": "The document from the junior monk's office says.",
+        "source": "T55n2157_001:0773c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "僧靈邃。",
+        "translation": "Sen Lingsiu.",
+        "source": "T55n2157_001:0773c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "牒。",
+        "translation": "This is a direct order.",
+        "source": "T55n2157_001:0773c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "奉　勅宜依。",
+        "translation": "\"I've been instructed to follow this imperial order.",
+        "source": "T55n2157_001:0773c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "牒至准勅故牒。",
+        "translation": "It's up to him to approve this decision.",
+        "source": "T55n2157_001:0773c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貞元十五年十月二十三日牒。",
+        "translation": "It was given on the 23rd day of the 10th month in the 15th year of the Zhenyan period.",
+        "source": "T55n2157_001:0773c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中書侍郎平章事鄭餘慶。",
+        "translation": "Zheng Yeohyeong, a junior minister and a minister of equal standing.",
+        "source": "T55n2157_001:0773c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "門下侍郎平章事崔損。",
+        "translation": "Cui Hui, Minister of the Under-Secretary, Minister of Pingzhang.",
+        "source": "T55n2157_001:0773c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍右僕射平章事韋使。",
+        "translation": "He was entrusted with the task of inspecting the right servant's post as a minister in peinshang, and he was entrusted with the task of inspecting the left servant's post as a minister in peinshang.",
+        "source": "T55n2157_001:0773c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍左僕射平章事劉使。",
+        "translation": "Minister Liu of the pingzhang of the left servant archer, and Minister Jia Tan of the pingzhang of the right servant archer.",
+        "source": "T55n2157_001:0773c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右僕射平章事賈耽。",
+        "translation": "He took charge of the right servant's eunuch, Minister Jia Tan.",
+        "source": "T55n2157_001:0773c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍司徒兼中書令渾使。",
+        "translation": "He took charge of the minister of the superintendent of schools and the commander in chief, Hun.",
+        "source": "T55n2157_001:0773c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍太尉兼中書令王使。",
+        "translation": "He took charge of the minister of the crown prince and commander in chief, Wang.",
+        "source": "T55n2157_001:0773c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勅右街功德使牒都句當大德靈邃三朝先翻譯未入目錄經一百七十三卷。",
+        "translation": "Imaizi Yijie gongde messenger udumbara sentence when Dade Lingsui of the three dynasties first translated the catalog of scriptures not yet entered in one hundred and seventy-three volumes.",
+        "source": "T55n2157_001:0774a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "牒奉進止。",
+        "translation": "I instructed him to present it to the government.",
+        "source": "T55n2157_001:0774a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前件經宜令都句當大德靈邃與西明寺僧圓照。",
+        "translation": "It's appropriate to have the former sūtra ordered to be translated by Dujutan Dade Lingsui and Ximing Temple monk Yuanzhao.",
+        "source": "T55n2157_001:0774a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同取前件經。",
+        "translation": "They should also take the preceding sūtra.",
+        "source": "T55n2157_001:0774a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "送光宅寺。",
+        "translation": "He sent it to Guangzhai Temple.",
+        "source": "T55n2157_001:0774a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令寫入藏經者。",
+        "translation": "He asked them to write it into the sutra collection.",
+        "source": "T55n2157_001:0774a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "准勅牒都句當大德靈邃者故牒。",
+        "translation": "According to Imaizi, this is the reason he instructed Dujutan Dade Lingxu to write this sūtra.",
+        "source": "T55n2157_001:0774a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貞元十五年十月二十三日牒使右監門衛將軍第五守亮。",
+        "translation": "On the 23rd day of the 10th month in the 15th year of the Zhenyan period, he sent an envoy to the general of the Right Supervisory Gate Guard, the fifth Shouliang.",
+        "source": "T55n2157_001:0774a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三大佛名經寺",
+        "translation": "Saṃdharmakīrti-saṃbhava-nirdeśa(sūtra)",
+        "source": "T55n2157_001:0774a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大佛名經一部十六卷(或十八卷)",
+        "translation": "One 16-volume (or 18-volume) edition of the Mahābuddha-mātṛkā-sūtra",
+        "source": "T55n2157_001:0774a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法琳別傳一部三卷",
+        "translation": "A Three-Volume Commentary on the Separate Biographies of Falin",
+        "source": "T55n2157_001:0774a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "續開元釋教錄三卷",
+        "translation": "Xu Kaiyuan xinding jiaoluo 3 vols",
+        "source": "T55n2157_001:0774a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "左右監門衛將軍知內侍省事馬(承倩)奏前件經目等未入藏目。",
+        "translation": "The generals of the left and right guards knew that the minister of internal affairs, Ma (Chengqian), had presented the catalogue of scriptures and other items that hadn't yet been entered into the catalogue.",
+        "source": "T55n2157_001:0774a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中書門下　牒右街功德使。",
+        "translation": "He instructed the director of the Right Street School of Merit.",
+        "source": "T55n2157_001:0774a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "牒奉　勅宜令所司附入目錄。",
+        "translation": "Ultimately, this was a direct order from Ima to have the directorate include it in the catalog.",
+        "source": "T55n2157_001:0774a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "牒至准勅故牒。",
+        "translation": "Until then, it was approved by Ima's order.",
+        "source": "T55n2157_001:0774a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貞元十五年十月二十三日牒。",
+        "translation": "It was given on the 23rd day of the 10th month in the 15th year of the reign of King Zhenyan.",
+        "source": "T55n2157_001:0774a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中書侍郎平章事鄭餘慶。",
+        "translation": "Zhongshu shilang pingzhang shi Zheng Yike.",
+        "source": "T55n2157_001:0774a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "門下侍郎平章事崔損。",
+        "translation": "Cui Hui, Minister of the Under-Secretary, Minister of Pingzhang.",
+        "source": "T55n2157_001:0774a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍右僕射平章事韋使。",
+        "translation": "He was entrusted with the task of inspecting the right servant's post as a minister in peals, and he was entrusted with the task of inspecting the right servant's post as a minister in peals, and he was entrusted with the task of inspecting the left servant's post as a minister in peals.",
+        "source": "T55n2157_001:0774a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿挍左僕射平章事劉使。",
+        "translation": "Minister Liu of the pingzhang of the left servant archer, and Minister Jia Tan of the pingzhang of the right servant archer.",
+        "source": "T55n2157_001:0774a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右僕射平章事賈耽。",
+        "translation": "He was assisted by Minister Jia Tan, a minister of the right servant's archery, and by Minister Liu, a minister of the left servant's archery.",
+        "source": "T55n2157_001:0774a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿校司徒兼中書令渾使。",
+        "translation": "He inspectors the minister of the secretary and commander in chief, Hun.",
+        "source": "T55n2157_001:0774a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撿校太尉兼中書令王使。",
+        "translation": "The procurator, the lieutenant, and the commander-in-chief, the envoy of Wang.",
+        "source": "T55n2157_001:0774a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二總集群經錄中分為一十九卷。",
+        "translation": "The second general collection of sūtras is divided into nineteen fascicles.",
+        "source": "T55n2157_001:0774a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起第一盡十九(此粗顯綱條若一一具明在十九卷內)。",
+        "translation": "It begins with the first and ends with the nineteen (this rough outline of the scriptures is explained in each of the nineteen fascicles).",
+        "source": "T55n2157_001:0774a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一卷(後漢明帝初譯經至四不可得經為第一卷所謂漢魏二代緇素譯人所出經戒羯磨等及新舊失譯并附出譯人別傳)第二卷(後漢之餘從藥王藥上菩薩觀經至曹魏末大般涅槃經二卷)第三卷(吳晉二代緇素譯人所出經戒等并新舊失譯諸經同前附出譯人別傳初從吳孫氏至西晉代更出阿闍世王經二卷)第四卷(西晉之餘從彌勒成佛經至為西晉失源云)第五卷(東晉符秦二代緇素譯人所出律論等并新舊失譯別傳同前)第六卷(姚秦西秦前涼北涼四代緇素譯人所出經律論并新舊集失譯經等)第七卷(宋齊二代緇素譯人所出經律論等并新集失譯經等)第八卷(宋朝之餘從觀世音菩薩受記至蕭齊之末)第九卷(梁元魏高齊三代緇素譯人所出經律論等并新集失譯經律集等)第十卷(周陳隋三代緇素譯人所出經律論及傳集錄等)第十一卷(至十二十三十四十五十六十七卷初從大唐李氏都長安至頻又固請乃蒙降許)第十二卷(皇朝緇素譯人所出經律論及傅錄等從帝曰至佛陀波利竟)第十三卷(從大方廣佛華嚴經不思議佛境界分至三藏義淨竟)第十四卷(從大寶積經一百二十卷至幸諸來哲無貽誚焉)第十五卷(從玄宗肅宗代宗三朝所譯經至批不空三藏謝經序賀慶雲表竟)第十六卷(從六軍使賀慶雲表至不空三藏建塔立碑竟)第十七卷(從今朝譯大乘理趣六波羅蜜多經至安四北庭進十地等經竟乃至都數帙同一無欠少)第十八卷(及第十九二卷敘古舊諸家目錄部帙多小及詳顯異)第十九卷(從大唐開元釋教錄至貞元新定釋教目錄畢)別錄二文下之中初別分乘藏錄中分為一十一卷。",
+        "translation": "第一卷(後漢明帝初譯經至四不可得經為第一卷所謂漢魏二代緇素譯人所出經戒羯磨等及新舊失譯并附出譯人別傳)第二卷(後漢之餘從藥王藥上菩薩觀經至曹魏末大般涅槃經二卷)第三卷(吳晉二代緇素譯人所出經戒等并新舊失譯諸經同前附出譯人別傳初從吳孫氏至西晉代更出阿闍世王經二卷)第四卷(西晉之餘從彌勒成佛經至為西晉失源云)第五卷(東晉符秦二代緇素譯人所出律論等并新舊失譯別傳同前)第六卷(姚秦西秦前涼北涼四代緇素譯人所出經律論并新舊集失譯經等)第七卷(宋齊二代緇素譯人所出經律論等并新集失譯經等)第八卷(宋朝之餘從觀世音菩薩受記至蕭齊之末)第九卷(梁元魏高齊三代緇素譯人所出經律論等并新集失譯經律集等)第十卷(周陳隋三代緇素譯人所出經律論及傳集錄等)第十一卷(至十二十三十四十五十六十七卷初從大唐李氏都長安至頻又固請乃蒙降許)第十二卷(皇朝緇素譯人所出經律論及傅錄等從帝曰至佛陀波利竟)第十三卷(從大方廣佛華嚴經不思議佛境界分至三藏義淨竟)第十四卷(從大寶積經一百二十卷至幸諸來哲無貽誚焉)第十五卷(從玄宗肅宗代宗三朝所譯經至批不空三藏謝經序賀慶雲表竟)第十六卷(從六軍使賀慶雲表至不空三藏建塔立碑竟)第十七卷(從今朝譯大乘理趣六波羅蜜多經至安四北庭進十地等經竟乃至都數帙同一無欠少)第十八卷(及第十九二卷敘古舊諸家目錄部帙多小及詳顯異)第十九卷(從大唐開元釋教錄至貞元新定釋教目錄畢)別錄二文下之中初別分乘藏錄中分為一十一卷。",
+        "source": "T55n2157_001:0774a27_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "起第二十盡第三十(此粗顯綱條若一一具述在別錄中十二卷內)。",
+        "translation": "Starting with the twentieth and ending with the thirtieth (this coarse outline is described one by one in the twelve volumes of the special records).",
+        "source": "T55n2157_001:0774b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二十卷(從別分藏下至寶星陀羅尼經)第二十一卷(從華嚴部至七俱胝佛母陀羅尼經一卷竟)第二十二卷(從觀自在菩薩隨心呪經至大乘論)第二十三卷(從有譯有本聲聞三藏賢聖集傳畢)第二十四卷(從別錄中有譯無本錄至大乘經律論畢)第二十五卷(別錄中有譯無本錄小乘闕本經正律論賢聖集傳畢)第二十六卷(別錄中支派別行錄別生經律論傳等)第二十七卷(刪略繁重別生同本異經等刪除目錄補闕拾遺舊譯大小經律論大周入藏中遺漏不上目錄及新譯大小乘經律論集傳等新編入藏目錄)第二十八卷(疑惑再詳目錄偽妄亂真新編偽經及群經錄中偽經并諸家集鈔等目錄并准勅除附正錄)第二十九卷(大乘經律論入藏目錄兼出異名及用紙多少等)第三十卷(小乘經律論賢聖集傳入藏目錄卷末兼出刪除不入藏經等目錄)二總集群經錄上之一後漢劉氏都洛陽從明帝永平十年丁卯。",
+        "translation": "第二十卷(從別分藏下至寶星陀羅尼經)第二十一卷(從華嚴部至七俱胝佛母陀羅尼經一卷竟)第二十二卷(從觀自在菩薩隨心呪經至大乘論)第二十三卷(從有譯有本聲聞三藏賢聖集傳畢)第二十四卷(從別錄中有譯無本錄至大乘經律論畢)第二十五卷(別錄中有譯無本錄小乘闕本經正律論賢聖集傳畢)第二十六卷(別錄中支派別行錄別生經律論傳等)第二十七卷(刪略繁重別生同本異經等刪除目錄補闕拾遺舊譯大小經律論大周入藏中遺漏不上目錄及新譯大小乘經律論集傳等新編入藏目錄)第二十八卷(疑惑再詳目錄偽妄亂真新編偽經及群經錄中偽經并諸家集鈔等目錄并准勅除附正錄)第二十九卷(大乘經律論入藏目錄兼出異名及用紙多少等)第三十卷(小乘經律論賢聖集傳入藏目錄卷末兼出刪除不入藏經等目錄)二總集群經錄上之一後漢劉氏都洛陽從明帝永平十年丁卯。",
+        "source": "T55n2157_001:0774b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至獻帝延康元年庚子。",
+        "translation": "It lasted from Dingmao in the tenth year of Emperor Ming's reign to Gengzi in the first year of Emperor Xian's reign.",
+        "source": "T55n2157_001:0774c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡十一帝一百五十四年。",
+        "translation": "There were one hundred and fifty-four years between the eleven emperors.",
+        "source": "T55n2157_001:0774c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緇素一十二人。",
+        "translation": "There were twelve black and white monks.",
+        "source": "T55n2157_001:0774c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所出經律論并新舊集失譯諸經。",
+        "translation": "The sūtras, vinaya, treatises, and lost translations of old and new collections were produced.",
+        "source": "T55n2157_001:0774c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總二百九十二部三百九十五卷(於中九十七部一百三十一卷見在一百九十五部二百六十四卷闕本)以為後漢經錄云於中直云帝者為直兼斥名者是偽。",
+        "translation": "The total is two hundred and ninety-two parts and three hundred and ninety-five volumes (of which ninety-seven parts and one hundred and thirty-one volumes are found in the one hundred and ninety-five parts and two hundred and sixty-four volumes of the missing text).",
+        "source": "T55n2157_001:0774c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "年代甲子依唐司隷甄鸞國子博士王道珪二家年曆參定。",
+        "translation": "It was based on the calendars of the two Tang secretaries, Yanlun, Dr. Wang Daogui, and Guozi.",
+        "source": "T55n2157_001:0774c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後漢沙門迦葉摩騰一部一卷經",
+        "translation": "A One-fascicle Sutra of the Latter Han Śrāmaṇer Kāśyapa Mātaṅga",
+        "source": "T55n2157_001:0774c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙門竺法蘭四部一十五卷經",
+        "translation": "Śrīmālā Chu Falan's Four Divisions and Fifteen Fascicle Sutra",
+        "source": "T55n2157_001:0774c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙門支婁迦讖三十三部六十七卷經集沙門安世高九十五部一百一十五卷經律集沙門竺佛朝二部三卷經優婆塞安玄二部三卷經集沙門支曜十一部一十一卷經集沙門康巨一部一卷經沙門嚴佛調五部八卷經沙門康孟詳六部九卷經律沙門竺大力一部二卷經沙門曇果一部二卷經新舊諸失譯經一百四十一部一百五十八卷。",
+        "translation": "Sutra Collection Śrāmaṇerī Cilukakṣema in 33 parts and 67 volumes Sutra Collection Śrāmaṇerī Anshigao in 95 parts and 115 volumes Sutra Collection Śrāmaṇerī Zhufochao in 2 parts and 3 volumes Sutra Collection Upāsaka Anxuan in 2 parts and 3 volumes Sutra Collection Śrāmaṇerī Cilukakṣema in 11 parts and 11 volumes Sutra Collection Śrāmaṇerī Kanggi in 1 part and 1 volume Sutra Collection Śrāmaṇerī Yanfotiao in 5 parts and 8 volumes Sutra Collection Śrāmaṇerī Kangmengpen in 6 parts and 9 volumes Sutra Collection Śrāmaṇerī Zhu Dali in 1 part and 2 volumes Sutra Collection Śrāmaṇerī Tango in 1 part and 2 volumes Sutra Collection Śrāmaṇerī Shōtoku in 140 parts and 158 volumes.",
+        "source": "T55n2157_001:0774c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五十九部七十六卷舊集。",
+        "translation": "There are fifty-nine parts and seventy-six volumes of the old collection.",
+        "source": "T55n2157_001:0775a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八十二部八十二卷新附。",
+        "translation": "The eighty-two parts and eighty-two volumes of the new collection.",
+        "source": "T55n2157_001:0775a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四十二章經一卷(永平十年丁卯於白馬寺與法蘭共譯初出舊錄云孝明皇帝四十二章)右一部一卷其本見在。",
+        "translation": "Forty-two chapters in one volume (translated with Falan at Baimasi in Dingmao in the tenth year of Eihei's reign, the first to appear in the old records as Emperor Xiaoming's forty-two chapters), one volume on the right, the text of which appears here.",
+        "source": "T55n2157_001:0775a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙門迦葉摩騰。",
+        "translation": "Śrīmālā Kāśyapa Mātaṅga.",
+        "source": "T55n2157_001:0775a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或云竺葉摩騰。",
+        "translation": "It's also called Zhu Ye Masteng.",
+        "source": "T55n2157_001:0775a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦云攝摩騰。",
+        "translation": "Also called Śākyamuni Mātaṅga.",
+        "source": "T55n2157_001:0775a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "群錄互存未詳孰是。",
+        "translation": "It's not clear which one is the one that exists in all the records.",
+        "source": "T55n2157_001:0775a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先來不譯所以備彰。",
+        "translation": "It was not translated in the past, so it's clear.",
+        "source": "T55n2157_001:0775a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中印度人。",
+        "translation": "They're from Central India.",
+        "source": "T55n2157_001:0775a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "婆羅門種。",
+        "translation": "He was of the Brāhmaṇa family.",
+        "source": "T55n2157_001:0775a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幼而聰敏。",
+        "translation": "He was young and intelligent.",
+        "source": "T55n2157_001:0775a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "博學多聞。",
+        "translation": "He was well-versed and well-versed in learning.",
+        "source": "T55n2157_001:0775a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "思力精拔。",
+        "translation": "His powers of thought were acute.",
+        "source": "T55n2157_001:0775a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "特明經律。",
+        "translation": "He was especially well-versed in the scriptures and vinaya.",
+        "source": "T55n2157_001:0775a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗遊西印度有一小國。",
+        "translation": "He traveled to a small country in Western India.",
+        "source": "T55n2157_001:0775a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "請騰講金光明經。",
+        "translation": "He asked Teng to lecture on the Sutra of Golden Light.",
+        "source": "T55n2157_001:0775a16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俄而隣國興師而來。",
+        "translation": "Then, a neighboring country raised an army and came.",
+        "source": "T55n2157_001:0775a17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既將踐境輒有事礙兵不能進。",
+        "translation": "As soon as they were about to cross the border, there was an obstruction that prevented the troops from advancing.",
+        "source": "T55n2157_001:0775a17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼國兵眾疑有異術密遣使覘。",
+        "translation": "The soldiers of that country suspected some strange technique and secretly sent an envoy.",
+        "source": "T55n2157_001:0775a18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但見群臣安然共聽其所講大乘經明地神王護國之法。",
+        "translation": "However, they saw a group of ministers calmly listening to his lecture on the great vehicle scripture that teaches the Dharma of the earth god king who protects his country.",
+        "source": "T55n2157_001:0775a19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是彼國請和上求法。",
+        "translation": "That country then asked Vakkula to search for the Dharma.",
+        "source": "T55n2157_001:0775a20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明帝以永平七年甲子。",
+        "translation": "In the seventh year of his reign, Emperor Ming saw a golden figure about six feet long in a dream.",
+        "source": "T55n2157_001:0775a21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夢見金人身長丈六項佩日輪光明赫奕飛在殿前。",
+        "translation": "In a dream, he saw a golden figure about six feet long wearing a sun-wheel and shining brightly flying in front of the palace.",
+        "source": "T55n2157_001:0775a21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明日博問群臣。",
+        "translation": "On the morrow, Bo asked the ministers.",
+        "source": "T55n2157_001:0775a22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此何神異。",
+        "translation": "\"What is this miracle?",
+        "source": "T55n2157_001:0775a23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "通人傅毅進奏對云。",
+        "translation": "The penetrating man Fu Yi entered the room and replied.",
+        "source": "T55n2157_001:0775a23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臣聞西域有得道者。",
+        "translation": "\"I've heard that there's a man in the West who has attained enlightenment.",
+        "source": "T55n2157_001:0775a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "號之曰佛。",
+        "translation": "He's called Buddha.",
+        "source": "T55n2157_001:0775a24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "陛下所夢將必是乎。",
+        "translation": "Could this be what Your Majesty was dreaming about?",
+        "source": "T55n2157_001:0775a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "帝以為然。",
+        "translation": "The emperor thought it was true.",
+        "source": "T55n2157_001:0775a25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "詔遣郎中蔡愔郎將秦景博士弟子王遵等一十八人。",
+        "translation": "He sent 18 men, including Dr. Qin Jing's disciple Wang Zun, to the lieutenant general Cai Chuanlang.",
+        "source": "T55n2157_001:0775a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "往適天竺尋訪佛法。",
+        "translation": "They went to India to search for the Buddha's teachings.",
+        "source": "T55n2157_001:0775a26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於大月支國與摩騰相遇。",
+        "translation": "They met with Mātaṅga in the country of Indra.",
+        "source": "T55n2157_001:0775a27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蔡愔等固請於騰。",
+        "translation": "Cai solemn and the others were certainly invited by Mātaṅga.",
+        "source": "T55n2157_001:0775a27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂與同來至于洛邑。",
+        "translation": "They then came with him to Luoyi.",
+        "source": "T55n2157_001:0775a28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明帝甚加賞接。",
+        "translation": "Emperor Ming greatly appreciated their hospitality.",
+        "source": "T55n2157_001:0775a28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所將佛經及獲畫像。",
+        "translation": "He brought along the Buddhist scriptures and the portraits he had obtained.",
+        "source": "T55n2157_001:0775a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "馱以白馬同到洛陽。",
+        "translation": "He carried them to Luoyang on a white horse.",
+        "source": "T55n2157_001:0775a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因起伽藍名白馬寺。",
+        "translation": "He had the kalāma named White Horse Temple erected.",
+        "source": "T55n2157_001:0775a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸州競立報白馬思。",
+        "translation": "The states competed to establish the White Horse Temple as a reward.",
+        "source": "T55n2157_001:0775a30_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "騰於白馬寺出四十二章經。",
+        "translation": "Teng produced forty-two sūtras at the White Horse Temple.",
+        "source": "T55n2157_001:0775a30_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初緘蘭臺石室第十四間內。",
+        "translation": "It was first placed inside the fourteenth room of the stone room at Laṇḍai.",
+        "source": "T55n2157_001:0775b01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自爾釋教相繼雲興。",
+        "translation": "Since then, the teachings of the Śākyas have prospered one after the other.",
+        "source": "T55n2157_001:0775b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙門信士接踵傳譯。",
+        "translation": "Ascetics and believers successively transmitted the sūtras.",
+        "source": "T55n2157_001:0775b02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依錄而編。",
+        "translation": "He compiled them based on the records.",
+        "source": "T55n2157_001:0775b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是漢地經法之祖也。",
+        "translation": "That is, it's the ancestor of the Han region's scriptures and teachings.",
+        "source": "T55n2157_001:0775b03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舊錄云。",
+        "translation": "The old records say.",
+        "source": "T55n2157_001:0775b03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經本是外國經抄元出大部。",
+        "translation": "\"This sūtra was originally a foreign sūtra copied from the Yuan exiting the Great Vehicle.",
+        "source": "T55n2157_001:0775b04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撮要引俗似孝經十八章。",
+        "translation": "The summary quotes eighteen chapters of a secular scripture that resembles the Sutra of Filial Piety.",
+        "source": "T55n2157_001:0775b04_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出舊錄及朱士行錄僧祐出三藏記等。",
+        "translation": "It appears in the old records, as well as in Zhu Shixing's records and Sengyou's records of leaving the Tripiṭaka.",
+        "source": "T55n2157_001:0775b05_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "道安錄中不載。",
+        "translation": "It's not recorded in the Dao'an Catalogue.",
+        "source": "T55n2157_001:0775b06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "騰以大化初至人未深信。",
+        "translation": "Teng took the first arrival of the Great Transformation as a reason people weren't convinced.",
+        "source": "T55n2157_001:0775b06_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘊其妙解不即多翻。",
+        "translation": "He didn't explain it too often because it implied a marvelous understanding.",
+        "source": "T55n2157_001:0775b07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且撮經要以導時俗。",
+        "translation": "He also summarized the essence of the scriptures to guide the laymen of the time.",
+        "source": "T55n2157_001:0775b07_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "騰後終於洛陽。",
+        "translation": "Teng then ended up in Luoyang.",
+        "source": "T55n2157_001:0775b08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "載其由委備如朱士行漢錄及高僧傳等。",
+        "translation": "He compiled a list of causes and conditions, such as the Zhu Shixing Han Catalogue and the Biographies of Eminent Monks.",
+        "source": "T55n2157_001:0775b08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "昇尋錄之源始意述譯經之來。",
+        "translation": "Sheng investigated the source of the records and began to explain the origin of the translation of the sūtras.",
+        "source": "T55n2157_001:0775b09_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須有由致故傍採眾說以廣異聞。",
+        "translation": "There must be a reason for it, so it's taken from various teachings to expand the range of divergent views.",
+        "source": "T55n2157_001:0775b10_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖於文為繁而緣敘備矣。",
+        "translation": "Although the text is cumbersome, the explanation is complete.",
+        "source": "T55n2157_001:0775b10_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十地斷結經八卷(或四卷亦云十住初出與竺佛念十住斷結經同本永平十三年出見朱士行漢錄及高僧傳長房錄等)法海藏經一卷(一本無藏字初出與法海經等同本見高僧傳及長房錄等)佛本行經五卷(永平十一年出見高僧傳及長房錄等)佛本生經一卷(見高僧傳及長房錄等)右四部一十五卷其本並闕。",
+        "translation": "十地斷結經八卷(或四卷亦云十住初出與竺佛念十住斷結經同本永平十三年出見朱士行漢錄及高僧傳長房錄等)法海藏經一卷(一本無藏字初出與法海經等同本見高僧傳及長房錄等)佛本行經五卷(永平十一年出見高僧傳及長房錄等)佛本生經一卷(見高僧傳及長房錄等)右四部一十五卷其本並闕。",
+        "source": "T55n2157_001:0775b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙門竺法蘭。",
+        "translation": "The ascetic Zhu Falan.",
+        "source": "T55n2157_001:0775b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦中印度人。",
+        "translation": "He was also from Central India.",
+        "source": "T55n2157_001:0775b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自言誦經論數萬章。",
+        "translation": "He said he recited tens of thousands of chapters of sūtras and treatises.",
+        "source": "T55n2157_001:0775b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為天竺學者之師。",
+        "translation": "He was a teacher of scholars from India.",
+        "source": "T55n2157_001:0775b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蔡愔既至彼國。",
+        "translation": "At the time, Cai solemn had arrived in that country.",
+        "source": "T55n2157_001:0775b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘭與摩騰共契遊化。",
+        "translation": "Ran and Mātaṅga shared a common understanding of how to travel and teach.",
+        "source": "T55n2157_001:0775b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂相隨而來會。",
+        "translation": "They then followed each other and came to meet.",
+        "source": "T55n2157_001:0775b20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼學徒留礙蘭乃間行而至。",
+        "translation": "The disciples there stayed behind, but Lan traveled there indirectly.",
+        "source": "T55n2157_001:0775b20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既達洛與騰同止。",
+        "translation": "When he reached Luo, he stopped with Mātaṅgā.",
+        "source": "T55n2157_001:0775b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少時便善漢言。",
+        "translation": "A short while later, he spoke well of Han.",
+        "source": "T55n2157_001:0775b21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初共騰譯四十二章經。",
+        "translation": "At first, they translated the Sutra of Forty-two Verses with Teng.",
+        "source": "T55n2157_001:0775b22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "騰卒。",
+        "translation": "When Teng died, Lan translated the Sutra of the Ten Stages of Cutting the Knot on his own.",
+        "source": "T55n2157_001:0775b22_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘭自譯十地斷結經等四部。",
+        "translation": "Lan himself translated four scriptures, including the Sutra on Cutting the Knot of the Ten Stages.",
+        "source": "T55n2157_001:0775b22_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "昔前漢帝穿昆明池底得黑灰。",
+        "translation": "In the past, the former Han emperor wore a black ash at the bottom of the Kunming Lake and obtained it.",
+        "source": "T55n2157_001:0775b23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問東方朔。",
+        "translation": "He asked Dongfang Shuo about it.",
+        "source": "T55n2157_001:0775b24_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "朔云。",
+        "translation": "Shuo said.",
+        "source": "T55n2157_001:0775b24_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非臣所知可問西域胡人。",
+        "translation": "\"I don't know anything about this, but I can ask the Hu people of the western regions.",
+        "source": "T55n2157_001:0775b24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法蘭既至追以問之。",
+        "translation": "After he arrived, Farlan followed up with a question.",
+        "source": "T55n2157_001:0775b25_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘭云。",
+        "translation": "Lan said.",
+        "source": "T55n2157_001:0775b25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是劫燒時灰。",
+        "translation": "\"This is ashes from the time the kalpa was burned.",
+        "source": "T55n2157_001:0775b25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "朔言有徵。",
+        "translation": "Shuo's words were revealing.",
+        "source": "T55n2157_001:0775b26_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信者甚眾。",
+        "translation": "There were many who believed it.",
+        "source": "T55n2157_001:0775b26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又秦景使還於月支國得釋迦像。",
+        "translation": "Also, the Qin dynasty's envoy returned to Yuezhi and got an image of Śākyamuni.",
+        "source": "T55n2157_001:0775b26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是優填王栴檀像師第四作也。",
+        "translation": "This is the fourth Buddha image created by the Sandalwood master of Udayanavatī.",
+        "source": "T55n2157_001:0775b27_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "來至洛陽帝即勅令圖寫。",
+        "translation": "When he arrived in Luoyang, the emperor ordered him to draw and paint it.",
+        "source": "T55n2157_001:0775b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "置清涼臺及顯節陵上供養。",
+        "translation": "He placed it on the Qingliang Terrace and the Xianjie Tomb for worship.",
+        "source": "T55n2157_001:0775b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自爾丹素流演迄今。",
+        "translation": "From then on, the tradition of Tansu continued until now.",
+        "source": "T55n2157_001:0775b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘭後終於洛陽。",
+        "translation": "Rangoon ended up in Luoyang.",
+        "source": "T55n2157_001:0775b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時年六十餘矣。",
+        "translation": "She was more than 60 years old at the time.",
+        "source": "T55n2157_001:0775c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又長房等錄云。",
+        "translation": "It was also recorded in Changfang and other records that Lan translated the 260 precepts into two different languages.",
+        "source": "T55n2157_001:0775c01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘭譯二百六十戒合異二卷者不然。",
+        "translation": "\"Lan translated the two hundred and sixty precepts into two different volumes, but that's not true.",
+        "source": "T55n2157_001:0775c01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "細詳名目非蘭所翻。",
+        "translation": "The detailed titles are not translated by Lan.",
+        "source": "T55n2157_001:0775c02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "委求同異如下別錄闕本中述。",
+        "translation": "We will seek out similarities and differences as described in the following separate record of the missing text.",
+        "source": "T55n2157_001:0775c03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "道行般若波羅蜜經十卷(題云摩訶般若波羅蜜道行經亦云般若道行品經或八卷初出與明度小品及大般若第四會等同本光和二年七月八日出見敏祐二錄)無量清淨平等覺經二卷(亦直云無量清淨經第二出與大阿彌陀及寶積無量壽會等并同本見吳錄)阿閦佛國經二卷(建和元年譯或一卷初出與寶積不動如來會等同本見朱士行漢錄及僧祐錄亦云阿閦佛剎諸菩薩學戒品經或無國字)佛遺日摩尼寶經一卷(安公云出方等部初與寶積普明菩薩會等同本一名古品遺日說般若經一名大寶積經一名摩訶述寶嚴經見僧祐長房二錄)般舟三昧經三卷(一名十方見在佛悉在前立定經舊稱云大般舟三昧經或二卷光和二年譯初出與大集賢護經等同本見聶道真錄及吳錄)兜沙經一卷(見僧祐錄吳錄是華嚴經名號品異譯)伅真陀羅所問經二卷(初出伅真陀羅所問寶如來三昧經舊錄云伅真陀羅尼王經或三卷初出與大樹緊那羅經同本安錄無見朱士行漢錄及僧祐錄)阿闍世王經二卷(初出與普超三昧經等同本見僧祐錄安云出長阿含者非也)內藏百寶經二卷(亦云內藏百品初出與世高譯者小異安公云出方等部見僧祐錄)文殊師利問菩薩署經一卷(亦直云問署經見僧祐錄及吳錄安云出方等部)新譬喻經一卷(凡十一事祐云失譯房見別錄已上見在已下闕)大方等大集經二十七卷(初出與曇無讖等出同本見李廓錄)般舟三昧經一卷(是後十品重翻祐有此一卷無三卷者靜泰錄或加大字第三出祐錄云光和二年十月八日出)梵般泥洹經二卷(或一卷初出與大般涅槃經等同本見朱士行漢錄或加大字第三胡般改為梵)象腋經一卷(初出見法上錄)諸法勇王經一卷(初出見法上錄)光明三昧經一卷(初出祐云出錄安房云亦見吳錄)孛本經二卷(初出見僧祐錄)首楞嚴經二卷(中平二年十月八日出第一譯又云三卷見朱士行漢錄及僧祐錄吳錄)大方便報恩經一卷(出吳錄)阿闍世王問五逆經一卷(亦云阿闍世王經初出見長房錄)禪經一卷(初出房云見別錄)阿育王太子壞目因緣經一卷(佛涅槃後一百餘年育王方出故非佛說或無經字初出見長房錄)右二十三部六十七卷(雜譬喻上一十部二十六卷見在大集經下一十二部四十卷闕本)。",
+        "translation": "道行般若波羅蜜經十卷(題云摩訶般若波羅蜜道行經亦云般若道行品經或八卷初出與明度小品及大般若第四會等同本光和二年七月八日出見敏祐二錄)無量清淨平等覺經二卷(亦直云無量清淨經第二出與大阿彌陀及寶積無量壽會等并同本見吳錄)阿閦佛國經二卷(建和元年譯或一卷初出與寶積不動如來會等同本見朱士行漢錄及僧祐錄亦云阿閦佛剎諸菩薩學戒品經或無國字)佛遺日摩尼寶經一卷(安公云出方等部初與寶積普明菩薩會等同本一名古品遺日說般若經一名大寶積經一名摩訶述寶嚴經見僧祐長房二錄)般舟三昧經三卷(一名十方見在佛悉在前立定經舊稱云大般舟三昧經或二卷光和二年譯初出與大集賢護經等同本見聶道真錄及吳錄)兜沙經一卷(見僧祐錄吳錄是華嚴經名號品異譯)伅真陀羅所問經二卷(初出伅真陀羅所問寶如來三昧經舊錄云伅真陀羅尼王經或三卷初出與大樹緊那羅經同本安錄無見朱士行漢錄及僧祐錄)阿闍世王經二卷(初出與普超三昧經等同本見僧祐錄安云出長阿含者非也)內藏百寶經二卷(亦云內藏百品初出與世高譯者小異安公云出方等部見僧祐錄)文殊師利問菩薩署經一卷(亦直云問署經見僧祐錄及吳錄安云出方等部)新譬喻經一卷(凡十一事祐云失譯房見別錄已上見在已下闕)大方等大集經二十七卷(初出與曇無讖等出同本見李廓錄)般舟三昧經一卷(是後十品重翻祐有此一卷無三卷者靜泰錄或加大字第三出祐錄云光和二年十月八日出)梵般泥洹經二卷(或一卷初出與大般涅槃經等同本見朱士行漢錄或加大字第三胡般改為梵)象腋經一卷(初出見法上錄)諸法勇王經一卷(初出見法上錄)光明三昧經一卷(初出祐云出錄安房云亦見吳錄)孛本經二卷(初出見僧祐錄)首楞嚴經二卷(中平二年十月八日出第一譯又云三卷見朱士行漢錄及僧祐錄吳錄)大方便報恩經一卷(出吳錄)阿闍世王問五逆經一卷(亦云阿闍世王經初出見長房錄)禪經一卷(初出房云見別錄)阿育王太子壞目因緣經一卷(佛涅槃後一百餘年育王方出故非佛說或無經字初出見長房錄)右二十三部六十七卷(雜譬喻上一十部二十六卷見在大集經下一十二部四十卷闕本)。",
+        "source": "T55n2157_001:0775c04_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "沙門支婁迦讖。",
+        "translation": "The śramaṇa śloka-sūtra.",
+        "source": "T55n2157_001:0776a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦直云支讖。",
+        "translation": "This is also called the Zhiqian jing.",
+        "source": "T55n2157_001:0776a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "月支國人。",
+        "translation": "He was from the country of Yuezhi.",
+        "source": "T55n2157_001:0776a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "操行純深性度開敏。",
+        "translation": "His conduct and behavior were pure and profound, and his nature was well-versed and alert.",
+        "source": "T55n2157_001:0776a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "稟持法戒以精懃著名。",
+        "translation": "He was well-known for his diligence in upholding the precepts of the Dharma.",
+        "source": "T55n2157_001:0776a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諷誦群經志在宣法。",
+        "translation": "He recited sūtras and had the intention of proclaiming the Dharma.",
+        "source": "T55n2157_001:0776a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "桓靈之代遊于洛陽。",
+        "translation": "On behalf of Huan Lingzhi, he traveled to Luoyang.",
+        "source": "T55n2157_001:0776a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從桓帝建和元年丁亥。",
+        "translation": "He went from Dinghai in the first year of Emperor Huan's reign.",
+        "source": "T55n2157_001:0776a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至靈帝中平三年景寅。",
+        "translation": "From Dinghai in the first year of Emperor Huan's reign in harmony to Jingyin in the third year of Emperor Ling's reign in harmony.",
+        "source": "T55n2157_001:0776a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於洛陽譯道行等經二十三部。",
+        "translation": "At Luoyang, he translated twenty-three sūtras, including the Daoxing sūtra.",
+        "source": "T55n2157_001:0776a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "審得本旨曾不加飾。",
+        "translation": "He examined the original meaning and never embellished it.",
+        "source": "T55n2157_001:0776a18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可謂善宣法要弘道之士也。",
+        "translation": "He could be called a person who well proclaimed the essentials of the Dharma and spread the Way.",
+        "source": "T55n2157_001:0776a19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "河南清信士孟福張蓮筆受。",
+        "translation": "Mengfu Zhang Lianpen, a Qingxin scholar from Henan, accepted it.",
+        "source": "T55n2157_001:0776a19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而舊譯云胡般泥洹者竊所未安。",
+        "translation": "The old translation, however, called it Hu Ban Nirvana, which was secretly unsettled.",
+        "source": "T55n2157_001:0776a20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上代翻經已來賢德筆受。",
+        "translation": "Since the sūtras were translated in previous generations, the pen of Bhadrapāla was accepted by the wise and virtuous.",
+        "source": "T55n2157_001:0776a21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "每至度語無不稱云譯胡為漢。",
+        "translation": "Whenever they arrived at a sutra, they invariably said, \"Translate Hu as Han.",
+        "source": "T55n2157_001:0776a21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "胡乃是西天邊俗類此之有氐羌今乃稱胡。",
+        "translation": "Hu is a common language from the western gods, where there's a tribe like the Qiang, and now they're called Hu.",
+        "source": "T55n2157_001:0776a22_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈關印度。",
+        "translation": "Does it have anything to do with India?",
+        "source": "T55n2157_001:0776a23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "深為楚越可不詳焉。",
+        "translation": "It's profoundly Chu and Yue, but we can't get into details.",
+        "source": "T55n2157_001:0776a23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但佛所說經皆合稱為梵本。",
+        "translation": "However, all the sutras taught by the Buddha are collectively called the Sanskrit version.",
+        "source": "T55n2157_001:0776a24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "梵者此言清淨。",
+        "translation": "\"Brahma\" is this word for pure.",
+        "source": "T55n2157_001:0776a24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "昔劫初時梵世光音天來下彼土有食地肥者。",
+        "translation": "In the early eons, the Brahmakāyika gods came down to that land and there was a man who ate fat from the earth.",
+        "source": "T55n2157_001:0776a25_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身重不得復去因遂為人。",
+        "translation": "He couldn't get rid of his heavy body, so he became a human being.",
+        "source": "T55n2157_001:0776a26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即五天之本祖也。",
+        "translation": "He was the original patriarch of the five heavens.",
+        "source": "T55n2157_001:0776a26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仍其天號而立稱焉。",
+        "translation": "He was still called by his heavenly name and established a title for himself.",
+        "source": "T55n2157_001:0776a27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼稱胡理將何出。",
+        "translation": "If they called him Hu, what principle would there be?",
+        "source": "T55n2157_001:0776a27_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但彼稱梵語如此土所謂漢言。",
+        "translation": "But they call it Sanskrit, which is the so-called Han dialect of this land.",
+        "source": "T55n2157_001:0776b01_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蓋有所憑非為謬耳。",
+        "translation": "There's a basis for that, and it's not a mistake.",
+        "source": "T55n2157_001:0776b01_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如舊日僧悉稱俗姓。",
+        "translation": "In the old days, for example, all monks called themselves by their secular names.",
+        "source": "T55n2157_001:0776b02_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從符秦世有沙門道安。",
+        "translation": "From the Qin dynasty, there was the ascetic Daoyan.",
+        "source": "T55n2157_001:0776b02_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "獨拔當時居然超悟云。",
+        "translation": "Alone, he actually transcended the words of awakening at the time.",
+        "source": "T55n2157_001:0776b03_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既剃落紹繼釋迦子而異父。",
+        "translation": "'Since he shaved his head, he inherited the son of Śākyamuni and changed his father.'",
+        "source": "T55n2157_001:0776b03_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈曰承襲。",
+        "translation": "Isn't that called inheritance?",
+        "source": "T55n2157_001:0776b04_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今出家宜悉稱釋。",
+        "translation": "Now, it's appropriate to call all renunciant monks Śākyamunis Śākyamunis.",
+        "source": "T55n2157_001:0776b04_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及翻四含其文果云。",
+        "translation": "He also translated the textual result of the four Āgamas, saying.",
+        "source": "T55n2157_001:0776b05_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四姓出家同一釋種。",
+        "translation": "'The four renunciant families are all of the same Śākyamuni lineage.'",
+        "source": "T55n2157_001:0776b05_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾咸歎伏(四姓者一剎帝利二婆羅門三毘舍四戍達羅)。",
+        "translation": "Everyone admires and subdues them (the four lineages are the Ājñātaśālī, the Śākyamuni, the Śiviśālī, and the śūdra).",
+        "source": "T55n2157_001:0776b06_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而安正當晉秦之世刊定目錄刪經論。",
+        "translation": "When An Zheng published the catalogue and deleted the sūtras and treatises in the Jin and Qin Dynasties, he called himself Amitâbha.",
+        "source": "T55n2157_001:0776b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自號彌天。",
+        "translation": "He called himself Amitâbha.",
+        "source": "T55n2157_001:0776b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "楷摸季葉。",
+        "translation": "He called himself Maitreya.",
+        "source": "T55n2157_001:0776b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶言譯胡為秦有五失三不易。",
+        "translation": "It's still said that the translator Hu made five mistakes and three errors for the Qin.",
+        "source": "T55n2157_001:0776b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此蓋通人一蔽未盡美歟。",
+        "translation": "This is a case of a common man with a single obscuration that's not entirely beautiful.",
+        "source": "T55n2157_001:0776b09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上代已來有胡言處。",
+        "translation": "Since ancient times, there have been places where the term Hu was used.",
+        "source": "T55n2157_001:0776b09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今並改為梵字。",
+        "translation": "Now, they've been changed to Sanskrit characters.",
+        "source": "T55n2157_001:0776b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "庶無紕謬使談者得其正焉。",
+        "translation": "Perhaps there's no mistake, so that those who discuss it can get it right.",
+        "source": "T55n2157_001:0776b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又長房等錄。",
+        "translation": "It's also recorded in Changfang and others.",
+        "source": "T55n2157_001:0776b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "支讖譯中復有大寶積經一卷。",
+        "translation": "In the Zhiji Translation, there's also a single volume of the Mahābherī Sutra.",
+        "source": "T55n2157_001:0776b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今以與佛遺日摩尼寶經既是同本不合再出。",
+        "translation": "Now, since it's the same text as the Sutra of the Dharma Sun, it can't be reprinted.",
+        "source": "T55n2157_001:0776b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又尋文句非讖所翻。",
+        "translation": "He also searched the text for phrases that weren't translated by the Sutra of the Dharma King.",
+        "source": "T55n2157_001:0776b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別錄之中皆為失譯。",
+        "translation": "In the separate records, the translations were all mistakes.",
+        "source": "T55n2157_001:0776b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今依別錄為正故讖錄除之。",
+        "translation": "We'll rely on the separate records as the correct ones, so we'll remove them from the earlier records.",
+        "source": "T55n2157_001:0776b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大乘方等要慧經一卷(初出與寶積彌勒問八法會同本見長房錄)太子慕魄經一卷(初出六度集中異譯見長房錄)長者子制經一卷(一名制經初出與逝童子經等同本見長房錄)寶積三昧文殊問法身經一卷(一名遺日寶三昧文殊師利菩薩問法身經初出與法界體性經同本見長房錄)自誓三昧經一卷(題下注云獨證品第四出比丘淨行中初出與法護出者大同小異見長房錄)溫室洗浴眾僧經一卷(亦直云溫室經初出見長房錄)明度五十校計經二卷(或直云明度校計亦直云五十校計元嘉元年出見朱士行漢錄及僧祐錄)佛印三昧經一卷(見長房錄)八大人覺經一卷(見寶唱錄)舍利弗悔過經一卷(亦直云悔過經初出見長房錄)人本欲生經一卷(永壽二年出長阿含第十卷異譯道安注解兼製序見朱士行漢錄及僧祐錄)尸迦羅越六向拜經一卷(或云尸迦羅越六方禮經出長阿含第十一卷異譯見長房錄)長阿含十報法經二卷(一名多增道章經或直云十報經出長阿含第九卷異譯舊錄亦云出長阿含見僧祐錄)一切流攝守因經一卷(出中阿含第二卷異譯舊錄云一切流攝經吳錄云流攝守因經亦云受固亦有云流攝亦云一切流攝守固見朱士行及僧祐)四諦經一卷(出中阿含第七卷異譯見僧祐錄安公云出長阿含者或誤也)本相倚致經一卷(出中阿含第十卷異譯吳錄云大相倚致與本致經同本或作倚字見朱士行漢錄及僧祐錄)是法非法經一卷(出中阿含第二十一卷異譯見士行僧祐二錄)漏分布經一卷(出中阿含第二十七卷異譯見朱士行漢錄及僧祐錄安云出長阿含者或誤也)婆羅門子命終愛念不離經一卷(出中阿含第十六卷異譯見長房錄)十支居士八城人經一卷(出中阿含第六十卷異譯見長房錄)普法義經一卷(亦云普義經一名具法行經普法義作舍利日俱法行作舍利弗餘並同云出中阿含元嘉二年出與唐廣義法門經同本見朱士行僧祐二錄)婆羅門避死經一卷(出增一阿含第二十六卷異譯見長房錄)阿那邠[邱-丘+玄]化七子經一卷(出增一阿含第四十九卷異譯見長房錄)阿難同學經一卷(題云出增一阿含檢無見長房錄)七處三觀經一卷(出增一阿含中首末總三十經從初標名故也或二卷元嘉元年出見朱士行漢錄及僧祐錄)五陰譬喻經一卷(或無譬字一名水沫所漂經出離阿含第七卷異譯見朱士行漢錄僧祐錄)轉法輪經一卷(或云法輪輪轉經出雜阿含第十五卷異譯與其本經後同前異見僧祐錄)八正道經一卷(出雜阿含第二十六卷異譯見士行僧祐二錄)摩鄧女經一卷(或名摩耶女一名阿難為蠱道女惑經見長房錄初出與摩鄧伽經等同本)鬼問目連經一卷(初出與餓鬼報應經同本見長房錄)阿難問事佛吉凶經一卷(或云阿難問事經亦云事佛吉凶經見長房錄初出與阿難分別經等同本)奈女祇域因緣經一卷(初出或無因緣字亦云奈女見房錄)罪業應報教化地獄經一卷(初出或云地獄報應經見長房錄)堅意經一卷(初出一名堅心正意亦名堅心經見長房錄)大安般守意經二卷(或一卷或無守意字或云安般經安公云小安般兼注解及製序祐錄別載大安般一卷房錄更載一卷重也見士行僧祐李廓三錄)陰持入經二卷(或一卷祐云際持入誤也亦云注陰持入安公注解製序房錄陰持入外別存際持入者誤也見士行僧祐二錄)處處經一卷(見長房錄)罵意經一卷(見長房錄)分別善惡所起經一卷(見長房錄)出家緣經一卷(一名出家因緣經見長房錄)阿鋡正行經一卷(一名正意經見長房錄)十八泥犁經一卷(或云十八地獄經見長房錄)法受塵經一卷(見僧祐錄)禪行法想經一卷(見僧祐寶唱二錄)長者子懊惱三處經一卷(一名長者夭惱三處經亦直云三處惱經見長房錄)揵陀國王經一卷(或無國字見長房錄)父母恩難報經一卷(亦云勤報見長房錄出中阿含檢無)九橫經一卷(房云出中阿含撿無見長房錄)禪行三十七經一卷(或加品字見寶唱錄)犯戒報應輕重經一卷(出目連問毘尼經亦云犯戒罪報輕重或云目連問經見長房錄)大比丘三千威儀經一卷(或四卷亦云僧威儀經)道地經一卷(初出加大字見僧祐錄)迦葉結經一卷(初出見長房錄)阿毘曇五法行經一卷(或無行字見僧祐錄已上見存已下闕本)無量壽經二卷(初出與寶積無量壽等同本房云見別錄)如幻三昧經二卷(或一卷初出與寶積善住意會等同本見長房錄)月燈三昧經二卷(出大日燈經第七異譯見長房錄)十二因緣經一卷(初出亦云聞城十因緣經見僧祐錄)內藏經一卷(第二出一名內藏百品或云百寶元嘉二年十月出見朱士行錄)四不可得經一卷(初出或無可字見房錄)貞元新定釋教目錄卷第一",
+        "translation": "大乘方等要慧經一卷(初出與寶積彌勒問八法會同本見長房錄)太子慕魄經一卷(初出六度集中異譯見長房錄)長者子制經一卷(一名制經初出與逝童子經等同本見長房錄)寶積三昧文殊問法身經一卷(一名遺日寶三昧文殊師利菩薩問法身經初出與法界體性經同本見長房錄)自誓三昧經一卷(題下注云獨證品第四出比丘淨行中初出與法護出者大同小異見長房錄)溫室洗浴眾僧經一卷(亦直云溫室經初出見長房錄)明度五十校計經二卷(或直云明度校計亦直云五十校計元嘉元年出見朱士行漢錄及僧祐錄)佛印三昧經一卷(見長房錄)八大人覺經一卷(見寶唱錄)舍利弗悔過經一卷(亦直云悔過經初出見長房錄)人本欲生經一卷(永壽二年出長阿含第十卷異譯道安注解兼製序見朱士行漢錄及僧祐錄)尸迦羅越六向拜經一卷(或云尸迦羅越六方禮經出長阿含第十一卷異譯見長房錄)長阿含十報法經二卷(一名多增道章經或直云十報經出長阿含第九卷異譯舊錄亦云出長阿含見僧祐錄)一切流攝守因經一卷(出中阿含第二卷異譯舊錄云一切流攝經吳錄云流攝守因經亦云受固亦有云流攝亦云一切流攝守固見朱士行及僧祐)四諦經一卷(出中阿含第七卷異譯見僧祐錄安公云出長阿含者或誤也)本相倚致經一卷(出中阿含第十卷異譯吳錄云大相倚致與本致經同本或作倚字見朱士行漢錄及僧祐錄)是法非法經一卷(出中阿含第二十一卷異譯見士行僧祐二錄)漏分布經一卷(出中阿含第二十七卷異譯見朱士行漢錄及僧祐錄安云出長阿含者或誤也)婆羅門子命終愛念不離經一卷(出中阿含第十六卷異譯見長房錄)十支居士八城人經一卷(出中阿含第六十卷異譯見長房錄)普法義經一卷(亦云普義經一名具法行經普法義作舍利日俱法行作舍利弗餘並同云出中阿含元嘉二年出與唐廣義法門經同本見朱士行僧祐二錄)婆羅門避死經一卷(出增一阿含第二十六卷異譯見長房錄)阿那邠[邱-丘+玄]化七子經一卷(出增一阿含第四十九卷異譯見長房錄)阿難同學經一卷(題云出增一阿含檢無見長房錄)七處三觀經一卷(出增一阿含中首末總三十經從初標名故也或二卷元嘉元年出見朱士行漢錄及僧祐錄)五陰譬喻經一卷(或無譬字一名水沫所漂經出離阿含第七卷異譯見朱士行漢錄僧祐錄)轉法輪經一卷(或云法輪輪轉經出雜阿含第十五卷異譯與其本經後同前異見僧祐錄)八正道經一卷(出雜阿含第二十六卷異譯見士行僧祐二錄)摩鄧女經一卷(或名摩耶女一名阿難為蠱道女惑經見長房錄初出與摩鄧伽經等同本)鬼問目連經一卷(初出與餓鬼報應經同本見長房錄)阿難問事佛吉凶經一卷(或云阿難問事經亦云事佛吉凶經見長房錄初出與阿難分別經等同本)奈女祇域因緣經一卷(初出或無因緣字亦云奈女見房錄)罪業應報教化地獄經一卷(初出或云地獄報應經見長房錄)堅意經一卷(初出一名堅心正意亦名堅心經見長房錄)大安般守意經二卷(或一卷或無守意字或云安般經安公云小安般兼注解及製序祐錄別載大安般一卷房錄更載一卷重也見士行僧祐李廓三錄)陰持入經二卷(或一卷祐云際持入誤也亦云注陰持入安公注解製序房錄陰持入外別存際持入者誤也見士行僧祐二錄)處處經一卷(見長房錄)罵意經一卷(見長房錄)分別善惡所起經一卷(見長房錄)出家緣經一卷(一名出家因緣經見長房錄)阿鋡正行經一卷(一名正意經見長房錄)十八泥犁經一卷(或云十八地獄經見長房錄)法受塵經一卷(見僧祐錄)禪行法想經一卷(見僧祐寶唱二錄)長者子懊惱三處經一卷(一名長者夭惱三處經亦直云三處惱經見長房錄)揵陀國王經一卷(或無國字見長房錄)父母恩難報經一卷(亦云勤報見長房錄出中阿含檢無)九橫經一卷(房云出中阿含撿無見長房錄)禪行三十七經一卷(或加品字見寶唱錄)犯戒報應輕重經一卷(出目連問毘尼經亦云犯戒罪報輕重或云目連問經見長房錄)大比丘三千威儀經一卷(或四卷亦云僧威儀經)道地經一卷(初出加大字見僧祐錄)迦葉結經一卷(初出見長房錄)阿毘曇五法行經一卷(或無行字見僧祐錄已上見存已下闕本)無量壽經二卷(初出與寶積無量壽等同本房云見別錄)如幻三昧經二卷(或一卷初出與寶積善住意會等同本見長房錄)月燈三昧經二卷(出大日燈經第七異譯見長房錄)十二因緣經一卷(初出亦云聞城十因緣經見僧祐錄)內藏經一卷(第二出一名內藏百品或云百寶元嘉二年十月出見朱士行錄)四不可得經一卷(初出或無可字見房錄)貞元新定釋教目錄卷第一",
+        "source": "T55n2157_001:0776b16_0",
+        "is_bad_quality": true
+    }
+]

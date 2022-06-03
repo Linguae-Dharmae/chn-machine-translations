@@ -1,0 +1,5264 @@
+[
+    {
+        "source_sentence": "阿毘達磨藏顯宗論卷第三十九",
+        "translation": "Revealing the Tenets of the Abhidharma Treasury, Volume 39",
+        "source": "T29n1563_039:0968b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者眾賢造",
+        "translation": "created by Venerable Samantabhadra",
+        "source": "T29n1563_039:0968b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T29n1563_039:0968b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "辯定品第九之二",
+        "translation": "Ninth and Second Classes of the Art of Defining",
+        "source": "T29n1563_039:0968b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是別釋。",
+        "translation": "This is a specific explanation.",
+        "source": "T29n1563_039:0968b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "靜慮事已。",
+        "translation": "\"After [these] things of meditation, what do they attain?",
+        "source": "T29n1563_039:0968b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸等至得云何。",
+        "translation": "\"What do these attain?",
+        "source": "T29n1563_039:0968b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0968b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　全不成而得　　淨由離染生",
+        "translation": "'They are all unproved and attained, and purity arises from freedom from defilement.'",
+        "source": "T29n1563_039:0968b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　無漏由離染　　染由生及退",
+        "translation": "untainted by freedom from defilement defilement by arising and regressing",
+        "source": "T29n1563_039:0968b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0968b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八本等至隨其所應。",
+        "translation": "\"The eightfold scriptures are as good as they should be.",
+        "source": "T29n1563_039:0968b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若全不成而獲得者。",
+        "translation": "If they are not completely unobtainable, then they are attained.",
+        "source": "T29n1563_039:0968b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸淨等至由二因緣。",
+        "translation": "The attainment of purity and so forth comes from two causes and conditions.",
+        "source": "T29n1563_039:0968b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一由離染。",
+        "translation": "One is by being free of defilement.",
+        "source": "T29n1563_039:0968b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂在下地離下染時。",
+        "translation": "It's when they're in the lower stages and free of lower defilements.",
+        "source": "T29n1563_039:0968b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二由受生。",
+        "translation": "The second is from feeling [sentient beings] being born.",
+        "source": "T29n1563_039:0968b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂從上地生自地時。",
+        "translation": "This refers to when he's born in his own ground from the higher ground.",
+        "source": "T29n1563_039:0968b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下七皆然。",
+        "translation": "This is true for all seven lower levels.",
+        "source": "T29n1563_039:0968b16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有頂不爾。",
+        "translation": "That's not true for the highest level of existence.",
+        "source": "T29n1563_039:0968b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯由離染無上地故。",
+        "translation": "It's only because they're free of defilement and don't have a higher ground.",
+        "source": "T29n1563_039:0968b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無從上地於彼受生。",
+        "translation": "Nothing from the higher ground is produced there by sensation.",
+        "source": "T29n1563_039:0968b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中但說本等至者。",
+        "translation": "This is called the original equipoise.",
+        "source": "T29n1563_039:0968b18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以諸近分未離染時。",
+        "translation": "It's because when the near parts weren't free of defilement.",
+        "source": "T29n1563_039:0968b18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有全不成。",
+        "translation": "They didn't completely exist.",
+        "source": "T29n1563_039:0968b19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由加行得。",
+        "translation": "It's attained by application of practices.",
+        "source": "T29n1563_039:0968b19_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遮何故說。",
+        "translation": "What's the reason for the statement that it's completely unproved?",
+        "source": "T29n1563_039:0968b19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "全不成言。",
+        "translation": "It's completely unproved,\" he says.",
+        "source": "T29n1563_039:0968b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為遮已成。",
+        "translation": "It's because the overruling has been accomplished.",
+        "source": "T29n1563_039:0968b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更得少分。",
+        "translation": "It's possible to attain a small amount.",
+        "source": "T29n1563_039:0968b20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如由加行得淨本等至及由退。",
+        "translation": "Just as it's because of application of practices that they attain their original equipoise and because of regression, so they attain the retrogressive aspect of it.",
+        "source": "T29n1563_039:0968b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故得彼順退分。",
+        "translation": "Therefore, it's possible to follow those steps of regression.",
+        "source": "T29n1563_039:0968b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即依此義作是問言。",
+        "translation": "Relying on this meaning, he asked this question.",
+        "source": "T29n1563_039:0968b21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頗有淨定。",
+        "translation": "\"Could it be that there's a pure concentration?",
+        "source": "T29n1563_039:0968b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由離染得。",
+        "translation": "It's attained by avoiding defilement ...",
+        "source": "T29n1563_039:0968b22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由離染捨。",
+        "translation": "From freedom from defilement comes equanimity.",
+        "source": "T29n1563_039:0968b22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由退得。",
+        "translation": "from regressing ...",
+        "source": "T29n1563_039:0968b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由退捨。",
+        "translation": "from regression and equanimity ...",
+        "source": "T29n1563_039:0968b23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由生得。",
+        "translation": "is attained by birth ...",
+        "source": "T29n1563_039:0968b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由生捨耶。",
+        "translation": "by generating equanimity?",
+        "source": "T29n1563_039:0968b23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曰有。",
+        "translation": "It's called 'yes.'",
+        "source": "T29n1563_039:0968b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂順退分。",
+        "translation": "It's the aspect of going along with regression.",
+        "source": "T29n1563_039:0968b23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且初靜慮順退分攝。",
+        "translation": "Furthermore, the first concentration is subsumed in the aspect of going along with regression.",
+        "source": "T29n1563_039:0968b24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離欲染時得。",
+        "translation": "It's attained when he's free of defilement by desire ...",
+        "source": "T29n1563_039:0968b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離自染時捨。",
+        "translation": "He equanimously abandons it when he's free of his own defilement.",
+        "source": "T29n1563_039:0968b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "退離自染得。",
+        "translation": "He attains freedom from self defilement when he backslides.",
+        "source": "T29n1563_039:0968b25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "退離欲染捨。",
+        "translation": "He regresses from defilement by desire and equanimity.",
+        "source": "T29n1563_039:0968b25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從上生自得。",
+        "translation": "He attains it when he arises from above and abandons it when he arises from himself.",
+        "source": "T29n1563_039:0968b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從自生下捨。",
+        "translation": "He equanimously abandons the lower when he produces from the self.",
+        "source": "T29n1563_039:0968b26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘地所攝。",
+        "translation": "The other stages are included.",
+        "source": "T29n1563_039:0968b26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應如理思。",
+        "translation": "They should be considered according to reality.",
+        "source": "T29n1563_039:0968b26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無漏但由離染故得。",
+        "translation": "The absence of contaminants is only obtained by parting with defilement.",
+        "source": "T29n1563_039:0968b26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂聖離下染得上地無漏此亦但據全不成者。",
+        "translation": "It means a sage who parts with lower defilements and attains the upper ground uncontaminated also relies on this being completely unproved.",
+        "source": "T29n1563_039:0968b27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若先已成。",
+        "translation": "If it's been accomplished before, then the rest will be attained as well.",
+        "source": "T29n1563_039:0968b28_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘時亦得。",
+        "translation": "The rest of the time, it's also attained.",
+        "source": "T29n1563_039:0968b28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂盡智位得無學道。",
+        "translation": "It means attaining the stage of terminal knowledge, he attains the path of no more applied practice.",
+        "source": "T29n1563_039:0968b28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於練根時得學無學。",
+        "translation": "At the time of training his faculties, he attains training and post-training.",
+        "source": "T29n1563_039:0968b29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘加行及退。",
+        "translation": "The rest of his applied practices and regressions.",
+        "source": "T29n1563_039:0968b29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆如理應思。",
+        "translation": "They should all be considered according to reality.",
+        "source": "T29n1563_039:0968c01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有由入正性離生獲得根本無漏等至。",
+        "translation": "Although there's a fundamental, uncontaminated attainment of equipoise by entering the true nature and escaping birth, it's not definite.",
+        "source": "T29n1563_039:0968c01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而非決定。",
+        "translation": "They aren't definite.",
+        "source": "T29n1563_039:0968c02_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以次第者。",
+        "translation": "It's in order.",
+        "source": "T29n1563_039:0968c02_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時未得根本定故。",
+        "translation": "It's because the fundamental concentration hadn't been attained at that point.",
+        "source": "T29n1563_039:0968c02_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中但論決定得者聖離下染必定獲得。",
+        "translation": "Here, we're talking about someone who's definitely attained, but who's noble, free of lower defilements, and who's definitely attained.",
+        "source": "T29n1563_039:0968c03_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上地根本無漏定故。",
+        "translation": "It's because of the fundamental uncontaminated concentration in the higher stages.",
+        "source": "T29n1563_039:0968c04_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "染由受生及退故得。",
+        "translation": "Defilements are attained by undergoing birth and regression.",
+        "source": "T29n1563_039:0968c04_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂上地沒生下地時。",
+        "translation": "When the upper ground doesn't give rise to the lower ground, that means the lower ground defilement is acquired.",
+        "source": "T29n1563_039:0968c05_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得下地染。",
+        "translation": "He attains lower-ground defilement.",
+        "source": "T29n1563_039:0968c05_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及於此地離染退時得此地染。",
+        "translation": "When he parts with defilement in this place and regresses, he attains defilement in this place.",
+        "source": "T29n1563_039:0968c05_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無由離染及加行得。",
+        "translation": "It's not obtained by parting with defilement and applying practices.",
+        "source": "T29n1563_039:0968c06_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是二時能捨染故。",
+        "translation": "At these two times, it's possible to abandon defilement.",
+        "source": "T29n1563_039:0968c07_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等至無間。",
+        "translation": "What's the attainment of instantaneity?",
+        "source": "T29n1563_039:0968c07_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有幾等至生頌曰。",
+        "translation": "How many times does it take to produce the verse, 'The uncontaminated next produces goodness up and down to the third.'",
+        "source": "T29n1563_039:0968c07_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　無漏次生善　　上下至第三",
+        "translation": "'The untainted next produces goodness, up and down to the third.'",
+        "source": "T29n1563_039:0968c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　淨次生亦然　　兼生自地染",
+        "translation": "the same is true of secondary production of purity and the production of defilement in the original stage",
+        "source": "T29n1563_039:0968c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　染生自淨染　　并下一地淨",
+        "translation": "defilement produces its own purification and defilement and the next ground is purified",
+        "source": "T29n1563_039:0968c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　死淨生一切　　染生自下染",
+        "translation": "death purifies all births, and defilement produces its own lower defilement",
+        "source": "T29n1563_039:0968c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0968c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無漏次生自上下善善言具攝淨及無漏。",
+        "translation": "\"When the uncontaminated is produced next, it's self-imposed, upward and downward, and good words fully incorporate the pure and the uncontaminated.",
+        "source": "T29n1563_039:0968c13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極相違故必不生染。",
+        "translation": "Because they are in stark contradiction, defilement must not arise.",
+        "source": "T29n1563_039:0968c14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然於上下各至第三遠故。",
+        "translation": "However, it's because each of the upper and lower reaches the third and is distant.",
+        "source": "T29n1563_039:0968c14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無能超生第四故。",
+        "translation": "It's because there's nothing beyond the fourth that arises.",
+        "source": "T29n1563_039:0968c15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於無漏七等至中。",
+        "translation": "Of the seven uncontaminated equipoises, this one is the sixth.",
+        "source": "T29n1563_039:0968c15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從初靜慮無間生六。",
+        "translation": "From the first concentration, there are six that arise without interruption.",
+        "source": "T29n1563_039:0968c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自二三各淨無漏。",
+        "translation": "These are the first two and third, each of which is pure and uncontaminated.",
+        "source": "T29n1563_039:0968c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所有處無間生七。",
+        "translation": "From the unmanifest abode, seven are produced without interruption.",
+        "source": "T29n1563_039:0968c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自下六上地唯淨。",
+        "translation": "These are the lower six and the upper ground that are only pure.",
+        "source": "T29n1563_039:0968c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二靜慮無間生八。",
+        "translation": "From the second concentration, eight arises without interruption.",
+        "source": "T29n1563_039:0968c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自上六并下地二識。",
+        "translation": "It's produced from the six higher and two lower ground consciousnesses.",
+        "source": "T29n1563_039:0968c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無邊處無間生九。",
+        "translation": "The infinite realm arises without interruption. 9.",
+        "source": "T29n1563_039:0968c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自下六并上地三。",
+        "translation": "This refers to the bottom six and top three consciousnesses of the upper ground.",
+        "source": "T29n1563_039:0968c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三四空無間生十。",
+        "translation": "The third four realms of emptiness arise without interruption, ten.",
+        "source": "T29n1563_039:0968c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂上下八并自地二。",
+        "translation": "These are the eight from the upper and lower levels and the two from the ground itself.",
+        "source": "T29n1563_039:0968c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "類智無間能生無色。",
+        "translation": "Cognition of types can give rise to formlessness without interruption.",
+        "source": "T29n1563_039:0968c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智不然。",
+        "translation": "Dharma cognition doesn't.",
+        "source": "T29n1563_039:0968c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依緣別故。",
+        "translation": "It's based on a distinction in conditions.",
+        "source": "T29n1563_039:0968c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從淨等至所生亦然。",
+        "translation": "From purity and so forth, what's produced is likewise.",
+        "source": "T29n1563_039:0968c21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而各兼生自地染污。",
+        "translation": "Each one also produces defilements in their own ground.",
+        "source": "T29n1563_039:0968c22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故有頂淨無間生六。",
+        "translation": "Therefore, there are six top-pure forms that are produced without interruption.",
+        "source": "T29n1563_039:0968c22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自淨染下淨無漏。",
+        "translation": "These are the pure and uncontaminated ones that arise from the lower level of self-purity and defilement.",
+        "source": "T29n1563_039:0968c23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從初靜慮無間生七。",
+        "translation": "From the first concentration, there's an indirect birth of seven.",
+        "source": "T29n1563_039:0968c23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所有八。",
+        "translation": "The ungraspable eight.",
+        "source": "T29n1563_039:0968c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二定九。",
+        "translation": "From the second concentration, there's nine.",
+        "source": "T29n1563_039:0968c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識處生十。",
+        "translation": "arising from the locus of consciousness ... ten ...",
+        "source": "T29n1563_039:0968c24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘生十一。",
+        "translation": "The rest are born 11.",
+        "source": "T29n1563_039:0968c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從染等至生自淨染。",
+        "translation": "From defilement and so forth ... self-purification and defilement are produced.",
+        "source": "T29n1563_039:0968c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "并生次下一地淨定。",
+        "translation": "It also gives rise to the next lower level of pure concentration.",
+        "source": "T29n1563_039:0968c25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂為自地煩惱所逼。",
+        "translation": "It's when he's forced by the afflictions of his own ground.",
+        "source": "T29n1563_039:0968c25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於下淨定亦生尊重。",
+        "translation": "At the lower pure concentration, respect is also produced.",
+        "source": "T29n1563_039:0968c26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故有從染生次下淨。",
+        "translation": "Therefore, there's defilement that gives rise to the next lower level of purity.",
+        "source": "T29n1563_039:0968c26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極相違故不生無漏。",
+        "translation": "Because of this extreme contradiction, it doesn't give rise to the uncontaminated.",
+        "source": "T29n1563_039:0968c27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於染淨能正了知。",
+        "translation": "If he correctly understands defilement and purity, it's possible that defilement will lead to the next level of purity.",
+        "source": "T29n1563_039:0968c27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可能從染轉生下淨。",
+        "translation": "It's possible that defilement will lead to the production of lower purity.",
+        "source": "T29n1563_039:0968c28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則此淨還從淨生。",
+        "translation": "Then, this purity will arise from the pure again.",
+        "source": "T29n1563_039:0968c28_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以正了知是淨攝故。",
+        "translation": "It's because correct perception is included in purity.",
+        "source": "T29n1563_039:0968c29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非諸染污能正了知。",
+        "translation": "It's not the case that defilements can be correctly perceived.",
+        "source": "T29n1563_039:0968c29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如何彼能從染生淨。",
+        "translation": "How can they produce purity from defilement?",
+        "source": "T29n1563_039:0969a01_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先願力故。",
+        "translation": "It's because of the power of a prior vow.",
+        "source": "T29n1563_039:0969a01_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂先願言。",
+        "translation": "It's the prior vow that says.",
+        "source": "T29n1563_039:0969a01_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧得下淨。",
+        "translation": "'It's better to attain lower purity ...",
+        "source": "T29n1563_039:0969a02_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不須上染。",
+        "translation": "It doesn't have to be superior defilement.",
+        "source": "T29n1563_039:0969a02_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先願勢力隨相續轉。",
+        "translation": "The momentum of that prior vow follows continuously.",
+        "source": "T29n1563_039:0969a02_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故後從染生下淨定。",
+        "translation": "Therefore, defilement later gives rise to lower, pure concentrations.",
+        "source": "T29n1563_039:0969a03_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如先立願方趣睡眠。",
+        "translation": "Just as in the prior vow, he's headed for sleep.",
+        "source": "T29n1563_039:0969a03_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至所期時便能覺寤。",
+        "translation": "When he reaches the desired time, then he'll be able to awaken.",
+        "source": "T29n1563_039:0969a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是所說淨染生染。",
+        "translation": "Thus, it's said that pure defilement produces defilement.",
+        "source": "T29n1563_039:0969a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但約在定淨及染說。",
+        "translation": "It's only speaking about pure and defiled concentrations.",
+        "source": "T29n1563_039:0969a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若生淨染生染不然。",
+        "translation": "If pure defilement arises and defilement arises, then it's not the case.",
+        "source": "T29n1563_039:0969a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂命終時從生得淨。",
+        "translation": "It means that when his life ends, he'll be purified from birth.",
+        "source": "T29n1563_039:0969a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一無間生一切染。",
+        "translation": "One by one, there's no interruption in the production of all defilements.",
+        "source": "T29n1563_039:0969a06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若從生染一一無間能生自地一切下染不生上者。",
+        "translation": "If from the birth of defilements one by one, there's no interruption to produce all the lower defilements in their own ground that aren't produced above.",
+        "source": "T29n1563_039:0969a06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未離下故。",
+        "translation": "It's because they haven't yet left the lower part.",
+        "source": "T29n1563_039:0969a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言從淨生無漏者。",
+        "translation": "He says that from purity comes birth of the uncontaminated.",
+        "source": "T29n1563_039:0969a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為一切種皆能生耶。",
+        "translation": "Are they all capable of producing all kinds?",
+        "source": "T29n1563_039:0969a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不爾云何。",
+        "translation": "If that's not the case, then how is it?",
+        "source": "T29n1563_039:0969a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0969a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　淨定有四種　　謂即順退分",
+        "translation": "\"There are four kinds of pure concentration, namely, those that are conducive to regression.",
+        "source": "T29n1563_039:0969a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　順住順勝進　　順決擇分攝",
+        "translation": "Conformity, abiding, advancing, and the concomitant factors of discernment",
+        "source": "T29n1563_039:0969a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如次順煩惱　　自上地無漏",
+        "translation": "thus following the afflictions, untainted in the higher stages of self",
+        "source": "T29n1563_039:0969a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　互相望如次　　生二三三一",
+        "translation": "to look at each other in the following order to give rise to two, three, three, and one",
+        "source": "T29n1563_039:0969a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0969a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸淨等至總有四種。",
+        "translation": "\"There are four general categories of pure equipoises.",
+        "source": "T29n1563_039:0969a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一順退分攝。",
+        "translation": "One is that which is subsumed in the aspect of conformity and retrogression.",
+        "source": "T29n1563_039:0969a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二順住分攝。",
+        "translation": "Two are subsumed in the subordination to the abiding aspect.",
+        "source": "T29n1563_039:0969a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三順勝進分攝。",
+        "translation": "Three are subsumed in the subordination to the advancing aspect.",
+        "source": "T29n1563_039:0969a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四順決擇分攝。",
+        "translation": "The fourth is subsumed in the aspect of deference to discernment.",
+        "source": "T29n1563_039:0969a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地各有四。",
+        "translation": "There are four grounds each.",
+        "source": "T29n1563_039:0969a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有頂唯三。",
+        "translation": "The highest ground is only three.",
+        "source": "T29n1563_039:0969a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼更無上地可趣故。",
+        "translation": "It's because there's no higher ground to which he can go.",
+        "source": "T29n1563_039:0969a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼地無有順勝進分攝。",
+        "translation": "There's nothing in that ground that's subordinate to the factors of superior advancement.",
+        "source": "T29n1563_039:0969a16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此四中唯第四分能生無漏。",
+        "translation": "Of these four, only the fourth is capable of producing the uncontaminated.",
+        "source": "T29n1563_039:0969a17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T29n1563_039:0969a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此四種有如是相順退分。",
+        "translation": "These four kinds of factors have this kind of consistency, which are the factors of going along with retreat.",
+        "source": "T29n1563_039:0969a18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能順煩惱順住分。",
+        "translation": "They can conform to the afflictive aspect, the conforming aspect of abiding, and the conforming aspect of advancing to the fourth ground.",
+        "source": "T29n1563_039:0969a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能順自地順勝進分。",
+        "translation": "They can conform to the aspect of self-ground and conform to the aspect of superior advancement.",
+        "source": "T29n1563_039:0969a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能順上地順決擇分。",
+        "translation": "They can conform to the higher ground and conform to the aspect of discernment.",
+        "source": "T29n1563_039:0969a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能順無漏。",
+        "translation": "They can conform to the uncontaminated part.",
+        "source": "T29n1563_039:0969a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故諸無漏唯從此生。",
+        "translation": "Therefore, the only way the uncontaminated can arise is from this.",
+        "source": "T29n1563_039:0969a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "translation": "There are other teachers who say.",
+        "source": "T29n1563_039:0969a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順退分者住彼可退。",
+        "translation": "'Conforming to the aspect of regression, it's possible to regress from that stage.",
+        "source": "T29n1563_039:0969a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順住分者住彼不退。",
+        "translation": "Those who follow the aspect of abiding will abide there and not retreat.",
+        "source": "T29n1563_039:0969a21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不勝進順勝進分者住彼能勝進。",
+        "translation": "Nor is it superior advancement. Those who follow the superior advancement aspect will abide there and be able to advance superiorly.",
+        "source": "T29n1563_039:0969a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順決擇分者住彼起聖道。",
+        "translation": "Those who abide according to the aspect of discernment will be able to produce the noble path.",
+        "source": "T29n1563_039:0969a23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有言住彼順通達諦。",
+        "translation": "He who says he abides in that aspect and follows the fully comprehended truth.",
+        "source": "T29n1563_039:0969a23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此無間能入離生。",
+        "translation": "By doing so, he's uninterruptedly able to enter into freedom from birth.",
+        "source": "T29n1563_039:0969a24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知此中決定義者。",
+        "translation": "You should know the meaning of this determination.",
+        "source": "T29n1563_039:0969a24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸聖道必此無間生。",
+        "translation": "It means that the noble paths must be produced by this kind of lack of interruption.",
+        "source": "T29n1563_039:0969a25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非此無間必能生聖道。",
+        "translation": "Unless this is the absence of interruption, the noble path can surely arise.",
+        "source": "T29n1563_039:0969a25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若異此者。",
+        "translation": "If it's different from this, then it should be said that the only thing that arises is the highest worldly truth.",
+        "source": "T29n1563_039:0969a26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則應說唯世第一法名順決擇分。",
+        "translation": "Then it should be said that the only thing that's called the right ascertainment aspect is the world's highest dharma.",
+        "source": "T29n1563_039:0969a26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "translation": "There are other masters who say.",
+        "source": "T29n1563_039:0969a27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順退分者。",
+        "translation": "'The agreeable aspect of retrogression.'",
+        "source": "T29n1563_039:0969a27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與諸煩惱下上相雜。",
+        "translation": "It's mixed with the lower and higher parts of the afflictions.",
+        "source": "T29n1563_039:0969a27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "染淨展轉現在前故。",
+        "translation": "It's because defilement and purity are continually manifested in the present.",
+        "source": "T29n1563_039:0969a28_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順住分者。",
+        "translation": "The group that follows the aspect of abiding.",
+        "source": "T29n1563_039:0969a28_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能以種種麁等行相棄背下地靜等行相攝受自地。",
+        "translation": "He can bring himself to the ground with various crude and other forms of behavior, abandoning the lower ground and other forms of behavior that are quiescent.",
+        "source": "T29n1563_039:0969a28_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順勝進分者。",
+        "translation": "Those who follow the aspect of superior advancement.",
+        "source": "T29n1563_039:0969b01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自地過上地功德。",
+        "translation": "He observes the superior merits of his own ground compared to those of the higher ground.",
+        "source": "T29n1563_039:0969b01_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順決擇分者。",
+        "translation": "Those who go along with the aspect of discernment.",
+        "source": "T29n1563_039:0969b01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如煖頂忍世第一法無漏無間何分現前。",
+        "translation": "It's like the world's first dharma of forbearance at the level of warmth, which is uncontaminated, uninterrupted, and which part is manifested.",
+        "source": "T29n1563_039:0969b02_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說通三。",
+        "translation": "It's said to be shared with three.",
+        "source": "T29n1563_039:0969b03_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除順退分。",
+        "translation": "Except for the aspect of concomitant withdrawal, there are really only two.",
+        "source": "T29n1563_039:0969b03_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理實唯二。",
+        "translation": "There are really only two in principle.",
+        "source": "T29n1563_039:0969b03_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂後二種諸有修習超等至等。",
+        "translation": "The latter two are those that have cultivation that transcends equipoise and so forth.",
+        "source": "T29n1563_039:0969b03_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯順決擇最堅勝故。",
+        "translation": "Only those who follow right ascertainment are the most resolute.",
+        "source": "T29n1563_039:0969b04_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸瑜伽師作如是說。",
+        "translation": "The yogis say this.",
+        "source": "T29n1563_039:0969b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若觀行者。",
+        "translation": "'Suppose a practitioner observes.",
+        "source": "T29n1563_039:0969b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自地定。",
+        "translation": "At the concentration of his own ground, he doesn't well comprehend it and doesn't constantly abide in it.",
+        "source": "T29n1563_039:0969b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不善通達不恒安住。",
+        "translation": "He doesn't well comprehend it and doesn't constantly abide in it.",
+        "source": "T29n1563_039:0969b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於上地定。",
+        "translation": "At higher-level concentration, he can't aspire to it.",
+        "source": "T29n1563_039:0969b06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能欣求。",
+        "translation": "He's unable to aspire to it.",
+        "source": "T29n1563_039:0969b06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "數數現行順下地想。",
+        "translation": "He repeatedly gives rise to conceptions that follow the lower ground.",
+        "source": "T29n1563_039:0969b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼之等持名順退分。",
+        "translation": "Their equipoise is called the agreeable aspect of retrogression.",
+        "source": "T29n1563_039:0969b07_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或由自地離染退得名順退分。",
+        "translation": "Perhaps it's because they've partaken of the retreat from defilement in their own ground that they're called the agreeable aspect of retreat.",
+        "source": "T29n1563_039:0969b07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成就此定補特伽羅名為退者。",
+        "translation": "Accomplishing this concentration, which is called retrogression, is like forming the practice of a cow, which is called a cow.",
+        "source": "T29n1563_039:0969b08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如成牛行說名為牛。",
+        "translation": "He's like a bull that's formed in its tracks and called a bull.",
+        "source": "T29n1563_039:0969b09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凶勃難迴說名牛行。",
+        "translation": "When it's difficult to retreat, it's called the ox's behavior.",
+        "source": "T29n1563_039:0969b09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自地定耽著不捨。",
+        "translation": "In their own grounded concentration, they're addicted and don't abandon it.",
+        "source": "T29n1563_039:0969b10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於上地定不能欣求。",
+        "translation": "In the higher ground of concentration, they can't aspire to it.",
+        "source": "T29n1563_039:0969b10_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼之等持名順住分。",
+        "translation": "Such equipoise is called the subordinate abiding part.",
+        "source": "T29n1563_039:0969b11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自地定雖能多住。",
+        "translation": "Although they can often abide in their own grounded concentration.",
+        "source": "T29n1563_039:0969b11_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而不耽著。",
+        "translation": "They don't hold back.",
+        "source": "T29n1563_039:0969b12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於上地定欣樂牽引。",
+        "translation": "In the higher ground of concentration, he's delighted to be led.",
+        "source": "T29n1563_039:0969b12_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼之等持名順勝進分。",
+        "translation": "This equipoise is called the part that accords with superior effort.",
+        "source": "T29n1563_039:0969b12_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自上定皆不耽著多住厭想。",
+        "translation": "In their higher concentrations, they aren't addicted to the idea of many abiding and becoming disillusioned.",
+        "source": "T29n1563_039:0969b13_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲令斷彼之等持。",
+        "translation": "He wants to cause them to end their equipoise.",
+        "source": "T29n1563_039:0969b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名順決擇分。",
+        "translation": "It's called following the aspect of discernment.",
+        "source": "T29n1563_039:0969b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有安住順退分者。",
+        "translation": "Those who are stable in the aspect of conformity and retrogression.",
+        "source": "T29n1563_039:0969b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於廣大果心多繫縛。",
+        "translation": "Their minds are often fettered by the vast fruit.",
+        "source": "T29n1563_039:0969b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有安住順住分者。",
+        "translation": "Those who have the aspect of abiding comfortably and resolutely will not be able to seek upward.",
+        "source": "T29n1563_039:0969b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "數住自定不能上求。",
+        "translation": "They repeatedly abide in their own concentration and aren't able to seek upward.",
+        "source": "T29n1563_039:0969b16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有安住順勝進者。",
+        "translation": "Those who abide contentedly in the portion of resolute advancement ...",
+        "source": "T29n1563_039:0969b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能展轉求所餘勝定。",
+        "translation": "They can continue to pursue the remaining stages of superior concentration.",
+        "source": "T29n1563_039:0969b17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然勝進分總有二種。",
+        "translation": "Still, there are two general categories of the portion of superior advancement.",
+        "source": "T29n1563_039:0969b17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者自地殊勝功德。",
+        "translation": "One is the superior qualities of the first ground.",
+        "source": "T29n1563_039:0969b18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者上地殊勝功德。",
+        "translation": "The second is the superior virtue of the higher ground.",
+        "source": "T29n1563_039:0969b18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若能牽引彼名順勝進分。",
+        "translation": "If someone can draw them in, they're called the factors of resilient advancement.",
+        "source": "T29n1563_039:0969b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此有二類。",
+        "translation": "There are two kinds of these.",
+        "source": "T29n1563_039:0969b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或厭或欣。",
+        "translation": "They're either disliked or delighted in.",
+        "source": "T29n1563_039:0969b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有安住順決擇者。",
+        "translation": "Those who have settled down to follow discernment.",
+        "source": "T29n1563_039:0969b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂斷諸有樂修無漏。",
+        "translation": "They enjoy ending existence and happily cultivate the uncontaminated.",
+        "source": "T29n1563_039:0969b20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名安住。",
+        "translation": "This is called abiding in well-being.",
+        "source": "T29n1563_039:0969b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四分者別。",
+        "translation": "The four parts are distinct.",
+        "source": "T29n1563_039:0969b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若順煩惱名順退分。",
+        "translation": "If someone follows the afflictions, they're called following the aspect of retrogression.",
+        "source": "T29n1563_039:0969b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸阿羅漢寧有退理。",
+        "translation": "It's more likely that arhats will have the principle of retrogression.",
+        "source": "T29n1563_039:0969b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非彼猶有順退分定。",
+        "translation": "It's not that they still have the subordinate aspect of retrogression.",
+        "source": "T29n1563_039:0969b22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可令現行離染捨故。",
+        "translation": "It's because it's possible to free the present from defilement and abandon it.",
+        "source": "T29n1563_039:0969b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有此難而實無違。",
+        "translation": "Although there's this difficulty, it's really not a contradiction.",
+        "source": "T29n1563_039:0969b23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂順住中有順退者。",
+        "translation": "It means that someone in the stage of going along with retreat has the aspect of going along with retreat.",
+        "source": "T29n1563_039:0969b23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦得建立順退分名。",
+        "translation": "It's also possible to establish the name of the aspect of going along with retrogression.",
+        "source": "T29n1563_039:0969b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從彼有退如先已說。",
+        "translation": "From there, there's retrogression as explained earlier.",
+        "source": "T29n1563_039:0969b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此四相望互相生者。",
+        "translation": "\"These four aspects are expected to mutually produce one another.",
+        "source": "T29n1563_039:0969b25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初能生二。",
+        "translation": "The first can give rise to two.",
+        "source": "T29n1563_039:0969b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂順退住。",
+        "translation": "This is the abode of going along with regression.",
+        "source": "T29n1563_039:0969b25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二生三。",
+        "translation": "The second gives rise to three.",
+        "source": "T29n1563_039:0969b26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除順決擇。",
+        "translation": "These are the three that arise in addition to those that follow right ascertainment.",
+        "source": "T29n1563_039:0969b26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三生三。",
+        "translation": "The third gives rise to three.",
+        "source": "T29n1563_039:0969b26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除順退分。",
+        "translation": "These are the stages of avoiding agreeable retrogression.",
+        "source": "T29n1563_039:0969b26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四生一。",
+        "translation": "The fourth gives rise to one.",
+        "source": "T29n1563_039:0969b27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自非餘。",
+        "translation": "It's self-evident and not other.",
+        "source": "T29n1563_039:0969b27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說亦生順勝進分。",
+        "translation": "It's also said to give rise to the aspect of following superior progress.",
+        "source": "T29n1563_039:0969b27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如上所言。",
+        "translation": "It's as explained above.",
+        "source": "T29n1563_039:0969b28_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨及無漏。",
+        "translation": "Both pure and uncontaminated.",
+        "source": "T29n1563_039:0969b28_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆能上下超至第三。",
+        "translation": "They both go up and down to transcend the third.",
+        "source": "T29n1563_039:0969b28_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行者如何修超等至。",
+        "translation": "How does a practitioner cultivate transcendence and reach it equally?",
+        "source": "T29n1563_039:0969b29_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "加行成滿差別云何。",
+        "translation": "What are the differences between the completion of applied practices?",
+        "source": "T29n1563_039:0969b29_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0969c01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　二類定順逆　　均間次及超",
+        "translation": "'The two kinds of determined adversity are equally graded and transcended.'",
+        "source": "T29n1563_039:0969c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　至間超為成　　三洲利無學",
+        "translation": "attain supernormal success in the three continents, and benefit post-learner students",
+        "source": "T29n1563_039:0969c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0969c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本善等至分為二類。",
+        "translation": "\"There are two kinds of originally good equipoises.",
+        "source": "T29n1563_039:0969c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者有漏。",
+        "translation": "One is contaminated ...",
+        "source": "T29n1563_039:0969c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者無漏。",
+        "translation": "The second is uncontaminated.",
+        "source": "T29n1563_039:0969c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "往上名順。",
+        "translation": "Going up is called agreeable.",
+        "source": "T29n1563_039:0969c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "還下名逆。",
+        "translation": "Going back down is called reversal.",
+        "source": "T29n1563_039:0969c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同類名均。",
+        "translation": "Those of the same type are called even ...",
+        "source": "T29n1563_039:0969c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "異類名間。",
+        "translation": "Those of a different kind are called interdependent.",
+        "source": "T29n1563_039:0969c05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相鄰名次。",
+        "translation": "Their neighbors are called inferior.",
+        "source": "T29n1563_039:0969c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "越一名超。",
+        "translation": "Going beyond one is called transcendent.",
+        "source": "T29n1563_039:0969c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂觀行者修超定時。",
+        "translation": "When a practitioner observes this, he cultivates transcendent concentration.",
+        "source": "T29n1563_039:0969c06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先於有漏八地等至。",
+        "translation": "He first attains the contaminated eighth ground and so forth.",
+        "source": "T29n1563_039:0969c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順逆均次現前數習。",
+        "translation": "He'll repeatedly cultivate the present in an even sequence, both forward and reverse.",
+        "source": "T29n1563_039:0969c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次於無漏七地等至。",
+        "translation": "Next, at the untainted seventh ground's equipoise.",
+        "source": "T29n1563_039:0969c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順逆均次現前數習。",
+        "translation": "He demonstrates the preceding accumulations in equal order, both forward and reverse.",
+        "source": "T29n1563_039:0969c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次於有漏無漏等至。",
+        "translation": "Next, at the contaminated and uncontaminated equipoises.",
+        "source": "T29n1563_039:0969c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順逆間次現前數習。",
+        "translation": "He shows the preceding accumulations in sequence, both forward and reverse.",
+        "source": "T29n1563_039:0969c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次於有漏順逆均超現前數習。",
+        "translation": "Next, in the case of the contaminated, both agreeable and adverse are exceeded by the number of prior formative formative formative formative formative formative formative formative formative moments.",
+        "source": "T29n1563_039:0969c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次於無漏順逆均超現前數習。",
+        "translation": "Next, in the case of the uncontaminated, both agreeable and adverse [karmic] formations exceed the previous number of formations.",
+        "source": "T29n1563_039:0969c10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名修習超加行滿。",
+        "translation": "This is called cultivating the accumulation beyond the completion of applied practices.",
+        "source": "T29n1563_039:0969c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後於有漏無漏等至。",
+        "translation": "Subsequently, in the case of contaminated and uncontaminated equipoises, the number of accumulations that precede them is exceeded.",
+        "source": "T29n1563_039:0969c11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順逆間超名超定成。",
+        "translation": "To transcend both adversity and adversity is called transcending concentration.",
+        "source": "T29n1563_039:0969c12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中超者。",
+        "translation": "\"Transcending in this context refers to two things.",
+        "source": "T29n1563_039:0969c12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂頓超二。",
+        "translation": "There are two kinds of transcendence: sudden transcendence and reverse transcendence.",
+        "source": "T29n1563_039:0969c12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者超地。",
+        "translation": "One is to transcend the ground.",
+        "source": "T29n1563_039:0969c13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者超法。",
+        "translation": "The second transcends dharmas.",
+        "source": "T29n1563_039:0969c13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯能超一故至第三。",
+        "translation": "Only one can transcend, so it reaches the third.",
+        "source": "T29n1563_039:0969c13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠故無能超入第四。",
+        "translation": "Because it's distant, there's no way to transcend it and enter the fourth.",
+        "source": "T29n1563_039:0969c14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修超等至唯欲三洲。",
+        "translation": "Cultivating transcendence and so forth only leads to the desire for the three continents.",
+        "source": "T29n1563_039:0969c14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除北俱盧。",
+        "translation": "Except for northern Kulo.",
+        "source": "T29n1563_039:0969c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然通男女。",
+        "translation": "However, it's shared by both men and women.",
+        "source": "T29n1563_039:0969c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不時解脫諸阿羅漢。",
+        "translation": "Arhats who are liberated from time to time.",
+        "source": "T29n1563_039:0969c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "要得無諍妙願智等。",
+        "translation": "They must attain the knowledge of the wondrous vows without debate and so forth.",
+        "source": "T29n1563_039:0969c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "邊際定者能超非餘。",
+        "translation": "Someone who's at the limit of concentration can transcend what's not other than that.",
+        "source": "T29n1563_039:0969c16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "定自在故。",
+        "translation": "That's because his concentration is self-contained.",
+        "source": "T29n1563_039:0969c16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無煩惱故。",
+        "translation": "It's because he has no afflictions.",
+        "source": "T29n1563_039:0969c17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時解脫者。",
+        "translation": "Those who are liberated at the time.",
+        "source": "T29n1563_039:0969c17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖無煩惱定不自在。",
+        "translation": "Although he has no afflictions, his concentration isn't self-possessed.",
+        "source": "T29n1563_039:0969c17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸見至者雖定自在。",
+        "translation": "Even though those who have attained views are certainly at ease in their concentration.",
+        "source": "T29n1563_039:0969c18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘煩惱。",
+        "translation": "They have residual afflictions.",
+        "source": "T29n1563_039:0969c18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故皆不能修超等至。",
+        "translation": "Therefore, they can't cultivate transcendence and attain it.",
+        "source": "T29n1563_039:0969c18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勝解作意不能無間修超等至勢力劣故。",
+        "translation": "Because their resolve and contemplation can't uninterruptedly cultivate transcendent attainments, their power is weak.",
+        "source": "T29n1563_039:0969c19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此諸等至依何身起。",
+        "translation": "What is the basis for the body from which these attainments arise?",
+        "source": "T29n1563_039:0969c20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0969c20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　諸定依自下　　非上無用故",
+        "translation": "'The concentrations are based on their own descendants, which are not superior and useless.'",
+        "source": "T29n1563_039:0969c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　唯生有頂聖　　起下盡餘惑",
+        "translation": "only the sages who are born at the top of the ladder give rise to the remaining afflictions that are extinguished below",
+        "source": "T29n1563_039:0969c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0969c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸等至起依自下身。",
+        "translation": "\"Such perfections arise based on a lower body.",
+        "source": "T29n1563_039:0969c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依上地身無容起下。",
+        "translation": "Relying on the body of the higher ground, there's no room for the arising of the lower.",
+        "source": "T29n1563_039:0969c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上地起下無所用故。",
+        "translation": "It's because there's no use for the higher ground to raise the lower body.",
+        "source": "T29n1563_039:0969c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自有勝定故。",
+        "translation": "It's because they themselves have superior concentration.",
+        "source": "T29n1563_039:0969c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下勢力劣故。",
+        "translation": "It's because the lower part's power is weak.",
+        "source": "T29n1563_039:0969c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已棄捨故。",
+        "translation": "It's because it's been discarded.",
+        "source": "T29n1563_039:0969c25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可厭毀故。",
+        "translation": "It's disgusting.",
+        "source": "T29n1563_039:0969c25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總相雖然。",
+        "translation": "Although it's a general statement, it's not.",
+        "source": "T29n1563_039:0969c25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若委細說。",
+        "translation": "If we explain it in detail.",
+        "source": "T29n1563_039:0969c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖生有頂必超無漏。",
+        "translation": "The noble being at the top of existence must transcend the untainted.",
+        "source": "T29n1563_039:0969c26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所有處為盡自地。",
+        "translation": "The untainted place is his own ground of completion.",
+        "source": "T29n1563_039:0969c26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所餘煩惱自無聖道。",
+        "translation": "The remaining afflictions themselves lack the noble path.",
+        "source": "T29n1563_039:0969c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欣樂起故唯無所有。",
+        "translation": "Only the ungraspable arises because it's pleasant.",
+        "source": "T29n1563_039:0969c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "最隣近故起彼現前盡餘煩惱。",
+        "translation": "Their closest proximity is why they give rise to the remaining afflictions that are present and exhausted.",
+        "source": "T29n1563_039:0969c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離無漏道必無有能。",
+        "translation": "Being free of the uncontaminated path, there must be nothing that can ...",
+        "source": "T29n1563_039:0969c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷彼餘惑成阿羅漢。",
+        "translation": "He'll end their remaining afflictions and become an arhat.",
+        "source": "T29n1563_039:0969c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故有頂無漏無所有處依九地身。",
+        "translation": "Therefore, the uncontaminated, unarisen, and unowned parts of existence rely on the ninth ground body.",
+        "source": "T29n1563_039:0969c29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有漏無所有處依八地身。",
+        "translation": "The contaminated untainted state relies on the eighth ground body.",
+        "source": "T29n1563_039:0970a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有漏無漏識無邊處依七地身。",
+        "translation": "The unbounded state of contaminated and uncontaminated consciousness relies on the body of the seventh ground.",
+        "source": "T29n1563_039:0970a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊處依六地身。",
+        "translation": "The sphere of the infinity of emptiness relies on the sixth ground body.",
+        "source": "T29n1563_039:0970a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至初定依二地身。",
+        "translation": "... the first stage of concentration depends on the body of the second stage.",
+        "source": "T29n1563_039:0970a03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自及欲若成就依有漏如起無漏一切依九地身諸等至中誰緣何境。",
+        "translation": "That is, he depends on the body of the ninth ground for himself and his desires, and he depends on the contaminated, thus-arisen, uncontaminated, and all of them, depending on which object among these equipoises.",
+        "source": "T29n1563_039:0970a03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0970a05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　味定緣自繫　　淨無漏遍緣",
+        "translation": "'Taste concentration depends on self-binding, pure, uncontaminated, and pervasive conditioning.'",
+        "source": "T29n1563_039:0970a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　根本善無色　　不緣下有漏",
+        "translation": "fundamentally good, formless, and unconditioned by lower contaminants",
+        "source": "T29n1563_039:0970a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0970a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "味定但緣自地有漏法。",
+        "translation": "\"Taste concentration is contingent only on contaminated dharmas in their own ground.",
+        "source": "T29n1563_039:0970a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以有漏法是所繫事故。",
+        "translation": "It's because contaminated dharmas are the contingencies that are bound.",
+        "source": "T29n1563_039:0970a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所繫言顯是三有攝。",
+        "translation": "The words that are tied up are clearly the three ways of being included.",
+        "source": "T29n1563_039:0970a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不緣無漏法。",
+        "translation": "It doesn't refer to uncontaminated dharmas.",
+        "source": "T29n1563_039:0970a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "愛行相轉故。",
+        "translation": "It's because they're conditioned by the mutuality of craving and activity.",
+        "source": "T29n1563_039:0970a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若愛無漏應非煩惱。",
+        "translation": "If someone loves the uncontaminated, they shouldn't be afflicted.",
+        "source": "T29n1563_039:0970a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不緣上地法。",
+        "translation": "It's not contingent on higher ground dharmas.",
+        "source": "T29n1563_039:0970a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "愛界地別故。",
+        "translation": "It's because they love the distinction between element and ground.",
+        "source": "T29n1563_039:0970a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不緣下地法。",
+        "translation": "It's not conditioned by lower ground dharmas.",
+        "source": "T29n1563_039:0970a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已離彼貪故。",
+        "translation": "It's because he's free of that desire.",
+        "source": "T29n1563_039:0970a11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨及無漏俱能遍緣自上下地。",
+        "translation": "Both the pure and the uncontaminated can pervasively refer to their own upper and lower stages.",
+        "source": "T29n1563_039:0970a11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有為無為皆為境故。",
+        "translation": "It's because both the existent and the unexplored are objects.",
+        "source": "T29n1563_039:0970a12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有差別者。",
+        "translation": "There's a distinction.",
+        "source": "T29n1563_039:0970a13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無記無為非無漏境。",
+        "translation": "What's indeterminate and impermanent is not an uncontaminated object.",
+        "source": "T29n1563_039:0970a13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯有於法說能遍緣無非所緣。",
+        "translation": "There's only one thing that's said to pervade the perceptual objects and nothing that isn't the perceptual object.",
+        "source": "T29n1563_039:0970a13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前已說故根本地攝。",
+        "translation": "As explained earlier, the fundamental ground is therefore included.",
+        "source": "T29n1563_039:0970a14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善無色定不緣下地諸有漏法。",
+        "translation": "Well-formed formless concentration doesn't have any reference to contaminated dharmas in the lower stages.",
+        "source": "T29n1563_039:0970a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以下地法不寂靜故。",
+        "translation": "It's because the factors in the lower ground aren't quiescent.",
+        "source": "T29n1563_039:0970a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本善無色極寂靜故。",
+        "translation": "It's because the originally good formless concentration is perfectly quiescent.",
+        "source": "T29n1563_039:0970a16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此理故經於無色皆言超越一切下地。",
+        "translation": "Because of this principle, the sūtras say that formlessness transcends all lower ground states.",
+        "source": "T29n1563_039:0970a16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸靜慮不如是說。",
+        "translation": "It's not like this to say that about all meditations.",
+        "source": "T29n1563_039:0970a17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以本無色不緣下繫。",
+        "translation": "It's because the originally formless doesn't have lower tethers as an issue.",
+        "source": "T29n1563_039:0970a18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故於下說超越言。",
+        "translation": "Therefore, it's said to transcend the lower [realms].",
+        "source": "T29n1563_039:0970a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸靜慮中有遍緣智。",
+        "translation": "'In all meditations, there's the knowledge of pervasive referents.'",
+        "source": "T29n1563_039:0970a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故於下地不言超越。",
+        "translation": "Therefore, it's not said to transcend the lower ground.",
+        "source": "T29n1563_039:0970a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既說超越色想等言。",
+        "translation": "Since it's said to transcend form and perception, and so forth.",
+        "source": "T29n1563_039:0970a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故知但依超所緣說。",
+        "translation": "Therefore, it's known that it's only spoken of in terms of transcending perceptual objects.",
+        "source": "T29n1563_039:0970a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若此超越為顯離繫。",
+        "translation": "If this transcendence is meant to reveal freedom from binding, then it should be said to transcend them all.",
+        "source": "T29n1563_039:0970a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應說超一切。",
+        "translation": "It should be said to transcend them all.",
+        "source": "T29n1563_039:0970a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非唯色想等。",
+        "translation": "It's not just form and perception and so forth.",
+        "source": "T29n1563_039:0970a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又靜慮中應言超越。",
+        "translation": "Also, in meditation, it should be said to transcend.",
+        "source": "T29n1563_039:0970a21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自上地法無不能緣。",
+        "translation": "There's nothing in the higher ground that he can't refer to.",
+        "source": "T29n1563_039:0970a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖亦能緣下地無漏。",
+        "translation": "Even though it can also refer to the lower ground as uncontaminated, it only refers to types and doesn't refer to qualities.",
+        "source": "T29n1563_039:0970a22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而但緣類不緣法品。",
+        "translation": "However, it only refers to types and doesn't refer to qualities of dharmas.",
+        "source": "T29n1563_039:0970a23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以但能緣自全治故。",
+        "translation": "It's because they can only refer to their own complete remedy.",
+        "source": "T29n1563_039:0970a23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法非全治。",
+        "translation": "The Dharma is not completely governed.",
+        "source": "T29n1563_039:0970a24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如先已說。",
+        "translation": "As explained earlier, the Dharma category path is in the formless realm.",
+        "source": "T29n1563_039:0970a24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又法品道於無色界。",
+        "translation": "\"Furthermore, the path of the qualities of dharmas is in the formless realm.",
+        "source": "T29n1563_039:0970a24_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖能對治是客非主。",
+        "translation": "Even though it's an object and not a subject, it can't be conditioned by the cessation of lower-level dharmas.",
+        "source": "T29n1563_039:0970a25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不能緣下地法滅。",
+        "translation": "It can't condition the cessation of dharmas in the lower realms.",
+        "source": "T29n1563_039:0970a25_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既遮無色根本緣下義准近分有緣下能彼無間道必緣下故。",
+        "translation": "Since it obscures the meaning of the formless root as a condition for the lower realm, according to the proximate part, there are conditions for the lower realm that make it possible for the uninterrupted path to be a condition for the lower realm.",
+        "source": "T29n1563_039:0970a26_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "味淨無漏三等至中。",
+        "translation": "Of the three samādhis of taste, purity, and lack of contamination, what is the power that can stop the afflictions?",
+        "source": "T29n1563_039:0970a27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等力能斷諸煩惱。",
+        "translation": "What's their power to end the afflictions?'",
+        "source": "T29n1563_039:0970a28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0970a28_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　無漏能斷惑　　及諸淨近分",
+        "translation": "'The untainted are able to stop afflictions and purify the proximate parts.'",
+        "source": "T29n1563_039:0970a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0970b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸無漏定皆能斷惑。",
+        "translation": "\"All uncontaminated concentrations are capable of ending mental disturbances.",
+        "source": "T29n1563_039:0970b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本淨尚無能。",
+        "translation": "The originally pure still aren't able to do so.",
+        "source": "T29n1563_039:0970b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況諸染能斷。",
+        "translation": "It's not even possible to stop defilements.",
+        "source": "T29n1563_039:0970b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂本淨定不能斷下。",
+        "translation": "That means the originally pure concentration can't cut the lower part.",
+        "source": "T29n1563_039:0970b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已離染故不能斷上。",
+        "translation": "Having parted with defilements, it can't cut the higher.",
+        "source": "T29n1563_039:0970b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以勝己故。",
+        "translation": "It's because it's superior to self.",
+        "source": "T29n1563_039:0970b03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能斷自與自地惑。",
+        "translation": "It can't stop the afflictions in its own mind and in its own ground.",
+        "source": "T29n1563_039:0970b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同一縛故。",
+        "translation": "It's because they're both equally fettered.",
+        "source": "T29n1563_039:0970b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又自於自非對治故。",
+        "translation": "Furthermore, since self and self are not antidotes, it's not possible to stop the afflictions in the first place.",
+        "source": "T29n1563_039:0970b04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若淨近分亦能斷惑。",
+        "translation": "If the pure and near parts of the afflictions can also be stopped, then they can be stopped.",
+        "source": "T29n1563_039:0970b04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以皆能斷次下地故。",
+        "translation": "It's because they're all capable of stopping the lower-level afflictions.",
+        "source": "T29n1563_039:0970b05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中間攝淨亦不能斷。",
+        "translation": "The middle path of gathering in the pure can't be stopped either.",
+        "source": "T29n1563_039:0970b05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "近分有幾何受相應。",
+        "translation": "How many of the near parts are associated with sensation?",
+        "source": "T29n1563_039:0970b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於味等三為皆具不。",
+        "translation": "Are all three of these things present in taste and so forth?",
+        "source": "T29n1563_039:0970b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0970b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　近分八捨淨　　初亦聖惑三",
+        "translation": "\"The first of the eight near-part purifications of equanimity is also the three holy afflictions.",
+        "source": "T29n1563_039:0970b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T29n1563_039:0970b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸近分定亦有八種。",
+        "translation": "\"There are also eight kinds of near-part concentration.",
+        "source": "T29n1563_039:0970b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與八根本為入門故。",
+        "translation": "It's because they are the entryway to the eight fundamentals.",
+        "source": "T29n1563_039:0970b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切唯一捨受相應。",
+        "translation": "They are all associated with the only sensation of equanimity.",
+        "source": "T29n1563_039:0970b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作功用轉故。",
+        "translation": "It's because they produce effort and change.",
+        "source": "T29n1563_039:0970b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未離下怖故。",
+        "translation": "It's because they haven't yet escaped from lower fears.",
+        "source": "T29n1563_039:0970b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此八近分皆淨定攝。",
+        "translation": "These eight proximate parts are all included in pure concentration.",
+        "source": "T29n1563_039:0970b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯初近分亦通無漏。",
+        "translation": "Only the first near part is also shared with the uncontaminated.",
+        "source": "T29n1563_039:0970b11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆無有味離染道故。",
+        "translation": "They're all without taste and free of the path of defilement.",
+        "source": "T29n1563_039:0970b12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上七近分無無漏者。",
+        "translation": "The upper seven parts of the near approach are uncontaminated.",
+        "source": "T29n1563_039:0970b12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自地法不厭背故。",
+        "translation": "It's because they don't tire of deviating from the principles of their own ground.",
+        "source": "T29n1563_039:0970b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯初近分通無漏者。",
+        "translation": "Only the first proximal part is fluent in the absence of contaminants.",
+        "source": "T29n1563_039:0970b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自地法能厭背故。",
+        "translation": "It's because they're able to become disillusioned with the qualities of their own ground.",
+        "source": "T29n1563_039:0970b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此地極隣近。",
+        "translation": "This ground is extremely near.",
+        "source": "T29n1563_039:0970b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多災患界故。",
+        "translation": "It's because there are many dangerous and hazardous realms.",
+        "source": "T29n1563_039:0970b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以諸欲貪由尋伺起。",
+        "translation": "It's because desire and greed arise from discursive thought.",
+        "source": "T29n1563_039:0970b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此地猶有尋伺隨故。",
+        "translation": "It's because there's still discursive pursuit in this ground.",
+        "source": "T29n1563_039:0970b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾何緣毘婆沙說。",
+        "translation": "If that's the case, then how does Vibhāṣā say it is?",
+        "source": "T29n1563_039:0970b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸近分地有結生心。",
+        "translation": "'Nearby stages have a mind that's produced from bonds.'",
+        "source": "T29n1563_039:0970b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非無染心有結生理。",
+        "translation": "They aren't undefiled minds that have fetters and bodies.",
+        "source": "T29n1563_039:0970b16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故應近分。",
+        "translation": "Therefore, it should be the proximate part.",
+        "source": "T29n1563_039:0970b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有味相應。",
+        "translation": "It's associated with taste.",
+        "source": "T29n1563_039:0970b17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今於此中遮有定染不遮生染。",
+        "translation": "Here, it's covering defilement with concentration and not defilement with arising.",
+        "source": "T29n1563_039:0970b17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不相違。",
+        "translation": "Therefore, there's no contradiction.",
+        "source": "T29n1563_039:0970b18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有餘師作如是說。",
+        "translation": "Some other masters say this.",
+        "source": "T29n1563_039:0970b18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初近分定亦有定染。",
+        "translation": "'The first near-part concentration also has defilement by concentration.'",
+        "source": "T29n1563_039:0970b19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未起根本。",
+        "translation": "It's fundamental before it arises.",
+        "source": "T29n1563_039:0970b19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦貪此故。",
+        "translation": "They also crave it.",
+        "source": "T29n1563_039:0970b19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此未至具有三種。",
+        "translation": "As a result, there are three kinds of concentrations that have yet to arise.",
+        "source": "T29n1563_039:0970b20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中間靜慮與諸近分。",
+        "translation": "Intermediate meditation and the near parts of meditation.",
+        "source": "T29n1563_039:0970b20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為無別義為亦有殊。",
+        "translation": "There's no distinct meaning, and there's a difference in meaning.",
+        "source": "T29n1563_039:0970b21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義亦有殊。",
+        "translation": "There's also a difference in meaning.",
+        "source": "T29n1563_039:0970b21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸近分是離染道。",
+        "translation": "The proximate parts are free from the path of defilement.",
+        "source": "T29n1563_039:0970b21_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入根本因。",
+        "translation": "They are the fundamental cause of entry.",
+        "source": "T29n1563_039:0970b22_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中間不然。",
+        "translation": "The middle way is not like that.",
+        "source": "T29n1563_039:0970b22_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有別義。",
+        "translation": "There's also a different meaning.",
+        "source": "T29n1563_039:0970b22_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0970b23_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　中靜慮無尋　　具三唯捨受",
+        "translation": "\"Middle meditation is without discursive thought and is replete with the three only sensations of equanimity.",
+        "source": "T29n1563_039:0970b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0970b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初本近分尋伺相應。",
+        "translation": "'The first part of the mind is associated with near discursive investigation.'",
+        "source": "T29n1563_039:0970b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上七定中皆無尋伺。",
+        "translation": "In the seven higher concentrations, there's no discursive examination.",
+        "source": "T29n1563_039:0970b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯中靜慮有伺無尋。",
+        "translation": "Only in the middle meditation is there discursive examination and no discursive examination.",
+        "source": "T29n1563_039:0970b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故彼勝初未及第二。",
+        "translation": "Therefore, they're superior to the first and have yet to reach the second.",
+        "source": "T29n1563_039:0970b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依此義故立中間名。",
+        "translation": "Based on this meaning, the middle name is therefore established.",
+        "source": "T29n1563_039:0970b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此上無中間靜慮。",
+        "translation": "From this, there's no intermediate meditation up there.",
+        "source": "T29n1563_039:0970b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一地昇降無如此故。",
+        "translation": "It's because there's no such ascension or descent from the first ground.",
+        "source": "T29n1563_039:0970b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂中間定初靜慮攝。",
+        "translation": "It means the middle concentration is included in the first meditation.",
+        "source": "T29n1563_039:0970b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而有差別。",
+        "translation": "However, there are distinctions.",
+        "source": "T29n1563_039:0970b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此減尋上立中間。",
+        "translation": "It means that this middle is established above the investigation of decrease.",
+        "source": "T29n1563_039:0970b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "減何成異。",
+        "translation": "What difference does a decrease make?",
+        "source": "T29n1563_039:0970b29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故中間定初有上無。",
+        "translation": "Therefore, the first concentration in the middle has an upper one and the middle has none.",
+        "source": "T29n1563_039:0970b29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不契經說七依定。",
+        "translation": "Doesn't the sutra say that there are seven supports for concentration?",
+        "source": "T29n1563_039:0970c01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧知別有未至中間。",
+        "translation": "How could it be known that there's something else that hasn't yet reached the middle?",
+        "source": "T29n1563_039:0970c01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由有契經及正理故。",
+        "translation": "It's because there are sutras and correct principles.",
+        "source": "T29n1563_039:0970c02_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且有未至。",
+        "translation": "There's also something that's yet to be attained.",
+        "source": "T29n1563_039:0970c02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經言。",
+        "translation": "As the sūtras say.",
+        "source": "T29n1563_039:0970c03_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有未能入初定等。",
+        "translation": "'There are beings who haven't yet entered the first concentration and so forth.'",
+        "source": "T29n1563_039:0970c03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具足安住而由聖慧。",
+        "translation": "They are perfectly settled, and by virtue of noble wisdom.",
+        "source": "T29n1563_039:0970c03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於現法中得諸漏盡。",
+        "translation": "In the present life, they'll attain the end of the contaminants.",
+        "source": "T29n1563_039:0970c04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無未至聖慧依何。",
+        "translation": "If there's no basis for noble wisdom that hasn't yet arrived, then what is it?",
+        "source": "T29n1563_039:0970c04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又蘇使摩契經中說。",
+        "translation": "It's also said in the Su messenger scripture.",
+        "source": "T29n1563_039:0970c05_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有慧解脫者。",
+        "translation": "\"Someone who's liberated by wisdom ...",
+        "source": "T29n1563_039:0970c05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不得根本定。",
+        "translation": "He can't attain fundamental concentration.",
+        "source": "T29n1563_039:0970c05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不依定成慧解脫。",
+        "translation": "Wouldn't he rely on that concentration to achieve liberation by wisdom?",
+        "source": "T29n1563_039:0970c06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此證知。",
+        "translation": "This proves it.",
+        "source": "T29n1563_039:0970c06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有未至定。",
+        "translation": "'There's concentration that's yet to be attained ...",
+        "source": "T29n1563_039:0970c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有中間定。",
+        "translation": "There's intermediate concentration.",
+        "source": "T29n1563_039:0970c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經說。",
+        "translation": "As the sūtras say.",
+        "source": "T29n1563_039:0970c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有尋伺等三三摩地。",
+        "translation": "\"There are the three samādhis of discursive examination and so forth.",
+        "source": "T29n1563_039:0970c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經說初定與尋伺俱。",
+        "translation": "The sūtras say that the first concentration is accompanied by both discursive examination and discursive examination.",
+        "source": "T29n1563_039:0970c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二等中尋伺皆息。",
+        "translation": "In the second and so forth, both discursive examination and discursive examination are stopped.",
+        "source": "T29n1563_039:0970c08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無中靜慮。",
+        "translation": "If there's no intermediate meditation.",
+        "source": "T29n1563_039:0970c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誰有伺無尋。",
+        "translation": "Who's got discursive examination and no discursive examination?",
+        "source": "T29n1563_039:0970c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以心心所漸次息故。",
+        "translation": "It's because the mind and mental factors are gradually calmed in sequence.",
+        "source": "T29n1563_039:0970c09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理應有定有伺無尋。",
+        "translation": "There should logically be concentration with discursive examination and no discursive examination.",
+        "source": "T29n1563_039:0970c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又大梵王是世界主。",
+        "translation": "Furthermore, the king of Brahmā is the lord of the world.",
+        "source": "T29n1563_039:0970c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離中間定誰為勝因。",
+        "translation": "Who would be the superior cause apart from the intermediate state of meditation?",
+        "source": "T29n1563_039:0970c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此證知。",
+        "translation": "This is how it's realized.",
+        "source": "T29n1563_039:0970c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有中間定。",
+        "translation": "'There's intermediate concentration.'",
+        "source": "T29n1563_039:0970c11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然佛不數說有未至中間。",
+        "translation": "But the Buddha doesn't repeatedly say there's a middle that's not yet reached.",
+        "source": "T29n1563_039:0970c12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以二即初靜慮攝故。",
+        "translation": "It's because the two are included in the first concentration.",
+        "source": "T29n1563_039:0970c12_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說初靜慮即已說彼唯初近分名未至者。",
+        "translation": "Those who say that the first concentration is the first concentration have already explained that only the first proximate part is called the unarrived.",
+        "source": "T29n1563_039:0970c13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲簡別餘近分故。",
+        "translation": "That's because they want to briefly distinguish the other near parts.",
+        "source": "T29n1563_039:0970c14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非此近分乘先定起。",
+        "translation": "It's not the first concentration that arises in this near part of the vehicle.",
+        "source": "T29n1563_039:0970c14_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又非住此已起愛味。",
+        "translation": "It's not the taste of craving that arises after abiding here.",
+        "source": "T29n1563_039:0970c15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依如是義立未至名。",
+        "translation": "Relying on this meaning, he creates the name unarrived.",
+        "source": "T29n1563_039:0970c15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非上定邊亦名未至。",
+        "translation": "It's not the extreme of higher concentration that's also called unarrived.",
+        "source": "T29n1563_039:0970c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆乘先定勢力引生。",
+        "translation": "They're all induced by the momentum of prior concentration.",
+        "source": "T29n1563_039:0970c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及住彼時已起味故。",
+        "translation": "It's because they've already developed a taste while abiding there.",
+        "source": "T29n1563_039:0970c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "毘婆沙者作如是說。",
+        "translation": "That's what Vibhāṣā said.",
+        "source": "T29n1563_039:0970c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未至本地立未至名。",
+        "translation": "'Not-yet local designation of 'not-yet.'",
+        "source": "T29n1563_039:0970c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是本地德未現前義。",
+        "translation": "It's the meaning of local virtues not yet manifested.",
+        "source": "T29n1563_039:0970c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中間定具味等三。",
+        "translation": "This intermediate state of concentration has three flavors and so forth.",
+        "source": "T29n1563_039:0970c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以別繫屬一生處故。",
+        "translation": "It's because it's separately bound to a lifelong abode.",
+        "source": "T29n1563_039:0970c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂極修習中間定者。",
+        "translation": "It means someone who thoroughly cultivates intermediate concentration.",
+        "source": "T29n1563_039:0970c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未來當在大梵處生。",
+        "translation": "He'll be born in the future in the place of the great Brahma.",
+        "source": "T29n1563_039:0970c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故亦具三。",
+        "translation": "Therefore, it's also replete with three.",
+        "source": "T29n1563_039:0970c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如根本定。",
+        "translation": "It's like the fundamental concentration.",
+        "source": "T29n1563_039:0970c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非根本地起愛貪。",
+        "translation": "It's not the fundamental ground that gives rise to craving.",
+        "source": "T29n1563_039:0970c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼如所味有別能味亦別故。",
+        "translation": "It's because there's a difference in what tastes and a difference in what tastes like.",
+        "source": "T29n1563_039:0970c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此有勝德可愛味故。",
+        "translation": "It's because there's a superior, desirable taste.",
+        "source": "T29n1563_039:0970c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無漏定生亦漸減故。",
+        "translation": "Because untainted concentration arises and gradually decreases, this is also associated with feelings of equanimity.",
+        "source": "T29n1563_039:0970c22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦一向捨受相應。",
+        "translation": "It's also associated with sensations of equanimity.",
+        "source": "T29n1563_039:0970c23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無三識身故無樂受。",
+        "translation": "Because there's no body of the three consciousnesses, there's no pleasant feeling.",
+        "source": "T29n1563_039:0970c23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無喜受者已不共初。",
+        "translation": "The absence of pleasant feelings is not shared with the first.",
+        "source": "T29n1563_039:0970c24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然於初貪未能離故。",
+        "translation": "However, it's because they haven't been able to part with their initial craving.",
+        "source": "T29n1563_039:0970c24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又由自勉功用轉故。",
+        "translation": "It's also due to the transformation of self-reliance and exertion.",
+        "source": "T29n1563_039:0970c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此說為苦通行攝。",
+        "translation": "It's thus said to be subsumed by the passage of suffering.",
+        "source": "T29n1563_039:0970c25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非憂苦者已出欲故。",
+        "translation": "Those who aren't sad and pained have already escaped from desire.",
+        "source": "T29n1563_039:0970c26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此一向捨受相應。",
+        "translation": "This is associated with the sensation of equanimity.",
+        "source": "T29n1563_039:0970c26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此定能招大梵處果。",
+        "translation": "This concentration brings about the fruit of the great brahma stage.",
+        "source": "T29n1563_039:0970c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多修習者為大梵故。",
+        "translation": "It's because those who repeatedly cultivate it will become great Brahmā.",
+        "source": "T29n1563_039:0970c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已辯等至。",
+        "translation": "He has already explained equipoise.",
+        "source": "T29n1563_039:0970c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何等持。",
+        "translation": "\"What is equipoise?",
+        "source": "T29n1563_039:0970c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經說等持總有三種。",
+        "translation": "The sūtras say that there are three general kinds of equipoise.",
+        "source": "T29n1563_039:0970c28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一有尋有伺三摩地。",
+        "translation": "1. the samādhi of presence and expectation.",
+        "source": "T29n1563_039:0970c28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二無尋唯伺三摩地三無尋無伺三摩地。",
+        "translation": "Two is the samādhi of no discursive thought but discursive thought, and three is the samādhi of no discursive thought but no discursive thought.",
+        "source": "T29n1563_039:0970c29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是三種相別云何。",
+        "translation": "What are these three kinds of distinctions?",
+        "source": "T29n1563_039:0971a01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0971a01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　初下有尋伺　　中唯伺上無",
+        "translation": "\"First, there's below-searching and below-surveying, and in the middle there's only-searching and above that there's none.",
+        "source": "T29n1563_039:0971a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0971a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前來因事屢辯此三。",
+        "translation": "'Previously, we've repeatedly defended these three as a result of circumstances.",
+        "source": "T29n1563_039:0971a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今於此中略顯別相。",
+        "translation": "Now, I'll briefly explain the distinctive aspects here.",
+        "source": "T29n1563_039:0971a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有尋有伺三摩地者。",
+        "translation": "\"He who has the samādhi of investigation and discursive examination.",
+        "source": "T29n1563_039:0971a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂與尋伺相應等持。",
+        "translation": "It's the equipoise associated with discursive thought.",
+        "source": "T29n1563_039:0971a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此初靜慮及未至攝。",
+        "translation": "It's the first concentration and the one that's not yet fully included.",
+        "source": "T29n1563_039:0971a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無尋唯伺三摩地者。",
+        "translation": "The absence of the samādhi of seeking and only of the concentration of discursive examination.",
+        "source": "T29n1563_039:0971a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂唯與伺相應等持。",
+        "translation": "It's the equipoise associated with only discursive discursive discursive discursive discipline.",
+        "source": "T29n1563_039:0971a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即中間靜慮地攝。",
+        "translation": "This is the middle ground of meditation that's included.",
+        "source": "T29n1563_039:0971a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無尋無伺三摩地者。",
+        "translation": "\"Absence of the samādhi of seeking and lack of the samādhi of discursive examination.",
+        "source": "T29n1563_039:0971a06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂非尋伺相應等持。",
+        "translation": "It's the equipoise that's not associated with the discursive aspect of discursive thought.",
+        "source": "T29n1563_039:0971a07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此從第二靜慮近分乃至非想非非想攝。",
+        "translation": "It's subsumed from the second proximate part of meditation up to neither perception nor non-perception.",
+        "source": "T29n1563_039:0971a07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "契經復說三種等持。",
+        "translation": "The sūtras also explain three kinds of equipoise.",
+        "source": "T29n1563_039:0971a08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一空三摩地。",
+        "translation": "1. samādhi of emptiness ...",
+        "source": "T29n1563_039:0971a09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二無願三摩地。",
+        "translation": "Two, wishless samādhi.",
+        "source": "T29n1563_039:0971a09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三無相三摩地。",
+        "translation": "The third is formless samādhi.",
+        "source": "T29n1563_039:0971a09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是三種相別云何。",
+        "translation": "What are these three kinds of distinctions?",
+        "source": "T29n1563_039:0971a10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0971a10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　空謂空非我　　無相謂滅四",
+        "translation": "'Emptiness' means empty and not self, and 'signlessness' means four kinds of cessation.",
+        "source": "T29n1563_039:0971a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　無願謂餘十　　諦行相相應",
+        "translation": "absence of aspiration means that the other ten truths are associated with practice",
+        "source": "T29n1563_039:0971a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此通淨無漏　　無漏三脫門",
+        "translation": "this is the thorough, uncontaminated, untainted, uncontaminated gate of the three liberations",
+        "source": "T29n1563_039:0971a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0971a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空三摩地。",
+        "translation": "\"The samādhi of emptiness ...",
+        "source": "T29n1563_039:0971a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂空非我二種行相相應等持。",
+        "translation": "It's the equipoise that corresponds to the two kinds of practice of emptiness and non-ego.",
+        "source": "T29n1563_039:0971a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故說空等持近治有身見。",
+        "translation": "That's why it's called the equipoise of emptiness that proximately counteracts the view that there's a body.",
+        "source": "T29n1563_039:0971a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身見亦有二行相故。",
+        "translation": "It's because the view of the body also has two kinds of defining activities.",
+        "source": "T29n1563_039:0971a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂空行相近治我所見。",
+        "translation": "That is, the form of the practice of emptiness closely subdues the view of what's self.",
+        "source": "T29n1563_039:0971a16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非我行相近治我見。",
+        "translation": "The practice of what's not self nearly counteracts the view of self.",
+        "source": "T29n1563_039:0971a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀法非我。",
+        "translation": "He observes that things aren't self.",
+        "source": "T29n1563_039:0971a17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名非我行相觀。",
+        "translation": "This is called the contemplation of what's not self in terms of practice.",
+        "source": "T29n1563_039:0971a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中無我。",
+        "translation": "This is the absence of self.",
+        "source": "T29n1563_039:0971a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名空行相。",
+        "translation": "It's called the mark of the practice of emptiness.",
+        "source": "T29n1563_039:0971a17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此空行相。",
+        "translation": "From this, the practice of formulating emptiness approaches the view of self.",
+        "source": "T29n1563_039:0971a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "近治我所見。",
+        "translation": "It's a near cure for the view of what's self.",
+        "source": "T29n1563_039:0971a18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此中都無我。",
+        "translation": "It's because there's no self in any of this.",
+        "source": "T29n1563_039:0971a18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此法非我所。",
+        "translation": "Therefore, this dharma is not what belongs to self.",
+        "source": "T29n1563_039:0971a19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無相三摩地。",
+        "translation": "signless samādhi.",
+        "source": "T29n1563_039:0971a19_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂緣滅諦四種行相相應等持。",
+        "translation": "It's the mutual maintenance of the four defining activities of the noble truth of cessation.",
+        "source": "T29n1563_039:0971a19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "涅槃離諸相故名無相。",
+        "translation": "Because nirvāṇa is free of characteristics, it's called signless.",
+        "source": "T29n1563_039:0971a20_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣彼三摩地。",
+        "translation": "Conditioned on this concentration, samādhi ...",
+        "source": "T29n1563_039:0971a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無相名。",
+        "translation": "It's called signless.",
+        "source": "T29n1563_039:0971a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相略有十。",
+        "translation": "There are 10 major aspects of form.",
+        "source": "T29n1563_039:0971a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色等五。",
+        "translation": "They are the five kinds of form and so forth.",
+        "source": "T29n1563_039:0971a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "男女二種。",
+        "translation": "There are two kinds of men and women.",
+        "source": "T29n1563_039:0971a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三有為相。",
+        "translation": "Three are the marks of being.",
+        "source": "T29n1563_039:0971a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復相者。",
+        "translation": "Those that have further marks.",
+        "source": "T29n1563_039:0971a22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是因異名。",
+        "translation": "These are different names for causes.",
+        "source": "T29n1563_039:0971a22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "涅槃無因故名無相。",
+        "translation": "Because nirvāṇa has no cause, it's called signless.",
+        "source": "T29n1563_039:0971a23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或相謂世蘊上中下。",
+        "translation": "Some marks refer to the higher, middle, and lower worldly aggregates.",
+        "source": "T29n1563_039:0971a23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "涅槃異彼故名無相。",
+        "translation": "Because nirvāṇa differs from them, it's called signless.",
+        "source": "T29n1563_039:0971a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無願三摩地。",
+        "translation": "The concentration of the wishless samādhi ...",
+        "source": "T29n1563_039:0971a24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂緣餘諦十種行相相應等持。",
+        "translation": "It's the mutual maintenance of the ten defining activities of the other truths.",
+        "source": "T29n1563_039:0971a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十行相者。",
+        "translation": "The ten defining activities are.",
+        "source": "T29n1563_039:0971a25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂苦非常因集生緣道如行出。",
+        "translation": "They are the causes of suffering and impermanence, the conditions of arising and accumulation, and the path as it flows out.",
+        "source": "T29n1563_039:0971a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是空等三三摩地。",
+        "translation": "These are the three samādhis of emptiness and so forth.",
+        "source": "T29n1563_039:0971a26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三摩地相雖無差別。",
+        "translation": "Although there are no distinctions in the characteristics of the samādhis, they're based on the objects of intention to counteract them.",
+        "source": "T29n1563_039:0971a26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而依對治意樂所緣。",
+        "translation": "They are based on the objects of intention to counteract them.",
+        "source": "T29n1563_039:0971a27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如其次第建立三種。",
+        "translation": "They are established in sequence according to their three kinds.",
+        "source": "T29n1563_039:0971a27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由意樂故不願三有。",
+        "translation": "Because of these intentions, he doesn't want the three to exist.",
+        "source": "T29n1563_039:0971a28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理且可然有過患故。",
+        "translation": "Even though it's reasonable, there are faults and distress.",
+        "source": "T29n1563_039:0971a28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧由意樂不願聖道。",
+        "translation": "It's better to wish for the noble path because of aspirations than because of desires.",
+        "source": "T29n1563_039:0971a29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以諸聖道依屬有故。",
+        "translation": "It's because the noble paths depend on existence.",
+        "source": "T29n1563_039:0971a29_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾何用修習聖道。",
+        "translation": "If that's the case, how is it useful to cultivate the noble paths?",
+        "source": "T29n1563_039:0971b01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是涅槃能趣因故。",
+        "translation": "It's because it's a cause to which nirvāṇa can lead.",
+        "source": "T29n1563_039:0971b01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非離聖道有得涅槃。",
+        "translation": "It's not apart from the noble path that there's nirvāṇa.",
+        "source": "T29n1563_039:0971b02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為求涅槃故修聖道。",
+        "translation": "They cultivate the noble path in order to attain nirvāṇa.",
+        "source": "T29n1563_039:0971b02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "道如船筏必應捨故。",
+        "translation": "The path is like a boat and raft that must be abandoned.",
+        "source": "T29n1563_039:0971b03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦由意樂不願聖道故。",
+        "translation": "It's also because their intention is not to pursue the noble path.",
+        "source": "T29n1563_039:0971b03_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣道行相亦得無願名。",
+        "translation": "Conditioned on the path's defining activity, it also gets the name wishless.",
+        "source": "T29n1563_039:0971b04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以本期心厭有為故。",
+        "translation": "It's because the mind at this point in its life is disillusioned with being.",
+        "source": "T29n1563_039:0971b04_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空非我相非所厭捨。",
+        "translation": "'Emptiness is not the mark of self, and it's not something to be discarded.'",
+        "source": "T29n1563_039:0971b05_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以與涅槃相相似故。",
+        "translation": "It's because it's similar to the mark of nirvāṇa.",
+        "source": "T29n1563_039:0971b05_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此二行相。",
+        "translation": "These two aspects of practice are thus.",
+        "source": "T29n1563_039:0971b06_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖緣可厭法。",
+        "translation": "Although they condition themselves on things that are disagreeable, they don't grasp to the disagreeable aspects.",
+        "source": "T29n1563_039:0971b06_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不取可厭相。",
+        "translation": "They don't grasp to the repulsive aspect.",
+        "source": "T29n1563_039:0971b06_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不得無願名。",
+        "translation": "They can't be called wishless.",
+        "source": "T29n1563_039:0971b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此三等持通淨無漏。",
+        "translation": "These three qualities of equanimity are completely pure and uncontaminated.",
+        "source": "T29n1563_039:0971b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世出世間等持攝故。",
+        "translation": "It's because they're subsumed by such maintenance in the mundane and transmundane realms.",
+        "source": "T29n1563_039:0971b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間攝故。",
+        "translation": "It's because they're included in the mundane world.",
+        "source": "T29n1563_039:0971b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "通十一地。",
+        "translation": "They permeate the 11 stages.",
+        "source": "T29n1563_039:0971b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出世攝者。",
+        "translation": "Those who are included in the transmundane realm ...",
+        "source": "T29n1563_039:0971b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯通九地上七定邊無勝德故。",
+        "translation": "It's because it only permeates the seven meditative extremes of the nine grounds and has no surpassing qualities.",
+        "source": "T29n1563_039:0971b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中無漏者名三解脫門。",
+        "translation": "The uncontaminated among them is called the gate of the three liberations.",
+        "source": "T29n1563_039:0971b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能與涅槃為入門故。",
+        "translation": "It's because it's the entryway to nirvāṇa.",
+        "source": "T29n1563_039:0971b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非諸有漏法是真解脫門。",
+        "translation": "These aren't contaminated dharmas that are the true gate of liberation.",
+        "source": "T29n1563_039:0971b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性住世間違解脫故。",
+        "translation": "It's because their nature abides in the world in contradiction to liberation.",
+        "source": "T29n1563_039:0971b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三三摩地緣境別者。",
+        "translation": "The three samādhis are conditioned by the object-specific.",
+        "source": "T29n1563_039:0971b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有漏空緣一切法。",
+        "translation": "If contaminated emptiness refers to all dharmas, then it refers to the noble truth of suffering.",
+        "source": "T29n1563_039:0971b12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無漏空唯緣苦諦。",
+        "translation": "If uncontaminated emptiness only refers to the truth of suffering, then the absence of desire can refer to the truth of suffering's accumulation and the path.",
+        "source": "T29n1563_039:0971b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無願能緣苦集道諦。",
+        "translation": "The absence of desire can refer to the noble truth of suffering's accumulation and the path's attainment.",
+        "source": "T29n1563_039:0971b13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無相唯緣滅諦為境。",
+        "translation": "Without characteristics, it's only conditioned by the truth of cessation as an object.",
+        "source": "T29n1563_039:0971b13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三三摩地念住別者。",
+        "translation": "\"The three samādhis are distinct in their abiding in mindfulness.",
+        "source": "T29n1563_039:0971b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無相唯法。",
+        "translation": "The absence of marks is only the truth of dharmas.",
+        "source": "T29n1563_039:0971b14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘皆通四。",
+        "translation": "The others all share the four.",
+        "source": "T29n1563_039:0971b14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "契經復說三重等持。",
+        "translation": "The sūtras also explain the three samādhis.",
+        "source": "T29n1563_039:0971b15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一空空三摩地。",
+        "translation": "1. the samādhi of emptiness and voidness.",
+        "source": "T29n1563_039:0971b15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二無願無願三摩地。",
+        "translation": "Two, wishlessness and wishlessness samādhi.",
+        "source": "T29n1563_039:0971b15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三無相無相三摩地。",
+        "translation": "The third is formless and formless samādhi.",
+        "source": "T29n1563_039:0971b16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是三種相別云何。",
+        "translation": "What are these three kinds of distinctive characteristics?",
+        "source": "T29n1563_039:0971b16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0971b17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　重二緣無學　　取空非常相",
+        "translation": "\"Emphasizing the two conditions of post-learners, grasping to emptiness is not a distinctive characteristic.",
+        "source": "T29n1563_039:0971b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　後緣無相定　　非擇滅為靜",
+        "translation": "the concentration of the signlessness of subsequent conditions is not determined by the quiescence of cessation",
+        "source": "T29n1563_039:0971b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　有漏人不時　　離上七近分",
+        "translation": "from time to time, contaminated persons are free from the upper seven limbs",
+        "source": "T29n1563_039:0971b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0971b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此三等持緣前空等取空等相。",
+        "translation": "\"These three ways of maintaining things are contingent on the prior view of emptiness and so forth, which is to take on the characteristics of emptiness and so forth.",
+        "source": "T29n1563_039:0971b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故立空空等名。",
+        "translation": "Therefore, they're called emptiness and so forth.",
+        "source": "T29n1563_039:0971b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空空等持緣前無學空三摩地取彼空相。",
+        "translation": "The equipoise of emptiness takes the marks of emptiness in reference to the prior post-learning samādhi of emptiness.",
+        "source": "T29n1563_039:0971b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空相順厭。",
+        "translation": "They are disillusioned with the marks of emptiness.",
+        "source": "T29n1563_039:0971b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勝非我故。",
+        "translation": "It's superior because it's not self.",
+        "source": "T29n1563_039:0971b23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼先起無學等持。",
+        "translation": "It means they first arose as an asymptotic equipoise.",
+        "source": "T29n1563_039:0971b23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於五取蘊思惟空相。",
+        "translation": "They contemplate the marks of emptiness in the five appropriated aggregates.",
+        "source": "T29n1563_039:0971b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此後起殊勝善根相應等持。",
+        "translation": "From there, they later produce an equipoise that's associated with superior good roots.",
+        "source": "T29n1563_039:0971b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣前無學空三摩地思惟空相。",
+        "translation": "Conditioned on the prior post-learning emptiness samādhi, they contemplate the marks of emptiness.",
+        "source": "T29n1563_039:0971b25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於空取空。",
+        "translation": "He grasps emptiness in emptiness.",
+        "source": "T29n1563_039:0971b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名空空。",
+        "translation": "That's why it's called emptiness-emptiness.",
+        "source": "T29n1563_039:0971b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如燒死屍以杖迴轉。",
+        "translation": "It's like when you burn a dead corpse and turn it around with a staff.",
+        "source": "T29n1563_039:0971b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "屍既盡已杖亦應燒。",
+        "translation": "After the corpse is exhausted, the staff should also be burned.",
+        "source": "T29n1563_039:0971b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是由空燒煩惱已。",
+        "translation": "Thus, after the affliction of emptiness is burned, he then arouses the concentration of emptiness and becomes disillusioned with the former emptiness.",
+        "source": "T29n1563_039:0971b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復起空定厭捨前空。",
+        "translation": "He then rises again to the concentration of emptiness and becomes disillusioned with the former emptiness.",
+        "source": "T29n1563_039:0971b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "重空等持空行相後。",
+        "translation": "After he repeats the practice of maintaining emptiness as emptiness, he then rises again with the practice of emptiness.",
+        "source": "T29n1563_039:0971b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起即復還與空行相相應。",
+        "translation": "He then rises and returns to the form of the practice of emptiness concomitant with it.",
+        "source": "T29n1563_039:0971b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯此最能順厭捨故。",
+        "translation": "Only this is the most effective way to follow the practice of loathing and abandonment.",
+        "source": "T29n1563_039:0971b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非我行相則不如是。",
+        "translation": "The practice of not-self is not like this.",
+        "source": "T29n1563_039:0971b29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見非我者。",
+        "translation": "Someone who sees what's not self will become disillusioned with the practice of emptiness.",
+        "source": "T29n1563_039:0971c01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸有為法起厭背心不如見空故諸有已見諸法非我而於諸有猶生樂者。",
+        "translation": "It's better to become disillusioned with the vestiges of existential phenomena than to see emptiness, so there are beings who see that the phenomena are not self and yet remain happy with existence.",
+        "source": "T29n1563_039:0971c01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以於諸行中不審見空故。",
+        "translation": "It's because they don't examine and see emptiness in all their conditioned existences.",
+        "source": "T29n1563_039:0971c03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此空定雖二行相俱。",
+        "translation": "Thus, although the two practices of emptiness and concentration are the same in their characteristics, they are simply called empty and not said to be what's not.",
+        "source": "T29n1563_039:0971c03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而但名空不說為非我。",
+        "translation": "He simply calls them empty and doesn't say they're not self.",
+        "source": "T29n1563_039:0971c04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空於厭捨極隨順故。",
+        "translation": "Because emptiness is the ultimate compliance with disillusionment, it's called 'not self.'",
+        "source": "T29n1563_039:0971c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無願無願緣前無學無願等持。",
+        "translation": "When there's no wish, no condition, there's no training, no wish, and so forth.",
+        "source": "T29n1563_039:0971c05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "取非常相。",
+        "translation": "It's taken as a non-ego.",
+        "source": "T29n1563_039:0971c06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼先起無學等持。",
+        "translation": "This refers to someone who first produces the equipoise of post-learners.",
+        "source": "T29n1563_039:0971c06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於五取蘊中思惟非常相。",
+        "translation": "In the five appropriated aggregates, they contemplate what's not a distinctive characteristic.",
+        "source": "T29n1563_039:0971c06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此後起殊勝善根相應等持。",
+        "translation": "From there, they later produce an equipoise that's associated with superior good roots.",
+        "source": "T29n1563_039:0971c07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣前無學無願三摩地思惟非常相。",
+        "translation": "Conditioned on the prior post-learning, no-wishing samādhi, they contemplate the impermanent aspect.",
+        "source": "T29n1563_039:0971c08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於無願不願名無願無願。",
+        "translation": "In wishlessness and non-willingness, it's called wishlessness and non-vowing.",
+        "source": "T29n1563_039:0971c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉喻顯示。",
+        "translation": "It's shown by metaphor.",
+        "source": "T29n1563_039:0971c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前應知。",
+        "translation": "As you should know, it's like the above.",
+        "source": "T29n1563_039:0971c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "重無願等持非常行相後起。",
+        "translation": "After the extraordinary mark of practice of repeatedly wishless equipoise arises, it's again associated with the extraordinary mark of practice.",
+        "source": "T29n1563_039:0971c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即復還與非常行相相應。",
+        "translation": "It then goes back to being associated with the characteristics of impermanent conditioned forms.",
+        "source": "T29n1563_039:0971c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯此可能緣厭道故。",
+        "translation": "Only this can be the perceptual referent of the path of disillusionment.",
+        "source": "T29n1563_039:0971c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非苦行相能緣聖道。",
+        "translation": "What's not a characteristic of painful activity can refer to the noble path.",
+        "source": "T29n1563_039:0971c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖道非苦趣苦滅故。",
+        "translation": "The noble path is not painful, so it's headed for the cessation of suffering.",
+        "source": "T29n1563_039:0971c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苦法不能趣苦寂滅。",
+        "translation": "Bitter dharmas can't lead to the cessation of suffering.",
+        "source": "T29n1563_039:0971c12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦非因等四能緣聖道。",
+        "translation": "Nor are the four causes and so forth capable of referring to the noble path.",
+        "source": "T29n1563_039:0971c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以聖道不能令苦續故。",
+        "translation": "It's because the noble path can't cause suffering to continue.",
+        "source": "T29n1563_039:0971c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非道等四者此厭捨道故。",
+        "translation": "These four things aren't paths, etc., because they're paths of disaffection.",
+        "source": "T29n1563_039:0971c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非欣行相能為厭捨。",
+        "translation": "It's not the mark of agreeable activity that's capable of being disillusioned with equanimity.",
+        "source": "T29n1563_039:0971c14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不如無願不願聖道而作道等四。",
+        "translation": "Wouldn't it be better to create four paths such as the path of wishlessness and wishlessness as the noble path?",
+        "source": "T29n1563_039:0971c15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦應然。",
+        "translation": "This should also be the case.",
+        "source": "T29n1563_039:0971c16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此例不然。",
+        "translation": "This example is not.",
+        "source": "T29n1563_039:0971c16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無願正厭有兼於聖道起不願心故。",
+        "translation": "Being rightly disillusioned with wishlessness has the concomitant effect of creating an attitude of unwillingness in the noble path.",
+        "source": "T29n1563_039:0971c16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂前無願正厭於有。",
+        "translation": "The absence of a wish in the past is precisely disillusioned with existence.",
+        "source": "T29n1563_039:0971c17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖道依有故兼不願。",
+        "translation": "The noble path relies on existence and therefore also on what's not desired.",
+        "source": "T29n1563_039:0971c17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖聖意樂說不願道。",
+        "translation": "Even though the noble intention is to delight in teaching the path of not-wishing, it's not true that the noble path abhors abiding in existence.",
+        "source": "T29n1563_039:0971c18_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而於聖道非正憎厭。",
+        "translation": "However, they don't rightly abhor the noble path.",
+        "source": "T29n1563_039:0971c18_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故亦能作道等四種。",
+        "translation": "Therefore, it's also capable of creating four kinds of paths.",
+        "source": "T29n1563_039:0971c19_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無願無願正憎厭道。",
+        "translation": "The path of wishlessness and non-contrivance is rightly abhorred.",
+        "source": "T29n1563_039:0971c19_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故以非常觀道過失。",
+        "translation": "Therefore, he observes the faults of the path with unconventionality.",
+        "source": "T29n1563_039:0971c20_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "道等行相無容厭道。",
+        "translation": "The conduct of the path and so forth doesn't allow for disillusionment with the path.",
+        "source": "T29n1563_039:0971c20_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故於此不作彼四。",
+        "translation": "Therefore, it's not possible to do those four things here.",
+        "source": "T29n1563_039:0971c21_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無相無相即緣無學。",
+        "translation": "Without marks, signlessness is conditioned by post-learners.",
+        "source": "T29n1563_039:0971c21_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無相三摩地非擇滅為境。",
+        "translation": "The signless meditative absorption is not an object of analytical cessation.",
+        "source": "T29n1563_039:0971c22_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以無漏法無擇滅故。",
+        "translation": "It's because uncontaminated things are without cessation by analytical meditation.",
+        "source": "T29n1563_039:0971c22_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但取靜相非滅妙離。",
+        "translation": "It's only the grasping of stillness that's not cessation and subtlety that's free.",
+        "source": "T29n1563_039:0971c23_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼先起無學等持。",
+        "translation": "This refers to those who first arouse the equipoise of post-learners.",
+        "source": "T29n1563_039:0971c23_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於擇滅中思惟靜相。",
+        "translation": "In the midst of the cessation of deliberation, they contemplate the characteristic of quiescence.",
+        "source": "T29n1563_039:0971c24_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此後起殊勝善根相應等持。",
+        "translation": "From there, they later produce the appropriate equipoise of superior good roots.",
+        "source": "T29n1563_039:0971c24_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即緣無學無相三摩地非擇滅為境。",
+        "translation": "That is, suppose he takes the condition of post-learners, post-marks, and samādhi, which is not analytical cessation.",
+        "source": "T29n1563_039:0971c25_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "思惟靜相。",
+        "translation": "He contemplates the characteristic of quiescence.",
+        "source": "T29n1563_039:0971c26_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於無相滅復觀為無相。",
+        "translation": "In the cessation of signlessness, he also observes that it's signless.",
+        "source": "T29n1563_039:0971c26_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名無相無相。",
+        "translation": "It's called signlessness and marklessness.",
+        "source": "T29n1563_039:0971c27_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉喻顯示。",
+        "translation": "It's shown by metaphors.",
+        "source": "T29n1563_039:0971c27_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前應知。",
+        "translation": "As should be clear from the preceding, it's ...",
+        "source": "T29n1563_039:0971c27_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "重無相等持靜行相後起。",
+        "translation": "\"After the characteristic of stilling the mind and maintaining the characteristic of no-parity arises, then it's associated with the characteristic of stilling the mind.",
+        "source": "T29n1563_039:0971c27_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即復還與靜行相相應。",
+        "translation": "It's then again associated with the characteristic of stilling the mind.",
+        "source": "T29n1563_039:0971c28_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯此能觀非擇滅故。",
+        "translation": "Only this can be observed because it's not cessation by analytical meditation.",
+        "source": "T29n1563_039:0971c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非妙行相境無記故。",
+        "translation": "It's not because of the indeterminate nature of the marks of wondrous practice.",
+        "source": "T29n1563_039:0971c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非離行相以雖證得。",
+        "translation": "It's not free from the mark of practice because even though it's realized, it's not cessation by analytical meditation.",
+        "source": "T29n1563_039:0972a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼非擇滅猶縛隨故。",
+        "translation": "because it's not analytical cessation but is still bound to it.",
+        "source": "T29n1563_039:0972a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非滅行相。",
+        "translation": "It's not the mark of the practice of cessation.",
+        "source": "T29n1563_039:0972a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以非擇滅非永解脫一切苦故。",
+        "translation": "It's because what's not analytical cessation isn't permanent liberation from all suffering.",
+        "source": "T29n1563_039:0972a02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又若觀滅濫非常故。",
+        "translation": "Furthermore, if he observes cessation and abuses it, it's not permanent.",
+        "source": "T29n1563_039:0972a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言靜者。",
+        "translation": "What's called quiescent is only indicative of stilling.",
+        "source": "T29n1563_039:0972a03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯顯止息。",
+        "translation": "It's only indicative of stilling.",
+        "source": "T29n1563_039:0972a03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故非擇滅得有靜相。",
+        "translation": "Therefore, non-cessation by analytical meditation can have a characteristic of stillness.",
+        "source": "T29n1563_039:0972a03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以修聖道經久劬勞。",
+        "translation": "It's because of the trouble and trouble of cultivating the noble path over a long period of time.",
+        "source": "T29n1563_039:0972a04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼息中便生樂想。",
+        "translation": "In that stillness, he then gives rise to pleasant thoughts.",
+        "source": "T29n1563_039:0972a04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故重無相取靜非餘。",
+        "translation": "Therefore, he focuses on the markless grasping of stillness and nothing else.",
+        "source": "T29n1563_039:0972a05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "重三等持唯是有漏。",
+        "translation": "He emphasizes that the three equipoises are only contaminated.",
+        "source": "T29n1563_039:0972a05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以於聖道生厭捨故。",
+        "translation": "It's because they become disillusioned with the noble path.",
+        "source": "T29n1563_039:0972a06_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非無漏定厭捨聖道。",
+        "translation": "It's not the uncontaminated concentration that's disillusioned with the noble path.",
+        "source": "T29n1563_039:0972a06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二緣聖道取空非常。",
+        "translation": "The two conditions of the noble path are grasping emptiness and non-emptiness.",
+        "source": "T29n1563_039:0972a07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理可名為厭捨聖道。",
+        "translation": "In principle, it can be called the noble path of disillusionment with equanimity.",
+        "source": "T29n1563_039:0972a07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無相無相但緣無為作靜行相。",
+        "translation": "It's markless and markless but conditioned by doing nothing, it's a mark of stilling practice.",
+        "source": "T29n1563_039:0972a08_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何名厭道。",
+        "translation": "What's called the path of disillusionment?",
+        "source": "T29n1563_039:0972a08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此欣無學無相等持不轉之因。",
+        "translation": "It's the delightful, untrained, and uncontaminated cause that maintains nonconversion.",
+        "source": "T29n1563_039:0972a09_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名厭道。",
+        "translation": "Therefore, it's called the path of disillusionment.",
+        "source": "T29n1563_039:0972a09_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼定起義作是言。",
+        "translation": "It's the meaning of that concentration that arises and says this.",
+        "source": "T29n1563_039:0972a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無相等持不生為善。",
+        "translation": "'The absence of equal maintenance and its nonarising is good.'",
+        "source": "T29n1563_039:0972a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此既欣讚聖道不生。",
+        "translation": "He's delighting in the praise of the noble path as unarisen.",
+        "source": "T29n1563_039:0972a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如何不名厭捨聖道。",
+        "translation": "How is it not called disillusionment with the noble path?",
+        "source": "T29n1563_039:0972a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前無相定非此所緣。",
+        "translation": "The former markless concentration wasn't a perceptual object here.",
+        "source": "T29n1563_039:0972a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如何此名無相無相。",
+        "translation": "How is it called signless and markless?",
+        "source": "T29n1563_039:0972a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或應許此定不緣非擇滅。",
+        "translation": "Perhaps it's appropriate to say that this concentration isn't contingent on non-selection and cessation.",
+        "source": "T29n1563_039:0972a12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但緣無學無相不生。",
+        "translation": "It's only conditioned by the absence of training and the absence of marks that don't arise.",
+        "source": "T29n1563_039:0972a13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦不然。",
+        "translation": "That's also not true.",
+        "source": "T29n1563_039:0972a13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "准前釋故。",
+        "translation": "According to the previous explanation, it's because of this.",
+        "source": "T29n1563_039:0972a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂緣無相之非擇滅。",
+        "translation": "'Conditioned by signlessness, non-selective cessation ...'",
+        "source": "T29n1563_039:0972a14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此非擇滅亦離諸相。",
+        "translation": "This kind of nondiscursive cessation is also free of marks.",
+        "source": "T29n1563_039:0972a14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣無相無相故。",
+        "translation": "It's because conditioned by marklessness and signlessness.",
+        "source": "T29n1563_039:0972a15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無相無相名。",
+        "translation": "They attain the name signless and markless.",
+        "source": "T29n1563_039:0972a15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣無相境作靜行相。",
+        "translation": "Conditioned on the markless object, it creates the characteristic of stilling ...",
+        "source": "T29n1563_039:0972a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故此定從境立名。",
+        "translation": "Therefore, this concentration takes its name from its object.",
+        "source": "T29n1563_039:0972a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯三洲人能起此定。",
+        "translation": "Only people on the three continents can produce this concentration.",
+        "source": "T29n1563_039:0972a16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "通依男女。",
+        "translation": "It's based on both men and women.",
+        "source": "T29n1563_039:0972a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以依女身亦能自在延促壽故。",
+        "translation": "It's because relying on a woman's body also makes her able to freely prolong her life.",
+        "source": "T29n1563_039:0972a17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無學位。",
+        "translation": "Only those without a degree.",
+        "source": "T29n1563_039:0972a18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以有學者但欣聖道未能厭故。",
+        "translation": "It's because some scholars only desire the noble path and aren't able to tire of it.",
+        "source": "T29n1563_039:0972a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦非一切。",
+        "translation": "This is also not the case for all people.",
+        "source": "T29n1563_039:0972a19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯不時解脫。",
+        "translation": "It's only liberation from time to time.",
+        "source": "T29n1563_039:0972a19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以時解脫愛聖道故。",
+        "translation": "It's because they're liberated from time to time to crave the noble path.",
+        "source": "T29n1563_039:0972a19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依十一地除上七邊。",
+        "translation": "It's based on the eleven stages except for the upper seven extremes.",
+        "source": "T29n1563_039:0972a20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以上七邊無勝德故。",
+        "translation": "The above seven extremes lack superior qualities.",
+        "source": "T29n1563_039:0972a20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若在欲界從未至攝。",
+        "translation": "If he's in the desire realm and has never yet arrived, he'll be included.",
+        "source": "T29n1563_039:0972a21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖道後起若在有頂。",
+        "translation": "If he's at the top of existence, then he'll be born later in the noble path.",
+        "source": "T29n1563_039:0972a21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所有攝聖道後生。",
+        "translation": "There's nothing to be collected that arises after the noble path.",
+        "source": "T29n1563_039:0972a22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘皆自地聖道後起。",
+        "translation": "The others all arise after the noble path from their own ground.",
+        "source": "T29n1563_039:0972a22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "就總類說。",
+        "translation": "They're explained in terms of general categories.",
+        "source": "T29n1563_039:0972a23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此從法類苦滅四智無間而生。",
+        "translation": "'This comes about from the four kinds of cognition of suffering and cessation in the Dharma realm that arise without interruption.'",
+        "source": "T29n1563_039:0972a23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若就別說。",
+        "translation": "If we speak of them separately.",
+        "source": "T29n1563_039:0972a24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界攝者非類後生。",
+        "translation": "Those who are included in the desire realm are not subsequently arisen in that category.",
+        "source": "T29n1563_039:0972a24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上界攝者非法後起。",
+        "translation": "Those who are included in the upper realm are not non-lawyers subsequently arisen.",
+        "source": "T29n1563_039:0972a24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前二非滅後起第三非苦。",
+        "translation": "The first two aren't cessation and the third one isn't suffering when it's subsequently arisen.",
+        "source": "T29n1563_039:0972a25_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後生餘行相。",
+        "translation": "Later on, residual defining activities are produced.",
+        "source": "T29n1563_039:0972a25_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後起此定故。",
+        "translation": "This later-arising concentration is the reason for it.",
+        "source": "T29n1563_039:0972a26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應得此者。",
+        "translation": "Those who should attain it ...",
+        "source": "T29n1563_039:0972a26_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆盡智時由離染得。",
+        "translation": "It's attained by ridding oneself of defilement at the time of full cognition.",
+        "source": "T29n1563_039:0972a26_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後由加行方起現前。",
+        "translation": "It's only later by applying practice that they'll be able to give rise to the present.",
+        "source": "T29n1563_039:0972a27_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯我世尊不由加行。",
+        "translation": "Only we, the Bhagavān, don't rely on application of practices.",
+        "source": "T29n1563_039:0972a27_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "順趣解脫起此現前。",
+        "translation": "This present appearance arises from following the path to liberation.",
+        "source": "T29n1563_039:0972a28_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於道尚厭豈欣諸有。",
+        "translation": "How could he wish for existence when he's still disillusioned with the path?",
+        "source": "T29n1563_039:0972a28_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此後亦起聖道現前。",
+        "translation": "This later stage also gives rise to the manifestation of the noble path.",
+        "source": "T29n1563_039:0972a29_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然厭道故非無間起。",
+        "translation": "However, because they're disillusioned with the path, it's not an instantaneous occurrence.",
+        "source": "T29n1563_039:0972a29_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界攝者是思所成。",
+        "translation": "Those who are included in the desire realm are formed by contemplation.",
+        "source": "T29n1563_039:0972b01_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘修所成依定起故。",
+        "translation": "The rest of what's formed by cultivation arises based on concentration.",
+        "source": "T29n1563_039:0972b01_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "契經復說四修等持。",
+        "translation": "The sūtras also explain four ways to cultivate equipoise.",
+        "source": "T29n1563_039:0972b02_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一為住現法樂修三摩地。",
+        "translation": "One is cultivating samādhi in order to abide in the happiness of the present life.",
+        "source": "T29n1563_039:0972b02_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二為得勝知見修三摩地。",
+        "translation": "Two, he cultivates samādhi for the attainment of superior knowledge and vision.",
+        "source": "T29n1563_039:0972b03_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三為得分別慧修三摩地。",
+        "translation": "Three is cultivating samādhi for the attainment of discriminating wisdom.",
+        "source": "T29n1563_039:0972b03_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四為諸漏永盡修三摩地。",
+        "translation": "Four cultivates samādhi for the permanent ending of contaminants.",
+        "source": "T29n1563_039:0972b04_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是四種相別云何。",
+        "translation": "What are these four kinds of distinctive characteristics?",
+        "source": "T29n1563_039:0972b04_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_039:0972b05_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　為得現法樂　　修諸善淨慮",
+        "translation": "\"In order to attain the happiness of the present life, cultivate good and pure thoughts.",
+        "source": "T29n1563_039:0972b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　為得勝知見　　修淨天眼通",
+        "translation": "to attain superior insight, cultivate the supernormal power of the divine eye",
+        "source": "T29n1563_039:0972b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　為得分別慧　　修諸加行善",
+        "translation": "wholesomeness of applied practices cultivated for the purpose of discerning specific insights",
+        "source": "T29n1563_039:0972b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　為得諸漏盡　　修金剛喻定",
+        "translation": "in order to attain the extinction of contaminants, one cultivates the adamantine metaphorical concentration",
+        "source": "T29n1563_039:0972b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_039:0972b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經說。",
+        "translation": "\"As the sūtras say.",
+        "source": "T29n1563_039:0972b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有修等持。",
+        "translation": "\"There's cultivation and equipoise.",
+        "source": "T29n1563_039:0972b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若習若修若多所作。",
+        "translation": "If he cultivates it or cultivates it or does it often, then he'll attain a happy abode in the present.",
+        "source": "T29n1563_039:0972b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得現樂住。",
+        "translation": "He attains a happy abode in the present.",
+        "source": "T29n1563_039:0972b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至廣說。",
+        "translation": "It's even explained in detail.",
+        "source": "T29n1563_039:0972b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善言通攝淨及無漏。",
+        "translation": "\"Well, it's said to fully include the pure and uncontaminated.",
+        "source": "T29n1563_039:0972b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修諸善靜慮。",
+        "translation": "He cultivates various good meditations.",
+        "source": "T29n1563_039:0972b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住現法樂。",
+        "translation": "They then attain the happiness of abiding in the present life.",
+        "source": "T29n1563_039:0972b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而經但說初靜慮者。",
+        "translation": "The sūtra only says that it's the first meditation.",
+        "source": "T29n1563_039:0972b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中樂想最增盛故。",
+        "translation": "It's because the perception of happiness in the middle is most intense.",
+        "source": "T29n1563_039:0972b13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂超欲界眾多過失。",
+        "translation": "It's beyond the many faults of the desire realm.",
+        "source": "T29n1563_039:0972b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故於此中樂想增盛。",
+        "translation": "Therefore, here, that pleasant contemplation becomes abundant.",
+        "source": "T29n1563_039:0972b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如遊砂磧熱渴疲勞。",
+        "translation": "It's like wandering through a sandhill when you're hot, thirsty, and tired.",
+        "source": "T29n1563_039:0972b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "創飲濁水亦為勝樂。",
+        "translation": "Creating muddy water is also a great pleasure.",
+        "source": "T29n1563_039:0972b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或聖道樂此具有故。",
+        "translation": "Perhaps the noble path is delighted with this because it possesses it.",
+        "source": "T29n1563_039:0972b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂具一切菩提分法四沙門果九斷遍知三界對治。",
+        "translation": "It's the presence of all the factors of enlightenment, the four ascetic realms, the nine eliminations, and the pervasive knowledge of the antidotes in the three realms.",
+        "source": "T29n1563_039:0972b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸定首諸定樂因。",
+        "translation": "It's also the cause of the happiness of those at the head of their concentration.",
+        "source": "T29n1563_039:0972b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故偏說。",
+        "translation": "Therefore, it's only partially explained.",
+        "source": "T29n1563_039:0972b17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不經說。",
+        "translation": "Doesn't the sūtra say.",
+        "source": "T29n1563_039:0972b17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是苾芻。",
+        "translation": "\"Thus, monks.",
+        "source": "T29n1563_039:0972b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住此先受離生喜樂。",
+        "translation": "'Abiding here, he first experiences the joy and happiness of being freed from birth.",
+        "source": "T29n1563_039:0972b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後生梵眾受樂同此。",
+        "translation": "Later-born religious beings experience the same joy.",
+        "source": "T29n1563_039:0972b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故不言住後法樂。",
+        "translation": "Why isn't it said that they abide in the bliss of the latter dharmas?",
+        "source": "T29n1563_039:0972b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "詳此唯說現法樂者。",
+        "translation": "It's explained in detail here only as the happiness of the present life.",
+        "source": "T29n1563_039:0972b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為令棄捨樂現欲樂。",
+        "translation": "That's to cause them to abandon the bliss of equanimity and manifest the bliss of desire.",
+        "source": "T29n1563_039:0972b20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說現定樂令其欣樂。",
+        "translation": "He explains the happiness of present concentration so that they'll be delighted.",
+        "source": "T29n1563_039:0972b20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或現樂住是後樂依。",
+        "translation": "Perhaps abiding in present bliss is the basis for later bliss.",
+        "source": "T29n1563_039:0972b21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但說所依能依已顯。",
+        "translation": "It's only explained that the basis and the abiding basis have already been revealed.",
+        "source": "T29n1563_039:0972b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經說。",
+        "translation": "As the sutra explains, 'He first abides here and enters into the various forms of equipoise.'",
+        "source": "T29n1563_039:0972b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先住此間入諸等至。",
+        "translation": "'First, I'll abide here and enter into the equipoises.'",
+        "source": "T29n1563_039:0972b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後方生彼或現法樂。",
+        "translation": "Later, they'll be born there or they'll presently experience the happiness of the Dharma.",
+        "source": "T29n1563_039:0972b22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三乘皆住後樂不定。",
+        "translation": "The three vehicles all abide in a later stage of bliss that's indeterminate.",
+        "source": "T29n1563_039:0972b23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不說。",
+        "translation": "That's why it's not explained.",
+        "source": "T29n1563_039:0972b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂或退墮。",
+        "translation": "It means that they may regress or fall back.",
+        "source": "T29n1563_039:0972b23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或上受生。",
+        "translation": "Perhaps they'll be reborn upward.",
+        "source": "T29n1563_039:0972b24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或般涅槃。",
+        "translation": "Or they may attain parinirvāṇa.",
+        "source": "T29n1563_039:0972b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便不住故。",
+        "translation": "It's because they don't abide there.",
+        "source": "T29n1563_039:0972b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖諸靜慮即現法樂。",
+        "translation": "Even though these meditations are the present happiness of the Dharma, it's said to be attained based on the near part.",
+        "source": "T29n1563_039:0972b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依近分故說為得言。",
+        "translation": "It's said to be attained because it relies on the proximate parts.",
+        "source": "T29n1563_039:0972b25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修近分力得根本故。",
+        "translation": "It's because of the power of cultivating the near aspect that it attains its root.",
+        "source": "T29n1563_039:0972b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或即依現樂說為得言。",
+        "translation": "Perhaps it's said to be attained based on present happiness.",
+        "source": "T29n1563_039:0972b26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如言身子體。",
+        "translation": "It's like saying that the body is the son's body.",
+        "source": "T29n1563_039:0972b26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故無有過。",
+        "translation": "Therefore, there's nothing wrong with it.",
+        "source": "T29n1563_039:0972b27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's an explanation.",
+        "source": "T29n1563_039:0972b27_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此定佛依自說。",
+        "translation": "\"This is a statement that relies on the Buddha's own words.",
+        "source": "T29n1563_039:0972b27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說菩薩居贍部林。",
+        "translation": "It's like saying that a bodhisattva lives in Jambudvīpa's forest.",
+        "source": "T29n1563_039:0972b27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起初世間依無漏定。",
+        "translation": "It starts in the early world based on uncontaminated concentration.",
+        "source": "T29n1563_039:0972b28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能引一切有情共樂。",
+        "translation": "It's capable of bringing about the common enjoyment of all sentient beings.",
+        "source": "T29n1563_039:0972b28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此不說後法樂住。",
+        "translation": "This is why it's not said that the latter dharmas are happily abiding.",
+        "source": "T29n1563_039:0972b29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即由此故亦但說初。",
+        "translation": "It's because of this that it's also only described as the beginning.",
+        "source": "T29n1563_039:0972b29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩爾時唯得初故。",
+        "translation": "At that point, the bodhisattva has attained only the beginning.",
+        "source": "T29n1563_039:0972c01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若依諸定修天眼通。",
+        "translation": "If he cultivates the divine vision based on these concentrations, then he'll be able to attain superior insight.",
+        "source": "T29n1563_039:0972c01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便能獲得殊勝知見。",
+        "translation": "He'll then be able to attain superior knowledge and vision.",
+        "source": "T29n1563_039:0972c02_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此依何義立知見名。",
+        "translation": "What does this mean to establish the name of knowing and seeing?",
+        "source": "T29n1563_039:0972c02_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本靜慮中有遍照智。",
+        "translation": "In the original meditation there's the knowledge of pervasive illumination.",
+        "source": "T29n1563_039:0972c03_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此遍照故。",
+        "translation": "Because it completely illuminates, it's called vision.",
+        "source": "T29n1563_039:0972c03_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立以見名。",
+        "translation": "It's called knowing by the name of seeing.",
+        "source": "T29n1563_039:0972c03_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見體即知。",
+        "translation": "Seeing the essence is knowing.",
+        "source": "T29n1563_039:0972c04_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名知見。",
+        "translation": "Therefore, it's called knowing and seeing.",
+        "source": "T29n1563_039:0972c04_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼根名見。",
+        "translation": "The eye faculty is called seeing.",
+        "source": "T29n1563_039:0972c04_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世所極成。",
+        "translation": "It's fully formed in the world.",
+        "source": "T29n1563_039:0972c04_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為簡異彼。",
+        "translation": "It's simpler to differ from that.",
+        "source": "T29n1563_039:0972c05_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以知摽見。",
+        "translation": "It's a knowing, indicating, and insight.",
+        "source": "T29n1563_039:0972c05_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或即此見決斷所緣。",
+        "translation": "It may be that this view determines the perceptual objects.",
+        "source": "T29n1563_039:0972c05_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名為知。",
+        "translation": "That's why it's called knowing.",
+        "source": "T29n1563_039:0972c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即亦名見。",
+        "translation": "That is, it's also called views.",
+        "source": "T29n1563_039:0972c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂本靜慮是樂行道。",
+        "translation": "This is called the originally meditated path of delightful activity.",
+        "source": "T29n1563_039:0972c06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不多劬勞而現前故。",
+        "translation": "It's shown because it's not strenuous.",
+        "source": "T29n1563_039:0972c06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不劬勞故其體堅牢。",
+        "translation": "Because it's not strenuous, its body is firm and resolute.",
+        "source": "T29n1563_039:0972c07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由體堅牢故用決定。",
+        "translation": "Because its body is resolute, its function is determined.",
+        "source": "T29n1563_039:0972c07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用決定故立以知名。",
+        "translation": "Because [its] function is determined, it's established as a well-known name.",
+        "source": "T29n1563_039:0972c08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見義如前。",
+        "translation": "The meaning of views is as before.",
+        "source": "T29n1563_039:0972c08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名知見。",
+        "translation": "Therefore, it's called knowing and seeing.",
+        "source": "T29n1563_039:0972c09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為知為見。",
+        "translation": "To know and see for the sake of knowing is to see.",
+        "source": "T29n1563_039:0972c09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修此等持即是為求決定照義。",
+        "translation": "To cultivate this maintenance is to seek the meaning of definite illumination.",
+        "source": "T29n1563_039:0972c09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦善逝依自而說。",
+        "translation": "This is also explained by Sugata on his own authority.",
+        "source": "T29n1563_039:0972c10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂為顯佛以天眼通觀諸有情死生險難。",
+        "translation": "It's to show that the Buddha has the divine vision to observe the perils of death and birth of sentient beings.",
+        "source": "T29n1563_039:0972c10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方為拔濟起靜慮等。",
+        "translation": "He then elevates them to relief and gives rise to meditation and so forth.",
+        "source": "T29n1563_039:0972c11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故為知見修天眼通。",
+        "translation": "That's why he cultivates the divine vision for the sake of knowing and seeing.",
+        "source": "T29n1563_039:0972c12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘師言。",
+        "translation": "There are other teachers who say.",
+        "source": "T29n1563_039:0972c12_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲勝伏諸隨煩惱起勝知見。",
+        "translation": "\"In order to overcome the accompanying afflictions, he gives rise to superior knowing and seeing.",
+        "source": "T29n1563_039:0972c12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起此勝知見不離光明想。",
+        "translation": "Giving rise to this superior knowing and seeing doesn't separate him from the perception of light.",
+        "source": "T29n1563_039:0972c13_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此光明想引天眼通。",
+        "translation": "This perception of light leads to the divine vision.",
+        "source": "T29n1563_039:0972c14_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由天眼通得勝知見。",
+        "translation": "From this supernormal vision of the divine eye, he attains superior knowledge and views.",
+        "source": "T29n1563_039:0972c14_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若修三界諸加行善及無漏善得分別慧。",
+        "translation": "If someone cultivates the virtues of application in the three realms and the untainted virtues, they'll attain the wisdom of distinction.",
+        "source": "T29n1563_039:0972c15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂從欲界乃至有頂。",
+        "translation": "That is, from the desire realm up to the top of existence.",
+        "source": "T29n1563_039:0972c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸聞思修所成善法。",
+        "translation": "They are the good qualities that result from hearing, contemplating, and cultivating.",
+        "source": "T29n1563_039:0972c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及餘一切無漏有為。",
+        "translation": "And all the other uncontaminated existent things.",
+        "source": "T29n1563_039:0972c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總說名為加行善法。",
+        "translation": "They're generally called the good qualities of applied practices.",
+        "source": "T29n1563_039:0972c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修此善法能引慧生。",
+        "translation": "Cultivating these good qualities leads to the production of wisdom.",
+        "source": "T29n1563_039:0972c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸境中差別而轉。",
+        "translation": "It's developed by discriminating among objects.",
+        "source": "T29n1563_039:0972c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故言修此得分別慧。",
+        "translation": "That's why it's called cultivating this kind of discriminating wisdom.",
+        "source": "T29n1563_039:0972c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說善逝住二尋思。",
+        "translation": "As it's said, Sugata abides in the two kinds of discursive thought.",
+        "source": "T29n1563_039:0972c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能如實知諸受起等。",
+        "translation": "He's able to accurately know the arising of feelings and so forth.",
+        "source": "T29n1563_039:0972c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此顯修善得分別慧。",
+        "translation": "This shows that cultivating goodness can lead to the production of distinct kinds of wisdom.",
+        "source": "T29n1563_039:0972c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說加行言為簡生得。",
+        "translation": "It's said that applied practices simply produce attainment.",
+        "source": "T29n1563_039:0972c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非修習生得。",
+        "translation": "It's not something that arises from cultivation.",
+        "source": "T29n1563_039:0972c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得未曾得故。",
+        "translation": "It's attained because it hasn't been attained before.",
+        "source": "T29n1563_039:0972c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若修金剛喻定。",
+        "translation": "If someone cultivates the metaphorical concentration of vajra.",
+        "source": "T29n1563_039:0972c21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便得諸漏永盡。",
+        "translation": "then he'll attain the permanent end of the contaminants.",
+        "source": "T29n1563_039:0972c22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂若修習第四靜慮金剛喻定并隨轉法。",
+        "translation": "This means that if he cultivates the fourth concentration of meditation, the adamantine metaphor concentration, and the teachings that follow it.",
+        "source": "T29n1563_039:0972c22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便能獲得諸漏永盡。",
+        "translation": "He'll then be able to permanently end the contaminants.",
+        "source": "T29n1563_039:0972c23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四靜慮佛依自說。",
+        "translation": "The fourth concentration of meditation is based on what the Buddha himself said.",
+        "source": "T29n1563_039:0972c23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無上菩提依此得故。",
+        "translation": "'It's the basis for attaining unsurpassed bodhi.'",
+        "source": "T29n1563_039:0972c24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛喻定頓證漏盡引盡智生。",
+        "translation": "Vajra metaphorical concentration suddenly realizes the end of the contaminants and brings about the birth of knowledge of their end.",
+        "source": "T29n1563_039:0972c24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故偏說。",
+        "translation": "Therefore, it's only partially explained.",
+        "source": "T29n1563_039:0972c25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's the teaching.",
+        "source": "T29n1563_039:0972c25_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切有頓斷治。",
+        "translation": "'All things that exist are suddenly ended and purified.'",
+        "source": "T29n1563_039:0972c25_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四靜慮皆此所攝。",
+        "translation": "The fourth concentration is all included here.",
+        "source": "T29n1563_039:0972c26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經所說。",
+        "translation": "It's explained in this sūtra.",
+        "source": "T29n1563_039:0972c26_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若習若修若多所作。",
+        "translation": "'Whether it's practiced, cultivated, or often undertaken,' he says.",
+        "source": "T29n1563_039:0972c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義差別者。",
+        "translation": "This is a distinction in meaning.",
+        "source": "T29n1563_039:0972c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲顯示習修得修。",
+        "translation": "It's to show that accumulation and cultivation are cultivated.",
+        "source": "T29n1563_039:0972c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所治更遠如其次第。",
+        "translation": "What's counteracted is more distant than its sequel.",
+        "source": "T29n1563_039:0972c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說一切有部顯宗論卷第三十九",
+        "translation": "Saṃyuktâgama-vibhāga-śāstra, vol. 39",
+        "source": "T29n1563_039:0972c29_0",
+        "is_bad_quality": false
+    }
+]

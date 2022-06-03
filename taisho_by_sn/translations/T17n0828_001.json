@@ -1,0 +1,947 @@
+[
+    {
+        "source_sentence": "無字寶篋經",
+        "translation": "Wuzi baoqie jing",
+        "source": "T17n0828_001:0870c12_0"
+    },
+    {
+        "source_sentence": "元魏天竺三藏菩提流支譯",
+        "translation": "Yuan Wei Tianzhusao Sanzang Bodhiruci Translation",
+        "source": "T17n0828_001:0870c14_0"
+    },
+    {
+        "source_sentence": "如是我聞：一時，婆伽婆住王舍大城耆闍崛山中。",
+        "translation": "Thus I have heard: One time, Bhagavān was staying at Mount Gṛdhrakūṭa in the great city of Rājagṛha.",
+        "source": "T17n0828_001:0870c15_0"
+    },
+    {
+        "source_sentence": "時，有無量百千萬億大菩薩眾圍遶如來，皆是大智，善權方便，勇猛精進；",
+        "translation": "At that time immeasurable hundreds of thousands of myriads of koṭis of great enlightening beings surrounded the Buddha. They were all great knowledgeers, skilled in expedient means, courageous and energetic, brave and vigorous.",
+        "source": "T17n0828_001:0870c16_1"
+    },
+    {
+        "source_sentence": "善能通達無字法門；",
+        "translation": "They were well able to comprehend the teaching of wordlessness.",
+        "source": "T17n0828_001:0870c17_2"
+    },
+    {
+        "source_sentence": "善能清淨是處、非處；",
+        "translation": "They are able to thoroughly purify the right and wrong [spheres].",
+        "source": "T17n0828_001:0870c18_3"
+    },
+    {
+        "source_sentence": "慚愧解脫羅網所覆，調伏諸根；",
+        "translation": "They are bound by the net of shame and embarrassed liberation, taming their faculties.",
+        "source": "T17n0828_001:0870c18_4"
+    },
+    {
+        "source_sentence": "以慈悲牙、以慚愧牙，愍念眾生；",
+        "translation": "With the teeth of compassion and pity and with the teeth of shame they have compassion for sentient beings.",
+        "source": "T17n0828_001:0870c19_5"
+    },
+    {
+        "source_sentence": "得大三昧，以智為首、善敬智母；",
+        "translation": "They attain great concentration, with knowledge as the foremost and respectful to their mothers.",
+        "source": "T17n0828_001:0870c20_6"
+    },
+    {
+        "source_sentence": "猶如寶洲大寶之藏；",
+        "translation": "It is like the great jewel mine of the precious continent.",
+        "source": "T17n0828_001:0870c20_7"
+    },
+    {
+        "source_sentence": "皆悉善知善、不善法；",
+        "translation": "They all know well the wholesome and the unwholesome.",
+        "source": "T17n0828_001:0870c21_8"
+    },
+    {
+        "source_sentence": "覺三世事，一切成就；",
+        "translation": "He perceived the events of all times and accomplished them all.",
+        "source": "T17n0828_001:0870c21_9"
+    },
+    {
+        "source_sentence": "無字辯才，善達二空，得勝妙地；",
+        "translation": "The power of wordless elucidation comprehended the two kinds of emptiness and attained a most sublime state.",
+        "source": "T17n0828_001:0870c22_10"
+    },
+    {
+        "source_sentence": "善學諸諦，通達實際；",
+        "translation": "They study the truths well and comprehend reality.",
+        "source": "T17n0828_001:0870c22_11"
+    },
+    {
+        "source_sentence": "無邊勇健，無所執著；",
+        "translation": "They are boundlessly courageous and strong, not attached to anything.",
+        "source": "T17n0828_001:0870c23_12"
+    },
+    {
+        "source_sentence": "悉能通達自性上法；",
+        "translation": "They were able to comprehend all the higher dharmas of their own nature.",
+        "source": "T17n0828_001:0870c23_13"
+    },
+    {
+        "source_sentence": "能善思惟實以不實二種法門；",
+        "translation": "They can skillfully contemplate the two kinds of doctrines as real and unreal.",
+        "source": "T17n0828_001:0870c24_14"
+    },
+    {
+        "source_sentence": "胎藏示生，永離生死；",
+        "translation": "The womb-store shows birth, forever leaving birth and death.",
+        "source": "T17n0828_001:0870c25_15"
+    },
+    {
+        "source_sentence": "善覺祕密，善知諸相；",
+        "translation": "They are well enlightened and mysterious, knowing all marks well.",
+        "source": "T17n0828_001:0870c25_16"
+    },
+    {
+        "source_sentence": "應護諸國，得大名稱；",
+        "translation": "They should protect all countries and attain great fame.",
+        "source": "T17n0828_001:0870c26_17"
+    },
+    {
+        "source_sentence": "皆悉復得勝名勝藏；",
+        "translation": "They all attain the supreme name Supreme Treasury.",
+        "source": "T17n0828_001:0870c26_18"
+    },
+    {
+        "source_sentence": "得無言藏，永安隱眠；",
+        "translation": "They attain the ineffable treasury of words and sleep forever peacefully.",
+        "source": "T17n0828_001:0870c27_0"
+    },
+    {
+        "source_sentence": "諸所施為，皆悉善樂；",
+        "translation": "The objects they give are all good and pleasant.",
+        "source": "T17n0828_001:0870c27_1"
+    },
+    {
+        "source_sentence": "姓名普聞，離於三界；",
+        "translation": "Their names are universally heard, beyond the three realms.",
+        "source": "T17n0828_001:0870c27_2"
+    },
+    {
+        "source_sentence": "能救三界所住眾生；",
+        "translation": "They can save sentient beings in the three realms.",
+        "source": "T17n0828_001:0870c28_3"
+    },
+    {
+        "source_sentence": "善覺真如，普示普賢；",
+        "translation": "The true nature of enlightenment being well awakened, they show universal goodness everywhere.",
+        "source": "T17n0828_001:0870c28_4"
+    },
+    {
+        "source_sentence": "遍示其身，諸根清淨；",
+        "translation": "They show their bodies everywhere, their faculties pure and genuine.",
+        "source": "T17n0828_001:0870c29_5"
+    },
+    {
+        "source_sentence": "善能覺達自身、他身；",
+        "translation": "They are able to perceive themselves and others’ bodies.",
+        "source": "T17n0828_001:0870c29_6"
+    },
+    {
+        "source_sentence": "皆得成就明利智慧。",
+        "translation": "They'll all attain the accomplishment of insight and wisdom.",
+        "source": "T17n0828_001:0871a01_7"
+    },
+    {
+        "source_sentence": "所謂：勝響菩薩、法響菩薩、勝諸分菩薩、法眼菩薩、千相菩薩、辯聚菩薩、勝思惟菩薩、治地菩薩、治地際菩薩、深入地際響菩薩、地響菩薩、具辯菩薩、上積菩薩、華目菩薩、優鉢羅目菩薩、頂髻菩薩、文殊響菩薩。",
+        "translation": "They are: the Bodhisattva Supreme Sound, the Bodhisattva Dharma Sound, the Bodhisattva Supreme Parts, the Bodhisattva Dharma Eye, the Bodhisattva Thousand Characteristics, the Bodhisattva debating groups, the Bodhisattva Supreme Meditation, the Bodhisattva Healing of the Earth, the Bodhisattva Healing of the",
+        "source": "T17n0828_001:0871a01_8"
+    },
+    {
+        "source_sentence": "如是等菩薩摩訶薩不可算數，皆是童子，皆從他方不可觀察恒河沙等世界來集，",
+        "translation": "Such great enlightening beings as these cannot be counted, for they are all children. All of them have come from other directions to gather in such worlds as the Ganges River:",
+        "source": "T17n0828_001:0871a06_9"
+    },
+    {
+        "source_sentence": "一切皆住受法王職太子位處。",
+        "translation": "They all stayed at the place where they received the position of crown prince in the post of king of the Dharma.",
+        "source": "T17n0828_001:0871a08_10"
+    },
+    {
+        "source_sentence": "勝思惟菩薩，無量釋梵之所圍遶。",
+        "translation": "The bodhisattva Supreme Meditation is surrounded by an immeasurable number of Śākyamunis and Brahmās.",
+        "source": "T17n0828_001:0871a09_11"
+    },
+    {
+        "source_sentence": "普賢菩薩、虛空藏等，四大神王及有無量轉輪聖王之所圍遶。",
+        "translation": "Samantabhadra Bodhisattva, Ākāśagarbha and so forth are surrounded by the four great kings of spirits and immeasurable wheel-turning sage kings.",
+        "source": "T17n0828_001:0871a10_12"
+    },
+    {
+        "source_sentence": "得大勢至、觀世自在菩薩，無量梵眾之所圍遶。",
+        "translation": "Attaining great momentum, the Bodhisattva Avalokitêśvara Bodhisattva was surrounded by an immeasurable number of Brahmas.",
+        "source": "T17n0828_001:0871a11_13"
+    },
+    {
+        "source_sentence": "不空見菩薩，多有無量毘沙門王之所圍遶。",
+        "translation": "A bodhisattva who doesn't see emptiness is often surrounded by an immeasurable king of Vaiśravaṇa.",
+        "source": "T17n0828_001:0871a12_14"
+    },
+    {
+        "source_sentence": "星宿王菩薩，無量星宿及餘護世之所圍遶。",
+        "translation": "The star king bodhisattva is surrounded by measureless stars, constellations, and other world protectors.",
+        "source": "T17n0828_001:0871a13_15"
+    },
+    {
+        "source_sentence": "復有破疑菩薩、滅一切障菩薩，自身示現如來之身，無量諸佛之所圍遶，",
+        "translation": "There were also bodhisattvas who had dispelled doubts and extinguished all hindrances, manifesting themselves as buddhas themselves, surrounded by innumerable buddhas.",
+        "source": "T17n0828_001:0871a14_16"
+    },
+    {
+        "source_sentence": "及舍利弗、大目犍連、大迦葉等，一切悉是大阿羅漢。",
+        "translation": "And Śāriputra, Mahāmaudgalyāyana, Mahākāśyapa, and so forth are all great arhats.",
+        "source": "T17n0828_001:0871a16_17"
+    },
+    {
+        "source_sentence": "真練菩薩、勝思惟菩薩，無量天女之所圍遶。",
+        "translation": "Bodhisattvas of true training and bodhisattvas of superior contemplation were surrounded by measureless goddesses.",
+        "source": "T17n0828_001:0871a17_18"
+    },
+    {
+        "source_sentence": "藥王菩薩、藥上菩薩，無量眷屬之所圍遶。",
+        "translation": "The Medicine King Bodhisattva and the Medicine Supreme Bodhisattva were surrounded by measureless retinues.",
+        "source": "T17n0828_001:0871a18_19"
+    },
+    {
+        "source_sentence": "所有十方恒河沙等世界之中諸有日月，自恃威德生我慢者，一切皆悉來向佛所。",
+        "translation": "All the suns and moons in worlds as numerous as the grains of sand in the Ganges River in the ten directions, relying on their own authoritative qualities to give rise to self-conceit, all come to the Buddha.",
+        "source": "T17n0828_001:0871a19_20"
+    },
+    {
+        "source_sentence": "到佛所已，於如來前，却住一面，即見自身無有光明，猶如聚墨在於閻浮那提金邊。",
+        "translation": "When he arrived at the Buddha's place, he stood to one side in front of the Tathāgata and saw that his own body didn't have light, just like a cluster of black ink on the edge of Jambudvīpa's gold.",
+        "source": "T17n0828_001:0871a21_21"
+    },
+    {
+        "source_sentence": "此諸日月，住如來前，不自顯現亦復如是。",
+        "translation": "These suns and moons are standing in front of the Tathāgata, but they don't show themselves, so it is likewise.",
+        "source": "T17n0828_001:0871a23_22"
+    },
+    {
+        "source_sentence": "無心欲住，亦不欲說，無有威德，不能顯現。",
+        "translation": "They have no mental desire to abide, and they don't want to explain it; they lack authoritative qualities that can't be revealed.",
+        "source": "T17n0828_001:0871a24_23"
+    },
+    {
+        "source_sentence": "那羅延等，無量諸天之所圍遶。",
+        "translation": "Nārāyaṇa and so forth are surrounded by measureless gods.",
+        "source": "T17n0828_001:0871a25_0"
+    },
+    {
+        "source_sentence": "大神龍神得叉迦阿那婆達多等諸大龍王，無量諸龍之所圍遶。",
+        "translation": "The great spirits, dragons, goddesses, yakṣas, and other great dragon kings are surrounded by measureless dragons.",
+        "source": "T17n0828_001:0871a25_1"
+    },
+    {
+        "source_sentence": "善音乾闥婆王，有無量億乾闥婆眾之所圍遶。",
+        "translation": "Good Sound is the king of gandharvas, surrounded by measureless millions of gandharvas.",
+        "source": "T17n0828_001:0871a27_2"
+    },
+    {
+        "source_sentence": "無厭足迦樓羅王，亦有七億迦樓羅眾之所圍遶，來至佛所。",
+        "translation": "The footstool-unwearing garuḍa king also came to the Buddha accompanied by a multitude of seven hundred million garuḍas.",
+        "source": "T17n0828_001:0871a28_3"
+    },
+    {
+        "source_sentence": "時，此三千大千世界恒河沙等諸世界中，所有諸菩薩，各於彼處啟請其佛。",
+        "translation": "At the time, all the bodhisattvas in these 3,000 great one-thousand worlds, such as the Ganges River and other worlds, each invited their buddhas there.",
+        "source": "T17n0828_001:0871a29_4"
+    },
+    {
+        "source_sentence": "既請佛已，四眾圍遶，來至娑婆，持出世間諸供養具，來至佛所。",
+        "translation": "Having invited the Buddha, they surrounded by the fourfold assembly, came to Sāvatthī. Carrying world-transcendent offerings, they came to the place where the Buddha was staying.",
+        "source": "T17n0828_001:0871b02_5"
+    },
+    {
+        "source_sentence": "彼諸菩薩，供養佛已，各各自坐蓮華座上。",
+        "translation": "After they had made offerings to the Buddha, each of those bodhisattvas sat on a lotus seat.",
+        "source": "T17n0828_001:0871b03_6"
+    },
+    {
+        "source_sentence": "爾時，有菩薩摩訶薩名勝思惟，來至佛所，即白佛言：「世尊！",
+        "translation": "At the time, there was a bodhisattva Mahāsattva named Vaiśravaṇa who came to the Buddha and said to him, Bhagavān!",
+        "source": "T17n0828_001:0871b05_0"
+    },
+    {
+        "source_sentence": "世尊若為聽許我者，我乃敢問如來二字。」",
+        "translation": "If the Bhagavān allows me to do so, I'll dare to ask the Tathāgata two words.",
+        "source": "T17n0828_001:0871b06_1"
+    },
+    {
+        "source_sentence": "爾時，佛告勝思惟菩薩言：「聽汝所問，隨汝意問。",
+        "translation": "It was then that the Buddha addressed the bodhisattva Vaiśeṣika, saying, Listen to what you ask, and ask as you wish.",
+        "source": "T17n0828_001:0871b08_0"
+    },
+    {
+        "source_sentence": "如來不為一眾生故，此處成道，乃為汝等諸大龍象，我出於此。」",
+        "translation": "The Tathāgata doesn't become a buddha here for the sake of one sentient being, but I will come out here for you great dragons and elephants.",
+        "source": "T17n0828_001:0871b09_1"
+    },
+    {
+        "source_sentence": "爾時，勝思惟菩薩白佛言：「世尊！",
+        "translation": "It was then that the Vaiśeṣika Bodhisattva said to the Buddha, Bhagavān!",
+        "source": "T17n0828_001:0871b10_2"
+    },
+    {
+        "source_sentence": "何者一法，而是菩薩所除滅者？",
+        "translation": "What's a single thing that's removed by the bodhisattva?",
+        "source": "T17n0828_001:0871b11_3"
+    },
+    {
+        "source_sentence": "何者一法，而是如來所證覺者？」",
+        "translation": "What's a single thing that the Tathāgata has realized?",
+        "source": "T17n0828_001:0871b11_4"
+    },
+    {
+        "source_sentence": "爾時，世尊讚勝思惟菩薩摩訶薩言：「善哉，善哉！",
+        "translation": "It was then that the Bhagavān praised the bodhisattva Mahāsattva Supreme Contemplation, saying, Good, good!",
+        "source": "T17n0828_001:0871b13_0"
+    },
+    {
+        "source_sentence": "梵天！",
+        "translation": "Brahmā!",
+        "source": "T17n0828_001:0871b14_1"
+    },
+    {
+        "source_sentence": "汝已淳熟無量善根，諸佛加持問此句義。",
+        "translation": "You've cultivated measureless good roots, and the buddhas have blessed them to ask about the meaning of this phrase.",
+        "source": "T17n0828_001:0871b14_2"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b15_3"
+    },
+    {
+        "source_sentence": "汝今諦聽，善思念之，我為汝說。」",
+        "translation": "Now, listen closely and well consider it; I'll explain it for you.",
+        "source": "T17n0828_001:0871b15_4"
+    },
+    {
+        "source_sentence": "爾時，勝思惟菩薩禮如來足，頂戴而受。",
+        "translation": "At that point, the Vaiśeṣika Bodhisattva bowed his head at the feet of the Tathāgata and accepted it.",
+        "source": "T17n0828_001:0871b17_0"
+    },
+    {
+        "source_sentence": "佛言：「善男子！",
+        "translation": "The Buddha said, Good man!",
+        "source": "T17n0828_001:0871b17_1"
+    },
+    {
+        "source_sentence": "有一種法，菩薩應滅，所謂貪法。",
+        "translation": "There's one thing that bodhisattvas should cease, which is called the law of craving.",
+        "source": "T17n0828_001:0871b18_2"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b18_3"
+    },
+    {
+        "source_sentence": "此是一法，應當永滅。",
+        "translation": "This is one thing that should be permanently extinguished.",
+        "source": "T17n0828_001:0871b19_4"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b19_5"
+    },
+    {
+        "source_sentence": "復有一法，菩薩應滅，所謂瞋法。",
+        "translation": "Again, there's another thing that bodhisattvas should cease, which is called the dharma of anger.",
+        "source": "T17n0828_001:0871b19_6"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b20_7"
+    },
+    {
+        "source_sentence": "此是一法，應當永滅。",
+        "translation": "This is one thing that should be permanently extinguished.",
+        "source": "T17n0828_001:0871b20_8"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b21_9"
+    },
+    {
+        "source_sentence": "復有一法，菩薩應滅，所謂癡法。",
+        "translation": "There's another thing that bodhisattvas should cease, which is called the dharma of delusion.",
+        "source": "T17n0828_001:0871b21_10"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b22_11"
+    },
+    {
+        "source_sentence": "此是一法，應當永滅。",
+        "translation": "This is one thing that should be permanently extinguished.",
+        "source": "T17n0828_001:0871b22_12"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b22_13"
+    },
+    {
+        "source_sentence": "復有一法，菩薩應滅，所謂我見。",
+        "translation": "There's another thing that bodhisattvas should cease, which is called self-view.",
+        "source": "T17n0828_001:0871b23_14"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b23_15"
+    },
+    {
+        "source_sentence": "此是一法，應當永滅。",
+        "translation": "This is one thing that should be permanently extinguished.",
+        "source": "T17n0828_001:0871b24_0"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b24_1"
+    },
+    {
+        "source_sentence": "復有一法，菩薩應滅，所謂懈怠。",
+        "translation": "There's another thing that bodhisattvas should cease, which is called laziness.",
+        "source": "T17n0828_001:0871b24_2"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b25_3"
+    },
+    {
+        "source_sentence": "此是一法，應當永滅。",
+        "translation": "This is one thing that should be permanently extinguished.",
+        "source": "T17n0828_001:0871b25_4"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b26_5"
+    },
+    {
+        "source_sentence": "復有一法，菩薩應滅，所謂睡眠。",
+        "translation": "There's another thing that bodhisattvas should cease, which is called drowsiness.",
+        "source": "T17n0828_001:0871b26_6"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b27_0"
+    },
+    {
+        "source_sentence": "此是一法，應當永滅。",
+        "translation": "This is one thing that should be permanently extinguished.",
+        "source": "T17n0828_001:0871b27_1"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b27_2"
+    },
+    {
+        "source_sentence": "復有一法，菩薩應滅，所謂貪愛。",
+        "translation": "There's another thing that bodhisattvas should cease, which is called craving.",
+        "source": "T17n0828_001:0871b27_3"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b28_4"
+    },
+    {
+        "source_sentence": "此是一法，應當永滅。",
+        "translation": "This is one thing that should be permanently extinguished.",
+        "source": "T17n0828_001:0871b28_5"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871b29_6"
+    },
+    {
+        "source_sentence": "菩薩復應除滅一法，所謂無明。",
+        "translation": "A bodhisattva should also remove one thing that ceases, which is called ignorance.",
+        "source": "T17n0828_001:0871b29_7"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c01_8"
+    },
+    {
+        "source_sentence": "此是一法，應當永滅。」",
+        "translation": "This is one thing that should be permanently extinguished.",
+        "source": "T17n0828_001:0871c01_9"
+    },
+    {
+        "source_sentence": "爾時，勝思惟梵天白佛言：「世尊！",
+        "translation": "It was then that the Vaiśravaṇa Brahmadeva said to the Buddha, Bhagavān!",
+        "source": "T17n0828_001:0871c01_10"
+    },
+    {
+        "source_sentence": "何者是一法，而諸菩薩日夜防護？」",
+        "translation": "What's one thing that the bodhisattvas guard day and night?",
+        "source": "T17n0828_001:0871c02_11"
+    },
+    {
+        "source_sentence": "爾時，世尊語勝思惟菩薩言：「善男子！",
+        "translation": "It was then that the Bhagavān addressed the bodhisattva Vaiśravaṇa, saying, Good sons!",
+        "source": "T17n0828_001:0871c03_12"
+    },
+    {
+        "source_sentence": "所謂菩薩，己所不欲，勿勸他人。",
+        "translation": "It's called a bodhisattva who doesn't want what he wants and doesn't encourage others to do it.",
+        "source": "T17n0828_001:0871c04_13"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c05_0"
+    },
+    {
+        "source_sentence": "若有善男子、善女人，護持此法，彼善男子、善女人，護持如來一切戒藏。",
+        "translation": "If there are good men and good women who uphold this teaching, those good men and good women will uphold all the treasures of the Tathāgata's store of precepts.",
+        "source": "T17n0828_001:0871c05_1"
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is it so?",
+        "source": "T17n0828_001:0871c06_2"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c07_0"
+    },
+    {
+        "source_sentence": "愛自命者則不殺生、愛自財者不盜他物、愛自妻者不侵他妻。",
+        "translation": "Those who love their own lives don't kill, those who love their own possessions don't steal others' property, and those who love their own wives don't attack the wives of others.",
+        "source": "T17n0828_001:0871c07_1"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c08_2"
+    },
+    {
+        "source_sentence": "是等眾生，發如是意，言『我敬順如來正教。』",
+        "translation": "These sentient beings give rise to this thought, saying, 'I respect the Tathāgata's correct teaching.'",
+        "source": "T17n0828_001:0871c08_3"
+    },
+    {
+        "source_sentence": "彼善男子，常當勤心防護此法。",
+        "translation": "Good sons, that good man should always diligently guard this teaching.",
+        "source": "T17n0828_001:0871c09_4"
+    },
+    {
+        "source_sentence": "以何義故？",
+        "translation": "What does it mean?",
+        "source": "T17n0828_001:0871c10_5"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c10_6"
+    },
+    {
+        "source_sentence": "若有善男子、善女人，欲求無上正真等覺大菩提者，彼人悉是為樂故求，",
+        "translation": "“If there are any sons or daughters of a virtuous family who want to seek the supreme awakening of true enlightenment, they all seek it out for pleasure.",
+        "source": "T17n0828_001:0871c10_7"
+    },
+    {
+        "source_sentence": "而無有求自身苦者，世間惟有樂受樂者。",
+        "translation": "There's no one who seeks to make himself painful, but there are only those in the world who enjoy pleasure and experience pleasure.",
+        "source": "T17n0828_001:0871c12_8"
+    },
+    {
+        "source_sentence": "以是義故，我說此言。",
+        "translation": "Because of this meaning, I say these words.",
+        "source": "T17n0828_001:0871c13_9"
+    },
+    {
+        "source_sentence": "汝等當知，己所不欲，勿勸他人。",
+        "translation": "You should know that you don't want what you want, and don't encourage others.",
+        "source": "T17n0828_001:0871c14_0"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c14_1"
+    },
+    {
+        "source_sentence": "此是一法，菩薩常當日夜護之。",
+        "translation": "This is one thing that bodhisattvas always guard day and night.",
+        "source": "T17n0828_001:0871c14_2"
+    },
+    {
+        "source_sentence": "「善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c16_0"
+    },
+    {
+        "source_sentence": "如汝所問，何者一法，而是如來所證覺者。",
+        "translation": "As you ask, what's the single dharma that's realized by the Tathāgata?",
+        "source": "T17n0828_001:0871c16_1"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c17_2"
+    },
+    {
+        "source_sentence": "無有一法，如來所覺。",
+        "translation": "There's not a single thing that the Tathāgata perceives.",
+        "source": "T17n0828_001:0871c17_3"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c17_4"
+    },
+    {
+        "source_sentence": "於法無覺，是如來覺。",
+        "translation": "The absence of awakening to the Dharma is the Tathāgata's awakening.",
+        "source": "T17n0828_001:0871c18_0"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c18_1"
+    },
+    {
+        "source_sentence": "一切法不生，而如來證覺，一切法不滅，而如來證覺。",
+        "translation": "All things don't arise, but the Tathāgata realizes it, and all things don't cease, but the Tathāgata realizes it.",
+        "source": "T17n0828_001:0871c18_2"
+    },
+    {
+        "source_sentence": "「復次，善男子！",
+        "translation": "Furthermore, good man!",
+        "source": "T17n0828_001:0871c20_0"
+    },
+    {
+        "source_sentence": "法性離二邊，而如來證覺。",
+        "translation": "The Dharma nature is free of the two extremes, yet the Tathāgata realizes it.",
+        "source": "T17n0828_001:0871c20_1"
+    },
+    {
+        "source_sentence": "一切法不實，而如來證覺。",
+        "translation": "All dharmas are not real, but the Tathāgata realizes them.",
+        "source": "T17n0828_001:0871c20_2"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c21_3"
+    },
+    {
+        "source_sentence": "如來善說業因緣，如來善證業因緣，一切法因緣所縛，而如來善覺。",
+        "translation": "The Tathāgata well explains the causes and conditions of actions, the Tathāgata well realizes the causes and conditions of actions, all things are bound by causes and conditions, and the Tathāgata is well enlightened.",
+        "source": "T17n0828_001:0871c21_4"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c23_5"
+    },
+    {
+        "source_sentence": "彼因緣者，猶如電光，而如來所覺，離因離緣。",
+        "translation": "Their causes and conditions are like a flash of lightning, but what the Tathāgata perceives is free of causes and free of conditions.",
+        "source": "T17n0828_001:0871c23_6"
+    },
+    {
+        "source_sentence": "如來說言，無有業報，既成正覺而受之也。",
+        "translation": "The Tathāgata said, There's no karmic retribution, and once you become perfectly enlightened, you'll receive it.",
+        "source": "T17n0828_001:0871c24_7"
+    },
+    {
+        "source_sentence": "一切法廣博嚴藏，是如來所證。",
+        "translation": "The vast and extensive collection of all the teachings is what the Tathāgata realizes.",
+        "source": "T17n0828_001:0871c25_8"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c26_9"
+    },
+    {
+        "source_sentence": "以何義故，說廣博嚴藏？",
+        "translation": "What does it mean to explain the extensive and extensive store of adornment?",
+        "source": "T17n0828_001:0871c26_10"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0871c26_11"
+    },
+    {
+        "source_sentence": "所有世間、出世間智等，彼從何生？",
+        "translation": "Where do all the worldly and transmundane cognitions and so forth arise?",
+        "source": "T17n0828_001:0871c27_12"
+    },
+    {
+        "source_sentence": "若彼智以真實觀正觀察時，般若波羅蜜轉為甚深，彼法爾時得名為藏。",
+        "translation": "When that knowledge is correctly observed and correctly observed with true contemplation, the prajñāpāramitā becomes profound, and that dharma then attains the name store.",
+        "source": "T17n0828_001:0871c27_13"
+    },
+    {
+        "source_sentence": "「善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872a01_0"
+    },
+    {
+        "source_sentence": "我亦復說一切諸法如幻如焰，是佛所覺。",
+        "translation": "I also say that all dharmas are illusory and like flames, which are perceived by the Buddha.",
+        "source": "T17n0828_001:0872a01_1"
+    },
+    {
+        "source_sentence": "性相一味解脫之法，是佛所覺。",
+        "translation": "The Dharma of liberation with the single flavor of its nature and characteristics is perceived by the Buddha.",
+        "source": "T17n0828_001:0872a02_2"
+    },
+    {
+        "source_sentence": "所有性相一味解脫，是一切法廣博嚴藏。",
+        "translation": "The single-flavored liberation of all essentials and characteristics is the vast and extensive collection of all dharmas.",
+        "source": "T17n0828_001:0872a02_3"
+    },
+    {
+        "source_sentence": "「善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872a04_0"
+    },
+    {
+        "source_sentence": "若善男子、善女人，復有一法，是佛所覺。",
+        "translation": "Good men and good women, there's another thing that the Buddha perceives.",
+        "source": "T17n0828_001:0872a04_1"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872a05_2"
+    },
+    {
+        "source_sentence": "所謂：諸法不去不來、無因無緣、無生無滅、無思不思、無增無減。",
+        "translation": "They are: dharmas that don't arise and don't come, lack causes and conditions, lack birth and cessation, lack thought and thought, and lack increase and decrease.",
+        "source": "T17n0828_001:0872a05_3"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872a06_4"
+    },
+    {
+        "source_sentence": "若法畢竟自性法性非是自性，若法譬喻所不可說，若以名字亦不可說，",
+        "translation": "If the ultimate self-nature of dharmas is not their own essence, if they can't be explained in terms of dharmas and metaphors, or if they can't be explained by names, then they can't be explained either.",
+        "source": "T17n0828_001:0872a06_5"
+    },
+    {
+        "source_sentence": "此是一法如來所覺。」",
+        "translation": "This is one thing that the Tathāgata perceives.",
+        "source": "T17n0828_001:0872a08_6"
+    },
+    {
+        "source_sentence": "說此廣嚴上王無字寶篋光嚴法門時，乃至得住十地菩薩，有微塵數眼不覩者，",
+        "translation": "When he teaches this extensively adorned teaching of the Dharma-gate of the wordless jeweled shining arrays of the king of Vaiśravaṇa, up to enlightening beings in the tenth stage attain as many eyes as there are atoms in a buddha-land.",
+        "source": "T17n0828_001:0872a09_0"
+    },
+    {
+        "source_sentence": "如是等眾，皆得阿耨多羅三藐三菩提心。",
+        "translation": "Such a group of people will all attain the mind of unsurpassed, correct, and complete enlightenment.",
+        "source": "T17n0828_001:0872a10_1"
+    },
+    {
+        "source_sentence": "如是等眾生，證阿羅漢果。",
+        "translation": "Such sentient beings will realize the fruit of arhatship.",
+        "source": "T17n0828_001:0872a11_2"
+    },
+    {
+        "source_sentence": "復過此數眾生，捨地獄苦，生於天中。",
+        "translation": "Again, there are sentient beings surpassing this number who abandon the suffering of hell and are born in heaven.",
+        "source": "T17n0828_001:0872a12_3"
+    },
+    {
+        "source_sentence": "無量諸菩薩現百千萬諸三昧門。",
+        "translation": "Measureless bodhisattvas present hundreds of millions of samādhi approaches.",
+        "source": "T17n0828_001:0872a13_4"
+    },
+    {
+        "source_sentence": "何況多說而無利益。",
+        "translation": "How could it be that many teachings are not beneficial?",
+        "source": "T17n0828_001:0872a13_5"
+    },
+    {
+        "source_sentence": "爾時，佛告羅睺羅言：「汝能受持我此所說正法義不？」",
+        "translation": "It was then that the Buddha addressed Rāhula, saying, Can you accept and uphold the meaning of what I teach here as the right teaching?",
+        "source": "T17n0828_001:0872a15_0"
+    },
+    {
+        "source_sentence": "說此語時，以佛神力，恒河沙等諸世界中九億菩薩，從坐而起，即白佛言：「世尊！",
+        "translation": "When he spoke these words,  900 million bodhisattvas in worlds as numerous as the grains of sand in the Ganges River rose from their seats and said to the Buddha, Bhagavān!",
+        "source": "T17n0828_001:0872a16_1"
+    },
+    {
+        "source_sentence": "我等皆能持此法門，令於此間娑婆世界未來世中，為諸眾生流通不絕，",
+        "translation": "We all can preserve this teaching, so that in the ages to come we will spread it unceasingly for the sake of sentient beings.",
+        "source": "T17n0828_001:0872a18_0"
+    },
+    {
+        "source_sentence": "知是菩薩是智器者。」",
+        "translation": "Know that this is the bodhisattva who's a vessel of wisdom.",
+        "source": "T17n0828_001:0872a19_1"
+    },
+    {
+        "source_sentence": "爾時，四大神王白佛言：「世尊！",
+        "translation": "It was then that the four great deva kings said to the Buddha, Bhagavān!",
+        "source": "T17n0828_001:0872a21_0"
+    },
+    {
+        "source_sentence": "我等亦能受持如來所說法義，令彼菩薩所求滿足，若於是中是智器者。」",
+        "translation": "We can also memorize the meaning of the Tathāgata's teaching and cause those bodhisattvas to fulfill what they seek, if there's a vessel of wisdom in that place.",
+        "source": "T17n0828_001:0872a21_1"
+    },
+    {
+        "source_sentence": "爾時，世尊周遍觀察一切眾已，作如是言：「善男子！",
+        "translation": "At that point, the Bhagavān pervaded all the crowds and said, Good man!",
+        "source": "T17n0828_001:0872a24_0"
+    },
+    {
+        "source_sentence": "我非惟修微少善根而成正覺。",
+        "translation": "I don't simply cultivate a small number of good roots to attain right awakening.",
+        "source": "T17n0828_001:0872a25_1"
+    },
+    {
+        "source_sentence": "彼諸眾生，若有能聞此正法者，彼亦非修微少善根。",
+        "translation": "If those sentient beings can hear this right teaching, they won't cultivate slight good roots.",
+        "source": "T17n0828_001:0872a25_2"
+    },
+    {
+        "source_sentence": "若能受持此廣博嚴上王無字寶篋法門，若能聞者，彼人則為已恭敬我，",
+        "translation": "If someone were to receive and preserve this extensive teaching of the ineffable jewel ornaments of the supreme king, those who hear it will have honored me.",
+        "source": "T17n0828_001:0872a27_3"
+    },
+    {
+        "source_sentence": "尊重讚嘆。",
+        "translation": "They are honored and praised.",
+        "source": "T17n0828_001:0872a28_4"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872a28_5"
+    },
+    {
+        "source_sentence": "是善男子、善女人，則為兩肩荷擔菩提。",
+        "translation": "Good men and good women then bear the burden of enlightenment on both shoulders.",
+        "source": "T17n0828_001:0872a29_6"
+    },
+    {
+        "source_sentence": "彼人則得不斷辯才，得善清淨諸佛世界。",
+        "translation": "That person then attains unceasing eloquence and attains the goodness and purity of the buddha world.",
+        "source": "T17n0828_001:0872b01_0"
+    },
+    {
+        "source_sentence": "命終之時，則得現見阿彌陀佛，聲聞、菩薩大眾圍遶，住其人前；",
+        "translation": "At the end of his life, he will be able to see Amitâbha Buddha in person. Surrounded by a great assembly of śrāvakas and bodhisattvas, he will stand before them.",
+        "source": "T17n0828_001:0872b01_1"
+    },
+    {
+        "source_sentence": "亦見我身於此耆闍崛山王頂，及見此等諸菩薩眾。",
+        "translation": "They also see me at the top of this mountain king Gṛdhrakūṭa, and they see these bodhisattvas.",
+        "source": "T17n0828_001:0872b03_2"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872b04_3"
+    },
+    {
+        "source_sentence": "彼善男子、善女人，則為己得大法庫藏，而不可盡；",
+        "translation": "Those sons and daughters of a virtuous family will then obtain for themselves the great treasury of the Teaching, which cannot be exhausted.",
+        "source": "T17n0828_001:0872b04_4"
+    },
+    {
+        "source_sentence": "得宿命智，不生惡道。",
+        "translation": "Attaining the knowledge of past lives, they won't be born in a bad path.",
+        "source": "T17n0828_001:0872b05_5"
+    },
+    {
+        "source_sentence": "「善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872b07_0"
+    },
+    {
+        "source_sentence": "我今說此一切世間所未曾有難信法門。",
+        "translation": "Now, I'll explain this unfathomable teaching that's difficult to believe in in in all the world.",
+        "source": "T17n0828_001:0872b07_1"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872b08_2"
+    },
+    {
+        "source_sentence": "若彼善男子、善女人，設有逆罪，以其善能讀誦、受持此勝法門，若自書寫、若勸人書，",
+        "translation": "“Furthermore, if those sons and daughters of a virtuous family commit any heinous sin by reason of their goodness in reciting or retaining this excellent doctrine, write it down for themselves or encourage others to write it down.",
+        "source": "T17n0828_001:0872b08_3"
+    },
+    {
+        "source_sentence": "若自讀誦、勸人讀誦，若能自持、若勸人持。",
+        "translation": "If he recites it himself and encourages others to recite it, or if he can retain it himself or encourage others to retain it.",
+        "source": "T17n0828_001:0872b10_4"
+    },
+    {
+        "source_sentence": "善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872b11_5"
+    },
+    {
+        "source_sentence": "我說彼人，不見惡道，則為一切諸佛所記。",
+        "translation": "If I say that person doesn't see bad destinies, they'll be recorded by all the buddhas.",
+        "source": "T17n0828_001:0872b11_6"
+    },
+    {
+        "source_sentence": "彼諸菩薩皆得五眼，諸根具足，一切諸佛之所護念，一切菩薩之所攝受，",
+        "translation": "All of those enlightening beings had the five eyes, their faculties perfected, protected by all buddhas, and embraced by all enlightening beings.",
+        "source": "T17n0828_001:0872b12_7"
+    },
+    {
+        "source_sentence": "令滅無量煩惱，業障即得清淨。",
+        "translation": "Causing the extinction of measureless afflictions, the karmic hindrances are purified.",
+        "source": "T17n0828_001:0872b13_8"
+    },
+    {
+        "source_sentence": "「善男子！",
+        "translation": "Good sons!",
+        "source": "T17n0828_001:0872b15_0"
+    },
+    {
+        "source_sentence": "我此所說最後言說，自我得道成正覺來，未說此言。」",
+        "translation": "This is the final statement I've given here, which comes from attaining the path and becoming perfectly enlightened on my own, but I haven't said this.",
+        "source": "T17n0828_001:0872b15_1"
+    },
+    {
+        "source_sentence": "佛說此經已，勝思惟等諸大菩薩，帝釋王等諸天及四大王，人、天、阿修羅、迦樓羅、緊那羅、乾闥婆等，",
+        "translation": "After the Buddha had taught this sūtra, the great bodhisattvas Vaiśravaṇa and others, Indra and other gods as well as the four great kings, humans, gods, asuras, garuḍas, kiṃnaras, gandharvas, and so forth.",
+        "source": "T17n0828_001:0872b17_0"
+    },
+    {
+        "source_sentence": "一切世間，聞佛所說，皆大歡喜。",
+        "translation": "All the worlds, hearing what the Buddha teaches, are greatly joyful.",
+        "source": "T17n0828_001:0872b19_1"
+    },
+    {
+        "source_sentence": "無字寶篋經",
+        "translation": "Wuzi baoqie jing",
+        "source": "T17n0828_001:0872b20_0"
+    }
+]

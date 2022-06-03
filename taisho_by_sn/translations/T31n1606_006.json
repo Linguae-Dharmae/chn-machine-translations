@@ -1,0 +1,4257 @@
+[
+    {
+        "source_sentence": "大乘阿毘達磨雜集論卷第六",
+        "translation": "Mahāyāna Abhidharma-mahāvibhāga-śāstra, vol. 6",
+        "source": "T31n1606_006:0719a19_0"
+    },
+    {
+        "source_sentence": "安慧菩薩糅",
+        "translation": "Anhui pusa",
+        "source": "T31n1606_006:0719a21_0"
+    },
+    {
+        "source_sentence": "大唐三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial edict by the Tripiṭaka Master Xuanzang of the Great Tang dynasty",
+        "source": "T31n1606_006:0719a22_0"
+    },
+    {
+        "source_sentence": "決擇分中諦品第一之一",
+        "translation": "The First Part of the Chapter on the Truths in the Determination Section",
+        "source": "T31n1606_006:0719a23_0"
+    },
+    {
+        "source_sentence": "復次略說決擇有四種。",
+        "translation": "Furthermore, it's briefly explained that there are four kinds of discernment.",
+        "source": "T31n1606_006:0719a24_0"
+    },
+    {
+        "source_sentence": "謂諦決擇法決擇得決擇論議決擇。",
+        "translation": "They are the determination of the truths, the determination of the Dharma, and the determination of the attainment of certainty, the determination of discussion, and the determination.",
+        "source": "T31n1606_006:0719a24_1"
+    },
+    {
+        "source_sentence": "諦決擇復有四種。",
+        "translation": "There are another four kinds of discernment of the truths.",
+        "source": "T31n1606_006:0719a25_2"
+    },
+    {
+        "source_sentence": "謂依苦集滅道四聖諦說。",
+        "translation": "It's based on the four noble truths of suffering, arising, cessation, and the path.",
+        "source": "T31n1606_006:0719a25_3"
+    },
+    {
+        "source_sentence": "苦諦云何。",
+        "translation": "What's the truth of suffering?",
+        "source": "T31n1606_006:0719a27_0"
+    },
+    {
+        "source_sentence": "謂有情生及生所依處。",
+        "translation": "It refers to sentient beings who are born and the bases of birth.",
+        "source": "T31n1606_006:0719a27_1"
+    },
+    {
+        "source_sentence": "即有情世間器世間。",
+        "translation": "It's the world of sentient beings and the world of vessels.",
+        "source": "T31n1606_006:0719a27_2"
+    },
+    {
+        "source_sentence": "如其次第若生若生處。",
+        "translation": "It's in order, whether arising or the place of arising.",
+        "source": "T31n1606_006:0719a28_3"
+    },
+    {
+        "source_sentence": "俱說名苦諦。",
+        "translation": "They're both called the noble truth of suffering.",
+        "source": "T31n1606_006:0719a28_4"
+    },
+    {
+        "source_sentence": "有情生者。",
+        "translation": "Sentient beings are born.",
+        "source": "T31n1606_006:0719a29_5"
+    },
+    {
+        "source_sentence": "謂諸有情生在地獄畜生餓鬼人天趣中。",
+        "translation": "It means that sentient beings are born in hell, animals, hungry ghosts, humans, and heavenly destinies.",
+        "source": "T31n1606_006:0719a29_6"
+    },
+    {
+        "source_sentence": "人謂東毘提訶西瞿。",
+        "translation": "The people called it the east Videha and west Ghoṣa.",
+        "source": "T31n1606_006:0719b01_7"
+    },
+    {
+        "source_sentence": "陀尼南贍部洲北俱盧洲。",
+        "translation": "Jambudvīpa to the south of the dhāraṇī, and Kuru to the north of Jambudvīpa.",
+        "source": "T31n1606_006:0719b01_8"
+    },
+    {
+        "source_sentence": "天謂四大王眾天三十三天夜摩天覩史多天樂變化天他化自在天。",
+        "translation": "The heavens are the four great kings, the Trāyastriṃśa gods, the Trāyastriṃśa gods, the Yama gods, the Tuṣita gods, the Paranirmitavaśavartin gods, and",
+        "source": "T31n1606_006:0719b02_9"
+    },
+    {
+        "source_sentence": "梵眾天梵輔天大梵天少光天無量光天極光淨天少淨天無量淨天遍淨天無雲天福生天廣果天無想有情天無煩天無熱天善現天善見天色究竟天。",
+        "translation": "The Brahmadeva gods, the Brahmakāyika gods, the Brahmaputra gods, the Brahmapāda gods, the Mahābrahmā gods, the gods of little light, the gods of unlimited light, the gods of extreme light",
+        "source": "T31n1606_006:0719b03_10"
+    },
+    {
+        "source_sentence": "無邊空處天無邊識處天無所有處天非想非非想處天。",
+        "translation": "The heaven of the boundless realm of emptiness, the heaven of the boundless realm of consciousness, the heaven of the sphere of nothingness, and the heaven of neither perception nor non-perception.",
+        "source": "T31n1606_006:0719b07_11"
+    },
+    {
+        "source_sentence": "生所依處即器世界。",
+        "translation": "The place where birth occurs is the container world.",
+        "source": "T31n1606_006:0719b08_12"
+    },
+    {
+        "source_sentence": "謂水輪依風輪。",
+        "translation": "It means the water wheel relies on the wind wheel.",
+        "source": "T31n1606_006:0719b09_0"
+    },
+    {
+        "source_sentence": "地輪依水輪。",
+        "translation": "The earth wheel relies on the water wheel.",
+        "source": "T31n1606_006:0719b09_1"
+    },
+    {
+        "source_sentence": "依此地輪有蘇迷盧山七金山四大洲八小洲內海外海。",
+        "translation": "Depending on the circumference of this earth, there's Mount Sumeru, seven gold mountains, four continents, eight small continents, and an ocean of inside and outside worlds.",
+        "source": "T31n1606_006:0719b09_2"
+    },
+    {
+        "source_sentence": "蘇迷盧山四外層級四大王眾天。",
+        "translation": "The four sides of Mount Sumeru are surrounded by layers of the four great kings and other heavenly beings.",
+        "source": "T31n1606_006:0719b10_3"
+    },
+    {
+        "source_sentence": "三十三天所居處別。",
+        "translation": "The places where the thirty-three gods live are distinct.",
+        "source": "T31n1606_006:0719b11_4"
+    },
+    {
+        "source_sentence": "外輪圍山。",
+        "translation": "Outside, it's surrounded by mountains.",
+        "source": "T31n1606_006:0719b12_5"
+    },
+    {
+        "source_sentence": "虛空宮殿。",
+        "translation": "It's the empty palace of space.",
+        "source": "T31n1606_006:0719b12_6"
+    },
+    {
+        "source_sentence": "若夜摩天覩史多天樂變化天他化自在天。",
+        "translation": "Suppose the Yama gods, the Kauṣṭhila gods, the Nirmāṇarati gods, and the Paranirmita-vaśavartin gods.",
+        "source": "T31n1606_006:0719b12_7"
+    },
+    {
+        "source_sentence": "及色界天所居處別。",
+        "translation": "It's distinct from the place where the form realm gods live.",
+        "source": "T31n1606_006:0719b13_8"
+    },
+    {
+        "source_sentence": "諸阿素洛所居處別。",
+        "translation": "The places where the asuras live are distinct.",
+        "source": "T31n1606_006:0719b14_9"
+    },
+    {
+        "source_sentence": "及諸那落迦所居處別。",
+        "translation": "It's also different from the places where Naraka lives.",
+        "source": "T31n1606_006:0719b14_10"
+    },
+    {
+        "source_sentence": "謂熱那落迦。",
+        "translation": "It's called hot naraka.",
+        "source": "T31n1606_006:0719b15_11"
+    },
+    {
+        "source_sentence": "寒那落迦。",
+        "translation": "It's cold and naraka.",
+        "source": "T31n1606_006:0719b15_12"
+    },
+    {
+        "source_sentence": "孤獨那落迦。",
+        "translation": "He's alone in Naraka.",
+        "source": "T31n1606_006:0719b15_13"
+    },
+    {
+        "source_sentence": "及一分傍生餓鬼所居處別。",
+        "translation": "It's also a part where the hungry ghosts of unenlightened beings live.",
+        "source": "T31n1606_006:0719b16_0"
+    },
+    {
+        "source_sentence": "乃至一日一月周遍流光。",
+        "translation": "It's even a day and a month of pervasive light that flows around.",
+        "source": "T31n1606_006:0719b16_1"
+    },
+    {
+        "source_sentence": "所照方處名一世界。",
+        "translation": "The direction and place that's illuminated are called one world.",
+        "source": "T31n1606_006:0719b17_2"
+    },
+    {
+        "source_sentence": "如是千世界中有千日千月千蘇迷盧山王千四大洲千四大王眾天千三十三天千夜摩天千覩史多天千樂變化天千他化自在天千梵世天。",
+        "translation": "Thus, in a thousand worlds there are a thousand suns, a thousand moons, a thousand Sumeru mountain kings, a thousand major continents, a thousand major kings, a thousand Trāyastriṃśa gods, a thousand Yama gods",
+        "source": "T31n1606_006:0719b17_3"
+    },
+    {
+        "source_sentence": "如是總名小千世界。",
+        "translation": "Thus, they're collectively called the small chiliocosm.",
+        "source": "T31n1606_006:0719b20_4"
+    },
+    {
+        "source_sentence": "千小千界總名第二中千世界。",
+        "translation": "The thousand small one-thousand realms are collectively called the second medium-thousand worlds.",
+        "source": "T31n1606_006:0719b21_5"
+    },
+    {
+        "source_sentence": "千中千世界總名第三大千世界。",
+        "translation": "The thousand worlds within a thousand are collectively called the third great chiliocosm.",
+        "source": "T31n1606_006:0719b22_6"
+    },
+    {
+        "source_sentence": "如此三千大千世界總有大輪圍山周匝圍繞。",
+        "translation": "Thus, these 3,000 great one-thousand worlds are all surrounded by a great circular mountain.",
+        "source": "T31n1606_006:0719b22_7"
+    },
+    {
+        "source_sentence": "又此三千大千世界同壞同成。",
+        "translation": "Furthermore, these 3,000 great one-thousand worlds are both destroyed and formed together.",
+        "source": "T31n1606_006:0719b23_8"
+    },
+    {
+        "source_sentence": "譬如天雨滴如車軸無間無斷從空下注。",
+        "translation": "It's like a drop of rain falling from the sky like a chariot shaft that flows down from space without interruption or interruption.",
+        "source": "T31n1606_006:0719b24_9"
+    },
+    {
+        "source_sentence": "如是東方無間無斷。",
+        "translation": "Thus, in the east, there's no interruption and no elimination.",
+        "source": "T31n1606_006:0719b25_10"
+    },
+    {
+        "source_sentence": "無量世界或有將壞。",
+        "translation": "There may be measureless worlds that are about to disintegrate.",
+        "source": "T31n1606_006:0719b26_0"
+    },
+    {
+        "source_sentence": "或有將成。",
+        "translation": "Perhaps there's something that's about to be done.",
+        "source": "T31n1606_006:0719b26_1"
+    },
+    {
+        "source_sentence": "或有正壞。",
+        "translation": "Perhaps there's a correct decay.",
+        "source": "T31n1606_006:0719b26_2"
+    },
+    {
+        "source_sentence": "或壞已住。",
+        "translation": "It might be abiding after it breaks down.",
+        "source": "T31n1606_006:0719b26_3"
+    },
+    {
+        "source_sentence": "或有正成。",
+        "translation": "Perhaps there's something that's correctly established.",
+        "source": "T31n1606_006:0719b27_4"
+    },
+    {
+        "source_sentence": "或成已住。",
+        "translation": "Or they may have become established and already abiding.",
+        "source": "T31n1606_006:0719b27_5"
+    },
+    {
+        "source_sentence": "如於東方乃至一切十方亦爾。",
+        "translation": "As in the east, so it is in all ten directions.",
+        "source": "T31n1606_006:0719b27_6"
+    },
+    {
+        "source_sentence": "如是若有情世間若器世間。",
+        "translation": "Thus, if there's a world of sentient beings and a world of vessels, then...",
+        "source": "T31n1606_006:0719b28_7"
+    },
+    {
+        "source_sentence": "業煩惱力所生故。",
+        "translation": "It's because it's produced by the power of karma and afflictions.",
+        "source": "T31n1606_006:0719b29_8"
+    },
+    {
+        "source_sentence": "業煩惱增上所起故。",
+        "translation": "It's because karma and afflictions are produced by the increase in karma and afflictions.",
+        "source": "T31n1606_006:0719b29_9"
+    },
+    {
+        "source_sentence": "總名苦諦。",
+        "translation": "It's generally called the noble truth of suffering.",
+        "source": "T31n1606_006:0719b29_10"
+    },
+    {
+        "source_sentence": "業煩惱力所生。",
+        "translation": "It's produced by the power of karma and afflictions.",
+        "source": "T31n1606_006:0719c01_11"
+    },
+    {
+        "source_sentence": "業煩惱增上所起者。",
+        "translation": "It's produced by karma and afflictions that increase.",
+        "source": "T31n1606_006:0719c01_12"
+    },
+    {
+        "source_sentence": "此二句如其次第顯有情世間及器世間俱是苦性。",
+        "translation": "These two phrases, in order, show that the world of sentient beings and the world of the container are both painful.",
+        "source": "T31n1606_006:0719c02_0"
+    },
+    {
+        "source_sentence": "復有清淨世界非苦諦攝。",
+        "translation": "Again, there's a pure world that's not included in the noble truth of suffering.",
+        "source": "T31n1606_006:0719c03_1"
+    },
+    {
+        "source_sentence": "非業煩惱力所生故。",
+        "translation": "It's because it's not produced by the power of karma and afflictions.",
+        "source": "T31n1606_006:0719c03_2"
+    },
+    {
+        "source_sentence": "非業煩惱增上所起故。",
+        "translation": "It's because it's not produced by karma and afflictions that increase.",
+        "source": "T31n1606_006:0719c04_3"
+    },
+    {
+        "source_sentence": "然由大願清淨善根增上所引。",
+        "translation": "However, it's because the great vow is directed by the purity of the good roots that increase.",
+        "source": "T31n1606_006:0719c04_4"
+    },
+    {
+        "source_sentence": "此所生處不可思議。",
+        "translation": "The place where this is produced is inconceivable.",
+        "source": "T31n1606_006:0719c05_5"
+    },
+    {
+        "source_sentence": "唯佛所覺。",
+        "translation": "It's only perceived by the Buddha.",
+        "source": "T31n1606_006:0719c05_6"
+    },
+    {
+        "source_sentence": "尚非得靜慮者靜慮境界。",
+        "translation": "It's not yet the realm of those who attain meditation and those who are in the realm of meditation.",
+        "source": "T31n1606_006:0719c06_7"
+    },
+    {
+        "source_sentence": "況尋思者。",
+        "translation": "It's even more so when it's investigated.",
+        "source": "T31n1606_006:0719c06_8"
+    },
+    {
+        "source_sentence": "復次已略辯苦諦相。",
+        "translation": "Furthermore, we've briefly explained the characteristics of the noble truth of suffering.",
+        "source": "T31n1606_006:0719c07_0"
+    },
+    {
+        "source_sentence": "今當廣顯諸經所說苦相差別。",
+        "translation": "Now, we'll explain in detail the distinctions in the characteristics of suffering that are described in the sūtras.",
+        "source": "T31n1606_006:0719c07_1"
+    },
+    {
+        "source_sentence": "所謂生苦老苦病苦死苦怨憎會苦愛別離苦求不得苦。",
+        "translation": "It's called birth that's painful, old age that's painful, illness that's painful, death that's painful, resentment that's painful, love that's painful, separation that's painful,",
+        "source": "T31n1606_006:0719c08_2"
+    },
+    {
+        "source_sentence": "略攝一切五取蘊苦。",
+        "translation": "It briefly includes all the suffering of the five aggregates of grasping.",
+        "source": "T31n1606_006:0719c09_3"
+    },
+    {
+        "source_sentence": "生何因苦。",
+        "translation": "What's the cause of suffering that arises?",
+        "source": "T31n1606_006:0719c09_4"
+    },
+    {
+        "source_sentence": "眾苦所逼故。",
+        "translation": "It's because it's oppressed by all kinds of suffering.",
+        "source": "T31n1606_006:0719c10_5"
+    },
+    {
+        "source_sentence": "餘苦所依故。",
+        "translation": "It's because the rest are the basis of suffering.",
+        "source": "T31n1606_006:0719c10_6"
+    },
+    {
+        "source_sentence": "眾苦所逼者。",
+        "translation": "Those who are oppressed by all kinds of suffering...",
+        "source": "T31n1606_006:0719c10_7"
+    },
+    {
+        "source_sentence": "謂曾於母胎生熟藏間。",
+        "translation": "It means that it was once born in the mother's womb between the store and the store of ripening.",
+        "source": "T31n1606_006:0719c11_8"
+    },
+    {
+        "source_sentence": "具受種種極不淨物所逼迫苦。",
+        "translation": "They'll be subject to the suffering of being oppressed by various extremely impure things.",
+        "source": "T31n1606_006:0719c11_9"
+    },
+    {
+        "source_sentence": "正出胎時復受支體逼切大苦。",
+        "translation": "When he's about to leave the womb, he'll again experience the great pain of being tormented by the body of a limb.",
+        "source": "T31n1606_006:0719c12_10"
+    },
+    {
+        "source_sentence": "餘苦所依者。",
+        "translation": "The rest are the bases of suffering.",
+        "source": "T31n1606_006:0719c13_0"
+    },
+    {
+        "source_sentence": "謂有生故老病死等眾苦隨逐。",
+        "translation": "It's because there's birth that old age, illness, death, and other sufferings follow it.",
+        "source": "T31n1606_006:0719c13_1"
+    },
+    {
+        "source_sentence": "老何因苦。",
+        "translation": "What's the cause of old age and suffering?",
+        "source": "T31n1606_006:0719c14_0"
+    },
+    {
+        "source_sentence": "時分變壞苦故。",
+        "translation": "It's because of the suffering of timely change and disintegration.",
+        "source": "T31n1606_006:0719c14_1"
+    },
+    {
+        "source_sentence": "病何因苦。",
+        "translation": "What's the cause of suffering for illness?",
+        "source": "T31n1606_006:0719c14_2"
+    },
+    {
+        "source_sentence": "大種變異苦故。",
+        "translation": "It's because of the suffering of the great variety of transformations.",
+        "source": "T31n1606_006:0719c14_3"
+    },
+    {
+        "source_sentence": "死何因苦。",
+        "translation": "What's the cause of suffering in death?",
+        "source": "T31n1606_006:0719c15_4"
+    },
+    {
+        "source_sentence": "壽命變壞苦故。",
+        "translation": "It's because of the suffering of longevity, change, and disintegration.",
+        "source": "T31n1606_006:0719c15_5"
+    },
+    {
+        "source_sentence": "怨憎會何因苦。",
+        "translation": "What's the cause of suffering when there's an assembly of enemies and haters?",
+        "source": "T31n1606_006:0719c15_6"
+    },
+    {
+        "source_sentence": "合會生苦故。",
+        "translation": "It's because suffering arises from the conjunction of suffering.",
+        "source": "T31n1606_006:0719c16_7"
+    },
+    {
+        "source_sentence": "愛別離何因苦。",
+        "translation": "What's the cause of suffering when craving is separated?",
+        "source": "T31n1606_006:0719c16_8"
+    },
+    {
+        "source_sentence": "別離生苦故。",
+        "translation": "It's because they're separated from the suffering of birth.",
+        "source": "T31n1606_006:0719c16_9"
+    },
+    {
+        "source_sentence": "求不得何因苦。",
+        "translation": "What's the cause of suffering that's sought and not obtained?",
+        "source": "T31n1606_006:0719c17_10"
+    },
+    {
+        "source_sentence": "所希不果生苦故。",
+        "translation": "It's because the desired fruit doesn't give rise to suffering.",
+        "source": "T31n1606_006:0719c17_11"
+    },
+    {
+        "source_sentence": "略攝一切。",
+        "translation": "It briefly includes all of them.",
+        "source": "T31n1606_006:0719c17_12"
+    },
+    {
+        "source_sentence": "五取蘊何因苦。",
+        "translation": "What's the cause of suffering for the five appropriating aggregates?",
+        "source": "T31n1606_006:0719c18_13"
+    },
+    {
+        "source_sentence": "麁重苦故。",
+        "translation": "It's because it's debilitating and painful.",
+        "source": "T31n1606_006:0719c18_14"
+    },
+    {
+        "source_sentence": "如是八種略攝為六。",
+        "translation": "These eight kinds are briefly grouped into six.",
+        "source": "T31n1606_006:0719c18_15"
+    },
+    {
+        "source_sentence": "謂逼迫苦轉變苦合會苦別離苦所希不果苦麁重苦。",
+        "translation": "They are the suffering of oppression, the suffering of transformation, the suffering of conjunction, the suffering of separation, the suffering of what's desired and unfulfilled, the suffering of debilitating hindrances, and the suffering of debilitating",
+        "source": "T31n1606_006:0719c19_16"
+    },
+    {
+        "source_sentence": "如是六種廣開為八。",
+        "translation": "Thus, these six kinds are broadly divided into eight.",
+        "source": "T31n1606_006:0719c20_17"
+    },
+    {
+        "source_sentence": "轉變苦中分三種故。",
+        "translation": "It's because it's divided into three kinds in terms of transformation and suffering.",
+        "source": "T31n1606_006:0719c20_18"
+    },
+    {
+        "source_sentence": "若六若八平等平等。",
+        "translation": "Whether the six or eight are equal, they're equal.",
+        "source": "T31n1606_006:0719c21_19"
+    },
+    {
+        "source_sentence": "問如說三苦。",
+        "translation": "He asks, As I've explained, the three kinds of suffering are painful.",
+        "source": "T31n1606_006:0719c21_20"
+    },
+    {
+        "source_sentence": "此中八苦為三攝八八攝三耶。",
+        "translation": "These eight sufferings here are the three subsumed by the eight, and the eight subsumed by the three?",
+        "source": "T31n1606_006:0719c22_21"
+    },
+    {
+        "source_sentence": "答展轉相攝。",
+        "translation": "Answer: They are included in each other in turn.",
+        "source": "T31n1606_006:0719c22_22"
+    },
+    {
+        "source_sentence": "所謂生苦乃至怨憎會苦能顯苦苦。",
+        "translation": "The so-called suffering of birth and even the suffering of association with what's disliked can reveal the suffering of suffering.",
+        "source": "T31n1606_006:0719c23_23"
+    },
+    {
+        "source_sentence": "順苦受法苦自相義故。",
+        "translation": "It's because it follows the meaning of the self-nature of painful feelings and dharmas that are painful.",
+        "source": "T31n1606_006:0719c24_0"
+    },
+    {
+        "source_sentence": "愛別離苦求不得苦能顯壞苦。",
+        "translation": "Being free of craving and separation from suffering and seeking what's not obtained is painful, which can show that it's painful.",
+        "source": "T31n1606_006:0719c24_1"
+    },
+    {
+        "source_sentence": "已得未得順樂受法壞自相義故。",
+        "translation": "It's because they've attained or haven't attained the meaning of the Dharma that follows pleasant feelings and destroys its own distinctive characteristics.",
+        "source": "T31n1606_006:0719c25_2"
+    },
+    {
+        "source_sentence": "略攝一切五取蘊苦能顯行苦。",
+        "translation": "It briefly includes all the suffering of the five aggregates of grasping that can reveal the suffering of volition.",
+        "source": "T31n1606_006:0719c26_0"
+    },
+    {
+        "source_sentence": "不解脫二無常所隨不安隱義故。",
+        "translation": "It's because they aren't liberated from the two impermanent and unsettled meanings that follow them.",
+        "source": "T31n1606_006:0719c26_1"
+    },
+    {
+        "source_sentence": "問如說二苦。",
+        "translation": "He asks, 'Thus are the two kinds of suffering explained.'",
+        "source": "T31n1606_006:0719c27_2"
+    },
+    {
+        "source_sentence": "謂世俗諦苦。",
+        "translation": "It's the suffering of the conventional truth.",
+        "source": "T31n1606_006:0719c27_3"
+    },
+    {
+        "source_sentence": "勝義諦苦。",
+        "translation": "It's the ultimate truth of suffering.",
+        "source": "T31n1606_006:0719c28_4"
+    },
+    {
+        "source_sentence": "何者世俗苦。",
+        "translation": "What's worldly suffering?",
+        "source": "T31n1606_006:0719c28_5"
+    },
+    {
+        "source_sentence": "何者勝義苦。",
+        "translation": "What's the ultimate truth of suffering?",
+        "source": "T31n1606_006:0719c28_6"
+    },
+    {
+        "source_sentence": "答生苦乃至求不得苦。",
+        "translation": "Answer: It's painful when it arises and painful when it's not obtained.",
+        "source": "T31n1606_006:0719c28_7"
+    },
+    {
+        "source_sentence": "是世俗諦苦。",
+        "translation": "It's the conventional truth of suffering.",
+        "source": "T31n1606_006:0719c29_8"
+    },
+    {
+        "source_sentence": "世間智境界故。",
+        "translation": "It's because it's the realm of worldly cognition.",
+        "source": "T31n1606_006:0719c29_9"
+    },
+    {
+        "source_sentence": "略攝一切五取蘊苦。",
+        "translation": "It briefly includes all the suffering of the five aggregates of grasping.",
+        "source": "T31n1606_006:0720a01_10"
+    },
+    {
+        "source_sentence": "是勝義諦苦。",
+        "translation": "This is the ultimate truth of suffering.",
+        "source": "T31n1606_006:0720a01_11"
+    },
+    {
+        "source_sentence": "由安立真如門出世智境界故。",
+        "translation": "It's because they establish the gate of true reality that transcends the realm of worldly cognition.",
+        "source": "T31n1606_006:0720a01_12"
+    },
+    {
+        "source_sentence": "復次諸觀行者。",
+        "translation": "Furthermore, these are the practices of contemplation.",
+        "source": "T31n1606_006:0720a03_0"
+    },
+    {
+        "source_sentence": "於苦聖諦以四種行觀察共相。",
+        "translation": "In the noble truth of suffering, he observes common characteristics in four ways.",
+        "source": "T31n1606_006:0720a03_1"
+    },
+    {
+        "source_sentence": "謂無常相苦相空相無我相。",
+        "translation": "They are the characteristic of impermanence, the characteristic of suffering, the characteristic of emptiness, and the characteristic of selflessness.",
+        "source": "T31n1606_006:0720a04_2"
+    },
+    {
+        "source_sentence": "無常相者略有十二。",
+        "translation": "There are twelve characteristics of impermanence:",
+        "source": "T31n1606_006:0720a05_0"
+    },
+    {
+        "source_sentence": "謂非有相壞滅相變異相別離相現前相法爾相剎那相相續相病等相種種心行轉相資產興衰相器世成壞相。",
+        "translation": "They are the characteristics that don't have characteristics of disintegration, change, dissimilarity, distinctive characteristics, present and future characteristics, dharmas, moments, continuous characteristics, illnesses, etc.,",
+        "source": "T31n1606_006:0720a05_1"
+    },
+    {
+        "source_sentence": "非有相者。",
+        "translation": "They don't have characteristics.",
+        "source": "T31n1606_006:0720a08_0"
+    },
+    {
+        "source_sentence": "謂蘊界處於一切時我我所性常非有故。",
+        "translation": "It means that when the aggregates and elements are present in all times, the self and what belongs to self always don't exist.",
+        "source": "T31n1606_006:0720a08_1"
+    },
+    {
+        "source_sentence": "言無常者是非有義。",
+        "translation": "When it's called impermanent, what's right and wrong have meaning.",
+        "source": "T31n1606_006:0720a09_2"
+    },
+    {
+        "source_sentence": "由苦聖諦恒無有我我所自性。",
+        "translation": "It's because the noble truth of suffering always has no self or self-nature.",
+        "source": "T31n1606_006:0720a09_3"
+    },
+    {
+        "source_sentence": "無者是除遣義。",
+        "translation": "What's nonexistent is the meaning of removal.",
+        "source": "T31n1606_006:0720a10_4"
+    },
+    {
+        "source_sentence": "常者是一切時義。",
+        "translation": "The eternal is the meaning of all times.",
+        "source": "T31n1606_006:0720a10_5"
+    },
+    {
+        "source_sentence": "以常無故名曰無常。",
+        "translation": "Because permanence is nonexistent, it's called impermanent.",
+        "source": "T31n1606_006:0720a11_6"
+    },
+    {
+        "source_sentence": "壞滅相者。",
+        "translation": "The characteristic of disintegration and cessation refers to this.",
+        "source": "T31n1606_006:0720a11_7"
+    },
+    {
+        "source_sentence": "謂諸行生已即滅。",
+        "translation": "It means that after the formations arise, they cease.",
+        "source": "T31n1606_006:0720a11_8"
+    },
+    {
+        "source_sentence": "暫有還無故。",
+        "translation": "It's because it temporarily exists and returns to nonexistence.",
+        "source": "T31n1606_006:0720a12_9"
+    },
+    {
+        "source_sentence": "變異相者。",
+        "translation": "The characteristic of transformation refers to this.",
+        "source": "T31n1606_006:0720a12_10"
+    },
+    {
+        "source_sentence": "謂諸行異異生。",
+        "translation": "It means that the practices are different and different from each other.",
+        "source": "T31n1606_006:0720a12_11"
+    },
+    {
+        "source_sentence": "由不相似相續轉故。",
+        "translation": "It's because they don't resemble each other and continue to develop.",
+        "source": "T31n1606_006:0720a13_12"
+    },
+    {
+        "source_sentence": "別離相者。",
+        "translation": "The distinctive characteristic is that it's free of marks.",
+        "source": "T31n1606_006:0720a13_13"
+    },
+    {
+        "source_sentence": "謂於諸行失增上力。",
+        "translation": "It means that they lose their superior power over conditioned phenomena.",
+        "source": "T31n1606_006:0720a13_14"
+    },
+    {
+        "source_sentence": "或他所攝執為己有。",
+        "translation": "Or they may take what's included in others and cling to it as self-existence.",
+        "source": "T31n1606_006:0720a14_15"
+    },
+    {
+        "source_sentence": "以於資具等事。",
+        "translation": "It's because of such things as necessities and so forth.",
+        "source": "T31n1606_006:0720a14_16"
+    },
+    {
+        "source_sentence": "或時自在失壞。",
+        "translation": "Sometimes it's self-contained and breaks down.",
+        "source": "T31n1606_006:0720a15_17"
+    },
+    {
+        "source_sentence": "或他陵奪為己有故。",
+        "translation": "It's because others plunder it for their own sake.",
+        "source": "T31n1606_006:0720a15_18"
+    },
+    {
+        "source_sentence": "現前相者。",
+        "translation": "The characteristic that's manifested is this.",
+        "source": "T31n1606_006:0720a15_19"
+    },
+    {
+        "source_sentence": "謂正處無常。",
+        "translation": "It means that the right place is impermanent.",
+        "source": "T31n1606_006:0720a16_20"
+    },
+    {
+        "source_sentence": "由因隨逐今受無常故。",
+        "translation": "It's because the present sensation that follows causes is impermanent.",
+        "source": "T31n1606_006:0720a16_21"
+    },
+    {
+        "source_sentence": "法爾相者。",
+        "translation": "The characteristic of the Dharma is this.",
+        "source": "T31n1606_006:0720a17_0"
+    },
+    {
+        "source_sentence": "謂當來無常。",
+        "translation": "It means that the future is impermanent.",
+        "source": "T31n1606_006:0720a17_1"
+    },
+    {
+        "source_sentence": "由因隨逐定當受故。",
+        "translation": "It's because the cause follows and will surely be received.",
+        "source": "T31n1606_006:0720a17_2"
+    },
+    {
+        "source_sentence": "死無常性決定當受。",
+        "translation": "Death is impermanent and determined to be experienced.",
+        "source": "T31n1606_006:0720a18_0"
+    },
+    {
+        "source_sentence": "剎那相者。",
+        "translation": "The characteristic of a moment is this.",
+        "source": "T31n1606_006:0720a18_1"
+    },
+    {
+        "source_sentence": "謂諸行剎那後必不住。",
+        "translation": "It means that after the moments of conditioned phenomena, they mustn't abide.",
+        "source": "T31n1606_006:0720a18_2"
+    },
+    {
+        "source_sentence": "諸行念念劣得自體。",
+        "translation": "Each thought of conditioned phenomena is weak in its own essence.",
+        "source": "T31n1606_006:0720a19_3"
+    },
+    {
+        "source_sentence": "無間必壞故。",
+        "translation": "It's because it will surely break down without interruption.",
+        "source": "T31n1606_006:0720a19_4"
+    },
+    {
+        "source_sentence": "相續相者。",
+        "translation": "The characteristic of continuity refers to the characteristic of continuity.",
+        "source": "T31n1606_006:0720a20_0"
+    },
+    {
+        "source_sentence": "謂無始時來諸行生滅相續不斷。",
+        "translation": "It means that since beginningless time, the formations have arisen and ceased continuously and unceasingly.",
+        "source": "T31n1606_006:0720a20_1"
+    },
+    {
+        "source_sentence": "由無始生死展轉相乘輪迴不絕故。",
+        "translation": "It's because beginningless birth and death are uninterruptedly interdependent in terms of their sequential characteristics, vehicle, and transmigration.",
+        "source": "T31n1606_006:0720a21_0"
+    },
+    {
+        "source_sentence": "病等相者。",
+        "translation": "These are the characteristics of illness and so forth.",
+        "source": "T31n1606_006:0720a21_1"
+    },
+    {
+        "source_sentence": "謂四大時分壽命變異。",
+        "translation": "These are the four major time periods when the life span varies.",
+        "source": "T31n1606_006:0720a22_2"
+    },
+    {
+        "source_sentence": "由四大乖違齒髮疎落等住時勢盡故。",
+        "translation": "It's because the four elements are at odds with each other, such as when their teeth are absent and their momentum is exhausted.",
+        "source": "T31n1606_006:0720a22_3"
+    },
+    {
+        "source_sentence": "種種心行轉相者。",
+        "translation": "The various kinds of mental functioning and transforming characteristics are the same.",
+        "source": "T31n1606_006:0720a23_4"
+    },
+    {
+        "source_sentence": "謂於一時起有貪心。",
+        "translation": "It means that there's a mind that gives rise to craving at one time.",
+        "source": "T31n1606_006:0720a23_5"
+    },
+    {
+        "source_sentence": "或於一時起離貪心。",
+        "translation": "Sometimes they give rise to the mind that's free of craving at one time.",
+        "source": "T31n1606_006:0720a24_6"
+    },
+    {
+        "source_sentence": "如是有瞋離瞋有癡離癡。",
+        "translation": "Thus, there's anger that's free of anger and delusion that's free of delusion.",
+        "source": "T31n1606_006:0720a24_7"
+    },
+    {
+        "source_sentence": "若合若散若下若舉。",
+        "translation": "Whether it's combined, dispersed, scattered, lower, or raised.",
+        "source": "T31n1606_006:0720a25_8"
+    },
+    {
+        "source_sentence": "若掉離掉。",
+        "translation": "If he's agitated, he's free of agitation.",
+        "source": "T31n1606_006:0720a25_9"
+    },
+    {
+        "source_sentence": "若不寂靜若寂靜。",
+        "translation": "If it's not quiescent, then whether it's quiescent...",
+        "source": "T31n1606_006:0720a26_10"
+    },
+    {
+        "source_sentence": "若定不定。",
+        "translation": "If it's determined or indeterminate, then...",
+        "source": "T31n1606_006:0720a26_11"
+    },
+    {
+        "source_sentence": "如是等心行流轉。",
+        "translation": "Such mental functions and so forth are in flux.",
+        "source": "T31n1606_006:0720a26_12"
+    },
+    {
+        "source_sentence": "由住能治所治位差別故。",
+        "translation": "It's because of the distinction between the stages that abide and the stages that are counteracted by those who abide.",
+        "source": "T31n1606_006:0720a27_13"
+    },
+    {
+        "source_sentence": "資產興衰相者。",
+        "translation": "The characteristic of accumulation and rise and falling is this.",
+        "source": "T31n1606_006:0720a27_14"
+    },
+    {
+        "source_sentence": "謂諸興盛終歸衰變。",
+        "translation": "It means that the rise and flourish ultimately return to decline.",
+        "source": "T31n1606_006:0720a28_15"
+    },
+    {
+        "source_sentence": "由諸世間富貴榮盛不可愛樂非究竟故。",
+        "translation": "It's because the world's wealth, prosperity, and unpleasantness aren't perfect.",
+        "source": "T31n1606_006:0720a28_16"
+    },
+    {
+        "source_sentence": "器世成壞相者。",
+        "translation": "The characteristic of becoming and decaying in the container world is this.",
+        "source": "T31n1606_006:0720a29_17"
+    },
+    {
+        "source_sentence": "謂火水風三種成壞。",
+        "translation": "These are the three kinds of formation and decay of fire, water, and wind.",
+        "source": "T31n1606_006:0720a29_18"
+    },
+    {
+        "source_sentence": "由火水風災令大地等數成壞故。",
+        "translation": "It's because the calamities of fire, water, wind, and calamity cause the earth to be equally formed and destroyed.",
+        "source": "T31n1606_006:0720b01_19"
+    },
+    {
+        "source_sentence": "能燒浸燥如其次第。",
+        "translation": "It's able to burn and soak dryness in order.",
+        "source": "T31n1606_006:0720b02_20"
+    },
+    {
+        "source_sentence": "又有三災頂。",
+        "translation": "Again, there are the top of the three calamities.",
+        "source": "T31n1606_006:0720b02_21"
+    },
+    {
+        "source_sentence": "謂第二第三第四靜慮。",
+        "translation": "It's the second, third, and fourth concentrations.",
+        "source": "T31n1606_006:0720b02_22"
+    },
+    {
+        "source_sentence": "由火水風能壞世界安立處所乃至第一第二第三靜慮邊際。",
+        "translation": "It's because fire, water, wind, and wind can destroy worldly settled places up to the limits of the first, second, and third concentrations.",
+        "source": "T31n1606_006:0720b03_23"
+    },
+    {
+        "source_sentence": "次上所餘名三災頂。",
+        "translation": "The next higher one is called the summit of the three calamities.",
+        "source": "T31n1606_006:0720b04_24"
+    },
+    {
+        "source_sentence": "如其次第第二第三第四靜慮處所差別。",
+        "translation": "It's like the second, third, and fourth places of concentration in order.",
+        "source": "T31n1606_006:0720b05_25"
+    },
+    {
+        "source_sentence": "第四靜慮外宮殿等。",
+        "translation": "The fourth concentration is external to the palace and so forth.",
+        "source": "T31n1606_006:0720b06_26"
+    },
+    {
+        "source_sentence": "雖無外災成壞。",
+        "translation": "Even though there are no external calamities that cause formation and disintegration, it's not like this.",
+        "source": "T31n1606_006:0720b06_27"
+    },
+    {
+        "source_sentence": "然彼諸天與宮殿等俱生俱滅。",
+        "translation": "Still, those gods are born and cease together with the palace and so forth.",
+        "source": "T31n1606_006:0720b07_28"
+    },
+    {
+        "source_sentence": "說有成壞。",
+        "translation": "It's said to have formation and decay.",
+        "source": "T31n1606_006:0720b07_29"
+    },
+    {
+        "source_sentence": "由彼有情初生時與宮殿等俱生。",
+        "translation": "It's because when those sentient beings are first born, they're born together with the palace and so forth.",
+        "source": "T31n1606_006:0720b08_0"
+    },
+    {
+        "source_sentence": "終沒時與彼俱滅。",
+        "translation": "When it finally disappears, it's accompanied by their cessation.",
+        "source": "T31n1606_006:0720b08_1"
+    },
+    {
+        "source_sentence": "即說此為成壞故。",
+        "translation": "It's because it's said to be formed and disintegrated.",
+        "source": "T31n1606_006:0720b09_2"
+    },
+    {
+        "source_sentence": "又有三種中劫所謂飢饉疫病刀兵。",
+        "translation": "Also, there are three kinds of middle eons called hunger, famine, epidemics, illness, and warfare.",
+        "source": "T31n1606_006:0720b09_3"
+    },
+    {
+        "source_sentence": "此小三災劫究竟滿方乃出現。",
+        "translation": "These minor kalpas of the three calamities will only appear when they are completely over.",
+        "source": "T31n1606_006:0720b10_4"
+    },
+    {
+        "source_sentence": "謂世界成已一中劫初唯減。",
+        "translation": "It means that after the world has been formed, there's only a decrease at the beginning of the first half of the eon.",
+        "source": "T31n1606_006:0720b11_5"
+    },
+    {
+        "source_sentence": "一中劫後唯增。",
+        "translation": "In the first, there's only increase after the middle eon.",
+        "source": "T31n1606_006:0720b11_6"
+    },
+    {
+        "source_sentence": "十八中劫亦增亦減。",
+        "translation": "In the eighteen intermediate kalpas, it also increases and decreases.",
+        "source": "T31n1606_006:0720b12_7"
+    },
+    {
+        "source_sentence": "一中劫初唯減者。",
+        "translation": "The first of the one medium eon is only decreasing.",
+        "source": "T31n1606_006:0720b12_8"
+    },
+    {
+        "source_sentence": "謂劫成時第二十一劫。",
+        "translation": "It's the twenty-first eon when the eon is formed.",
+        "source": "T31n1606_006:0720b13_0"
+    },
+    {
+        "source_sentence": "一中劫後唯增者。",
+        "translation": "One is that it only increases after the middle eon.",
+        "source": "T31n1606_006:0720b13_1"
+    },
+    {
+        "source_sentence": "謂最後劫。",
+        "translation": "It's the final eon.",
+        "source": "T31n1606_006:0720b13_2"
+    },
+    {
+        "source_sentence": "十八中劫亦增亦減者。",
+        "translation": "The eighteen medium-length kalpas also increase and decrease.",
+        "source": "T31n1606_006:0720b14_3"
+    },
+    {
+        "source_sentence": "謂於中間十八。",
+        "translation": "These are the eighteen in between.",
+        "source": "T31n1606_006:0720b14_4"
+    },
+    {
+        "source_sentence": "二十中劫世界正壞。",
+        "translation": "Twenty medium world ages are when the world is about to disintegrate.",
+        "source": "T31n1606_006:0720b15_5"
+    },
+    {
+        "source_sentence": "二十中劫世界壞已住。",
+        "translation": "Twenty medium-length eons are when the world breaks up and abides.",
+        "source": "T31n1606_006:0720b15_6"
+    },
+    {
+        "source_sentence": "二十中劫世界正成。",
+        "translation": "Twenty medium-length eons are when the world is correctly formed.",
+        "source": "T31n1606_006:0720b16_7"
+    },
+    {
+        "source_sentence": "二十中劫世界成已住。",
+        "translation": "Twenty medium-length eons are when the world is formed and abides.",
+        "source": "T31n1606_006:0720b16_8"
+    },
+    {
+        "source_sentence": "合此八十中劫為一大劫。",
+        "translation": "Together these eighty antarakalpas make one major kalpa.",
+        "source": "T31n1606_006:0720b17_9"
+    },
+    {
+        "source_sentence": "由此劫數顯色無色界諸天壽量。",
+        "translation": "These eons show the lifespans of the gods in the form and formless realms.",
+        "source": "T31n1606_006:0720b17_10"
+    },
+    {
+        "source_sentence": "如說以壽盡故福盡故業盡故。",
+        "translation": "As it's said, it's because the life span is exhausted and the merits are exhausted and the karma is exhausted.",
+        "source": "T31n1606_006:0720b18_11"
+    },
+    {
+        "source_sentence": "彼彼有情從彼彼處沒。",
+        "translation": "All those sentient beings will disappear from one place to another.",
+        "source": "T31n1606_006:0720b19_12"
+    },
+    {
+        "source_sentence": "云何壽盡。",
+        "translation": "What's the end of life?",
+        "source": "T31n1606_006:0720b19_13"
+    },
+    {
+        "source_sentence": "謂時死此約時沒說。",
+        "translation": "This refers to the time of death that's not explained here in terms of time.",
+        "source": "T31n1606_006:0720b19_14"
+    },
+    {
+        "source_sentence": "由所引壽時分究竟應時死故。",
+        "translation": "It's because the time period of the projected life span ends and he dies at the right time.",
+        "source": "T31n1606_006:0720b20_15"
+    },
+    {
+        "source_sentence": "云何福盡。",
+        "translation": "What's the end of merit?",
+        "source": "T31n1606_006:0720b21_16"
+    },
+    {
+        "source_sentence": "謂非時死即非福死。",
+        "translation": "It means that it's not timely death, which is not meritorious death.",
+        "source": "T31n1606_006:0720b21_17"
+    },
+    {
+        "source_sentence": "此約非時沒說。",
+        "translation": "This is not explained at the wrong time.",
+        "source": "T31n1606_006:0720b21_18"
+    },
+    {
+        "source_sentence": "以彼有情貪著定味。",
+        "translation": "It's because those sentient beings cling to the taste of concentration.",
+        "source": "T31n1606_006:0720b22_19"
+    },
+    {
+        "source_sentence": "福力減盡因此命終。",
+        "translation": "As a result, his power of merit decreases and his life ends.",
+        "source": "T31n1606_006:0720b22_20"
+    },
+    {
+        "source_sentence": "由愛定味損害所修引壽業力非時死故。",
+        "translation": "It's because of the longevity, karmic power, and non-timely death that are cultivated by those who love the taste of concentration and harm what's cultivated.",
+        "source": "T31n1606_006:0720b23_21"
+    },
+    {
+        "source_sentence": "云何業盡。",
+        "translation": "What's the end of karma?",
+        "source": "T31n1606_006:0720b24_0"
+    },
+    {
+        "source_sentence": "謂順生受業順後受業俱盡故死。",
+        "translation": "It means that karma received in the next life and karma received in the subsequent life are both ended and therefore die.",
+        "source": "T31n1606_006:0720b24_1"
+    },
+    {
+        "source_sentence": "此約相續沒說。",
+        "translation": "This is explained in terms of continuity and nonexistence.",
+        "source": "T31n1606_006:0720b25_0"
+    },
+    {
+        "source_sentence": "由於此處順生後受業受用斯盡。",
+        "translation": "It's because this place follows birth and subsequently receives karma and experiences its use.",
+        "source": "T31n1606_006:0720b25_1"
+    },
+    {
+        "source_sentence": "以無業故不復生此。",
+        "translation": "Because there's no karma, they won't be born here again.",
+        "source": "T31n1606_006:0720b26_2"
+    },
+    {
+        "source_sentence": "苦相者。",
+        "translation": "The characteristic of suffering is this.",
+        "source": "T31n1606_006:0720b27_0"
+    },
+    {
+        "source_sentence": "或三或八或六廣說如前。",
+        "translation": "Whether it's three, eight, or six, they're explained in detail as before.",
+        "source": "T31n1606_006:0720b27_1"
+    },
+    {
+        "source_sentence": "何故經說若無常者即是苦耶。",
+        "translation": "Why does the sūtra say that if something is impermanent, it's painful?",
+        "source": "T31n1606_006:0720b27_2"
+    },
+    {
+        "source_sentence": "由三分無常為緣苦相可了知故。",
+        "translation": "It's because the three parts of impermanence are conditioned by the characteristic of suffering that can be understood.",
+        "source": "T31n1606_006:0720b28_3"
+    },
+    {
+        "source_sentence": "謂生分無常。",
+        "translation": "It means the aspect of arising is impermanent.",
+        "source": "T31n1606_006:0720b29_4"
+    },
+    {
+        "source_sentence": "滅分無常。",
+        "translation": "The aspect of cessation is impermanent.",
+        "source": "T31n1606_006:0720b29_5"
+    },
+    {
+        "source_sentence": "俱分無常。",
+        "translation": "Both parts are impermanent.",
+        "source": "T31n1606_006:0720b29_6"
+    },
+    {
+        "source_sentence": "生分無常。",
+        "translation": "The aspect of arising is impermanent.",
+        "source": "T31n1606_006:0720c01_7"
+    },
+    {
+        "source_sentence": "為緣故苦苦性可了知。",
+        "translation": "It's because of these conditions that the nature of suffering and suffering can be understood.",
+        "source": "T31n1606_006:0720c01_8"
+    },
+    {
+        "source_sentence": "生分無常者。",
+        "translation": "The aspect of arising is impermanent.",
+        "source": "T31n1606_006:0720c01_9"
+    },
+    {
+        "source_sentence": "謂本無今有。",
+        "translation": "It means that what was nonexistent in the past exists now.",
+        "source": "T31n1606_006:0720c02_10"
+    },
+    {
+        "source_sentence": "苦品諸行體是逼迫。",
+        "translation": "The essence of the practices in the category of suffering is oppression.",
+        "source": "T31n1606_006:0720c02_11"
+    },
+    {
+        "source_sentence": "由此無常為緣苦苦性可了知。",
+        "translation": "As a result, impermanence is the condition for suffering and the nature of suffering can be understood.",
+        "source": "T31n1606_006:0720c02_12"
+    },
+    {
+        "source_sentence": "滅分無常為緣壞苦性可了知。",
+        "translation": "The aspect of cessation is impermanent because it's conditioned by the nature of disintegration and suffering that can be understood.",
+        "source": "T31n1606_006:0720c03_13"
+    },
+    {
+        "source_sentence": "滅分無常者。",
+        "translation": "The aspect of cessation is impermanent.",
+        "source": "T31n1606_006:0720c04_14"
+    },
+    {
+        "source_sentence": "謂已有還無。",
+        "translation": "It means that what's already existent is returned to nonexistence.",
+        "source": "T31n1606_006:0720c04_15"
+    },
+    {
+        "source_sentence": "樂品諸行不可愛樂。",
+        "translation": "The practices in the category of pleasure aren't desirable.",
+        "source": "T31n1606_006:0720c04_16"
+    },
+    {
+        "source_sentence": "由此無常為緣壞苦性可了知。",
+        "translation": "As a result, impermanence is the condition that destroys the nature of suffering and can be understood.",
+        "source": "T31n1606_006:0720c05_17"
+    },
+    {
+        "source_sentence": "俱分無常為緣行苦性可了知俱分無常者。",
+        "translation": "Both parts are impermanent because they are conditioned by the suffering of conditioned phenomena that can be understood as both parts being impermanent.",
+        "source": "T31n1606_006:0720c06_18"
+    },
+    {
+        "source_sentence": "謂麁重諸行相續流轉。",
+        "translation": "It's the continuity of debilitating conditioned forces that continue to flow.",
+        "source": "T31n1606_006:0720c07_19"
+    },
+    {
+        "source_sentence": "若生若滅俱不可樂。",
+        "translation": "Both arising and ceasing are neither pleasant nor unpleasant.",
+        "source": "T31n1606_006:0720c07_20"
+    },
+    {
+        "source_sentence": "由此俱分無常為緣行苦性可了知。",
+        "translation": "As a result, the nature of both parts being impermanent as conditioned and painful can be understood.",
+        "source": "T31n1606_006:0720c08_21"
+    },
+    {
+        "source_sentence": "即依此義薄伽梵說。",
+        "translation": "It's based on this meaning as explained in the Bhagavān.",
+        "source": "T31n1606_006:0720c08_22"
+    },
+    {
+        "source_sentence": "諸行無常諸行變壞。",
+        "translation": "The formations are impermanent, and the formations change and disintegrate.",
+        "source": "T31n1606_006:0720c09_23"
+    },
+    {
+        "source_sentence": "又依此義言諸所有受我說皆苦。",
+        "translation": "Also, based on this meaning, it's said that all sensations and self-teachings are painful.",
+        "source": "T31n1606_006:0720c09_24"
+    },
+    {
+        "source_sentence": "當知此中於不苦不樂受及樂受。",
+        "translation": "Regarding this, it should be known that there are feelings of neither pleasure nor pain and feelings of pleasure.",
+        "source": "T31n1606_006:0720c10_25"
+    },
+    {
+        "source_sentence": "密意故說苦苦。",
+        "translation": "It's because of the hidden meaning that it's called suffering and suffering.",
+        "source": "T31n1606_006:0720c11_26"
+    },
+    {
+        "source_sentence": "受苦性世間共了故不復密意說。",
+        "translation": "Because the world commonly perceives the nature of suffering as suffering, it's no longer explained in secret.",
+        "source": "T31n1606_006:0720c11_27"
+    },
+    {
+        "source_sentence": "又於生滅二法所隨諸行中有生等八苦。",
+        "translation": "Furthermore, there are the eight kinds of suffering that arise and cease in the two dharmas that follow each other's actions.",
+        "source": "T31n1606_006:0720c12_28"
+    },
+    {
+        "source_sentence": "性可了知故。",
+        "translation": "It's because its nature can be understood.",
+        "source": "T31n1606_006:0720c13_29"
+    },
+    {
+        "source_sentence": "佛說言若無常者即是苦。",
+        "translation": "The Buddha said, If it's impermanent, then it's painful.",
+        "source": "T31n1606_006:0720c13_30"
+    },
+    {
+        "source_sentence": "又於無常諸行中有生等苦可了者。",
+        "translation": "Furthermore, in impermanent conditioned dharmas, there's birth and other forms of suffering that can be comprehended.",
+        "source": "T31n1606_006:0720c14_31"
+    },
+    {
+        "source_sentence": "如來依此密意說言。",
+        "translation": "The Tathāgata relies on this esoteric teaching, saying.",
+        "source": "T31n1606_006:0720c15_32"
+    },
+    {
+        "source_sentence": "由無常故苦非一切行。",
+        "translation": "Because it's impermanent, suffering isn't all conditioned things.",
+        "source": "T31n1606_006:0720c15_33"
+    },
+    {
+        "source_sentence": "若不爾聖道無常故亦應是苦。",
+        "translation": "If that's not the case, the noble path is impermanent and therefore should also be painful.",
+        "source": "T31n1606_006:0720c16_34"
+    },
+    {
+        "source_sentence": "空相者。",
+        "translation": "The characteristic of emptiness is this.",
+        "source": "T31n1606_006:0720c17_0"
+    },
+    {
+        "source_sentence": "謂若於是處此非有。",
+        "translation": "It means that if there's a place where this doesn't exist, then...",
+        "source": "T31n1606_006:0720c17_1"
+    },
+    {
+        "source_sentence": "由此理正觀為空。",
+        "translation": "Thus, the correct contemplation of principle is emptiness.",
+        "source": "T31n1606_006:0720c17_2"
+    },
+    {
+        "source_sentence": "若於是處餘是有。",
+        "translation": "If there's something else that exists in this place, then...",
+        "source": "T31n1606_006:0720c18_3"
+    },
+    {
+        "source_sentence": "由此理如實知有。",
+        "translation": "As a result, the principle is truly known to exist.",
+        "source": "T31n1606_006:0720c18_4"
+    },
+    {
+        "source_sentence": "是名善入空性。",
+        "translation": "This is called the nature of well-entered emptiness.",
+        "source": "T31n1606_006:0720c18_5"
+    },
+    {
+        "source_sentence": "如實知者不顛倒義。",
+        "translation": "Those who truly know it don't mistakenly understand its meaning.",
+        "source": "T31n1606_006:0720c19_6"
+    },
+    {
+        "source_sentence": "問於何處誰非有。",
+        "translation": "Where's the question asked, Who isn't there?",
+        "source": "T31n1606_006:0720c19_7"
+    },
+    {
+        "source_sentence": "答於蘊界處常恒凝住。",
+        "translation": "Answer: In the aggregates, realms, and places, it's always constant and constantly concentrated.",
+        "source": "T31n1606_006:0720c20_8"
+    },
+    {
+        "source_sentence": "不變壞法我我所等非有。",
+        "translation": "The unchanging and disintegrating dharmas, such as self and what belongs to self, don't exist.",
+        "source": "T31n1606_006:0720c20_9"
+    },
+    {
+        "source_sentence": "由此理彼皆是空。",
+        "translation": "Because of this principle, they are all empty.",
+        "source": "T31n1606_006:0720c21_10"
+    },
+    {
+        "source_sentence": "問於是處誰餘有。",
+        "translation": "He asked, Who else exists in that place?",
+        "source": "T31n1606_006:0720c21_11"
+    },
+    {
+        "source_sentence": "答即此處無我性。",
+        "translation": "Answer: That is, this place has no self-nature.",
+        "source": "T31n1606_006:0720c22_12"
+    },
+    {
+        "source_sentence": "此我無性無我有性。",
+        "translation": "This self has no nature, and there's no self-nature.",
+        "source": "T31n1606_006:0720c22_13"
+    },
+    {
+        "source_sentence": "是謂空性。",
+        "translation": "This is called emptiness.",
+        "source": "T31n1606_006:0720c22_14"
+    },
+    {
+        "source_sentence": "由彼諸行常等相我此中無故。",
+        "translation": "It's because these conditioned forms are eternal and so forth, and the self is absent here.",
+        "source": "T31n1606_006:0720c23_15"
+    },
+    {
+        "source_sentence": "諸行恒時離我性相。",
+        "translation": "'All conditioned phenomena are always free of self-nature and characteristics.'",
+        "source": "T31n1606_006:0720c23_16"
+    },
+    {
+        "source_sentence": "無我真性此中有故。",
+        "translation": "It's because the true nature of selflessness exists here.",
+        "source": "T31n1606_006:0720c24_17"
+    },
+    {
+        "source_sentence": "非一向無此俱名空性。",
+        "translation": "They aren't always nonexistent, and these are both called emptiness.",
+        "source": "T31n1606_006:0720c24_18"
+    },
+    {
+        "source_sentence": "故薄伽梵密意說言。",
+        "translation": "That's why the Bhagavān explains it in a mysterious way, saying.",
+        "source": "T31n1606_006:0720c25_19"
+    },
+    {
+        "source_sentence": "有如實知有無如實知無。",
+        "translation": "They truly know existence and nonexistence as they really are and truly know nonexistence as they really are.",
+        "source": "T31n1606_006:0720c25_20"
+    },
+    {
+        "source_sentence": "又有三種空性。",
+        "translation": "There are also three kinds of emptiness.",
+        "source": "T31n1606_006:0720c26_21"
+    },
+    {
+        "source_sentence": "謂自性空性。",
+        "translation": "It's the emptiness of self-nature.",
+        "source": "T31n1606_006:0720c26_22"
+    },
+    {
+        "source_sentence": "如性空性。",
+        "translation": "It's like the emptiness of nature.",
+        "source": "T31n1606_006:0720c27_23"
+    },
+    {
+        "source_sentence": "真性空性。",
+        "translation": "It's the true nature of emptiness.",
+        "source": "T31n1606_006:0720c27_24"
+    },
+    {
+        "source_sentence": "初依遍計所執自性觀。",
+        "translation": "The first relies on the pervasively discriminated contemplation of the self-nature that's attached to.",
+        "source": "T31n1606_006:0720c27_25"
+    },
+    {
+        "source_sentence": "由此自相定非有故。",
+        "translation": "It's because their own distinctive characteristics are definitely not present.",
+        "source": "T31n1606_006:0720c28_26"
+    },
+    {
+        "source_sentence": "第二依依他起自性觀。",
+        "translation": "The second relies on other-dependence to give rise to the contemplation of self-nature.",
+        "source": "T31n1606_006:0720c28_27"
+    },
+    {
+        "source_sentence": "由此如所計度皆非有故。",
+        "translation": "It's because they don't exist as they've been imagined.",
+        "source": "T31n1606_006:0720c29_28"
+    },
+    {
+        "source_sentence": "第三依圓成實自性觀。",
+        "translation": "The third relies on the contemplation of the self-nature of perfected reality.",
+        "source": "T31n1606_006:0720c29_29"
+    },
+    {
+        "source_sentence": "由此即空真性故。",
+        "translation": "This is because it's the true nature of emptiness.",
+        "source": "T31n1606_006:0721a01_30"
+    },
+    {
+        "source_sentence": "無我相者。",
+        "translation": "The mark of selflessness refers to the absence of self.",
+        "source": "T31n1606_006:0721a02_0"
+    },
+    {
+        "source_sentence": "謂如我論者。",
+        "translation": "It means that it's like the self-exposition.",
+        "source": "T31n1606_006:0721a02_1"
+    },
+    {
+        "source_sentence": "所立我相蘊界處非此相。",
+        "translation": "What's posited as the mark of self, the aggregates, realms, and fields are not these marks.",
+        "source": "T31n1606_006:0721a02_2"
+    },
+    {
+        "source_sentence": "由蘊界處我相無故。",
+        "translation": "It's because the self and marks of the aggregates, elements, and fields are absent.",
+        "source": "T31n1606_006:0721a03_3"
+    },
+    {
+        "source_sentence": "名無我相我論外道計度諸行為我。",
+        "translation": "It's called the selflessness of characteristics as self and non-Buddhist theories that conceptualize the self of conditioned phenomena.",
+        "source": "T31n1606_006:0721a03_4"
+    },
+    {
+        "source_sentence": "彼諸行非此相故名無我。",
+        "translation": "Because those conditioned things aren't these characteristics, they're called selfless.",
+        "source": "T31n1606_006:0721a04_5"
+    },
+    {
+        "source_sentence": "故薄伽梵密意說言。",
+        "translation": "That's why the Bhagavān explains it in a mysterious way, saying.",
+        "source": "T31n1606_006:0721a05_0"
+    },
+    {
+        "source_sentence": "一切法皆無我。",
+        "translation": "All dharmas are without self.",
+        "source": "T31n1606_006:0721a05_1"
+    },
+    {
+        "source_sentence": "如世尊說。",
+        "translation": "As the Bhagavān explains.",
+        "source": "T31n1606_006:0721a05_2"
+    },
+    {
+        "source_sentence": "此一切非我所。",
+        "translation": "All of these things are not self and what belong to self.",
+        "source": "T31n1606_006:0721a06_3"
+    },
+    {
+        "source_sentence": "此非我處此非我我。",
+        "translation": "'This is the place where it's not self, and this is not self or self.'",
+        "source": "T31n1606_006:0721a06_4"
+    },
+    {
+        "source_sentence": "於如是義應以正慧如實觀察。",
+        "translation": "In such a meaning, you should observe it with correct wisdom as it really is.",
+        "source": "T31n1606_006:0721a06_5"
+    },
+    {
+        "source_sentence": "此言何義。",
+        "translation": "What does this mean?",
+        "source": "T31n1606_006:0721a07_6"
+    },
+    {
+        "source_sentence": "謂於外事密意說此一切非我所。",
+        "translation": "It means that it's a secret intention to say that all these external things are not self and what belong to self.",
+        "source": "T31n1606_006:0721a07_7"
+    },
+    {
+        "source_sentence": "於內事密意說此非我處此非我我所。",
+        "translation": "In internal affairs, the esoteric meaning is to say that this is not a place where I am and this is not self or what belongs to me.",
+        "source": "T31n1606_006:0721a08_8"
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is it so?",
+        "source": "T31n1606_006:0721a09_9"
+    },
+    {
+        "source_sentence": "以於外事唯計我所相。",
+        "translation": "It's because external things are only imagined to be characterized by self and what belongs to self.",
+        "source": "T31n1606_006:0721a09_10"
+    },
+    {
+        "source_sentence": "是故但遣我所。",
+        "translation": "Therefore, they simply reject self and what belongs to self.",
+        "source": "T31n1606_006:0721a10_11"
+    },
+    {
+        "source_sentence": "於內事通計我我所相。",
+        "translation": "In internal affairs, they generally conceptualize self as self and what belongs to self.",
+        "source": "T31n1606_006:0721a10_12"
+    },
+    {
+        "source_sentence": "是故雙遣我我所。",
+        "translation": "Therefore, they both reject self and what belongs to self.",
+        "source": "T31n1606_006:0721a11_13"
+    },
+    {
+        "source_sentence": "問前說無常皆剎那相。",
+        "translation": "The previous question was, What's impermanent are all momentary characteristics?",
+        "source": "T31n1606_006:0721a12_0"
+    },
+    {
+        "source_sentence": "此云何知。",
+        "translation": "How do we know this?",
+        "source": "T31n1606_006:0721a12_1"
+    },
+    {
+        "source_sentence": "答如心心法是剎那相。",
+        "translation": "Answer: Just as the mind and mental factors are momentary characteristics.",
+        "source": "T31n1606_006:0721a12_2"
+    },
+    {
+        "source_sentence": "當知色等亦剎那相。",
+        "translation": "You should know that form and so forth also have momentary characteristics.",
+        "source": "T31n1606_006:0721a13_3"
+    },
+    {
+        "source_sentence": "由心執受故。",
+        "translation": "It's because the mind clings to it.",
+        "source": "T31n1606_006:0721a13_4"
+    },
+    {
+        "source_sentence": "等心安危故。",
+        "translation": "It's because the mind is equally peaceful and dangerous.",
+        "source": "T31n1606_006:0721a14_5"
+    },
+    {
+        "source_sentence": "隨心轉變故。",
+        "translation": "It's because it follows the mind's transformation.",
+        "source": "T31n1606_006:0721a14_6"
+    },
+    {
+        "source_sentence": "是心所依故。",
+        "translation": "It's because it's the basis of the mind.",
+        "source": "T31n1606_006:0721a14_7"
+    },
+    {
+        "source_sentence": "心增上生故。",
+        "translation": "It's because the mind increases in birth.",
+        "source": "T31n1606_006:0721a15_8"
+    },
+    {
+        "source_sentence": "心自在轉故。",
+        "translation": "It's because the mind is unimpeded in its transformation.",
+        "source": "T31n1606_006:0721a15_9"
+    },
+    {
+        "source_sentence": "又於最後位變壞可得故。",
+        "translation": "Furthermore, it's because the final stage of change and decay can be obtained.",
+        "source": "T31n1606_006:0721a15_10"
+    },
+    {
+        "source_sentence": "生已不待緣自然壞滅故。",
+        "translation": "After it arises, it doesn't await conditions to naturally disintegrate and cease.",
+        "source": "T31n1606_006:0721a16_11"
+    },
+    {
+        "source_sentence": "當觀色等亦念念滅。",
+        "translation": "You should observe that form and so forth also cease in each other.",
+        "source": "T31n1606_006:0721a16_12"
+    },
+    {
+        "source_sentence": "諸無常行壞滅等相。",
+        "translation": "The characteristics of impermanent conditioned phenomena, such as decay and cessation, etc.",
+        "source": "T31n1606_006:0721a17_13"
+    },
+    {
+        "source_sentence": "心心法剎那相。",
+        "translation": "The mind and mental factors are momentary characteristics.",
+        "source": "T31n1606_006:0721a17_14"
+    },
+    {
+        "source_sentence": "世間共了。",
+        "translation": "The world understands it together.",
+        "source": "T31n1606_006:0721a18_15"
+    },
+    {
+        "source_sentence": "更不重辯。",
+        "translation": "I won't explain it again.",
+        "source": "T31n1606_006:0721a18_16"
+    },
+    {
+        "source_sentence": "諸色等法剎那滅相。",
+        "translation": "The form and other dharmas cease at the momentary marks.",
+        "source": "T31n1606_006:0721a18_17"
+    },
+    {
+        "source_sentence": "世不共了故今成立。",
+        "translation": "Because the world doesn't understand it in common, it's now established.",
+        "source": "T31n1606_006:0721a19_18"
+    },
+    {
+        "source_sentence": "由心執受者。",
+        "translation": "It's because the mind clings to it.",
+        "source": "T31n1606_006:0721a19_19"
+    },
+    {
+        "source_sentence": "謂色等身。",
+        "translation": "It refers to form and other bodies.",
+        "source": "T31n1606_006:0721a19_20"
+    },
+    {
+        "source_sentence": "由剎那心念念執受故剎那滅。",
+        "translation": "It's because moment-to-moment mind perceives and apprehends moment-to-moment extinction.",
+        "source": "T31n1606_006:0721a20_21"
+    },
+    {
+        "source_sentence": "等心安危者。",
+        "translation": "He's equally at peace with his mind.",
+        "source": "T31n1606_006:0721a20_22"
+    },
+    {
+        "source_sentence": "謂色等身恒與識俱。",
+        "translation": "It means that form and other bodies are always accompanied by consciousness.",
+        "source": "T31n1606_006:0721a21_23"
+    },
+    {
+        "source_sentence": "識若捨離即便爛壞。",
+        "translation": "If the consciousness were to abandon it, it would even rot and disintegrate.",
+        "source": "T31n1606_006:0721a21_24"
+    },
+    {
+        "source_sentence": "由身與心安危等故。",
+        "translation": "It's because the body and mind are so peaceful and dangerous.",
+        "source": "T31n1606_006:0721a22_25"
+    },
+    {
+        "source_sentence": "決定如心念念生滅。",
+        "translation": "It's certain that it arises and ceases in each thought like mind.",
+        "source": "T31n1606_006:0721a22_26"
+    },
+    {
+        "source_sentence": "隨心轉變者。",
+        "translation": "Those who follow the mind's transformation.",
+        "source": "T31n1606_006:0721a23_0"
+    },
+    {
+        "source_sentence": "謂世間現見心。",
+        "translation": "It's the mind that sees in the world now.",
+        "source": "T31n1606_006:0721a23_1"
+    },
+    {
+        "source_sentence": "在苦樂貪瞋等位身隨轉變。",
+        "translation": "In the stages of suffering, pleasure, craving, anger, and so forth, the body follows change.",
+        "source": "T31n1606_006:0721a23_2"
+    },
+    {
+        "source_sentence": "隨剎那心而轉變故身念念滅。",
+        "translation": "Because the body is transformed according to the moment-to-moment mind, each thought ceases.",
+        "source": "T31n1606_006:0721a24_3"
+    },
+    {
+        "source_sentence": "是心所依者。",
+        "translation": "It's the basis of the mind.",
+        "source": "T31n1606_006:0721a25_0"
+    },
+    {
+        "source_sentence": "謂世間共知心依止有根身。",
+        "translation": "It means that the world commonly knows that the mind depends on the body with faculties.",
+        "source": "T31n1606_006:0721a25_1"
+    },
+    {
+        "source_sentence": "若法依此生非此自無壞。",
+        "translation": "If a dharma arises based on this and doesn't arise here, then it won't perish here.",
+        "source": "T31n1606_006:0721a25_2"
+    },
+    {
+        "source_sentence": "能依有可見。",
+        "translation": "It's able to rely on what's visible.",
+        "source": "T31n1606_006:0721a26_3"
+    },
+    {
+        "source_sentence": "如火芽等依薪種等。",
+        "translation": "It's like fire sprouts and so forth that rely on the seeds of wood.",
+        "source": "T31n1606_006:0721a26_4"
+    },
+    {
+        "source_sentence": "是故此身是剎那心所依止故。",
+        "translation": "That's why this body is the basis for the moment-to-moment mental support.",
+        "source": "T31n1606_006:0721a27_5"
+    },
+    {
+        "source_sentence": "亦剎那滅。",
+        "translation": "It also ceases momentarily.",
+        "source": "T31n1606_006:0721a28_0"
+    },
+    {
+        "source_sentence": "心增上生者。",
+        "translation": "It's the mind that increases in birth.",
+        "source": "T31n1606_006:0721a28_1"
+    },
+    {
+        "source_sentence": "謂一切內外色皆心增上所生。",
+        "translation": "It means that all internal and external forms are produced by the mind's superiority.",
+        "source": "T31n1606_006:0721a28_2"
+    },
+    {
+        "source_sentence": "能生因剎那滅故。",
+        "translation": "It's because the causes that give rise to it cease momentarily.",
+        "source": "T31n1606_006:0721a29_3"
+    },
+    {
+        "source_sentence": "所生果亦剎那滅。",
+        "translation": "The result that's produced also ceases momentarily.",
+        "source": "T31n1606_006:0721a29_4"
+    },
+    {
+        "source_sentence": "如世尊說。",
+        "translation": "As the Bhagavān explains.",
+        "source": "T31n1606_006:0721b01_5"
+    },
+    {
+        "source_sentence": "諸因諸緣能生於色。",
+        "translation": "The causes and conditions can give rise to form.",
+        "source": "T31n1606_006:0721b01_6"
+    },
+    {
+        "source_sentence": "彼亦無常。",
+        "translation": "They are also impermanent.",
+        "source": "T31n1606_006:0721b01_7"
+    },
+    {
+        "source_sentence": "無常因緣力所生故。",
+        "translation": "It's produced by the power of impermanent causes and conditions.",
+        "source": "T31n1606_006:0721b02_8"
+    },
+    {
+        "source_sentence": "色云何常。",
+        "translation": "How is form permanent?",
+        "source": "T31n1606_006:0721b02_9"
+    },
+    {
+        "source_sentence": "隨此經句義。",
+        "translation": "Following the meaning of this sūtra's phrase.",
+        "source": "T31n1606_006:0721b02_10"
+    },
+    {
+        "source_sentence": "身定剎那滅。",
+        "translation": "The body's concentration ceases momentarily.",
+        "source": "T31n1606_006:0721b03_11"
+    },
+    {
+        "source_sentence": "心自在轉者。",
+        "translation": "The mind's unimpeded transformation is this.",
+        "source": "T31n1606_006:0721b03_12"
+    },
+    {
+        "source_sentence": "謂若證得勝威德心。",
+        "translation": "It means that if someone realizes the mind of superior authoritativeness.",
+        "source": "T31n1606_006:0721b03_13"
+    },
+    {
+        "source_sentence": "於一切色如其所欲自在轉變。",
+        "translation": "In all forms, they change freely as they wish.",
+        "source": "T31n1606_006:0721b04_14"
+    },
+    {
+        "source_sentence": "由隨剎那能變勝解轉變生故。",
+        "translation": "It's because it's produced by the transformation of resolve that can be transformed according to the moment-to-moment.",
+        "source": "T31n1606_006:0721b04_15"
+    },
+    {
+        "source_sentence": "色等剎那道理成就。",
+        "translation": "The principle of form and so forth is accomplished at the momentary level.",
+        "source": "T31n1606_006:0721b05_16"
+    },
+    {
+        "source_sentence": "於最後位變壞可得者。",
+        "translation": "In the final stage, it's possible to change and disintegrate.",
+        "source": "T31n1606_006:0721b06_0"
+    },
+    {
+        "source_sentence": "謂諸色等初離自性念念變壞。",
+        "translation": "It means that forms and so forth are first free of their own nature, which change and disintegrate in each other's thoughts.",
+        "source": "T31n1606_006:0721b06_1"
+    },
+    {
+        "source_sentence": "於最後位欻爾變壞。",
+        "translation": "In the final stage, it's crudely transformed and destroyed.",
+        "source": "T31n1606_006:0721b07_2"
+    },
+    {
+        "source_sentence": "不應道理然此可得。",
+        "translation": "It shouldn't be reasonable, but this is obtainable.",
+        "source": "T31n1606_006:0721b07_3"
+    },
+    {
+        "source_sentence": "故知色等從初已來念念變壞。",
+        "translation": "Therefore, it's known that form and so forth have been changing and decaying since the beginning.",
+        "source": "T31n1606_006:0721b08_4"
+    },
+    {
+        "source_sentence": "自類相續漸增為因。",
+        "translation": "It's the cause of gradual increase in the continuity of their own kind.",
+        "source": "T31n1606_006:0721b08_5"
+    },
+    {
+        "source_sentence": "能引最後麁相變壞。",
+        "translation": "It can cause the final debilitating aspect to change and disintegrate.",
+        "source": "T31n1606_006:0721b09_6"
+    },
+    {
+        "source_sentence": "是故色等念念生滅。",
+        "translation": "That's why form and so forth arise and cease in each other's thoughts.",
+        "source": "T31n1606_006:0721b09_7"
+    },
+    {
+        "source_sentence": "生已不待緣自然壞滅者。",
+        "translation": "After it arises, it doesn't await conditions that naturally disintegrate.",
+        "source": "T31n1606_006:0721b10_8"
+    },
+    {
+        "source_sentence": "謂一切法從緣生已。",
+        "translation": "It means that all dharmas arise from conditions.",
+        "source": "T31n1606_006:0721b10_9"
+    },
+    {
+        "source_sentence": "不待壞緣自然壞滅。",
+        "translation": "It doesn't await the condition of disintegration to naturally disintegrate.",
+        "source": "T31n1606_006:0721b11_10"
+    },
+    {
+        "source_sentence": "以不待餘緣自然壞滅故。",
+        "translation": "It's because it naturally breaks down without waiting for other conditions.",
+        "source": "T31n1606_006:0721b11_11"
+    },
+    {
+        "source_sentence": "最初生已決定壞滅。",
+        "translation": "After it first arises, it's certain to disintegrate.",
+        "source": "T31n1606_006:0721b12_12"
+    },
+    {
+        "source_sentence": "若言生已初無滅壞。",
+        "translation": "If it's said that there's no cessation or destruction at the beginning after birth, then...",
+        "source": "T31n1606_006:0721b12_13"
+    },
+    {
+        "source_sentence": "後方有者不然。",
+        "translation": "It's not the case that it exists only later.",
+        "source": "T31n1606_006:0721b13_14"
+    },
+    {
+        "source_sentence": "無差別故。",
+        "translation": "It's because there are no distinctions.",
+        "source": "T31n1606_006:0721b13_15"
+    },
+    {
+        "source_sentence": "故知一切可滅壞法。",
+        "translation": "Therefore, they know all the things that can be destroyed.",
+        "source": "T31n1606_006:0721b14_0"
+    },
+    {
+        "source_sentence": "初纔生已即便壞滅。",
+        "translation": "The first is that it only arises and then disintegrates.",
+        "source": "T31n1606_006:0721b14_1"
+    },
+    {
+        "source_sentence": "是故諸法剎那義成。",
+        "translation": "Therefore, the meaning of momentary dharmas is accomplished.",
+        "source": "T31n1606_006:0721b14_2"
+    },
+    {
+        "source_sentence": "問如世尊說。",
+        "translation": "The question is as the Bhagavān explains.",
+        "source": "T31n1606_006:0721b16_0"
+    },
+    {
+        "source_sentence": "諸所有色彼一切若四大種若四大種所造。",
+        "translation": "All the forms that exist are all created by the four major forms or the four major forms.",
+        "source": "T31n1606_006:0721b16_1"
+    },
+    {
+        "source_sentence": "此依何意說。",
+        "translation": "What does this mean?",
+        "source": "T31n1606_006:0721b17_2"
+    },
+    {
+        "source_sentence": "答依容有意說同在一處。",
+        "translation": "Answer: It's possible to say that it's the same in one place according to intention.",
+        "source": "T31n1606_006:0721b17_3"
+    },
+    {
+        "source_sentence": "依此而有是造義。",
+        "translation": "Relying on this, there's the meaning of creating.",
+        "source": "T31n1606_006:0721b18_4"
+    },
+    {
+        "source_sentence": "由所造色離大種處別自建立無功能故。",
+        "translation": "It's because the form that's created has no function apart from the great variety of places where it's established separately.",
+        "source": "T31n1606_006:0721b18_5"
+    },
+    {
+        "source_sentence": "若於此聚此大種可得。",
+        "translation": "If this large seed is obtainable in this aggregate, then it's called the great seed.",
+        "source": "T31n1606_006:0721b19_6"
+    },
+    {
+        "source_sentence": "當知此聚唯有此大種非餘。",
+        "translation": "You should know that this aggregate has only this major seed and not the others.",
+        "source": "T31n1606_006:0721b20_7"
+    },
+    {
+        "source_sentence": "或有聚唯一大種。",
+        "translation": "Perhaps there's a lump that's only one major type.",
+        "source": "T31n1606_006:0721b20_8"
+    },
+    {
+        "source_sentence": "如乾泥團等。",
+        "translation": "It's like dry mud lumps and so forth.",
+        "source": "T31n1606_006:0721b21_9"
+    },
+    {
+        "source_sentence": "或有二大種。",
+        "translation": "Perhaps there are two kinds of greatness.",
+        "source": "T31n1606_006:0721b21_10"
+    },
+    {
+        "source_sentence": "謂即此濕。",
+        "translation": "It means that this is the moisture.",
+        "source": "T31n1606_006:0721b21_11"
+    },
+    {
+        "source_sentence": "或有三大種。",
+        "translation": "Or there may be three great kinds.",
+        "source": "T31n1606_006:0721b21_12"
+    },
+    {
+        "source_sentence": "謂即此煖。",
+        "translation": "It means that this is warmth.",
+        "source": "T31n1606_006:0721b22_13"
+    },
+    {
+        "source_sentence": "或有一切大種。",
+        "translation": "Perhaps there are all the great seeds.",
+        "source": "T31n1606_006:0721b22_14"
+    },
+    {
+        "source_sentence": "謂即此濕煖泥團等。",
+        "translation": "It means that this is the lump of moisture, heat, mud, and so forth.",
+        "source": "T31n1606_006:0721b22_15"
+    },
+    {
+        "source_sentence": "於移轉位所造色亦爾。",
+        "translation": "So it is with the form created in the stage of transmigration.",
+        "source": "T31n1606_006:0721b23_16"
+    },
+    {
+        "source_sentence": "若於此聚此所造色可得。",
+        "translation": "If the form created here in this lump is obtainable, then what's produced here will be obtained.",
+        "source": "T31n1606_006:0721b23_17"
+    },
+    {
+        "source_sentence": "當知此聚唯此非餘。",
+        "translation": "You should know that this group is the only one and not the others.",
+        "source": "T31n1606_006:0721b24_18"
+    },
+    {
+        "source_sentence": "或有聚唯一所造色如光等。",
+        "translation": "Or, there may be a single lump that creates form like light and so forth.",
+        "source": "T31n1606_006:0721b24_19"
+    },
+    {
+        "source_sentence": "或有二所造色如有聲香風等。",
+        "translation": "Or there may be form created by two things like sound, smell, odor, wind, and so forth.",
+        "source": "T31n1606_006:0721b25_20"
+    },
+    {
+        "source_sentence": "或有三所造色如香煙等。",
+        "translation": "Or there may be three forms created by the three, such as incense and smoke.",
+        "source": "T31n1606_006:0721b26_21"
+    },
+    {
+        "source_sentence": "由此香煙有色香觸差別所顯故。",
+        "translation": "It's because it's the result of the distinction between fragrance, smoke, form, odor, and touch that's manifested.",
+        "source": "T31n1606_006:0721b26_22"
+    },
+    {
+        "source_sentence": "觸差別者。",
+        "translation": "The distinction in touch refers to this.",
+        "source": "T31n1606_006:0721b27_23"
+    },
+    {
+        "source_sentence": "謂此中輕性。",
+        "translation": "It means that this is the despised nature here.",
+        "source": "T31n1606_006:0721b27_24"
+    },
+    {
+        "source_sentence": "或有四所造色。",
+        "translation": "Or there may be four forms created by the four.",
+        "source": "T31n1606_006:0721b28_25"
+    },
+    {
+        "source_sentence": "如沙糖團等。",
+        "translation": "It's like a lump of sugar and so forth.",
+        "source": "T31n1606_006:0721b28_26"
+    },
+    {
+        "source_sentence": "或有五所造色。",
+        "translation": "Or there may be five forms created by the five.",
+        "source": "T31n1606_006:0721b28_27"
+    },
+    {
+        "source_sentence": "謂即此有聲時。",
+        "translation": "It means that this is the time when there's sound.",
+        "source": "T31n1606_006:0721b29_28"
+    },
+    {
+        "source_sentence": "又若於此聚大種造色隨分可得。",
+        "translation": "Furthermore, if form that's created from the material elements in this lump can be obtained accordingly.",
+        "source": "T31n1606_006:0721b29_29"
+    },
+    {
+        "source_sentence": "當知此中有此非餘。",
+        "translation": "You should know that within this, there's this and not the other.",
+        "source": "T31n1606_006:0721c01_30"
+    },
+    {
+        "source_sentence": "此依麁物說非種子。",
+        "translation": "This is based on the fact that crude things are said to be not seeds.",
+        "source": "T31n1606_006:0721c01_31"
+    },
+    {
+        "source_sentence": "一一聚中有一切種子故。",
+        "translation": "It's because there are all the seeds in each lump.",
+        "source": "T31n1606_006:0721c02_32"
+    },
+    {
+        "source_sentence": "又說麁聚色極微集所成者。",
+        "translation": "It's also said that debilitating form is extremely subtle and formed by accumulation.",
+        "source": "T31n1606_006:0721c03_0"
+    },
+    {
+        "source_sentence": "當知此中極微無體無實無性。",
+        "translation": "You should know that these extremely subtle things have no essence, no reality, and no nature.",
+        "source": "T31n1606_006:0721c03_1"
+    },
+    {
+        "source_sentence": "唯假建立。",
+        "translation": "It's only nominally established.",
+        "source": "T31n1606_006:0721c04_2"
+    },
+    {
+        "source_sentence": "展轉分析無限量故。",
+        "translation": "It's because there are no limits to the number of ways to analyze it in turn.",
+        "source": "T31n1606_006:0721c04_3"
+    },
+    {
+        "source_sentence": "但由覺慧漸漸分析。",
+        "translation": "It's simply because of the gradual analysis of enlightenment and wisdom.",
+        "source": "T31n1606_006:0721c05_4"
+    },
+    {
+        "source_sentence": "細分損減乃至可析邊際。",
+        "translation": "It's subtly diminished up to the point where it can be analyzed.",
+        "source": "T31n1606_006:0721c05_5"
+    },
+    {
+        "source_sentence": "即約此際建立極微。",
+        "translation": "It's the ultimate subtlety that's established in terms of this point.",
+        "source": "T31n1606_006:0721c06_6"
+    },
+    {
+        "source_sentence": "問若諸極微無實體性何故建立。",
+        "translation": "Q If the extremely subtle dharmas lack substance, why are they established?",
+        "source": "T31n1606_006:0721c06_7"
+    },
+    {
+        "source_sentence": "答為遣一合想故。",
+        "translation": "Answer: It's because they reject the idea of unity.",
+        "source": "T31n1606_006:0721c07_8"
+    },
+    {
+        "source_sentence": "若以覺慧分分分析所有諸色。",
+        "translation": "If we analyze all the forms that exist by means of the factors of awakening and wisdom.",
+        "source": "T31n1606_006:0721c07_9"
+    },
+    {
+        "source_sentence": "爾時妄執一切諸色為一合想即便捨離。",
+        "translation": "At that point, he falsely clings to all forms as a single conjunction of perception and even abandons it.",
+        "source": "T31n1606_006:0721c08_10"
+    },
+    {
+        "source_sentence": "由此順入數取趣無我性故。",
+        "translation": "It's because it follows the entry into the number of attachments to the selflessness of destinies.",
+        "source": "T31n1606_006:0721c09_11"
+    },
+    {
+        "source_sentence": "又為悟入諸所有色非真實故。",
+        "translation": "It's also because they realize that all forms that enter are not real.",
+        "source": "T31n1606_006:0721c10_12"
+    },
+    {
+        "source_sentence": "若以覺慧如是分析所有諸色至無所有。",
+        "translation": "If he analyzes the forms that exist with perception and wisdom in this way, they'll reach the point where they don't exist.",
+        "source": "T31n1606_006:0721c10_13"
+    },
+    {
+        "source_sentence": "爾時便能悟入諸色皆非真實。",
+        "translation": "At that point, they'll then be able to realize that all forms that enter are not real.",
+        "source": "T31n1606_006:0721c11_14"
+    },
+    {
+        "source_sentence": "因此悟入唯識道理。",
+        "translation": "As a result, they'll awaken to the principle of consciousness-only.",
+        "source": "T31n1606_006:0721c12_15"
+    },
+    {
+        "source_sentence": "由此順入諸法無我性故。",
+        "translation": "It's because they follow and enter the selflessness of all dharmas.",
+        "source": "T31n1606_006:0721c12_16"
+    },
+    {
+        "source_sentence": "復次苦法略有八種差別。",
+        "translation": "Furthermore, there are slightly eight kinds of distinctions in the Dharma of suffering.",
+        "source": "T31n1606_006:0721c14_0"
+    },
+    {
+        "source_sentence": "謂有廣大不寂靜苦。",
+        "translation": "It means there's extensive and indeterminate suffering.",
+        "source": "T31n1606_006:0721c14_1"
+    },
+    {
+        "source_sentence": "有寂靜苦。",
+        "translation": "There's the suffering of quiescence.",
+        "source": "T31n1606_006:0721c15_2"
+    },
+    {
+        "source_sentence": "有寂靜不寂靜苦。",
+        "translation": "There's the suffering of quiescence and non-quiescence.",
+        "source": "T31n1606_006:0721c15_3"
+    },
+    {
+        "source_sentence": "有中不寂靜苦。",
+        "translation": "Within existence, there's the suffering of not being quiescent.",
+        "source": "T31n1606_006:0721c15_4"
+    },
+    {
+        "source_sentence": "有微薄不寂靜苦。",
+        "translation": "There's the pain of being weak and not quiescent.",
+        "source": "T31n1606_006:0721c16_5"
+    },
+    {
+        "source_sentence": "有微薄寂靜苦。",
+        "translation": "There's the suffering of slight quiescence and tranquility.",
+        "source": "T31n1606_006:0721c16_6"
+    },
+    {
+        "source_sentence": "有極微薄寂靜苦。",
+        "translation": "There's extremely weak, tranquil, and painful suffering.",
+        "source": "T31n1606_006:0721c16_7"
+    },
+    {
+        "source_sentence": "有非苦似苦住大寂靜。",
+        "translation": "There's what's not painful and resembles painful abiding in great quiescence.",
+        "source": "T31n1606_006:0721c17_8"
+    },
+    {
+        "source_sentence": "云何廣大不寂靜苦。",
+        "translation": "What's the vast, incalculable suffering of not being tranquil?",
+        "source": "T31n1606_006:0721c17_9"
+    },
+    {
+        "source_sentence": "謂生欲界未曾積集諸善根者。",
+        "translation": "It means someone who's born in the desire realm and has never accumulated good roots.",
+        "source": "T31n1606_006:0721c18_10"
+    },
+    {
+        "source_sentence": "由欲界一切生趣苦具足所顯故。",
+        "translation": "It's because all the painful destinies that arise in the desire realm are fully manifested.",
+        "source": "T31n1606_006:0721c18_11"
+    },
+    {
+        "source_sentence": "未集善根不能遮止往諸趣故。",
+        "translation": "It's because they haven't yet accumulated good roots that can't obstruct the past and future destinies.",
+        "source": "T31n1606_006:0721c19_12"
+    },
+    {
+        "source_sentence": "如其次第名廣大不寂靜苦。",
+        "translation": "In order, they're called the vast and incalculably painful suffering of not being tranquil.",
+        "source": "T31n1606_006:0721c20_13"
+    },
+    {
+        "source_sentence": "云何寂靜苦。",
+        "translation": "What's the suffering of quiescence?",
+        "source": "T31n1606_006:0721c21_14"
+    },
+    {
+        "source_sentence": "謂即此已生順解脫分善根者。",
+        "translation": "It means that this is someone who has produced the good roots of the liberation aspect of following.",
+        "source": "T31n1606_006:0721c21_15"
+    },
+    {
+        "source_sentence": "決定趣向般涅槃故。",
+        "translation": "It's because he's determined to head toward parinirvāṇa.",
+        "source": "T31n1606_006:0721c22_16"
+    },
+    {
+        "source_sentence": "云何寂靜不寂靜苦。",
+        "translation": "What's the suffering of being quiescent and not quiescent?",
+        "source": "T31n1606_006:0721c22_17"
+    },
+    {
+        "source_sentence": "謂即此為世間道離欲已種善根者。",
+        "translation": "It means this is the worldly path that's free of desire and has planted good roots.",
+        "source": "T31n1606_006:0721c23_0"
+    },
+    {
+        "source_sentence": "由即此欲界苦為世間道離欲已種善根者決定超越苦苦等故。",
+        "translation": "It's because this suffering in the desire realm is a worldly path that's free of desire and has planted good roots, so it's certain to transcend suffering and suffering.",
+        "source": "T31n1606_006:0721c23_1"
+    },
+    {
+        "source_sentence": "然非畢竟故。",
+        "translation": "However, it's not the ultimate.",
+        "source": "T31n1606_006:0721c25_2"
+    },
+    {
+        "source_sentence": "如其次第。",
+        "translation": "It's in order.",
+        "source": "T31n1606_006:0721c25_3"
+    },
+    {
+        "source_sentence": "如是中不寂靜苦等隨所應當釋。",
+        "translation": "Thus, it's appropriate to explain that such things as not being quiescent and suffering should be explained accordingly.",
+        "source": "T31n1606_006:0721c25_4"
+    },
+    {
+        "source_sentence": "云何中不寂靜苦。",
+        "translation": "What's the suffering of not being tranquil?",
+        "source": "T31n1606_006:0721c26_5"
+    },
+    {
+        "source_sentence": "謂生色界遠離順解脫分者。",
+        "translation": "It means someone who's born in the form realm and is far removed from the parts that follow liberation.",
+        "source": "T31n1606_006:0721c26_6"
+    },
+    {
+        "source_sentence": "云何微薄不寂靜苦。",
+        "translation": "What's the pain of being weak and not quiescent?",
+        "source": "T31n1606_006:0721c27_7"
+    },
+    {
+        "source_sentence": "謂生無色界遠離順解脫分者。",
+        "translation": "It means someone who's born in the formless realm and is far removed from the parts of liberation that follow.",
+        "source": "T31n1606_006:0721c28_8"
+    },
+    {
+        "source_sentence": "云何微薄寂靜苦。",
+        "translation": "What's the suffering of slight quiescence and tranquility?",
+        "source": "T31n1606_006:0721c28_9"
+    },
+    {
+        "source_sentence": "謂諸有學。",
+        "translation": "It refers to those who are trainees.",
+        "source": "T31n1606_006:0721c29_10"
+    },
+    {
+        "source_sentence": "云何極微薄寂靜苦。",
+        "translation": "What's the extremely subtle, tranquil suffering of nirvāṇa?",
+        "source": "T31n1606_006:0721c29_11"
+    },
+    {
+        "source_sentence": "謂諸無學命根住緣六處。",
+        "translation": "It's the six places where the life root of post-learning living beings abide.",
+        "source": "T31n1606_006:0721c29_12"
+    },
+    {
+        "source_sentence": "云何非苦似苦住大寂靜。",
+        "translation": "What's the great quiescence that doesn't abide in what's painful and resembles painful?",
+        "source": "T31n1606_006:0722a01_13"
+    },
+    {
+        "source_sentence": "謂已得究竟菩薩摩訶薩等。",
+        "translation": "They are the bodhisattvas, mahāsattvas, and so forth who have attained the ultimate.",
+        "source": "T31n1606_006:0722a02_14"
+    },
+    {
+        "source_sentence": "乘大悲願力故生諸有中。",
+        "translation": "He's born among existences because of the power of the vow of great compassion.",
+        "source": "T31n1606_006:0722a02_15"
+    },
+    {
+        "source_sentence": "由能除滅無量眾生相續大苦故。",
+        "translation": "It's because they can remove the continuing great suffering of measureless sentient beings.",
+        "source": "T31n1606_006:0722a03_16"
+    },
+    {
+        "source_sentence": "名住大寂靜。",
+        "translation": "It's called abiding in great quiescence.",
+        "source": "T31n1606_006:0722a04_17"
+    },
+    {
+        "source_sentence": "復次前說死苦。",
+        "translation": "Furthermore, the suffering of death was previously explained.",
+        "source": "T31n1606_006:0722a05_0"
+    },
+    {
+        "source_sentence": "死有三種。",
+        "translation": "There are three kinds of death:",
+        "source": "T31n1606_006:0722a05_1"
+    },
+    {
+        "source_sentence": "謂或善心死。",
+        "translation": "It's when someone dies with a good mind.",
+        "source": "T31n1606_006:0722a05_2"
+    },
+    {
+        "source_sentence": "或不善心死。",
+        "translation": "Or they may die with an unwholesome mind.",
+        "source": "T31n1606_006:0722a05_3"
+    },
+    {
+        "source_sentence": "或無記心死。",
+        "translation": "Or it's the death of indeterminate mind.",
+        "source": "T31n1606_006:0722a06_4"
+    },
+    {
+        "source_sentence": "善心死者。",
+        "translation": "The good mind dies.",
+        "source": "T31n1606_006:0722a06_5"
+    },
+    {
+        "source_sentence": "謂於明利心現行位。",
+        "translation": "It means that it's in the stage of insight, benefit, mind, and present activity.",
+        "source": "T31n1606_006:0722a06_6"
+    },
+    {
+        "source_sentence": "或由自善根力所持故。",
+        "translation": "Or it might be maintained by the power of their own good roots.",
+        "source": "T31n1606_006:0722a07_7"
+    },
+    {
+        "source_sentence": "或由他所引攝故。",
+        "translation": "It might be because it's collected by others.",
+        "source": "T31n1606_006:0722a07_8"
+    },
+    {
+        "source_sentence": "發起善心趣命終位。",
+        "translation": "He gives rise to a good mind that's destined for the final stage of life.",
+        "source": "T31n1606_006:0722a08_9"
+    },
+    {
+        "source_sentence": "不善心死者。",
+        "translation": "An unwholesome mind dies.",
+        "source": "T31n1606_006:0722a08_10"
+    },
+    {
+        "source_sentence": "謂亦於明利心現行位。",
+        "translation": "It means that it's also in the stage of manifesting the mind with insight and benefit.",
+        "source": "T31n1606_006:0722a08_11"
+    },
+    {
+        "source_sentence": "或由自不善根力所持故。",
+        "translation": "It's either because it's maintained by the power of its own unwholesome roots.",
+        "source": "T31n1606_006:0722a09_12"
+    },
+    {
+        "source_sentence": "或由他所引攝故。",
+        "translation": "It might be because it's collected by others.",
+        "source": "T31n1606_006:0722a10_13"
+    },
+    {
+        "source_sentence": "起不善心趣命終位。",
+        "translation": "He gives rise to an unwholesome mind that's destined for the final stage of life.",
+        "source": "T31n1606_006:0722a10_14"
+    },
+    {
+        "source_sentence": "無記心死者。",
+        "translation": "The indeterminate mind dies.",
+        "source": "T31n1606_006:0722a10_15"
+    },
+    {
+        "source_sentence": "謂若於明利心現行位。",
+        "translation": "It means that if he's in the stage of manifesting with insight and sharpness of mind.",
+        "source": "T31n1606_006:0722a11_16"
+    },
+    {
+        "source_sentence": "若於不明利心現行位。",
+        "translation": "If someone doesn't know the stage of the mind's beneficial manifestation, then they'll attain it.",
+        "source": "T31n1606_006:0722a11_17"
+    },
+    {
+        "source_sentence": "或由闕二緣故。",
+        "translation": "Perhaps it's because they lack the two conditions.",
+        "source": "T31n1606_006:0722a12_18"
+    },
+    {
+        "source_sentence": "或由加行無功能故。",
+        "translation": "Perhaps it's because the applied practices are ineffective.",
+        "source": "T31n1606_006:0722a12_19"
+    },
+    {
+        "source_sentence": "起無記心趣命終位。",
+        "translation": "They give rise to an indeterminate state of mind that's destined for the end of life.",
+        "source": "T31n1606_006:0722a13_20"
+    },
+    {
+        "source_sentence": "此中所言善等心死者。",
+        "translation": "This is called the mind that's good and so forth in terms of mental death.",
+        "source": "T31n1606_006:0722a13_21"
+    },
+    {
+        "source_sentence": "當知依我愛相應將命終心位前說。",
+        "translation": "You should know that it's explained before the mind at the end of life in terms of self and craving.",
+        "source": "T31n1606_006:0722a14_22"
+    },
+    {
+        "source_sentence": "修淨行者臨命終位。",
+        "translation": "Those who cultivate pure practices are about to die at the end of their life.",
+        "source": "T31n1606_006:0722a14_23"
+    },
+    {
+        "source_sentence": "於身下分。",
+        "translation": "It's the lower part of the body.",
+        "source": "T31n1606_006:0722a15_24"
+    },
+    {
+        "source_sentence": "先起冷觸。",
+        "translation": "First, it gives rise to cold contact.",
+        "source": "T31n1606_006:0722a15_25"
+    },
+    {
+        "source_sentence": "不淨行者臨命終位。",
+        "translation": "The impure practitioner is about to die at the end of his life.",
+        "source": "T31n1606_006:0722a15_26"
+    },
+    {
+        "source_sentence": "於身上分先起冷觸。",
+        "translation": "In the upper part of his body, he first gives rise to cold touch.",
+        "source": "T31n1606_006:0722a16_27"
+    },
+    {
+        "source_sentence": "又不淨行者中有生時。",
+        "translation": "Furthermore, when there's birth in the midst of impure conditioned dharmas.",
+        "source": "T31n1606_006:0722a16_28"
+    },
+    {
+        "source_sentence": "其相顯現如黑羊羔光。",
+        "translation": "Its characteristics are manifested like the light of a black sheep's lamb.",
+        "source": "T31n1606_006:0722a17_29"
+    },
+    {
+        "source_sentence": "或如陰闇夜分。",
+        "translation": "Or it's like the dark nighttime portion of the aggregates.",
+        "source": "T31n1606_006:0722a17_30"
+    },
+    {
+        "source_sentence": "修淨行者中有生時。",
+        "translation": "When someone cultivates pure practices, there's a time of birth.",
+        "source": "T31n1606_006:0722a18_31"
+    },
+    {
+        "source_sentence": "其相顯現如白練光。",
+        "translation": "Their characteristics are manifested like white, refined light.",
+        "source": "T31n1606_006:0722a18_32"
+    },
+    {
+        "source_sentence": "或如晴明夜分。",
+        "translation": "It might be like a clear nighttime.",
+        "source": "T31n1606_006:0722a19_33"
+    },
+    {
+        "source_sentence": "又此中有在欲色界正受生位。",
+        "translation": "Furthermore, there's someone here who's in the stage of right feeling birth in the desire realm and form realm.",
+        "source": "T31n1606_006:0722a19_34"
+    },
+    {
+        "source_sentence": "亦從無色界命終後位。",
+        "translation": "It's also from the latter stage at the end of life in the formless realm.",
+        "source": "T31n1606_006:0722a20_35"
+    },
+    {
+        "source_sentence": "亦名意生健達縛等。",
+        "translation": "It's also called the mind-generating gandharva and so forth.",
+        "source": "T31n1606_006:0722a20_36"
+    },
+    {
+        "source_sentence": "極住七日。",
+        "translation": "It lasts for seven days at most.",
+        "source": "T31n1606_006:0722a21_37"
+    },
+    {
+        "source_sentence": "或有中夭。",
+        "translation": "Some may die in the interim.",
+        "source": "T31n1606_006:0722a21_38"
+    },
+    {
+        "source_sentence": "或時移轉。",
+        "translation": "Sometimes it's displaced.",
+        "source": "T31n1606_006:0722a21_39"
+    },
+    {
+        "source_sentence": "言意生者。",
+        "translation": "It's called mind-made.",
+        "source": "T31n1606_006:0722a22_0"
+    },
+    {
+        "source_sentence": "謂受化生身。",
+        "translation": "It's the body that's subject to transformation and birth.",
+        "source": "T31n1606_006:0722a22_1"
+    },
+    {
+        "source_sentence": "唯心為因故。",
+        "translation": "It's because only mind is the cause.",
+        "source": "T31n1606_006:0722a22_2"
+    },
+    {
+        "source_sentence": "香所引故。",
+        "translation": "It's because it's induced by the fragrance.",
+        "source": "T31n1606_006:0722a22_3"
+    },
+    {
+        "source_sentence": "名健達縛。",
+        "translation": "It's called the gandharva.",
+        "source": "T31n1606_006:0722a23_4"
+    },
+    {
+        "source_sentence": "是隨逐於香往受生處。",
+        "translation": "This is the place where he follows the fragrance and goes to receive birth.",
+        "source": "T31n1606_006:0722a23_5"
+    },
+    {
+        "source_sentence": "義極住七日。",
+        "translation": "The meaning lasts for seven days at most.",
+        "source": "T31n1606_006:0722a23_6"
+    },
+    {
+        "source_sentence": "或有中夭者。",
+        "translation": "Perhaps there's someone who dies in the interim.",
+        "source": "T31n1606_006:0722a24_7"
+    },
+    {
+        "source_sentence": "此約速得生緣者說。",
+        "translation": "This is explained in terms of those who quickly attain the conditions for birth.",
+        "source": "T31n1606_006:0722a24_8"
+    },
+    {
+        "source_sentence": "若過七日不得生緣。",
+        "translation": "If he doesn't get the condition to give birth after seven days, then he'll be born again.",
+        "source": "T31n1606_006:0722a24_9"
+    },
+    {
+        "source_sentence": "必定命終還生中有。",
+        "translation": "He'll surely die and return to birth in the intermediate state.",
+        "source": "T31n1606_006:0722a25_10"
+    },
+    {
+        "source_sentence": "如是展轉乃至七返更不得過。",
+        "translation": "It doesn't go beyond that for another seven times in this way.",
+        "source": "T31n1606_006:0722a25_11"
+    },
+    {
+        "source_sentence": "或時移轉者。",
+        "translation": "Sometimes it's displaced.",
+        "source": "T31n1606_006:0722a26_12"
+    },
+    {
+        "source_sentence": "謂於此位往餘生處。",
+        "translation": "It means that in this stage, they'll go to another place of birth.",
+        "source": "T31n1606_006:0722a26_13"
+    },
+    {
+        "source_sentence": "強緣現前。",
+        "translation": "It's because strong conditions are presently manifested.",
+        "source": "T31n1606_006:0722a27_14"
+    },
+    {
+        "source_sentence": "如得第四靜慮起阿羅漢增上慢比丘。",
+        "translation": "Suppose an arhat who attains the fourth concentration gives rise to arrogance as a monk.",
+        "source": "T31n1606_006:0722a27_15"
+    },
+    {
+        "source_sentence": "彼地中有生時。",
+        "translation": "When there's birth in that place.",
+        "source": "T31n1606_006:0722a28_16"
+    },
+    {
+        "source_sentence": "由謗解脫邪見故。",
+        "translation": "It's because they denigrate the mistaken view of liberation.",
+        "source": "T31n1606_006:0722a28_17"
+    },
+    {
+        "source_sentence": "轉生地獄中有。",
+        "translation": "He'll be born in the hell of transmigration.",
+        "source": "T31n1606_006:0722a29_18"
+    },
+    {
+        "source_sentence": "又住中有中亦能集諸業。",
+        "translation": "Also, in the midst of abiding, there are karmas that can also be collected.",
+        "source": "T31n1606_006:0722a29_19"
+    },
+    {
+        "source_sentence": "先串習力所引善等思現行故。",
+        "translation": "It's because the goodness and so forth that were previously induced by the power of accumulation are present in contemplation.",
+        "source": "T31n1606_006:0722b01_20"
+    },
+    {
+        "source_sentence": "又能覩見同類有情。",
+        "translation": "They can also pity and see similar kinds of sentient beings.",
+        "source": "T31n1606_006:0722b01_21"
+    },
+    {
+        "source_sentence": "謂先所共行善不善者。",
+        "translation": "They are those who previously shared the good and unskillful practices.",
+        "source": "T31n1606_006:0722b02_22"
+    },
+    {
+        "source_sentence": "如於夢中見已與彼現同遊戲。",
+        "translation": "It's like having seen them in a dream and playing with them in the present.",
+        "source": "T31n1606_006:0722b02_23"
+    },
+    {
+        "source_sentence": "又中有形似當生處如當生處。",
+        "translation": "Also, there's a form that resembles the place where it will be produced as the place where it will be produced.",
+        "source": "T31n1606_006:0722b03_24"
+    },
+    {
+        "source_sentence": "前時有形而起故。",
+        "translation": "It's because they arose with form in the past.",
+        "source": "T31n1606_006:0722b04_25"
+    },
+    {
+        "source_sentence": "又此中有所趣無礙。",
+        "translation": "Furthermore, there's an unobstructed path here.",
+        "source": "T31n1606_006:0722b04_26"
+    },
+    {
+        "source_sentence": "如具神通往來迅速。",
+        "translation": "It's like someone who possesses supernormal abilities and quickly travels back and forth.",
+        "source": "T31n1606_006:0722b05_27"
+    },
+    {
+        "source_sentence": "仍於生處有所拘礙。",
+        "translation": "They're still bound by the place of birth.",
+        "source": "T31n1606_006:0722b05_28"
+    },
+    {
+        "source_sentence": "又此中有於所生處。",
+        "translation": "Furthermore, there's a place here where it's produced.",
+        "source": "T31n1606_006:0722b06_29"
+    },
+    {
+        "source_sentence": "如稱兩頭低昂道理。",
+        "translation": "It's like saying that the two heads are low and lofty in principle.",
+        "source": "T31n1606_006:0722b06_30"
+    },
+    {
+        "source_sentence": "終沒結生時分亦爾。",
+        "translation": "It's likewise with the time period when the final bond of nonexistence arises.",
+        "source": "T31n1606_006:0722b07_31"
+    },
+    {
+        "source_sentence": "又住中有中於所生處發起貪愛。",
+        "translation": "Also, in the midst of abiding, there's craving that arises from the place where it's produced.",
+        "source": "T31n1606_006:0722b07_32"
+    },
+    {
+        "source_sentence": "亦用餘煩惱為緣助。",
+        "translation": "It also uses the other afflictions as causes and conditions to help.",
+        "source": "T31n1606_006:0722b08_33"
+    },
+    {
+        "source_sentence": "此中有身與貪俱滅。",
+        "translation": "Here, there's a body that ceases together with craving.",
+        "source": "T31n1606_006:0722b08_34"
+    },
+    {
+        "source_sentence": "羯邏藍身與識俱生此唯是異熟。",
+        "translation": "The karāla body that arises together with consciousness is only the result of retribution.",
+        "source": "T31n1606_006:0722b09_35"
+    },
+    {
+        "source_sentence": "自此已後根漸生長。",
+        "translation": "From then on, the faculties gradually grow.",
+        "source": "T31n1606_006:0722b10_0"
+    },
+    {
+        "source_sentence": "如緣起中說。",
+        "translation": "It's as explained in the context of dependent arising.",
+        "source": "T31n1606_006:0722b10_1"
+    },
+    {
+        "source_sentence": "於四生類。",
+        "translation": "Regarding the four kinds of birth, it's because they are born in the form realm.",
+        "source": "T31n1606_006:0722b10_2"
+    },
+    {
+        "source_sentence": "或受卵生。",
+        "translation": "Or they'll be born from an egg.",
+        "source": "T31n1606_006:0722b11_0"
+    },
+    {
+        "source_sentence": "或受胎生。",
+        "translation": "Perhaps they'll be born in the womb.",
+        "source": "T31n1606_006:0722b11_1"
+    },
+    {
+        "source_sentence": "或受濕生。",
+        "translation": "Or they may be subject to wet birth.",
+        "source": "T31n1606_006:0722b11_2"
+    },
+    {
+        "source_sentence": "或受化生。",
+        "translation": "Or they may be subject to birth by transformation.",
+        "source": "T31n1606_006:0722b11_3"
+    },
+    {
+        "source_sentence": "如緣起中說者。",
+        "translation": "It's as explained in the context of dependent arising.",
+        "source": "T31n1606_006:0722b12_0"
+    },
+    {
+        "source_sentence": "謂名色等前後次第如說。",
+        "translation": "It's the sequential order of name-and-form and so forth as explained before and after.",
+        "source": "T31n1606_006:0722b12_1"
+    },
+    {
+        "source_sentence": "　最初羯邏藍　　次生頞部曇",
+        "translation": "At first, Kālāma, he'll be born next in Kālôdayin.",
+        "source": "T31n1606_006:0722b13_0"
+    },
+    {
+        "source_sentence": "　從此生閉尸　　閉尸生鍵南",
+        "translation": "From this one is born a clothed corpse, and the clothed corpse is born in Kaṇṇa.",
+        "source": "T31n1606_006:0722b14_0"
+    },
+    {
+        "source_sentence": "　次鉢羅奢佉　　後髮毛爪等",
+        "translation": "the hair, nails, etc.",
+        "source": "T31n1606_006:0722b15_0"
+    },
+    {
+        "source_sentence": "　及色根形相　　漸漸而生長",
+        "translation": "And the form faculty and form characteristics of form grow gradually.",
+        "source": "T31n1606_006:0722b16_0"
+    },
+    {
+        "source_sentence": "云何集諦。",
+        "translation": "What's the noble truth of accumulation?",
+        "source": "T31n1606_006:0722b17_0"
+    },
+    {
+        "source_sentence": "謂諸煩惱及煩惱增上所生諸業。",
+        "translation": "They are the afflictions and the karma that arises from the increase of afflictions.",
+        "source": "T31n1606_006:0722b17_1"
+    },
+    {
+        "source_sentence": "俱說名集諦。",
+        "translation": "They're both called the noble truth of accumulation.",
+        "source": "T31n1606_006:0722b18_0"
+    },
+    {
+        "source_sentence": "由此集起生死苦故。",
+        "translation": "It's because the suffering of birth-and-death arises from this accumulation.",
+        "source": "T31n1606_006:0722b18_1"
+    },
+    {
+        "source_sentence": "煩惱增上所生業者。",
+        "translation": "It's karma that arises from the afflictions that increase.",
+        "source": "T31n1606_006:0722b18_2"
+    },
+    {
+        "source_sentence": "謂有漏業。",
+        "translation": "It's contaminated karma.",
+        "source": "T31n1606_006:0722b19_3"
+    },
+    {
+        "source_sentence": "若爾何故。",
+        "translation": "If that's the case, why is it so?",
+        "source": "T31n1606_006:0722b19_4"
+    },
+    {
+        "source_sentence": "世尊唯說愛為集諦。",
+        "translation": "The Bhagavān only teaches that craving is the noble truth of accumulation.",
+        "source": "T31n1606_006:0722b19_5"
+    },
+    {
+        "source_sentence": "由最勝故。",
+        "translation": "It's because it's the most superior.",
+        "source": "T31n1606_006:0722b20_6"
+    },
+    {
+        "source_sentence": "謂薄伽梵隨勝而說。",
+        "translation": "It means that the Bhagavān follows the superior teaching.",
+        "source": "T31n1606_006:0722b20_7"
+    },
+    {
+        "source_sentence": "若愛。",
+        "translation": "If he loves it.",
+        "source": "T31n1606_006:0722b20_8"
+    },
+    {
+        "source_sentence": "若後有愛。",
+        "translation": "If there's subsequent craving, then...",
+        "source": "T31n1606_006:0722b21_9"
+    },
+    {
+        "source_sentence": "若貪喜俱行愛。",
+        "translation": "If craving and joy are accompanied by co-arising craving...",
+        "source": "T31n1606_006:0722b21_10"
+    },
+    {
+        "source_sentence": "若彼彼希樂愛。",
+        "translation": "If they desire each other, then they'll be happy and love each other.",
+        "source": "T31n1606_006:0722b21_11"
+    },
+    {
+        "source_sentence": "是名集諦。",
+        "translation": "This is called the noble truth of accumulation.",
+        "source": "T31n1606_006:0722b22_12"
+    },
+    {
+        "source_sentence": "言最勝者是遍行義。",
+        "translation": "The term most superior is the meaning of pervasive practice.",
+        "source": "T31n1606_006:0722b22_13"
+    },
+    {
+        "source_sentence": "由愛具有六遍行義。",
+        "translation": "It's because craving has the meaning of the six pervasive practices.",
+        "source": "T31n1606_006:0722b22_14"
+    },
+    {
+        "source_sentence": "是故最勝。",
+        "translation": "Therefore, it's the most superior.",
+        "source": "T31n1606_006:0722b23_15"
+    },
+    {
+        "source_sentence": "何等為六。",
+        "translation": "What are the six?",
+        "source": "T31n1606_006:0722b23_16"
+    },
+    {
+        "source_sentence": "一事遍行。",
+        "translation": "One is pervasive in terms of the pervasive practice of things.",
+        "source": "T31n1606_006:0722b23_17"
+    },
+    {
+        "source_sentence": "謂於一切已得未得自身境界事遍行故。",
+        "translation": "It's because it pervades all the things that have been attained and yet to be attained in its own objective realm.",
+        "source": "T31n1606_006:0722b24_0"
+    },
+    {
+        "source_sentence": "於已得自身起愛。",
+        "translation": "They give rise to craving for themselves after they've attained it.",
+        "source": "T31n1606_006:0722b24_1"
+    },
+    {
+        "source_sentence": "於未得自身起後有愛。",
+        "translation": "'There's craving that arises after the self that hasn't yet been attained.'",
+        "source": "T31n1606_006:0722b25_2"
+    },
+    {
+        "source_sentence": "於已得境界起貪喜俱行愛。",
+        "translation": "They give rise to the desire that's accompanied by greed, joy, and co-acting craving in the objective realm that they've attained.",
+        "source": "T31n1606_006:0722b25_3"
+    },
+    {
+        "source_sentence": "於未得境界起彼彼希樂愛。",
+        "translation": "In the unobtainable realm, they give rise to desires for those and other pleasures.",
+        "source": "T31n1606_006:0722b26_4"
+    },
+    {
+        "source_sentence": "二位遍行。",
+        "translation": "The second is the pervasive practice of stages.",
+        "source": "T31n1606_006:0722b27_5"
+    },
+    {
+        "source_sentence": "謂於苦苦性等三位諸行中遍隨行故。",
+        "translation": "It's because they pervade and follow the three kinds of practices, such as suffering and the nature of suffering.",
+        "source": "T31n1606_006:0722b27_6"
+    },
+    {
+        "source_sentence": "於已得苦苦性位起別離愛。",
+        "translation": "In the state of having attained the nature of suffering and suffering, they give rise to separation from craving.",
+        "source": "T31n1606_006:0722b28_7"
+    },
+    {
+        "source_sentence": "於未得苦苦性位起不和合愛。",
+        "translation": "At the stage where they haven't yet attained the nature of suffering and suffering, they give rise to an uncombined desire.",
+        "source": "T31n1606_006:0722b29_0"
+    },
+    {
+        "source_sentence": "於壞苦性位起不別離愛。",
+        "translation": "At the stage of destroying the nature of suffering, it doesn't give rise to separation from craving.",
+        "source": "T31n1606_006:0722b29_1"
+    },
+    {
+        "source_sentence": "及和合愛。",
+        "translation": "and combined craving.",
+        "source": "T31n1606_006:0722c01_2"
+    },
+    {
+        "source_sentence": "已得未得差別故。",
+        "translation": "It's because of the distinction between what's attained and what's not attained.",
+        "source": "T31n1606_006:0722c01_3"
+    },
+    {
+        "source_sentence": "於行苦性位起愚癡愛。",
+        "translation": "They give rise to deluded love at the level of the suffering of volition.",
+        "source": "T31n1606_006:0722c01_4"
+    },
+    {
+        "source_sentence": "由煩惱麁重所顯故。",
+        "translation": "It's because it's manifested by the debilitating afflictions.",
+        "source": "T31n1606_006:0722c02_5"
+    },
+    {
+        "source_sentence": "及不苦不樂受所顯故。",
+        "translation": "It's because it's manifested by sensation that's neither painful nor pleasant.",
+        "source": "T31n1606_006:0722c02_6"
+    },
+    {
+        "source_sentence": "唯阿賴耶識是最勝行苦位。",
+        "translation": "Only the store consciousness is the most superior in terms of suffering.",
+        "source": "T31n1606_006:0722c03_7"
+    },
+    {
+        "source_sentence": "依止此位因我癡門貪愛轉故。",
+        "translation": "Relying on this stage, it's because of the craving that arises from the gate of self and delusion.",
+        "source": "T31n1606_006:0722c04_8"
+    },
+    {
+        "source_sentence": "三世遍行。",
+        "translation": "The three worldly pervasive practices.",
+        "source": "T31n1606_006:0722c04_9"
+    },
+    {
+        "source_sentence": "謂於三世中遍隨行故。",
+        "translation": "It's because they pervade the three worlds and follow each other.",
+        "source": "T31n1606_006:0722c05_10"
+    },
+    {
+        "source_sentence": "於過去世起追憶行遍隨行愛。",
+        "translation": "In a past life, he gave rise to the craving for recollection and pervasive following.",
+        "source": "T31n1606_006:0722c05_11"
+    },
+    {
+        "source_sentence": "於未來世起希樂行遍隨行愛。",
+        "translation": "In a future life, he'll give rise to the desire for delightful actions and pervasive craving for action.",
+        "source": "T31n1606_006:0722c06_12"
+    },
+    {
+        "source_sentence": "於現在世起耽著行遍隨行愛。",
+        "translation": "In the present life, craving arises from attachment to practice and pervasive desire for practice.",
+        "source": "T31n1606_006:0722c07_0"
+    },
+    {
+        "source_sentence": "四界遍行。",
+        "translation": "The four realms are pervasive in their practice.",
+        "source": "T31n1606_006:0722c07_1"
+    },
+    {
+        "source_sentence": "謂欲色無色三愛次第遍三界故。",
+        "translation": "It means that the three cravings of desire, form, and formlessness pervade the three realms in order.",
+        "source": "T31n1606_006:0722c07_2"
+    },
+    {
+        "source_sentence": "五求遍行。",
+        "translation": "Five are the pervasive practice of seeking.",
+        "source": "T31n1606_006:0722c08_3"
+    },
+    {
+        "source_sentence": "謂由貪愛遍求欲有邪梵行故。",
+        "translation": "It means that it's because craving and pervasively seeking desire has wrong religious practice.",
+        "source": "T31n1606_006:0722c08_4"
+    },
+    {
+        "source_sentence": "由欲求力不脫欲界招欲界苦。",
+        "translation": "It's because of the power of seeking desire that they aren't liberated from the desire realm and bring suffering in the desire realm.",
+        "source": "T31n1606_006:0722c09_5"
+    },
+    {
+        "source_sentence": "由有求力不脫二界招色無色界苦。",
+        "translation": "It's because there's the power of seeking and not being liberated from the two realms that brings about the suffering in the form and formless realms.",
+        "source": "T31n1606_006:0722c10_6"
+    },
+    {
+        "source_sentence": "由邪梵行求力不脫生死彼彼流轉故。",
+        "translation": "It's because they seek the power of wrong religious practice and aren't liberated from birth-and-death and other forms of transmigration.",
+        "source": "T31n1606_006:0722c11_7"
+    },
+    {
+        "source_sentence": "六種遍行。",
+        "translation": "These are the six kinds of pervasive actions.",
+        "source": "T31n1606_006:0722c12_8"
+    },
+    {
+        "source_sentence": "謂有無有愛遍行斷常一切種故。",
+        "translation": "It's because all kinds of pervasive forms of craving for existence and nonexistence are stopped and permanent.",
+        "source": "T31n1606_006:0722c12_9"
+    },
+    {
+        "source_sentence": "煩惱者。",
+        "translation": "The afflictions are.",
+        "source": "T31n1606_006:0722c14_0"
+    },
+    {
+        "source_sentence": "謂由數故相故緣起故境界故相應故差別故邪行故界故眾故斷故。",
+        "translation": "It means that it's because of characteristics because of their number, conditioned arising because of their objects, concomitance because of their objects, distinction because of their differences, wrong action because of their elements, and cessation because of",
+        "source": "T31n1606_006:0722c14_1"
+    },
+    {
+        "source_sentence": "觀諸煩惱。",
+        "translation": "He observes the afflictions.",
+        "source": "T31n1606_006:0722c15_2"
+    },
+    {
+        "source_sentence": "數者。",
+        "translation": "The number refers.",
+        "source": "T31n1606_006:0722c16_0"
+    },
+    {
+        "source_sentence": "謂或六或十。",
+        "translation": "It's either six or ten.",
+        "source": "T31n1606_006:0722c16_1"
+    },
+    {
+        "source_sentence": "六謂貪瞋慢無明疑見。",
+        "translation": "The sixth refers to craving, anger, conceit, ignorance, doubt, and views.",
+        "source": "T31n1606_006:0722c16_2"
+    },
+    {
+        "source_sentence": "十謂前五見。",
+        "translation": "Ten refers to the first five views.",
+        "source": "T31n1606_006:0722c16_3"
+    },
+    {
+        "source_sentence": "又分五謂薩迦耶見。",
+        "translation": "The five parts also refer to the view of saṃkāya.",
+        "source": "T31n1606_006:0722c17_4"
+    },
+    {
+        "source_sentence": "邊執見邪見見取戒禁取。",
+        "translation": "The view of extreme attachment, the view of wrong views, and the view of adherence to precepts and prohibitions.",
+        "source": "T31n1606_006:0722c17_5"
+    },
+    {
+        "source_sentence": "相者。",
+        "translation": "The characteristic is this.",
+        "source": "T31n1606_006:0722c19_0"
+    },
+    {
+        "source_sentence": "若法生時相。",
+        "translation": "If a dharma arises at the time of its appearance, then it's called form.",
+        "source": "T31n1606_006:0722c19_1"
+    },
+    {
+        "source_sentence": "不寂靜由此生故身心相續。",
+        "translation": "Because it doesn't become quiescent because of this birth, body and mind continue to arise.",
+        "source": "T31n1606_006:0722c19_2"
+    },
+    {
+        "source_sentence": "不寂靜轉是煩惱相。",
+        "translation": "The absence of quiescent transformation is the characteristic of affliction.",
+        "source": "T31n1606_006:0722c20_3"
+    },
+    {
+        "source_sentence": "不寂靜性是諸煩惱共相。",
+        "translation": "The absence of quiescence is the common characteristic of afflictions.",
+        "source": "T31n1606_006:0722c20_4"
+    },
+    {
+        "source_sentence": "此復有六。",
+        "translation": "Here again, there are six.",
+        "source": "T31n1606_006:0722c21_5"
+    },
+    {
+        "source_sentence": "謂散亂不寂靜性。",
+        "translation": "It's the nature of being distracted and not quiescent.",
+        "source": "T31n1606_006:0722c21_6"
+    },
+    {
+        "source_sentence": "顛倒不寂靜性。",
+        "translation": "It's the nature of being mistaken and not quiescent.",
+        "source": "T31n1606_006:0722c21_7"
+    },
+    {
+        "source_sentence": "掉舉不寂靜性。",
+        "translation": "It's the nature of agitation and non-quiescence.",
+        "source": "T31n1606_006:0722c22_8"
+    },
+    {
+        "source_sentence": "惛沈不寂靜性。",
+        "translation": "It's the nature of torpor and not quiescence.",
+        "source": "T31n1606_006:0722c22_9"
+    },
+    {
+        "source_sentence": "放逸不寂靜性。",
+        "translation": "It's the nature of being careless and not quiescent.",
+        "source": "T31n1606_006:0722c22_10"
+    },
+    {
+        "source_sentence": "無恥不寂靜性。",
+        "translation": "It's the nature of shamelessness and not quiescence.",
+        "source": "T31n1606_006:0722c23_11"
+    },
+    {
+        "source_sentence": "緣起者。",
+        "translation": "Conditioned arising refers to conditioned arising.",
+        "source": "T31n1606_006:0722c24_0"
+    },
+    {
+        "source_sentence": "謂煩惱隨眠未永斷故。",
+        "translation": "It's because the latent afflictive tendencies haven't been permanently eliminated.",
+        "source": "T31n1606_006:0722c24_1"
+    },
+    {
+        "source_sentence": "順煩惱法現在前故。",
+        "translation": "It's because the afflictive dharmas that follow it are presently manifested.",
+        "source": "T31n1606_006:0722c24_2"
+    },
+    {
+        "source_sentence": "不正思惟現前起故。",
+        "translation": "It's because they don't correctly contemplate the present and give rise to it.",
+        "source": "T31n1606_006:0722c25_3"
+    },
+    {
+        "source_sentence": "如是煩惱方乃得生。",
+        "translation": "Only then can such afflictions arise.",
+        "source": "T31n1606_006:0722c25_4"
+    },
+    {
+        "source_sentence": "煩惱隨眠未永斷者。",
+        "translation": "The latent afflictive tendencies haven't been permanently eliminated.",
+        "source": "T31n1606_006:0722c26_5"
+    },
+    {
+        "source_sentence": "彼品麁重未永拔故。",
+        "translation": "It's because the debilitating hindrances of those qualities haven't been permanently removed.",
+        "source": "T31n1606_006:0722c26_6"
+    },
+    {
+        "source_sentence": "順煩惱法現在前者。",
+        "translation": "He who follows the afflictive dharmas that are present in front of him.",
+        "source": "T31n1606_006:0722c27_7"
+    },
+    {
+        "source_sentence": "現前會遇可愛等境故。",
+        "translation": "It's because they'll encounter objects that are desirable and so forth in the present.",
+        "source": "T31n1606_006:0722c27_8"
+    },
+    {
+        "source_sentence": "不正思惟現前起者。",
+        "translation": "Those who don't correctly contemplate the present and give rise to it.",
+        "source": "T31n1606_006:0722c28_9"
+    },
+    {
+        "source_sentence": "於彼境界取淨等相。",
+        "translation": "In that realm, they grasp the characteristics of purity and so forth.",
+        "source": "T31n1606_006:0722c28_10"
+    },
+    {
+        "source_sentence": "能隨順生貪瞋等故。",
+        "translation": "It's because they can follow and give rise to craving, anger, and so forth.",
+        "source": "T31n1606_006:0722c29_0"
+    },
+    {
+        "source_sentence": "境界者。",
+        "translation": "The objective realm refers to this.",
+        "source": "T31n1606_006:0723a01_0"
+    },
+    {
+        "source_sentence": "謂一切煩惱還用一切煩惱為所緣境。",
+        "translation": "It means that all afflictions also use all afflictions as perceptual objects.",
+        "source": "T31n1606_006:0723a01_1"
+    },
+    {
+        "source_sentence": "及緣諸煩惱事。",
+        "translation": "It's conditioned by the afflictive phenomena.",
+        "source": "T31n1606_006:0723a02_2"
+    },
+    {
+        "source_sentence": "又欲界煩惱除無明見疑。",
+        "translation": "Furthermore, the afflictions in the desire realm remove ignorance, views, and doubts.",
+        "source": "T31n1606_006:0723a02_3"
+    },
+    {
+        "source_sentence": "餘不能緣上地為境。",
+        "translation": "The others can't refer to the higher ground as an object.",
+        "source": "T31n1606_006:0723a03_0"
+    },
+    {
+        "source_sentence": "此無明等雖亦有能緣上地者。",
+        "translation": "Although these nesciences and so forth also have the ability to refer to the higher ground, they're not like that.",
+        "source": "T31n1606_006:0723a03_1"
+    },
+    {
+        "source_sentence": "然彼不能親緣上地如緣自地。",
+        "translation": "However, they can't directly refer to the higher ground as they refer to their own ground.",
+        "source": "T31n1606_006:0723a04_2"
+    },
+    {
+        "source_sentence": "由依彼門起分別故。",
+        "translation": "It's because they rely on those approaches to give rise to discrimination.",
+        "source": "T31n1606_006:0723a04_3"
+    },
+    {
+        "source_sentence": "立彼為所緣。",
+        "translation": "It establishes them as perceptual objects.",
+        "source": "T31n1606_006:0723a05_4"
+    },
+    {
+        "source_sentence": "所言無明緣上地者。",
+        "translation": "It's called the higher ground conditioned by nescience.",
+        "source": "T31n1606_006:0723a05_5"
+    },
+    {
+        "source_sentence": "謂與見等相應見者。",
+        "translation": "They are views that are associated with views and so forth.",
+        "source": "T31n1606_006:0723a06_6"
+    },
+    {
+        "source_sentence": "除薩迦耶見不見世間。",
+        "translation": "He doesn't see the world except for the view of saṃkāya.",
+        "source": "T31n1606_006:0723a06_7"
+    },
+    {
+        "source_sentence": "緣他地諸行執為我故。",
+        "translation": "It's because conditioned by the practices of other stages, they cling to self.",
+        "source": "T31n1606_006:0723a07_8"
+    },
+    {
+        "source_sentence": "上地諸煩惱不緣下地為境。",
+        "translation": "The afflictions of the higher stages don't have lower stages as objects.",
+        "source": "T31n1606_006:0723a07_9"
+    },
+    {
+        "source_sentence": "已離彼地欲故。",
+        "translation": "It's because they've parted with the desire for that place.",
+        "source": "T31n1606_006:0723a08_10"
+    },
+    {
+        "source_sentence": "又緣滅道諦諸煩惱。",
+        "translation": "It's also conditioned by the afflictions of the path to cessation.",
+        "source": "T31n1606_006:0723a08_11"
+    },
+    {
+        "source_sentence": "不能親緣滅道為境。",
+        "translation": "They can't take the path to cessation as an object that's proximate to it.",
+        "source": "T31n1606_006:0723a09_12"
+    },
+    {
+        "source_sentence": "由滅道諦出世間智及後得智內所證故。",
+        "translation": "It's because it's realized within transmundane cognition of the path to cessation and subsequently attained cognition.",
+        "source": "T31n1606_006:0723a09_13"
+    },
+    {
+        "source_sentence": "唯由依彼妄起分別說為所緣。",
+        "translation": "It's only because they falsely give rise to discriminating explanations based on that as the perceptual object.",
+        "source": "T31n1606_006:0723a10_14"
+    },
+    {
+        "source_sentence": "分別所計境不離分別故。",
+        "translation": "It's because the discriminated objects that are imagined aren't free from discrimination.",
+        "source": "T31n1606_006:0723a11_15"
+    },
+    {
+        "source_sentence": "又煩惱有二種。",
+        "translation": "Also, there are two kinds of afflictions.",
+        "source": "T31n1606_006:0723a11_16"
+    },
+    {
+        "source_sentence": "謂緣無事及緣有事。",
+        "translation": "It's conditioned by the absence of things and conditioned by the presence of things.",
+        "source": "T31n1606_006:0723a12_17"
+    },
+    {
+        "source_sentence": "緣無事者。",
+        "translation": "It's conditioned by the absence of things.",
+        "source": "T31n1606_006:0723a12_18"
+    },
+    {
+        "source_sentence": "謂見及見相應法。",
+        "translation": "They are views and views associated with dharmas.",
+        "source": "T31n1606_006:0723a12_19"
+    },
+    {
+        "source_sentence": "見謂薩迦耶見及邊執見。",
+        "translation": "views refers to the view of sarvaya and the view of extreme attachment.",
+        "source": "T31n1606_006:0723a13_20"
+    },
+    {
+        "source_sentence": "所餘煩惱名緣有事。",
+        "translation": "The remaining afflictions are called conditioned by existent things.",
+        "source": "T31n1606_006:0723a13_21"
+    },
+    {
+        "source_sentence": "相應者。",
+        "translation": "'Concomitant' means associated.",
+        "source": "T31n1606_006:0723a15_0"
+    },
+    {
+        "source_sentence": "謂貪不與瞋相應。",
+        "translation": "It means that craving isn't associated with anger.",
+        "source": "T31n1606_006:0723a15_1"
+    },
+    {
+        "source_sentence": "如瞋疑亦爾。",
+        "translation": "It's likewise with anger and doubt.",
+        "source": "T31n1606_006:0723a15_2"
+    },
+    {
+        "source_sentence": "餘皆得相應。",
+        "translation": "The others are all associated with attainment.",
+        "source": "T31n1606_006:0723a15_3"
+    },
+    {
+        "source_sentence": "何故貪不與瞋相應。",
+        "translation": "Why is greed not associated with anger?",
+        "source": "T31n1606_006:0723a16_4"
+    },
+    {
+        "source_sentence": "一向相違法必不俱轉故。",
+        "translation": "It's because they are always contrary to each other and mustn't be mutually exclusive.",
+        "source": "T31n1606_006:0723a16_5"
+    },
+    {
+        "source_sentence": "又貪不與疑相應者。",
+        "translation": "Also, craving isn't associated with doubt.",
+        "source": "T31n1606_006:0723a17_6"
+    },
+    {
+        "source_sentence": "由慧於境不決定必無染著故。",
+        "translation": "It's because wisdom is uncertain about objects and mustn't have no defiled attachment.",
+        "source": "T31n1606_006:0723a17_7"
+    },
+    {
+        "source_sentence": "餘得相應者。",
+        "translation": "Those who are associated with the other attainments...",
+        "source": "T31n1606_006:0723a18_8"
+    },
+    {
+        "source_sentence": "與餘慢等不相違故。",
+        "translation": "It's because it's not at odds with other kinds of conceit and so forth.",
+        "source": "T31n1606_006:0723a18_9"
+    },
+    {
+        "source_sentence": "如貪瞋亦爾。",
+        "translation": "It's likewise with craving and anger.",
+        "source": "T31n1606_006:0723a19_10"
+    },
+    {
+        "source_sentence": "謂瞋不與貪慢見相應。",
+        "translation": "It means that anger isn't associated with views of greed and conceit.",
+        "source": "T31n1606_006:0723a19_11"
+    },
+    {
+        "source_sentence": "若於此事起憎恚。",
+        "translation": "If he gives rise to hatred for this matter.",
+        "source": "T31n1606_006:0723a20_0"
+    },
+    {
+        "source_sentence": "即不於此生於高舉。",
+        "translation": "That is, it doesn't give rise to high-handedness here.",
+        "source": "T31n1606_006:0723a20_1"
+    },
+    {
+        "source_sentence": "及能推求與餘相應如理應知。",
+        "translation": "They can be inferred and associated with the others, as they should be known according to principle.",
+        "source": "T31n1606_006:0723a20_2"
+    },
+    {
+        "source_sentence": "慢不與瞋疑相應。",
+        "translation": "pride isn't associated with anger and doubt.",
+        "source": "T31n1606_006:0723a21_3"
+    },
+    {
+        "source_sentence": "無明有二。",
+        "translation": "There are two kinds of nescience.",
+        "source": "T31n1606_006:0723a22_0"
+    },
+    {
+        "source_sentence": "一一切煩惱相應無明。",
+        "translation": "One is ignorance associated with all afflictions.",
+        "source": "T31n1606_006:0723a22_1"
+    },
+    {
+        "source_sentence": "二不共無明。",
+        "translation": "The second is ignorance that's not shared with others.",
+        "source": "T31n1606_006:0723a22_2"
+    },
+    {
+        "source_sentence": "不共無明者。",
+        "translation": "It's not shared with ignorance.",
+        "source": "T31n1606_006:0723a23_3"
+    },
+    {
+        "source_sentence": "謂於諦無智。",
+        "translation": "It means there's no cognition of the truths.",
+        "source": "T31n1606_006:0723a23_4"
+    },
+    {
+        "source_sentence": "見不與瞋疑相應。",
+        "translation": "views that aren't associated with anger and doubt...",
+        "source": "T31n1606_006:0723a23_5"
+    },
+    {
+        "source_sentence": "疑不與貪慢見相應。",
+        "translation": "doubt isn't associated with the view of craving and conceit.",
+        "source": "T31n1606_006:0723a24_6"
+    },
+    {
+        "source_sentence": "忿等隨煩惱更互不相應。",
+        "translation": "The afflictions that follow anger and so forth are furthermore not associated with each other.",
+        "source": "T31n1606_006:0723a24_7"
+    },
+    {
+        "source_sentence": "展轉相違法必不相應故。",
+        "translation": "It's because the unlawfulness of each other in turn mustn't be associated with each other.",
+        "source": "T31n1606_006:0723a25_8"
+    },
+    {
+        "source_sentence": "如貪分與瞋分。",
+        "translation": "It's like the part of craving and the part of anger.",
+        "source": "T31n1606_006:0723a25_9"
+    },
+    {
+        "source_sentence": "若不相違。",
+        "translation": "If it's not contradictory, then...",
+        "source": "T31n1606_006:0723a26_10"
+    },
+    {
+        "source_sentence": "猶如煩惱展轉相應。",
+        "translation": "It's like the afflictions that are associated with each other in turn.",
+        "source": "T31n1606_006:0723a26_11"
+    },
+    {
+        "source_sentence": "無慚無愧於一切不善品中恒共相應。",
+        "translation": "The absence of conscience and the absence of modesty are always associated with all unwholesome qualities.",
+        "source": "T31n1606_006:0723a26_12"
+    },
+    {
+        "source_sentence": "若離不顧自他不善現行無是處故。",
+        "translation": "If someone parts with and doesn't look after themselves or others, there's no place for unwholesome present actions.",
+        "source": "T31n1606_006:0723a27_13"
+    },
+    {
+        "source_sentence": "惛沈掉舉不信懈怠放逸。",
+        "translation": "They are torpor, agitation, unbelief, laziness, and heedlessness.",
+        "source": "T31n1606_006:0723a28_14"
+    },
+    {
+        "source_sentence": "於一切染污品中恒共相應。",
+        "translation": "It's always associated with all the defiled qualities.",
+        "source": "T31n1606_006:0723a29_15"
+    },
+    {
+        "source_sentence": "若離無堪任性等染污性成無是處故。",
+        "translation": "If it's free of the defiled nature of inability and so forth, there's no place to become.",
+        "source": "T31n1606_006:0723a29_16"
+    },
+    {
+        "source_sentence": "差別者。",
+        "translation": "Differences are.",
+        "source": "T31n1606_006:0723b02_0"
+    },
+    {
+        "source_sentence": "謂諸煩惱依種種義立種種門差別。",
+        "translation": "It means that the afflictions establish various distinctions in various ways based on various meanings.",
+        "source": "T31n1606_006:0723b02_1"
+    },
+    {
+        "source_sentence": "所謂結縛隨眠隨煩惱纏瀑流軛取繫蓋株杌垢燒害箭所有惡行漏匱熱惱諍熾然稠林拘礙等。",
+        "translation": "The so-called fetters, latencies, afflictions, afflictions, floods, streams, abscesses, grasping, hindrances, plants, dirt, burning, harmful arrows, bad actions, contaminants",
+        "source": "T31n1606_006:0723b03_0"
+    },
+    {
+        "source_sentence": "問結有幾種。",
+        "translation": "Q How many kinds of bonds are there?",
+        "source": "T31n1606_006:0723b06_0"
+    },
+    {
+        "source_sentence": "云何結。",
+        "translation": "What are the bonds?",
+        "source": "T31n1606_006:0723b06_1"
+    },
+    {
+        "source_sentence": "何處結耶。",
+        "translation": "Where are they bound?",
+        "source": "T31n1606_006:0723b06_2"
+    },
+    {
+        "source_sentence": "答結有九種。",
+        "translation": "Answer: There are nine kinds of bonds.",
+        "source": "T31n1606_006:0723b06_3"
+    },
+    {
+        "source_sentence": "謂愛結恚結慢結無明結見結取結疑結嫉結慳結。",
+        "translation": "They are the bond of craving, the bond of anger, the bond of conceit, the bond of ignorance, the bond of views, the bond of grasping, the bond of doubt, the bond of jealousy, and the bond of stingines",
+        "source": "T31n1606_006:0723b07_4"
+    },
+    {
+        "source_sentence": "愛結者。",
+        "translation": "The bond of craving...",
+        "source": "T31n1606_006:0723b09_0"
+    },
+    {
+        "source_sentence": "謂三界貪愛。",
+        "translation": "They are the three realms of greed and craving.",
+        "source": "T31n1606_006:0723b09_1"
+    },
+    {
+        "source_sentence": "結所繫故不厭三界由不厭故廣行不善不行諸善由此能招未來世苦與苦相應。",
+        "translation": "Because they're bound by the bonds, they don't become disillusioned with the three realms. Because they aren't disillusioned, they extensively practice what's unwholesome and not wholesome, which can cause future suffering",
+        "source": "T31n1606_006:0723b09_2"
+    },
+    {
+        "source_sentence": "當知此中宣說諸結若相若用若位辯結差別。",
+        "translation": "You should know that this is a statement of the distinctions between the bonds, whether they are characteristics, functions, or degrees of debate.",
+        "source": "T31n1606_006:0723b11_3"
+    },
+    {
+        "source_sentence": "且如愛結何等是結。",
+        "translation": "It's also like the bond of craving. What's that bond?",
+        "source": "T31n1606_006:0723b12_4"
+    },
+    {
+        "source_sentence": "謂三界貪是結自性。",
+        "translation": "It means that craving in the three realms is the self-nature of the fetters.",
+        "source": "T31n1606_006:0723b12_5"
+    },
+    {
+        "source_sentence": "云何為結。",
+        "translation": "What are the bonds?",
+        "source": "T31n1606_006:0723b13_6"
+    },
+    {
+        "source_sentence": "謂有此者不厭三界。",
+        "translation": "It means that someone who has this doesn't tire of the three realms.",
+        "source": "T31n1606_006:0723b13_7"
+    },
+    {
+        "source_sentence": "由此展轉不善現行善不現行。",
+        "translation": "As a result, they'll continue to be unwholesomely manifested and wholesomely unmanifest.",
+        "source": "T31n1606_006:0723b14_0"
+    },
+    {
+        "source_sentence": "於何位結。",
+        "translation": "At what level are they bound?",
+        "source": "T31n1606_006:0723b14_1"
+    },
+    {
+        "source_sentence": "謂於後世苦果生位。",
+        "translation": "It's when the painful fruit of suffering arises in later lives.",
+        "source": "T31n1606_006:0723b14_2"
+    },
+    {
+        "source_sentence": "如是恚結等並如理應知。",
+        "translation": "Thus, such bonds of anger and so forth should be understood in accordance with principle.",
+        "source": "T31n1606_006:0723b15_3"
+    },
+    {
+        "source_sentence": "恚結者。",
+        "translation": "The bond of anger refers to the three kinds of afflictions.",
+        "source": "T31n1606_006:0723b16_0"
+    },
+    {
+        "source_sentence": "謂於有情苦及順苦法心有損害。",
+        "translation": "It means that there's harmfulness in the mind of sentient beings who suffer pain and those who follow painful dharmas.",
+        "source": "T31n1606_006:0723b16_1"
+    },
+    {
+        "source_sentence": "恚結所繫故。",
+        "translation": "It's because they're bound by the bond of anger.",
+        "source": "T31n1606_006:0723b16_2"
+    },
+    {
+        "source_sentence": "於恚境相心不棄捨。",
+        "translation": "The mind doesn't abandon the mark of debilitating objects.",
+        "source": "T31n1606_006:0723b17_3"
+    },
+    {
+        "source_sentence": "不棄捨故廣行不善不行諸善。",
+        "translation": "Because he doesn't abandon it, he extensively practices unwholesomeness and doesn't practice wholesomeness.",
+        "source": "T31n1606_006:0723b17_4"
+    },
+    {
+        "source_sentence": "由此能招未來世苦與苦相應。",
+        "translation": "As a result, it's able to bring about suffering in future lives that's associated with suffering.",
+        "source": "T31n1606_006:0723b18_5"
+    },
+    {
+        "source_sentence": "慢結者。",
+        "translation": "The bond of conceit...",
+        "source": "T31n1606_006:0723b20_0"
+    },
+    {
+        "source_sentence": "即七慢。",
+        "translation": "These are the seven kinds of conceit.",
+        "source": "T31n1606_006:0723b20_1"
+    },
+    {
+        "source_sentence": "謂慢過慢慢過慢我慢增上慢下劣慢邪慢。",
+        "translation": "They are conceit, pride, faults, slowness, mistaken conceit, self-conceit, superior conceit, inferior conceit, and wrong conceit.",
+        "source": "T31n1606_006:0723b20_2"
+    },
+    {
+        "source_sentence": "慢者。",
+        "translation": "An arrogant.",
+        "source": "T31n1606_006:0723b21_3"
+    },
+    {
+        "source_sentence": "謂於下劣計己為勝。",
+        "translation": "It means to think of yourself as superior when you're inferior.",
+        "source": "T31n1606_006:0723b21_4"
+    },
+    {
+        "source_sentence": "或於相似計己相似。",
+        "translation": "Perhaps they imagine themselves to be similar in terms of similarity.",
+        "source": "T31n1606_006:0723b21_5"
+    },
+    {
+        "source_sentence": "心舉為性。",
+        "translation": "The mind is cited as its nature.",
+        "source": "T31n1606_006:0723b22_6"
+    },
+    {
+        "source_sentence": "過慢者。",
+        "translation": "The one who's overly conceited...",
+        "source": "T31n1606_006:0723b22_7"
+    },
+    {
+        "source_sentence": "謂於相似計己為勝。",
+        "translation": "It means to think of yourself as superior in terms of similarity.",
+        "source": "T31n1606_006:0723b22_8"
+    },
+    {
+        "source_sentence": "或復於勝計己相似。",
+        "translation": "Perhaps they might also imagine themselves to be similar in their superiority.",
+        "source": "T31n1606_006:0723b23_9"
+    },
+    {
+        "source_sentence": "心舉為性。",
+        "translation": "The mind is cited as its nature.",
+        "source": "T31n1606_006:0723b23_10"
+    },
+    {
+        "source_sentence": "慢過慢者。",
+        "translation": "The conceit is overweening the conceit.",
+        "source": "T31n1606_006:0723b24_0"
+    },
+    {
+        "source_sentence": "謂於勝己計己為勝。",
+        "translation": "It means to think of yourself as superior when you're superior to yourself.",
+        "source": "T31n1606_006:0723b24_1"
+    },
+    {
+        "source_sentence": "心舉為性。",
+        "translation": "The mind is cited as its nature.",
+        "source": "T31n1606_006:0723b24_2"
+    },
+    {
+        "source_sentence": "我慢者。",
+        "translation": "The conceit of self...",
+        "source": "T31n1606_006:0723b24_3"
+    },
+    {
+        "source_sentence": "於五取蘊觀我我所。",
+        "translation": "In the five appropriated aggregates, he observes self and what belongs to self.",
+        "source": "T31n1606_006:0723b25_4"
+    },
+    {
+        "source_sentence": "心舉為性。",
+        "translation": "The mind is cited as its nature.",
+        "source": "T31n1606_006:0723b25_5"
+    },
+    {
+        "source_sentence": "增上慢者。",
+        "translation": "He's overweeningly conceited.",
+        "source": "T31n1606_006:0723b25_6"
+    },
+    {
+        "source_sentence": "謂於未得上勝證法計己已得上勝證法。",
+        "translation": "It means that someone who hasn't yet attained the superior realization of the teaching imagines that they've already attained the superior realization of the teaching.",
+        "source": "T31n1606_006:0723b26_7"
+    },
+    {
+        "source_sentence": "心舉為性。",
+        "translation": "The mind is cited as its nature.",
+        "source": "T31n1606_006:0723b27_0"
+    },
+    {
+        "source_sentence": "下劣慢者。",
+        "translation": "The conceit of inferiority...",
+        "source": "T31n1606_006:0723b27_1"
+    },
+    {
+        "source_sentence": "謂於多分勝計己少分劣。",
+        "translation": "They are those who think themselves to be superior in many ways and inferior in a few ways.",
+        "source": "T31n1606_006:0723b27_2"
+    },
+    {
+        "source_sentence": "心舉為性。",
+        "translation": "The mind is cited as its nature.",
+        "source": "T31n1606_006:0723b28_3"
+    },
+    {
+        "source_sentence": "邪慢者。",
+        "translation": "Wrong conceit is this.",
+        "source": "T31n1606_006:0723b28_4"
+    },
+    {
+        "source_sentence": "謂實無德計己有德。",
+        "translation": "It means that they really lack virtue and imagine themselves to have virtue.",
+        "source": "T31n1606_006:0723b28_5"
+    },
+    {
+        "source_sentence": "心舉為性。",
+        "translation": "The mind is cited as its nature.",
+        "source": "T31n1606_006:0723b29_0"
+    },
+    {
+        "source_sentence": "慢結所繫故。",
+        "translation": "It's because it's bound by the bond of conceit.",
+        "source": "T31n1606_006:0723b29_1"
+    },
+    {
+        "source_sentence": "於我我所不能了知。",
+        "translation": "They can't know about self and what belongs to self.",
+        "source": "T31n1606_006:0723b29_2"
+    },
+    {
+        "source_sentence": "不了知故執我我所。",
+        "translation": "Because they don't know it, they cling to self and what belongs to self.",
+        "source": "T31n1606_006:0723c01_0"
+    },
+    {
+        "source_sentence": "廣行不善不行諸善。",
+        "translation": "He widely practices what's unwholesome and doesn't practice what's wholesome.",
+        "source": "T31n1606_006:0723c01_1"
+    },
+    {
+        "source_sentence": "由此能招未來世苦與苦相應。",
+        "translation": "As a result, it's able to bring about suffering in future lives that's associated with suffering.",
+        "source": "T31n1606_006:0723c01_2"
+    },
+    {
+        "source_sentence": "無明結者。",
+        "translation": "The bond of nescience is this.",
+        "source": "T31n1606_006:0723c03_0"
+    },
+    {
+        "source_sentence": "謂三界無智。",
+        "translation": "It means the three realms lack cognition.",
+        "source": "T31n1606_006:0723c03_1"
+    },
+    {
+        "source_sentence": "無明結所繫故。",
+        "translation": "It's because it's bound by the bond of nescience.",
+        "source": "T31n1606_006:0723c03_2"
+    },
+    {
+        "source_sentence": "於苦法集法不能解了。",
+        "translation": "They can't understand the Dharma of suffering and the Dharma of accumulation.",
+        "source": "T31n1606_006:0723c03_3"
+    },
+    {
+        "source_sentence": "不解了故廣行不善不行諸善。",
+        "translation": "Because they don't understand it, they extensively practice unwholesomeness and don't practice wholesomeness.",
+        "source": "T31n1606_006:0723c04_4"
+    },
+    {
+        "source_sentence": "由此能招未來世苦與苦相應。",
+        "translation": "As a result, it's able to bring about suffering in future lives that's associated with suffering.",
+        "source": "T31n1606_006:0723c05_5"
+    },
+    {
+        "source_sentence": "於苦集法不解了者。",
+        "translation": "Those who don't understand the teaching of suffering and accumulation.",
+        "source": "T31n1606_006:0723c05_6"
+    },
+    {
+        "source_sentence": "謂於果性因性有漏諸行。",
+        "translation": "It's the contaminated conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned conditioned condition",
+        "source": "T31n1606_006:0723c06_7"
+    },
+    {
+        "source_sentence": "所有過患不了知故。",
+        "translation": "It's because they don't know all the faults and distress that exist.",
+        "source": "T31n1606_006:0723c06_8"
+    },
+    {
+        "source_sentence": "見結者。",
+        "translation": "The bond of views...",
+        "source": "T31n1606_006:0723c08_0"
+    },
+    {
+        "source_sentence": "即三見。",
+        "translation": "These are the three views.",
+        "source": "T31n1606_006:0723c08_1"
+    },
+    {
+        "source_sentence": "謂薩迦耶見邊執見邪見。",
+        "translation": "It's a mistaken view of the view of attachment to views at the extremes of the view of sarvaya.",
+        "source": "T31n1606_006:0723c08_2"
+    },
+    {
+        "source_sentence": "見結所繫故。",
+        "translation": "It's because it's bound by the bond of views.",
+        "source": "T31n1606_006:0723c08_3"
+    },
+    {
+        "source_sentence": "於邪出離妄計追求。",
+        "translation": "He's pursuing the falsely imagined pursuit of freedom from what's wrong.",
+        "source": "T31n1606_006:0723c09_4"
+    },
+    {
+        "source_sentence": "謂我當解脫我所解脫。",
+        "translation": "It means that I will be liberated, and what belongs to me is liberated.",
+        "source": "T31n1606_006:0723c09_5"
+    },
+    {
+        "source_sentence": "既解脫已我當常住。",
+        "translation": "Once liberated, I will always abide.",
+        "source": "T31n1606_006:0723c10_6"
+    },
+    {
+        "source_sentence": "或當斷滅。",
+        "translation": "Perhaps they'll be eliminated.",
+        "source": "T31n1606_006:0723c10_7"
+    },
+    {
+        "source_sentence": "又謂佛法中定無解脫。",
+        "translation": "It's also said that there's definitely no liberation in the Buddha's teaching.",
+        "source": "T31n1606_006:0723c10_8"
+    },
+    {
+        "source_sentence": "如是執著邪出離已。",
+        "translation": "Thus, after he's freed himself from attachment to what's wrong and liberated himself.",
+        "source": "T31n1606_006:0723c11_9"
+    },
+    {
+        "source_sentence": "廣行不善不行諸善。",
+        "translation": "He widely practices what's unwholesome and doesn't practice what's wholesome.",
+        "source": "T31n1606_006:0723c11_10"
+    },
+    {
+        "source_sentence": "由此能招未來世苦與苦相應。",
+        "translation": "As a result, it's able to bring about suffering in future lives that's associated with suffering.",
+        "source": "T31n1606_006:0723c12_11"
+    },
+    {
+        "source_sentence": "取結者。",
+        "translation": "The bond of grasping refers to this.",
+        "source": "T31n1606_006:0723c14_0"
+    },
+    {
+        "source_sentence": "謂見取戒禁取。",
+        "translation": "It's the view that views are grasped, precepts are forbidden, and attachment is prohibited.",
+        "source": "T31n1606_006:0723c14_1"
+    },
+    {
+        "source_sentence": "取結所繫故。",
+        "translation": "It's because they're bound by the bond of grasping.",
+        "source": "T31n1606_006:0723c14_2"
+    },
+    {
+        "source_sentence": "於邪出離方便妄計執著。",
+        "translation": "They falsely conceptualize and cling to the method of liberation from error.",
+        "source": "T31n1606_006:0723c14_3"
+    },
+    {
+        "source_sentence": "棄捨八聖支道。",
+        "translation": "They abandon the eight noble factors of the path.",
+        "source": "T31n1606_006:0723c15_4"
+    },
+    {
+        "source_sentence": "妄執薩迦耶見等。",
+        "translation": "They falsely cling to the view of saṃkāya and so forth.",
+        "source": "T31n1606_006:0723c15_5"
+    },
+    {
+        "source_sentence": "及彼為先若戒若禁為清淨道。",
+        "translation": "It's the pure path that precedes them, whether it's precepts or prohibitions.",
+        "source": "T31n1606_006:0723c16_6"
+    },
+    {
+        "source_sentence": "以妄執著邪出離方便故。",
+        "translation": "It's because they falsely cling to the method of liberation from error.",
+        "source": "T31n1606_006:0723c16_7"
+    },
+    {
+        "source_sentence": "廣行不善不行諸善。",
+        "translation": "He widely practices what's unwholesome and doesn't practice what's wholesome.",
+        "source": "T31n1606_006:0723c17_8"
+    },
+    {
+        "source_sentence": "由此能招未來世苦與苦相應。",
+        "translation": "As a result, it's able to bring about suffering in future lives that's associated with suffering.",
+        "source": "T31n1606_006:0723c17_9"
+    },
+    {
+        "source_sentence": "疑結者。",
+        "translation": "The bond of doubt...",
+        "source": "T31n1606_006:0723c19_0"
+    },
+    {
+        "source_sentence": "謂於諦猶豫。",
+        "translation": "It means hesitation about the truths.",
+        "source": "T31n1606_006:0723c19_1"
+    },
+    {
+        "source_sentence": "疑結所繫故。",
+        "translation": "It's because it's bound by the bond of doubt.",
+        "source": "T31n1606_006:0723c19_2"
+    },
+    {
+        "source_sentence": "於佛法僧寶妄生疑惑。",
+        "translation": "They falsely give rise to doubts about the treasures of buddhas, Dharma, and saṃgha.",
+        "source": "T31n1606_006:0723c19_3"
+    },
+    {
+        "source_sentence": "以疑惑故於三寶所不修正行。",
+        "translation": "Because of doubt and confusion, they don't cultivate practices that aren't cultivated by the Three Treasures.",
+        "source": "T31n1606_006:0723c20_4"
+    },
+    {
+        "source_sentence": "以於三寶所不修正行故。",
+        "translation": "It's because they don't cultivate the practice of the Three Treasures.",
+        "source": "T31n1606_006:0723c21_5"
+    },
+    {
+        "source_sentence": "廣行不善不行諸善。",
+        "translation": "He widely practices what's unwholesome and doesn't practice what's wholesome.",
+        "source": "T31n1606_006:0723c21_6"
+    },
+    {
+        "source_sentence": "由此能招未來世苦與苦相應。",
+        "translation": "As a result, it's able to bring about suffering in future lives that's associated with suffering.",
+        "source": "T31n1606_006:0723c22_7"
+    },
+    {
+        "source_sentence": "嫉結者。",
+        "translation": "The bond of jealousy...",
+        "source": "T31n1606_006:0723c23_0"
+    },
+    {
+        "source_sentence": "謂耽著利養不耐他榮發起心妬。",
+        "translation": "They are those who cling to profit and don't tolerate the prosperity of others and give rise to mental anger.",
+        "source": "T31n1606_006:0723c23_1"
+    },
+    {
+        "source_sentence": "嫉結所繫故愛重利養不尊敬法。",
+        "translation": "Because they're bound by the bond of jealousy, they crave profit and don't respect the Dharma.",
+        "source": "T31n1606_006:0723c23_2"
+    },
+    {
+        "source_sentence": "重利養故廣行不善不行諸善。",
+        "translation": "Because it's heavily profited, he extensively practices unwholesomeness and doesn't practice wholesomeness.",
+        "source": "T31n1606_006:0723c24_3"
+    },
+    {
+        "source_sentence": "由此能招未來世苦與苦相應。",
+        "translation": "As a result, it's able to bring about suffering in future lives that's associated with suffering.",
+        "source": "T31n1606_006:0723c25_4"
+    },
+    {
+        "source_sentence": "慳結者。",
+        "translation": "The fetter of stinginess...",
+        "source": "T31n1606_006:0723c27_0"
+    },
+    {
+        "source_sentence": "耽著利養於資生具其心悋惜。",
+        "translation": "They're addicted to profit and support, and their minds are stingy with the necessities of life.",
+        "source": "T31n1606_006:0723c27_1"
+    },
+    {
+        "source_sentence": "慳結所繫故。",
+        "translation": "It's because they're bound by the bond of stinginess.",
+        "source": "T31n1606_006:0723c27_2"
+    },
+    {
+        "source_sentence": "愛重畜積不尊遠離。",
+        "translation": "He loves the accumulation of animals and doesn't venerate those who are far removed.",
+        "source": "T31n1606_006:0723c28_3"
+    },
+    {
+        "source_sentence": "重畜積故廣行不善不行諸善。",
+        "translation": "Because it's heavily accumulated, it extensively practices unwholesomeness and doesn't practice wholesomeness.",
+        "source": "T31n1606_006:0723c28_4"
+    },
+    {
+        "source_sentence": "由此能招未來世苦與苦相應。",
+        "translation": "As a result, it's able to bring about suffering in future lives that's associated with suffering.",
+        "source": "T31n1606_006:0723c29_5"
+    },
+    {
+        "source_sentence": "縛有三種。",
+        "translation": "There are three kinds of fetters.",
+        "source": "T31n1606_006:0724a02_0"
+    },
+    {
+        "source_sentence": "謂貪縛瞋縛癡縛。",
+        "translation": "They are the fetters of craving, the fetters of anger, and the fetters of delusion.",
+        "source": "T31n1606_006:0724a02_1"
+    },
+    {
+        "source_sentence": "由貪縛故縛諸眾生令處壞苦。",
+        "translation": "It's because of the bond of craving that it binds sentient beings and causes them to experience the pain of place destruction.",
+        "source": "T31n1606_006:0724a02_2"
+    },
+    {
+        "source_sentence": "由瞋縛故縛諸眾生令處苦苦。",
+        "translation": "It's because of the bond of anger that they bind sentient beings and cause them to experience suffering and suffering.",
+        "source": "T31n1606_006:0724a03_3"
+    },
+    {
+        "source_sentence": "由癡縛故縛諸眾生令處行苦。",
+        "translation": "It's because of the bond of delusion that they bind sentient beings and cause them to experience suffering in places.",
+        "source": "T31n1606_006:0724a04_4"
+    },
+    {
+        "source_sentence": "由貪等縛縛處壞苦等者。",
+        "translation": "It's because of the binding place of craving and so forth, which destroys suffering and so forth.",
+        "source": "T31n1606_006:0724a04_5"
+    },
+    {
+        "source_sentence": "以貪瞋癡於樂等受常隨眠故。",
+        "translation": "It's because craving, anger, and delusion always follow dormancy in pleasure and so forth.",
+        "source": "T31n1606_006:0724a05_6"
+    },
+    {
+        "source_sentence": "又依貪瞋癡故。",
+        "translation": "It's also because they rely on craving, anger, and delusion.",
+        "source": "T31n1606_006:0724a06_7"
+    },
+    {
+        "source_sentence": "於善方便不得自在故名為縛。",
+        "translation": "Because they don't attain mastery over good skillful means, they're called fetters.",
+        "source": "T31n1606_006:0724a06_8"
+    },
+    {
+        "source_sentence": "猶如外縛縛諸眾生。",
+        "translation": "It's like being bound by external bonds that bind sentient beings.",
+        "source": "T31n1606_006:0724a07_9"
+    },
+    {
+        "source_sentence": "令於二事不得自在。",
+        "translation": "It causes them not to attain mastery over two things.",
+        "source": "T31n1606_006:0724a07_10"
+    },
+    {
+        "source_sentence": "一者不得隨意遊行。",
+        "translation": "One, they mustn't travel as they wish.",
+        "source": "T31n1606_006:0724a08_11"
+    },
+    {
+        "source_sentence": "二者於所住處不得隨意所作。",
+        "translation": "Two, they can't do anything as they wish in the place where they live.",
+        "source": "T31n1606_006:0724a08_12"
+    },
+    {
+        "source_sentence": "當知內法貪瞋癡縛亦復如是。",
+        "translation": "You should know that the internal fetters of greed, anger, and delusion are likewise.",
+        "source": "T31n1606_006:0724a09_13"
+    },
+    {
+        "source_sentence": "隨眠有七種。",
+        "translation": "There are seven kinds of latent defilements:",
+        "source": "T31n1606_006:0724a10_0"
+    },
+    {
+        "source_sentence": "謂欲愛隨眠瞋恚隨眠有愛隨眠慢隨眠無明隨眠見隨眠疑隨眠。",
+        "translation": "They are the latent tendencies of desire, the latent tendencies of anger, the latent tendencies of craving, and the latent tendencies of pride.",
+        "source": "T31n1606_006:0724a10_1"
+    },
+    {
+        "source_sentence": "欲愛隨眠者。",
+        "translation": "Those who are addicted to desire and latent dormancy...",
+        "source": "T31n1606_006:0724a11_2"
+    },
+    {
+        "source_sentence": "謂欲貪品麁重。",
+        "translation": "They are the debilitating hindrances of the category of desire and craving.",
+        "source": "T31n1606_006:0724a12_3"
+    },
+    {
+        "source_sentence": "瞋恚隨眠者。",
+        "translation": "The latent tendencies of anger...",
+        "source": "T31n1606_006:0724a12_4"
+    },
+    {
+        "source_sentence": "謂瞋恚品麁重。",
+        "translation": "It's the debilitating weakness of the category of anger.",
+        "source": "T31n1606_006:0724a12_5"
+    },
+    {
+        "source_sentence": "有愛隨眠者。",
+        "translation": "There are those who have cravings and latent tendencies.",
+        "source": "T31n1606_006:0724a13_6"
+    },
+    {
+        "source_sentence": "謂色無色貪品麁重。",
+        "translation": "It's the debilitating aspect of form and formless craving.",
+        "source": "T31n1606_006:0724a13_7"
+    },
+    {
+        "source_sentence": "慢隨眠者。",
+        "translation": "He's conceited about the latent tendencies.",
+        "source": "T31n1606_006:0724a13_8"
+    },
+    {
+        "source_sentence": "謂慢品麁重。",
+        "translation": "It's the debilitating aspect of conceit.",
+        "source": "T31n1606_006:0724a14_9"
+    },
+    {
+        "source_sentence": "無明隨眠者。",
+        "translation": "They are the latent tendencies of nescience.",
+        "source": "T31n1606_006:0724a14_10"
+    },
+    {
+        "source_sentence": "謂無明品麁重。",
+        "translation": "It's the debilitating weakness of the category of nescience.",
+        "source": "T31n1606_006:0724a14_11"
+    },
+    {
+        "source_sentence": "見隨眠者。",
+        "translation": "Those who see latent tendencies...",
+        "source": "T31n1606_006:0724a15_12"
+    },
+    {
+        "source_sentence": "謂見品麁重。",
+        "translation": "It's the debilitating aspect of views.",
+        "source": "T31n1606_006:0724a15_13"
+    },
+    {
+        "source_sentence": "疑隨眠者。",
+        "translation": "Those who doubt the latent tendencies...",
+        "source": "T31n1606_006:0724a15_14"
+    },
+    {
+        "source_sentence": "謂疑品麁重。",
+        "translation": "It's the debilitating aspect of doubt.",
+        "source": "T31n1606_006:0724a15_15"
+    },
+    {
+        "source_sentence": "若未離欲求者由欲愛瞋恚隨眠之所隨眠。",
+        "translation": "If someone who hasn't yet parted with desire and seeks, it's because of the latent tendencies of desire, craving, anger, and subsequent dormancy.",
+        "source": "T31n1606_006:0724a16_16"
+    },
+    {
+        "source_sentence": "由依彼門此二增長故。",
+        "translation": "It's because they rely on those approaches to these two kinds of growth.",
+        "source": "T31n1606_006:0724a17_17"
+    },
+    {
+        "source_sentence": "未離有求者由有愛隨眠之所隨眠。",
+        "translation": "Those who haven't yet parted with the pursuit of existence are caused by the latencies that follow craving and latencies that follow dormancy.",
+        "source": "T31n1606_006:0724a17_18"
+    },
+    {
+        "source_sentence": "未離邪梵行求者由慢無明見疑隨眠之所隨眠。",
+        "translation": "Those who haven't yet parted with wrong religious practice and seek it are the latent tendencies of conceit, ignorance, views, doubt, and latent tendencies that follow dormancy.",
+        "source": "T31n1606_006:0724a18_19"
+    },
+    {
+        "source_sentence": "由彼眾生得少對治。",
+        "translation": "It's because those sentient beings attain little antidote.",
+        "source": "T31n1606_006:0724a19_20"
+    },
+    {
+        "source_sentence": "便生憍慢。",
+        "translation": "They'll then become arrogant and conceited.",
+        "source": "T31n1606_006:0724a20_21"
+    },
+    {
+        "source_sentence": "愚於聖諦。",
+        "translation": "Foolishly, it's in the noble truth.",
+        "source": "T31n1606_006:0724a20_22"
+    },
+    {
+        "source_sentence": "虛妄計度外邪解脫解脫方便。",
+        "translation": "They falsely conceptualize the method of liberation and liberation from wrong external liberation.",
+        "source": "T31n1606_006:0724a20_23"
+    },
+    {
+        "source_sentence": "隨其次第三見二取。",
+        "translation": "It follows the second and third views of the two grasping attachments.",
+        "source": "T31n1606_006:0724a21_24"
+    },
+    {
+        "source_sentence": "如結中說。",
+        "translation": "It's as explained in the fetters.",
+        "source": "T31n1606_006:0724a21_25"
+    },
+    {
+        "source_sentence": "於佛聖教正法毘柰耶中。",
+        "translation": "In the Buddha's noble teaching, the correct teaching of the Dharma is in Vaiśravaṇa.",
+        "source": "T31n1606_006:0724a22_26"
+    },
+    {
+        "source_sentence": "猶豫疑惑。",
+        "translation": "They hesitate and doubt.",
+        "source": "T31n1606_006:0724a22_27"
+    },
+    {
+        "source_sentence": "大乘阿毘達磨雜集論卷第六",
+        "translation": "Mahāyāna Abhidharma-mahāvibhāga-śāstra, vol. 6",
+        "source": "T31n1606_006:0724a23_0"
+    }
+]

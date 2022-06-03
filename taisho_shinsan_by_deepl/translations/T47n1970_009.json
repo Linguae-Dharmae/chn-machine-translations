@@ -1,0 +1,4352 @@
+[
+    {
+        "source_sentence": "龍舒增廣淨土文卷第九",
+        "translation": "Long shu zengguang jingtu wen roll 9",
+        "source": "T47n1970_009:0278a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "國學進士王日休譔",
+        "translation": "Wang Rixiu, a scholar of national studies",
+        "source": "T47n1970_009:0278a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十六觀經云。",
+        "translation": "The sixteen contemplations sūtra says.",
+        "source": "T47n1970_009:0278a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上品上生者。",
+        "translation": "\"A person of the highest quality is born above.",
+        "source": "T47n1970_009:0278a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "讀誦大乘經典。",
+        "translation": "He reads the great vehicle scriptures.",
+        "source": "T47n1970_009:0278a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "解第一義。",
+        "translation": "They understand the supreme truth.",
+        "source": "T47n1970_009:0278a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然則修上品者佛之深旨不可不知。",
+        "translation": "Still, someone who cultivates the higher level shouldn't be unaware of the Buddha's profound teaching.",
+        "source": "T47n1970_009:0278a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今淺者尚不能知。",
+        "translation": "Those who are shallow today still can't know it.",
+        "source": "T47n1970_009:0278a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況其深乎。",
+        "translation": "How could it be possible for them to know the profound?",
+        "source": "T47n1970_009:0278a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此卷自淺及深切於日用者皆載焉。",
+        "translation": "Therefore, this volume contains both the shallow and the profound for daily use.",
+        "source": "T47n1970_009:0278a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名曰助修上品。",
+        "translation": "It's called \"Assisting the Cultivation of the Higher Level.",
+        "source": "T47n1970_009:0278a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "習說",
+        "translation": "Practice and Explanation",
+        "source": "T47n1970_009:0278a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孔子化三千之徒。",
+        "translation": "Confucius converted 3,000 disciples.",
+        "source": "T47n1970_009:0278a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其要旨不出一部論語。",
+        "translation": "The gist of it didn't come from a single treatise.",
+        "source": "T47n1970_009:0278a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而首以學而時習之一句。",
+        "translation": "Instead, he began with the phrase \"learn and practice at the right time.",
+        "source": "T47n1970_009:0278a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則此一句之義豈不為急先務哉。",
+        "translation": "Isn't the meaning of this phrase an urgent priority?",
+        "source": "T47n1970_009:0278a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蓋學者學其為君子為聖人。",
+        "translation": "A scholar learns to be a gentleman and a sage.",
+        "source": "T47n1970_009:0278a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "習者如習射習儀之習。",
+        "translation": "To train them is like training in archery and training in manners.",
+        "source": "T47n1970_009:0278a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "學君子聖人者不可驟爾而至。",
+        "translation": "A learner who trains a gentleman and a sage can't attain them suddenly.",
+        "source": "T47n1970_009:0278b01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故必以時而漸習之。",
+        "translation": "Therefore, he must gradually train them with time.",
+        "source": "T47n1970_009:0278b02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若學寬大。",
+        "translation": "If he learns generosity, he'll train it when he's narrow.",
+        "source": "T47n1970_009:0278b02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則於褊隘時習之。",
+        "translation": "He'll train them when he's narrow-minded.",
+        "source": "T47n1970_009:0278b02_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若學溫和。",
+        "translation": "If he trains in gentleness, he'll train it when he's angry.",
+        "source": "T47n1970_009:0278b03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則於忿怒時習之。",
+        "translation": "He'll train them when he's angry.",
+        "source": "T47n1970_009:0278b03_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若學恭敬。",
+        "translation": "If he trains in respect, he'll train it when he's arrogant.",
+        "source": "T47n1970_009:0278b03_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則於傲慢時習之。",
+        "translation": "Train them when they're arrogant.",
+        "source": "T47n1970_009:0278b04_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若學良善。",
+        "translation": "If someone trains well, they'll train when they're mean.",
+        "source": "T47n1970_009:0278b04_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則於狼戾時習之。",
+        "translation": "Train them when they're wicked.",
+        "source": "T47n1970_009:0278b04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若學辭讓。",
+        "translation": "If he trains in resignation, he'll train it when he's angry.",
+        "source": "T47n1970_009:0278b05_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則於忿爭時習之。",
+        "translation": "Then he'll train them when he's angry.",
+        "source": "T47n1970_009:0278b05_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若學勤敏。",
+        "translation": "If he trains in diligence, he'll train it when he's lazy.",
+        "source": "T47n1970_009:0278b05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則於懈怠時習之。",
+        "translation": "He then trains them when he's lazy.",
+        "source": "T47n1970_009:0278b06_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然則所謂時習者。",
+        "translation": "Of course, this is called timely training.",
+        "source": "T47n1970_009:0278b06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當其事之時而習則不虛習矣。",
+        "translation": "When he trains at the right time for his task, then his training won't be in vain.",
+        "source": "T47n1970_009:0278b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其習必成。",
+        "translation": "Their practice will surely succeed.",
+        "source": "T47n1970_009:0278b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成則自有可喜。",
+        "translation": "When it's accomplished, there's something to like about it.",
+        "source": "T47n1970_009:0278b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故曰不亦悅乎。",
+        "translation": "Therefore, it's called \"pleasant,\" isn't it?",
+        "source": "T47n1970_009:0278b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能悟此理。",
+        "translation": "When he can understand this principle, then all the goodness mentioned in the treatises can be exhausted.",
+        "source": "T47n1970_009:0278b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則盡論語中所言之善皆可以盡。",
+        "translation": "Then the goodness described in all the treatises can be exhausted.",
+        "source": "T47n1970_009:0278b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是知。",
+        "translation": "This is clear.",
+        "source": "T47n1970_009:0278b09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此一句冠于一書之首者深有意也。",
+        "translation": "He who places this phrase at the top of a book has a deep intention.",
+        "source": "T47n1970_009:0278b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修西方而進乎道者尤貴乎習。",
+        "translation": "It's especially valuable for those who cultivate the West and advance on the path to practice.",
+        "source": "T47n1970_009:0278b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此不可不知。",
+        "translation": "Therefore, this mustn't be ignored.",
+        "source": "T47n1970_009:0278b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "葛守利人說",
+        "translation": "Kashgar Shouliren said.",
+        "source": "T47n1970_009:0278b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大觀間一官員買靴於京師市中。",
+        "translation": "During the period of the Great Observatory, an official was shopping for boots in the capital's market.",
+        "source": "T47n1970_009:0278b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見一靴甚大。",
+        "translation": "He saw a boot that was very large.",
+        "source": "T47n1970_009:0278b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃其父送葬者。",
+        "translation": "It was his father's funeral director.",
+        "source": "T47n1970_009:0278b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問其所得之由。",
+        "translation": "He asked him how he got it.",
+        "source": "T47n1970_009:0278b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答云。",
+        "translation": "He replied.",
+        "source": "T47n1970_009:0278b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一官員携來修整。",
+        "translation": "An official brought it here to fix it.",
+        "source": "T47n1970_009:0278b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何時來取。",
+        "translation": "He asked when he would pick it up.",
+        "source": "T47n1970_009:0278b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂往候之。",
+        "translation": "So he went and waited for him.",
+        "source": "T47n1970_009:0278b15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "果見其父下馬留錢取靴。",
+        "translation": "When he did, he saw his father dismount and leave money for his boots.",
+        "source": "T47n1970_009:0278b15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其子拜。",
+        "translation": "His son paid homage.",
+        "source": "T47n1970_009:0278b16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不顧復乘馬去。",
+        "translation": "He ignored him and rode off again.",
+        "source": "T47n1970_009:0278b16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其子追隨二三里許將不及。",
+        "translation": "His son followed him for two or three miles or so, and he was about to miss him.",
+        "source": "T47n1970_009:0278b16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃呼曰。",
+        "translation": "He then called out to him, \"We were born father and son.",
+        "source": "T47n1970_009:0278b17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我與父生為父子。",
+        "translation": "\"My father and I were born as father and son.",
+        "source": "T47n1970_009:0278b17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何無一言以教我。",
+        "translation": "Why don't you have a single word to teach me?",
+        "source": "T47n1970_009:0278b18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其父曰。",
+        "translation": "His father said.",
+        "source": "T47n1970_009:0278b18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "學葛繁。",
+        "translation": "'Study Gefan.'",
+        "source": "T47n1970_009:0278b18_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問。",
+        "translation": "He asked.",
+        "source": "T47n1970_009:0278b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "葛何人。",
+        "translation": "\"Who's Ge?",
+        "source": "T47n1970_009:0278b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曰。",
+        "translation": "He said.",
+        "source": "T47n1970_009:0278b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間人。",
+        "translation": "He's from the world.",
+        "source": "T47n1970_009:0278b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂訪問所在。",
+        "translation": "He then visited his place.",
+        "source": "T47n1970_009:0278b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其時為鎮江大守。",
+        "translation": "At the time, he was the governor of Zhenjiang.",
+        "source": "T47n1970_009:0278b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃往見之言其故。",
+        "translation": "He went to see him and told him why.",
+        "source": "T47n1970_009:0278b20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且問。",
+        "translation": "He also asked.",
+        "source": "T47n1970_009:0278b20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "葛何以見重於幽冥如此。",
+        "translation": "\"How did he come to see that he was so reverential to the darkness?",
+        "source": "T47n1970_009:0278b20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "He replied.",
+        "source": "T47n1970_009:0278b21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "予始者日行一利人事。",
+        "translation": "\"At first, I did one thing to improve people's livelihood each day.",
+        "source": "T47n1970_009:0278b21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其次行二事。",
+        "translation": "Next, I did two things.",
+        "source": "T47n1970_009:0278b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又其次行三事。",
+        "translation": "Next, I'll do three things.",
+        "source": "T47n1970_009:0278b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或至十事。",
+        "translation": "Perhaps it's up to ten things.",
+        "source": "T47n1970_009:0278b22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "于今四十年。",
+        "translation": "Now, for forty years later, I've been doing it.",
+        "source": "T47n1970_009:0278b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未嘗一日廢。",
+        "translation": "Not a single day has passed since then.",
+        "source": "T47n1970_009:0278b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問。",
+        "translation": "He asked.",
+        "source": "T47n1970_009:0278b23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以利人。",
+        "translation": "\"How does it benefit people?",
+        "source": "T47n1970_009:0278b23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "葛指坐間脚踏子云。",
+        "translation": "Ge pointed to the footrest between his seats and said.",
+        "source": "T47n1970_009:0278b23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若此物置之不正。",
+        "translation": "\"If this thing isn't correctly placed, then...",
+        "source": "T47n1970_009:0278b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則蹙人足。",
+        "translation": "It will wrinkle your feet.",
+        "source": "T47n1970_009:0278b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "予為正之。",
+        "translation": "I corrected it for you.",
+        "source": "T47n1970_009:0278b24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦利人事也。",
+        "translation": "It'll also benefit people.",
+        "source": "T47n1970_009:0278b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又若人渴。",
+        "translation": "\"Also, suppose a person is thirsty.",
+        "source": "T47n1970_009:0278b25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "予能飲以一盃水。",
+        "translation": "I can give him a cup of water to drink.",
+        "source": "T47n1970_009:0278b25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦利人事。",
+        "translation": "That's also beneficial to people.",
+        "source": "T47n1970_009:0278b26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惟隨事而利之。",
+        "translation": "I only benefit them according to their situation.",
+        "source": "T47n1970_009:0278b26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上自鄉相下至乞丐。",
+        "translation": "It's available to everyone from the village minister down to the beggar.",
+        "source": "T47n1970_009:0278b26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆可以行。",
+        "translation": "They can all do it.",
+        "source": "T47n1970_009:0278b27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯在乎人而不廢耳。",
+        "translation": "It's only that I care about people and don't let them get away with it.",
+        "source": "T47n1970_009:0278b27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其子拜而退。",
+        "translation": "His son bowed his head and withdrew.",
+        "source": "T47n1970_009:0278b27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "葛後以高壽坐化而去。",
+        "translation": "After he had lived a long life, he sat down and turned away.",
+        "source": "T47n1970_009:0278b28_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀此則利人之事不可不勉。",
+        "translation": "Looking at this, we can't help but strive to do what's good for people.",
+        "source": "T47n1970_009:0278b28_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "害人之事豈可為哉。",
+        "translation": "How could anything harmful to others not be done?",
+        "source": "T47n1970_009:0278b29_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂愛人利物之謂仁者。",
+        "translation": "This is called the kindness of someone who loves people and benefits things.",
+        "source": "T47n1970_009:0278b29_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "葛得之矣。",
+        "translation": "Kāra has attained it.",
+        "source": "T47n1970_009:0278c01_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "葛兼修淨業。",
+        "translation": "He also cultivated pure activities.",
+        "source": "T47n1970_009:0278c01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是迴向。",
+        "translation": "Thus, he dedicates himself back to the Pure Land.",
+        "source": "T47n1970_009:0278c01_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後有僧神遊淨土。",
+        "translation": "Later, a priest traveled to the Pure Land in spirit.",
+        "source": "T47n1970_009:0278c02_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見葛在焉。",
+        "translation": "He saw Ge there.",
+        "source": "T47n1970_009:0278c02_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "施報說",
+        "translation": "He said, \"I'll give you the reward.",
+        "source": "T47n1970_009:0278c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "儒家言施報。",
+        "translation": "Confucians talk about the rewards of generosity.",
+        "source": "T47n1970_009:0278c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛家布施果報其實一也。",
+        "translation": "Buddhists say the rewards of generosity are actually the same.",
+        "source": "T47n1970_009:0278c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言。",
+        "translation": "The Buddha says.",
+        "source": "T47n1970_009:0278c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲得穀食。",
+        "translation": "\"If you want to get food for your family, you must work hard at cultivation.",
+        "source": "T47n1970_009:0278c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當勤耕種。",
+        "translation": "You must work hard to cultivate it.",
+        "source": "T47n1970_009:0278c05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲得智慧。",
+        "translation": "To gain wisdom, you must diligently cultivate it.",
+        "source": "T47n1970_009:0278c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當勤學問。",
+        "translation": "You must diligently study.",
+        "source": "T47n1970_009:0278c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲得長壽。",
+        "translation": "To gain long life, you must diligently refrain from killing.",
+        "source": "T47n1970_009:0278c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當勤戒殺。",
+        "translation": "You must diligently refrain from killing.",
+        "source": "T47n1970_009:0278c06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲得富貴。",
+        "translation": "Those who want to attain wealth and prosperity ...",
+        "source": "T47n1970_009:0278c06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當勤布施。",
+        "translation": "You must diligently give alms.",
+        "source": "T47n1970_009:0278c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有四。",
+        "translation": "There are four of them.",
+        "source": "T47n1970_009:0278c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一曰財施。",
+        "translation": "One is giving of money.",
+        "source": "T47n1970_009:0278c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二曰法施。",
+        "translation": "Second, it's giving of the Dharma.",
+        "source": "T47n1970_009:0278c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三曰無畏施。",
+        "translation": "Three is fearless generosity.",
+        "source": "T47n1970_009:0278c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四曰心施。",
+        "translation": "The fourth is generosity of mind.",
+        "source": "T47n1970_009:0278c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "財施者。",
+        "translation": "\"Giving with possessions is generosity.",
+        "source": "T47n1970_009:0278c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以財惠人。",
+        "translation": "It's bestowing money on others.",
+        "source": "T47n1970_009:0278c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法施者。",
+        "translation": "A donor of the Dharma gives ...",
+        "source": "T47n1970_009:0278c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以善道教人。",
+        "translation": "It's teaching others the good way.",
+        "source": "T47n1970_009:0278c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無畏施者。",
+        "translation": "Fearless giving is when people and sentient beings are afraid.",
+        "source": "T47n1970_009:0278c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂人及眾生當恐懼時。",
+        "translation": "It's when people and sentient beings are afraid.",
+        "source": "T47n1970_009:0278c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾安慰之使無畏。",
+        "translation": "I comfort them so that they'll be fearless.",
+        "source": "T47n1970_009:0278c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或教以脫離恐懼。",
+        "translation": "Or I may teach them to be free of fear.",
+        "source": "T47n1970_009:0278c10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "使之無畏。",
+        "translation": "It makes them fearless.",
+        "source": "T47n1970_009:0278c10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心施者。",
+        "translation": "A donor of gifts from the heart.",
+        "source": "T47n1970_009:0278c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "力雖不能濟物。",
+        "translation": "Even though his strength can't help things, he always maintains the mind to help things.",
+        "source": "T47n1970_009:0278c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常存濟物之心。",
+        "translation": "He always retains the mind to help things.",
+        "source": "T47n1970_009:0278c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛以孝養父母亦為布施。",
+        "translation": "The Buddha said that filial support for one's parents is also generosity.",
+        "source": "T47n1970_009:0278c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡施於外者皆為布施。",
+        "translation": "Whatever is given outwardly is considered generosity.",
+        "source": "T47n1970_009:0278c12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故為下而忠勤事上。",
+        "translation": "Therefore, they serve their superiors faithfully for the sake of their inferiors.",
+        "source": "T47n1970_009:0278c12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為長而仁慈安眾。",
+        "translation": "As a superior, he benevolently pacifies the crowd.",
+        "source": "T47n1970_009:0278c13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為師而謹於教導。",
+        "translation": "As a teacher, he's careful to teach.",
+        "source": "T47n1970_009:0278c13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為友而誠於琢磨。",
+        "translation": "As a friend, he sincerely scrutinizes them.",
+        "source": "T47n1970_009:0278c14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一言一話之間必期有益。",
+        "translation": "Between a word and a phrase, he expects it to be helpful.",
+        "source": "T47n1970_009:0278c14_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一動一止之際必欲無傷。",
+        "translation": "Whenever he moves or stops, he wants to do no harm.",
+        "source": "T47n1970_009:0278c15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種方便利物。",
+        "translation": "He makes every effort to improve things.",
+        "source": "T47n1970_009:0278c15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勿使有所損害。",
+        "translation": "Don't let anything be harmed.",
+        "source": "T47n1970_009:0278c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆布施也。",
+        "translation": "These are all forms of generosity.",
+        "source": "T47n1970_009:0278c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所為如此。",
+        "translation": "This is what they do.",
+        "source": "T47n1970_009:0278c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "存心又如此。",
+        "translation": "This is how he keeps his mind.",
+        "source": "T47n1970_009:0278c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後世豈得不獲富貴之報。",
+        "translation": "How could he not attain the rewards of wealth and prosperity in a later life?",
+        "source": "T47n1970_009:0278c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "古語云。",
+        "translation": "As the old saying goes.",
+        "source": "T47n1970_009:0278c17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人人知道有來年。",
+        "translation": "\"Everyone knows there's a coming year.",
+        "source": "T47n1970_009:0278c17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "家家盡種來年穀。",
+        "translation": "Every family plants as much grain as possible for the coming year.",
+        "source": "T47n1970_009:0278c18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人人知道有來生。",
+        "translation": "Everyone knows there's an afterlife.",
+        "source": "T47n1970_009:0278c18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何不修取來生福。",
+        "translation": "Why doesn't he cultivate the merits of the next life?",
+        "source": "T47n1970_009:0278c19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是今生所受之福乃前世所修者。",
+        "translation": "The merits received in this life were cultivated in a previous life.",
+        "source": "T47n1970_009:0278c19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶今歲所食之穀乃前歲所種者。",
+        "translation": "It's like the grain that's eaten this year that was planted in a previous year.",
+        "source": "T47n1970_009:0278c20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人不能朝種穀而暮食。",
+        "translation": "A person can't plant grain in the morning and eat it in the evening.",
+        "source": "T47n1970_009:0278c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶不能旋修福而即受。",
+        "translation": "It's like not being able to cultivate a blessing and then receive it immediately.",
+        "source": "T47n1970_009:0278c21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以穀必半歲。",
+        "translation": "That's why the grain must be half a year old.",
+        "source": "T47n1970_009:0278c22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "福必隔世也。",
+        "translation": "The blessings must come in alternate lifetimes.",
+        "source": "T47n1970_009:0278c22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孔子謂。",
+        "translation": "Confucius said.",
+        "source": "T47n1970_009:0278c22_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貨惡其棄於地。",
+        "translation": "\"It's disliked that goods are thrown away on the ground.",
+        "source": "T47n1970_009:0278c23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不必藏於己。",
+        "translation": "It doesn't have to be hidden in oneself.",
+        "source": "T47n1970_009:0278c23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "力惡其不出於身。",
+        "translation": "He hates it when his strength doesn't come out of his body.",
+        "source": "T47n1970_009:0278c23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不必為己。",
+        "translation": "It doesn't have to be for oneself.",
+        "source": "T47n1970_009:0278c24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "老子謂。",
+        "translation": "According to Laozi, ...",
+        "source": "T47n1970_009:0278c24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既以為人。",
+        "translation": "\"Since he's a human being, the more he has.",
+        "source": "T47n1970_009:0278c24_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "己愈有。",
+        "translation": "The more he is, the more he has.",
+        "source": "T47n1970_009:0278c24_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既以與人。",
+        "translation": "As he gives to others, the more he has.",
+        "source": "T47n1970_009:0278c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "己愈多。",
+        "translation": "The more you have, the more you'll have.",
+        "source": "T47n1970_009:0278c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆布施之謂。",
+        "translation": "These are called generosity.",
+        "source": "T47n1970_009:0278c25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曾子謂。",
+        "translation": "Zeng Zi said.",
+        "source": "T47n1970_009:0278c25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出乎爾者反乎爾。",
+        "translation": "'What comes out of this is the opposite of this.'",
+        "source": "T47n1970_009:0278c25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "老子云。",
+        "translation": "As Laozi said.",
+        "source": "T47n1970_009:0278c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天道好還。",
+        "translation": "\"The way of heaven is good for returning.",
+        "source": "T47n1970_009:0278c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆果報之謂。",
+        "translation": "These are called the results of rewards.",
+        "source": "T47n1970_009:0278c26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是儒道二教皆言施報。",
+        "translation": "This is because both Confucianism and Daoism speak of the rewards of giving.",
+        "source": "T47n1970_009:0278c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但不言隔世爾。",
+        "translation": "They just don't say it's in a different world.",
+        "source": "T47n1970_009:0278c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂愛人者人常愛之。",
+        "translation": "It's called \"loving people,\" and \"people always love them.",
+        "source": "T47n1970_009:0278c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "敬人者人常敬之。",
+        "translation": "Those who honor others will always be honored by them.",
+        "source": "T47n1970_009:0278c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "災人者人必反災之。",
+        "translation": "When someone is disastrous, people will surely disastrize them in return.",
+        "source": "T47n1970_009:0278c28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆現世之施報也。",
+        "translation": "These are all the rewards of generosity in the present life.",
+        "source": "T47n1970_009:0278c29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知是以修淨土滋培善根多矣。",
+        "translation": "Knowing this is the way to cultivate the pure land nourishes the good roots.",
+        "source": "T47n1970_009:0278c29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至人延年說",
+        "translation": "Zhiren Yannian says...",
+        "source": "T47n1970_009:0279a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "予嘗聞。",
+        "translation": "I've heard it before.",
+        "source": "T47n1970_009:0279a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至人云。",
+        "translation": "\"A very learned person says.",
+        "source": "T47n1970_009:0279a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人生衣食財祿陰司皆有定數。",
+        "translation": "\"There's a set amount of clothing, food, possessions, and affluence in life.",
+        "source": "T47n1970_009:0279a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若儉約不貪則可延壽。",
+        "translation": "If we are frugal and don't crave, then we can live longer.",
+        "source": "T47n1970_009:0279a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "奢侈過求受盡則終。",
+        "translation": "If we are extravagant and go beyond seeking, then we'll end up with it.",
+        "source": "T47n1970_009:0279a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如人有錢一千。",
+        "translation": "It's like a person who has a thousand dollars.",
+        "source": "T47n1970_009:0279a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "日用一百則可十日。",
+        "translation": "Using a hundred a day, it's good for ten days.",
+        "source": "T47n1970_009:0279a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "日用五十可二十日。",
+        "translation": "Spending it fifty times a day gives him twenty days.",
+        "source": "T47n1970_009:0279a05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若恣縱貪侈立見敗亡。",
+        "translation": "If he indulges in lavishness, he'll immediately see his downfall.",
+        "source": "T47n1970_009:0279a06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則若一千之數一日用盡。",
+        "translation": "Then, suppose he uses up that thousand in a single day.",
+        "source": "T47n1970_009:0279a06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可不畏哉。",
+        "translation": "Isn't that frightening?",
+        "source": "T47n1970_009:0279a07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "易稱。",
+        "translation": "I've called it.",
+        "source": "T47n1970_009:0279a07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天地之數五十有五。",
+        "translation": "\"The number of gods and earth is fifty or five.",
+        "source": "T47n1970_009:0279a07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以成變化而行鬼神。",
+        "translation": "That's why they effect change and act like ghosts and spirits.",
+        "source": "T47n1970_009:0279a08_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是天地之大變化之妙鬼神之粵。",
+        "translation": "This is the great, miraculous transformation of heaven and earth, and the measure of ghosts and spirits.",
+        "source": "T47n1970_009:0279a08_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶不乖於數。",
+        "translation": "They still don't deviate from the number.",
+        "source": "T47n1970_009:0279a09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況於人乎。",
+        "translation": "How could it be possible for a person to do so?",
+        "source": "T47n1970_009:0279a09_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或謂。",
+        "translation": "Some people say.",
+        "source": "T47n1970_009:0279a10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人有廉儉而命促貪侈而壽長者何也。",
+        "translation": "\"What's the difference between a person who's honest and frugal and whose life is short and whose life is lavish and greedy?",
+        "source": "T47n1970_009:0279a10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廉儉而命促者當生之數少也。",
+        "translation": "Being cheap and frugal and having a short life span means that the number of people who should be born is small.",
+        "source": "T47n1970_009:0279a11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若更貪侈則愈促矣。",
+        "translation": "If he becomes more greedy and lavish, then he'll be more longsuffering.",
+        "source": "T47n1970_009:0279a11_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貪侈而壽長者當生之數多也。",
+        "translation": "A person who's greedy and lazy but has a long life expectancy will have a lot of births.",
+        "source": "T47n1970_009:0279a12_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若更廉儉則愈長矣。",
+        "translation": "If he becomes more honest and frugal, the longer it will be.",
+        "source": "T47n1970_009:0279a13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且天地於人無私。",
+        "translation": "Moreover, heaven and earth are selfless to humans.",
+        "source": "T47n1970_009:0279a13_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何謂當生之數有多少乎。",
+        "translation": "How can it be said that there's a certain number of lives that should be produced?",
+        "source": "T47n1970_009:0279a13_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此皆前世所為耳。",
+        "translation": "This is all the work of previous generations.",
+        "source": "T47n1970_009:0279a14_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故曰。",
+        "translation": "Therefore, it's called.",
+        "source": "T47n1970_009:0279a14_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "要知前世因。",
+        "translation": "'You must know the causes of prior lives.",
+        "source": "T47n1970_009:0279a15_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今生受者是。",
+        "translation": "These are the recipients of this life.",
+        "source": "T47n1970_009:0279a15_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯現世多為吉善則增福壽。",
+        "translation": "It's only in the present life that often doing good and virtuous deeds increases merit and longevity.",
+        "source": "T47n1970_009:0279a15_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故曰。",
+        "translation": "Therefore, it's said.",
+        "source": "T47n1970_009:0279a16_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神之聽之介爾景福。",
+        "translation": "'The gods hear this, and it's a great blessing.'",
+        "source": "T47n1970_009:0279a16_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現世多為罪惡則減福壽。",
+        "translation": "If the present life is mostly sinful and bad, then his merit and longevity are diminished.",
+        "source": "T47n1970_009:0279a16_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故曰。",
+        "translation": "Therefore, it's called.",
+        "source": "T47n1970_009:0279a17_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多行不義必自斃。",
+        "translation": "'Many unrighteous deeds will bring about death.'",
+        "source": "T47n1970_009:0279a17_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且修淨土者。",
+        "translation": "Furthermore, someone who cultivates the Pure Land ...",
+        "source": "T47n1970_009:0279a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "固不在福壽之多。",
+        "translation": "It's true that they don't care about the amount of merit and longevity.",
+        "source": "T47n1970_009:0279a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然損福壽之事則是薄德耳。",
+        "translation": "However, doing things that harm merit and longevity is a sign of weak virtue.",
+        "source": "T47n1970_009:0279a18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈可不戒哉。",
+        "translation": "Shouldn't he abstain from it?",
+        "source": "T47n1970_009:0279a19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增福壽之事則是厚德耳。",
+        "translation": "Doing things that increase merit and longevity is a generous virtue.",
+        "source": "T47n1970_009:0279a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈可不勉哉。",
+        "translation": "Shouldn't he strive for them?",
+        "source": "T47n1970_009:0279a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "食肉說",
+        "translation": "Explanation of Meat Eating",
+        "source": "T47n1970_009:0279a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告大慧菩薩云。",
+        "translation": "The Buddha told the bodhisattva Mahākauṣṭhila.",
+        "source": "T47n1970_009:0279a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有無量因緣。",
+        "translation": "\"There are measureless causes and conditions.",
+        "source": "T47n1970_009:0279a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應食肉。",
+        "translation": "You shouldn't eat meat.",
+        "source": "T47n1970_009:0279a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今為汝略說。",
+        "translation": "Now, I'll explain it briefly for you.",
+        "source": "T47n1970_009:0279a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂一切眾生從本以來。",
+        "translation": "It means that since the distant past, all sentient beings.",
+        "source": "T47n1970_009:0279a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "展轉因緣常為六親以親想。",
+        "translation": "Their successive causes and conditions have always been the six relatives with intimate conceptions.",
+        "source": "T47n1970_009:0279a23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不淨氣分所生長。",
+        "translation": "It's grown from the impure pneumatic component.",
+        "source": "T47n1970_009:0279a24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279a25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾生聞氣悉皆恐怖。",
+        "translation": "All sentient beings are terrified when they hear pneumas.",
+        "source": "T47n1970_009:0279a25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279a25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令修行者不慈殺。",
+        "translation": "It causes practitioners to refrain from killing with kindness.",
+        "source": "T47n1970_009:0279a26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279a26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡愚所嗜臭穢不淨無善名稱。",
+        "translation": "Ordinary foolish people are addicted to smelly, impure, and unwholesome things that have no good reputation.",
+        "source": "T47n1970_009:0279a26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279a27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令諸呪術不成就。",
+        "translation": "It causes incapacities in the performance of spells.",
+        "source": "T47n1970_009:0279a27_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279a28_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以殺生者見形起識深味著。",
+        "translation": "Because a person who kills beings sees forms and produces consciousnesses with deep taste and attachment, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279a28_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279a29_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼食肉者諸天所棄。",
+        "translation": "That person who eats meat is rejected by the gods.",
+        "source": "T47n1970_009:0279a29_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279b01_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令口氣臭。",
+        "translation": "It makes his breath smell.",
+        "source": "T47n1970_009:0279b01_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, he shouldn't eat meat.",
+        "source": "T47n1970_009:0279b01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多惡夢。",
+        "translation": "They have lots of bad dreams.",
+        "source": "T47n1970_009:0279b01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, he shouldn't eat meat.",
+        "source": "T47n1970_009:0279b02_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空閑林中虎狼聞香。",
+        "translation": "In an empty forest, tigers and wolves hear its scent.",
+        "source": "T47n1970_009:0279b02_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279b02_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令人飲食無節量。",
+        "translation": "It causes people to eat and drink without restraint.",
+        "source": "T47n1970_009:0279b03_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應食肉。",
+        "translation": "Therefore, they shouldn't eat meat.",
+        "source": "T47n1970_009:0279b03_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令修行者不生厭離。",
+        "translation": "It causes cultivators not to become disillusioned with it.",
+        "source": "T47n1970_009:0279b03_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應食肉。",
+        "translation": "They shouldn't eat meat.",
+        "source": "T47n1970_009:0279b04_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我常說言。",
+        "translation": "I've always said.",
+        "source": "T47n1970_009:0279b04_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡所飲食。",
+        "translation": "'Whatever you eat and drink, suppose you eat the flesh of your child.'",
+        "source": "T47n1970_009:0279b04_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作食子肉想。",
+        "translation": "'Think of eating the flesh of your child.'",
+        "source": "T47n1970_009:0279b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作服藥想。",
+        "translation": "Think of it as taking medicine.",
+        "source": "T47n1970_009:0279b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應食肉。",
+        "translation": "You shouldn't eat meat.",
+        "source": "T47n1970_009:0279b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聽食肉者。",
+        "translation": "Those who hear that they're eating meat will find no place.",
+        "source": "T47n1970_009:0279b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有是處。",
+        "translation": "There's no place for it.",
+        "source": "T47n1970_009:0279b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大慧。",
+        "translation": "Great Wisdom.",
+        "source": "T47n1970_009:0279b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡諸殺者。",
+        "translation": "\"Where there's a killer, there's a butcher who kills for financial gain.",
+        "source": "T47n1970_009:0279b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為財利故殺生屠販。",
+        "translation": "They kill beings and butcher them for financial gain.",
+        "source": "T47n1970_009:0279b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸愚癡食肉眾生。",
+        "translation": "Those foolish beings who eat meat.",
+        "source": "T47n1970_009:0279b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以錢為網而捕諸肉。",
+        "translation": "They use money as a net to catch meat.",
+        "source": "T47n1970_009:0279b07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼殺生者。",
+        "translation": "Those people who kill beings.",
+        "source": "T47n1970_009:0279b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以財物。",
+        "translation": "Whether it's with possessions or goods.",
+        "source": "T47n1970_009:0279b08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以釣網。",
+        "translation": "Whether it's with fishing nets.",
+        "source": "T47n1970_009:0279b08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "取彼空行水陸眾生。",
+        "translation": "He takes those sentient beings who travel through space on water and land.",
+        "source": "T47n1970_009:0279b08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種殺害。",
+        "translation": "They kill them in various ways.",
+        "source": "T47n1970_009:0279b09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "屠販求利。",
+        "translation": "They butcher and sell them for profit.",
+        "source": "T47n1970_009:0279b09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大慧。",
+        "translation": "Great Wisdom.",
+        "source": "T47n1970_009:0279b09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦無不教不求不想而有魚肉。",
+        "translation": "\"There's no fish or meat that isn't taught and sought without wanting it.",
+        "source": "T47n1970_009:0279b09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是義故不應食肉。",
+        "translation": "It's for this reason that you shouldn't eat meat.",
+        "source": "T47n1970_009:0279b10_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛復說偈略云。",
+        "translation": "The Buddha then spoke an abridged verse, saying.",
+        "source": "T47n1970_009:0279b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為利殺眾生。",
+        "translation": "\"They kill sentient beings for profit.",
+        "source": "T47n1970_009:0279b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以財網諸肉。",
+        "translation": "They use their wealth to net meat.",
+        "source": "T47n1970_009:0279b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二俱是惡業。",
+        "translation": "These two are both bad actions.",
+        "source": "T47n1970_009:0279b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "死墮叫呼獄。",
+        "translation": "They lead to death and fall into the hell of screaming.",
+        "source": "T47n1970_009:0279b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無教想求。",
+        "translation": "If they didn't have the teaching and conception, they wouldn't have the three pure forms of meat.",
+        "source": "T47n1970_009:0279b12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則無三淨肉。",
+        "translation": "Then there wouldn't be three pure forms of flesh.",
+        "source": "T47n1970_009:0279b12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼非無因有。",
+        "translation": "It's not something that exists without a cause.",
+        "source": "T47n1970_009:0279b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不應食。",
+        "translation": "Therefore, it shouldn't be eaten.",
+        "source": "T47n1970_009:0279b13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "酒肉葱韮蒜。",
+        "translation": "Wine, meat, scallions, chives, and garlic.",
+        "source": "T47n1970_009:0279b13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悉為聖道障。",
+        "translation": "It's all an obstruction to the noble path.",
+        "source": "T47n1970_009:0279b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "食肉無慈悲。",
+        "translation": "Eating meat without compassion ...",
+        "source": "T47n1970_009:0279b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "永背正解脫。",
+        "translation": "It's a permanent departure from right liberation.",
+        "source": "T47n1970_009:0279b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及違聖表相。",
+        "translation": "It's also contrary to the noble appearances.",
+        "source": "T47n1970_009:0279b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不應食。",
+        "translation": "Therefore, it shouldn't be eaten.",
+        "source": "T47n1970_009:0279b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾生肉本非所食之物。",
+        "translation": "The flesh of sentient beings isn't something that should be eaten in the first place.",
+        "source": "T47n1970_009:0279b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以耳聞目見慣熟。",
+        "translation": "Because their ears hear and eyes see it, they become accustomed to it.",
+        "source": "T47n1970_009:0279b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不知其非。",
+        "translation": "They don't know it's not.",
+        "source": "T47n1970_009:0279b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如能斷肉。",
+        "translation": "If they can cut off the flesh, then they're certainly superior.",
+        "source": "T47n1970_009:0279b16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "固為上也。",
+        "translation": "That's certainly superior.",
+        "source": "T47n1970_009:0279b16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如不能斷。",
+        "translation": "If he can't cut it, then he'll eat the three pure forms of meat and save his food.",
+        "source": "T47n1970_009:0279b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且食三淨肉而減省食。",
+        "translation": "He should eat the three pure foods and save his food.",
+        "source": "T47n1970_009:0279b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若兼味且去其一。",
+        "translation": "If there's a combination of flavors, he should remove one of them.",
+        "source": "T47n1970_009:0279b17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如兩飡皆肉。",
+        "translation": "Suppose two meals consist of meat.",
+        "source": "T47n1970_009:0279b18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且一飡以素。",
+        "translation": "Let's eat one meal as a vegetarian.",
+        "source": "T47n1970_009:0279b18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人生祿料有數。",
+        "translation": "There's a limit to how much prosperity a person can expect.",
+        "source": "T47n1970_009:0279b18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若此自可延壽。",
+        "translation": "If he does this, he'll prolong his life.",
+        "source": "T47n1970_009:0279b19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如早晨食素。",
+        "translation": "Suppose we eat a vegetarian meal in the morning.",
+        "source": "T47n1970_009:0279b19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其利甚多。",
+        "translation": "The benefits are numerous.",
+        "source": "T47n1970_009:0279b19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一省業緣。",
+        "translation": "First, it saves you from the causes and conditions of karma.",
+        "source": "T47n1970_009:0279b20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二可清淨。",
+        "translation": "Two, it's purifying.",
+        "source": "T47n1970_009:0279b20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三不妨善業。",
+        "translation": "Three, it might not be conducive to good actions.",
+        "source": "T47n1970_009:0279b20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四至晚食葷時。",
+        "translation": "Four, when he eats meat in the evening.",
+        "source": "T47n1970_009:0279b20_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不至厭此而欲彼。",
+        "translation": "They won't become disillusioned with this and desire that.",
+        "source": "T47n1970_009:0279b21_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如此自可延壽。",
+        "translation": "This will naturally prolong his life.",
+        "source": "T47n1970_009:0279b21_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以食素為難。",
+        "translation": "If it's difficult to be a vegetarian, then it's better to use the cost of eating meat as a vegetarian diet.",
+        "source": "T47n1970_009:0279b22_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "宜以食葷之費為素食。",
+        "translation": "It's better to use the cost of eating meat as a vegetarian diet.",
+        "source": "T47n1970_009:0279b22_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則易行而可持久。",
+        "translation": "That's easy to do and will last.",
+        "source": "T47n1970_009:0279b22_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若縱口腹之欲。",
+        "translation": "If you indulge in the desire for food and drink, there's no time to finish it.",
+        "source": "T47n1970_009:0279b23_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦無了期。",
+        "translation": "There's no time to finish it.",
+        "source": "T47n1970_009:0279b23_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "語曰。",
+        "translation": "As the saying goes.",
+        "source": "T47n1970_009:0279b23_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世上欲無刀兵劫。",
+        "translation": "\"The world's desire is not to have a sword and an army.",
+        "source": "T47n1970_009:0279b24_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須是眾生不食肉。",
+        "translation": "It's necessary for sentient beings not to eat meat.",
+        "source": "T47n1970_009:0279b24_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斯言可不畏哉。",
+        "translation": "Isn't that statement frightening?",
+        "source": "T47n1970_009:0279b24_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不免食三淨肉者。",
+        "translation": "Those who aren't spared eating the three pure foods.",
+        "source": "T47n1970_009:0279b25_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次日可為所食之肉眾生。",
+        "translation": "The next day, they can offer the meat they've eaten to sentient beings.",
+        "source": "T47n1970_009:0279b25_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念西方四聖號并真言。",
+        "translation": "They can recite the names of the four sages of the West and their true words.",
+        "source": "T47n1970_009:0279b26_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以資薦往生。",
+        "translation": "This is to sponsor their rebirth in the Pure Land.",
+        "source": "T47n1970_009:0279b26_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "庶幾可釋冤滅罪。",
+        "translation": "Perhaps they can be freed from injustice and have their sins extinguished.",
+        "source": "T47n1970_009:0279b27_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "據閻羅王告鄭隣之言。",
+        "translation": "According to what King Yama told Zheng Linlin, then he would sincerely recite the four holy names and recite the true words.",
+        "source": "T47n1970_009:0279b27_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則至誠念四聖號以追薦者。",
+        "translation": "\"Then, those who sincerely recite the names of the four sages and recommend them to others will surely be reborn.",
+        "source": "T47n1970_009:0279b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必得往生。",
+        "translation": "He'll surely be reborn.'",
+        "source": "T47n1970_009:0279b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "詳載在第八卷。",
+        "translation": "The details are found in Book 8.",
+        "source": "T47n1970_009:0279b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三淨肉。",
+        "translation": "\"The three purify flesh.",
+        "source": "T47n1970_009:0279b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不見殺。",
+        "translation": "They don't see killing and don't hear killing.",
+        "source": "T47n1970_009:0279b29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不聞殺。",
+        "translation": "Not hearing about killing ...",
+        "source": "T47n1970_009:0279b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不疑為己殺。",
+        "translation": "They don't doubt that they're killing themselves.",
+        "source": "T47n1970_009:0279b29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及自死。",
+        "translation": "He also kills himself.",
+        "source": "T47n1970_009:0279c01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "鳥殘。",
+        "translation": "He'll kill a bird.",
+        "source": "T47n1970_009:0279c01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為五淨肉。",
+        "translation": "It's the five pure forms of flesh.",
+        "source": "T47n1970_009:0279c01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "戒殺盜婬說",
+        "translation": "He preaches the precept against killing, stealing, and sexual misconduct.",
+        "source": "T47n1970_009:0279c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "楞嚴經佛謂。",
+        "translation": "The Śūraṃgama-sūtra Buddha said.",
+        "source": "T47n1970_009:0279c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "想愛女色。",
+        "translation": "\"When he conceives of and loves the female form, the mind is tied up in bonds and won't part with it.",
+        "source": "T47n1970_009:0279c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心結不離。",
+        "translation": "The mind is tied up in knots and won't part with it.",
+        "source": "T47n1970_009:0279c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故有婬慾。",
+        "translation": "Therefore, there's lust and desire.",
+        "source": "T47n1970_009:0279c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則諸世間父母子孫相生不絕。",
+        "translation": "Then, in all the world, parents, children, and grandchildren are born one after the other without break.",
+        "source": "T47n1970_009:0279c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是等則以欲貪為本。",
+        "translation": "Such people then have desire and greed as their root.",
+        "source": "T47n1970_009:0279c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貪愛血味。",
+        "translation": "They crave the taste of blood.",
+        "source": "T47n1970_009:0279c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心滋不止故。",
+        "translation": "It's because the mind doesn't stop nourishing it.",
+        "source": "T47n1970_009:0279c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有食肉則諸世間卵化濕胎隨力強弱遞相吞食。",
+        "translation": "When there's meat-eating, then the eggs of the world are transformed into wet wombs that are devoured in succession according to their strength and weakness.",
+        "source": "T47n1970_009:0279c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是等則以殺貪為本。",
+        "translation": "Such then is the basis of desire for killing.",
+        "source": "T47n1970_009:0279c06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以人養羊。",
+        "translation": "Take a person raising a sheep.",
+        "source": "T47n1970_009:0279c07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "羊死為人。",
+        "translation": "When a sheep dies, he becomes a human being.",
+        "source": "T47n1970_009:0279c07_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人死為羊。",
+        "translation": "When a human dies, he becomes a sheep.",
+        "source": "T47n1970_009:0279c07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "食餘眾生亦復如是。",
+        "translation": "It's likewise when they eat other sentient beings.",
+        "source": "T47n1970_009:0279c08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "死死生生互來相噉。",
+        "translation": "From death to birth, sentient beings are born and eat each other.",
+        "source": "T47n1970_009:0279c08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡業俱生窮未來際。",
+        "translation": "Both will produce bad karma to the end of the future.",
+        "source": "T47n1970_009:0279c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若此則以盜貪為本。",
+        "translation": "If this is the case, then stealing and craving are the root.",
+        "source": "T47n1970_009:0279c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝負我命。",
+        "translation": "You owe me your life, and I'll repay your debt.",
+        "source": "T47n1970_009:0279c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我還汝債。",
+        "translation": "I'll repay your debt.'",
+        "source": "T47n1970_009:0279c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣。",
+        "translation": "Because of this cause and condition, we'll always be in birth-and-death for a hundred thousand eons.",
+        "source": "T47n1970_009:0279c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經百千劫常在生死。",
+        "translation": "I'll always be in birth-and-death for a hundred thousand eons.",
+        "source": "T47n1970_009:0279c10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝愛我心。",
+        "translation": "You love my mind.",
+        "source": "T47n1970_009:0279c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我憐汝色。",
+        "translation": "I'll have compassion on your form.",
+        "source": "T47n1970_009:0279c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣。",
+        "translation": "It's because of this cause and condition.",
+        "source": "T47n1970_009:0279c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經百千劫常在纏縛。",
+        "translation": "Through a hundred thousand eons, you'll always be in bondage.",
+        "source": "T47n1970_009:0279c11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此殺盜婬三者為之根本。",
+        "translation": "These three things - killing, stealing, and lust - are their root.",
+        "source": "T47n1970_009:0279c12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣。",
+        "translation": "Because of these causes and conditions.",
+        "source": "T47n1970_009:0279c12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡業果報相續不已。",
+        "translation": "The results of bad actions continue unabated.",
+        "source": "T47n1970_009:0279c13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如西方淨土。",
+        "translation": "Suppose you go to the pure land of the West.",
+        "source": "T47n1970_009:0279c13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受清淨身。",
+        "translation": "They'll experience a pure body.",
+        "source": "T47n1970_009:0279c13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不因婬欲而生。",
+        "translation": "It doesn't arise from sexual desire.",
+        "source": "T47n1970_009:0279c14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "食清淨食。",
+        "translation": "They eat pure food.",
+        "source": "T47n1970_009:0279c14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不因殺害而得友清淨人。",
+        "translation": "It's not because of killing that they gain friends with pure people.",
+        "source": "T47n1970_009:0279c14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不因染著而交。",
+        "translation": "They don't have intercourse because of defiled attachment.",
+        "source": "T47n1970_009:0279c15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是皆脫去此等。",
+        "translation": "These are all liberated from such things.",
+        "source": "T47n1970_009:0279c15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然修上品者此等亦不可不知。",
+        "translation": "Still, these shouldn't be unknown to those who cultivate the higher qualities.",
+        "source": "T47n1970_009:0279c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飲食男女說",
+        "translation": "It's called \"food and drink for men and women.",
+        "source": "T47n1970_009:0279c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飲食男女人之大欲存焉。",
+        "translation": "\"Where do the great human desires of eating and drinking, male and female, reside?",
+        "source": "T47n1970_009:0279c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "制之若無。",
+        "translation": "Suppressing them would be like having none at all.",
+        "source": "T47n1970_009:0279c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斯為聖人。",
+        "translation": "This is considered a sage.",
+        "source": "T47n1970_009:0279c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "節而不縱。",
+        "translation": "He's moderate and doesn't indulge in it.",
+        "source": "T47n1970_009:0279c19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可為賢人。",
+        "translation": "He can be considered a good man.",
+        "source": "T47n1970_009:0279c19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "縱而不節。",
+        "translation": "When he controls but doesn't moderate, he can be a lowly fool.",
+        "source": "T47n1970_009:0279c19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可為下愚。",
+        "translation": "They can be considered inferior foolish.",
+        "source": "T47n1970_009:0279c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蓋此二者皆造業之所。",
+        "translation": "It means that both of these things are places where actions are created.",
+        "source": "T47n1970_009:0279c20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "殺生以資口腹。",
+        "translation": "Killing beings to feed their mouths and stomachs.",
+        "source": "T47n1970_009:0279c20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非造罪而何。",
+        "translation": "What's the point of not creating a sin?",
+        "source": "T47n1970_009:0279c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "婬慾以喪天真。",
+        "translation": "Lust corrupts the gods' innocence.",
+        "source": "T47n1970_009:0279c21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非造罪而何。",
+        "translation": "What's not a sin that's not created?",
+        "source": "T47n1970_009:0279c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況二者更相助發。",
+        "translation": "What's more, they both contribute to each other.",
+        "source": "T47n1970_009:0279c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因美飲食則血氣盛。",
+        "translation": "When food and drink are enjoyed, blood energy becomes abundant.",
+        "source": "T47n1970_009:0279c22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "血氣盛則婬慾多。",
+        "translation": "When blood energy is abundant, there's much lust and sexual desire.",
+        "source": "T47n1970_009:0279c22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "婬慾多則反損血氣。",
+        "translation": "When there's lots of lust, that in turn damages the blood energy.",
+        "source": "T47n1970_009:0279c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "血氣損則又賴飲食以滋補。",
+        "translation": "When the blood energy is impaired, it's nourished by food and drink.",
+        "source": "T47n1970_009:0279c23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是二者更相造罪也。",
+        "translation": "These two things further contribute to each other's misdeeds.",
+        "source": "T47n1970_009:0279c24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若欲省口腹。",
+        "translation": "If we want to save our mouths and bellies, we must first abstain from sexual intercourse.",
+        "source": "T47n1970_009:0279c24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必先節婬慾。",
+        "translation": "We must first moderate our sexual desire.",
+        "source": "T47n1970_009:0279c25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若能節婬慾。",
+        "translation": "If he can abstain from sexual intercourse, then he can save his mouth and belly.",
+        "source": "T47n1970_009:0279c25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即可省口腹。",
+        "translation": "That's how you can save your mouth and belly.",
+        "source": "T47n1970_009:0279c25_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此乃安身延年之道。",
+        "translation": "This is the way to stabilize yourself and prolong your life.",
+        "source": "T47n1970_009:0279c25_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若能節而絕之。",
+        "translation": "If he can moderate it and cut it off, then the debilitation will be beautiful on its own.",
+        "source": "T47n1970_009:0279c26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則麁糲亦自美矣。",
+        "translation": "Then, debilitation will be beautiful on its own.",
+        "source": "T47n1970_009:0279c26_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若縱之則人生受用之數有限。",
+        "translation": "If he connives at it, then there's a limit to the number of things he can enjoy in life.",
+        "source": "T47n1970_009:0279c27_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "限盡則早終也。",
+        "translation": "When the limit is exhausted, it will end prematurely.",
+        "source": "T47n1970_009:0279c27_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈覺禪師云。",
+        "translation": "The Zen master Jikaku said.",
+        "source": "T47n1970_009:0279c28_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飲食於人日月長。",
+        "translation": "\"Food and drink grow in people day by day.",
+        "source": "T47n1970_009:0279c28_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "精麁隨分塞飢瘡。",
+        "translation": "Its fineness follows its share to stuff the sores of hunger.",
+        "source": "T47n1970_009:0279c28_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "纔過三寸成何物。",
+        "translation": "What is it that's formed when it's just three inches away?",
+        "source": "T47n1970_009:0279c29_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不用將心細校量。",
+        "translation": "There's no need to carefully calibrate it in your mind.",
+        "source": "T47n1970_009:0279c29_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若能如是思省。",
+        "translation": "If he can thus consider and reflect on it.",
+        "source": "T47n1970_009:0280a01_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自可省口腹矣。",
+        "translation": "He can then save his mouth and stomach.",
+        "source": "T47n1970_009:0280a01_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "務實野夫云。",
+        "translation": "As a practical man says.",
+        "source": "T47n1970_009:0280a01_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皮包骨肉并尿糞。",
+        "translation": "\"Skin wraps up flesh and bones, and it's covered in urine and dung.",
+        "source": "T47n1970_009:0280a02_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "強作嬌嬈誑惑人。",
+        "translation": "They force themselves to be coquettish and deceive people.",
+        "source": "T47n1970_009:0280a02_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "千古英雄皆坐此。",
+        "translation": "A thousand heroes of old have all sat here.",
+        "source": "T47n1970_009:0280a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "百年同作一坑塵。",
+        "translation": "A hundred years have passed since then, and they've all become dust in a single pit.",
+        "source": "T47n1970_009:0280a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若能如是思省。",
+        "translation": "If he can thus reflect on it.",
+        "source": "T47n1970_009:0280a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自可省婬慾矣。",
+        "translation": "He can then save himself from lust.",
+        "source": "T47n1970_009:0280a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "果了得此二者在生何由有疾病夭折。",
+        "translation": "If he fully understands these two things, how could there be illness and death in his lifetime?",
+        "source": "T47n1970_009:0280a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身後何由有地獄畜生。",
+        "translation": "How could there be hell and animals after their bodies?",
+        "source": "T47n1970_009:0280a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖不免此。",
+        "translation": "Even though they aren't exempt from that, cultivating the Pure Land will free them from the wheel of transmigration.",
+        "source": "T47n1970_009:0280a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而修淨土亦脫去輪迴。",
+        "translation": "Cultivating the pure land nonetheless frees him from the cycle of rebirth.",
+        "source": "T47n1970_009:0280a06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然修上品者不可不戒此。",
+        "translation": "Still, those who cultivate the higher qualities mustn't fail to abstain from this.",
+        "source": "T47n1970_009:0280a06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貪折前程說",
+        "translation": "He teaches that craving impairs one's future prospects.",
+        "source": "T47n1970_009:0280a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有官員二人。",
+        "translation": "There were two officials.",
+        "source": "T47n1970_009:0280a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "求夢於京師二相廟中。",
+        "translation": "They asked for a dream and stayed at the capital's two ministerial temples.",
+        "source": "T47n1970_009:0280a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以問前程。",
+        "translation": "They wanted to ask about their future journey.",
+        "source": "T47n1970_009:0280a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其夜一人夢見有人持簿一扇。",
+        "translation": "On that night, one of them dreamt that someone was holding a book and a fan.",
+        "source": "T47n1970_009:0280a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "揭開版云。",
+        "translation": "He unsealed the fan and said.",
+        "source": "T47n1970_009:0280a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此汝同來之官人前程也。",
+        "translation": "\"This is the future journey of the official you came with.",
+        "source": "T47n1970_009:0280a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "視之。",
+        "translation": "He looked at him.",
+        "source": "T47n1970_009:0280a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃自小官排至宰相。",
+        "translation": "He had been ranked from a junior official to a prime minister.",
+        "source": "T47n1970_009:0280a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仍有句之者。",
+        "translation": "There's still a man who says that.",
+        "source": "T47n1970_009:0280a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其官員問云。",
+        "translation": "The official asked.",
+        "source": "T47n1970_009:0280a12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "句之者何也。",
+        "translation": "\"What's the reason for that?",
+        "source": "T47n1970_009:0280a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持簿者答云。",
+        "translation": "The bookkeeper replied.",
+        "source": "T47n1970_009:0280a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此官人愛財。",
+        "translation": "\"This government official loves money.",
+        "source": "T47n1970_009:0280a13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間不義取一頃。",
+        "translation": "It's not right in the world to take an acre.",
+        "source": "T47n1970_009:0280a13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此間句一頃。",
+        "translation": "Here, he says, \"One hectare.",
+        "source": "T47n1970_009:0280a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若急改過。",
+        "translation": "If he quickly changed it, he could still be a superintendent.",
+        "source": "T47n1970_009:0280a14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尚可作監司。",
+        "translation": "He could still be a superintendent.",
+        "source": "T47n1970_009:0280a14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其人聞之。",
+        "translation": "When people hear this, they won't dare to take money foolishly.",
+        "source": "T47n1970_009:0280a14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更不敢妄取財。",
+        "translation": "They won't dare to take their money without permission.",
+        "source": "T47n1970_009:0280a15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其後果至監司。",
+        "translation": "Later, they did end up as a superintendent.",
+        "source": "T47n1970_009:0280a15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又何仙姑在世間。",
+        "translation": "Also, when Sage-Goddha was in the world.",
+        "source": "T47n1970_009:0280a15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有一主簿。",
+        "translation": "There was a captain of the household.",
+        "source": "T47n1970_009:0280a16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "家忽有天書降。",
+        "translation": "Suddenly, a writing from heaven came down from his house.",
+        "source": "T47n1970_009:0280a16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為不識字畫。",
+        "translation": "He couldn't read or write, so he went to see the nun and asked her about it.",
+        "source": "T47n1970_009:0280a16_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃往見仙姑問之。",
+        "translation": "He went to see the nun and asked her about it.",
+        "source": "T47n1970_009:0280a17_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仙姑設香案。",
+        "translation": "The nun set up a scented table.",
+        "source": "T47n1970_009:0280a17_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "拜而後看。",
+        "translation": "She paid homage to him and then looked at them.",
+        "source": "T47n1970_009:0280a17_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "看畢微笑。",
+        "translation": "She smiled after reading them.",
+        "source": "T47n1970_009:0280a18_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "主簿云。",
+        "translation": "The monk in charge said.",
+        "source": "T47n1970_009:0280a18_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持來拜問。",
+        "translation": "\"She came to pay homage to him.",
+        "source": "T47n1970_009:0280a18_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故乃笑。",
+        "translation": "\"Why are you smiling?",
+        "source": "T47n1970_009:0280a18_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仙姑云。",
+        "translation": "The nun said.",
+        "source": "T47n1970_009:0280a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天書言。",
+        "translation": "\"The writing in heaven says.",
+        "source": "T47n1970_009:0280a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "主簿受金十兩。",
+        "translation": "\"The abbot accepts 10 taels of gold.",
+        "source": "T47n1970_009:0280a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "折祿五年。",
+        "translation": "His salary will be cut for five years.",
+        "source": "T47n1970_009:0280a19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此觀之。",
+        "translation": "Looking at it this way.",
+        "source": "T47n1970_009:0280a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不義之財誠可畏也。",
+        "translation": "'An unjust fortune is truly frightening.'",
+        "source": "T47n1970_009:0280a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "移是心於淨土。",
+        "translation": "Transferring this kind of mind to the Pure Land.",
+        "source": "T47n1970_009:0280a20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其熟善緣多矣。",
+        "translation": "He'll ripen many good causes.",
+        "source": "T47n1970_009:0280a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "福慧說",
+        "translation": "Explanation of Merit and Wisdom",
+        "source": "T47n1970_009:0280a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人不可不兼修福慧。",
+        "translation": "\"A person can't help cultivating both merit and wisdom.",
+        "source": "T47n1970_009:0280a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種利物。",
+        "translation": "He cultivates various things for the benefit of others.",
+        "source": "T47n1970_009:0280a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常行方便。",
+        "translation": "He always practices skillful means.",
+        "source": "T47n1970_009:0280a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作一切善。",
+        "translation": "He does all good [activities] and abstains from all evil.",
+        "source": "T47n1970_009:0280a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "戒一切惡。",
+        "translation": "He abstains from all evil.",
+        "source": "T47n1970_009:0280a24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂修福也。",
+        "translation": "This is called cultivating merit.",
+        "source": "T47n1970_009:0280a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知因果識罪福。",
+        "translation": "He knows cause and effect and recognizes sins and merits.",
+        "source": "T47n1970_009:0280a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀釋氏書內明性理。",
+        "translation": "He observes the writings of the Śākyas to understand the nature and principle internally.",
+        "source": "T47n1970_009:0280a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀儒家書外明世道。",
+        "translation": "He observes the Confucian texts and explains the ways of the world from the outside.",
+        "source": "T47n1970_009:0280a25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂修慧也。",
+        "translation": "It's called cultivating wisdom.",
+        "source": "T47n1970_009:0280a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修福得富貴。",
+        "translation": "Cultivating merit attains wealth and prosperity.",
+        "source": "T47n1970_009:0280a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修慧得明了。",
+        "translation": "Cultivating wisdom attains insight.",
+        "source": "T47n1970_009:0280a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修慧不修福。",
+        "translation": "Cultivating wisdom and not cultivating merit ...",
+        "source": "T47n1970_009:0280a26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明了而窮困。",
+        "translation": "He'll become poor because of his insight.",
+        "source": "T47n1970_009:0280a27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修福不修慧。",
+        "translation": "When you cultivate merit but don't cultivate wisdom, you'll become wealthy and foolish.",
+        "source": "T47n1970_009:0280a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "富貴而愚癡。",
+        "translation": "They'll become wealthy and foolish.",
+        "source": "T47n1970_009:0280a27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "福慧若兼修。",
+        "translation": "If he cultivates both merit and wisdom, he'll become wealthy and insightful.",
+        "source": "T47n1970_009:0280a28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "富貴而明了。",
+        "translation": "They'll become wealthy and insightful.",
+        "source": "T47n1970_009:0280a28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者皆不修。",
+        "translation": "They don't cultivate either.",
+        "source": "T47n1970_009:0280a28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "愚癡而窮困。",
+        "translation": "They'll be foolish and poor.",
+        "source": "T47n1970_009:0280a28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛以福慧兼修故謂之兩足尊。",
+        "translation": "Because the Buddha cultivates both merit and wisdom, he's called a two-legged honored one.",
+        "source": "T47n1970_009:0280a29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂福慧兩足也。",
+        "translation": "It means both virtue and wisdom are two-legged.",
+        "source": "T47n1970_009:0280a29_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "昔有二人同修行。",
+        "translation": "There once was a man and woman who practiced together.",
+        "source": "T47n1970_009:0280b01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一人專修福。",
+        "translation": "One person cultivated merit exclusively.",
+        "source": "T47n1970_009:0280b01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一人專修慧。",
+        "translation": "One person cultivated merit, and the other cultivated wisdom.",
+        "source": "T47n1970_009:0280b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經數世後。",
+        "translation": "After passing through several generations, the one who cultivated merit concentrated on wisdom.",
+        "source": "T47n1970_009:0280b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "專修福者因受福而作惡墮於象中。",
+        "translation": "The one who cultivated merit exclusively committed evil because of the virtue he received and fell into an elephant.",
+        "source": "T47n1970_009:0280b02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以有餘福。",
+        "translation": "Because there was residual good fortune, a person rode into battle with it.",
+        "source": "T47n1970_009:0280b03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人乘之以戰。",
+        "translation": "A person rides it into battle.",
+        "source": "T47n1970_009:0280b03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有勝敵之功。",
+        "translation": "He has the distinction of being victorious over his opponent.",
+        "source": "T47n1970_009:0280b03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "國王賜以瓔珞。",
+        "translation": "The king bestows a necklace on it.",
+        "source": "T47n1970_009:0280b04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其專修慧者得阿羅漢果。",
+        "translation": "That person focuses on wisdom and attains the fruit of the arhat.",
+        "source": "T47n1970_009:0280b04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以不曾修福故。",
+        "translation": "It's because they haven't cultivated merit.",
+        "source": "T47n1970_009:0280b05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為僧而乞食。",
+        "translation": "They go begging for food for the saṃgha.",
+        "source": "T47n1970_009:0280b05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多不得之。",
+        "translation": "Most of them don't get it.",
+        "source": "T47n1970_009:0280b05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故偈云。",
+        "translation": "That's why the verse says.",
+        "source": "T47n1970_009:0280b06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修福不修慧。",
+        "translation": "\"They cultivate merit but don't cultivate wisdom.",
+        "source": "T47n1970_009:0280b06_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "象身掛瓔珞。",
+        "translation": "An elephant's body is hung with a diadem.",
+        "source": "T47n1970_009:0280b06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修慧不修福。",
+        "translation": "Cultivating wisdom and not cultivating merit.",
+        "source": "T47n1970_009:0280b06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "羅漢應供薄。",
+        "translation": "The arhat's offerings will be weak.",
+        "source": "T47n1970_009:0280b07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此福慧所以不可不兼修也。",
+        "translation": "This is why it's essential not to cultivate both merit and wisdom.",
+        "source": "T47n1970_009:0280b07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必不得已。",
+        "translation": "There must be no choice.",
+        "source": "T47n1970_009:0280b08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧使慧勝於福。",
+        "translation": "Better to let wisdom prevail over merit.",
+        "source": "T47n1970_009:0280b08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫令福勝於慧。",
+        "translation": "Don't let good outweigh wisdom.",
+        "source": "T47n1970_009:0280b08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若慧勝於福。",
+        "translation": "If wisdom prevails over merit, then he'll know the faults and virtues and be careful about precepts.",
+        "source": "T47n1970_009:0280b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則知罪福而戒慎。",
+        "translation": "Then they'll know the merits of sins and be careful about precepts.",
+        "source": "T47n1970_009:0280b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故無墜墮。",
+        "translation": "Therefore, they won't fall into [the error of] their ways.",
+        "source": "T47n1970_009:0280b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若福勝於慧。",
+        "translation": "If good prevails over wisdom, then he'll do evil as a result of receiving good fortune.",
+        "source": "T47n1970_009:0280b09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則因受福而作惡。",
+        "translation": "then they'll do evil because they've received good fortune.",
+        "source": "T47n1970_009:0280b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故有墜墮。",
+        "translation": "Therefore, there's a falling away.",
+        "source": "T47n1970_009:0280b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "楞伽經云。",
+        "translation": "The Laṅkâvatāra Sutra says.",
+        "source": "T47n1970_009:0280b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受現在樂種未來苦是也。",
+        "translation": "\"This is the type of future suffering that results from experiencing present pleasure.",
+        "source": "T47n1970_009:0280b11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "偈云。",
+        "translation": "The verse says.",
+        "source": "T47n1970_009:0280b11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兼修福與慧。",
+        "translation": "\"At the same time, they cultivate merit and wisdom.",
+        "source": "T47n1970_009:0280b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復念阿彌。",
+        "translation": "Again, he's mindful of Amitâbha.",
+        "source": "T47n1970_009:0280b12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九品蓮花裏。",
+        "translation": "'Inside the nine classes of lotus flowers.'",
+        "source": "T47n1970_009:0280b12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一更何疑。",
+        "translation": "What doubt could there be about the first?",
+        "source": "T47n1970_009:0280b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "齋戒明了人修者必上品上生故也。",
+        "translation": "It's because those who observe the precepts and cultivate them clearly must be of the highest quality and be born above.'",
+        "source": "T47n1970_009:0280b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又偈云。",
+        "translation": "There's also a verse that says.",
+        "source": "T47n1970_009:0280b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖修福與慧。",
+        "translation": "\"Even though he cultivates merit and wisdom.",
+        "source": "T47n1970_009:0280b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不知念阿彌。",
+        "translation": "He doesn't know it's mindful of Amitâbha.",
+        "source": "T47n1970_009:0280b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未得阿羅漢。",
+        "translation": "He hasn't yet attained arhatship.",
+        "source": "T47n1970_009:0280b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "輪迴無了時。",
+        "translation": "There's no time when the cycle of transmigration is complete.",
+        "source": "T47n1970_009:0280b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在此世界修行得阿羅漢果。",
+        "translation": "When he cultivates his practice in this world and attains the fruit of arhatship.",
+        "source": "T47n1970_009:0280b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方脫輪迴故也。",
+        "translation": "Only then will he be freed from the cycle of transmigration.",
+        "source": "T47n1970_009:0280b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "習慈說",
+        "translation": "Xi Ci said.",
+        "source": "T47n1970_009:0280b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀世音菩薩謂。",
+        "translation": "Avalokitêśvara Bodhisattva says.",
+        "source": "T47n1970_009:0280b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "萬善皆生於慈。",
+        "translation": "\"All goodness arises from kindness.",
+        "source": "T47n1970_009:0280b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "老子言三寶。",
+        "translation": "Laozi said of the Three Treasures.",
+        "source": "T47n1970_009:0280b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以慈為首。",
+        "translation": "Compassion is the first.",
+        "source": "T47n1970_009:0280b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "儒家言五常。",
+        "translation": "Confucians say the five constant [virtues] come first.",
+        "source": "T47n1970_009:0280b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先之以仁。",
+        "translation": "They give precedence to kindness.",
+        "source": "T47n1970_009:0280b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其意皆同。",
+        "translation": "Their meanings are the same.",
+        "source": "T47n1970_009:0280b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人有多嗔怒者。",
+        "translation": "There are people who are often angry.",
+        "source": "T47n1970_009:0280b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蓋不思此意。",
+        "translation": "It's because they don't think about this meaning.",
+        "source": "T47n1970_009:0280b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未言害物造業。",
+        "translation": "It's not yet said that it harms things and creates karma.",
+        "source": "T47n1970_009:0280b20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先自損氣傷和人若能到慈仁之境。",
+        "translation": "It first damages their own energy and harms harmony. If a person can reach the level of kindness, then they'll know that anger is bad.",
+        "source": "T47n1970_009:0280b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方知嗔怒不佳。",
+        "translation": "Then they'll know that anger is not good.",
+        "source": "T47n1970_009:0280b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當其在嗔怒中。",
+        "translation": "When they're in anger, they don't know their own suffering.",
+        "source": "T47n1970_009:0280b22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則不自知其苦。",
+        "translation": "Then they won't know their own suffering.",
+        "source": "T47n1970_009:0280b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正如行荊棘中趍一大廈安居之所也。",
+        "translation": "It's like walking through a thorn in the road to a large building where you can live in peace.",
+        "source": "T47n1970_009:0280b22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方其矯宿性之嗔怒。",
+        "translation": "Only then will he rectify his anger from his former nature.",
+        "source": "T47n1970_009:0280b23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如行荊棘中。",
+        "translation": "He's like walking among thorns.",
+        "source": "T47n1970_009:0280b24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及習成慈仁。",
+        "translation": "Then, they cultivate kindness.",
+        "source": "T47n1970_009:0280b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則如入大廈安居矣。",
+        "translation": "Then they're like entering a mansion to live in peace.",
+        "source": "T47n1970_009:0280b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不可以言盡。",
+        "translation": "These words can't be exhausted.",
+        "source": "T47n1970_009:0280b25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但當嗔怒時。",
+        "translation": "It's just that when he's angry.",
+        "source": "T47n1970_009:0280b25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "習之久久自有可喜。",
+        "translation": "When it's cultivated for a long time, it's welcome.",
+        "source": "T47n1970_009:0280b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋道二教固已戒嗔。",
+        "translation": "The two teachings of Buddhism and Daoism have certainly abstained from anger.",
+        "source": "T47n1970_009:0280b26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "儒家亦然。",
+        "translation": "Confucianism is no different.",
+        "source": "T47n1970_009:0280b26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "桓魋欲害孔子。",
+        "translation": "Huan Tan wanted to harm Confucius.",
+        "source": "T47n1970_009:0280b27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孔子曷嘗嗔乎。",
+        "translation": "Was Confucius ever angry?",
+        "source": "T47n1970_009:0280b27_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臧倉毀隔孟子。",
+        "translation": "Zang Cang disparaged Mencius.",
+        "source": "T47n1970_009:0280b27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孟子曷嘗嗔乎。",
+        "translation": "Did Mencius ever become angry?",
+        "source": "T47n1970_009:0280b28_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "韓信不報胯下之辱。",
+        "translation": "Han Xin didn't retaliate for the humiliation of his crotch.",
+        "source": "T47n1970_009:0280b28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "安國不怨溺灰之言。",
+        "translation": "Anguo didn't resent his words about drowning in ashes.",
+        "source": "T47n1970_009:0280b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此皆為可師法。",
+        "translation": "These are all good examples to follow.",
+        "source": "T47n1970_009:0280b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況凡待貧下御僕妾詆忤己者。",
+        "translation": "It's even better to treat a poor servant or concubine who disparages you.",
+        "source": "T47n1970_009:0280b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "易致嗔怒。",
+        "translation": "They're prone to anger.",
+        "source": "T47n1970_009:0280c01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尤當戒謹。",
+        "translation": "You should be especially cautious.",
+        "source": "T47n1970_009:0280c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蓋彼亦人也。",
+        "translation": "They're also human.",
+        "source": "T47n1970_009:0280c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但以薄福而事我。",
+        "translation": "They serve me with only a modicum of merit.",
+        "source": "T47n1970_009:0280c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈可恣其情性而造惡業哉。",
+        "translation": "How could they abandon their emotions and create bad karma?",
+        "source": "T47n1970_009:0280c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "究而言之。",
+        "translation": "To sum up, this is the case.",
+        "source": "T47n1970_009:0280c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈和者於自己大得便宜。",
+        "translation": "Being kind and harmonious is a great advantage to oneself.",
+        "source": "T47n1970_009:0280c03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "藏經云。",
+        "translation": "The Tripiṭaka says.",
+        "source": "T47n1970_009:0280c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今生見歡喜者。",
+        "translation": "\"Someone who sees joy in this life ...",
+        "source": "T47n1970_009:0280c04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前世見人歡喜故。",
+        "translation": "It's because he saw people rejoicing in a previous life.",
+        "source": "T47n1970_009:0280c04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此慈和之所致也。",
+        "translation": "This is the result of kindness and harmony.",
+        "source": "T47n1970_009:0280c05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修淨土者烏可不以是為心哉。",
+        "translation": "Shouldn't someone who cultivates the Pure Land take this as their mind?",
+        "source": "T47n1970_009:0280c05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如一切眾生為大罪惡。",
+        "translation": "Suppose all sentient beings commit a great sin.",
+        "source": "T47n1970_009:0280c06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勿生嗔以污吾清冷之心。",
+        "translation": "Don't become angry and defile our cool, pure mind.",
+        "source": "T47n1970_009:0280c06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念彼以愚癡故爾。",
+        "translation": "Remember that it's because of their foolishness.",
+        "source": "T47n1970_009:0280c07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "使有智慧。",
+        "translation": "If they had wisdom, they wouldn't be like this.",
+        "source": "T47n1970_009:0280c07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必不為此。",
+        "translation": "I'm sure they wouldn't do that.",
+        "source": "T47n1970_009:0280c08_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當生憐憫其愚癡之心。",
+        "translation": "You must have compassion for their foolishness.",
+        "source": "T47n1970_009:0280c08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故曾子曰。",
+        "translation": "That's why Zengzi said.",
+        "source": "T47n1970_009:0280c08_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如得其情。",
+        "translation": "\"If you can understand their feelings, then pity them and don't rejoice.",
+        "source": "T47n1970_009:0280c09_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則哀矜而勿喜。",
+        "translation": "Then he'll sympathize with them and not rejoice.",
+        "source": "T47n1970_009:0280c09_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是以修淨土。",
+        "translation": "Such is the way to cultivate the Pure Land.",
+        "source": "T47n1970_009:0280c09_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其圓熟善根甚矣。",
+        "translation": "Their well-perfected good roots are quite great.",
+        "source": "T47n1970_009:0280c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為君子說",
+        "translation": "For the gentleman, he teaches.",
+        "source": "T47n1970_009:0280c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人皆可以為君子。",
+        "translation": "Everyone can be a gentleman.",
+        "source": "T47n1970_009:0280c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而不肯為君子。",
+        "translation": "They don't want to be a gentleman.",
+        "source": "T47n1970_009:0280c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不須為小人。",
+        "translation": "They don't need to be lesser men ...",
+        "source": "T47n1970_009:0280c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而必欲為小人。",
+        "translation": "Instead, they must want to be lesser men.",
+        "source": "T47n1970_009:0280c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若誠信恭敬。",
+        "translation": "If they are sincere, trustworthy, and respectful ...",
+        "source": "T47n1970_009:0280c13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若溫和方正。",
+        "translation": "If they are gentle and upright ...",
+        "source": "T47n1970_009:0280c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若推賢揚善。",
+        "translation": "If he promotes the good and praises the virtuous ...",
+        "source": "T47n1970_009:0280c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若隨宜利物。",
+        "translation": "If he follows what's appropriate and beneficial to others.",
+        "source": "T47n1970_009:0280c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡此之類皆君子之事也。",
+        "translation": "All of these kinds of things are the work of a gentleman.",
+        "source": "T47n1970_009:0280c14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為之亦不難者。",
+        "translation": "It's not difficult to do them.",
+        "source": "T47n1970_009:0280c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人不肯為何哉。",
+        "translation": "Why wouldn't people want to do that?",
+        "source": "T47n1970_009:0280c15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若欺詐傲慢。",
+        "translation": "If he's deceptive and arrogant, he'll be arrogant and conceited.",
+        "source": "T47n1970_009:0280c15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若麁暴諂曲。",
+        "translation": "If he is crude and flattering, then why wouldn't he do it?",
+        "source": "T47n1970_009:0280c16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若說短揚惡。",
+        "translation": "If he speaks shabbily and praises evil, then what's wrong with him?",
+        "source": "T47n1970_009:0280c16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若縱意害物。",
+        "translation": "If he harms things with his own mind.",
+        "source": "T47n1970_009:0280c16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡此之類皆小人之事也。",
+        "translation": "All these kinds of things are the deeds of a villain.",
+        "source": "T47n1970_009:0280c17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為之又何利益。",
+        "translation": "What good will it do?",
+        "source": "T47n1970_009:0280c17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人必為之何哉。",
+        "translation": "Why would people want to do that?",
+        "source": "T47n1970_009:0280c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為君子則人喜之。",
+        "translation": "When a person is a gentleman, people like him.",
+        "source": "T47n1970_009:0280c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神祐之。",
+        "translation": "The gods bless them.",
+        "source": "T47n1970_009:0280c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "禍患不生。",
+        "translation": "Disasters won't arise, and fortune and prosperity will last forever.",
+        "source": "T47n1970_009:0280c18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "福祿可永。",
+        "translation": "Their fortune and prosperity will last forever.",
+        "source": "T47n1970_009:0280c19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所得多矣。",
+        "translation": "What's gained is abundant.",
+        "source": "T47n1970_009:0280c19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有時而失命也。",
+        "translation": "There may be times when a person loses their life.",
+        "source": "T47n1970_009:0280c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非因君子而失。",
+        "translation": "It's not because of a gentleman that he loses it.",
+        "source": "T47n1970_009:0280c20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "使不為君子亦失矣。",
+        "translation": "Even if he's not a gentleman, he'll still lose it.",
+        "source": "T47n1970_009:0280c20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "命有定分故也。",
+        "translation": "That's because there's a set portion of life.",
+        "source": "T47n1970_009:0280c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為小人則人怨之。",
+        "translation": "When he's a lesser person, people resent him.",
+        "source": "T47n1970_009:0280c21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神怒之。",
+        "translation": "The gods are angry with them.",
+        "source": "T47n1970_009:0280c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "禍患將至。",
+        "translation": "Misfortune is imminent.",
+        "source": "T47n1970_009:0280c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "福壽以促。",
+        "translation": "Their fortune and long life will be shortened.",
+        "source": "T47n1970_009:0280c22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所失多矣。",
+        "translation": "There's much to lose.",
+        "source": "T47n1970_009:0280c22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有時而得命也。",
+        "translation": "Even though there's a time, he'll be given life.",
+        "source": "T47n1970_009:0280c22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非因為小人而得。",
+        "translation": "It wasn't because he was a villain that he attained it.",
+        "source": "T47n1970_009:0280c22_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "使不為小人亦得矣。",
+        "translation": "It's possible to attain it even if you don't work for a villain.",
+        "source": "T47n1970_009:0280c23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "命有定分故也。",
+        "translation": "That's because life has a set part.",
+        "source": "T47n1970_009:0280c23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孔子謂。",
+        "translation": "Confucius said.",
+        "source": "T47n1970_009:0280c24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不知命無以為君子。",
+        "translation": "'It's impossible to be a gentleman without knowing life.",
+        "source": "T47n1970_009:0280c24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "小人不知天命。",
+        "translation": "A lesser person doesn't know the mandate of heaven.",
+        "source": "T47n1970_009:0280c24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又謂。",
+        "translation": "It's also said.",
+        "source": "T47n1970_009:0280c25_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得之不得曰有命。",
+        "translation": "'Attaining it and not attaining it is called having a life.'",
+        "source": "T47n1970_009:0280c25_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能審此理。",
+        "translation": "He can examine this principle.",
+        "source": "T47n1970_009:0280c25_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂君子羸得為君子。",
+        "translation": "It's called a gentleman who attains it in vain and becomes a gentleman.",
+        "source": "T47n1970_009:0280c25_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "小人枉了為小人。",
+        "translation": "A lesser person who has gotten it in vain is called a lesser person.",
+        "source": "T47n1970_009:0280c26_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是以修淨土。",
+        "translation": "Such is the way to cultivate the Pure Land.",
+        "source": "T47n1970_009:0280c26_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必不在下品下矣。",
+        "translation": "He certainly won't be in the lower class or lower level.",
+        "source": "T47n1970_009:0280c27_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為聖為佛說",
+        "translation": "For the sake of the sages and the Buddha, he teaches.",
+        "source": "T47n1970_009:0280c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "子嘗謂。",
+        "translation": "Did Tzu ever say.",
+        "source": "T47n1970_009:0280c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孔子所以為聖人。",
+        "translation": "\"Confucius is therefore a sage.",
+        "source": "T47n1970_009:0280c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "固非一端。",
+        "translation": "There's certainly not one end to it.",
+        "source": "T47n1970_009:0280c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然其要在於三人行必有我師焉。",
+        "translation": "But the essence of it is that there must be a teacher for three people who practice.",
+        "source": "T47n1970_009:0280c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡者亦為師。",
+        "translation": "An evil person is also a teacher.",
+        "source": "T47n1970_009:0281a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何適而非師乎。",
+        "translation": "Why is it appropriate to be anything other than a teacher?",
+        "source": "T47n1970_009:0281a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見識如是。",
+        "translation": "Thus is his views and consciousness.",
+        "source": "T47n1970_009:0281a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "烏得不為聖人。",
+        "translation": "How could he not be a sage?",
+        "source": "T47n1970_009:0281a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又嘗謂。",
+        "translation": "It's also been said.",
+        "source": "T47n1970_009:0281a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋迦佛所以為佛者。",
+        "translation": "\"That's why Śākyamuni Buddha was a Buddha.",
+        "source": "T47n1970_009:0281a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "固非一端。",
+        "translation": "It's true that there's not one end to it.",
+        "source": "T47n1970_009:0281a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然其要在於山中修行時。",
+        "translation": "But the essence of it was when he was cultivating his practice in the mountains.",
+        "source": "T47n1970_009:0281a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "國王出獵問獸所在。",
+        "translation": "The king went out hunting and asked where the animal was.",
+        "source": "T47n1970_009:0281a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若實告之則害獸。",
+        "translation": "If he really told him, the animal would be harmed, but if he didn't, he spoke falsely.",
+        "source": "T47n1970_009:0281a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不實告之則妄語。",
+        "translation": "If he doesn't truly tell him, he'll speak falsely.",
+        "source": "T47n1970_009:0281a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沈吟未對。",
+        "translation": "He didn't answer with a sigh of relief.",
+        "source": "T47n1970_009:0281a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "國王怒斫去一臂。",
+        "translation": "The king was angry and chopped off one of his arms.",
+        "source": "T47n1970_009:0281a05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又問。",
+        "translation": "He asked again.",
+        "source": "T47n1970_009:0281a06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦沈吟未對。",
+        "translation": "He also replied quietly but didn't answer.",
+        "source": "T47n1970_009:0281a06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又斫去一臂。",
+        "translation": "He again chopped off an arm.",
+        "source": "T47n1970_009:0281a06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃發願云。",
+        "translation": "He then made a vow, saying.",
+        "source": "T47n1970_009:0281a06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我作佛時。",
+        "translation": "'When I become a buddha, I'll first save this person.'",
+        "source": "T47n1970_009:0281a07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先度此人。",
+        "translation": "I'll first save this person.",
+        "source": "T47n1970_009:0281a07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不使天下人傚彼為惡。",
+        "translation": "I won't allow people everywhere to follow him into evil.",
+        "source": "T47n1970_009:0281a07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "存心如是。",
+        "translation": "With this kind of intention, I won't become a buddha.",
+        "source": "T47n1970_009:0281a08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "烏得不為佛。",
+        "translation": "Udyāna then won't become a buddha.",
+        "source": "T47n1970_009:0281a08_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後出世為佛。",
+        "translation": "Later, he'll appear in the world as a buddha.",
+        "source": "T47n1970_009:0281a08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先度憍陳如者。",
+        "translation": "He first saved Kauṇḍinya.",
+        "source": "T47n1970_009:0281a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃當時國王也。",
+        "translation": "He was the king of his time.",
+        "source": "T47n1970_009:0281a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若如是以修淨土。",
+        "translation": "If he thus cultivated the Pure Land, he'd be equal to the great bodhisattvas.",
+        "source": "T47n1970_009:0281a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立與諸大菩薩等矣。",
+        "translation": "He would have been equal to the great bodhisattvas.",
+        "source": "T47n1970_009:0281a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿羅漢說",
+        "translation": "The arhat says.",
+        "source": "T47n1970_009:0281a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言。",
+        "translation": "The Buddha said.",
+        "source": "T47n1970_009:0281a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿羅漢雖能受天人供。",
+        "translation": "\"Although an arhat can accept offerings from gods and humans, his fortune is inferior to that of humans.",
+        "source": "T47n1970_009:0281a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而福及人也劣。",
+        "translation": "However, his merits are inferior to those of humans.",
+        "source": "T47n1970_009:0281a12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "假使有人。",
+        "translation": "Suppose there's a person.",
+        "source": "T47n1970_009:0281a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "百年供養四天下阿羅漢。",
+        "translation": "A hundred years would pass since then making offerings to arhats in the four heavens.",
+        "source": "T47n1970_009:0281a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不如發菩薩心一日供養佛。",
+        "translation": "It's not as good as making offerings to the Buddha in a single day while arousing the bodhisattva's aspiration.",
+        "source": "T47n1970_009:0281a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蓋佛自無量劫來救度眾生。",
+        "translation": "It's because the Buddha has been saving and liberating sentient beings for measureless eons.",
+        "source": "T47n1970_009:0281a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無非得福。",
+        "translation": "They've attained nothing but merit.",
+        "source": "T47n1970_009:0281a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而福利人也勝。",
+        "translation": "Their welfare is superior to that of a person.",
+        "source": "T47n1970_009:0281a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿羅漢了生死。",
+        "translation": "Once an arhat has ended birth and death, he enters nirvāṇa.",
+        "source": "T47n1970_009:0281a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂入涅槃獨善其身。",
+        "translation": "He then enters nirvāṇa and is alone in good health.",
+        "source": "T47n1970_009:0281a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故福及人劣矣。",
+        "translation": "Therefore, his merits are inferior to those of humans.",
+        "source": "T47n1970_009:0281a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛又言。",
+        "translation": "The Buddha also said.",
+        "source": "T47n1970_009:0281a16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若人有福。",
+        "translation": "\"Suppose a person is blessed.",
+        "source": "T47n1970_009:0281a17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曾供養佛。",
+        "translation": "They've made offerings to the Buddha.",
+        "source": "T47n1970_009:0281a17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勿謂。",
+        "translation": "Don't say that.",
+        "source": "T47n1970_009:0281a17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "供佛乃身後事。",
+        "translation": "Making offerings to the Buddha is something that happens after death.",
+        "source": "T47n1970_009:0281a17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "近年秀州一僧專念阿彌陀佛。",
+        "translation": "Recently, a monk in Xuzhou dedicated his mind to Amitâbha Buddha.",
+        "source": "T47n1970_009:0281a18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為人禱病即得痊愈。",
+        "translation": "He prayed for a person's recovery from illness.",
+        "source": "T47n1970_009:0281a18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈可謂佛不利於生前。",
+        "translation": "How can it be said that the Buddha is not beneficial in his lifetime?",
+        "source": "T47n1970_009:0281a19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既可禱病則亦可祈福。",
+        "translation": "Since he can pray for sickness, he can also pray for good fortune.",
+        "source": "T47n1970_009:0281a19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但恐信心不至耳。",
+        "translation": "But I'm afraid faith won't reach it.",
+        "source": "T47n1970_009:0281a20_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若修淨土期於復來化度者。",
+        "translation": "If someone cultivates the Pure Land and hopes to be saved by the Buddha again, they especially shouldn't be without merit.",
+        "source": "T47n1970_009:0281a20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尤不可無福。",
+        "translation": "It's especially important that they not be without good fortune.",
+        "source": "T47n1970_009:0281a21_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此不可不知。",
+        "translation": "Therefore, this should not be ignored.",
+        "source": "T47n1970_009:0281a21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "楞伽經說",
+        "translation": "The Laṅkâvatāra-sūtra says.",
+        "source": "T47n1970_009:0281a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "楞伽經說。",
+        "translation": "The Laṅkâvatāra Sutra says.",
+        "source": "T47n1970_009:0281a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淵源理致除一切妄想。",
+        "translation": "\"The abstruse source of principle causes the removal of all deluded perceptions.",
+        "source": "T47n1970_009:0281a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此一經有三譯。",
+        "translation": "There are three translations of this one sūtra.",
+        "source": "T47n1970_009:0281a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其十卷者太繁。",
+        "translation": "The ten-fascicle version is too cumbersome.",
+        "source": "T47n1970_009:0281a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四卷雖達磨發揚東彼所書。",
+        "translation": "Although four of the volumes were written by Dharma, who gave rise to the Dongbian texts.",
+        "source": "T47n1970_009:0281a24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譯得大晦。",
+        "translation": "The translation is quite obscure.",
+        "source": "T47n1970_009:0281a25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "難讀難曉。",
+        "translation": "It's difficult to read and difficult to understand.",
+        "source": "T47n1970_009:0281a25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯七卷者分明。",
+        "translation": "Only the seven-fascicle version is clear.",
+        "source": "T47n1970_009:0281a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修淨土欲上品上生者。",
+        "translation": "Those who cultivate the Pure Land and want to be born in the highest class of higher rebirth.",
+        "source": "T47n1970_009:0281a25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須讀誦大乘經典解第一義。",
+        "translation": "He must recite the great vehicle scriptures and understand the supreme truth.",
+        "source": "T47n1970_009:0281a26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此不可不知在四字號。",
+        "translation": "Therefore, this is a four-syllable scripture that can't be ignored.",
+        "source": "T47n1970_009:0281a27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二天人說",
+        "translation": "Two celestials taught this.",
+        "source": "T47n1970_009:0281a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "華嚴經云。",
+        "translation": "The Huayan Sutra says.",
+        "source": "T47n1970_009:0281a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人生有二天人隨人。",
+        "translation": "\"There are two kinds of gods and humans who are born to follow humans.",
+        "source": "T47n1970_009:0281a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一名同生。",
+        "translation": "One is born with the same name.",
+        "source": "T47n1970_009:0281a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二名同名。",
+        "translation": "The second is called the same name.",
+        "source": "T47n1970_009:0281a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天人常見人。",
+        "translation": "A celestial being doesn't see a human being.",
+        "source": "T47n1970_009:0281b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人不見天人。",
+        "translation": "Humans don't see celestials.",
+        "source": "T47n1970_009:0281b01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此二天人豈非善惡二部童子之徒歟。",
+        "translation": "Aren't these two celestials the disciples of the two groups of children, good and evil?",
+        "source": "T47n1970_009:0281b01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人之舉意發言動步常念此二天人。",
+        "translation": "When a person raises their mind, speaks, and moves their steps, they're always mindful of these two celestials.",
+        "source": "T47n1970_009:0281b02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見人而能無愧。",
+        "translation": "Seeing humans, they can be blameless.",
+        "source": "T47n1970_009:0281b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如此修淨土。",
+        "translation": "Such a person cultivates the Pure Land.",
+        "source": "T47n1970_009:0281b03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則必上品上生。",
+        "translation": "Then he'll surely be born in the highest class of rebirth.'",
+        "source": "T47n1970_009:0281b04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或曰。",
+        "translation": "Some people say.",
+        "source": "T47n1970_009:0281b04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一人尚有二天人。",
+        "translation": "'There are still two celestials in one person.",
+        "source": "T47n1970_009:0281b04_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何二天之多也。",
+        "translation": "Why are there so many two celestials?",
+        "source": "T47n1970_009:0281b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曰。",
+        "translation": "They said.",
+        "source": "T47n1970_009:0281b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一月普現一切水。",
+        "translation": "A single moon universally produces all waters.",
+        "source": "T47n1970_009:0281b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈必月之多哉。",
+        "translation": "How could there be more than one month?",
+        "source": "T47n1970_009:0281b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "小因果說",
+        "translation": "Explanation of Minor Causes and Effects",
+        "source": "T47n1970_009:0281b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有修橋人。",
+        "translation": "\"There's the bridge repairer.",
+        "source": "T47n1970_009:0281b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有毀橋人。",
+        "translation": "There's the person who destroys bridges.",
+        "source": "T47n1970_009:0281b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此天堂地獄之小因也。",
+        "translation": "These are the lesser causes of heaven and hell.",
+        "source": "T47n1970_009:0281b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有坐轎人。",
+        "translation": "There's the person sitting on the sedan chair ...",
+        "source": "T47n1970_009:0281b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有荷轎人。",
+        "translation": "There's the person who carries the sedan chair.",
+        "source": "T47n1970_009:0281b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此天堂地獄之小果也。",
+        "translation": "This is the lesser result of heaven and hell.",
+        "source": "T47n1970_009:0281b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觸類長之皆可見矣。",
+        "translation": "It's evident when you touch all kinds and grow them.",
+        "source": "T47n1970_009:0281b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常如是存心以修淨土。",
+        "translation": "If you always thus maintain your mind and cultivate the Pure Land.",
+        "source": "T47n1970_009:0281b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上品往生復何疑哉。",
+        "translation": "What doubt is there that he'll be reborn in the higher grades?",
+        "source": "T47n1970_009:0281b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "龍舒增廣淨土文卷第九(終)",
+        "translation": "Long shu zengguang jingtu wen roll 9 (end)",
+        "source": "T47n1970_009:0281b12_0",
+        "is_bad_quality": false
+    }
+]

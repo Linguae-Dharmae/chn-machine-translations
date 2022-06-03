@@ -1,0 +1,4400 @@
+[
+    {
+        "source_sentence": "阿毘達磨藏顯宗論卷第一",
+        "translation": "Revealing the Tenets of the Abhidharma Treasury, Volume 1",
+        "source": "T29n1563_001:0777a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者眾賢造",
+        "translation": "created by Venerable Samantabhadra",
+        "source": "T29n1563_001:0777a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T29n1563_001:0777a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "序品第一",
+        "translation": "preface to the first rank",
+        "source": "T29n1563_001:0777a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　諸有遍於一切法　　最極難知自共相　獨能悟解無邪亂　　是一切智今敬禮　我以順理廣博言　　對破餘宗顯本義　若經主言順理教　　則隨印述不求非　少違對法旨及經　　決定研尋誓除遣　已說論名順正理　　樂思擇者所應學　文句派演隔難尋　　非少劬勞所能解　為撮廣文令易了　　故造略論名顯宗　飾存彼頌以為歸　　刪順理中廣決擇　對彼謬言申正釋　　顯此所宗真妙義論曰。",
+        "translation": "\"All existences pervade all dharmas, and it's most difficult to understand their own characteristics in common. I alone can understand them without error. This is the omniscience I now revere. By speaking broadly in accord with the principle, I've revealed the original meaning by refuting other theories. If the sūtras speak in accord with the principle, they are then printed and stated without seeking to contradict the tenets of the teachings or the sūtras. I have definitely investigated them and vowed to expel them. I've explained the treatise's name, Accordance with the Correct Principle, and it's to be studied by those who wish to investigate it.",
+        "source": "T29n1563_001:0777a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既非遍智。",
+        "translation": "\"Since it's not pervasive knowledge, how can it be known?",
+        "source": "T29n1563_001:0777a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何能知。",
+        "translation": "How could it be known?",
+        "source": "T29n1563_001:0777a18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此佛世尊是一切智。",
+        "translation": "The Bhagavān is omniscient.",
+        "source": "T29n1563_001:0777a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能於諸法最極難知。",
+        "translation": "He's able to know the most extremely difficult things about all dharmas.",
+        "source": "T29n1563_001:0777a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自共相中覺無邪亂。",
+        "translation": "He perceives nothing mistaken in their own common features.",
+        "source": "T29n1563_001:0777a19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖非遍知而亦能知。",
+        "translation": "Even though it's not omniscience, it's still knowable.",
+        "source": "T29n1563_001:0777a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如佛教行定得果故。",
+        "translation": "That's because the practice of Buddhism is the fruit of concentration.",
+        "source": "T29n1563_001:0777a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有智者善鑒良醫。",
+        "translation": "He's like a person of wisdom who well discerns good doctors.",
+        "source": "T29n1563_001:0777a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如世有醫。",
+        "translation": "He's like a doctor in the world.",
+        "source": "T29n1563_001:0777a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先審病者風熱淡等所起疾源。",
+        "translation": "First, he examines the illnesses of a patient caused by wind, fever, and lightness.",
+        "source": "T29n1563_001:0777a21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復如實觀性習二體。",
+        "translation": "He also accurately observes the two essences of nature and habituation.",
+        "source": "T29n1563_001:0777a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "年時處等種種不同。",
+        "translation": "There are various differences in years, times, places, and so forth.",
+        "source": "T29n1563_001:0777a22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲蠲除說授方藥。",
+        "translation": "He then explains the prescription and medicine in order to remove it.",
+        "source": "T29n1563_001:0777a23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有患者能順服行。",
+        "translation": "Those who had the condition were able to follow and practice it.",
+        "source": "T29n1563_001:0777a23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "痼疾漸除身安日益。",
+        "translation": "Their chronic illnesses are gradually removed, and their bodies become increasingly comfortable.",
+        "source": "T29n1563_001:0777a24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智者尋驗知實良醫。",
+        "translation": "A wise person searches for and examines a doctor who knows he's really a good doctor.",
+        "source": "T29n1563_001:0777a24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸方藥具淨遍智。",
+        "translation": "He has purifying and pervasive knowledge of prescriptions and medicines.",
+        "source": "T29n1563_001:0777a25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是世尊知所化者貪瞋癡等煩惱病源。",
+        "translation": "Thus, the Bhagavān knows the source of the afflictions and illnesses of greed, anger, and delusion in those he transforms.",
+        "source": "T29n1563_001:0777a25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復如實觀本性修集二善種子勝解隨眠。",
+        "translation": "He also truly observes the original nature, cultivates the collection of the two good seeds, and has excellent resolve to follow along with dormancy.",
+        "source": "T29n1563_001:0777a26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及彼堪能自圓滿等。",
+        "translation": "He also observes that they're capable of self-fulfillment and so forth.",
+        "source": "T29n1563_001:0777a27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲令彼暫永滅故。",
+        "translation": "In order to cause them to permanently cease for a while, he teaches them the prescriptions and medicines to subdue the two paths.",
+        "source": "T29n1563_001:0777a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說授伏除二道方藥。",
+        "translation": "He teaches them how to subdue and remove the prescriptions and medicines of the two paths.",
+        "source": "T29n1563_001:0777a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸所化者能順服行。",
+        "translation": "Those who are converted can then obey and practice them.",
+        "source": "T29n1563_001:0777a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若別若通對治道藥。",
+        "translation": "Whether it's specific or shared, it's a remedy for the path of antidotes.",
+        "source": "T29n1563_001:0777a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無始數習增盛堅牢。",
+        "translation": "Beginningless accumulations become more numerous, robust, and resolute.",
+        "source": "T29n1563_001:0777a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸煩惱病漸漸除遣。",
+        "translation": "Gradually, the afflictive diseases are removed.",
+        "source": "T29n1563_001:0777b01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貪等滅得於自身中。",
+        "translation": "Their cravings and so forth cease, and they attain them in themselves.",
+        "source": "T29n1563_001:0777b01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨道淺深倍倍增勝。",
+        "translation": "As the path becomes shallower and deeper, it multiplies and increases in strength.",
+        "source": "T29n1563_001:0777b02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由斯仰測知我大師滅一切冥具一切智。",
+        "translation": "From this, we can admire and fathom that our great teacher has ceased all darkness and possesses all cognition.",
+        "source": "T29n1563_001:0777b02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故讚頌者頌讚佛言。",
+        "translation": "Therefore, those who praise him extol the Buddha, saying.",
+        "source": "T29n1563_001:0777b03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　誰能如尊善分別　　隨眠境界自共相　無量無邊諸品類　　如應宣說利有情　誰能漸次順修行　　不得成於勝利樂　無智不能順聖教　　豈無驗過在如來有於思擇增上慢人。",
+        "translation": "\"Who is like the venerable who well discerns the distinctive characteristics of the realm of latent affliction, the numberless and limitless varieties of sentient beings, and who should explain them for the benefit of sentient beings? Who can gradually follow cultivation, not achieving superior benefit and happiness, without knowledge and unable to follow noble teaching? Is there nothing to be gained from the Tathāgata who's conceited and arrogant about discriminating?",
+        "source": "T29n1563_001:0777b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂佛世尊非一切智。",
+        "translation": "They say the Bhagavān isn't omniscient.",
+        "source": "T29n1563_001:0777b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所請問別異而答。",
+        "translation": "They give different answers to the questions they're asked.",
+        "source": "T29n1563_001:0777b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂作是言。",
+        "translation": "He says, \"This is the way to say it.",
+        "source": "T29n1563_001:0777b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不應記諸別異答。",
+        "translation": "'This shouldn't be remembered as a different kind of answer.'",
+        "source": "T29n1563_001:0777b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無知起故。",
+        "translation": "It's because ignorance arises.",
+        "source": "T29n1563_001:0777b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於前際說不可知。",
+        "translation": "Furthermore, at the previous time, it was said that it couldn't be known.",
+        "source": "T29n1563_001:0777b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即自顯是無知故。",
+        "translation": "This is self-revealing as ignorance.",
+        "source": "T29n1563_001:0777b11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又不先覺孫陀利緣及縱彼朋造諸惡故。",
+        "translation": "It's also because he didn't first realize Sundarī's conditions and connived at the evil that his friends were doing.",
+        "source": "T29n1563_001:0777b12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於戰遮婆羅門女所起謗毀不能遣故。",
+        "translation": "Also, because he couldn't get rid of the slander caused by the warrior goddess Brahman, he didn't listen to Devadatta first.",
+        "source": "T29n1563_001:0777b13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又先聽許提婆達多於佛法中而出家故。",
+        "translation": "Also, because he had first heard that Devadatta had left home while still in the Buddhist fold.",
+        "source": "T29n1563_001:0777b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於外道嗢達洛迦先自不知命存亡故。",
+        "translation": "Also, because he didn't know whether his life would end up in the non-Buddhist world, he didn't foresee the city of Pāṭaliputra as a future home.",
+        "source": "T29n1563_001:0777b15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又不預定波吒釐城當有如斯難事起故。",
+        "translation": "It's also because he didn't foresee that such difficult things would arise in the city of Pāṭaliputra.",
+        "source": "T29n1563_001:0777b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又不懸記自佛法中當有部執十八異故。",
+        "translation": "It's also because he doesn't foresee that there will be eighteen differences in his own interpretation of the Buddha's teaching.",
+        "source": "T29n1563_001:0777b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又說諸業有不定故。",
+        "translation": "It's also because it's said that there's uncertainty about karma.",
+        "source": "T29n1563_001:0777b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "外道謗詞略述如是。",
+        "translation": "This is how non-Buddhists summarize their denigrating statements.",
+        "source": "T29n1563_001:0777b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸外道固執在懷。",
+        "translation": "Those non-Buddhists hold firmly to what's in their minds.",
+        "source": "T29n1563_001:0777b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切智尊雖設種種善權化導。",
+        "translation": "Although the All-aware One establishes various good authorities to guide them, they can't cause correct enlightenment to arise in their minds.",
+        "source": "T29n1563_001:0777b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而未能令於正等覺生淨信解。",
+        "translation": "They can't cause pure faith and understanding to arise from being perfectly enlightened.",
+        "source": "T29n1563_001:0777b20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具勝福慧求真理人。",
+        "translation": "Only someone with superior merit and wisdom who seeks the truth can measure the ocean of all cognition.",
+        "source": "T29n1563_001:0777b20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方能測量一切智海。",
+        "translation": "Only then can he survey the ocean of omniscience.",
+        "source": "T29n1563_001:0777b21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今我勇銳發正勤心。",
+        "translation": "Now, I'll be resolute and arouse the mind of right effort.",
+        "source": "T29n1563_001:0777b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如理順宜且少開悟。",
+        "translation": "I'll follow the principle as appropriate and attain enlightenment at a minimum.",
+        "source": "T29n1563_001:0777b22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言於請問別異而答。",
+        "translation": "I'll answer your questions with a different answer.",
+        "source": "T29n1563_001:0777b22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂作是言。",
+        "translation": "It's called saying this.",
+        "source": "T29n1563_001:0777b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不應記諸別異答無知起者。",
+        "translation": "'This shouldn't be remembered as a specific answer to someone who arises from ignorance.'",
+        "source": "T29n1563_001:0777b23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不應理。",
+        "translation": "This is unreasonable.",
+        "source": "T29n1563_001:0777b24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其所立因非決定故。",
+        "translation": "It's because the reason it's posited isn't definite.",
+        "source": "T29n1563_001:0777b24_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且應詳審。",
+        "translation": "It should also be carefully considered.",
+        "source": "T29n1563_001:0777b24_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為佛世尊於所請問。",
+        "translation": "The Bhagavān asked this question for him.",
+        "source": "T29n1563_001:0777b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由無知故言不應記。",
+        "translation": "Because of ignorance, he said it shouldn't be recorded.",
+        "source": "T29n1563_001:0777b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為觀問者懷聰叡慢。",
+        "translation": "It's because the person observing the question is wise and conceited.",
+        "source": "T29n1563_001:0777b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非卒能令如理信解。",
+        "translation": "It's not immediately possible to make them believe and understand it according to reality.",
+        "source": "T29n1563_001:0777b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故雖了達而不為記。",
+        "translation": "Therefore, even though he understands it, he doesn't write it down.",
+        "source": "T29n1563_001:0777b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有矯問。",
+        "translation": "Suppose someone asks, \"Is the daughter of a rock black or white?",
+        "source": "T29n1563_001:0777b27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸石女兒為黑為白。",
+        "translation": "\"Are the children of the stones black or white?",
+        "source": "T29n1563_001:0777b27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "終不為記。",
+        "translation": "It's never recorded.",
+        "source": "T29n1563_001:0777b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈別有方能祛彼疾。",
+        "translation": "Is there another way to get rid of that disease?",
+        "source": "T29n1563_001:0777b28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是外道執我為真。",
+        "translation": "Such a non-Buddhist clings to self as true.",
+        "source": "T29n1563_001:0777b28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "矯問如來死後為有為無等事。",
+        "translation": "They pretend to ask whether the Tathāgata is existent or nonexistent after death.'",
+        "source": "T29n1563_001:0777b29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊告言。",
+        "translation": "The Bhagavān told them.",
+        "source": "T29n1563_001:0777b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不應記。",
+        "translation": "\"This shouldn't be remembered.",
+        "source": "T29n1563_001:0777c01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛意說我實無有故不應記別。",
+        "translation": "The Buddha meant to say that because the self really doesn't exist, it shouldn't be remembered separately.",
+        "source": "T29n1563_001:0777c01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此顯若法都非實有。",
+        "translation": "This shows that if any dharmas really don't exist, then they shouldn't be distinguished in that question.",
+        "source": "T29n1563_001:0777c02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應於中為差別問。",
+        "translation": "They shouldn't be asked to discriminate among them.",
+        "source": "T29n1563_001:0777c02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或佛世尊善權方便。",
+        "translation": "Perhaps the Bhagavān is skillful in expedient devices.",
+        "source": "T29n1563_001:0777c03_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為令調伏故不為記。",
+        "translation": "He doesn't record them for the sake of bringing about their submission.",
+        "source": "T29n1563_001:0777c03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不為記是調伏因。",
+        "translation": "Not recognizing it as such is a cause for bringing about submission.",
+        "source": "T29n1563_001:0777c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非由無知作別異答。",
+        "translation": "It's not because of ignorance that he gives a different answer.",
+        "source": "T29n1563_001:0777c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又不應謂佛無辯才。",
+        "translation": "It also shouldn't be said that the Buddha lacks eloquence.",
+        "source": "T29n1563_001:0777c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼問論道所不攝故。",
+        "translation": "It's because his questions and theories aren't included in the path.",
+        "source": "T29n1563_001:0777c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼所問論道攝者。",
+        "translation": "If what he asks is included in the path of the discussion, then the Buddha doesn't record it for that reason.",
+        "source": "T29n1563_001:0777c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛不為記可無辯才。",
+        "translation": "The Buddha doesn't record it for them, so they could lack eloquence.",
+        "source": "T29n1563_001:0777c06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非於此中如理難問少分可得。",
+        "translation": "It's not here that a little bit of the truth can be derived from such difficult questions.",
+        "source": "T29n1563_001:0777c06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何容乃謂佛無辯才。",
+        "translation": "How can it be said that the Buddha lacks eloquence?",
+        "source": "T29n1563_001:0777c07_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又聽法者心不慇故。",
+        "translation": "It's because the mind of someone listening to the teaching isn't attached to it.",
+        "source": "T29n1563_001:0777c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "執我見故。",
+        "translation": "It's because they cling to a view of self.",
+        "source": "T29n1563_001:0777c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "根未熟故。",
+        "translation": "Their faculties aren't ripe.",
+        "source": "T29n1563_001:0777c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊無方可令信解。",
+        "translation": "The Bhagavān can't make them believe and understand it.",
+        "source": "T29n1563_001:0777c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故於所問置而不記。",
+        "translation": "That's why they ignore the questions and don't remember them.",
+        "source": "T29n1563_001:0777c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應以不記所問謂大仙尊非一切智。",
+        "translation": "Therefore, you shouldn't say the Bhagavān isn't omniscient because he doesn't remember what he asks.",
+        "source": "T29n1563_001:0777c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言於初際說不可知。",
+        "translation": "It's said that at the beginning, he said it's not knowable.",
+        "source": "T29n1563_001:0777c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即自顯是無知者。",
+        "translation": "That is to say, it's self-evident that he's ignorant.",
+        "source": "T29n1563_001:0777c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦非理。",
+        "translation": "This is also not the truth.",
+        "source": "T29n1563_001:0777c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無法不應為智境故。",
+        "translation": "It's because dharmas that don't exist shouldn't be the objects of cognition.",
+        "source": "T29n1563_001:0777c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於有法境智若不生。",
+        "translation": "If knowledge of the objects of existent dharmas doesn't arise, then the Tathāgata can be said not to have omniscience.",
+        "source": "T29n1563_001:0777c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可謂如來非一切智。",
+        "translation": "It can be said that the Tathāgata doesn't have omniscience.",
+        "source": "T29n1563_001:0777c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本無初際智何所知。",
+        "translation": "What does cognition know about the first instance of nonexistence?",
+        "source": "T29n1563_001:0777c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無故不知。",
+        "translation": "It's because of nonknowledge.",
+        "source": "T29n1563_001:0777c13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈成無智。",
+        "translation": "How could it be that cognition is lacking?",
+        "source": "T29n1563_001:0777c14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾何故不但說無。",
+        "translation": "If that's the case, then why isn't it just said to be nonexistent?",
+        "source": "T29n1563_001:0777c14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此說不容更立因故。",
+        "translation": "This teaching doesn't allow for the establishment of another cause.",
+        "source": "T29n1563_001:0777c14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若謂應立不可知因。",
+        "translation": "If it's said that an unknowable cause should be established, then that's not true either.",
+        "source": "T29n1563_001:0777c15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦不然。",
+        "translation": "That's also not true.",
+        "source": "T29n1563_001:0777c15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非決定故。",
+        "translation": "It's not definite.",
+        "source": "T29n1563_001:0777c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或法雖有緣闕不知。",
+        "translation": "Perhaps a cause is missing even though the condition is present and unknown.",
+        "source": "T29n1563_001:0777c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不可知非無因性。",
+        "translation": "Therefore, it's unknowable and not without a cause.",
+        "source": "T29n1563_001:0777c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若立無性為不知因。",
+        "translation": "If it's posited that the absence of a nature is the cause of not knowing, then it's ultimately not applicable as a metaphor.",
+        "source": "T29n1563_001:0777c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即畢竟無可為同喻。",
+        "translation": "That is, after all, it's not possible to use the same metaphor.",
+        "source": "T29n1563_001:0777c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為容因故說不可知。",
+        "translation": "It's said to be unknowable because it allows for a cause.",
+        "source": "T29n1563_001:0777c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若謂無因有不成失。",
+        "translation": "If it's claimed that the absence of a cause has unproved errors, then it's unreasonable.",
+        "source": "T29n1563_001:0777c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不應理。",
+        "translation": "This is unreasonable.",
+        "source": "T29n1563_001:0777c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非不成故。",
+        "translation": "It's not unproved.",
+        "source": "T29n1563_001:0777c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生死初際若定非無。",
+        "translation": "If the first point of birth-and-death is determined and not nonexistent, then the first point of the body has no cause.",
+        "source": "T29n1563_001:0777c19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即初際身無無因起。",
+        "translation": "That means the first-moment body has no cause and no arising.",
+        "source": "T29n1563_001:0777c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初無因者後亦應無。",
+        "translation": "If there's no cause in the first, then there should be none in the latter.",
+        "source": "T29n1563_001:0777c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以先後身無異因故。",
+        "translation": "That's because the first and last bodies don't have different causes.",
+        "source": "T29n1563_001:0777c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若許爾者。",
+        "translation": "If that's allowed, then.",
+        "source": "T29n1563_001:0777c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即諸所行淨不淨業皆應無果。",
+        "translation": "That means all the pure and impure actions that are performed should have no result.",
+        "source": "T29n1563_001:0777c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既不許然。",
+        "translation": "Since that's not allowed, it means the first limit previously established is nonexistent.",
+        "source": "T29n1563_001:0777c22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即先所立初際無故。",
+        "translation": "It means that what was previously posited at the beginning is nonexistent.",
+        "source": "T29n1563_001:0777c22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非不成因。",
+        "translation": "It's not that it's not a cause.",
+        "source": "T29n1563_001:0777c23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若謂生死無初際故應如虛空無後際者。",
+        "translation": "If someone says that because there's no beginning of birth-and-death, it should be like space without an end, then that's unreasonable.",
+        "source": "T29n1563_001:0777c23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不應理。",
+        "translation": "That's also unreasonable.",
+        "source": "T29n1563_001:0777c24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "外種同故。",
+        "translation": "It's because the external seeds are the same.",
+        "source": "T29n1563_001:0777c24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如外穀麥後因前生。",
+        "translation": "It's like external grains that are later causes of previous birth.",
+        "source": "T29n1563_001:0777c24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖無初際。",
+        "translation": "Even though there's no beginning, it's still in contact with various burning conditions like fire and water.",
+        "source": "T29n1563_001:0777c25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遇火水等諸燒爛緣而永壞滅。",
+        "translation": "When it meets a burning condition like fire or water, it permanently perishes.",
+        "source": "T29n1563_001:0777c25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是生死煩惱業因展轉相生。",
+        "translation": "Thus, the causes of the afflictions of birth-and-death continue to arise one after the other.",
+        "source": "T29n1563_001:0777c26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖無初際。",
+        "translation": "Although there's no initial point, it's caused by repeated accumulation of craving, anger, delusion, and so forth.",
+        "source": "T29n1563_001:0777c26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而由數習貪瞋癡等對治力故。",
+        "translation": "Yet it's because of the antidotes of repeated habituation of craving, ill-will, and so forth.",
+        "source": "T29n1563_001:0777c27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生死諸蘊畢竟不生。",
+        "translation": "the aggregates of birth-and-death are ultimately unarisen.",
+        "source": "T29n1563_001:0777c27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即為後際。",
+        "translation": "That's the latter end.",
+        "source": "T29n1563_001:0777c28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無生故。",
+        "translation": "Because they're empty and don't arise, the latter end can be without birth-and-death and with birth.",
+        "source": "T29n1563_001:0777c28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後際可無生死有生。",
+        "translation": "There can be no birth from birth-and-death or birth at the latter end.",
+        "source": "T29n1563_001:0777c28_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈無後際現見生法。",
+        "translation": "Isn't there no afterlife in which the present sees birth?",
+        "source": "T29n1563_001:0777c29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "定有終時。",
+        "translation": "There's definitely an ending time.",
+        "source": "T29n1563_001:0777c29_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生死既生。",
+        "translation": "After birth and death are born, then the principle must return to cessation.",
+        "source": "T29n1563_001:0777c29_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理必歸滅。",
+        "translation": "in principle, it must return to cessation.",
+        "source": "T29n1563_001:0778a01_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故說初際是不可知無故為因。",
+        "translation": "Therefore, it's said that the first limit is unknowable and has no reason to be the cause.",
+        "source": "T29n1563_001:0778a01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其義善立。",
+        "translation": "This is a well-established meaning.",
+        "source": "T29n1563_001:0778a02_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應以不知初際。",
+        "translation": "Therefore, it shouldn't be taken to mean that you don't know the first limit.",
+        "source": "T29n1563_001:0778a02_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂佛世尊非一切智。",
+        "translation": "It means the Bhagavān isn't omniscient.",
+        "source": "T29n1563_001:0778a02_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言不先覺孫陀利緣及縱彼朋造諸惡者。",
+        "translation": "He says he doesn't first realize Sundarī's conditions and connives at the evil that his friends do.",
+        "source": "T29n1563_001:0778a03_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦非理。",
+        "translation": "That's also not true.",
+        "source": "T29n1563_001:0778a04_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖先覺知。",
+        "translation": "Even though they first realized it, they didn't reveal it to themselves in order to avoid many faults.",
+        "source": "T29n1563_001:0778a04_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為避多過故不自顯。",
+        "translation": "He doesn't reveal it because he wants to avoid many faults.",
+        "source": "T29n1563_001:0778a04_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若佛先言。",
+        "translation": "Suppose the Buddha first said.",
+        "source": "T29n1563_001:0778a05_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我無此事。",
+        "translation": "\"I don't have this condition.",
+        "source": "T29n1563_001:0778a05_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為此事者自是餘人。",
+        "translation": "'This is someone else's doing.'",
+        "source": "T29n1563_001:0778a05_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即彼朋流惡心轉盛。",
+        "translation": "That's when the evil minds of those peers grow strong.",
+        "source": "T29n1563_001:0778a06_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸中庸者咸共懷疑。",
+        "translation": "The middling ones all suspect it together.",
+        "source": "T29n1563_001:0778a06_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是過愆為佛為彼。",
+        "translation": "Such a transgression is committed by the Buddha and by others.",
+        "source": "T29n1563_001:0778a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又大人法不顯他非。",
+        "translation": "Furthermore, a great man's teaching doesn't reveal the faults of others.",
+        "source": "T29n1563_001:0778a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛是大人豈揚他惡。",
+        "translation": "How could a great man like the Buddha praise the evil of others?",
+        "source": "T29n1563_001:0778a07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又顯彼惡令無量人憎背世尊障入正法。",
+        "translation": "Also, demonstrating their evil causes measureless people to hate the Bhagavān and hinder their entry into the right teaching.",
+        "source": "T29n1563_001:0778a08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又佛觀見自身他身。",
+        "translation": "The Buddha also observes himself and others in his body.",
+        "source": "T29n1563_001:0778a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有招謗毀短壽定業。",
+        "translation": "It's a predisposition to defame others and shorten their lives.",
+        "source": "T29n1563_001:0778a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又為開慰末世苾芻。",
+        "translation": "He also wants to reassure monks of the latter age.",
+        "source": "T29n1563_001:0778a10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛觀當來正法將沒。",
+        "translation": "The Buddha observes that in the future, the right teaching will soon disappear.",
+        "source": "T29n1563_001:0778a10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多聞持戒眾望苾芻。",
+        "translation": "Hearing much and upholding precepts, many hope that the monks will die.",
+        "source": "T29n1563_001:0778a11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少有不遭謗毀而死。",
+        "translation": "There are few of them who won't be defamed and die.",
+        "source": "T29n1563_001:0778a11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲令彼自開慰言。",
+        "translation": "He wants to cause them to reassure themselves, saying.",
+        "source": "T29n1563_001:0778a12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我大仙尊。",
+        "translation": "\"We, the great sages, are honored.",
+        "source": "T29n1563_001:0778a12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切煩惱過失習氣。",
+        "translation": "'All afflictive, wrong karmic impressions.",
+        "source": "T29n1563_001:0778a12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆永拔根名稱普聞。",
+        "translation": "They are all permanently uprooted, and their names are universally heard.",
+        "source": "T29n1563_001:0778a13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至色究竟尚被囂謗。",
+        "translation": "Up to the ultimate level of form, they're still being disparaged.",
+        "source": "T29n1563_001:0778a13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況我何人因此心安修諸善業。",
+        "translation": "How could anyone of us thus cultivate good actions with a peaceful mind?",
+        "source": "T29n1563_001:0778a14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由觀如是得失決定。",
+        "translation": "From observing this, we'll be able to determine gain and loss.",
+        "source": "T29n1563_001:0778a14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故世尊不先自顯。",
+        "translation": "Therefore, the Bhagavān doesn't reveal it to himself first.",
+        "source": "T29n1563_001:0778a15_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又過七日其事自彰。",
+        "translation": "After another seven days, his actions will be self-evident.",
+        "source": "T29n1563_001:0778a15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯佛尊高過歸外道。",
+        "translation": "It reveals that the Bhagavān is superior to non-Buddhists.",
+        "source": "T29n1563_001:0778a16_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不應以不自顯因謂佛世尊非一切智。",
+        "translation": "Therefore, it shouldn't be said that the Bhagavān isn't omniscient because he doesn't reveal himself.",
+        "source": "T29n1563_001:0778a16_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即由此故應知已釋。",
+        "translation": "That's why it should be known and explained.",
+        "source": "T29n1563_001:0778a17_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不自披遣戰遮謗因。",
+        "translation": "It's not a self-revealing cause that rejects the war against denigration.",
+        "source": "T29n1563_001:0778a18_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以聽許提婆達多於佛法中而出家者。",
+        "translation": "That's why he heard that Devadatta left home while still in the midst of the Buddha's teaching.",
+        "source": "T29n1563_001:0778a18_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此有深意。",
+        "translation": "This has a profound meaning.",
+        "source": "T29n1563_001:0778a19_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛觀彼人。",
+        "translation": "The Buddha observes that person.",
+        "source": "T29n1563_001:0778a19_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不出家者。",
+        "translation": "'If he doesn't leave home, then he'll surely become a powerful wheel-turning king.'",
+        "source": "T29n1563_001:0778a20_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "定當得作力轉輪王。",
+        "translation": "He'll surely become a powerful wheel-turning king.",
+        "source": "T29n1563_001:0778a20_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "害無量人滅壞佛法。",
+        "translation": "He'll harm measureless people and destroy the Buddha's teaching.",
+        "source": "T29n1563_001:0778a20_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蹎墜惡趣難有出期。",
+        "translation": "They'll fall into a bad destiny and have no hope of escape.",
+        "source": "T29n1563_001:0778a21_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由度出家殖深善本。",
+        "translation": "Because they've been reborn, they'll cultivate deep roots of goodness.",
+        "source": "T29n1563_001:0778a21_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非出家者所不能殖。",
+        "translation": "It's something that someone who's not a renunciant can't cultivate.",
+        "source": "T29n1563_001:0778a22_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為護多人令無損害。",
+        "translation": "He protects many people so that they won't be harmed.",
+        "source": "T29n1563_001:0778a22_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及遮眾惡故許出家。",
+        "translation": "He permits renunciation because it protects many people from harm and prevents many evils.",
+        "source": "T29n1563_001:0778a23_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言於外道嗢達洛迦先自不知命存亡者。",
+        "translation": "They say that non-Buddhists don't know whether their lives will last or perish.",
+        "source": "T29n1563_001:0778a23_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦非理。",
+        "translation": "That's also not true.",
+        "source": "T29n1563_001:0778a24_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念即知故。",
+        "translation": "It's because mindfulness is knowing.",
+        "source": "T29n1563_001:0778a24_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非於餘境餘識生時。",
+        "translation": "It's not that when other consciousnesses arise in other contexts.",
+        "source": "T29n1563_001:0778a25_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即能了知所餘識境。",
+        "translation": "He immediately knows the remaining consciousnesses as they arise.",
+        "source": "T29n1563_001:0778a25_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛心先在說法事中。",
+        "translation": "The Buddha's mind was first in the matter of teaching the Dharma.",
+        "source": "T29n1563_001:0778a26_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未觀彼人命存亡事。",
+        "translation": "It's not yet observing the survival of a person's life.",
+        "source": "T29n1563_001:0778a26_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後欲知彼纔舉心時。",
+        "translation": "Later, when he wants to know that person's life has sunk in his mind.",
+        "source": "T29n1563_001:0778a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即如實知其命已過。",
+        "translation": "He then accurately knows that person's life has passed.",
+        "source": "T29n1563_001:0778a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若欲知彼而不能知。",
+        "translation": "If he wants to know that person but can't, it can be said that the Tathāgata doesn't have omniscience.",
+        "source": "T29n1563_001:0778a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可謂如來非一切智。",
+        "translation": "It can be said that the Tathāgata doesn't have omniscience.",
+        "source": "T29n1563_001:0778a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心屬餘境此境未緣。",
+        "translation": "The mind belongs to other objects that have not yet been cognized.",
+        "source": "T29n1563_001:0778a28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即謂無知。",
+        "translation": "That's called not knowing.",
+        "source": "T29n1563_001:0778a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斯不應理言不預定波吒釐城當有如斯難事起者。",
+        "translation": "It's unreasonable to say that such a difficult thing will arise in Pāṭaliputra without foreknowledge.",
+        "source": "T29n1563_001:0778a29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不應理。",
+        "translation": "It's also unreasonable.",
+        "source": "T29n1563_001:0778b01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "密預定故。",
+        "translation": "It's because it's densely predetermined.",
+        "source": "T29n1563_001:0778b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先密意說。",
+        "translation": "It's explained in the previous esoteric teaching.",
+        "source": "T29n1563_001:0778b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若免脫餘。",
+        "translation": "'If we avoid the rest, the rest will be harmed by the rest.'",
+        "source": "T29n1563_001:0778b02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘復為餘之所損害。",
+        "translation": "The rest will then be harmed by the others.",
+        "source": "T29n1563_001:0778b02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂佛先覺若守護餘。",
+        "translation": "It means that if the Buddha's prerequisites guard the remainder ...",
+        "source": "T29n1563_001:0778b03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘必為餘之所損害。",
+        "translation": "The rest will surely be harmed by the rest.",
+        "source": "T29n1563_001:0778b03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於三難事各令自守。",
+        "translation": "Each of these three difficult tasks will cause himself to guard them.",
+        "source": "T29n1563_001:0778b04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘不能損。",
+        "translation": "The rest can't be harmed.",
+        "source": "T29n1563_001:0778b04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故密意說。",
+        "translation": "That's why the esoteric teaching says.",
+        "source": "T29n1563_001:0778b04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即預定難事必然。",
+        "translation": "'This is a predetermination that the difficult situation is certain.'",
+        "source": "T29n1563_001:0778b05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何謂世尊非一切智。",
+        "translation": "What's the meaning of this saying that the Bhagavān doesn't have omniscience?",
+        "source": "T29n1563_001:0778b05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言不懸記自佛法中當有部執十八異者。",
+        "translation": "He said that there must be a part of the Dharma that doesn't hang on to the memory of the Buddha that holds to the 18 differences.",
+        "source": "T29n1563_001:0778b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦非理。",
+        "translation": "That's also not true.",
+        "source": "T29n1563_001:0778b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已懸記故。",
+        "translation": "It's because they've already suspended their predictions.",
+        "source": "T29n1563_001:0778b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說當來有苾芻眾。",
+        "translation": "It's like saying that there will be a multitude of monks in the future.",
+        "source": "T29n1563_001:0778b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於我言義不善了知。",
+        "translation": "They don't well understand the meaning of my words.",
+        "source": "T29n1563_001:0778b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "部執競興互相非毀。",
+        "translation": "Their sectarian attachments compete with each other and don't disparage each other.",
+        "source": "T29n1563_001:0778b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊於此略說內外二種防護。",
+        "translation": "Here, the Bhagavān briefly explains the two kinds of protection, internal and external.",
+        "source": "T29n1563_001:0778b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內謂應如黑說大說。",
+        "translation": "The internal one is that it should be explained as Hei explains the great teaching.",
+        "source": "T29n1563_001:0778b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "契經所顯觀察防護。",
+        "translation": "These are the guards that are revealed in the scriptures and observed.",
+        "source": "T29n1563_001:0778b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "外謂應如六可愛法。",
+        "translation": "Externally, they should be like the six desirable qualities.",
+        "source": "T29n1563_001:0778b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "契經所說斂攝防護。",
+        "translation": "They are guarded by the scriptures' explanation of how to gather in.",
+        "source": "T29n1563_001:0778b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又見集法契經中言。",
+        "translation": "See also the statement in the Sutra on the Merit of the Collection of Dharma.",
+        "source": "T29n1563_001:0778b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於我法中當有異說。",
+        "translation": "'Among my teachings, there will be different explanations.'",
+        "source": "T29n1563_001:0778b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂有說唯金剛喻定。",
+        "translation": "It's said that there's only the metaphorical concentration of vajra.",
+        "source": "T29n1563_001:0778b12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能頓斷煩惱。",
+        "translation": "It's capable of immediately ending afflictions.",
+        "source": "T29n1563_001:0778b12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說擇滅涅槃二法為體。",
+        "translation": "Some say that the two dharmas of analytical cessation and nirvāṇa are their essence.",
+        "source": "T29n1563_001:0778b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說不相應行無別實物。",
+        "translation": "Some say that unassociated practices have no separate substance.",
+        "source": "T29n1563_001:0778b13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說表業尚無。",
+        "translation": "Some say manifest actions are still absent.",
+        "source": "T29n1563_001:0778b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況無表業。",
+        "translation": "It's even more so when there's no manifest activity.",
+        "source": "T29n1563_001:0778b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說一切色法大種為體。",
+        "translation": "Some say the great variety of all form dharmas is their essence.",
+        "source": "T29n1563_001:0778b14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說前後相似為同類因。",
+        "translation": "Some say that similarities between past and future are the same cause.",
+        "source": "T29n1563_001:0778b15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說色處唯用顯色為體。",
+        "translation": "Some say the only thing that exists in the realm of form is manifest form as its essence.",
+        "source": "T29n1563_001:0778b16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說觸處唯用大種為體。",
+        "translation": "Some say the sense-field of touch has only the elements as its essence.",
+        "source": "T29n1563_001:0778b16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說唯有觸處是有對礙。",
+        "translation": "Some say the only thing that exists is the sense-field of touch, which is an obstruction.",
+        "source": "T29n1563_001:0778b17_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說觸處身處是有對礙。",
+        "translation": "Some say the sense-field of touch and body alone are oppositely obstructed.",
+        "source": "T29n1563_001:0778b17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說唯五外處是有對礙。",
+        "translation": "Some say the only thing that's an obstruction are the five external sense-fields.",
+        "source": "T29n1563_001:0778b18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說眼識能見。",
+        "translation": "Some say the visual consciousness is able to see.",
+        "source": "T29n1563_001:0778b19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說和合能見。",
+        "translation": "Some say that the combined consciousness is able to see.",
+        "source": "T29n1563_001:0778b19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說意界法界俱常無常。",
+        "translation": "Some say the mind realm and the Dharma realm are both permanent and impermanent.",
+        "source": "T29n1563_001:0778b19_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說一切色法非剎那滅。",
+        "translation": "Some say that all form and dharmas are not momentarily extinguished.",
+        "source": "T29n1563_001:0778b20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說不相應行有多時住。",
+        "translation": "Some say that unassociated formations have many time abodes.",
+        "source": "T29n1563_001:0778b20_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說無想滅定皆現有心。",
+        "translation": "Some say that the concentration of the cessation of thoughtlessness is manifested in mind.",
+        "source": "T29n1563_001:0778b21_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說等無間緣亦通色法。",
+        "translation": "Some say that equal and indirect conditions also pertain to form dharmas.",
+        "source": "T29n1563_001:0778b22_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說一切色法無同類因。",
+        "translation": "Some say that all form dharmas have no similar cause.",
+        "source": "T29n1563_001:0778b22_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說異熟生色斷已更續。",
+        "translation": "Some say that form that arises from retribution is continued after it's ended.",
+        "source": "T29n1563_001:0778b23_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說傍生餓鬼天趣亦得別解脫戒。",
+        "translation": "Some say that rebirth in the destinies of animals, hungry ghosts, and gods also attains specific liberation from morality.",
+        "source": "T29n1563_001:0778b23_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說心無染污亦得續生。",
+        "translation": "Some say that continued birth is possible even when the mind isn't defiled.",
+        "source": "T29n1563_001:0778b24_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說一切續生皆由愛恚。",
+        "translation": "Some say that all continuous birth is caused by craving and ill-will.",
+        "source": "T29n1563_001:0778b25_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說律儀不律儀分受亦全受。",
+        "translation": "Some say that disciplined and undisciplined forms are partly received and fully received.",
+        "source": "T29n1563_001:0778b25_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說傍生餓鬼有無間業。",
+        "translation": "Some say that animals and hungry ghosts have unremitting karma.",
+        "source": "T29n1563_001:0778b26_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說無間解脫二道俱能斷諸煩惱。",
+        "translation": "Some say the two paths of instantaneous liberation are both capable of ending the afflictions.",
+        "source": "T29n1563_001:0778b27_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說意識相應善有漏慧非皆是見。",
+        "translation": "Some say that the good and contaminated wisdom associated with consciousness aren't both views.",
+        "source": "T29n1563_001:0778b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說身邊二見皆是不善亦他界緣。",
+        "translation": "Some say the two views around the body are both unwholesome and contingent on other realms.",
+        "source": "T29n1563_001:0778b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說一切煩惱皆是不善。",
+        "translation": "Some say that all afflictions are unwholesome.",
+        "source": "T29n1563_001:0778b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說無樂捨受。",
+        "translation": "Some say there's no pleasant sensation of equanimity.",
+        "source": "T29n1563_001:0778c01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說唯無捨受。",
+        "translation": "Some say there's only the sensation of indifference.",
+        "source": "T29n1563_001:0778c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說無色界中亦有諸色。",
+        "translation": "Some say there's form in the formless realm.",
+        "source": "T29n1563_001:0778c01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說無想天歿皆墮惡趣。",
+        "translation": "Some say that in the non-percipient gods all fall into a bad destiny in the next life.",
+        "source": "T29n1563_001:0778c02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說一切有情無非時死。",
+        "translation": "Some say there's no wrong time of death for all sentient beings.",
+        "source": "T29n1563_001:0778c03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說諸無漏慧皆智見性。",
+        "translation": "Some say that the untainted wisdoms all know and see the nature.",
+        "source": "T29n1563_001:0778c03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說無有去來一切現在別別而說。",
+        "translation": "Some say there's no past or future, and all of the present is explained separately.",
+        "source": "T29n1563_001:0778c04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說色心非互為俱有因。",
+        "translation": "Some say that form and mind are not mutually co-existent causes.",
+        "source": "T29n1563_001:0778c05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說羯剌藍位一切色根皆已具得。",
+        "translation": "Some say that at the stage of kalala, all sense faculties are fully present.",
+        "source": "T29n1563_001:0778c05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說諸得頂法者皆不墮惡趣。",
+        "translation": "Some say that those who attain the tipping point of the Dharma won't fall into bad destinies.",
+        "source": "T29n1563_001:0778c06_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說諸善惡業皆可轉滅。",
+        "translation": "Some say that all good and bad actions can be transformed into extinction.",
+        "source": "T29n1563_001:0778c07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說諸無為法非實有體。",
+        "translation": "Some say that all impermanent dharmas don't really have substance.",
+        "source": "T29n1563_001:0778c07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說諸世間道不斷煩惱。",
+        "translation": "Some say that worldly paths don't have constant affliction.",
+        "source": "T29n1563_001:0778c08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說唯贍部洲能起願智。",
+        "translation": "Some say that only Jambudvīpa can give rise to the knowledge of vows.",
+        "source": "T29n1563_001:0778c09_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無諍無礙重三摩地。",
+        "translation": "Without strife or obstruction, it's a heavy samādhi.",
+        "source": "T29n1563_001:0778c09_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或說心心所法亦緣無境。",
+        "translation": "Some say that mind and mental factors also have objects and no objects as conditions.",
+        "source": "T29n1563_001:0778c10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸如是等差別諍論。",
+        "translation": "These are the kinds of differing arguments that are discussed.",
+        "source": "T29n1563_001:0778c10_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各述所執數越多千。",
+        "translation": "Each states that the number of those things that are held exceeds a thousand.",
+        "source": "T29n1563_001:0778c11_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師弟相承度百千眾。",
+        "translation": "Their teachers and disciples are united in their commitment to the hundreds of thousands of people.",
+        "source": "T29n1563_001:0778c11_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為諸道俗解說稱揚。",
+        "translation": "They explain and praise them for the guidance of the Way and the secular world.",
+        "source": "T29n1563_001:0778c12_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我佛法中於未來世當有如是諍論不同。",
+        "translation": "In the future, there will be such differences in arguments within our Buddha's teaching.",
+        "source": "T29n1563_001:0778c12_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為利為名惡說惡受。",
+        "translation": "They speak harshly for profit and fame, and they receive harshly.",
+        "source": "T29n1563_001:0778c13_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不證法實顛倒顯示。",
+        "translation": "Not realizing the reality of the Dharma, they mistakenly show it.",
+        "source": "T29n1563_001:0778c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於此部過現當來亦有如是諍論差別。",
+        "translation": "Even in this tradition, there will be such differences in arguments in the past, present, and future.'",
+        "source": "T29n1563_001:0778c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊如是分明懸記。",
+        "translation": "The Bhagavān thus clearly suspends his prediction.",
+        "source": "T29n1563_001:0778c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而諸弟子不顧聖言。",
+        "translation": "But the disciples disregarded the noble words.",
+        "source": "T29n1563_001:0778c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各執所宗互相非毀。",
+        "translation": "Each one held to a particular school and disparaged the other.",
+        "source": "T29n1563_001:0778c16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "過屬弟子豈在世尊。",
+        "translation": "How could the Bhagavān be blamed for the faults of his disciples?",
+        "source": "T29n1563_001:0778c16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不可由斯謗一切智言。",
+        "translation": "They can't thus denigrate the words of omniscience.",
+        "source": "T29n1563_001:0778c17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說諸業有不定者。",
+        "translation": "They say there's uncertainty about actions.",
+        "source": "T29n1563_001:0778c17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理亦不然。",
+        "translation": "That's also not true.",
+        "source": "T29n1563_001:0778c18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有此業故。",
+        "translation": "Because there's such karma, it's definitely permissible to have karma that's productive of ripening and indeterminate karma.",
+        "source": "T29n1563_001:0778c18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "定應許有能感異熟不定業性。",
+        "translation": "There definitely should be indeterminate karmic activity that's capable of bringing about retribution.",
+        "source": "T29n1563_001:0778c18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此若無者。",
+        "translation": "If this weren't the case, then it wouldn't be possible.",
+        "source": "T29n1563_001:0778c19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修道斷結則為唐捐。",
+        "translation": "It would be a waste to cultivate the path and cut the bonds.",
+        "source": "T29n1563_001:0778c19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以一切業定得果故。",
+        "translation": "It's because all actions are certain to have fruition.",
+        "source": "T29n1563_001:0778c20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應由此所說諸因。",
+        "translation": "This shouldn't lead to the causes that are explained.",
+        "source": "T29n1563_001:0778c20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復餘因謗一切智。",
+        "translation": "Perhaps other causes denigrate omniscience.",
+        "source": "T29n1563_001:0778c21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊成就不可思議希有功德高廣名稱。",
+        "translation": "The Bhagavān has achieved unfathomable, rare, meritorious, lofty, and extensive renown.",
+        "source": "T29n1563_001:0778c21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非理毀謗獲罪無邊。",
+        "translation": "To denigrate it unjustifiably obtains a sin that knows no bounds.",
+        "source": "T29n1563_001:0778c22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有智人皆應信佛。",
+        "translation": "All intelligent people should believe in the Buddha.",
+        "source": "T29n1563_001:0778c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具一切智故先敬禮。",
+        "translation": "Being endowed with omniscience, they first venerate it.",
+        "source": "T29n1563_001:0778c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "辯本事品第二之一",
+        "translation": "Biancheng pin 2:1",
+        "source": "T29n1563_001:0778c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　諸一切種諸冥滅　　拔眾生出生死泥　敬禮如是如理師　　對法藏論我當說論曰。",
+        "translation": "\"All kinds of darkness cease, and they lift sentient beings out of the mire of birth and death. I salute such a teacher of principle. I will explain the Dharmâkara doctrine, saying.",
+        "source": "T29n1563_001:0778c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸言雖總而別有所觀。",
+        "translation": "'Although these words are general, there are specific ways to contemplate them.'",
+        "source": "T29n1563_001:0778c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別何所觀。",
+        "translation": "What's the specific contemplation?",
+        "source": "T29n1563_001:0778c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂俱利德滿。",
+        "translation": "It means the completion of both benefits and virtues.",
+        "source": "T29n1563_001:0778c27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智斷具故。",
+        "translation": "It's because wisdom and elimination are complete.",
+        "source": "T29n1563_001:0778c28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自利德滿。",
+        "translation": "It's the fulfillment of virtue for self-benefiting.",
+        "source": "T29n1563_001:0778c28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恩德備故。",
+        "translation": "It's because the virtue of benefiting others is complete.",
+        "source": "T29n1563_001:0778c28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "利他德滿。",
+        "translation": "The virtue of benefiting others is complete.",
+        "source": "T29n1563_001:0778c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即一切智能拔濟有情。",
+        "translation": "This is the full range of wisdom that removes all sentient beings.",
+        "source": "T29n1563_001:0778c29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切種冥皆永滅故智德圓滿。",
+        "translation": "All kinds of obscurations are permanently extinguished, so the virtue of knowledge is perfected.",
+        "source": "T29n1563_001:0778c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸境界冥亦永滅故斷德圓滿。",
+        "translation": "The darkness of all objective realms is also permanently extinguished, so the virtue of elimination is perfected.",
+        "source": "T29n1563_001:0779a01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "授正法手拔眾生出生死泥故恩德圓滿。",
+        "translation": "He bestows the right Dharma hand to pull sentient beings out of the mire of birth and death, so the merit of kindness is perfected.",
+        "source": "T29n1563_001:0779a02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞獨覺雖滅諸冥。",
+        "translation": "Even though direct disciples and solitary realizers extinguish all darkness, their defilements and ignorance are ultimately eliminated.",
+        "source": "T29n1563_001:0779a03_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以染無知畢竟斷故。",
+        "translation": "It's because defiled ignorance is ultimately eliminated.",
+        "source": "T29n1563_001:0779a03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非一切種闕能永滅。",
+        "translation": "Not all kinds of defilement can be permanently extinguished.",
+        "source": "T29n1563_001:0779a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不染無知殊勝智故。",
+        "translation": "It's because of the superior cognition of undefiled ignorance.",
+        "source": "T29n1563_001:0779a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非具一切智。",
+        "translation": "Unless they have omniscience, they won't be able to remove sentient beings.",
+        "source": "T29n1563_001:0779a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能拔有情。",
+        "translation": "It's not possible to remove sentient beings.",
+        "source": "T29n1563_001:0779a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "冥謂瞖膜能蔽淨眼。",
+        "translation": "It's called a cataract that obscures the pure eye.",
+        "source": "T29n1563_001:0779a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是無知障真見故。",
+        "translation": "Ignorance of this kind hinders true vision.",
+        "source": "T29n1563_001:0779a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "冥惑昏闇能遮色像。",
+        "translation": "Obscuring confusion and obscuring darkness can obscure form and images.",
+        "source": "T29n1563_001:0779a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是無知覆實義故。",
+        "translation": "This kind of ignorance hinders true meaning.",
+        "source": "T29n1563_001:0779a06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有殊勝治道生時。",
+        "translation": "When the excellent path of correction arises, that's when it's produced.",
+        "source": "T29n1563_001:0779a07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令永不生。",
+        "translation": "It causes them to never arise.",
+        "source": "T29n1563_001:0779a07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故稱為滅。",
+        "translation": "That's why it's called cessation.",
+        "source": "T29n1563_001:0779a08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂滅一切品諸境冥故。",
+        "translation": "It's called the cessation of all kinds of darkness in all objects.",
+        "source": "T29n1563_001:0779a08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言一切種諸冥滅拔眾生出生死泥者。",
+        "translation": "He says that the cessation of all kinds of darkness lifts sentient beings out of the mire of birth-and-death.",
+        "source": "T29n1563_001:0779a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼生死是諸有情無始時來沈溺處故。",
+        "translation": "It's because birth-and-death is a place where sentient beings have been submerged since beginningless time.",
+        "source": "T29n1563_001:0779a09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "難可出故。",
+        "translation": "It's difficult to escape from it.",
+        "source": "T29n1563_001:0779a10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以譬泥。",
+        "translation": "That's why it's called mire.",
+        "source": "T29n1563_001:0779a10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾生於中淪沒無救。",
+        "translation": "In it, sentient beings are submerged and have no way to be saved.",
+        "source": "T29n1563_001:0779a11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有成就巧智大悲。",
+        "translation": "Those who accomplish it have skillful knowledge and great compassion.",
+        "source": "T29n1563_001:0779a11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "授如應言拔濟令出。",
+        "translation": "They are given the right words to rescue them and allow them to escape.",
+        "source": "T29n1563_001:0779a12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "敬禮如是如理師者。",
+        "translation": "\"He pays homage to such a teacher who follows the principle.",
+        "source": "T29n1563_001:0779a12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "稽首具前自他利德。",
+        "translation": "He bows his head to the teacher who's fully endowed with the virtues of self-improvement and benefit for others.",
+        "source": "T29n1563_001:0779a13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能說如理聖教大師。",
+        "translation": "He's a great teacher who can explain the noble teaching of such-and-such principles.",
+        "source": "T29n1563_001:0779a13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意樂隨眠智等闕故。",
+        "translation": "Because knowledge of mind, pleasure, and latencies is lacking, śrāvakas and pratyekbuddhas aren't teachers of thusness.",
+        "source": "T29n1563_001:0779a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞獨覺非如理師。",
+        "translation": "śrāvakas and solitary realizers aren't teachers of thusness.",
+        "source": "T29n1563_001:0779a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯佛世尊具如是德。",
+        "translation": "Only the Bhagavān possesses such virtues.",
+        "source": "T29n1563_001:0779a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故是前總諸言所觀為正流通。",
+        "translation": "Therefore, the preceding summary of what's observed in language is the correct circulation.",
+        "source": "T29n1563_001:0779a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼所立教。",
+        "translation": "That's the established teaching.",
+        "source": "T29n1563_001:0779a16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故先讚禮如理教師。",
+        "translation": "Therefore, they first praise and worship the teacher who teaches as the principle.",
+        "source": "T29n1563_001:0779a16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以讚禮言滅諸惡障。",
+        "translation": "He extinguishes the bad hindrances with words of praise and worship.",
+        "source": "T29n1563_001:0779a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "標嘉瑞已許發論端。",
+        "translation": "After marking the auspicious occasion, he acknowledged the origin of the discussion.",
+        "source": "T29n1563_001:0779a17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故言我當說對法藏。",
+        "translation": "He therefore said, \"I will explain the collection of relative dharmas.",
+        "source": "T29n1563_001:0779a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何謂對法。",
+        "translation": "What's meant by 'the right dharma'?",
+        "source": "T29n1563_001:0779a18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_001:0779a18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　淨慧隨行名對法　　及能得此諸慧論論曰。",
+        "translation": "'The practice of pure wisdom is called the opposing dharma, and the wisdom that attains it is discussed in the treatises.'",
+        "source": "T29n1563_001:0779a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨謂無漏。",
+        "translation": "\"Purity refers to being uncontaminated.",
+        "source": "T29n1563_001:0779a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慧謂擇法。",
+        "translation": "Wisdom refers to the discriminating dharma.",
+        "source": "T29n1563_001:0779a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即總攝無漏慧根。",
+        "translation": "This is the general collection of untainted wisdom faculties.",
+        "source": "T29n1563_001:0779a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何緣得知。",
+        "translation": "What are the conditions for knowing this?",
+        "source": "T29n1563_001:0779a21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無漏慧名為對法。",
+        "translation": "Only untainted wisdom is called the opposing dharma.",
+        "source": "T29n1563_001:0779a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以佛世尊恣天帝等所請問故。",
+        "translation": "It's because the Bhagavān freely asks the gods and others about it.",
+        "source": "T29n1563_001:0779a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經說。",
+        "translation": "As the sūtras say.",
+        "source": "T29n1563_001:0779a22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我有甚深阿毘達磨及毘柰耶。",
+        "translation": "'I have a very profound abhidharma and a vinaya.",
+        "source": "T29n1563_001:0779a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恣汝請問。",
+        "translation": "I'll give you permission to ask questions.",
+        "source": "T29n1563_001:0779a23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是許天帝請問聖道及此聖道所證果義。",
+        "translation": "This is because the gods allow the emperor to ask about the noble path and the meaning of the fruit realized by that path.",
+        "source": "T29n1563_001:0779a23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恣伐蹉類契經亦爾。",
+        "translation": "So does the scripture that accords with the type of Vaibhāṣika.",
+        "source": "T29n1563_001:0779a24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復以何緣唯無漏慧名為對法。",
+        "translation": "\"What further reason is it that only untainted wisdom is called the opposing dharma?",
+        "source": "T29n1563_001:0779a25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此現觀諸法相已不重迷故。",
+        "translation": "It's because they've clearly perceived the characteristics of all dharmas and aren't seriously deluded.",
+        "source": "T29n1563_001:0779a25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不現觀非唯慧能。",
+        "translation": "Is it not the case that the present observation is not only the result of wisdom?",
+        "source": "T29n1563_001:0779a26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則對法應非唯慧。",
+        "translation": "Then the subjective dharma shouldn't be only wisdom.",
+        "source": "T29n1563_001:0779a26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正覺諦理說名現觀。",
+        "translation": "The principle of the truth of right awakening explains that it's called direct observation.",
+        "source": "T29n1563_001:0779a27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故現觀用唯慧非餘。",
+        "translation": "Therefore, the function of clear observation is only wisdom and nothing else.",
+        "source": "T29n1563_001:0779a27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又現觀中慧為最勝。",
+        "translation": "Furthermore, wisdom is the most superior of the three kinds of clear observation.",
+        "source": "T29n1563_001:0779a28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具三能故獨稱對法。",
+        "translation": "Because it has all three abilities, it's called the opposing dharma alone.",
+        "source": "T29n1563_001:0779a28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此對法非不待餘。",
+        "translation": "But this opposing dharma isn't something that doesn't wait for others.",
+        "source": "T29n1563_001:0779a29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故慧隨行亦名對法。",
+        "translation": "Therefore, the practice of wisdom is also called the opposing dharma.",
+        "source": "T29n1563_001:0779a29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即慧眷屬名曰隨行。",
+        "translation": "That is, the followers of wisdom are called followers.",
+        "source": "T29n1563_001:0779b01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眷屬者何。",
+        "translation": "\"What's a follower?",
+        "source": "T29n1563_001:0779b01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂慧隨轉色受想等諸心所法生等及心。",
+        "translation": "It means that wisdom follows the manifestation of form, feeling, perception, and other mental factors that arise and so forth, as well as mind.",
+        "source": "T29n1563_001:0779b01_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是總說無漏五蘊。",
+        "translation": "Thus, it's generally explained that the five uncontaminated aggregates are present.",
+        "source": "T29n1563_001:0779b02_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名為對法。",
+        "translation": "They're called the opposing dharmas.",
+        "source": "T29n1563_001:0779b03_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此則勝義阿毘達磨。",
+        "translation": "This is the supramundane abhidharma.",
+        "source": "T29n1563_001:0779b03_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若說世俗阿毘達磨。",
+        "translation": "If we teach mundane abhidharma, then we'll be able to understand the various theories of wisdom.",
+        "source": "T29n1563_001:0779b04_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即能得此諸慧諸論。",
+        "translation": "That's how you can attain the various theories of wisdom.",
+        "source": "T29n1563_001:0779b04_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此謂前所得無漏慧根諸慧。",
+        "translation": "This refers to the previously attained uncontaminated wisdom faculties and wisdoms.",
+        "source": "T29n1563_001:0779b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂能得世間三慧即是世間殊勝修慧思慧聞慧。",
+        "translation": "The three worldly wisdoms that can be attained are the worldly superior wisdom of cultivating, thinking, hearing, and discerning.",
+        "source": "T29n1563_001:0779b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及彼隨行依所得近遠說三慧次第。",
+        "translation": "It's also the sequence of the three kinds of wisdom that's explained in the light of the proximity of their attainment.",
+        "source": "T29n1563_001:0779b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非離如是慧及隨行無漏慧根可能證得。",
+        "translation": "They can't be attained apart from such wisdom and the wisdom faculty of following uncontaminated wisdom.",
+        "source": "T29n1563_001:0779b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是能得此勝方便故。",
+        "translation": "It's because they're able to attain this superior method.",
+        "source": "T29n1563_001:0779b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同無漏慧受對法名。",
+        "translation": "It's the same as untainted wisdom that receives the name of the opposing dharma.",
+        "source": "T29n1563_001:0779b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如慈方便亦名慈等。",
+        "translation": "Just as the method of kindness is also called kindness and so forth.",
+        "source": "T29n1563_001:0779b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論謂能得。",
+        "translation": "The theory says it's attainable.",
+        "source": "T29n1563_001:0779b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此發智等諸論是無漏慧勝資糧故。",
+        "translation": "This arousal of wisdom and other theories is the superior preparation of uncontaminated wisdom.",
+        "source": "T29n1563_001:0779b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦名對法。",
+        "translation": "They're also called the opposing factors.",
+        "source": "T29n1563_001:0779b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如業異熟漏等資糧亦名業等。",
+        "translation": "As karma, ripening contaminants and other accumulations are also called karma and so forth.",
+        "source": "T29n1563_001:0779b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前諸慧言亦攝生得。",
+        "translation": "The previous statements of wisdom also include production and acquisition.",
+        "source": "T29n1563_001:0779b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯生得慧能正誦持對法論故。",
+        "translation": "Only the wisdom that arises and obtains can correctly recite and maintain the treatises on the right things.",
+        "source": "T29n1563_001:0779b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦名對法。",
+        "translation": "It's also called the opposing dharma.",
+        "source": "T29n1563_001:0779b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不此論是無漏慧勝資糧故。",
+        "translation": "Isn't this treatise the superior preparation of untainted wisdom?",
+        "source": "T29n1563_001:0779b13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦名對法。",
+        "translation": "It's also called the opposing dharma.",
+        "source": "T29n1563_001:0779b14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何乃別名對法。",
+        "translation": "Why is it called a separate opposing dharma?",
+        "source": "T29n1563_001:0779b14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俱舍頌曰。",
+        "translation": "The commentary on the Kuśa verse says.",
+        "source": "T29n1563_001:0779b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　攝彼勝義依彼故　　此立對法俱舍名論曰。",
+        "translation": "'It's because they gather their ultimate meaning and rely on it that they establish the name of the opposing dharma,' according to the śrāvaka treatise.",
+        "source": "T29n1563_001:0779b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "藏謂堅實猶如樹藏對法實義皆入此攝。",
+        "translation": "\"A store is solid like a tree store into which the true meaning of antidharmas is collected.",
+        "source": "T29n1563_001:0779b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此論是彼對法之藏。",
+        "translation": "This treatise is the store of those antidharmas.",
+        "source": "T29n1563_001:0779b17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是對法之堅實義藏。",
+        "translation": "It's the store of the true meaning of the opposing dharma.",
+        "source": "T29n1563_001:0779b17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或所依猶如刀藏。",
+        "translation": "It might be relied upon like the store of swords.",
+        "source": "T29n1563_001:0779b18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼對法是此所依引彼義言造此論故。",
+        "translation": "It means that the opposing dharma is the support that leads to its meaning and creates this treatise.",
+        "source": "T29n1563_001:0779b18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此論以彼對法為藏。",
+        "translation": "This treatise takes that opposing dharma to be the storehouse.",
+        "source": "T29n1563_001:0779b19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即以對法為所依義。",
+        "translation": "That is, it takes the opposing dharma as the meaning that's relied upon.",
+        "source": "T29n1563_001:0779b19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼何因說誰復先說。",
+        "translation": "What is the reason it's said? Who said it first?",
+        "source": "T29n1563_001:0779b20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖不應問說對法人。",
+        "translation": "Although it shouldn't be asked whether the person who's speaking about the relative dharma is the one who's relying on it.",
+        "source": "T29n1563_001:0779b20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛教依法不依人故。",
+        "translation": "It's because the Buddha teaches according to the Dharma and not according to persons.",
+        "source": "T29n1563_001:0779b21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而為開示說對法因。",
+        "translation": "Instead, it's an explanation of the cause of speaking about the opposing dharma.",
+        "source": "T29n1563_001:0779b21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼能說人亦應顯了。",
+        "translation": "That person who can explain it should also be made clear.",
+        "source": "T29n1563_001:0779b22_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_001:0779b22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若離擇法定無餘　　能滅諸惑勝方便　由惑世間漂有海　　為寂大師說對法論曰。",
+        "translation": "\"If there's nothing left in the Dharma that's free from scrutiny, it's an excellent method for ending the afflictions that cause the world to drift into an ocean of existence.\" The great teacher Jie explained the teaching of the antidharma, saying.",
+        "source": "T29n1563_001:0779b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由離擇法無勝方便。",
+        "translation": "'Because the law of freedom from analysis has no remainder, this is a superior method.",
+        "source": "T29n1563_001:0779b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能滅世間引苦諸惑。",
+        "translation": "It's able to extinguish the afflictions that cause suffering in the world.",
+        "source": "T29n1563_001:0779b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故世尊言。",
+        "translation": "That's why the Bhagavān said.",
+        "source": "T29n1563_001:0779b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於一法未達未知。",
+        "translation": "\"If I hadn't understood a single dharma and didn't know it.",
+        "source": "T29n1563_001:0779b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我終不說能正盡苦。",
+        "translation": "I would never say that it's capable of correctly ending suffering.",
+        "source": "T29n1563_001:0779b26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間未滅諸煩惱故。",
+        "translation": "It's because the world hasn't ceased the afflictions.",
+        "source": "T29n1563_001:0779b27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於三有海生死輪迴。",
+        "translation": "It's the cycle of birth-and-death in the three oceans of existence.",
+        "source": "T29n1563_001:0779b27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為令世間修習擇法。",
+        "translation": "That's to cause the world to cultivate the discriminating qualities.",
+        "source": "T29n1563_001:0779b28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "永寂三有生因煩惱。",
+        "translation": "It will permanently extinguish the three existences as causes of birth and affliction.'",
+        "source": "T29n1563_001:0779b28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故大師先自演說阿毘達磨。",
+        "translation": "That's why the great teacher first taught the abhidharma himself.",
+        "source": "T29n1563_001:0779b29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛若不說。",
+        "translation": "If the Buddha hadn't explained it, then...",
+        "source": "T29n1563_001:0779b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子等諸大聲聞。",
+        "translation": "Śāriputra and the other great śrāvakas would not have been able to understand the characteristics of all dharmas.",
+        "source": "T29n1563_001:0779c01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦無有能於諸法相如理思擇。",
+        "translation": "Nor would any of them have been able to correctly discern the characteristics of all dharmas.",
+        "source": "T29n1563_001:0779c01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然佛大師隨所化者。",
+        "translation": "Still, the Buddha and his teacher follow those whom he teaches.",
+        "source": "T29n1563_001:0779c02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性差別故處處散說。",
+        "translation": "Their natures are different, so they speak about it everywhere.",
+        "source": "T29n1563_001:0779c02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者迦多衍尼子等諸大聲聞。",
+        "translation": "Venerable Kātyāyanīputra and other great śrāvakas.",
+        "source": "T29n1563_001:0779c03_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以妙願智觀過去佛所說法教。",
+        "translation": "With the knowledge of the fine vows, they observed the teachings of past Buddhas.",
+        "source": "T29n1563_001:0779c03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如其所應安置結集。",
+        "translation": "They assemble them as they should be assembled.",
+        "source": "T29n1563_001:0779c04_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如大尊者迦葉波等共所結集律及契經。",
+        "translation": "Thus, the Venerable Kāśyapa and the others collectively assemble vinaya and scriptures.",
+        "source": "T29n1563_001:0779c05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經律二藏隨文結集。",
+        "translation": "The two collections of sūtra and vinaya are assembled according to the text.",
+        "source": "T29n1563_001:0779c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯對法藏隨義結集。",
+        "translation": "Only the Dharma collection is assembled according to its meaning.",
+        "source": "T29n1563_001:0779c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說諸有結集義言。",
+        "translation": "As they say, there are meanings to be gathered.",
+        "source": "T29n1563_001:0779c06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於律及經彼為殊勝。",
+        "translation": "'This is superior to the vinaya and the sūtras.'",
+        "source": "T29n1563_001:0779c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨佛聖教結集對法是佛所許得佛說名。",
+        "translation": "The collection of the right Dharma according to the Buddha's noble teaching is approved by the Buddha and gets its name explained by the Buddha.",
+        "source": "T29n1563_001:0779c07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等名為所思擇法。",
+        "translation": "\"What's called a discriminated dharma?",
+        "source": "T29n1563_001:0779c08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊依彼說對法耶。",
+        "translation": "Does the Bhagavān rely on that to explain the right Dharma?",
+        "source": "T29n1563_001:0779c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_001:0779c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　有漏無漏法　　除道餘有為",
+        "translation": "\"Contaminated and uncontaminated dharmas are the remaining existences apart from the path.",
+        "source": "T29n1563_001:0779c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　於彼漏隨增　　故說名有漏",
+        "translation": "the contaminants in them increase accordingly, so they are called contaminated.",
+        "source": "T29n1563_001:0779c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　無漏謂道諦　　及三種無為",
+        "translation": "the untainted truth of the path and the three kinds of nonconduct",
+        "source": "T29n1563_001:0779c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　謂虛空二滅　　此中空無礙",
+        "translation": "the two cessations of space, which are empty and unobstructed",
+        "source": "T29n1563_001:0779c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　擇滅謂離繫　　隨繫事各別",
+        "translation": "to choose extinction means to be free from fetters, and there are distinctions in the things that follow fetters",
+        "source": "T29n1563_001:0779c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　畢竟礙當生　　別得非擇滅",
+        "translation": "ultimate obstruction to future birth and the attainment of cessation without analytical meditation",
+        "source": "T29n1563_001:0779c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_001:0779c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說一切法略有二種。",
+        "translation": "\"It's said that there are slightly two kinds of all dharmas.",
+        "source": "T29n1563_001:0779c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者有漏。",
+        "translation": "One is contaminated ...",
+        "source": "T29n1563_001:0779c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者無漏。",
+        "translation": "The second is uncontaminated.",
+        "source": "T29n1563_001:0779c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此則總說。",
+        "translation": "This is a general explanation.",
+        "source": "T29n1563_001:0779c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次當別解。",
+        "translation": "Next, it should be interpreted separately.",
+        "source": "T29n1563_001:0779c17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除道聖諦餘有為法。",
+        "translation": "Except for the noble truth of the path, the other existent dharmas are contaminated.",
+        "source": "T29n1563_001:0779c17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名有漏。",
+        "translation": "These are called contaminants.",
+        "source": "T29n1563_001:0779c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此復云何。",
+        "translation": "What does this furthermore mean?",
+        "source": "T29n1563_001:0779c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂五取蘊色。",
+        "translation": "It refers to the five appropriated aggregates of form ...",
+        "source": "T29n1563_001:0779c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至識。",
+        "translation": "... and even consciousness.",
+        "source": "T29n1563_001:0779c18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說云何名色取蘊。",
+        "translation": "As explained, what are these called the appropriated aggregates of form?",
+        "source": "T29n1563_001:0779c18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有漏色隨順諸取。",
+        "translation": "It's contaminated form that follows appropriation.",
+        "source": "T29n1563_001:0779c19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至。",
+        "translation": "It's explained in detail up to and including that.",
+        "source": "T29n1563_001:0779c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識亦如是。",
+        "translation": "So it is with consciousness.",
+        "source": "T29n1563_001:0779c20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何緣取蘊名為有漏。",
+        "translation": "What are the conditions for grasping the aggregates that are called contaminated?",
+        "source": "T29n1563_001:0779c20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以於其中漏隨增故。",
+        "translation": "It's because the contaminants in them are subsequently increased.",
+        "source": "T29n1563_001:0779c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有身見等諸煩惱中立漏名想令染污心常漏泄故。",
+        "translation": "There are such things as bodily views and other afflictions, neutral contaminants, and concepts that cause the defiled mind to constantly leak out.",
+        "source": "T29n1563_001:0779c21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與漏相應。",
+        "translation": "It's associated with the contaminants.",
+        "source": "T29n1563_001:0779c22_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及漏境界隨增漏故。",
+        "translation": "It's because the contaminants in the contaminated realm follow the increase of the contaminants.",
+        "source": "T29n1563_001:0779c22_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名漏隨增。",
+        "translation": "They're called contaminants that follow and increase.",
+        "source": "T29n1563_001:0779c23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨增眠義後當廣辯。",
+        "translation": "The meaning of concomitantly increasing dormancy will be explained in detail later.",
+        "source": "T29n1563_001:0779c23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此應知已遮一切。",
+        "translation": "From this, you should know that all of them have been covered.",
+        "source": "T29n1563_001:0779c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不同界地及無漏緣煩惱境界隨眠有漏。",
+        "translation": "Contaminants in different realms, stages, and the uncontaminated cognitive objects of affliction follow latencies and contaminants.",
+        "source": "T29n1563_001:0779c24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼此展轉不隨增故。",
+        "translation": "It's because they are in continuity with each other and aren't subsequently increasing.",
+        "source": "T29n1563_001:0779c25_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非相對立。",
+        "translation": "They're not opposites.",
+        "source": "T29n1563_001:0779c25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是二名有漏無漏。",
+        "translation": "Thus, these two are called contaminated and uncontaminated.",
+        "source": "T29n1563_001:0779c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有何相。",
+        "translation": "What else does it have?",
+        "source": "T29n1563_001:0779c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如世尊言。",
+        "translation": "As the Bhagavān said.",
+        "source": "T29n1563_001:0779c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有漏法者。",
+        "translation": "\"A contaminated dharma is one that's contaminated.",
+        "source": "T29n1563_001:0779c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂所有色隨順諸取。",
+        "translation": "It refers to the grasping of all forms according to their conformity.",
+        "source": "T29n1563_001:0779c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是能增益諸有取義廣說乃至。",
+        "translation": "It adds to the meaning of appropriation and is explained in detail up to and including that.",
+        "source": "T29n1563_001:0779c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識亦如是。",
+        "translation": "Consciousness is likewise.",
+        "source": "T29n1563_001:0779c28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與此相違是無漏法。",
+        "translation": "Contrary to this, it's an uncontaminated dharma.",
+        "source": "T29n1563_001:0779c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有漏無漏略相如是。",
+        "translation": "The contaminated and uncontaminated are similar in outline form.",
+        "source": "T29n1563_001:0779c29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有漏者。",
+        "translation": "What's sometimes contaminated is called falling into the world.",
+        "source": "T29n1563_001:0779c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂墮世間。",
+        "translation": "It's falling into the world.",
+        "source": "T29n1563_001:0779c29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若出世間名為無漏。",
+        "translation": "If something is transmundane, it's called uncontaminated.",
+        "source": "T29n1563_001:0780a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間所攝名墮世間。",
+        "translation": "What's included in the world is called falling into the world.",
+        "source": "T29n1563_001:0780a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂處世間不出為義。",
+        "translation": "It's defined as being in the world and not out of the world.",
+        "source": "T29n1563_001:0780a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依苦諦體立世間名。",
+        "translation": "Depending on the essence of the truth of suffering, it's called the world.",
+        "source": "T29n1563_001:0780a02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故契經說。",
+        "translation": "That's why the scriptures say.",
+        "source": "T29n1563_001:0780a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾當為汝宣說世間及世間集。",
+        "translation": "\"I will explain for you the world and worldly accumulation.",
+        "source": "T29n1563_001:0780a03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又五取蘊名苦有漏。",
+        "translation": "The five appropriated aggregates are called painful and contaminated.",
+        "source": "T29n1563_001:0780a03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故知有漏。",
+        "translation": "Therefore, you know that there are contaminants.",
+        "source": "T29n1563_001:0780a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂墮世間。",
+        "translation": "It's called falling into the world.",
+        "source": "T29n1563_001:0780a04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧知墮世間皆是有漏法。",
+        "translation": "How would you know that falling into the world is all a contaminated thing?",
+        "source": "T29n1563_001:0780a04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如世尊說。",
+        "translation": "As the Bhagavān said.",
+        "source": "T29n1563_001:0780a05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾當為汝宣說有漏及無漏法。",
+        "translation": "'I will explain for you the contaminated and uncontaminated dharmas.'",
+        "source": "T29n1563_001:0780a05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有漏法者。",
+        "translation": "'Contaminated dharmas' means contaminated dharmas.",
+        "source": "T29n1563_001:0780a06_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸所有眼諸所有色。",
+        "translation": "They are all eyes, all forms, and all consciousnesses.",
+        "source": "T29n1563_001:0780a06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸所有眼識。",
+        "translation": "All the eyes, all the consciousnesses, and all the visual consciousnesses.",
+        "source": "T29n1563_001:0780a07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸所有眼觸。",
+        "translation": "... all eye contact ...",
+        "source": "T29n1563_001:0780a07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸所有眼觸為緣內所生。",
+        "translation": "...and all eye-contact as a condition within which it arises.",
+        "source": "T29n1563_001:0780a07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或樂受或苦受或不苦不樂受。",
+        "translation": "They may be pleasant feelings, painful feelings, or feelings that are neither pleasant nor painful.",
+        "source": "T29n1563_001:0780a08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是乃至。",
+        "translation": "It's thus ...",
+        "source": "T29n1563_001:0780a08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮世間意。",
+        "translation": "They fall into mundane thoughts ...",
+        "source": "T29n1563_001:0780a09_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮世間法。",
+        "translation": "They fall into worldly dharmas ...",
+        "source": "T29n1563_001:0780a09_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮世間意識。",
+        "translation": "falls into worldly consciousness ...",
+        "source": "T29n1563_001:0780a09_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮世間意觸。",
+        "translation": "falls into worldly thoughts ... contact ...",
+        "source": "T29n1563_001:0780a09_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至。",
+        "translation": "It's explained in detail up to and including this.",
+        "source": "T29n1563_001:0780a10_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名有漏法。",
+        "translation": "They're called contaminated dharmas.",
+        "source": "T29n1563_001:0780a10_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無漏法者。",
+        "translation": "An uncontaminated dharma is one that's uncontaminated.",
+        "source": "T29n1563_001:0780a10_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂出世間意。",
+        "translation": "This refers to mind that's transmundane ...",
+        "source": "T29n1563_001:0780a10_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出世間法。",
+        "translation": "transmundane dharmas ...",
+        "source": "T29n1563_001:0780a11_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出世間意識。",
+        "translation": "transmundane consciousness ...",
+        "source": "T29n1563_001:0780a11_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出世間意觸。",
+        "translation": "transmundane mind contact.",
+        "source": "T29n1563_001:0780a11_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至。",
+        "translation": "It's explained in detail up to and including this.",
+        "source": "T29n1563_001:0780a12_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名無漏法。",
+        "translation": "It's called an uncontaminated dharma.",
+        "source": "T29n1563_001:0780a12_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依此聖教及由正理。",
+        "translation": "Relying on this noble teaching and from the right principle, they know that all falls into the world are contaminated.",
+        "source": "T29n1563_001:0780a12_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知墮世間皆是有漏。",
+        "translation": "They know that all falls into the world are contaminated.",
+        "source": "T29n1563_001:0780a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已辯有漏及有漏因。",
+        "translation": "We've already explained the contaminants and the causes of the contaminants.",
+        "source": "T29n1563_001:0780a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無漏。",
+        "translation": "What are the uncontaminated?",
+        "source": "T29n1563_001:0780a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂道聖諦及三無為。",
+        "translation": "It's the noble truth of the path and the three uncontained forms.",
+        "source": "T29n1563_001:0780a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名為無漏。",
+        "translation": "They're called uncontaminated.",
+        "source": "T29n1563_001:0780a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "道聖諦者。",
+        "translation": "The noble truth of the path is defined as the five aggregates that are not contaminated form and so forth.",
+        "source": "T29n1563_001:0780a14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂非有漏色等五蘊。",
+        "translation": "It refers to the five aggregates of form and so forth that are not contaminated.",
+        "source": "T29n1563_001:0780a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三無為者。",
+        "translation": "The three uncontained truths are defined as.",
+        "source": "T29n1563_001:0780a15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂即虛空擇非擇滅。",
+        "translation": "They are the selection of space and the cessation of neither selection nor non-selection.",
+        "source": "T29n1563_001:0780a15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此虛空等及道聖諦。",
+        "translation": "These are empty space and so forth and the noble truth of the path.",
+        "source": "T29n1563_001:0780a16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名無漏因。",
+        "translation": "They're called uncontaminated causes.",
+        "source": "T29n1563_001:0780a16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次前已說其道聖諦後當廣辯。",
+        "translation": "The noble truth of the path, which was explained previously, will be explained in detail later.",
+        "source": "T29n1563_001:0780a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於略所說三無為中。",
+        "translation": "Of the three uncontained truths mentioned briefly, space is nothing but unobstructed.",
+        "source": "T29n1563_001:0780a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "虛空但以無礙為性。",
+        "translation": "Space simply has the nature of being unobstructed.",
+        "source": "T29n1563_001:0780a18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中諸法最極顯現。",
+        "translation": "In it, the most ultimate of all dharmas is revealed.",
+        "source": "T29n1563_001:0780a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無障為相。",
+        "translation": "The absence of obstruction is their characteristic.",
+        "source": "T29n1563_001:0780a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名虛空。",
+        "translation": "That's why it's called empty space.",
+        "source": "T29n1563_001:0780a19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸大種及造色聚。",
+        "translation": "It refers to the great varieties and the aggregates of form that are created.",
+        "source": "T29n1563_001:0780a19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切不能遍覆障故。",
+        "translation": "They can't all be pervasively obstructed.",
+        "source": "T29n1563_001:0780a20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非所障亦非能障。",
+        "translation": "They may not be obstructed by what's obstructed, and they aren't obstructed by what's able to be obstructed.",
+        "source": "T29n1563_001:0780a20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故說虛空。",
+        "translation": "That's why it's called space.",
+        "source": "T29n1563_001:0780a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無障為相。",
+        "translation": "The absence of obstruction is its characteristic.",
+        "source": "T29n1563_001:0780a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "擇滅即以離繫為性。",
+        "translation": "To discriminate and extinguish is to take freedom from tethers as its nature.",
+        "source": "T29n1563_001:0780a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "擇謂如理勤所成慧。",
+        "translation": "To discriminate refers to the wisdom that's attained by diligence in accordance with principles.",
+        "source": "T29n1563_001:0780a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於四聖諦各別行相。",
+        "translation": "In regard to the distinctive defining activities of each of the four noble truths, he discerns them according to reason.",
+        "source": "T29n1563_001:0780a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如理思擇。",
+        "translation": "He discriminates them according to principle.",
+        "source": "T29n1563_001:0780a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名為擇。",
+        "translation": "Therefore, it's called discriminating.",
+        "source": "T29n1563_001:0780a23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由擇所得諸有漏法永離繫性。",
+        "translation": "The contaminated dharmas obtained by discriminating are permanently free of the nature of fetters.",
+        "source": "T29n1563_001:0780a23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此定能礙諸繫得生。",
+        "translation": "This concentration prevents the tethers from being produced.",
+        "source": "T29n1563_001:0780a24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名擇滅。",
+        "translation": "Therefore, it's called the cessation of discernment.",
+        "source": "T29n1563_001:0780a24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有是滅而非離繫。",
+        "translation": "There may be such cessation that isn't free of fetters.",
+        "source": "T29n1563_001:0780a24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為簡彼故說離繫言。",
+        "translation": "For the sake of simplifying it, they say they're free of fetters.",
+        "source": "T29n1563_001:0780a25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有作是言。",
+        "translation": "Some people say this.",
+        "source": "T29n1563_001:0780a25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸所斷法同一擇滅。",
+        "translation": "'The dharmas that are stopped are the same as scrutiny and cessation.'",
+        "source": "T29n1563_001:0780a25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無同類故阿毘達磨。",
+        "translation": "There's no similarity, so it's called abhidharma.",
+        "source": "T29n1563_001:0780a26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸大論師咸作是言。",
+        "translation": "The great masters of the treatise all say this.",
+        "source": "T29n1563_001:0780a26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨繫事別。",
+        "translation": "'There's a distinction according to the subject of the fetters.'",
+        "source": "T29n1563_001:0780a27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T29n1563_001:0780a27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此若一者。",
+        "translation": "If this is one, then...",
+        "source": "T29n1563_001:0780a27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修餘治道有無用過。",
+        "translation": "cultivating other paths of correction would be useless.'",
+        "source": "T29n1563_001:0780a28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸所斷同一擇滅。",
+        "translation": "Suppose all that's stopped is the same as the cessation of discriminations.",
+        "source": "T29n1563_001:0780a28_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "證得苦法智忍所斷煩惱滅時。",
+        "translation": "When he realizes the cessation of the afflictions that are removed by the cognitive acceptance of suffering as a reality, then he'll realize the cessation of the other afflictions.",
+        "source": "T29n1563_001:0780a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘煩惱滅為證得不。",
+        "translation": "will the cessation of the other afflictions be realized?",
+        "source": "T29n1563_001:0780a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若證得者。",
+        "translation": "If it's realized, then the rest of the path of purification is useless.",
+        "source": "T29n1563_001:0780b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修餘治道便為無用。",
+        "translation": "cultivating the remaining paths of correction is then useless.",
+        "source": "T29n1563_001:0780b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不證得。",
+        "translation": "If he doesn't attain it, then he'll realize less of one thing and nothing else.",
+        "source": "T29n1563_001:0780b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則一物證少非餘。",
+        "translation": "Then, realizing one thing is little and nothing else.",
+        "source": "T29n1563_001:0780b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與理相違有分過故。",
+        "translation": "Because it's contrary to the principle, there's a fallacy.",
+        "source": "T29n1563_001:0780b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是定應許離繫事隨繫事量。",
+        "translation": "Therefore, it's definitely permissible to avoid binding things and to follow the estimation of binding things.",
+        "source": "T29n1563_001:0780b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不違正理。",
+        "translation": "It's not at odds with the correct principle.",
+        "source": "T29n1563_001:0780b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無同類者。",
+        "translation": "\"There's no like-mindedness.",
+        "source": "T29n1563_001:0780b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此擇滅自無同類因。",
+        "translation": "This refers to the fact that this kind of selection and cessation has no similar cause of its own.",
+        "source": "T29n1563_001:0780b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦非他因。",
+        "translation": "It's not a cause for others either.",
+        "source": "T29n1563_001:0780b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故永礙當生得非擇滅。",
+        "translation": "Therefore, it's a permanent obstruction to future birth that's not selection and cessation.",
+        "source": "T29n1563_001:0780b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "擇即前說如理成慧。",
+        "translation": "To discriminate is the aforementioned wisdom that's formed according to the principle.",
+        "source": "T29n1563_001:0780b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不由此慧有法永遮。",
+        "translation": "It's not from this wisdom that there's a dharma that's permanently obstructed.",
+        "source": "T29n1563_001:0780b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未來法生名非擇滅。",
+        "translation": "Future things that arise are called non-selective extinction.",
+        "source": "T29n1563_001:0780b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如眼與意專一色時。",
+        "translation": "It's like when the eye and mind focus on a single form.",
+        "source": "T29n1563_001:0780b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘色諸聲香味觸等。",
+        "translation": "The other forms are sound, odor, taste, touch, and so forth.",
+        "source": "T29n1563_001:0780b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念念謝往對彼少分。",
+        "translation": "He'll mindfully acknowledge and direct his attention to a small part of them.",
+        "source": "T29n1563_001:0780b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意處法處得非擇滅。",
+        "translation": "The abode of the mind and the abode of qualities attain non-selective extinction.",
+        "source": "T29n1563_001:0780b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以五識身及與一分意識身等於已滅境終不能生緣俱境故。",
+        "translation": "It's because the body of the five consciousnesses and the part of the body of consciousness that's extinguished can't eventually give rise to perceptual objects as well as perceptual objects.",
+        "source": "T29n1563_001:0780b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼生用繫屬同時所依緣故。",
+        "translation": "It's because they're tied to the same temporal support as the function that arises.",
+        "source": "T29n1563_001:0780b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若法能礙彼法生用此法離慧。",
+        "translation": "If a thing can obstruct the production of another thing, this thing is free from wisdom.",
+        "source": "T29n1563_001:0780b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "定礙彼法令住未來永不生故名非擇滅。",
+        "translation": "It's definitely an obstruction to their decrees being abiding in the future and never arising, so it's called non-selective extinction.",
+        "source": "T29n1563_001:0780b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非唯緣闕便永不生。",
+        "translation": "It's not just that if the condition is absent, then it won't arise.",
+        "source": "T29n1563_001:0780b12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後遇同類緣彼復應生故。",
+        "translation": "When he meets a later [similar] condition, that condition will again arise.",
+        "source": "T29n1563_001:0780b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂若先緣闕彼法可不生。",
+        "translation": "That is, if the first condition is lacking, that dharma may not arise.",
+        "source": "T29n1563_001:0780b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後遇同類緣。",
+        "translation": "When they subsequently encounter similar conditions, what obstacle will prevent them from arising?",
+        "source": "T29n1563_001:0780b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何障令不起。",
+        "translation": "What obstruction will cause it to not arise?'",
+        "source": "T29n1563_001:0780b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前說除道。",
+        "translation": "The prior teaching removes the path.",
+        "source": "T29n1563_001:0780b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘有為法。",
+        "translation": "The rest of the existent dharmas are called contaminated.",
+        "source": "T29n1563_001:0780b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名有漏何謂有為。",
+        "translation": "What's called contaminated? What's meant by 'existent.'",
+        "source": "T29n1563_001:0780b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_001:0780b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　又諸有為法　　謂色等五蘊",
+        "translation": "\"Also, there are the five aggregates of form and so forth that are conditioned by existent things.",
+        "source": "T29n1563_001:0780b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　亦世路言依　　有離有事等",
+        "translation": "also, the world relies on words, such as \"free from phenomena",
+        "source": "T29n1563_001:0780b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_001:0780b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "老病死等災橫差別。",
+        "translation": "\"There are distinctions between the calamities of old age, illness, death, and so forth.",
+        "source": "T29n1563_001:0780b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隱積損伏故名為蘊。",
+        "translation": "They are called aggregates because they are concealed and stifled.",
+        "source": "T29n1563_001:0780b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為別戒等故言色等。",
+        "translation": "They're called forms and so forth for the purpose of distinguishing between precepts and so forth.",
+        "source": "T29n1563_001:0780b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "戒等五蘊不能具攝。",
+        "translation": "The five aggregates of precepts and so forth can't be fully included.",
+        "source": "T29n1563_001:0780b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切有為色等五蘊具攝有為。",
+        "translation": "All the five aggregates such as form and so forth that are existent are fully included in being.",
+        "source": "T29n1563_001:0780b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此偏說言有為者。",
+        "translation": "Therefore, this is a partial statement that it's called 'existent.'",
+        "source": "T29n1563_001:0780b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾緣聚集共所為故。",
+        "translation": "It's because it's the result of the coming together of various conditions.",
+        "source": "T29n1563_001:0780b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未來未起。",
+        "translation": "It's yet to arise in the future.",
+        "source": "T29n1563_001:0780b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何謂有為。",
+        "translation": "What's meant by 'existent'?",
+        "source": "T29n1563_001:0780b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如所燒薪。",
+        "translation": "It's like the firewood that's burned.",
+        "source": "T29n1563_001:0780b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是彼類故。",
+        "translation": "It's because it's this type.",
+        "source": "T29n1563_001:0780b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸不生法不越彼類。",
+        "translation": "The unarisen dharmas don't transcend those kinds.",
+        "source": "T29n1563_001:0780b22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖永不起而說有為。",
+        "translation": "Even though they never arise, they're said to be existent.",
+        "source": "T29n1563_001:0780b23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼彼經中。",
+        "translation": "There's a sutra that says.",
+        "source": "T29n1563_001:0780b23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊隨義名世路等。",
+        "translation": "\"The Bhagavān follows the meaning, calling it the worldly path and so forth.",
+        "source": "T29n1563_001:0780b23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼復云何。",
+        "translation": "What else does he say?",
+        "source": "T29n1563_001:0780b24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸有為亦名世路。",
+        "translation": "It means that all existent things are also called worldly paths.",
+        "source": "T29n1563_001:0780b24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等五蘊生滅法故。",
+        "translation": "It's because the five aggregates of form and so forth are subject to arising and ceasing.",
+        "source": "T29n1563_001:0780b24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未來現在過去路中而流轉故。",
+        "translation": "It's because they'll be reborn in the paths of the future, present, and past.",
+        "source": "T29n1563_001:0780b25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或為無常所吞食故。",
+        "translation": "They may be devoured by impermanence.",
+        "source": "T29n1563_001:0780b26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名為世路。",
+        "translation": "They're called worldly paths.",
+        "source": "T29n1563_001:0780b26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸不生法眾緣闕故。",
+        "translation": "It's because the many conditions for the unarisen dharmas are lacking.",
+        "source": "T29n1563_001:0780b26_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖復不生是彼類故。",
+        "translation": "Even though they don't arise, they're these kinds of things.",
+        "source": "T29n1563_001:0780b27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立名無失。",
+        "translation": "Their names are established without loss.",
+        "source": "T29n1563_001:0780b27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有為法亦名言依。",
+        "translation": "The tangible things are also called linguistic supports.",
+        "source": "T29n1563_001:0780b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言謂言音。",
+        "translation": "Words are verbal sounds.",
+        "source": "T29n1563_001:0780b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或謂能說此言遠近所託名依。",
+        "translation": "It may be called a support that speaks these words from a distance or near.",
+        "source": "T29n1563_001:0780b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即義與名總說依故。",
+        "translation": "That's because meaning and words are generally said to be dependents.",
+        "source": "T29n1563_001:0780b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以名依義言復依名。",
+        "translation": "Because names rely on meanings, words also rely on names.",
+        "source": "T29n1563_001:0780b29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故言依總攝名義。",
+        "translation": "Therefore, the reliance of language collectively includes names.",
+        "source": "T29n1563_001:0780c01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名義具攝五蘊。",
+        "translation": "Thus, the terms fully include the five aggregates.",
+        "source": "T29n1563_001:0780c01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故契經說。",
+        "translation": "That's why the scriptures say.",
+        "source": "T29n1563_001:0780c02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言依有三無四無五。",
+        "translation": "'The basis of language has three, doesn't have four, and doesn't have five.'",
+        "source": "T29n1563_001:0780c02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由比善釋品類足論。",
+        "translation": "This is based on the theory that it's better to interpret the categories as being sufficient.",
+        "source": "T29n1563_001:0780c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼說言依五蘊所攝。",
+        "translation": "It says that the five aggregates are included in the expression 'basis.'",
+        "source": "T29n1563_001:0780c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依是因義無為無果。",
+        "translation": "Dependence is the meaning of cause, and there's no effect of nonbeing.",
+        "source": "T29n1563_001:0780c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故非言依。",
+        "translation": "Therefore, it's not called a basis.",
+        "source": "T29n1563_001:0780c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又若聚中三事可得。",
+        "translation": "Furthermore, if there are three things that can be obtained in a group, they are words that rely on their meanings, names that rely on words, and expressions that rely on words.",
+        "source": "T29n1563_001:0780c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂語依義說名言依。",
+        "translation": "They are words that rely on their meanings and are called linguistic dependency.",
+        "source": "T29n1563_001:0780c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無為聚中唯有其義。",
+        "translation": "In the aggregate of nothingness, there's only its meaning.",
+        "source": "T29n1563_001:0780c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無語依故不名言依。",
+        "translation": "Because there's no support for speech, it's not called a support for speech.",
+        "source": "T29n1563_001:0780c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有說無為有依有義。",
+        "translation": "There's the teaching that there's a support and meaning in the category of nonbeing.",
+        "source": "T29n1563_001:0780c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但闕語故不名言依。",
+        "translation": "It's only lacking in speech and therefore isn't called linguistic support.",
+        "source": "T29n1563_001:0780c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸有為與能言體有俱起義。",
+        "translation": "Furthermore, all existent things and verbal objects have the meaning of co-arising.",
+        "source": "T29n1563_001:0780c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無為不然。",
+        "translation": "Beinglessness is not like that.",
+        "source": "T29n1563_001:0780c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有為法亦名有離。",
+        "translation": "Existing existences are also called existential separations.",
+        "source": "T29n1563_001:0780c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離謂永離即是涅槃。",
+        "translation": "To be free means to be permanently free, which is nirvāṇa.",
+        "source": "T29n1563_001:0780c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得已不還。",
+        "translation": "After attaining it, they don't return.",
+        "source": "T29n1563_001:0780c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "墮生死故。",
+        "translation": "It's because they've fallen into birth-and-death.",
+        "source": "T29n1563_001:0780c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有彼離故。",
+        "translation": "Because there's separation from that, it's said to be existential separation.",
+        "source": "T29n1563_001:0780c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說名有離。",
+        "translation": "It's called having separation.",
+        "source": "T29n1563_001:0780c10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有財者名為有財。",
+        "translation": "Just as someone who has possessions is called having possessions.",
+        "source": "T29n1563_001:0780c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此雖有為而非一切。",
+        "translation": "Although this is existent, it's not all there is.",
+        "source": "T29n1563_001:0780c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以無漏道無擇滅故。",
+        "translation": "It's because the uncontaminated path has no cessation by analytical meditation.",
+        "source": "T29n1563_001:0780c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又涅槃時亦捨聖道。",
+        "translation": "Also, when he attains nirvāṇa, he also abandons the noble path.",
+        "source": "T29n1563_001:0780c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名有離。",
+        "translation": "Therefore, it's called free from existence.",
+        "source": "T29n1563_001:0780c12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以說聖道猶如船筏亦應斷故。",
+        "translation": "It's because the noble path is said to be like a raft that should also be cut off.",
+        "source": "T29n1563_001:0780c12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如契經言。",
+        "translation": "As the sūtras say.",
+        "source": "T29n1563_001:0780c13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法尚應斷。",
+        "translation": "'The Dharma should still be cut off.",
+        "source": "T29n1563_001:0780c13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何況非法。",
+        "translation": "How could it be otherwise?",
+        "source": "T29n1563_001:0780c13_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有為法亦名有事。",
+        "translation": "All the existent things are also called existents.",
+        "source": "T29n1563_001:0780c13_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "事謂所依。",
+        "translation": "Things are what they depend on.",
+        "source": "T29n1563_001:0780c14_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是所住。",
+        "translation": "They are also what they stand on.",
+        "source": "T29n1563_001:0780c14_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是因義。",
+        "translation": "This is the meaning of cause.",
+        "source": "T29n1563_001:0780c14_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "果依於因。",
+        "translation": "The result depends on the cause.",
+        "source": "T29n1563_001:0780c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從因生故。",
+        "translation": "It's because they arise from the cause.",
+        "source": "T29n1563_001:0780c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如子依母。",
+        "translation": "It's like a son depending on his mother.",
+        "source": "T29n1563_001:0780c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或果住因能覆因故。",
+        "translation": "Perhaps the result abides in the cause and can cover the cause.",
+        "source": "T29n1563_001:0780c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如人住床。",
+        "translation": "It's like a person living on a bed.",
+        "source": "T29n1563_001:0780c16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是因為果所映蔽義。",
+        "translation": "This is because the effect is obstructed by the cause.",
+        "source": "T29n1563_001:0780c16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因果前後故。",
+        "translation": "It's because the cause and effect are preceded and followed by the result.",
+        "source": "T29n1563_001:0780c16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及細麁性故。",
+        "translation": "and because of their subtle and debilitating nature.",
+        "source": "T29n1563_001:0780c17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此有事故。",
+        "translation": "\"This is an event.",
+        "source": "T29n1563_001:0780c17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說名有事。",
+        "translation": "It's called an event.",
+        "source": "T29n1563_001:0780c17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喻如前說。",
+        "translation": "The metaphors are as explained above.",
+        "source": "T29n1563_001:0780c17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等類說有為法。",
+        "translation": "These are the kinds of things that are said to be existent.",
+        "source": "T29n1563_001:0780c18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸名差別於此所說有為法中。",
+        "translation": "The names are distinguished among the things that are said to be existent.",
+        "source": "T29n1563_001:0780c18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T29n1563_001:0780c19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　有漏名取蘊　　亦說為有諍",
+        "translation": "\"The contaminated aggregate called appropriation is also said to be an argument over existence.",
+        "source": "T29n1563_001:0780c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　及苦集世間　　見處三有等",
+        "translation": "and the world of suffering and arising, the three realms of views and so forth",
+        "source": "T29n1563_001:0780c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T29n1563_001:0780c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前說除道餘有為法。",
+        "translation": "\"The previous teaching was that except for the path, the other existent things are contaminated.",
+        "source": "T29n1563_001:0780c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名為有漏。",
+        "translation": "They're called contaminated.",
+        "source": "T29n1563_001:0780c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已辯其體。",
+        "translation": "We've already explained its essence.",
+        "source": "T29n1563_001:0780c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今為顯彼名想不同及差別義故復重說。",
+        "translation": "Now, in order to show that their names and concepts are different and have different meanings, we'll explain them again.",
+        "source": "T29n1563_001:0780c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已說一切有為名蘊。",
+        "translation": "We've already explained that all existent things are called aggregates.",
+        "source": "T29n1563_001:0780c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今說有漏名為取蘊。",
+        "translation": "Now, we say that the contaminated ones are called the appropriated aggregates.",
+        "source": "T29n1563_001:0780c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義准無漏但得蘊名唯諸漏中立取名想。",
+        "translation": "The meaning is based on the idea that the uncontaminated can only be called aggregates but the contaminants can't be grasped by names and concepts.",
+        "source": "T29n1563_001:0780c24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以能執取三有生故。",
+        "translation": "It's because they can appropriate the three existences for birth.",
+        "source": "T29n1563_001:0780c25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或能執持引後有業。",
+        "translation": "They may be able to appropriate and bring about subsequently existent activity.",
+        "source": "T29n1563_001:0780c26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故彼諸漏說名為取。",
+        "translation": "Therefore, those contaminants are said to be appropriated.",
+        "source": "T29n1563_001:0780c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色等五蘊從取生故。",
+        "translation": "It's because the five aggregates of form and so forth arise from grasping.",
+        "source": "T29n1563_001:0780c27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或生取故。",
+        "translation": "They may arise from grasping.",
+        "source": "T29n1563_001:0780c27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名為取蘊。",
+        "translation": "They're called the aggregate of appropriation.",
+        "source": "T29n1563_001:0780c27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如草糠火。",
+        "translation": "They're like grass, chaff, and fire.",
+        "source": "T29n1563_001:0780c28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如花果樹。",
+        "translation": "They're like flowers and fruit trees.",
+        "source": "T29n1563_001:0780c28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有漏法亦名有諍。",
+        "translation": "Contaminated dharmas are also called having a dispute.",
+        "source": "T29n1563_001:0780c28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂煩惱中立諍名想。",
+        "translation": "It's called the perception of a neutral argument over affliction.",
+        "source": "T29n1563_001:0780c29_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "擾動善品故。",
+        "translation": "It's because it disturbs good qualities.",
+        "source": "T29n1563_001:0780c29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "損害自他故。",
+        "translation": "It's because it harms self and others.",
+        "source": "T29n1563_001:0780c29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘊與諍俱。",
+        "translation": "The aggregates and the controversy go together.",
+        "source": "T29n1563_001:0781a01_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或諍蘊俱而得生起。",
+        "translation": "Some of the aggregates of the debate may arise together with the debate.",
+        "source": "T29n1563_001:0781a01_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名有諍。",
+        "translation": "That's why they're called 'having a dispute.'",
+        "source": "T29n1563_001:0781a01_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此意顯示諍之與蘊非隨闕一餘可得生。",
+        "translation": "This idea shows that the disputed and the aggregates are not just one without the other that can arise.",
+        "source": "T29n1563_001:0781a02_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及者顯餘有漏名想。",
+        "translation": "It also shows that there are other contaminated concepts called conceptions.",
+        "source": "T29n1563_001:0781a03_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂或名苦。",
+        "translation": "It's sometimes called suffering.",
+        "source": "T29n1563_001:0781a03_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即五取蘊。",
+        "translation": "It's the five appropriated aggregates.",
+        "source": "T29n1563_001:0781a03_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸逼迫所依處故。",
+        "translation": "They are the basis for various kinds of oppression.",
+        "source": "T29n1563_001:0781a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自性麁重不安隱故。",
+        "translation": "They are debilitating in nature and not stable.",
+        "source": "T29n1563_001:0781a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或名為集。",
+        "translation": "It's also called accumulation.",
+        "source": "T29n1563_001:0781a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即彼種類能為因故。",
+        "translation": "It's because those kinds of beings are capable of being causes.",
+        "source": "T29n1563_001:0781a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能集成故。",
+        "translation": "It's because they can be collected.",
+        "source": "T29n1563_001:0781a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂從取蘊取蘊集成。",
+        "translation": "It's formed from the appropriated aggregate and the appropriated aggregate.",
+        "source": "T29n1563_001:0781a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或名世間可毀壞故。",
+        "translation": "It's also called worldly because it's destructible.",
+        "source": "T29n1563_001:0781a06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如世尊說。",
+        "translation": "According to the Bhagavān, it's destructible by nature.",
+        "source": "T29n1563_001:0781a06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性可毀壞。",
+        "translation": "'The nature is destructible.'",
+        "source": "T29n1563_001:0781a07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名世間。",
+        "translation": "Therefore, it's called mundane.",
+        "source": "T29n1563_001:0781a07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非諸聖道性可毀壞。",
+        "translation": "It's not the nature of the noble paths that can be destroyed.",
+        "source": "T29n1563_001:0781a07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦名世間。",
+        "translation": "They're also called mundane.",
+        "source": "T29n1563_001:0781a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此中無對治壞故。",
+        "translation": "It's because there's no antidote for decay in this.",
+        "source": "T29n1563_001:0781a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或名見處。",
+        "translation": "It's also called the abode of views.",
+        "source": "T29n1563_001:0781a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "薩迦耶等五見住中隨增眠故。",
+        "translation": "It's because the five abodes of views like sācārya follow each other in increasing drowsiness.",
+        "source": "T29n1563_001:0781a08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼諸見於有漏法一切種時相無差別。",
+        "translation": "Because those views have no distinctions in the characteristics of contaminated things at all times, they're persistent, unmoving, and follow increased drowsiness.",
+        "source": "T29n1563_001:0781a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "堅執無動隨增眠故。",
+        "translation": "They follow increased drowsiness because of their firmly held, unmoving views.",
+        "source": "T29n1563_001:0781a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "體用增盛。",
+        "translation": "Their essence and function proliferate.",
+        "source": "T29n1563_001:0781a11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故復別說。",
+        "translation": "Therefore, it's also explained separately.",
+        "source": "T29n1563_001:0781a11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貪等癡疑則不如是。",
+        "translation": "'Desire and other delusions and doubts are not like this.'",
+        "source": "T29n1563_001:0781a11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以彼貪等有一切種無一切時。",
+        "translation": "Because their craving and so forth have all kinds and don't have all time, delusion has all time.",
+        "source": "T29n1563_001:0781a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "癡一切時非無差別。",
+        "translation": "Delusion has all time, but it's not without distinctions.",
+        "source": "T29n1563_001:0781a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "疑無差別。",
+        "translation": "Doubt has no distinctions.",
+        "source": "T29n1563_001:0781a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而不堅執。",
+        "translation": "They don't hold firmly to them.",
+        "source": "T29n1563_001:0781a13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故有漏。",
+        "translation": "Therefore, there are contaminants.",
+        "source": "T29n1563_001:0781a13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不說彼處。",
+        "translation": "They don't say there's a place.",
+        "source": "T29n1563_001:0781a13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或名三有。",
+        "translation": "It's sometimes called the three realms.",
+        "source": "T29n1563_001:0781a14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有因有依三有攝故。",
+        "translation": "It's because there are causes and bases that the three existences are included.",
+        "source": "T29n1563_001:0781a14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "等言為攝名有染等。",
+        "translation": "They're called tainted and so forth.",
+        "source": "T29n1563_001:0781a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等類是有漏法。",
+        "translation": "These kinds of things are contaminated dharmas.",
+        "source": "T29n1563_001:0781a15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨義別名。",
+        "translation": "They are called separately according to their meaning.",
+        "source": "T29n1563_001:0781a15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說一切有部顯宗論卷第一",
+        "translation": "Saṃyuktâgama-vibhāga-śāstra, vol. 1",
+        "source": "T29n1563_001:0781a17_0",
+        "is_bad_quality": false
+    }
+]

@@ -1,0 +1,2012 @@
+[
+    {
+        "source_sentence": "根本說一切有部毘奈耶卷第一",
+        "translation": "Mūlasarvâstivāda-vinaya, Vol. 1",
+        "source": "T23n1442_001:0627a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師義淨奉　制譯",
+        "translation": "Translation by the Tripiṭaka Master Yijing Feng",
+        "source": "T23n1442_001:0627a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "毘奈耶序",
+        "translation": "preface to the Vinaya",
+        "source": "T23n1442_001:0627a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　稽首大悲尊，　　能哀愍一切；　面滿如初日，　　目淨若青蓮。",
+        "translation": "\"He bows his head to the greatly compassionate venerable, compassionate toward all people, with a face as full as the first sun and eyes as pure as a blue lotus.",
+        "source": "T23n1442_001:0627a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　佛生調伏家，　　弟子眾調伏；　調伏除眾過，　　敬禮法中尊。",
+        "translation": "The Buddha was born into a family of discipline, and his disciples are disciplined; they are disciplined to remove many faults and venerate the honored among the teachings.",
+        "source": "T23n1442_001:0627a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　佛說三藏教，　　毘奈耶為首；　我於此教中，　　略申其讚頌。",
+        "translation": "Of the three collections of teachings that the Buddha teaches, Vinaya is the leader, and I've outlined its praises in this teaching.",
+        "source": "T23n1442_001:0627a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如樹根為最，　　條幹由是生；　佛說律為本，　　能生諸善法。",
+        "translation": "Like a tree whose roots are the greatest and whose trunk is made from this, the Buddha teaches that the vinaya is the root and that it produces good qualities.",
+        "source": "T23n1442_001:0627a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　譬如大堤防，　　瀑流不能越；　戒法亦如是，　　能遮於毀禁。",
+        "translation": "It's like a large embankment that a raging current can't cross, and so is the Dharma of morality, which shields against disregard for the prohibitions.",
+        "source": "T23n1442_001:0627a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　諸佛證菩提，　　獨覺身心靜；　及以阿羅漢，　　咸由律行成。",
+        "translation": "All buddhas who realize enlightenment are individually enlightened, their bodies and minds are quiescent, and arhats all attain it by practicing the precepts.",
+        "source": "T23n1442_001:0627a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　三世諸賢聖，　　遠離有為縛；　皆以律為本，　　能至安隱處。",
+        "translation": "Good men and sages from the three times, who are free from the bonds of existence, all take the precepts as their foundation and can reach a peaceful place.",
+        "source": "T23n1442_001:0627a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若此調伏教，　　安住於世間；　即是諸如來，　　正法藏不滅。",
+        "translation": "If this restraining teaching is stable and abides in the world, these are the tathāgatas, and the store of the true dharma doesn't perish.",
+        "source": "T23n1442_001:0627a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　戒是能安立，　　如來正法燈；　離此即便無，　　安隱涅槃路。",
+        "translation": "These precepts are the lamp of the Tathāgata's right teaching that can be established, and apart from this, even if there were nothing, the path to peaceful nirvāṇa would be secured.",
+        "source": "T23n1442_001:0627a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　佛遊於世間，　　隨處說經法；　律教不如是，　　故知難值遇。",
+        "translation": "The Buddha travels the world, teaching sūtras and Dharma wherever he goes; the precepts and teachings are not like this, so you know it's hard to meet him.",
+        "source": "T23n1442_001:0627a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如地載群生，　　能長諸卉木；　律教亦如是，　　能生諸福智。",
+        "translation": "Just as the ground carries a multitude of living things that grow plants and trees, so does the precepts teachings that produce merit and wisdom.",
+        "source": "T23n1442_001:0627a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　佛說由律教，　　能生眾功德；　奉持得解脫，　　毀破生惡趣。",
+        "translation": "The Buddha teaches that the teachings of the vinaya produce merits, and that adherence to them leads to liberation, while destroying them leads to a bad destiny.",
+        "source": "T23n1442_001:0627a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　象馬若不調，　　制之以鉤策；　律教亦如是，　　不調令善順。",
+        "translation": "If an elephant or horse is unruly, it's restrained by a hook; likewise, the precepts teach that unruliness makes it good.",
+        "source": "T23n1442_001:0627b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如城有隍塹，　　能禦諸怨敵；　律教亦如是，　　能防於破戒。",
+        "translation": "Like a city with a moat that guards against enemies, so does the precepts teach, which guards against violating the precepts.",
+        "source": "T23n1442_001:0627b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　譬如大海水，　　能漂於死屍；　律教亦如是，　　能除諸破戒。",
+        "translation": "Like the ocean, which floats on dead bodies, so does the precepts and the teaching, which remove transgressions.",
+        "source": "T23n1442_001:0627b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　律是法中王，　　諸佛之導首；　苾芻喻商旅，　　此為無價珍。",
+        "translation": "The precepts are the king of all dharmas, the guiding light of all buddhas, and the bhikṣu is a metaphor for a merchant, which is a priceless treasure.",
+        "source": "T23n1442_001:0627b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　破戒逾蛇毒，　　律如阿伽陀；　盛壯意難調，　　以律為轡勒。",
+        "translation": "A violation of the precepts is like the venom of a snake, and the Vinaya is like Agada; its strength of mind is difficult to temper, so it uses the Vinaya as a dangler.",
+        "source": "T23n1442_001:0627b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　律於善道處，　　常與作橋梁；　亦於惡趣海，　　能與為船栰；　若行於險路，　　戒為善導者；　若昇無畏城，　　以戒為梯隥。",
+        "translation": "Where the precepts are for a good path, they always serve as a bridge; in the sea of evil destinies, they can serve as a boat's anchor; if you travel a dangerous path, the precepts are a good guide; if you ascend to the city of fearlessness, the precepts are a stepping-stone.",
+        "source": "T23n1442_001:0627b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　大師最勝尊，　　親說於律教；　此二無差別，　　咸應歸命禮。",
+        "translation": "The most honored of masters personally teaches the Vinaya; these two are not different, and they should all venerate and worship each other.",
+        "source": "T23n1442_001:0627b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　佛及聖弟子，　　咸依律教住；　於戒生恭敬，　　故我歸命禮。",
+        "translation": "The Buddha and his noble disciples all abide in reliance on the Vinaya's teaching; they develop respect for the precepts, so I venerate and worship them.",
+        "source": "T23n1442_001:0627b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我依律讚歎，　　此說應尊重；　於初首歸依，　　吉祥事成就。",
+        "translation": "I praise them according to the Vinaya, and this teaching should be respected; taking refuge in the first, I'll achieve something auspicious.",
+        "source": "T23n1442_001:0627b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　毘奈耶大海，　　涯際淼難知；　差別相無窮，　　豈我能詳悉。",
+        "translation": "The vast ocean of Vinaya is limitless and difficult to understand, and its distinctions are endless, so how could I possibly fathom them?",
+        "source": "T23n1442_001:0627b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　大師律教海，　　甚深難可測；　我今隨自能，　　略讚於少分。",
+        "translation": "The ocean of the great teacher's vinaya teaching is unfathomably deep; now, as I am able, I'll praise a small portion of it.",
+        "source": "T23n1442_001:0627b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　世尊涅槃時，　　普告諸大眾；　汝於我滅後，　　感應尊敬戒。",
+        "translation": "When the Bhagavān passed away, he universally addressed the great assembly, saying, 'After I cease, you will be moved to respect the precepts.'",
+        "source": "T23n1442_001:0627b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　故我申讚頌，　　欲說毘奈耶；　仁等應至心，　　善聽調伏教。",
+        "translation": "Therefore, I'll praise you and want to teach you about Vinaya; you should wholeheartedly listen to the teaching on discipline.",
+        "source": "T23n1442_001:0627b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　別解脫經難得聞，　　經於無量俱胝劫；　讀誦受持亦如是，　　如說行者更難遇。",
+        "translation": "It's difficult to hear the scriptures of individual liberation, which pass through measureless eons; so is reciting, memorizing, and upholding them, just as it's difficult to encounter a practitioner who teaches them.",
+        "source": "T23n1442_001:0627c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　諸佛出現於世樂，　　演說微妙正法樂；　僧伽一心同見樂，　　和合俱修勇進樂。",
+        "translation": "The buddhas appear in the world happy, expounding the joy of the subtle right teaching; the saṃgha sees the joy with one mind and cultivates the joy of unity and courage.",
+        "source": "T23n1442_001:0627c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若見聖人則為樂，　　并與共住亦為樂；　若不見諸愚癡人，　　是則名為常受樂。",
+        "translation": "If they see sages, it's bliss, and it's bliss to live with them; if they don't see foolish people, this is called bliss of permanence.",
+        "source": "T23n1442_001:0627c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　見具尸羅者為樂，　　若見多聞亦名樂；　見阿羅漢是真樂，　　由於後有不生故。",
+        "translation": "Seeing someone with moral discipline is bliss, and if someone sees well-versed people, that's also called bliss; seeing an arhat is true bliss because later existences aren't produced.",
+        "source": "T23n1442_001:0627c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　於河津處妙階樂，　　以法降怨戰勝樂；　證得正慧果生時，　　能除我慢盡為樂。",
+        "translation": "It's a pleasure to be at the river and the river's edge, and it's a pleasure to subdue enemies and win battles with the Dharma; when the fruit of right wisdom is realized and produced, it's a pleasure to be able to remove self-conceit and bring it to an end.",
+        "source": "T23n1442_001:0627c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若有能為決定意，　　善伏根欲具多聞；　從少至老處林中，　　寂靜閑居蘭若樂。",
+        "translation": "If there's someone capable of a resolute mind, who well subdues their faculties, desires, and is well-versed, then from youth to old age they'll find themselves in a forest, enjoying quietude and seclusion at Ranjan.",
+        "source": "T23n1442_001:0627c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　合十指恭敬，　　禮釋迦師子；　別解脫調伏，　　我說仁善聽。",
+        "translation": "Clasping his ten fingers in respect, he salutes the lion Śākyamuni, and is disciplined by specific liberation, listening well to my teaching for the sake of kindness.",
+        "source": "T23n1442_001:0627c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　聽已當正行，　　如大仙所說；　於諸小罪中，　　勇猛亦勤護。",
+        "translation": "After listening, he'll conduct himself correctly, just as the great sage taught; among the lesser sins, he'll guard them vigorously and diligently.",
+        "source": "T23n1442_001:0627c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　心馬難制止，　　勇決恒相續；　別解脫如銜，　　有百針極利。",
+        "translation": "It's difficult to stop the horse in his mind, but his resolve is constant; his specific liberation is like a title, with a hundred needles of great benefit.",
+        "source": "T23n1442_001:0627c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若人違軌則，　　聞教便能止；　大士若良馬，　　當出煩惱陣。",
+        "translation": "If someone goes against the rules and hears the teaching, they'll be able to stop it; like a good horse, the great man will escape the battlements of affliction.",
+        "source": "T23n1442_001:0627c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若人無此銜，　　亦不曾喜樂；　彼沒煩惱陣，　　迷轉於生死。",
+        "translation": "If someone doesn't have this title, they'll never be delighted; they'll fall into the array of afflictions and be lost in birth-and-death.",
+        "source": "T23n1442_001:0627c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總攝頌曰：　若作不淨行，　　不與取斷人；　妄說上人法，　　斯皆不共住。",
+        "translation": "The summary verse says, \"If someone does impure actions, they won't be with someone who takes them away; if they teach the teachings of higher persons falsely, they won't live together.",
+        "source": "T23n1442_001:0627c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不淨行學處第一之一",
+        "translation": "The First Place of Training in Impure Conduct",
+        "source": "T23n1442_001:0627c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別攝頌曰：　蘇陣那無犯，　　苾芻在林中；　弱腰及長根，　　妙喜三皆犯。",
+        "translation": "\"The verse that is collected separately says, 'Sudinna is without fault, the bhikṣu is in the forest, his waist is weak, and his long faculties are weak, and the three subtle pleasures are offenses.",
+        "source": "T23n1442_001:0627c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　晝日房中睡，　　閑林離欲人；　善與昔因緣，　　應知頌總攝。",
+        "translation": "Sleeping in his room by day, he's a secluded man in a quiet forest who's well connected to past causes and conditions, which should be known as a general summary of verse.",
+        "source": "T23n1442_001:0628a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時薄伽梵，從初證覺於十二年中，諸聲聞弟子無有過失，未生瘡疱。",
+        "translation": "During the twelve years since he first realized enlightenment, the Bhagavān had disciples of the śrāvaka who had no faults and hadn't developed sores and blisters.",
+        "source": "T23n1442_001:0628a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊為諸弟子，說略別解脫戒經曰：「一切惡莫作，　　一切善應修；　遍調於自心，　　是則諸佛教。",
+        "translation": "For those disciples, the Bhagavān taught the Sutra of the Specific Liberation Precepts, saying, \"Don't do all evil, cultivate all good, and generally regulate your own mind, and then you'll have all the teachings.",
+        "source": "T23n1442_001:0628a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　護身為善哉！",
+        "translation": "It's good to protect oneself!",
+        "source": "T23n1442_001:0628a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　能護語亦善；　護意為善哉！",
+        "translation": "Good is the speech that protects; good is the thought that protects!",
+        "source": "T23n1442_001:0628a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　盡護最為善。",
+        "translation": "\"Thoroughly guarding them is most virtuous.",
+        "source": "T23n1442_001:0628a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　苾芻護一切，　　能解脫眾苦；　善護於口言，　　亦善護於意。",
+        "translation": "A bhikṣu protects them all and is able to liberate them from suffering; he well guards his speech and well guards his mind.",
+        "source": "T23n1442_001:0628a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　身莫作諸惡，　　常淨三種業；　是則能隨順，　　大仙所行道。」",
+        "translation": "Don't do evil in your body, and always purify the three kinds of actions; then you'll be able to follow the path practiced by the great sage.\"",
+        "source": "T23n1442_001:0628a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至十三年，在佛栗氏國，時羯闌鐸迦村，羯闌鐸迦子名蘇陣那，富有資財多諸僕使，金銀珍寶穀麥盈溢，所貯貲貨如毘沙門天王。",
+        "translation": "In the thirteenth year of his life, in the land of the Buddhas, in the village of Kārttika, a son of Kārttika named Sudinna was wealthy and had many servants and messengers, overflowing with gold and silver, treasures, and grains, and stockpiling goods like the god King Vaiśravaṇa.",
+        "source": "T23n1442_001:0628a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於同類族娶女為妻，歡樂而住。",
+        "translation": "He takes a woman as his wife from the same clan and lives happily there.",
+        "source": "T23n1442_001:0628a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於異時，於佛法僧深生敬信，歸依三寶受五學處：所謂殺生、偷盜、欲邪行、虛誑語及飲諸酒，悉皆遠離。",
+        "translation": "At another time, they deeply respected the Buddha, Dharma, and Saṃgha, relied on the Three Treasures, and accepted the five abodes of training, which are killing, stealing, indulging in wrong desires, speaking falsely, and drinking alcohol, but they all avoided them.",
+        "source": "T23n1442_001:0628a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由斯敬信日漸增廣，便以正信捨家趣非家，剃除鬚髮而披法服。",
+        "translation": "As a result of this respect and faith, which grew day by day, he abandoned his family and returned to his non-family with right faith, shaved off his hair, and put on the Dharma robe.",
+        "source": "T23n1442_001:0628a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既出家已，與諸親屬相雜而住，猶如昔日在家無異。",
+        "translation": "Once he had left home, he lived with a mixture of relatives just as he had at home in the past.",
+        "source": "T23n1442_001:0628a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時具壽蘇陣那便自思念：「豈容我於善說法律而為出家，應證未證應得未得，與諸親族相雜而住。",
+        "translation": "It was then that Sudinna Kauśāmbī thought to himself, \"How could I leave home while the teaching of the Dharma is well established and live with a mixture of relatives that should be realized and yet to be realized, and that should be attained and yet to be attained?",
+        "source": "T23n1442_001:0628a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今宜應捨離親屬，執持衣鉢遊行人間。」",
+        "translation": "Now, I should abandon my relatives, take my robe and bowl, and wander among people.\"",
+        "source": "T23n1442_001:0628a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是念已，便捨親屬行詣他方。",
+        "translation": "After thinking this, he then left his relatives and traveled to another place.",
+        "source": "T23n1442_001:0628a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "逢世飢饉乞食難得，父母於子尚不相濟，況餘乞者。",
+        "translation": "When the world is starving and begging for food is difficult to obtain, parents still won't help their sons, so why wouldn't other beggars?",
+        "source": "T23n1442_001:0628a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那作是念已：「今我親屬財食殷富，宜應就彼羯闌鐸迦村，勸於僧田廣設供養：若麨、若粥、或常施食、或請喚食、或八日、十四日、十五日食，教諸親屬少興福業為饒益事。」",
+        "translation": "Sudinna then had this thought, \"Now, since my relatives have plenty of money and food, it would be helpful for them to go to that village of Kārttika and encourage them to make extensive offerings in the monk's field, whether it's for bread or gruel, or for food that's always given, or food that's requested, or food that's given on the 8th, 14th, or 15th days, so that their relatives can be taught to do little meritorious work for the benefit of others.\"",
+        "source": "T23n1442_001:0628a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那便捨他方，執持衣鉢漸次遊行，遂至羯闌鐸迦村，去斯不遠在阿蘭若住小房中。",
+        "translation": "So Sudinna then left his place, took his robe and bowl, and gradually marched to the village of Kārttika, where he stayed in a small house in Araṇḍa not far from there.",
+        "source": "T23n1442_001:0628b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那詣親屬所，廣為諸人讚揚佛法僧寶，令於大眾設諸供養而作饒益。",
+        "translation": "Sudinna then went to his relatives, praised the treasures of the Buddha, Dharma, and Saṃgha for the people, and caused them to make offerings to the general public for their benefit.",
+        "source": "T23n1442_001:0628b04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那在阿蘭若修杜多行，但三衣糞掃衣，常乞食次第乞。",
+        "translation": "At the time, Sudinna was cultivating the practice of dhūta in Araṇḍa, wearing only three robes and a sweeping robe, and he was always begging for food in order.",
+        "source": "T23n1442_001:0628b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時諸親族於日日中，恒以上妙甘美飲食施眾僧已，蘇陣那持衣鉢入村中，以次而乞到其本舍，既無所獲捨之而出。",
+        "translation": "After his relatives had given the saṃgha the best and sweetest food every day, Sudinna took his robe and bowl into the village, begged for it in turn, and went to his original home.",
+        "source": "T23n1442_001:0628b08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘇陣那母有事他行，時有老婢遙見蘇陣那憶識容顏，知無所獲疾疾而去。",
+        "translation": "When Sudinna's mother had something to do, an elderly maid saw Sudinna's face from a distance, recalled it, and knew that she had nothing to gain and left quickly.",
+        "source": "T23n1442_001:0628b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "老婢見已詣蘇陣那母處白言：「大家知不？",
+        "translation": "After she saw him, the old maid went to Sudinna's mother and said, \"Do you know about this?",
+        "source": "T23n1442_001:0628b12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "長子蘇陣那久離鄉邑，今還故居，乞求不獲疾疾而去。」",
+        "translation": "The eldest son, Sudinna, returned to his former home after a long absence, begging that he might not be allowed to leave so quickly.\"",
+        "source": "T23n1442_001:0628b13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那母作如是念：「豈非我子有憶戀耶？",
+        "translation": "Sudinna's mother then had this thought, \"Could it be that my son has longing for his home?",
+        "source": "T23n1442_001:0628b14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "情生不樂欲歸於俗，不愛沙門被沙門所苦，羞慚厭捨沙門行耶？」",
+        "translation": "Do you become unhappy in your mind and want to return to the conventional world, dislike ascetics and are made to suffer by ascetics, and are ashamed and disgusted to abandon ascetic practices?\"",
+        "source": "T23n1442_001:0628b15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是念已遂便出村，屆蘇陣那所居之處告曰：「蘇陣那！",
+        "translation": "After this thought, he left the village and went to where Sudinna was staying and said, \"Sudinna!",
+        "source": "T23n1442_001:0628b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝有憶戀耶？",
+        "translation": "Do you have longing for?",
+        "source": "T23n1442_001:0628b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "情生不樂欲歸俗耶？",
+        "translation": "Do you want to return to the conventional world because of the disaffection that arises in your mind?",
+        "source": "T23n1442_001:0628b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不愛沙門被沙門所苦，羞慚厭捨沙門行耶？",
+        "translation": "Do you dislike ascetics and are afflicted by ascetics, and are ashamed and disillusioned with ascetic practices?",
+        "source": "T23n1442_001:0628b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘇陣那！",
+        "translation": "Sudinna!",
+        "source": "T23n1442_001:0628b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我家中物及娉時財，汝且聽說，我自所有金銀之物積為大聚，兩邊人坐互不相見。",
+        "translation": "Listen to me when I tell you about the things in my house and the wealth of my life, for I've accumulated a great heap of gold and silver, and people on both sides of me sit down and don't see each other.",
+        "source": "T23n1442_001:0628b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又汝父財物官印金錢數有百千萬億，況復諸餘雜類財貨，汝可還家隨情受樂任為福施。」",
+        "translation": "Your father's wealth, his official seal, and his money number a hundred thousand million, not to mention other miscellaneous possessions, so return to your home and accept them as a blessing as you see fit.\"",
+        "source": "T23n1442_001:0628b22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說是語已，時蘇陣那白母言：「我無憶戀情有不樂歸還故居，亦無不愛沙門被沙門所苦羞慚厭捨。」",
+        "translation": "After these words were spoken, Sudinna said to his mother, \"I have no longing for lovers, and I have no discontent with returning to my former home, nor do I dislike ascetics and am ashamed and disgusted by ascetics who suffer.\"",
+        "source": "T23n1442_001:0628b24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那母聞是語已，便自思念：「非我所堪令其返服，應可別設餘計。」",
+        "translation": "After hearing those words, Sudinna's mother then thought to herself, \"It's not possible for me to make her return to her robe; I should try to devise another plan.\"",
+        "source": "T23n1442_001:0628b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時母還舍告新婦曰：「爾若月期時至可報我知。」",
+        "translation": "The mother then returned to the bride's home and told her, \"If you know when the moon is due, you can let me know.\"",
+        "source": "T23n1442_001:0628b27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "新婦敬諾，後於異時月期既至，白言：「大家！",
+        "translation": "The bride respectfully promised, and when the moonlight period arrived at some point later, she said, \"Everyone!",
+        "source": "T23n1442_001:0628b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今月期時至，欲何所作？」",
+        "translation": "What do I want to do now that the moon is due?\"",
+        "source": "T23n1442_001:0628b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "姑曰：「時過洗浴冠眾花鬘，塗以名香著諸瓔珞，嚴身之具咸令備盡，如蘇陣那昔在家日，情所樂事皆悉為之。」",
+        "translation": "The aunt said, \"It's time to bathe, crown with flowers, decorate with jewelry and decorate with famous scents, and make all the things that adorn the body available, just like Sudinna used to do when she was at home.\"",
+        "source": "T23n1442_001:0628c01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "婦既聞已莊飾事周，還至姑所白言：「大家！",
+        "translation": "After she heard about this, the woman adorned herself and returned to the aunt's house, saying, \"Everyone!",
+        "source": "T23n1442_001:0628c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如蘇陣那昔所愛好我已為之，沐浴嚴身著諸衣服，若有所作今是其時。」",
+        "translation": "As Sudinna loved in the past, I've done it for her, bathing and adorning myself with all my clothes, and if I had done it, this would be the right time.\"",
+        "source": "T23n1442_001:0628c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那母遂與新婦同車而去，詣蘇陣那所住之處，到已下車足步而進。",
+        "translation": "Sudinna's mother then left in the same chariot as the bride and went to where Sudinna was staying. When she arrived, she got out and walked in.",
+        "source": "T23n1442_001:0628c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那在小房外遊步經行，母既見已告曰：「蘇陣那！",
+        "translation": "Sudinna was walking outside the hut. When she saw her, she told her mother, \"Sudinna!",
+        "source": "T23n1442_001:0628c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如汝所云無有憶戀，廣說如上。",
+        "translation": "As you said, there's no longing for it, as explained in detail above.",
+        "source": "T23n1442_001:0628c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今汝新婦身淨宜留種子，無令財物沒入於官。」",
+        "translation": "Now, it's appropriate for your new wife to keep her seeds in a clean state and not allow her possessions to go to the officials.\"",
+        "source": "T23n1442_001:0628c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那先未制戒不見欲過，覩少年婦情生染著，欲火燒心，告其母曰：「我豈合耶？」",
+        "translation": "Sudinna, who hadn't yet observed the precepts and hadn't seen the error of desire, saw a young woman whose emotions were tainted by desire, and he said to his mother, \"Am I right?\"",
+        "source": "T23n1442_001:0628c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "母曰：「為留種子法應如是。」",
+        "translation": "Mother said, \"So it should be in order to preserve the seeds of the Dharma.\"",
+        "source": "T23n1442_001:0628c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那牽故二手，便向屏處脫去法服，遂即再三行不淨行。",
+        "translation": "Sultana then pulled him away from his second hand, took off his Dharma robes at the screen, and then he repeatedly performed impure actions.",
+        "source": "T23n1442_001:0628c13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時有有情至求勝行，有解脫性趣向涅槃，棄背生死三界五趣無心樂著，以最後身從勝妙天來託婦胎。",
+        "translation": "Then, some sentient beings who have sought superior practices, have the nature of liberation, and are headed for nirvāṇa abandon their attachment to the three realms and five destinies of birth and death without thought, and take their final body from the paramount heaven to the mother's womb.",
+        "source": "T23n1442_001:0628c15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若明慧女人，有五種別智異於餘女：一、知男子有欲心；二、知時節；三、知從某人得娠；四、知是男；五、知是女。",
+        "translation": "If a woman of insight has five kinds of distinctive knowledge, she's different from other women: 1. knowing that a man has desire; 2. knowing the time and season; 3. knowing that she's pregnant by someone; 4. knowing that she's a man; and 5. knowing that she's a woman.",
+        "source": "T23n1442_001:0628c17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若是男者依右脇住，若是女者居在左脇。",
+        "translation": "If it's a man, he'll stand at the right hypochondrium; if it's a woman, she'll stay at the left hypochondrium.",
+        "source": "T23n1442_001:0628c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼婦人心生歡喜，白其姑曰：「大家知不？",
+        "translation": "That woman's heart rejoiced and she said to her aunt, \"Do you know this?",
+        "source": "T23n1442_001:0628c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已有娠，居在右脇，必定是男，光顯宗胄。」",
+        "translation": "I'm pregnant and will be placed at my right hypochondrium; I'm sure it will be a boy who will radiate the lineage of my family.\"",
+        "source": "T23n1442_001:0628c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其姑聞已心大慶喜，作如是言：「我於昔來情希善子紹嗣家門，冀彼長成終懷報德，常修福慧利益我等。」",
+        "translation": "When she heard this, her aunt rejoiced greatly and said, \"Since long ago, I've longed for a good son to succeed my family, hoping that he'll grow up to carry the rewards of virtue in his end and always cultivate good fortune and wisdom for our benefit.\"",
+        "source": "T23n1442_001:0628c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "姑知是事，便以新婦置在高樓隨時供給，女醫調膳不令差舛，身具瓔珞，如天婇女遊歡喜園進止威儀。",
+        "translation": "Knowing this, the aunt then placed the bride in a high building where she was ready to serve her husband, prepared meals without fail, and wore jewelry like a goddess visiting the Garden of Joy, with dignity and deportment.",
+        "source": "T23n1442_001:0628c25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常處床座足不履地，目不覩惡色，耳不聽惡聲，寢食往來曾無違忤。",
+        "translation": "She remains on her seat, doesn't touch the ground with her feet, doesn't look at bad colors with her eyes, doesn't hear bad sounds with her ears, and never disobeys her when she goes to bed or eats.",
+        "source": "T23n1442_001:0628c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經九月已便生一子，顏貌端嚴人所愛樂，額廣眉長鼻高脩直，頂圓若蓋色美如金，垂手過膝眾皆敬仰。",
+        "translation": "After nine months, he gives birth to a son with a handsome appearance that's loved by everyone, a broad forehead with long eyebrows and a high, straight nose, a round peak like a lid, and a color as beautiful as gold, and he hangs his hands above his knees and is admired by everyone.",
+        "source": "T23n1442_001:0628c29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經三七日歡會宗親，其姑以兒告諸親曰：「此子今者欲作何名？」",
+        "translation": "After three or seven days of rejoicing in the clan, his aunt told the relatives about the son, \"What would you like to call this son?\"",
+        "source": "T23n1442_001:0629a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾人議曰：「此兒因種子法而求得之，可名種子。」",
+        "translation": "The crowd said, \"This child, who has attained this because of the seed dharma, can be called a seed.\"",
+        "source": "T23n1442_001:0629a03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其姑即便授八養母：二供乳哺、二作褓持、二為澡浴、二共歡戲。",
+        "translation": "The aunt then gave eight nurturing mothers: two to nurse, two to lay hold of, two to bathe, and two to play together.",
+        "source": "T23n1442_001:0629a04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "給以乳酪酥精石蜜，及餘上妙甘美飲食而用資養，速便長大如蓮出池。",
+        "translation": "She gives them milk, cheese, ghee, rock, honey, and other wonderful, sweet foods to nourish them, and they quickly grow up like lotuses emerging from a pond.",
+        "source": "T23n1442_001:0629a06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既漸童年學諸技藝算數書印，取與質納皆盡其妙。",
+        "translation": "As he gradually learns the arts and crafts, counting, writing, and sealing, he acquires and subsumes them all in their subtlety.",
+        "source": "T23n1442_001:0629a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於八種術善能占相：所謂相寶、相衣、相宅、相木、相象、相馬、相男、相女。",
+        "translation": "In eight arts, he's skilled at divining fortunes, which are called fortune telling, fortune telling clothing, fortune telling mansions, fortune telling wood, fortune telling elephants, fortune telling horses, fortune telling men, and fortune telling women.",
+        "source": "T23n1442_001:0629a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於異時深生正信，歸向三寶受五學處，同父信心念念增長。",
+        "translation": "At another time, he deeply believed in the Three Treasures, reverted to them, accepted the five training positions, and grew in faith with his father.",
+        "source": "T23n1442_001:0629a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂捨家趣非家求出離行，於善說法律剃除鬚髮而披法服，獨處閑靜無放逸心，策勤勇猛專念而住，淨修梵行。",
+        "translation": "He then leaves home and goes to a place other than home to pursue the practice of emancipation, shaves off his hair and puts on the Dharma robe after a good teaching of the Dharma, goes to be alone, quietly and without carelessness, makes effort, focuses his attention, and purely cultivates the religious practice.",
+        "source": "T23n1442_001:0629a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於現法中證悟圓滿，破無明[穀-禾+卵]斷三界惑成阿羅漢，三明六通具八解脫得如實知，我生已盡，梵行已立，所作已辦，不受後有。",
+        "translation": "Realizing the consummation of awakening in the present life, he breaks through ignorance [grain - grain + egg], ends the mental disturbances of the three realms and becomes an arhat, fully possesses the three insights and six powers, and attains the eight liberations as they really are, having ended self-born, established the religious practice, and accomplished the task, he's not subject to a later existence.",
+        "source": "T23n1442_001:0629a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心無障礙如手撝空，刀割香塗愛憎不起，觀金與土等無有異，於諸名利無不棄捨，釋梵諸天悉皆恭敬。",
+        "translation": "With a mind that's unobstructed like a hand Hughing space, a knife cut with incense and smeared with craving and dislike ceasing, he observes that there's no difference between gold and earth, and he doesn't discard fame and profit, which makes the gods of Indra and Brahmā all respect him.",
+        "source": "T23n1442_001:0629a17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時具壽種子，證阿羅漢受解脫樂，即說頌曰：「聖行已圓滿，　　不墜於父財；　我此最後身，　　盡除諸過患。」",
+        "translation": "It was then that the Arhat-seed realized the bliss of liberation and spoke this verse, \"Having completed noble actions, I won't fall into my father's wealth; this last body of mine will eliminate all faults.\"",
+        "source": "T23n1442_001:0629a19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那作不淨行已，世尊於無量百千聲聞苾芻大眾中而為說法，所謂離貪、瞋、癡心慧解脫。",
+        "translation": "After Sudinna had performed the impure act, the Bhagavān addressed a multitude of hundreds of thousands of śrāvaka monks, teaching them about the wisdom and liberation of the mind that's free of greed, anger, and delusion.",
+        "source": "T23n1442_001:0629a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那亦在眾中聽佛說法，既聞法已，心懷愁惱深生追悔，赧容伏面默爾無言，即便歸房懷憂而住。",
+        "translation": "Sudinna was also among the others listening to the Buddha's teaching. After hearing the teaching, he was deeply distressed and repentant, blushed and withdrew into silence, and went to his room to reflect on his sorrow.",
+        "source": "T23n1442_001:0629a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後於異時有諸苾芻，巡觀房宇次至蘇陣那所住之房，共為談話，見蘇陣那懷愁而住。",
+        "translation": "At another time, some monks went on a tour of the monks' living quarters, next went to Sudinna's living quarters, talked with him, and saw Sudinna standing there with sadness in his heart.",
+        "source": "T23n1442_001:0629a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時諸苾芻謂蘇陣那曰：「汝於先時見有客至，逢迎歡笑先唱善來，為持衣鉢及諸資具。",
+        "translation": "The monks then said to Sudinna, \"Earlier, you saw a visitor arrive, welcomed him, laughed, and called him good, carrying his robe and bowl and other necessities.",
+        "source": "T23n1442_001:0629a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故今時見我等來，心懷愁惱伏面而住默然無語？",
+        "translation": "Why is it that when you see us here now, you're sad and troubled and stand with your face downcast and silent?",
+        "source": "T23n1442_001:0629b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝蘇陣那為身病耶？",
+        "translation": "\"Are you sick in body because of your Sudinna?",
+        "source": "T23n1442_001:0629b03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為心痛乎？」",
+        "translation": "Is it because of heartache?\"",
+        "source": "T23n1442_001:0629b04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那告言：「諸具壽！",
+        "translation": "Sudinna then addressed them, saying, \"All you living beings!",
+        "source": "T23n1442_001:0629b04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我非身病而心有焦熱。」",
+        "translation": "I'm not physically ill but have burning fever in my mind.\"",
+        "source": "T23n1442_001:0629b04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問言：「何故心有焦熱？」",
+        "translation": "He asked, \"Why does the mind have burning fever?\"",
+        "source": "T23n1442_001:0629b05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時蘇陣那具說其事。",
+        "translation": "Sudinna then explained exactly what happened.",
+        "source": "T23n1442_001:0629b05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時諸苾芻聞其說已，不喜不嫌從座而去還詣佛所，到已禮佛雙足在一面坐，以此因緣具白世尊。",
+        "translation": "After hearing what he said, the monks were not displeased or annoyed as they left their seats and went back to the Buddha, bowed their feet to him when they arrived, sat down at one side, and explained this cause and condition to the Bhagavān.",
+        "source": "T23n1442_001:0629b06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊爾時告諸苾芻曰：「此穌陣那於有漏中，先作非法行不淨行。」",
+        "translation": "The Bhagavān then addressed the monks, \"This Śuddhodana was contaminated and had first engaged in unlawful and impure behavior.\"",
+        "source": "T23n1442_001:0629b08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊以此因緣集苾芻眾，佛是知者見者，知而問非知不問，時而問非時不問，有利而問無利不問，破決隄防為除疑惑有利而問，告蘇陣那言：「汝實作斯不端嚴事耶？」",
+        "translation": "It was then that the Bhagavān gathered a congregation of monks for this reason, and the Buddha, being a knower and a seer, asked questions when he knew and didn't know and didn't ask questions when he didn't know, asked questions when it was advantageous and didn't ask questions when it wasn't, broke through the levees, asked questions when it was advantageous to remove doubt, and addressed Sudinna, saying, \"Have you really done this improper and adorned thing?\"",
+        "source": "T23n1442_001:0629b09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白佛言：「實爾。",
+        "translation": "He said to the Buddha, \"That's true.",
+        "source": "T23n1442_001:0629b13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德！」",
+        "translation": "Great Teacher!\"",
+        "source": "T23n1442_001:0629b14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告蘇陣那：「汝非沙門、非隨順行、不清淨、非威儀，非出家人之所應作。",
+        "translation": "The Buddha told Sudinna, \"You are not an ascetic, not a follower, not pure, not dignified, and not something a monk should do.",
+        "source": "T23n1442_001:0629b14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘇陣那！",
+        "translation": "Sudinna!",
+        "source": "T23n1442_001:0629b15_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何汝今於我所說，離貪、瞋、癡心慧解脫，微妙法中而為出家，作斯非法可惡之事？",
+        "translation": "How is it that you now renounce the subtle Dharma and become a renunciant while you're free of greed, anger, and delusion, and do such unlawful and hateful things as I've taught you?",
+        "source": "T23n1442_001:0629b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "癡人！",
+        "translation": "A fool!",
+        "source": "T23n1442_001:0629b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧以男根置在猛害毒蛇口中，不安女根中。」",
+        "translation": "They'd rather put their male faculties in the mouth of a vicious snake than in the faculties of a woman.\"",
+        "source": "T23n1442_001:0629b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊以種種方便說厭污事呵責蘇陣那已，告諸苾芻曰：「由此因緣我觀十利，為聲聞弟子於毘奈耶制其學處。",
+        "translation": "After the Bhagavān had rebuked Sudinna for various ways of speaking about disgusting things, he told the monks, \"As a result, I've observed ten benefits for śrāvaka disciples who want to limit their training at Vinaya.",
+        "source": "T23n1442_001:0629b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為十？",
+        "translation": "What are the ten?",
+        "source": "T23n1442_001:0629b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一、攝取於僧故；二、令僧歡喜故；三、令僧樂住故；四、降伏破戒故；五、慚者得安故；六、不信令信故；七、信者增長故；八、斷現在有漏故；九、斷未來有漏故；十、令梵行得久住故。",
+        "translation": "1. because they take in the saṃgha; 2. because they make the saṃgha happy; 3. because they make the saṃgha happily abide; 4. because they subdue transgressors of the precepts; 5. because they attain peace of conscience; 6. because they make unbelievers believe; 7. because believers grow; 8. because they end present contaminants; 9. because they end future contaminants; and 10. because they cause the religious practice to be long-lasting.",
+        "source": "T23n1442_001:0629b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯揚正法廣利人天。",
+        "translation": "They will proclaim the right teaching for the benefit of humans and gods.",
+        "source": "T23n1442_001:0629b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今為諸聲聞弟子，於毘奈耶制其學處，應如是說：「若復苾芻，與諸苾芻同得學處，不捨學處、學羸不自說，作不淨行兩交會法。",
+        "translation": "Now, for the disciples of the śrāvakas, I would define their place of training in Vinaya and say, \"Suppose a monk and other monks attain the same place of training, don't abandon the place of training, don't tell themselves about the weakness of their training, and perform the task of meeting two parties in an impure practice.",
+        "source": "T23n1442_001:0629b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此苾芻亦得波羅市迦，不應共住。」",
+        "translation": "That monk has also attained prāsāka, and he shouldn't live together.\"",
+        "source": "T23n1442_001:0629b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊為諸苾芻制斯學處已，在羯闌鐸迦池竹林園中。",
+        "translation": "After the Bhagavān had made this place of training for the monks, he went to sit in the bamboo grove at Kārttika Pond.",
+        "source": "T23n1442_001:0629c01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "于時有一苾芻，去斯不遠在阿蘭若小室中住。",
+        "translation": "At the time, there was a certain monk who lived in a small dwelling in a forest not far from here.",
+        "source": "T23n1442_001:0629c02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼林中有一雌獼猴貪飲食故至苾芻所，苾芻每以殘食與之，便即共行不淨行。",
+        "translation": "In that forest, a female monkey craved food and drink and went to the monk's place. Whenever the monk gave him leftover food, he then shared an impure practice.",
+        "source": "T23n1442_001:0629c03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時有眾多苾芻，巡遊觀看詣阿蘭若，至苾芻住處，便共言談在一面坐。",
+        "translation": "A large group of monks wandered around, looked around, and went to the monk's dwelling place, where they talked to each other and sat to one side.",
+        "source": "T23n1442_001:0629c05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼雌獼猴憶先惡事來至其所，目視苾芻以身相就，苾芻見已羞見餘人，即便遮却，如是再三。",
+        "translation": "That female monkey, remembering a bad deed from before, came to the monk, looked at the monk, and made herself available to him. When the monk saw this, he was ashamed to see the others, so he hid himself from them, and so on.",
+        "source": "T23n1442_001:0629c07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時雌獼猴遂大瞋怒，即以足爪爬爴苾芻，頭面及衣並皆破裂，便向一邊鳴叫跳躑。",
+        "translation": "She then became angry and scrambled up against the monk with her feet and paws, and her head, face, and clothing were torn off as she screamed and jumped to one side.",
+        "source": "T23n1442_001:0629c09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時諸苾芻，見是事已即便問曰：「具壽！",
+        "translation": "When the monks saw this, they asked, \"Kauśāmbī!",
+        "source": "T23n1442_001:0629c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此野獼猴何故初來先觀爾面復以身就，汝見便遮，如是再三瞋怒爬爴身衣，並破鳴叫跳躑？」",
+        "translation": "Why did this wild monkey first come to see your face and then close in on you with its body, and then you covered it up when you saw it and repeatedly lashed out in anger, climbing out of its body and clothing and breaking its screams and jumping out of the bushes?\"",
+        "source": "T23n1442_001:0629c12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼苾芻具以事白。",
+        "translation": "The monk then explained everything to them.",
+        "source": "T23n1442_001:0629c14_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸苾芻聞，告言：「具壽！",
+        "translation": "When the monks heard this, they told him, \"Gosu!",
+        "source": "T23n1442_001:0629c14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈非世尊遮諸苾芻行不淨行。」",
+        "translation": "Isn't it true that the Bhagavān prevents monks from practicing impure behavior?\"",
+        "source": "T23n1442_001:0629c15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼便報曰：「世尊制戒但制人趣不遮傍生。」",
+        "translation": "They then replied, \"The Bhagavān sets forth precepts for the human condition but not for the condition of unenlightened sentient beings.\"",
+        "source": "T23n1442_001:0629c16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時諸苾芻聞是語已，不嫌不喜捨之而去，并與俱行往詣佛所，禮佛足已在一面坐，便以上事具白世尊。",
+        "translation": "After hearing those words, the monks, not disliking or delighting in them, left, went with their group to the Buddha, paid homage to his feet, sat to one side, and then reported all of the above to the Bhagavān.",
+        "source": "T23n1442_001:0629c17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊告曰：「人趣尚制，況復傍生！",
+        "translation": "The Bhagavān told them, \"The human destiny is still regulated, so why wouldn't it be the case that it's an alternative life?",
+        "source": "T23n1442_001:0629c19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼愚癡人犯波羅市迦。」",
+        "translation": "That foolish man violates the rules of the city of Bārājika.\"",
+        "source": "T23n1442_001:0629c20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊以此因緣集苾芻眾，知而故問：「苾芻！",
+        "translation": "It was then that the Bhagavān gathered a congregation of monks for this reason, and knowing this, he asked, \"Monks!",
+        "source": "T23n1442_001:0629c20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝實作是不端嚴事罪惡法耶？」",
+        "translation": "Have you really done this misdeed, this sinful and evil act?\"",
+        "source": "T23n1442_001:0629c21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白言：「實爾。」",
+        "translation": "He said, \"That's true.\"",
+        "source": "T23n1442_001:0629c22_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊以種種呵責廣說如前。",
+        "translation": "The Bhagavān explained it in detail as before, with various rebukes.",
+        "source": "T23n1442_001:0629c22_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊告諸苾芻：「前是創制，今是隨制，我今更於毘奈耶中，為諸苾芻制其學處，應如是說：「若復苾芻，與諸苾芻同得學處，不捨學處、學羸不自說，作不淨行兩交會法，乃至共傍生，此苾芻亦得波羅市迦，不應共住。」",
+        "translation": "It was then that the Bhagavān addressed the monks, \"Having previously created this system and now following it, I will now create for the monks in Vinaya a place of training for them, which should be explained like this, 'Suppose another monk and a monk attain the same place of training, doesn't abandon the place of training, doesn't reveal the weakness of their training, engages in impure behavior, makes friends, and even shares rebirth in the world, this monk will also attain pārājika and shouldn't live together.'",
+        "source": "T23n1442_001:0629c23_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若復苾芻者，謂蘇陣那等。",
+        "translation": "Also, these are the budgis, such as Sudinna.",
+        "source": "T23n1442_001:0629c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苾芻有五：一、名字苾芻；二、自言苾芻；三、乞求苾芻；四、破煩惱苾芻；五、白四羯磨圓具苾芻。",
+        "translation": "There are five kinds of bhikṣus: 1. name bhikṣus; 2. self-proclaimed bhikṣus; 3. begging bhikṣus; 4. affliction-busting bhikṣus; and 5. bhikṣus who complete the four white karmas.",
+        "source": "T23n1442_001:0629c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言名字苾芻者，如人立字名作苾芻，或世共許、或是苾芻種族，因此喚為苾芻，是謂名字苾芻。",
+        "translation": "A person who refers to himself as a name monk is called a monk because he has established a word name as monk, or because it's accepted by the world or by a group of monks, and he's therefore called a monk.",
+        "source": "T23n1442_001:0630a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何自言苾芻？",
+        "translation": "What does it mean to call oneself a monk?",
+        "source": "T23n1442_001:0630a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若人實非苾芻，自言我是苾芻、或是賊住自稱苾芻，是謂自言苾芻。",
+        "translation": "If a person really isn't a monk and says, \"I'm a monk,\" or if a thief lives and calls himself a monk, this is called calling himself a monk.",
+        "source": "T23n1442_001:0630a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何乞求苾芻？",
+        "translation": "How does begging for a monk mean monk?",
+        "source": "T23n1442_001:0630a06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸俗人常為乞求以自活命，是名乞求苾芻。",
+        "translation": "If secular people always beg for their own lives, this is called a begging monk.",
+        "source": "T23n1442_001:0630a07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何破煩惱苾芻？",
+        "translation": "What is a monk who destroys the afflictions?",
+        "source": "T23n1442_001:0630a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若人能斷諸漏煩惱所有焦熱，諸苦異熟未來生老死，能善了知永除根本，如斷多羅樹頭證不生法，是名破煩惱苾芻。",
+        "translation": "If a person can end the contaminants, the burning fever of the afflictions, and suffering, retribution, future birth, and old age and death, and can well understand them and permanently remove their root, like cutting off the head of the palm tree and realizing the principle of nonarising, this is called a monk who destroys the afflictions.",
+        "source": "T23n1442_001:0630a08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何白四羯磨圓具苾芻？",
+        "translation": "What is the monk who explains the four karmas and completes them?",
+        "source": "T23n1442_001:0630a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂身無障難，作法圓滿是不應呵，是名羯磨圓具苾芻。",
+        "translation": "This is called a monk who is perfectly equipped for karma, meaning he has no physical difficulties and performs the task perfectly, which shouldn't be objected to.",
+        "source": "T23n1442_001:0630a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今此所言苾芻義者，意取第五。",
+        "translation": "This is called the fifth meaning of the term bhikṣu, which is taken to mean.",
+        "source": "T23n1442_001:0630a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言復者，謂更有餘如是流類。",
+        "translation": "\"Again, it means there are other such categories.",
+        "source": "T23n1442_001:0630a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與諸苾芻者，謂共諸餘苾芻也。",
+        "translation": "With the other monks, it means together with the other monks.",
+        "source": "T23n1442_001:0630a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同得學處者，若有先受圓具已經百歲，所應學事，與新受者等無有異。",
+        "translation": "Those who have attained the same level of training should be no different from those who have just received the full ordainment after a hundred years, and the things they should learn should be the same as those of the newly ordained.",
+        "source": "T23n1442_001:0630a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若新受圓具，所應學事，與百歲圓具者事亦不殊，所謂尸羅、學處、持犯軌儀咸皆相似而得，故名同得學處。",
+        "translation": "If a newly ordained monk is fully ordained, the things he should learn are not different from those of a 100-year-old monk who is fully ordained, and they're all similar in terms of the moral discipline, training place, and observance of the rules and regulations, which is why they're called having attained the training place together.",
+        "source": "T23n1442_001:0630a17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言不捨學處者，齊何名為不捨學處？",
+        "translation": "When it comes to the point of not abandoning the stage of training, what is it called that the point of not abandoning the stage of training?",
+        "source": "T23n1442_001:0630a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂對癲狂、心亂、痛惱所纏，聾瘂、癡人而捨學處，皆不名為捨。",
+        "translation": "To abandon the seat of training to someone who's crazy, disturbed, tormented, deaf, or deluded is not called abandoning.",
+        "source": "T23n1442_001:0630a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於獨靜處作獨靜想，或於獨靜處作不獨靜想，或於不獨靜處作獨靜想，非捨學處。",
+        "translation": "If someone thinks of being alone in a place of solitude, or thinks of not being alone in a place of solitude, or thinks of being alone in a place of not-solitude, it's not equanimity as a place of training.",
+        "source": "T23n1442_001:0630a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若中方人對邊方人作中方語，捨不成捨，若解成捨。",
+        "translation": "If a person from the middle path speaks from the middle path to a person from the middle path, equanimity isn't equanimity, and if he understands it, it becomes equanimity.",
+        "source": "T23n1442_001:0630a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若邊方人對中方人作邊方語，若中方人對中方人作邊方語，捨不成捨，若解成捨。",
+        "translation": "If a person from the border makes a statement from the border to a person from the middle, or if a person from the middle makes a statement from the border to a person from the middle, equanimity doesn't become equanimity, and if understanding becomes equanimity.",
+        "source": "T23n1442_001:0630a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若邊方人對邊方人作中方語，准上應知。",
+        "translation": "If a person from the border makes a statement from the middle direction to a person from the border, it should be understood as above.",
+        "source": "T23n1442_001:0630a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若對睡眠、入定、非人、天等，變化傍生及諸形像，或時閙亂，或不審告住本性人，皆不成捨。",
+        "translation": "If someone is asleep, absorbed in meditation, inhuman, celestial, or other changing beings or forms, or if they are sometimes agitated, or if they don't carefully tell someone who abides in their original nature, it doesn't become equanimity.",
+        "source": "T23n1442_001:0630a28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言學羸不說者，應為四句：有捨學處非學羸而說、有學羸而說非捨學處、有捨學處學羸而說、有不捨學處非學羸而說。",
+        "translation": "When it says that training is weak, it's not explained, but there are four phrases: there's the place of training that's given up but not the weak place of training, there's the place of training that's given up but not the place of training, there's the place of training that's given up but the weak place of training, and there's the place of training that's not given up but the weak place of training.",
+        "source": "T23n1442_001:0630b01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有捨學處非學羸而說？",
+        "translation": "How is there a place of training that's given and not given to a weak trainer?",
+        "source": "T23n1442_001:0630b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有苾芻，情懷顧戀欲希還俗，於沙門道無愛樂心，為沙門所苦羞慚厭背，詣苾芻所作如是言：「具壽存念！",
+        "translation": "Suppose a monk, desiring to return to the conventional world with longing, has no desire or pleasure in the ascetic path, and is ashamed, embarrassed, and disgusted by the ascetics, comes to the monk and says, \"Gosshū Shōnen!",
+        "source": "T23n1442_001:0630b04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我某甲今捨學處。」",
+        "translation": "Now, I, Mr. A, have renounced the place of training.\"",
+        "source": "T23n1442_001:0630b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名捨學處。",
+        "translation": "This is called renouncing the place of training.",
+        "source": "T23n1442_001:0630b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或云：「我捨佛陀、達摩、僧伽。」",
+        "translation": "Some say, 'I renounce the Buddha, the dharma, and the saṃgha.'",
+        "source": "T23n1442_001:0630b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或云：「我捨素呾羅、毘奈耶、摩[口*窒]里迦。」",
+        "translation": "Or, \"I renounce the sūtra, the vinaya, and the mā[mouth*choke]rika.\"",
+        "source": "T23n1442_001:0630b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或云：「我捨鄔波馱耶、阿遮利耶。」",
+        "translation": "Or, \"I'll give up (Skt. upādhyāya, ācārya).\"",
+        "source": "T23n1442_001:0630b09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或云：「知我是俗人、知我是求寂、扇侘、半擇迦、污苾芻尼、殺父害母、殺阿羅漢、破和合僧、惡心出佛身血、是外道是趣外道者、賊住、別住、不共住人。」",
+        "translation": "Or, \"I know that I'm a layperson, that I'm a seeker of calm, a fan, a half-wit, a filthy bhikṣuṇī, a murderer of my father and mother, a killer of arhats, a destroyer of the harmony of the saṃgha, a malevolent spirit that spills the blood of the Buddha, a non-Buddhist who's headed for a non-Buddhist, and a person who lives as a thief, lives separately, or lives not together.\"",
+        "source": "T23n1442_001:0630b09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至說云：「我於仁等同法者同梵行者，非是伴類。」",
+        "translation": "They even say, \"I'm not a companion to someone who's equal to the Dharma and who's practicing the same celibacy.\"",
+        "source": "T23n1442_001:0630b13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名捨學處非學羸而說。",
+        "translation": "This is called giving up the abode of training and not speaking of the weakness of training.",
+        "source": "T23n1442_001:0630b14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有學羸而說非捨學處？",
+        "translation": "How is the point of not abandoning the field of training when there's weak training?",
+        "source": "T23n1442_001:0630b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有苾芻，情懷顧戀欲希還俗，於沙門道無愛樂心，為沙門所苦羞慚厭背，詣苾芻所作如是言：「具壽！",
+        "translation": "Suppose a monk, desiring to return to the conventional world with longing, has no desire or pleasure in the ascetic path, is embarrassed by the ascetics, and is ashamed and disgusted, then he comes to the monk and says, \"Guksū!",
+        "source": "T23n1442_001:0630b15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知不？",
+        "translation": "Do you know?",
+        "source": "T23n1442_001:0630b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "梵行難立，靜處難居，獨一難住，難居林野，受惡臥具。",
+        "translation": "It's difficult to establish a religious practice, difficult to live in a quiet place, difficult to live alone, difficult to live in a forest, and difficult to accept harsh bedding.",
+        "source": "T23n1442_001:0630b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我憶父母、兄弟、姊妹、受業師主，我欲學諸工巧及營農業，於我家族情希紹繼。」",
+        "translation": "I remember my parents, brothers, sisters, and trained masters, and my desire to learn trades and farming, which I hope will continue in my family.\"",
+        "source": "T23n1442_001:0630b19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻雖作如是種種追悔言辭，然而不云：「我捨學處。」",
+        "translation": "If a monk says these things in remorse, but doesn't say, \"I'll abandon my place of training,\" this is called a weak trainer who says it's not abandonment.",
+        "source": "T23n1442_001:0630b20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名學羸而說非捨學處。",
+        "translation": "This is called teaching that's not abandoning the place of training even though training is weak.",
+        "source": "T23n1442_001:0630b22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何學羸而說亦捨學處？",
+        "translation": "How is it that a trainee is weak but explains that he's also abandoning the place of training?",
+        "source": "T23n1442_001:0630b22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有苾芻，情懷顧戀廣說如前，乃至作追悔言而云我捨學處，廣說如前，乃至同梵行者非是伴類，是名學羸而說亦捨學處。",
+        "translation": "If a monk harms his mind by looking longingly at the aforementioned, explaining it as before, or by expressing remorse and saying, \"I've abandoned the place of training,\" explaining it as before, or even if he's not a companion of those who practice the same celibacy, this is called teaching while training is weak and abandoning the place of training.",
+        "source": "T23n1442_001:0630b23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不捨學處非學羸而說？",
+        "translation": "Why isn't the point of abandoning the place of training explained as not being weak in training?",
+        "source": "T23n1442_001:0630b26_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂除前相，是謂學羸不說。",
+        "translation": "This is called training that's weak and doesn't explain the previous characteristic away.",
+        "source": "T23n1442_001:0630b26_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言作不淨行者，即是婬欲。",
+        "translation": "When it's said that someone engages in impure behavior, this is called sexual desire.",
+        "source": "T23n1442_001:0630b27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言婬欲者，謂兩相交會也。",
+        "translation": "When it comes to sexual desire, it's sexual intercourse between two characteristics.",
+        "source": "T23n1442_001:0630b27_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法者，此據非法，名之為法。",
+        "translation": "'Dharma' means that this is called Dharma based on what's not Dharma.",
+        "source": "T23n1442_001:0630b28_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身業行非，名之為作。",
+        "translation": "What's unlawful in terms of physical actions is called actions.",
+        "source": "T23n1442_001:0630b29_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至共傍生者，謂獼猴等。",
+        "translation": "Even those who share the same paramount are monkeys and so forth.",
+        "source": "T23n1442_001:0630b29_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此者，謂指其人。",
+        "translation": "This refers to those people.",
+        "source": "T23n1442_001:0630c01_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苾芻者，謂得苾芻性。",
+        "translation": "\"Bhikṣu\" refers to someone who has attained the nature of a bhikṣu.",
+        "source": "T23n1442_001:0630c01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何苾芻性？",
+        "translation": "What is the nature of a bhikṣu?",
+        "source": "T23n1442_001:0630c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂受圓具。",
+        "translation": "It's called being fully equipped for receiving.",
+        "source": "T23n1442_001:0630c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何圓具？",
+        "translation": "What are the perfect implements?",
+        "source": "T23n1442_001:0630c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂白四羯磨，於所作事如法成就究竟滿足。",
+        "translation": "He explains the four requirements, which are accomplished according to the teaching and fully fulfilled in the task that he's accomplishing.",
+        "source": "T23n1442_001:0630c02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其進受人，以圓滿心希求具戒，要祈誓受情無恚恨，以言表白語業彰顯，故名圓具。",
+        "translation": "Those who undertake them aspire to complete fulfillment of the precepts with a perfect mind, want to pray for acceptance of the vows without anger, and express their feelings with words and manifest their actions with speech, which is why they're called complete.",
+        "source": "T23n1442_001:0630c03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "波羅市迦者，是極重罪極可厭惡，是可嫌棄不可愛樂。",
+        "translation": "This is an extremely serious offense that's disgusting and unpleasant, and it's disliked and unpleasant.",
+        "source": "T23n1442_001:0630c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻亦纔犯時，即非沙門非釋迦子，失苾芻性乖涅槃性，墮落崩倒被他所勝不可救濟。",
+        "translation": "When even a monk sifts into violation, he's not an ascetic or not a son of the Śākyas, he loses his monkhood and deviates from his nirvāṇa nature, falls into collapse, and is overcome by others and can't be saved.",
+        "source": "T23n1442_001:0630c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如截多羅樹頭更不復生，不能欝茂增長廣大，故名波羅市迦。",
+        "translation": "Like the head of the cut tree that never grows back, it can't flourish and grow large, so it's called a prāsāka.",
+        "source": "T23n1442_001:0630c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言不共住者，謂此犯人不得與諸苾芻而作共住，若褒灑陀、若隨意事、若單白、白二、白四羯磨、若眾有事應差十二種人此罪差限、若法若食不共受用，是應擯棄，由此名為不應共住。",
+        "translation": "When it comes to not living together, this prisoner mustn't dwell with the bhikṣus, nor must he dwell with them if he praises the saṃsāda, if he does whatever he wants, if he simply confesses, confesses to two, confesses to four karmas, or if there's something in common that should distinguish twelve kinds of people from this offense, or if he doesn't share the enjoyment of the Dharma or food, which should be rejected, and this is called not living together.",
+        "source": "T23n1442_001:0630c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中犯相其事云何？",
+        "translation": "What are the circumstances of this offense?",
+        "source": "T23n1442_001:0630c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝頌曰：　於三處行婬，　　三瘡隔不隔，　壞不壞死活，　　半擇迦女男，　見他睡行婬，　　或與酒藥等，　被逼樂不樂，　　犯不犯應知。",
+        "translation": "A summary verse says, \"A monk who commits sexual misconduct in three places, whether separated or not by the three sores, whether destroyed or not by death and life, or a half-vicker woman or man who sees another sleeping and committing sexual misconduct, whether with wine and medicine, etc., is forced to enjoy it or not, and whether he commits or doesn't commit it should be known.",
+        "source": "T23n1442_001:0630c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻於其三處，作不淨行行婬欲法，得波羅市迦。",
+        "translation": "If a monk engages in three places where he does impure behavior and commits sexual misconduct, he'll attain pārājika.",
+        "source": "T23n1442_001:0630c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何三處？",
+        "translation": "What are the three places?",
+        "source": "T23n1442_001:0630c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂以生支入大小便道及口，纔入即得波羅市迦。",
+        "translation": "It means entering the toilet and mouth with the raw materials, and as soon as you enter, you'll attain the condition of a pārājika.",
+        "source": "T23n1442_001:0630c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻共三種人作不淨行，得波羅市迦。",
+        "translation": "If a monk engages in impure behavior with three kinds of people, he'll attain pārājika.",
+        "source": "T23n1442_001:0630c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為三？",
+        "translation": "What are the three?",
+        "source": "T23n1442_001:0630c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂女、男、半擇迦。",
+        "translation": "\"It's a woman, a man, or a half-jewel.",
+        "source": "T23n1442_001:0630c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻作行婬意，於活人女三瘡不壞於彼行婬，以有隔入有隔、以有隔入無隔、以無隔入有隔、以無隔入無隔，入時得波羅市迦。",
+        "translation": "If a monk engages in sexual misconduct with the intention of committing sexual misconduct with a living woman whose three sores haven't been damaged and commits sexual misconduct there, he'll enter with a partition into a partition, a partition into no partition, a partition into a partition without a partition, and a partition into no partition with no partition, and when he enters, he'll attain prāsārajīka.",
+        "source": "T23n1442_001:0630c25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻於活人女三瘡損壞於彼行婬，隔等同前，入得窣吐羅底也。",
+        "translation": "If a monk's three sores on a living woman damage her and she engages in sexual misconduct, the partition is the same as the previous one, and he or she enters and attains surūrādi.",
+        "source": "T23n1442_001:0630c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於死人女三瘡不壞，隔等同前，入得波羅市迦。",
+        "translation": "If the three sores of a dead woman don't break down, the partition is the same as the previous one, and he enters and attains the status of a prātimokṣa.",
+        "source": "T23n1442_001:0630c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻於死人女三瘡損壞，隔等同前，入得窣吐羅底也。",
+        "translation": "If a monk's three sores on a dead woman are damaged, he'll enter the surūḍūrti after being separated from her like the prior one.",
+        "source": "T23n1442_001:0631a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如於人女，若活、若死，得罪重輕如是應知。",
+        "translation": "Whether a human woman is alive or dead, you should know the seriousness of the offense thus acquired.",
+        "source": "T23n1442_001:0631a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於非人女、傍生女，若活、若死，於三瘡門有損無損、有隔無隔，得罪輕重同前。",
+        "translation": "If a non-human woman or an unborn woman is alive or dead, whether there's damage to the three sores or not, or whether there's a partition or not, the offense is the same as the previous one, whether minor or major.",
+        "source": "T23n1442_001:0631a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於人男、非人男、傍生男，若活、若死，於二瘡門有損無損及以隔等，得罪同前。",
+        "translation": "If a human male, non-human male, or male adulterer is alive or dead, and the two sores are present, with or without damage and with compartments, the offense will be the same as the previous one.",
+        "source": "T23n1442_001:0631a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若男半擇迦，非人、傍生半擇迦，若活、若死，於二瘡門有損無損及以隔等，得罪同前。",
+        "translation": "If a male half-returner, a non-human male, or a male born in the evening half-returner is alive or dead, and there's damage or no damage to the two sores and a partition, the offense is the same as the previous one.",
+        "source": "T23n1442_001:0631a07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻於眠睡苾芻行不淨行，若睡苾芻於初中後不覺知者無犯，其行婬者得根本罪。",
+        "translation": "If a monk engages in impure behavior with a sleeping monk, and if the sleeping monk doesn't know it in the beginning or end, it's not a violation, but he commits sexual misconduct, which is a fundamental offense.",
+        "source": "T23n1442_001:0631a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若睡苾芻初知、中後不知者無犯，其行婬者得根本罪。",
+        "translation": "If a sleeping bhikṣu knows it in the beginning but doesn't know it in the middle or afterward, it's not a violation, and that person committing sexual misconduct is guilty of a fundamental offense.",
+        "source": "T23n1442_001:0631a11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若初中皆知、後不知者無犯，行婬者得根本罪。",
+        "translation": "If a junior monk knows it all but doesn't know it later, he doesn't commit the offense, and committing sexual misconduct is considered a fundamental offense.",
+        "source": "T23n1442_001:0631a12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若初中後皆知，而無心受樂者無犯，其行婬者得根本罪。",
+        "translation": "If a junior monk knows it both junior and senior but doesn't know it later, he doesn't commit the offense, and that person commits sexual misconduct is guilty of a fundamental offense.",
+        "source": "T23n1442_001:0631a13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若初中後皆知有心受樂者，二俱得根本罪。",
+        "translation": "If someone knows both junior and senior levels and has the mind to experience pleasure, both will be guilty of a fundamental offense.",
+        "source": "T23n1442_001:0631a15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻初向眠睡苾芻處有犯無犯既爾，若向苾芻尼處，式叉摩拏、求寂，求寂女處，得罪輕重如上應知。",
+        "translation": "If a monk first goes to a sleeping monk with or without a transgression, then if he goes to a monk's nun, a bhikṣuṇī, or a woman seeking extinction, the seriousness of the offense is as you should know above.",
+        "source": "T23n1442_001:0631a16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻尼、式叉摩拏及求寂女，向苾芻處及求寂處，各各有犯無犯准前應說。",
+        "translation": "If a bhikṣuṇī, a Śikṣamāṇā, or a woman seeking quiescence goes to a bhikṣu or a woman seeking quiescence, each will be guilty or not guilty as explained above.",
+        "source": "T23n1442_001:0631a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若求寂向苾芻、苾芻尼、式叉摩拏、求寂、求寂女處，有犯無犯亦如上說。",
+        "translation": "If a monk or nun seeking quiescence goes to a monk, a monk's nun, a female seeking quiescence, or a female seeking quiescence, whether there's an offense or no offense is likewise explained above.",
+        "source": "T23n1442_001:0631a20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻以米酒、花酒、根皮等酒與苾芻，令熟醉著行不淨行。",
+        "translation": "Suppose a monk gives a monk rice wine, flower wine, root bark, or other liquor and causes him to become intoxicated and engage in impure behavior.",
+        "source": "T23n1442_001:0631a21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而醉苾芻於初中後，有知不知受樂不樂，得罪輕重有犯無犯，乃至餘眾與酒令醉，如上睡眠廣說。",
+        "translation": "Whether the drunken monk knows or doesn't know whether he's enjoying or disenjoying it, the seriousness of the offense he's committing, or whether it's a violation or non-violation, even if the rest of the group is made drunk by the wine, is explained in detail as above in Sleep.",
+        "source": "T23n1442_001:0631a23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如醉既爾，若以呪術及藥令彼迷亂，於彼諸境行不淨行，乃至餘眾互為，得罪有無如上。",
+        "translation": "If, after becoming intoxicated, they are caused to be confused by a spell or medicine, to engage in impure behavior in those objects, or if the rest of the group does so to each other, the offense is the same as the above.",
+        "source": "T23n1442_001:0631a25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻強逼他苾芻共行不淨行，若被逼者初入之時作心受樂，二俱滅擯。",
+        "translation": "If a monk forces another monk to perform an impure act together, and if the person being forced to do so at the time of the initial entry creates feelings of pleasure in their mind, both will cease.",
+        "source": "T23n1442_001:0631a27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若入時不樂、入已樂，二俱滅擯。",
+        "translation": "If he doesn't enjoy it when he enters and enjoys it after he enters, both will be rejected.",
+        "source": "T23n1442_001:0631a29_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若入時不樂、入已不樂、出時樂，二俱滅擯。",
+        "translation": "If he's unhappy when he enters, unhappy after he enters, and happy when he exits, both will cease and be rejected.",
+        "source": "T23n1442_001:0631a29_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若被逼者三時不樂無犯，逼他者滅擯。",
+        "translation": "If a person is forced to abstain from an offense for three times, the forced person abstains from abstaining.",
+        "source": "T23n1442_001:0631b01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如逼苾芻，若逼苾芻尼及下餘眾，准事應知。",
+        "translation": "If a monk is forced, or if he forces a monk or nun or the rest of the lower classes, you should know this according to the circumstances.",
+        "source": "T23n1442_001:0631b02_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻等互相陵逼，如前所說。",
+        "translation": "If the bhikṣus and others oppress each other, it's as explained above.",
+        "source": "T23n1442_001:0631b03_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時室羅伐城中有一長者，於同類族娶女為妻，得意相親歡樂而住。",
+        "translation": "It was then that an elder in the city of Śrāvastī took a woman from his own clan as his wife, and he lived happily with her as his intended wife.",
+        "source": "T23n1442_001:0631b04_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未久之間便生一子，腰脊軟弱猶如猫兔，經三七日歡會宗親，其父以兒告諸親曰：「此兒今者欲作何名？」",
+        "translation": "Before long, he gave birth to a son whose back was as weak as a cat or rabbit, and after three or seven days of joyfully meeting his relatives, his father told them, \"What do you want to call this child?\"",
+        "source": "T23n1442_001:0631b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾人議曰：「此兒腰軟應與立字名為弱腰。」",
+        "translation": "The people said, \"This boy has a weak waist, so he should be called weak-waisted with the Sanskrit phoneme risen.\"",
+        "source": "T23n1442_001:0631b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此童兒年漸長大，便於善說法律而求出家。",
+        "translation": "When he grew older, this boy then sought to leave home because he well explained the teaching of the Dharma.",
+        "source": "T23n1442_001:0631b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既出家已於所住聚落而行乞食，攝護威儀諸根無亂，善防心意還詣所居。",
+        "translation": "After leaving home, he went to the village where he was staying to solicit alms, guarded his manner and mannered faculties without disrupting them, and returned to his residence with a well-guarded mind.",
+        "source": "T23n1442_001:0631b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飯食訖收衣鉢洗足已，入房中欲染心發，便以生支內自口中而受欲樂。",
+        "translation": "After he finished his meal and put away his robe and bowl and washed his feet, he went into his room with a desire for defiled thought, and then he took the raw materials in his mouth to experience desire and pleasure.",
+        "source": "T23n1442_001:0631b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後於異時有諸苾芻，因看房舍既入房已，見彼弱腰作如是事，情懷悒歎而問之曰：「具壽！",
+        "translation": "At another time, some monks who had been watching the monks' living quarters and had entered the monks' room saw their weak backs doing such a thing, and they asked them with a feeling of sadness, \"Gosu!",
+        "source": "T23n1442_001:0631b13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝作何事？」",
+        "translation": "What do you do?\"",
+        "source": "T23n1442_001:0631b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "報言：「我受欲樂。」",
+        "translation": "He replied, \"I'm subject to desire and pleasure.\"",
+        "source": "T23n1442_001:0631b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苾芻報曰：「豈非世尊制行婬法。」",
+        "translation": "The monk replied, \"Doesn't the Bhagavān regulate the practice of sexual misconduct?\"",
+        "source": "T23n1442_001:0631b16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "報言：「具壽！",
+        "translation": "He replied, \"Kauśāmbī!",
+        "source": "T23n1442_001:0631b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛遮於他，不制於自。」",
+        "translation": "The Buddha precludes others and doesn't restrain himself.\"",
+        "source": "T23n1442_001:0631b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時諸苾芻聞是語已，不嫌不喜捨之而去，往詣佛所如常威儀以事白佛。",
+        "translation": "After hearing these words, the monks left without disliking or rejoicing in them and went to the Buddha to present their case to him in his usual manner.",
+        "source": "T23n1442_001:0631b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「於他尚制，況復自身！",
+        "translation": "The Buddha said, \"How can you restrain yourself when you can restrain others?",
+        "source": "T23n1442_001:0631b19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此之癡人犯波羅市迦。",
+        "translation": "Such a deluded person commits the offense of pārājika.",
+        "source": "T23n1442_001:0631b20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苾芻作行欲心為受樂意，起自生支內著口中，或以他根入自口內，得根本罪。」",
+        "translation": "If a monk engages in desires as a gratification, creates a branch of self-bornness that gets stuck in his mouth, or puts another's faculties into his mouth, it's a fundamental offense.\"",
+        "source": "T23n1442_001:0631b20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時室羅伐城有長者子，其根極長，時人因此名曰長根，於佛法中出家圓具。",
+        "translation": "At the time, there was an elder son in Śrāvastī whose faculties were so long that people called him Changen, and he left home among the Buddhadharma and became fully ordained.",
+        "source": "T23n1442_001:0631b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入自房中以己生支內大便道而取欲樂。",
+        "translation": "He went into his own room and took pleasure in the lavatory that he had built himself.",
+        "source": "T23n1442_001:0631b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時餘苾芻因行房舍，見彼長根作如是事，問：「何所為？」",
+        "translation": "When other monks walking in their living quarters saw that Nagane doing such a thing, they asked, \"What's the matter?\"",
+        "source": "T23n1442_001:0631b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至報曰：「佛制他人，於自何過？」",
+        "translation": "They even respond, \"What's wrong with the Buddha disciplining others?\"",
+        "source": "T23n1442_001:0631b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸苾芻白佛，佛言：「於他尚制，況復自身！",
+        "translation": "The bhikṣus said to the Buddha, \"How could it be possible for someone to restrain themselves when others are still restraining them?",
+        "source": "T23n1442_001:0631b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此之癡人犯波羅市迦。」",
+        "translation": "Such a foolish man violates the rules of the city of Bārājika.\"",
+        "source": "T23n1442_001:0631b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛在室羅伐城給孤獨園，時嗢逝尼城(在西印度)有大商主名曰難陀，大富多財受用豐足，所有貲產如毘沙門王，於同類族娶女為妻歡樂而住。",
+        "translation": "When the Buddha was staying at Anāthapiṇḍada's Park in Śrāvastī, there was a great merchant named Nandha in Ujjayinī (in Western India) who was wealthy and well endowed, with wealth and property like King Vaiśravaṇa, and who took a woman as his wife and lived happily.",
+        "source": "T23n1442_001:0631b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖淹歲月竟無子息，為求子故於諸天祠及諸神祇，處處求乞不隨所願。",
+        "translation": "Even though she's been fruitless for many years, she goes to various shrines and gods to seek a child, and she goes from place to place begging for one, not following his wishes.",
+        "source": "T23n1442_001:0631c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然世有云由乞求故便獲子者，此誠虛妄；斯若是實，人皆千子如轉輪王。",
+        "translation": "However, there's a worldly claim that begging will result in a son, which is false; if this were true, everyone would have a thousand sons like the wheel-turning king.",
+        "source": "T23n1442_001:0631c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然由三事方有子息：一者父母交會；二者其母身淨應合有娠；三者食香現前。",
+        "translation": "However, there are three things that lead to the birth of a child: first, the union of father and mother; second, the mother's body is purified, and she's expected to become pregnant; and third, the presence of food and incense.",
+        "source": "T23n1442_001:0631c06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼商主業緣合會，時有一天從勝妙天來託婦胎。",
+        "translation": "When that merchant-owner's karma coincides, one day he comes from the most marvelous heaven to give birth to a woman.",
+        "source": "T23n1442_001:0631c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若聰慧女人有五別智，廣如上說。",
+        "translation": "If a clever woman has five kinds of distinctive knowledge, it's explained in detail above.",
+        "source": "T23n1442_001:0631c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至娠在右脇，喜白其夫，遂置高樓，隨時給侍如天婇女。",
+        "translation": "When she's pregnant at her right hypochondrium, she'll tell her husband she's delighted and set up a high building, ready to serve her like a goddess in the heavens.",
+        "source": "T23n1442_001:0631c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "月滿生子眾相具足，其父以兒告諸親曰：「此兒今者欲作何名？」",
+        "translation": "When the moon is full and a child is born, his father tells his relatives, \"What do you want to call this child now?\"",
+        "source": "T23n1442_001:0631c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然中國法，所誕子息若儀容端正人所樂觀者，名孫陀羅難陀。",
+        "translation": "Still, according to Chinese custom, a child born with a correct appearance that's well-liked by people is called Sundarananda.",
+        "source": "T23n1442_001:0631c12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼諸親共相議曰：「今此孩子儀容端正眾人樂觀，是商主難陀之子，應與此兒名孫陀羅難陀。」",
+        "translation": "The relatives then agreed, \"Now, this child has a manner that's well-appointed and well-liked by people, and he's the son of the merchant owner Nandanavana; he should be given the name Sundarananda.\"",
+        "source": "T23n1442_001:0631c14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "授八養母，速便長大如蓮處池，學綜四明藝窮八術。",
+        "translation": "He was given eight foster mothers, quickly grew up like a lotus in a pond, and learned the four arts and eight techniques.",
+        "source": "T23n1442_001:0631c16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其父爾時於春夏冬為造三殿，并三苑園三種婇女，謂上、中、下，昇妙樓觀奏諸伎樂。",
+        "translation": "His father then built three halls in the spring, summer, and winter, and three parks with three kinds of concubines, which are called the upper, middle, and lower, and raised them to a marvelous tower to watch the music being played.",
+        "source": "T23n1442_001:0631c17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時難陀商主常為計算，取與出納無時暫休。",
+        "translation": "The merchant owner of Nandanavana was always calculating, taking and giving without respite.",
+        "source": "T23n1442_001:0631c19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時孫陀羅難陀白其父曰：「何苦計算無暫閑時？」",
+        "translation": "Sundarananda then said to his father, \"Why is it so hard to calculate without a moment's respite?\"",
+        "source": "T23n1442_001:0631c20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "難陀報曰：「汝豈鎮處高樓終日歡戲，而能辦家業耶？",
+        "translation": "Nandanavana replied, \"Are you able to establish a family business while staying in a high building and enjoying yourself all day long?",
+        "source": "T23n1442_001:0631c21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而我必須知其家業。」",
+        "translation": "I must know about my family's business.\"",
+        "source": "T23n1442_001:0631c22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孫陀羅難陀聞父語已，即便自念：「父出此言欲警覺我。」",
+        "translation": "After Sundarananda heard what his father said, he even thought to himself, \"Father said that to alert me.\"",
+        "source": "T23n1442_001:0631c23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "跪而請曰：「若如是者，我欲遊方經求產業，願垂見許。」",
+        "translation": "He knelt down and asked, \"If that's the case, I'd like to travel to different places to look for property, and I hope you'll approve of it.\"",
+        "source": "T23n1442_001:0631c24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "父曰：「汝今宜住，我有珍財，何勞遠覓？」",
+        "translation": "His father said, \"It's better for you to stay here; I have valuable possessions, so why bother looking for them far away?\"",
+        "source": "T23n1442_001:0631c25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孫陀羅難陀報曰：「父雖有財，我必須去。」",
+        "translation": "Sundarananda replied, \"Although my father has wealth, I must go.\"",
+        "source": "T23n1442_001:0631c26_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "父便生念：「我今應可息彼求心。」",
+        "translation": "The father then had the thought, \"Now, I could stop that person from seeking it.\"",
+        "source": "T23n1442_001:0631c27_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即持鎖鑰遍開七庫示以金銀，成與未成悉皆充滿，告孫陀羅難陀曰：「既有如是財寶豐盈，汝宜端拱受諸欲樂，隨情持施修造福田，欲遊他方此事應息。」",
+        "translation": "He then took a lock and key, opened seven coffers and showed them to be filled with gold and silver, both finished and unfinished, and told Sundarananda, \"Since you have such an abundance of wealth and treasure, you should properly orient yourself to accept desires and pleasures, cultivate a field of merit by accepting gifts as you see fit, and stop this desire to travel to other places.\"",
+        "source": "T23n1442_001:0631c28_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：「父以此物告示於我，我若有子將何以示？」",
+        "translation": "He answered, \"My father told me about this, but if I had a son, what would I show him?\"",
+        "source": "T23n1442_001:0632a02_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "父即生念：「善哉此說！",
+        "translation": "The father then had the thought, \"Good, this is what I say!",
+        "source": "T23n1442_001:0632a03_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我亡之後須憂家業，我今現在漸教其事，且令持貨試往他方。",
+        "translation": "After my death, I must worry about my family's business; now, I'm gradually teaching them the task and causing them to take their goods and try to go to other places.",
+        "source": "T23n1442_001:0632a04_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一則學作經求，二則見我親識。",
+        "translation": "On the one hand, they'll study and work on the sūtras, and on the other, they'll see my personal consciousness.",
+        "source": "T23n1442_001:0632a05_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遍觀方邑情無所迷。」",
+        "translation": "You'll be able to see all the places and have no delusions of mind.\"",
+        "source": "T23n1442_001:0632a06_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是思已命其妻曰：「我身沒後，此孫陀羅難陀當憂家業。」",
+        "translation": "After thinking this, he instructed his wife, \"After I die, this Sundarananda will worry about the family business.\"",
+        "source": "T23n1442_001:0632a06_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具以前事而告知之，妻曰：「此成善事，可隨意行。」",
+        "translation": "He told his wife about the previous situation, saying, \"This is a good deed, so you can do as you like.\"",
+        "source": "T23n1442_001:0632a08_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "父報子曰：「汝所發心誠亦佳矣！",
+        "translation": "The father then told his son, \"That's a good intention you've had!",
+        "source": "T23n1442_001:0632a09_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我身亡後汝知家務，以前所陳咸皆勸誘。」",
+        "translation": "After my death, you learned about the family's business, and all of the things I'd previously explained were encouragements.\"",
+        "source": "T23n1442_001:0632a09_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令持財貨馳逐他方。",
+        "translation": "He had them carry their goods and chase them away to other lands.",
+        "source": "T23n1442_001:0632a10_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時商主難陀即便遣人搖鈴吹貝，普告城邑所有居人及四方商客：「今者商主孫陀羅難陀，欲持貨物求利他方。",
+        "translation": "Nanda, the merchant owner, then sent someone to ring a bell and blow a conch, telling all the residents of the town and merchants from all directions, \"Now, Sundarananda, the merchant owner, wants to take his goods and seek profit in another place.",
+        "source": "T23n1442_001:0632a11_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仁等若能相隨去者，關河津濟不輸稅直，所有行資並當豫辦。」",
+        "translation": "If you can go along with him, you won't have to pay any taxes or fees for the customs and rivers, and you'll be able to prepare all your traveling expenses.\"",
+        "source": "T23n1442_001:0632a13_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時有五百商人，聞此告令各備財貨佇待行期。",
+        "translation": "Hearing this, five hundred merchants were told to prepare their goods and wait for the departure date.",
+        "source": "T23n1442_001:0632a15_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時父難陀廣設賓會普召行人，既並食已而告之曰：「諸君當知！",
+        "translation": "Father Nanda then gave a large gathering to all the travelers, and after they had eaten together, he told them, \"You should know this, gentlemen!",
+        "source": "T23n1442_001:0632a16_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此孫陀羅難陀是我之子，我觀仁等心無別異。",
+        "translation": "\"This Sundarananda is my son, and I see no difference in the minds of you people.",
+        "source": "T23n1442_001:0632a17_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "君等商人欲詣他方求財利者，有其三患：所謂博奕及以酒色。",
+        "translation": "You merchants who want to go to other places to seek wealth and profit have three hindrances, which are gambling and using alcohol and sex.",
+        "source": "T23n1442_001:0632a18_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見孫陀羅難陀染三惑者應當遮止，有利益處勸進修行。",
+        "translation": "If you see Sundarananda defiled by the three afflictions, you should restrain him and encourage cultivation where there's benefit.",
+        "source": "T23n1442_001:0632a20_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸君等遮惡勸善，能隨教者斯曰善哉。",
+        "translation": "If you refrain from evil and encourage goodness, it's good to follow the teaching.",
+        "source": "T23n1442_001:0632a21_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不用語，仁等宜應易所將物持貨言歸。」",
+        "translation": "If you don't use words, you should change the things you bring, carry the goods, and return them.\"",
+        "source": "T23n1442_001:0632a22_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "并告孫陀羅難陀曰：「汝是我子，所餘商人與汝無別，彼有善言宜當見用。」",
+        "translation": "He also told Sundarananda, \"You're my son, and the other merchants are no different from you; it's appropriate for them to say something good and use it.\"",
+        "source": "T23n1442_001:0632a23_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "子便敬諾。",
+        "translation": "The son then honored his promise.",
+        "source": "T23n1442_001:0632a25_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "卜擇良辰即以車馬載負諸物，與五百人共為伴侶，俱尋遠路到室羅伐城，於一店中安置貨物。",
+        "translation": "He chose a good time to load up his goods on a cart and horse, and with five hundred people as companions, they all traveled a long way to the city of Śrāvastī and placed their goods in a store.",
+        "source": "T23n1442_001:0632a25_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時室羅伐城有一婬女，名曰賢首，以衒色為業，顏貌奇挺人所樂見，若得五百金錢者方與同宿。",
+        "translation": "At the time, there was a woman named Bhadrapāla in Śrāvastī whose business was to show off her beauty and whose appearance was pleasing to people, and she would only stay with him if he had 500 coins.",
+        "source": "T23n1442_001:0632a27_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼婬女聞有商人遠自嗢逝尼城，彼有商主名曰難陀，其子孫陀羅難陀，儀容端正人所樂觀，與五百商人遠來至此，於我店上安其貨物停止而住。",
+        "translation": "That woman then heard that a merchant had come from far away in the city of Śrāvastī, and there was a merchant named Nandha whose son Sundarānanda, who was well behaved and well-liked by people, came with five hundred merchants from far away, stopped at our store, and placed his goods there.",
+        "source": "T23n1442_001:0632a29_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即便生念：「我若不能總奪彼財，不復自名為賢首矣！」",
+        "translation": "Even then, he thought, \"If I couldn't have taken all of that merchant's wealth, I wouldn't have called myself a good man!\"",
+        "source": "T23n1442_001:0632b04_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便命使女曰：「於某肆上有一商主，名孫陀羅難陀，多財巨富。",
+        "translation": "She then ordered the maids to say, \"There's a merchant named Sundarananda in a certain business who has a lot of wealth and is very rich.",
+        "source": "T23n1442_001:0632b05_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝持花鬘塗香上服，至彼告言：『商主！",
+        "translation": "Take a flower garland, put some incense on it, go to him, and tell him, 'Merchant!'",
+        "source": "T23n1442_001:0632b06_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是大家賢首遣我持來，聊伸微信。』",
+        "translation": "This is something the chief of you sent me to bring to you in order to extend a little faith.'",
+        "source": "T23n1442_001:0632b07_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復告之曰：『何意商主寄居店肆？",
+        "translation": "Again, he told me, 'What do you mean, the merchant is staying at the store?'",
+        "source": "T23n1442_001:0632b08_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "宜可暫來。』」",
+        "translation": "It would be a good idea to come for a while.'\"",
+        "source": "T23n1442_001:0632b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "女使即便持諸花鬘，詣商主所委悉告知。",
+        "translation": "The lady's envoy then took the flower garlands and went to the merchant to tell him everything.",
+        "source": "T23n1442_001:0632b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時孫陀羅難陀聞已告使女曰：「汝且前行，我著香鬘隨後而去。」",
+        "translation": "When Sundarananda heard this, he told the messenger girl, \"Go ahead, I'll put on the flowers and garlands and leave after you.\"",
+        "source": "T23n1442_001:0632b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼使女即前歸家，報大家曰：「令我先來，彼當尋至。」",
+        "translation": "The messenger then went home and told the group, \"Let me go first, and they'll find me.\"",
+        "source": "T23n1442_001:0632b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼賢首聞使語已情生喜悅，即便掃灑庭宇布列名花，以妙香薰盛設床座，張施帷幔以待商人。",
+        "translation": "When that good man heard what the messenger said, he was delighted, so he swept the courtyard, arranged a display of famous flowers, perfumed a bed and seat with fine fragrances, and spread a curtain to await the merchant.",
+        "source": "T23n1442_001:0632b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時孫陀羅難陀，即便洗沐著新淨衣，具以花纓而自嚴飾，車馬僕從詣賢首舍。",
+        "translation": "Sundarananda then washed himself, put on fresh, clean clothes, adorned himself with flowers and robes, and went to the house of that good man with his chariot and horses and attendants.",
+        "source": "T23n1442_001:0632b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時賢首遙見彼來，容貌威儀有乖常類，問使女曰：「此是商主孫陀羅難陀耶？」",
+        "translation": "The good man then saw him coming from a distance, and when he saw that his appearance and manner were out of the ordinary, he asked his servant girl, \"Is this Sundarananda, the merchant owner?\"",
+        "source": "T23n1442_001:0632b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "使女答言：「爾。」",
+        "translation": "The messenger replied, \"So it is.\"",
+        "source": "T23n1442_001:0632b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賢首喜悅即說頌曰：「不簡富將貧，　　無論良與賤，　但令美容貌，　　便亂女人心。」",
+        "translation": "Delighted, the good chief then spoke a verse, saying, \"It doesn't matter whether you're rich or poor, good or poor, but simply making your face beautiful will disturb a woman's mind.\"",
+        "source": "T23n1442_001:0632b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "根本說一切有部毘奈耶卷第一",
+        "translation": "Mūlasarvâstivāda-vinaya, vol. 1",
+        "source": "T23n1442_001:0632b22_0",
+        "is_bad_quality": false
+    }
+]

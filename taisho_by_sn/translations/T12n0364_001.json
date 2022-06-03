@@ -1,0 +1,2362 @@
+[
+    {
+        "source_sentence": "大阿彌陀佛經序",
+        "translation": "Preface to the Mahā Amitâbha Sutra",
+        "source": "T12n0364_001:0326c07_0"
+    },
+    {
+        "source_sentence": "大藏經中，有十餘經，言阿彌陀佛濟度眾生。",
+        "translation": "In the Mahāprajñāpāramitā-sūtra, there are more than ten sūtras that say Amitâbha Buddha saves sentient beings.",
+        "source": "T12n0364_001:0326c09_0"
+    },
+    {
+        "source_sentence": "其間四經本為一種，譯者不同，故有四名：一名《無量清淨平等覺經》，",
+        "translation": "The four scriptures between them are originally one kind, but the translators are different. Therefore, they have four names:",
+        "source": "T12n0364_001:0326c10_0"
+    },
+    {
+        "source_sentence": "乃後漢月支三藏支婁加讖譯。",
+        "translation": "It's a translation of the Tripiṭaka of the later Han Yuezhi, which was translated by Cīlôdayin.",
+        "source": "T12n0364_001:0326c11_1"
+    },
+    {
+        "source_sentence": "二曰《無量壽經》，乃曹魏康僧鎧譯。",
+        "translation": "The second was the Sutra of Immeasurable Life, translated by Cao Wei Kang Sengyao.",
+        "source": "T12n0364_001:0326c12_2"
+    },
+    {
+        "source_sentence": "三曰《阿彌陀過度人道經》，乃吳月支支謙譯。",
+        "translation": "The third was the Amitâbha Sutra, translated by Yuezhi Qian of Wu Yue.",
+        "source": "T12n0364_001:0326c13_3"
+    },
+    {
+        "source_sentence": "四曰《無量壽莊嚴經》，乃本朝西天三藏法賢譯。",
+        "translation": "The fourth was the Sutra on the Axiom of Immeasurable Life, translated by the Tripiṭaka Master Faxian of the Western Heaven in the present dynasty.",
+        "source": "T12n0364_001:0326c14_4"
+    },
+    {
+        "source_sentence": "其大略雖同，然其中甚有差互。",
+        "translation": "Although the outline is the same, there are major differences among them.",
+        "source": "T12n0364_001:0326c15_5"
+    },
+    {
+        "source_sentence": "若不觀省者，又其文或失於太繁，而使人厭觀；",
+        "translation": "If one does not contemplate and reflect on it, the text might be too extensive for people to contemplate.",
+        "source": "T12n0364_001:0326c15_6"
+    },
+    {
+        "source_sentence": "或失於太嚴，而喪其本真；",
+        "translation": "Or they may lose the great adornment of their embellishments and lose their original essence.",
+        "source": "T12n0364_001:0326c17_0"
+    },
+    {
+        "source_sentence": "或其文適中，而其意則失之。",
+        "translation": "Perhaps the text is appropriate, but its meaning is lost.",
+        "source": "T12n0364_001:0326c17_1"
+    },
+    {
+        "source_sentence": "由是釋迦文佛所以說經、阿彌陀佛所以度人之旨，紊而無序，欝而不章。",
+        "translation": "That's why Śākyamuni Buddha explains the sūtras and Amitâbha Buddha explains the purpose of liberating people, which are confused but without preface and crude but without rules.",
+        "source": "T12n0364_001:0326c18_2"
+    },
+    {
+        "source_sentence": "予深惜之，故熟讀而精考，敘為一經，蓋欲復其本也。",
+        "translation": "I deeply regretted this, so I thoroughly read it and carefully examined it. It is summarized as a single sūtra because I want to restore the original text.",
+        "source": "T12n0364_001:0326c19_3"
+    },
+    {
+        "source_sentence": "其校正之法，若言一事，抂此本為安，彼本為杌隉，則取其安者；",
+        "translation": "The method of rectifying error is that if one thing is said to be settled, then the settled part should be settled; and if the settled part is not settled, then the settled part will be grasped.",
+        "source": "T12n0364_001:0326c21_4"
+    },
+    {
+        "source_sentence": "或此本為要，彼本為泛濫，則取其要者；",
+        "translation": "Or, if this text is essential and the other text is general, then they grasp its essentials.",
+        "source": "T12n0364_001:0326c22_5"
+    },
+    {
+        "source_sentence": "或此本為近，彼本為迂，則取其近者；",
+        "translation": "Or, if this is fundamentally proximate and the other fundamentally circumscribed, then he apprehends that which is proximate.",
+        "source": "T12n0364_001:0326c23_6"
+    },
+    {
+        "source_sentence": "或彼本有之，而此本闕，則取其所有；",
+        "translation": "If someone originally possesses it but this one does not have it, then they grasp what belongs to them.",
+        "source": "T12n0364_001:0326c24_7"
+    },
+    {
+        "source_sentence": "或彼本彰明，而此本隱晦，則取其明者；",
+        "translation": "Or, if the originally manifest light is obscure while the originally hidden one is illuminated, then he apprehends that which is luminous.",
+        "source": "T12n0364_001:0326c25_8"
+    },
+    {
+        "source_sentence": "大概乃取其所優，去其所劣。",
+        "translation": "Perhaps they'll take what's superior and remove what's inferior.",
+        "source": "T12n0364_001:0326c26_9"
+    },
+    {
+        "source_sentence": "又有其文碎雜而失統，錯亂而不倫者，則用其意以修其辭，刪其重以暢其義；",
+        "translation": "Again, if there are those whose syllables are broken and mixed up and lose their unity or who are confused and misleading, then they use their meanings to develop the words and remove the repetition in order to convey the meaning.",
+        "source": "T12n0364_001:0326c27_0"
+    },
+    {
+        "source_sentence": "其或可疑者，則闕焉而不敢取。",
+        "translation": "If there is something doubtful, he or she will not take it because it is missing.",
+        "source": "T12n0364_001:0326c28_1"
+    },
+    {
+        "source_sentence": "若此之類，皆欲訂正聖言，發明本旨，使不惑於四種之異，而知其指歸也。",
+        "translation": "All of these kinds of people want to correct the noble words and develop their original meaning so that they won't be confused by the four kinds of differences, but know where they're pointing.",
+        "source": "T12n0364_001:0326c29_2"
+    },
+    {
+        "source_sentence": "又各從其事類，析為五十六分，欲觀者易見而喜於讀誦；",
+        "translation": "Each one is further divided into fifty-six parts according to their actual entities. Those who wish to see it will be easy to do so, and they will delight in reciting it.",
+        "source": "T12n0364_001:0327a02_3"
+    },
+    {
+        "source_sentence": "庶幾流傳之廣，而一切眾生，皆受濟度也。",
+        "translation": "It's widely transmitted in many ways, yet all sentient beings are liberated.",
+        "source": "T12n0364_001:0327a03_4"
+    },
+    {
+        "source_sentence": "予每校正，必禱於觀音菩薩求冥助，以開悟識性，使無舛誤，始末三年而後畢。",
+        "translation": "Every time I corrected it, I always prayed to Avalokitêśvara Bodhisattva for mysterious assistance in enlightening the nature of consciousness so that there would be no mistakes and errors. The work was completed three years after its beginning and end.",
+        "source": "T12n0364_001:0327a04_5"
+    },
+    {
+        "source_sentence": "既畢乃拜而自喜，目之曰《大阿彌陀經》。",
+        "translation": "After he had finished, he bowed and rejoiced, calling it the Mahāmaudgalyāyana-sūtra.",
+        "source": "T12n0364_001:0327a06_6"
+    },
+    {
+        "source_sentence": "蓋佛與舍利弗說者，亦《阿彌陀經》；",
+        "translation": "The Buddha and Śāriputra’s exhortation is also found in the Amitābha Sutra.",
+        "source": "T12n0364_001:0327a07_7"
+    },
+    {
+        "source_sentence": "彼則其文少，故此言大以別之。",
+        "translation": "Because their text is small, they're called large in order to distinguish them.",
+        "source": "T12n0364_001:0327a08_8"
+    },
+    {
+        "source_sentence": "然佛說經，非若吾聖人所說也。",
+        "translation": "Still, the Buddha teaches sūtras that aren't taught by my noble people.",
+        "source": "T12n0364_001:0327a08_9"
+    },
+    {
+        "source_sentence": "吾聖人所說，或深其文而叢其意，使人索之而愈見其多；",
+        "translation": "The teachings taught by our saints may be deep and concentrated in words, so that those who ask for them will see more of them.",
+        "source": "T12n0364_001:0327a09_10"
+    },
+    {
+        "source_sentence": "或簡其文而晦其意，使人思而後得。",
+        "translation": "Or they may simply summarize the text and obscure its meaning, causing people to think about it and subsequently attain it.",
+        "source": "T12n0364_001:0327a10_11"
+    },
+    {
+        "source_sentence": "佛則不然，必欲詳陳曲布，使人人可曉，雖至愚下者，亦知其意焉。",
+        "translation": "The Buddha would not be able to do so. He must have wanted to give a detailed explanation of the matter in such a way as to enable everyone to understand it. Even if they were ignorant and ignorant, they would know his meaning.",
+        "source": "T12n0364_001:0327a11_12"
+    },
+    {
+        "source_sentence": "然而有辭直而意愈深者，經所謂須信佛語深是也，切不可以輕其辭而忽其意。",
+        "translation": "However, there are those whose words are straightforward but whose intentions are deeper, and the sūtras say that they must believe in the profundity of the Buddha's words, so they can't despise their words and neglect their intentions.",
+        "source": "T12n0364_001:0327a13_13"
+    },
+    {
+        "source_sentence": "紹興壬午秋，國學進士龍舒王日休謹序禮祝儀式誦淨口業真言：唵　修利　修利　摩訶修利　修修利　娑婆訶次誦五淨真言：唵　尾鼠提　娑婆訶淨身器神呪：唵　秫殿都　戌陀那耶　娑婆訶次向西頂禮祝云：「弟子(某甲)謹為盡虛空界一切眾生，",
+        "translation": "紹興壬午秋,國學進士龍舒王日休謹序禮祝儀式誦淨口業真言: 修利 修利 修利 修利 摩訶修利 修利 娑婆訶次誦五淨真言: 尾鼠提 娑婆訶淨身器神呪:  殿都 戌陀那耶",
+        "source": "T12n0364_001:0327a15_14"
+    },
+    {
+        "source_sentence": "歸依盡虛空界一切諸佛，一切正法，一切聖僧；",
+        "translation": "They take refuge in all buddhas, all true teachings, and all holy samgha of the entire space realm.",
+        "source": "T12n0364_001:0327a23_15"
+    },
+    {
+        "source_sentence": "西方極樂世界阿彌陀佛，觀世音菩薩，大勢至菩薩，一切菩薩、聲聞、諸上善人。",
+        "translation": "Amitâbha Buddha of the paradise world in the west, Avalokiteśvara Bodhisattva and Mahāprajñāpāramitā Bodhisattva, all bodhisattvas, śrāvakas, and other excellent people.",
+        "source": "T12n0364_001:0327a24_16"
+    },
+    {
+        "source_sentence": "(某甲)今為盡虛空界一切眾生，持誦《大阿彌陀經》，及讚佛、懺罪、迴向、發願，",
+        "translation": "(Someone) Now, for the sake of all sentient beings in the entire space realm, he recites the Mahā Amitâbha sūtra and praises the Buddha, repents sins, dedicates his merits, and makes vows.",
+        "source": "T12n0364_001:0327a26_17"
+    },
+    {
+        "source_sentence": "願如此等眾生各各自誦經，讚佛、懺罪、迴向、發願，願盡拔濟生於極樂世界，",
+        "translation": "May all these sentient beings each recite scriptures, praising the Buddha, repenting sins, dedication of merit, and undertaking vows, wishing to be liberated and born in the world of ultimate bliss.",
+        "source": "T12n0364_001:0327a28_18"
+    },
+    {
+        "source_sentence": "乃念大慈菩薩，讚佛、懺罪、迴向、發願。」",
+        "translation": "They then thought of the Bodhisattva of Great Compassion, praised the Buddha, repented of sins, returned, and made a vow.",
+        "source": "T12n0364_001:0327a29_19"
+    },
+    {
+        "source_sentence": "「十方三世佛，　　阿彌陀第一；",
+        "translation": "Among the buddhas of the ten directions and three times, Amitâbha is foremost.",
+        "source": "T12n0364_001:0327b01_20"
+    },
+    {
+        "source_sentence": "　九品度眾生，　　威德無窮極。",
+        "translation": "The nine grades liberate sentient beings, their authoritative virtue without limit.",
+        "source": "T12n0364_001:0327b01_20"
+    },
+    {
+        "source_sentence": "　我今大歸依，　　懺悔三業罪；",
+        "translation": "I now take great refuge in repentance for the sins of these three deeds.",
+        "source": "T12n0364_001:0327b01_20"
+    },
+    {
+        "source_sentence": "　凡有諸善福，　　至心用迴向。",
+        "translation": "Where there's goodness and merit, he dedicates it back with sincerity.",
+        "source": "T12n0364_001:0327b01_20"
+    },
+    {
+        "source_sentence": "　願同念佛人，　　盡生極樂國；",
+        "translation": "I pray that all those who are mindful of the Buddha Will be born in the land of ultimate bliss.",
+        "source": "T12n0364_001:0327b01_20"
+    },
+    {
+        "source_sentence": "　見佛了生死，　　如佛度一切。」",
+        "translation": "Seeing the Buddha understands birth and death, he saves all people like the Buddha.",
+        "source": "T12n0364_001:0327b01_20"
+    },
+    {
+        "source_sentence": "偈云：如為薦亡、或禳災、或保安，則隨意祝願，不須如前祈禱。",
+        "translation": "The verse says, If someone wishes to pray for the sake of immortality, or for fear of death, or for fear of danger, or for safety, then they can do so as they wish without having to pray as before.",
+        "source": "T12n0364_001:0327b01_20"
+    },
+    {
+        "source_sentence": "亦須誦真言，先歸依三寶及西方四聖，然後祝願。",
+        "translation": "You must also recite the true words, first rely on the Three Treasures and the four sages of the West, and then make a vow.",
+        "source": "T12n0364_001:0327b09_21"
+    },
+    {
+        "source_sentence": "若為自身往生，則宜一一如前，其功德甚大矣。",
+        "translation": "If they are reborn for themselves, then it's appropriate to do so one by one as before, and their merit is quite great.",
+        "source": "T12n0364_001:0327b10_22"
+    },
+    {
+        "source_sentence": "佛說大阿彌陀經卷上",
+        "translation": "Foshuo daamiduo jing, vol. 1",
+        "source": "T12n0364_001:0327b14_0"
+    },
+    {
+        "source_sentence": "國學進士龍舒王日休校輯",
+        "translation": "Commentary by Wang Rixiu, a Graduate of the Nationalistic School, who studied under him.",
+        "source": "T12n0364_001:0327b16_0"
+    },
+    {
+        "source_sentence": "法會大眾分第一",
+        "translation": "Dharma Assembly of the masses, Part I",
+        "source": "T12n0364_001:0327b17_0"
+    },
+    {
+        "source_sentence": "如是我聞：一時佛在王舍國靈鷲山中，與大弟子眾千二百五十人俱，一切大聖神通已達，",
+        "translation": "Thus I have heard: One time the Buddha was staying at Vulture Peak in the kingdom of Rājagṛha, accompanied by one thousand two hundred and fifty disciples.",
+        "source": "T12n0364_001:0327b18_0"
+    },
+    {
+        "source_sentence": "其名曰：尊者了本際、尊者正願、尊者正語、尊者大號、尊者仁賢、尊者離垢、尊者名聞、尊者善實、尊者具足、尊者阿難，",
+        "translation": "Their names were: Venerable Upagupta, Venerable Correct Vows, Venerable Correct Speech, Venerable Mahavyūha, Venerable仁賢, Venerable Undefiled, Venerable Renmutation, Venerable Sublime, Venerable Samyukta, Venerable Puṣkarasārin, Venerable Ānanda.",
+        "source": "T12n0364_001:0327b20_1"
+    },
+    {
+        "source_sentence": "若此皆上首者。",
+        "translation": "If these are all the highest heads, then...",
+        "source": "T12n0364_001:0327b22_2"
+    },
+    {
+        "source_sentence": "又大乘眾菩薩：普賢菩薩、妙德菩薩、慈氏菩薩等，此賢劫中一切菩薩。",
+        "translation": "Also, the great vehicle bodhisattvas Samantabhadra Bodhisattva, Marvelous Virtue Bodhisattva, Maitreya Bodhisattva, and so forth, are all enlightening beings in this good eon.",
+        "source": "T12n0364_001:0327b23_3"
+    },
+    {
+        "source_sentence": "又賢護等十六正士：善思議菩薩、信慧菩薩、空無菩薩、神通華菩薩，",
+        "translation": "“Furthermore, these sixteen bodhisattvas were well-contemplated: Sudarśana Bodhisattva, Prabhākaramitra Bodhisattva, faith and wisdom Bodhisattva, emptiness and nonexistence Bodhisattva, and the flower of spiritual powers Bodhisattva.",
+        "source": "T12n0364_001:0327b24_4"
+    },
+    {
+        "source_sentence": "皆尊普賢大士之德，具諸菩薩無量行願，安住一切功德之法。",
+        "translation": "They are all honored as the virtues of the great man Samantabhadra and endowed with the immeasurable practices and vows of enlightening beings, abiding in all virtuous qualities.",
+        "source": "T12n0364_001:0327b26_5"
+    },
+    {
+        "source_sentence": "如是等菩薩大士，一時來會。",
+        "translation": "Such bodhisattvas and great men all came to the assembly at once.",
+        "source": "T12n0364_001:0327b27_6"
+    },
+    {
+        "source_sentence": "阿難發問分第二",
+        "translation": "Second Part: The Questions Asked by Ānanda",
+        "source": "T12n0364_001:0327b29_0"
+    },
+    {
+        "source_sentence": "爾時世尊，容色光麗異於他日。",
+        "translation": "At the time, the Bhagavān's appearance was as brilliant and beautiful as it would be on other days.",
+        "source": "T12n0364_001:0327c01_0"
+    },
+    {
+        "source_sentence": "尊者阿難，即從座起偏袒右肩，長跪合掌而白佛言：「今日世尊諸根悅豫，",
+        "translation": "Venerable Ānanda rose from his seat, bared his right shoulder, knelt down with joined palms, and said to the Buddha:",
+        "source": "T12n0364_001:0327c01_1"
+    },
+    {
+        "source_sentence": "姿色清淨光顯巍巍，如鏡明瑩暢徹表裏。",
+        "translation": "Their appearance was pure, shining and majestic, like a mirror that shone brightly and brilliantly through the surface.",
+        "source": "T12n0364_001:0327c03_2"
+    },
+    {
+        "source_sentence": "自我侍佛以來，未嘗獲覩威容有如今日。",
+        "translation": "Since I myself attended the Buddha, I've never had such a dignified and authoritative appearance as that of today.",
+        "source": "T12n0364_001:0327c04_3"
+    },
+    {
+        "source_sentence": "豈非念過去諸佛，或現在、未來諸佛，故致然耶？」",
+        "translation": "Isn't it the result of mindfulness of past buddhas, or of present and future buddhas?",
+        "source": "T12n0364_001:0327c05_4"
+    },
+    {
+        "source_sentence": "佛言：「善哉！",
+        "translation": "The Buddha said, Good!",
+        "source": "T12n0364_001:0327c06_5"
+    },
+    {
+        "source_sentence": "阿難！",
+        "translation": "Ānanda!",
+        "source": "T12n0364_001:0327c06_6"
+    },
+    {
+        "source_sentence": "有諸天教汝來問？",
+        "translation": "Did the gods teach you to come and ask questions?",
+        "source": "T12n0364_001:0327c06_7"
+    },
+    {
+        "source_sentence": "汝自問耶？」",
+        "translation": "Do you ask yourself?",
+        "source": "T12n0364_001:0327c07_8"
+    },
+    {
+        "source_sentence": "阿難言：「我自以所見而發此問。」",
+        "translation": "Ānanda said, I myself asked this question because of what I saw.",
+        "source": "T12n0364_001:0327c07_9"
+    },
+    {
+        "source_sentence": "佛言：「汝所問者，勝於供養一天下聲聞、緣覺，及布施諸天人民，下至蜎飛蠕動之類，",
+        "translation": "The Buddha said, What you're asking is superior to making offerings to the śrāvakas, pratyekbuddhas, and those who are directing their donations to gods and people down to the flying and wriggling birds.",
+        "source": "T12n0364_001:0327c08_10"
+    },
+    {
+        "source_sentence": "雖至累劫，尚百千萬億倍不可以及。",
+        "translation": "Even though it's a hundred thousand million times greater than that for an eon, it can't be compared.",
+        "source": "T12n0364_001:0327c10_11"
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T12n0364_001:0327c11_0"
+    },
+    {
+        "source_sentence": "蓋諸天帝王人民，下至蜎飛蠕動之類，皆因汝所問而得度脫之道。",
+        "translation": "It's because of what you've asked, and all the gods, emperors, kings, and people down to flying and wriggling creatures have attained the path of liberation.",
+        "source": "T12n0364_001:0327c11_1"
+    },
+    {
+        "source_sentence": "阿難！",
+        "translation": "Ānanda!",
+        "source": "T12n0364_001:0327c12_2"
+    },
+    {
+        "source_sentence": "如世間有優曇鉢華，雖有其實不見其華，有佛出世華然後有，佛難值遇亦如此華。",
+        "translation": "Just as in the world there's an udumbara flower, even though it exists, it doesn't really see its flowers; there are buddha-transcendent flowers that appear after it exists, and so does a Buddha who's difficult to meet.",
+        "source": "T12n0364_001:0327c12_3"
+    },
+    {
+        "source_sentence": "今我出世，汝善知吾意，特為發問，誠不妄侍佛矣！",
+        "translation": "Now that I have appeared in the world, you should know well what I want. Please ask me questions for my sake and do not act falsely to serve the Buddha.",
+        "source": "T12n0364_001:0327c14_4"
+    },
+    {
+        "source_sentence": "汝當諦聽！",
+        "translation": "Listen attentively!",
+        "source": "T12n0364_001:0327c15_5"
+    },
+    {
+        "source_sentence": "吾為汝說。」",
+        "translation": "I'll explain it for you.",
+        "source": "T12n0364_001:0327c16_6"
+    },
+    {
+        "source_sentence": "對言：「誠欲聞之！」",
+        "translation": "He replied, I really want to hear it!",
+        "source": "T12n0364_001:0327c16_7"
+    },
+    {
+        "source_sentence": "五十三佛分第三",
+        "translation": "The Third Part of the Fifty-three Buddhas",
+        "source": "T12n0364_001:0327c17_0"
+    },
+    {
+        "source_sentence": "佛言：「前已過去劫，大眾多不可計，無邊幅不可議。",
+        "translation": "The Buddha said, In the past eon ago, there were so many great and numerous incalculable eons that they had no limit or width to speak of.",
+        "source": "T12n0364_001:0327c18_0"
+    },
+    {
+        "source_sentence": "爾時有佛出世，名定光如來，教化度脫無量眾生皆令得道，乃取滅度。",
+        "translation": "At the time, a Buddha appeared in the world named the Tathāgata of Concentration and Light, who taught and liberated measureless sentient beings so that they all attained the path and then entered extinction.",
+        "source": "T12n0364_001:0327c19_1"
+    },
+    {
+        "source_sentence": "次有佛名光遠，次有佛名月光，次有佛名栴檀香，次有佛名善山王，次有佛名須彌天冠，",
+        "translation": "Next, there was a buddha named Vaiśravaṇa. Next, there was a buddha named Candraprabha. Next, there was a buddha named Gandhamāna香. Next, there was a buddha named King of Good Mountains. Next, there was a buddha named Supreme Celestial Crown.",
+        "source": "T12n0364_001:0327c20_2"
+    },
+    {
+        "source_sentence": "次有佛名須彌等曜，次有佛名月色，次有佛名正念，次有佛名離垢，次有佛名無著，",
+        "translation": "Then there was a buddha named Sumeru the Polar Mountain, a buddha named Moonlike Form, a buddha named Right Mindfulness, a buddha named Undefiled, and a buddha named No Attachment.",
+        "source": "T12n0364_001:0327c22_3"
+    },
+    {
+        "source_sentence": "次有佛名龍天，次有佛名夜光，次有佛名安明頂，次有佛名不動地，次有佛名瑠璃妙花，",
+        "translation": "Next there was a buddha named Nāgasena; next there was a buddha named Nirmāṇarati; next there was a buddha named Sadāparibhūta; next there was a buddha named Acala; next there was a buddha named Akṣobhya; and next there was a buddha named Beautiful Flower of Lapis Lazuli.",
+        "source": "T12n0364_001:0327c24_4"
+    },
+    {
+        "source_sentence": "次有佛名瑠璃金色，次有佛名金藏，次有佛名炎光，次有佛名炎根，次有佛名地種，",
+        "translation": "Next, there was a buddha named Golden-colored Lapis Lazuli. Next, there was a buddha named Gold Treasury. Next, there was a buddha named Light of Flames. Next, there was a buddha named Root of Flames. Next, there was a buddha named Sovereign of the Earth.",
+        "source": "T12n0364_001:0327c26_5"
+    },
+    {
+        "source_sentence": "次有佛名月像，次有佛名日音，次有佛名解脫華，次有佛名莊嚴光明，",
+        "translation": "Next, there was a buddha named Moonlike image of the Buddha. Next, there was a buddha named Sunlight. Next, there was a buddha named Flower of Liberation. Next, there was a buddha named Adorned Light.",
+        "source": "T12n0364_001:0327c28_6"
+    },
+    {
+        "source_sentence": "次有佛名海覺神通，次有佛名水光，次有佛名大香，次有佛名離塵垢，",
+        "translation": "Next there was a buddha named Oceanic Awareness of Mystic Powers. Next there was a buddha named Water Light. Next there was a buddha named Great Fragrance. Next there was a buddha named Undefiled by Dust.",
+        "source": "T12n0364_001:0328a01_7"
+    },
+    {
+        "source_sentence": "次有佛名捨厭意，次有佛名寶炎，次有佛名妙頂，次有佛名勇力，次有佛名功德持慧，",
+        "translation": "Next, there is a buddha named Renunciant. Next, there is a buddha named Jewel Flame. Next, there is a buddha named Marvelous Topknot. Next, there is a buddha named Courageous Power. Next, there is a buddha named Virtuous Wisdom.",
+        "source": "T12n0364_001:0328a03_8"
+    },
+    {
+        "source_sentence": "次有佛名蔽日月光，次有佛名日月瑠璃光，次有佛名無上瑠璃光，次有佛名最上首，",
+        "translation": "Next, there was a buddha named Light of the Sun and Moon that obscured the light of the sun and moon. Next, there was a buddha named Light of the Sun and Moon shining like lapis lazuli. Next, there was a buddha named Supreme Light of the Lapis Lazuli. Next, there was a buddha named Supreme Chief among All Buddhas.",
+        "source": "T12n0364_001:0328a05_9"
+    },
+    {
+        "source_sentence": "次有佛名菩提華，次有佛名月明，次有佛名日光，次有佛名華色王，次有佛名水月光，",
+        "translation": "Next, there was a buddha named Enlightenment Flower. Next, there was a buddha named Moon Light. Next, there was a buddha named Sunbeam. Next, there was a buddha named Flower King. Next, there was a buddha named Water Moon Light.",
+        "source": "T12n0364_001:0328a07_0"
+    },
+    {
+        "source_sentence": "次有佛名除癡冥，次有佛名度蓋行，次有佛名淨信，次有佛名善宿，次有佛名威神，",
+        "translation": "Next there is a buddha named Removing Delusion. Next there is a buddha named freedom from the darkness of ignorance. Next there is a buddha named Underlying Conduct. Next there is a buddha named Pure Faith. Next there is a buddha named Sunetra. Next there is a buddha named Majestic Power.",
+        "source": "T12n0364_001:0328a09_0"
+    },
+    {
+        "source_sentence": "次有佛名法慧，次有佛名鸞音，次有佛名師子音，次有佛名龍音，次有佛名處世，",
+        "translation": "Next, there was a buddha named Dharma Wisdom. Next, there was a buddha named Lumbinī. Next, there was a buddha named Lion Voice. Next, there was a buddha named Dragon Voice. Next, there was a buddha named Deva-world.",
+        "source": "T12n0364_001:0328a10_1"
+    },
+    {
+        "source_sentence": "如此諸佛皆已過去。」",
+        "translation": "Such buddhas have all passed away.",
+        "source": "T12n0364_001:0328a12_2"
+    },
+    {
+        "source_sentence": "法藏本因分第四",
+        "translation": "The Fourth Part: The Original Causes of the Dharma Store",
+        "source": "T12n0364_001:0328a14_0"
+    },
+    {
+        "source_sentence": "佛言：「次有佛名世自在王如來、應供、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊，",
+        "translation": "The Buddha said: Next, there is a buddha named Sovereign Worldly Tathāgata, Arhat, Completely Enlightened One, Perfect in Knowledge and Conduct, Well-gone, Understander of the World, Unsurpassed Person, Tamer of Humans, Teacher of Devas and Humans, Buddha, Bhagavat.",
+        "source": "T12n0364_001:0328a15_0"
+    },
+    {
+        "source_sentence": "十號具足，在世教化四十二劫。",
+        "translation": "The ten epithets are complete, teaching and transforming in the world for forty-two eons.",
+        "source": "T12n0364_001:0328a17_1"
+    },
+    {
+        "source_sentence": "爾時有大國王，聞佛說法喜悅開悟，即弃王位往作沙門，號法藏比丘，",
+        "translation": "At that time a great king, having heard the Buddha’s discourse on the Dharma, was delighted and enlighted. He renounced his royal throne and went to become a śramaṇa, bhikṣu named Fazang (Dharmakośa) Bhikṣu.",
+        "source": "T12n0364_001:0328a17_2"
+    },
+    {
+        "source_sentence": "高才智慧勇猛無能及者。",
+        "translation": "Their high talent, wisdom, and courage are unsurpassed.",
+        "source": "T12n0364_001:0328a19_3"
+    },
+    {
+        "source_sentence": "「『如來妙色相，　　世間無等倫；",
+        "translation": "'The Tathāgata' s marvelous form and characteristics Are unequaled in the world.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　遠勝日摩尼，　　火月清淨水。",
+        "translation": "The jewel of the distant sun is superior, and the pure water of the fire moon is pure.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　威神無有極，　　名聲震十方；",
+        "translation": "Their power has no limit, And their fame shakes the ten directions.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　皆由三昧力，　　精進成智慧；",
+        "translation": "It is all due to the power of concentration That they attain wisdom by effort.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　持覺若溟海，　　深廣無涯底。",
+        "translation": "The ocean of sustaining enlightenment is as deep and vast as the boundless sea.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　無明與貪恚，　　冰釋已無餘；",
+        "translation": "nescience and covetousness, free from craving, Having been extinguished by the ice, There is no remainder.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　從是超世間，　　歎仰不能已。",
+        "translation": "From this, he transcends the world and can't stop admiring it.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　端如好樹華，　　莫不愛樂者，",
+        "translation": "It's straight like a beautiful tree flower, None of them who don't love it.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　處處人民見，　　一切皆歡喜。",
+        "translation": "Everywhere the people saw it, All rejoicing.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　布施及淨戒，　　忍辱并精進，",
+        "translation": "They are generosity and pure morality, Forbearance and effort.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　禪定、大智慧，　　吾誓得此事。",
+        "translation": "Meditation and great wisdom, I vow to attain this.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　一切諸恐懼，　　普為獲大安；",
+        "translation": "All the fears they have, They attain great peace for all.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　過度諸生死，　　無不解脫者。",
+        "translation": "Beyond birth and death, there's nothing that isn't liberated.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　我至作佛時，　　種種如法王；",
+        "translation": "At the time of my attainment of buddhahood, I manifested various forms like the king of the Dharma.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　假使恒沙數，　　諸佛悉供養，",
+        "translation": "Even if it were to be as numerous as the grains of sand in the Ganges River, All the buddhas would honor it.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　不如求正覺，　　堅勇必成就。",
+        "translation": "If someone doesn't seek right awakening, their firmness and courage will surely be accomplished.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　能使無量剎，　　光明普照耀，",
+        "translation": "They can cause boundless buddha-lands To be illumined with light, shining everywhere.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　濟度越恒沙，　　威德誰可量；",
+        "translation": "Who can weigh the might of his salvation beyond the sands of the Ganges River?",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　我剎及莊嚴，　　華好獨超卓。",
+        "translation": "My buddha-field and its adornments Are surpassed only by the beauty of flowers.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　凡欲求生者，　　清淨安以樂；",
+        "translation": "Those who want to be born They will find pure peace and happiness.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　度脫永無窮，　　幸佛作明證。",
+        "translation": "Their liberation is eternal and boundless, And fortunately the Buddha has clearly realized it.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　發願既如是，　　力行無懈怠；",
+        "translation": "Having undertaken the vow in this way, They carry it out with power and without laziness.",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "　　雖居苦毒中，　　忍之終不悔。』」",
+        "translation": "Even though they're in the midst of suffering and poison, they tolerate it without regret at the end.'",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "詣彼佛所稽首禮足，右繞三匝長跪合掌，以偈讚佛：大願問佛分第五佛言：「爾時法藏比丘說此偈已，",
+        "translation": "He approached the Buddha, bowed his head at his feet, circumambulated him three times to his right, knelt with joined palms, and praised him in verse:",
+        "source": "T12n0364_001:0328a20_4"
+    },
+    {
+        "source_sentence": "復白世自在王佛言：『世尊！",
+        "translation": "Again, he said to the World-Owned King Buddha, 'Bhagavān!",
+        "source": "T12n0364_001:0328b17_5"
+    },
+    {
+        "source_sentence": "我發無上菩提之心，願作佛時，於十方無央數佛中為最。",
+        "translation": "When I give rise to the mind of unsurpassed enlightenment and wish to become a buddha, I'll be the best among measureless buddhas in the ten directions.",
+        "source": "T12n0364_001:0328b18_6"
+    },
+    {
+        "source_sentence": "智慧勇猛，頂中光明照耀十方，無有窮極。",
+        "translation": "He was wise and courageous, his light shining from the top of his head in all directions without limit.",
+        "source": "T12n0364_001:0328b19_7"
+    },
+    {
+        "source_sentence": "所居剎土自然七寶極明麗溫柔。",
+        "translation": "The buddha land where he lives naturally has seven treasures that are extremely beautiful and gentle.",
+        "source": "T12n0364_001:0328b20_8"
+    },
+    {
+        "source_sentence": "我化度名號，皆聞於十方無央數世界，莫有不聞知者。",
+        "translation": "The names of my transformations and liberations are all heard in measureless worlds in the ten directions, and there's no one who doesn't hear them.",
+        "source": "T12n0364_001:0328b21_9"
+    },
+    {
+        "source_sentence": "諸無央數諸天人民，以至蜎飛蠕動之類，來生我剎者，悉皆菩薩、聲聞，",
+        "translation": "Countless gods, humans, birds, and creatures born in my buddha-lands are all bodhisattvas and śrāvakas.",
+        "source": "T12n0364_001:0328b22_10"
+    },
+    {
+        "source_sentence": "其數不可窮盡，比諸佛世界悉皆勝之。",
+        "translation": "Their number cannot be exhausted, and they're all superior to those of the buddha worlds.",
+        "source": "T12n0364_001:0328b24_11"
+    },
+    {
+        "source_sentence": "如是者寧可得否？』",
+        "translation": "How could such a person attain it?'",
+        "source": "T12n0364_001:0328b25_0"
+    },
+    {
+        "source_sentence": "時世自在王佛，知其智識高明心願廣大。",
+        "translation": "At the time, the self- sovereign king Buddha of the world knew that his knowledge and consciousness were so lofty that his mind and vows were so vast.",
+        "source": "T12n0364_001:0328b25_1"
+    },
+    {
+        "source_sentence": "即為說言：『譬如大海一人斗量，歷劫不止尚可見底；",
+        "translation": "He said to them, “Suppose there is a great ocean the dimension of one person’s gallon; not even an eon goes beyond that which can be seen.",
+        "source": "T12n0364_001:0328b26_2"
+    },
+    {
+        "source_sentence": "況人至心求道，精進不止，何求不得？",
+        "translation": "How much more so when someone sincerely seeks the path and doesn't stop striving, so why wouldn't they attain it?",
+        "source": "T12n0364_001:0328b27_3"
+    },
+    {
+        "source_sentence": "何願不遂？』",
+        "translation": "Why doesn't he fulfill his vow?'",
+        "source": "T12n0364_001:0328b28_4"
+    },
+    {
+        "source_sentence": "時法藏比丘，聞佛所說則大歡喜。",
+        "translation": "When the monk Dharmâkara heard what the Buddha taught, he was greatly delighted.",
+        "source": "T12n0364_001:0328b28_5"
+    },
+    {
+        "source_sentence": "佛乃選擇二千一百萬佛剎中，諸天人民之善惡、國土之麁妙，隨其心願悉令顯現。",
+        "translation": "The Buddha then selected the good and bad qualities of gods and people, as well as the coarseness and subtlety of his land, from among the two thousand one million buddha-thousand buddha bases to be revealed according to their mentalities and wishes.",
+        "source": "T12n0364_001:0328b29_6"
+    },
+    {
+        "source_sentence": "法藏即一其心，遂得天眼，莫不徹見。」",
+        "translation": "The store of the Dharma is his mind, so he attains the divine eye and doesn't fail to see it.",
+        "source": "T12n0364_001:0328c02_7"
+    },
+    {
+        "source_sentence": "四十八願分第六",
+        "translation": "The Sixth of the Forty-eight Vows",
+        "source": "T12n0364_001:0328c04_0"
+    },
+    {
+        "source_sentence": "佛言：「爾時法藏比丘，乃往一靜處，其心寂然俱無所著，默坐思惟。",
+        "translation": "The Buddha said, At the time, the monk Dharmâkara went to a quiet place, his mind calm and unattached, and he sat quietly contemplating.",
+        "source": "T12n0364_001:0328c05_0"
+    },
+    {
+        "source_sentence": "攝取彼佛剎清淨之行，如彼修持。",
+        "translation": "He takes in the pure practices of those buddha bases and cultivates them as they are cultivated.",
+        "source": "T12n0364_001:0328c06_1"
+    },
+    {
+        "source_sentence": "復詣佛所而白佛言：『世尊！",
+        "translation": "Again, he went to the Buddha and said to him, 'Bhagavān!",
+        "source": "T12n0364_001:0328c07_2"
+    },
+    {
+        "source_sentence": "我已攝取二千一百萬佛剎，所以莊嚴國土清淨之行。",
+        "translation": "I've already collected 2.1 million buddha-lands, so I adorn my land with pure practices.",
+        "source": "T12n0364_001:0328c07_3"
+    },
+    {
+        "source_sentence": "願有&#;陳，惟佛聽察！』",
+        "translation": "May there be a cchanda, but the Buddha will listen and examine it!'",
+        "source": "T12n0364_001:0328c09_4"
+    },
+    {
+        "source_sentence": "彼佛告言：『善哉！",
+        "translation": "The Buddha told them, 'Good!",
+        "source": "T12n0364_001:0328c09_5"
+    },
+    {
+        "source_sentence": "汝可具說。",
+        "translation": "You can explain it in detail.",
+        "source": "T12n0364_001:0328c09_6"
+    },
+    {
+        "source_sentence": "諸菩薩眾聞汝志願因以警策，亦能於諸佛剎修習莊嚴。』",
+        "translation": "The bodhisattvas and others who hear your vow of awakening will be able to cultivate the adornment in the buddha-lands as well.'",
+        "source": "T12n0364_001:0328c10_7"
+    },
+    {
+        "source_sentence": "「法藏白言：『第一願，我作佛時，我剎中無地獄、餓鬼、禽畜，以至蜎飛蠕動之類。",
+        "translation": "The Dharma Store said, 'First, may I make a vow that when I become a buddha, there won't be hells, hungry ghosts, animals, or birds flying and wriggling in my blains.",
+        "source": "T12n0364_001:0328c11_8"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0328c13_9"
+    },
+    {
+        "source_sentence": "「『第二願，我作佛時，我剎中無婦女；",
+        "translation": "“Second vow: When I become a buddha, there will be no women in my buddha-land.",
+        "source": "T12n0364_001:0328c13_10"
+    },
+    {
+        "source_sentence": "無央數世界諸天人民，以至蜎飛蠕動之類，來生我剎者，皆於七寶水池蓮華中化生。",
+        "translation": "In an infinite number of worlds, all the gods and people, birds, whirlflies, and other creatures who came to be born in my buddha-stage were all transformed into sentient beings in the lotus flowers of the seven-jeweled water pond.",
+        "source": "T12n0364_001:0328c14_11"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0328c16_12"
+    },
+    {
+        "source_sentence": "「『第三願，我作佛時，我剎中人欲食時，七寶鉢中百味飲食，化現在前，",
+        "translation": "'The third vow is that when I become a buddha, when the people in my buddha-land want to eat, they'll transform themselves with a hundred flavors of food and drink in a seven-jeweled bowl before them.",
+        "source": "T12n0364_001:0328c16_13"
+    },
+    {
+        "source_sentence": "食已器用自然化去。",
+        "translation": "After he had eaten it, the container was used and naturally transformed away.",
+        "source": "T12n0364_001:0328c18_14"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0328c18_15"
+    },
+    {
+        "source_sentence": "「『第四願，我作佛時，我剎中人，所欲衣服隨念即至，不假裁縫、擣染、浣濯。",
+        "translation": "'Fourth vow, when I become a buddha, the people of my buddha's land will come to me with whatever clothing they want, and they won't need to cut or sew, dye or wash themselves.",
+        "source": "T12n0364_001:0328c19_16"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0328c20_17"
+    },
+    {
+        "source_sentence": "「『第五願，我作佛時，我剎中自地以上至於虛空，皆有宅宇、宮殿、樓閣、池流、花樹，",
+        "translation": "“The fifth vow is that when I become a buddha, there will be houses, palaces, towers, ponds, streams, flowing streams, and flowering trees in all my buddha-lands from the ground up as far as space.",
+        "source": "T12n0364_001:0328c21_18"
+    },
+    {
+        "source_sentence": "悉以無量雜寶百千種香而共合成，嚴飾奇妙，殊勝超絕，其香普熏十方世界，",
+        "translation": "They are all composed of a hundred thousand kinds of fragrances from countless mixed treasures, adorned and marvelous, extraordinary and transcendent. The fragrance permeates all worlds in the ten directions.",
+        "source": "T12n0364_001:0328c23_19"
+    },
+    {
+        "source_sentence": "眾生聞是香者皆修佛行。",
+        "translation": "When sentient beings hear this fragrance, they all cultivate the Buddha's practice.",
+        "source": "T12n0364_001:0328c24_20"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0328c25_21"
+    },
+    {
+        "source_sentence": "「『第六願，我作佛時，我剎中人，皆心相愛敬無相憎嫉。",
+        "translation": "'The sixth vow is that when I become a buddha, all the people in my buddha's place will love each other and respect each other without hating or resenting each other.",
+        "source": "T12n0364_001:0328c26_0"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0328c27_1"
+    },
+    {
+        "source_sentence": "「『第七願，我作佛時，我剎中人，盡無[泳-永+(炙-火+(午\\/一))]泆、瞋怒、愚癡之心。",
+        "translation": "'The seventh vow is that when I become a buddha, the people in my blains will have no [swim-yong+(roast-fire+(one))] anger, anger, or folly at all.",
+        "source": "T12n0364_001:0328c27_2"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0328c29_0"
+    },
+    {
+        "source_sentence": "「『第八願，我作佛時，我剎中人皆同一善心，無惑他念，其所欲言皆豫相知意。",
+        "translation": "'The eighth vow is that when I become a buddha, all the people in my buddha's land will have the same good mind, not confusing other thoughts, and whatever they want to say will be forthcoming with knowledge.",
+        "source": "T12n0364_001:0328c29_1"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a02_2"
+    },
+    {
+        "source_sentence": "「『第九願，我作佛時，我剎中人，皆不聞不善之名，況有其實。",
+        "translation": "'The ninth vow is that when I become a buddha, people in my blains won't hear the names of unwholesomeness, so why wouldn't they hear them? How could there be reality?",
+        "source": "T12n0364_001:0329a02_3"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a04_4"
+    },
+    {
+        "source_sentence": "「『第十願，我作佛時，我剎中人，知身如幻，無貪著心。",
+        "translation": "Tenth vow: When I become a buddha, the people in my buddha-stage will know that my body is illusory and have no craving or attachment.",
+        "source": "T12n0364_001:0329a04_5"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a05_6"
+    },
+    {
+        "source_sentence": "「『第十一願，我作佛時，我剎中雖有諸天與世人之異，而其形容皆一類金色，",
+        "translation": "'The eleventh vow is, 'When I become a buddha, even though there are differences between gods and humans in my buddha-field, their appearance will all be one kind of golden color.",
+        "source": "T12n0364_001:0329a06_7"
+    },
+    {
+        "source_sentence": "面目端正淨好，無復醜異。",
+        "translation": "Their faces and eyes are handsome, pure and beautiful, no longer ugly.",
+        "source": "T12n0364_001:0329a08_0"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a08_1"
+    },
+    {
+        "source_sentence": "「『第十二願，我作佛時，假令十方無央數世界諸天人民，以至蜎飛蠕動之類，",
+        "translation": "'The twelfth vow is, 'When I become a buddha, may the gods and people of measureless worlds in the ten directions, even to the point where they fly and wriggle like birds.",
+        "source": "T12n0364_001:0329a09_2"
+    },
+    {
+        "source_sentence": "皆得為人，皆作緣覺、聲聞，皆坐禪一心，共欲計數我年壽幾千億萬劫，",
+        "translation": "They can all become human beings, all becoming pratyekabuddhas and śrāvakas, all sitting in meditation with one mind. Together they want to calculate my lifespan by how many thousands of myriads of koṭis of kalpas:",
+        "source": "T12n0364_001:0329a10_3"
+    },
+    {
+        "source_sentence": "無有能知者。",
+        "translation": "There's no one who can know.",
+        "source": "T12n0364_001:0329a12_4"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a12_5"
+    },
+    {
+        "source_sentence": "「『第十三願，我作佛時，假令十方各千億世界，有諸天人民，以至蜎飛蠕動之類，",
+        "translation": "'The thirteenth vow, when I become a buddha, suppose there are gods and people in each of the billions of worlds in the ten directions, up to the level of flying and wriggling creatures.",
+        "source": "T12n0364_001:0329a13_6"
+    },
+    {
+        "source_sentence": "皆得為人，皆作緣覺、聲聞，皆坐禪一心，共欲計數我剎中人數有幾千億萬，",
+        "translation": "They can all become human beings, all becoming pratyekabuddhas and śrāvakas, all sitting in meditation with one mind. Together they want to calculate the number of my buddha-lands by several hundreds of thousands of myriads of koṭis:",
+        "source": "T12n0364_001:0329a15_0"
+    },
+    {
+        "source_sentence": "無有能知者。",
+        "translation": "There's no one who can know.",
+        "source": "T12n0364_001:0329a16_1"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a17_2"
+    },
+    {
+        "source_sentence": "「『第十四願，我作佛時，我剎中人壽命皆無央數劫，無有能計知其數者。",
+        "translation": "'The fourteenth vow is, 'When I become a buddha, the life spans of people in my buddha's land will be measureless eons, and there won't be anyone who can calculate their number.",
+        "source": "T12n0364_001:0329a17_3"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a19_4"
+    },
+    {
+        "source_sentence": "「『第十五願，我作佛時，我剎中人，所受快樂，一如漏盡比丘。",
+        "translation": "'The fifteenth vow is that when I become a buddha, the people in my buddha's place will experience happiness, just like the monk who has ended the contaminants.",
+        "source": "T12n0364_001:0329a19_5"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a21_6"
+    },
+    {
+        "source_sentence": "「『第十六願，我作佛時，我剎中人住正信位，離顛倒想，遠離分別，",
+        "translation": "“The sixteenth vow is that when I become a buddha, the people in my buddha-land will abide in right faith, be free of mistaken conceptions, and be far removed from discrimination.",
+        "source": "T12n0364_001:0329a21_7"
+    },
+    {
+        "source_sentence": "諸根寂靜，所止盡般泥洹。",
+        "translation": "The faculties are tranquil, and what they stop is completely extinguished in parinirvāṇa.",
+        "source": "T12n0364_001:0329a23_0"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a23_1"
+    },
+    {
+        "source_sentence": "「『第十七願，我作佛時，說經行道十倍於諸佛。",
+        "translation": "'The seventeenth vow is that when I become a buddha, I teach the sūtras and practice the path ten times as many times as the buddhas.",
+        "source": "T12n0364_001:0329a24_2"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a25_3"
+    },
+    {
+        "source_sentence": "「『第十八願，我作佛時，我剎中人盡通宿命，知百千億那由他劫事。",
+        "translation": "'The eighteenth vow is that when I become a buddha, the people in my buddha's land will know the events of hundreds of thousands of millions of billions of eons as long as they pass through their past lives.",
+        "source": "T12n0364_001:0329a25_4"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a27_5"
+    },
+    {
+        "source_sentence": "「『第十九願，我作佛時，我剎中人盡得天眼，見百千億那由他世界。",
+        "translation": "'The nineteenth vow is that when I become a buddha, all the people in my buddha's land will attain divine vision and see a hundred thousand billion nayutas of worlds.",
+        "source": "T12n0364_001:0329a27_6"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329a29_7"
+    },
+    {
+        "source_sentence": "「『第二十願，我作佛時，我剎中人盡得天耳，聞百千億那由他諸佛說法，",
+        "translation": "「『二十願,我作佛時為佛,我剎中人天耳盡得天耳,聞百千億那由他諸佛說法說說說,",
+        "source": "T12n0364_001:0329a29_8"
+    },
+    {
+        "source_sentence": "悉能受持。",
+        "translation": "They're all capable of receiving and upholding it.",
+        "source": "T12n0364_001:0329b02_9"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b02_10"
+    },
+    {
+        "source_sentence": "「『第二十一願，我作佛時，我剎中人得他心智，知百千億那由他世界眾生心念。",
+        "translation": "'The twenty-first vow is that when I become a buddha, the people in my blains will attain knowledge of other minds and know the thoughts of sentient beings in hundreds of thousands of millions of nayutas in the world.",
+        "source": "T12n0364_001:0329b03_0"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b04_1"
+    },
+    {
+        "source_sentence": "「『第二十二願，我作佛時，我剎中人盡得神足，於一念頃，能超過百千億那由他世界。",
+        "translation": "'The twenty-second vow is that when I become a buddha, all the people in my buddha's land will attain miraculous abilities, and in a single thought, they'll be able to transcend a hundred thousand billion nayutas of worlds.",
+        "source": "T12n0364_001:0329b05_2"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b07_3"
+    },
+    {
+        "source_sentence": "「『第二十三願，我作佛時，我名號聞於十方無央數世界，諸佛各於大眾中，",
+        "translation": "“The twenty-third vow is that when I become a buddha, my name will be heard throughout the innumerable worlds of the ten directions.",
+        "source": "T12n0364_001:0329b07_4"
+    },
+    {
+        "source_sentence": "稱我功德及國土之勝；",
+        "translation": "They praised my virtue and the excellence of my land.",
+        "source": "T12n0364_001:0329b09_5"
+    },
+    {
+        "source_sentence": "諸天人民以至蜎飛蠕動之類，聞我名號乃慈心喜悅者，皆令來生我剎。",
+        "translation": "The gods and people, even the flying and wriggling creatures, who hear my name and are compassionate and joyous, will all be born in my buddha.",
+        "source": "T12n0364_001:0329b09_6"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b11_7"
+    },
+    {
+        "source_sentence": "「『第二十四願，我作佛時，我頂中光明絕妙，勝如日月之明，百千億萬倍。",
+        "translation": "'When I become a buddha, the twenty-fourth vow is that when I become a buddha, the light in my crown will be supremely brilliant, one hundred thousand million times greater than the brightness of the sun and moon.",
+        "source": "T12n0364_001:0329b12_0"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b13_1"
+    },
+    {
+        "source_sentence": "「『第二十五願，我作佛時，光明照諸無央數天下，幽冥之處皆當大明，",
+        "translation": "'May the twenty-fifth vow be that when I become a buddha, my light will shine brightly throughout measureless worlds, and all the dark places will be greatly illuminated.",
+        "source": "T12n0364_001:0329b14_2"
+    },
+    {
+        "source_sentence": "諸天人民以至蜎飛蠕動之類，見我光明莫不慈心作善，皆令來生我國。",
+        "translation": "All the gods and people, even birds and creatures flying and wriggling, who see my light are all compassionate and good, and they'll all be born in my country.",
+        "source": "T12n0364_001:0329b15_3"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b17_4"
+    },
+    {
+        "source_sentence": "「『第二十六願，我作佛時，十方無央數世界諸天人民，以至蜎飛蠕動之類，",
+        "translation": "「『Twenty-sixth vow, when I become a buddha, the gods and people of measureless worlds in the ten directions, up to the species of birds flying and wriggling,",
+        "source": "T12n0364_001:0329b17_5"
+    },
+    {
+        "source_sentence": "蒙我光明觸其身者，身心慈和過諸天人。",
+        "translation": "Those who touch their bodies with my light are more compassionate in body and mind than gods and humans.",
+        "source": "T12n0364_001:0329b19_6"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b20_7"
+    },
+    {
+        "source_sentence": "「『第二十七願，我作佛時，十方無央數世界諸天人民，有發菩提心，",
+        "translation": "「『二十十七願,我作佛佛時,十方無央數世界諸天人民,有發菩提心,",
+        "source": "T12n0364_001:0329b20_8"
+    },
+    {
+        "source_sentence": "奉持齋戒，行六波羅蜜，修諸功德，至心發願欲生我剎，臨壽終時我與大眾，",
+        "translation": "They observe the precepts, practice the six transcendent ways, cultivate virtues, and earnestly make the vow to be born in my buddha-field. When their life ends, I and the assembly of bhikṣus will enter nirvana.",
+        "source": "T12n0364_001:0329b22_9"
+    },
+    {
+        "source_sentence": "現其人前引至來生，作不退轉地菩薩。",
+        "translation": "In front of that person, he's led to the next birth and becomes a bodhisattva in the stage of nonretrogression.",
+        "source": "T12n0364_001:0329b24_10"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b25_0"
+    },
+    {
+        "source_sentence": "「『第二十八願，我作佛時，十方無央數世界諸天人民，聞我名號，燒香、散花、然燈、懸繒，",
+        "translation": "“May the twenty-eighth vow be that when I become a buddha, incalculable numbers of gods and people in the ten directions hear my name, burn incense, scatter flowers, light candles, and hang banners.",
+        "source": "T12n0364_001:0329b25_1"
+    },
+    {
+        "source_sentence": "飯食沙門，起立塔寺，齋戒清淨益作諸善，一心繫念於我，雖止於一晝夜不絕，",
+        "translation": "They feed the śramaṇas, build stupas and temples, observe purity in observing the precepts, and perform good deeds. They concentrate their thoughts on me with a single mind for one day and night without ceasing.",
+        "source": "T12n0364_001:0329b27_2"
+    },
+    {
+        "source_sentence": "亦必生我剎。",
+        "translation": "It must also give rise to the self-body buddha.",
+        "source": "T12n0364_001:0329b29_3"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329b29_4"
+    },
+    {
+        "source_sentence": "「『第二十九願，我作佛時，十方無央數世界諸天人民，至心信樂欲生我剎，",
+        "translation": "「『Twenty-nine vows, when I become a buddha, the gods and people of measureless worlds in the ten directions will wholeheartedly believe and wish to be born in my buddha-stage.",
+        "source": "T12n0364_001:0329c01_0"
+    },
+    {
+        "source_sentence": "十聲念我名號必遂來生；",
+        "translation": "They will surely be born in the future when they utter these ten sounds and think of my name.",
+        "source": "T12n0364_001:0329c02_1"
+    },
+    {
+        "source_sentence": "惟除五逆誹謗正法。",
+        "translation": "They simply remove the five heinous crimes that denigrate the right teaching.",
+        "source": "T12n0364_001:0329c03_2"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329c03_3"
+    },
+    {
+        "source_sentence": "「『第三十願，我作佛時，十方無央數世界諸天人民，以至蜎飛蠕動之類，",
+        "translation": "'The third and tenth vows are, 'When I become a buddha, the gods and people of measureless worlds in the ten directions, up to the point where they fly and wriggle like worms.",
+        "source": "T12n0364_001:0329c04_4"
+    },
+    {
+        "source_sentence": "前世作惡，聞我名號即懺悔為善，奉持經戒，願生我剎，壽終皆不經三惡道徑遂來生，",
+        "translation": "Those who committed evil deeds in previous lives, hear my name and repent of them as good, observe the scriptures and precepts, wish to be born in my land, and at the end of their life will not go down the three bad paths of rebirth.",
+        "source": "T12n0364_001:0329c05_5"
+    },
+    {
+        "source_sentence": "一切所欲無不如意。",
+        "translation": "All his desires are not disobeyed.",
+        "source": "T12n0364_001:0329c07_6"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329c08_7"
+    },
+    {
+        "source_sentence": "「『第三十一願，我作佛時，十方無央數世界諸天人民，聞我名號，五體投地稽首作禮，",
+        "translation": "'When I become a buddha, the thirty-first vow: When I become a buddha, the gods and people of measureless worlds in the ten directions hear my name, prostrate themselves five-legged on the ground, bowed their heads, and paid homage.",
+        "source": "T12n0364_001:0329c08_8"
+    },
+    {
+        "source_sentence": "喜悅信樂修菩薩行，諸天世人莫不致敬。",
+        "translation": "They were delighted with faith and cultivated the bodhisattva practices, and all gods and humans paid respect to them.",
+        "source": "T12n0364_001:0329c10_9"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329c11_10"
+    },
+    {
+        "source_sentence": "「『第三十二願，我作佛時，十方無央數世界有女人，聞我名號喜悅信樂，",
+        "translation": "「『第三十二願,我作佛佛時,十方無央數世界世界有女人聞我名號喜悅信樂,",
+        "source": "T12n0364_001:0329c12_0"
+    },
+    {
+        "source_sentence": "發菩提心厭惡女身，壽終之後其身不復為女。",
+        "translation": "They give rise to the mind of enlightenment and become disillusioned with a woman's body, and when their life ends, their body doesn't become a woman again.",
+        "source": "T12n0364_001:0329c13_1"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329c14_2"
+    },
+    {
+        "source_sentence": "「『第三十三願，我作佛時，凡生我剎者，一生遂補佛處，惟除本願欲往他方，",
+        "translation": "In the thirty-third vow, when I become a buddha, all those who are born in my buddha-stage will be reborn as buddhas one lifetime after another, except for their original vow to go elsewhere.",
+        "source": "T12n0364_001:0329c15_3"
+    },
+    {
+        "source_sentence": "設化眾生修菩薩行、供養諸佛，即自在往生；",
+        "translation": "If they teach sentient beings to cultivate the practice of enlightening beings and make offerings to buddhas, they will be reborn freely.",
+        "source": "T12n0364_001:0329c16_4"
+    },
+    {
+        "source_sentence": "我以威神之力，令彼教化一切眾生皆發信心，修菩提行、普賢行、寂滅行、淨梵行、最勝行、及一切善行。",
+        "translation": "By my spiritual power I cause them to teach all sentient beings and give rise to faith, cultivating the practice of enlightenment, the practice of universal goodness, the practice of tranquility, the practice of pure and genuine purity, the practice of utmost effort, and all good deeds.",
+        "source": "T12n0364_001:0329c17_5"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329c20_6"
+    },
+    {
+        "source_sentence": "「『第三十四願，我作佛時，我剎中人欲生他方者，如其所願不復墜於三惡道。",
+        "translation": "'The 34th vow is that when I become a buddha, people in my buddha's land who want to be born elsewhere will no longer fall into the three bad destinies as they wish.",
+        "source": "T12n0364_001:0329c20_7"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329c22_8"
+    },
+    {
+        "source_sentence": "「『第三十五願，我作佛時，剎中菩薩以香華、旛蓋、真珠、纓絡種種供具，",
+        "translation": "「『第三十五願,我作佛佛時,剎中菩薩香華、蓋、真珠、絡種種供具,",
+        "source": "T12n0364_001:0329c23_9"
+    },
+    {
+        "source_sentence": "欲往無量世界供養諸佛，一食之頃即可遍至。",
+        "translation": "They want to go to an infinite number of worlds to make offerings to the buddhas, and they can reach them all in a single meal.",
+        "source": "T12n0364_001:0329c24_10"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329c25_11"
+    },
+    {
+        "source_sentence": "「『第三十六願，我作佛時，剎中菩薩欲萬種之物，供養十方無央數佛，",
+        "translation": "'The thirty-sixth vow is that when I become a buddha, the bodhisattvas in the buddha-lands will want all kinds of things to be offered to measureless buddhas in the ten directions.",
+        "source": "T12n0364_001:0329c26_12"
+    },
+    {
+        "source_sentence": "即自在前；",
+        "translation": "That is, in front of the sovereignty.",
+        "source": "T12n0364_001:0329c27_13"
+    },
+    {
+        "source_sentence": "供養既遍，是日未午即還我剎。",
+        "translation": "After the offerings had been made, he returned to my buddha on that day before noon.",
+        "source": "T12n0364_001:0329c28_14"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0329c28_15"
+    },
+    {
+        "source_sentence": "「『第三十七願，我作佛時，剎中菩薩受持經法，諷誦宣說，必得辯才智慧。",
+        "translation": "'The thirty-seventh vow is that when I become a buddha, the bodhisattvas in the buddha's land will memorize the sūtras and teachings, recite them, and proclaim them, and they'll surely attain eloquence and wisdom.",
+        "source": "T12n0364_001:0329c29_16"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a02_0"
+    },
+    {
+        "source_sentence": "「『第三十八願，我作佛時，剎中菩薩能演說一切法，其智慧辯才不可限量。",
+        "translation": "'The 38th vow is that when I become a buddha, the bodhisattvas in the buddha's land will be able to explain all dharmas, and their wisdom and eloquence won't be limited.",
+        "source": "T12n0364_001:0330a02_1"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a04_2"
+    },
+    {
+        "source_sentence": "「『第三十九願，我作佛時，剎中菩薩得金剛那羅延力，其身皆紫磨金色，",
+        "translation": "「『第三十九願,我作佛佛時,剎中菩薩得金剛那羅延力力,其身皆紫磨金色,",
+        "source": "T12n0364_001:0330a04_3"
+    },
+    {
+        "source_sentence": "具三十二相、八十種好，說經行道無異於諸佛。",
+        "translation": "They are endowed with the thirty-two marks and eighty kinds of beauty, and they teach the sūtras and practice the path without differing from the buddhas.",
+        "source": "T12n0364_001:0330a06_4"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a07_5"
+    },
+    {
+        "source_sentence": "「『第四十願，我作佛時，剎中清淨照見十方無量世界；",
+        "translation": "“The fourth and tenth vows are that when I become a buddha, purely illumining the infinite worlds of the ten directions will be seen in those lands.",
+        "source": "T12n0364_001:0330a07_6"
+    },
+    {
+        "source_sentence": "菩薩欲於寶樹中見十方一切嚴淨佛剎，即時應現，猶如明鏡覩其面相。",
+        "translation": "If the bodhisattva wants to see all the adorned and pure buddha-lands in the ten directions in a jeweled tree, he should immediately appear, just like a bright mirror showing his face.",
+        "source": "T12n0364_001:0330a08_7"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a10_8"
+    },
+    {
+        "source_sentence": "「『第四十一願，我作佛時，剎中菩薩雖少功德者，亦能知見我道場樹高四千由旬。",
+        "translation": "'The forty-first vow is, 'When I become a buddha, the bodhisattvas in the blains will have little merit, but they'll be able to know and see that the tree at my site of enlightenment is 4,000 leagues high.",
+        "source": "T12n0364_001:0330a11_9"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a12_10"
+    },
+    {
+        "source_sentence": "「『第四十二願，我作佛時，剎中諸天世人及一切萬物，皆嚴淨光麗形色殊特，",
+        "translation": "'When I become a buddha, the forty-second vow is that all the gods and people in the buddha-lands and all myriad things will be adorned with purity, splendor, and distinctive form when I become a buddha.",
+        "source": "T12n0364_001:0330a13_11"
+    },
+    {
+        "source_sentence": "窮微極妙無能稱量者，眾生雖得天眼不能辯其名數。",
+        "translation": "Even though sentient beings have the divine eye, they can't discern its name and number even though they attain it.",
+        "source": "T12n0364_001:0330a15_12"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a16_13"
+    },
+    {
+        "source_sentence": "「『第四十三願，我作佛時，我剎中人隨其志願，所欲聞法皆自然得聞。",
+        "translation": "'The forty-third vow is that when I become a buddha, the people in my buddha's land will naturally hear whatever they want to hear the teaching according to their wishes.",
+        "source": "T12n0364_001:0330a16_14"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a18_15"
+    },
+    {
+        "source_sentence": "「『第四十四願，我作佛時，剎中菩薩、聲聞皆智慧成神，頂中皆有光明，",
+        "translation": "'When I become a buddha, the forty-fourth vow is that all the bodhisattvas and śrāvakas in the buddha-lands will be spiritually enlightened by wisdom, with light shining from their heads.",
+        "source": "T12n0364_001:0330a18_16"
+    },
+    {
+        "source_sentence": "語音鴻暢，說經行道無異於諸佛。",
+        "translation": "Their speech and voices are greatly eloquent, and they teach the sūtras and practice the path no different from those of the buddhas.",
+        "source": "T12n0364_001:0330a20_17"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a21_18"
+    },
+    {
+        "source_sentence": "「『第四十五願，我作佛時，他方世界諸菩薩，聞我名號歸依精進，皆逮得清淨解脫三昧；",
+        "translation": "“The forty-fifth vow is: When I become a buddha, all the enlightening beings in other worlds who hear my name and make offerings to me will attain the concentration of pure liberation.",
+        "source": "T12n0364_001:0330a21_19"
+    },
+    {
+        "source_sentence": "住是三昧一發意頃，供養不可思議諸佛，而不失定意。",
+        "translation": "He abides in this samādhi for the duration of a single moment of thought, making offerings to inconceivable buddhas without losing his concentration.",
+        "source": "T12n0364_001:0330a23_20"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a24_21"
+    },
+    {
+        "source_sentence": "「『第四十六願，我作佛時，他方世界諸菩薩，聞我名號歸依精進，皆逮得普等三昧；",
+        "translation": "“In the forty-sixth vow, when I become a buddha, all the enlightening beings in other worlds who hear my name and take refuge in me will attain universal concentration.",
+        "source": "T12n0364_001:0330a25_22"
+    },
+    {
+        "source_sentence": "至于成佛，常見無量不可思議一切諸佛。",
+        "translation": "As long as he becomes a buddha, he'll see measureless and inconceivable all the buddhas.",
+        "source": "T12n0364_001:0330a27_23"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330a28_24"
+    },
+    {
+        "source_sentence": "「『第四十七願，我作佛時，他方世界諸菩薩，聞我名號歸依精進，即得至不退轉地。",
+        "translation": "'The forty-seventh vow is that when I become a buddha, the bodhisattvas in other worlds who hear my name and rely on my effort will attain the stage of nonretrogression.",
+        "source": "T12n0364_001:0330a28_25"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。",
+        "translation": "They won't attain this vow and never become buddhas.",
+        "source": "T12n0364_001:0330b01_26"
+    },
+    {
+        "source_sentence": "「『第四十八願，我作佛時，他方世界諸菩薩，聞我名號歸依精進，即得至第一忍、第二忍、第三法忍，",
+        "translation": "“May I attain the forty-eighth vow, that when I become a buddha, all the bodhisattvas in other worlds who hear my name and rely on it will attain the first, second, and third tolerances of patience.",
+        "source": "T12n0364_001:0330b02_0"
+    },
+    {
+        "source_sentence": "於諸佛法永不退轉。",
+        "translation": "They never turn away from the buddha-teachings.",
+        "source": "T12n0364_001:0330b04_1"
+    },
+    {
+        "source_sentence": "不得是願終不作佛。』」",
+        "translation": "You can't make this vow and never become a buddha.'",
+        "source": "T12n0364_001:0330b04_2"
+    },
+    {
+        "source_sentence": "願後說偈分第七",
+        "translation": "The Seventh Part of the Verse after the vow",
+        "source": "T12n0364_001:0330b06_0"
+    },
+    {
+        "source_sentence": "「『我今對佛前，　　特發誠實願；",
+        "translation": "'Now, in front of the Buddha, I especially make this sincere vow:",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　如獲十力身，　　威德無能勝。",
+        "translation": "As they attain the body of the ten powers, their authority and virtue are unsurpassed.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　復為大國王，　　富豪而自在；",
+        "translation": "Again, he will be the king of a great country, rich and powerful, Free and sovereign.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　常施諸財寶，　　利樂於貧苦，",
+        "translation": "They always give riches and treasures, Benefiting those in poverty and suffering.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　盡令諸眾生，　　長夜無憂惱，",
+        "translation": "They cause all sentient beings To live for a long time without sorrow or vexation.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　發生眾善根，　　長養菩提果。",
+        "translation": "Developing roots of goodness, They nourish the fruit of enlightenment.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　我至成佛時，　　名聲超十方；",
+        "translation": "At the time of my attainment of buddhahood My name and voice transcended the ten directions.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　人天欣得聞，　　俱來生我剎。",
+        "translation": "The humans and gods are delighted to hear it, and they all come to give rise to the self-body.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　我以智慧光，　　廣照無央界；",
+        "translation": "With the light of my wisdom, I illumine the infinite realm.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　除滅諸有情，　　貪、瞋、煩惱暗。",
+        "translation": "He removes the darkness of craving, anger, and afflictions from sentient beings.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　地獄、鬼、畜生，　　亦生我剎中，",
+        "translation": "Hells, ghosts, and animals Are also born in our buddha-lands.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　一切來生者，　　修習清淨行；",
+        "translation": "All those who are born in the future Will cultivate pure practices.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　如佛金色身，　　妙相悉圓滿，",
+        "translation": "Like the Buddha’s golden-colored body, Perfectly endowed with subtle features.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　還以大慈心，　　普濟諸沈溺。",
+        "translation": "With great compassion, they also rescue all those who are submerged in the sea.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　我於未來世，　　當作天人師，",
+        "translation": "In the future I will be a teacher for gods and humans.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　百億世界中，　　說法師子吼；",
+        "translation": "In ten billion worlds He expounded the Teaching with the lion’s roar.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　一切聞音者，　　解悟復圓明。",
+        "translation": "All those who hear the sound understand and awaken, and they're also perfectly enlightened.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　又如過去佛，　　所生慈愍行；",
+        "translation": "It is also like the kindness and compassion shown by past buddhas.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　度脫諸有情，　　已無量無邊；",
+        "translation": "The liberation of sentient beings has already been immeasurable and boundless.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　我行亦如斯，　　咸使登覺岸。",
+        "translation": "The practice of self is also like this, enabling all to ascend to the shore of awakening.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　此願若剋果，　　大千應震動；",
+        "translation": "If this vow were to bring forth fruit, the great chiliocosm would shake.",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "　　虛空諸天神，　　必雨珍妙華。』」",
+        "translation": "The gods in the sky will surely rain rare and wonderful flowers.'",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "佛言：「爾時法藏比丘發此願已，復說偈言：初修善行分第八佛言：「爾時法藏比丘，",
+        "translation": "The Buddha said, After making this vow, the monk Dharmâkara then spoke these verses again, saying:",
+        "source": "T12n0364_001:0330b07_0"
+    },
+    {
+        "source_sentence": "於彼佛所，諸天魔梵龍神八部大眾之中，發斯弘誓。",
+        "translation": "At that Buddha's place, gods, Māra, Brahmā, dragon spirits, and eight groups of people made this great vow.",
+        "source": "T12n0364_001:0330c02_1"
+    },
+    {
+        "source_sentence": "應時大地震動，天雨妙華以散其上。",
+        "translation": "At that time a great earthquake occurred and the heavenly gods rained down exquisite flowers to scatter over it.",
+        "source": "T12n0364_001:0330c03_2"
+    },
+    {
+        "source_sentence": "空中讚言：『決定成佛。』",
+        "translation": "The air praised him, saying, 'I'll surely become a buddha.'",
+        "source": "T12n0364_001:0330c04_3"
+    },
+    {
+        "source_sentence": "於是法藏住真實慧，勇猛精進，修習無量功德，以莊嚴其國；",
+        "translation": "At that time the treasury of truth resided in true wisdom. They were courageous and vigorous, cultivating immeasurable virtue to adorn their countries.",
+        "source": "T12n0364_001:0330c05_4"
+    },
+    {
+        "source_sentence": "是故入三摩地，歷大阿僧祇劫，修菩薩行，不生慾想、瞋想、癡想，不生慾覺、瞋覺、癡覺，",
+        "translation": "For this reason he entered samādhi and cultivated the practice of enlightening beings for great incalculable eons, never giving rise to thoughts of desire, hatred, or delusion. He did not give rise to thoughts of desire, hatred, or delusion.",
+        "source": "T12n0364_001:0330c06_5"
+    },
+    {
+        "source_sentence": "不著色、聲、香、味諸法，忍力成就不計眾苦。",
+        "translation": "They aren't attached to form, sound, smell, odor, taste, or dharmas, and their forbearance accomplishes not counting the many sufferings.",
+        "source": "T12n0364_001:0330c08_6"
+    },
+    {
+        "source_sentence": "但樂憶念過去諸佛所修善根，行寂靜行，遠離虛妄，堅守誠正。",
+        "translation": "They simply delight in recollection of the roots of goodness cultivated by past buddhas. They practice quietude and seclusion, far removed from falsehood, firmly maintaining sincerity and righteousness.",
+        "source": "T12n0364_001:0330c09_7"
+    },
+    {
+        "source_sentence": "常以和顏愛語饒益眾生，於佛、法、僧信重恭敬，依真諦門植眾德本。",
+        "translation": "They always benefit sentient beings with their peaceful countenance and affectionate words, believe in the Buddha, Dharma, and Saṃgha, respect and venerate them, and cultivate the roots of virtue based on the true truth.",
+        "source": "T12n0364_001:0330c10_8"
+    },
+    {
+        "source_sentence": "善護口業不譏他過，善護身業不失律儀，善護意業清淨無染。",
+        "translation": "He well guards verbal actions without criticizing others' faults, well guards bodily actions without losing the precepts, and well guards mental actions that are pure and undefiled.",
+        "source": "T12n0364_001:0330c12_9"
+    },
+    {
+        "source_sentence": "恒以布施、持戒、忍辱、精進、禪定、智慧，利樂眾生；",
+        "translation": "They always benefit sentient beings by means of generosity, observance of precepts, patience, effort, meditation, and wisdom.",
+        "source": "T12n0364_001:0330c13_10"
+    },
+    {
+        "source_sentence": "令諸眾生功德成就，遠離麁言，免自害害彼，免彼此俱害；",
+        "translation": "“Great enlightening beings cause sentient beings to attain virtue, getting rid of harsh speech and avoiding harming oneself and others. They are also free from harming either one or the other.",
+        "source": "T12n0364_001:0330c14_11"
+    },
+    {
+        "source_sentence": "修習善語自利利人，致人我兼利。",
+        "translation": "He cultivates good speech for self-benefiting and benefiting others, which brings both benefit to people and self.",
+        "source": "T12n0364_001:0330c16_12"
+    },
+    {
+        "source_sentence": "復教化眾生修行六度，於一切法而得自在，了空、無相、無願、無為、無生、無滅，",
+        "translation": "They also teach sentient beings to cultivate the practice of the six transcendences and attain mastery over all things. Understanding emptiness, signlessness, wishlessness, nonexistence, nonorigination, and noncessation,",
+        "source": "T12n0364_001:0330c17_0"
+    },
+    {
+        "source_sentence": "軌範具足善根圓滿。",
+        "translation": "The model is replete with the good roots that are perfected.",
+        "source": "T12n0364_001:0330c18_1"
+    },
+    {
+        "source_sentence": "隨其生處在意所欲，有無量寶藏自然發現。",
+        "translation": "Depending on where they are born and what they want, there's an immeasurable store of treasure that naturally appears.",
+        "source": "T12n0364_001:0330c19_2"
+    },
+    {
+        "source_sentence": "以此施惠眾生令生歡喜，以行教化。",
+        "translation": "Because of these gifts, sentient beings are made to rejoice and they are led and inspired by their practice.",
+        "source": "T12n0364_001:0330c20_3"
+    },
+    {
+        "source_sentence": "致無量無數眾生發無上菩提之心，如是善行無量無邊說不能盡。」",
+        "translation": "To cause measureless and countless sentient beings to give rise to the mind of unsurpassed enlightenment, such good actions are immeasurable and limitless, and they can't be explained in full.",
+        "source": "T12n0364_001:0330c21_0"
+    },
+    {
+        "source_sentence": "親近諸佛分第九",
+        "translation": "Being intimate with the Buddhas is the ninth part.",
+        "source": "T12n0364_001:0330c23_0"
+    },
+    {
+        "source_sentence": "佛言：「法藏比丘行菩薩行時，於諸佛所尊重、恭敬、承事、供養未嘗間斷。",
+        "translation": "The Buddha said, When a monk of the Dharma store practices bodhisattva actions, he never stops being honored, venerated, served, and offered support by the buddhas.",
+        "source": "T12n0364_001:0330c24_0"
+    },
+    {
+        "source_sentence": "為四大天王，詣佛所，恭敬、禮拜、承事、供養。",
+        "translation": "The great deva kings of the four major deities came to the Buddha and venerated, worshiped, served, and offered support to him.",
+        "source": "T12n0364_001:0330c25_1"
+    },
+    {
+        "source_sentence": "為忉利天王，詣佛所，恭敬、禮拜、承事、供養。",
+        "translation": "The king of the Trāyastriṃśa gods approached the Buddha and venerated, worshipped, served, and offered support to him.",
+        "source": "T12n0364_001:0330c26_2"
+    },
+    {
+        "source_sentence": "為夜摩天王、兜率天王、化樂天王、他化自在天王、乃至大梵天王等，",
+        "translation": "He was the king of Yama Heaven, the king of Tuṣita Heaven, the king of Nirmāṇarati Heaven, the king of Paranirmitavaśavartin Heaven, and so forth, up to the great Brahma heavenly king.",
+        "source": "T12n0364_001:0330c27_3"
+    },
+    {
+        "source_sentence": "詣佛所，恭敬、禮拜、承事、供養。",
+        "translation": "They go to the Buddha, venerate, venerate, serve, and make offerings with respect.",
+        "source": "T12n0364_001:0330c29_0"
+    },
+    {
+        "source_sentence": "其次處閻浮提，為轉輪王受灌頂位，及大臣官族等，詣佛所，恭敬、禮拜、承事、供養。",
+        "translation": "In the next place in Jambudvīpa, they were consecrated by wheel-turning kings and ministers, officials, and so forth, who went to the Buddha, respected, venerated, served, and offered support.",
+        "source": "T12n0364_001:0330c29_1"
+    },
+    {
+        "source_sentence": "為剎帝利、婆羅門等，詣佛所，恭敬、禮拜、承事、供養。",
+        "translation": "The kṣatriyas and brāhmaṇas came to the Buddha, venerated, worshiped, served, and offered support to him.",
+        "source": "T12n0364_001:0331a02_2"
+    },
+    {
+        "source_sentence": "如是無量無數百千萬億劫，親近諸佛植眾德本，以成就所願。」",
+        "translation": "Thus, for measureless and countless hundreds of thousands of millions of eons, they'll become intimate with the buddhas and plant roots of virtue to fulfill their vows.",
+        "source": "T12n0364_001:0331a03_3"
+    },
+    {
+        "source_sentence": "願成作佛分第十",
+        "translation": "Tenth Part of the vow to become a buddha",
+        "source": "T12n0364_001:0331a06_0"
+    },
+    {
+        "source_sentence": "佛言：「法藏比丘行菩薩行時，容體端嚴，三十二相、八十種好悉皆具足。",
+        "translation": "The Buddha said, When the monk Dharmâkara was practicing bodhisattva practices, his body was dignified in appearance and fully endowed with the thirty-two marks and eighty kinds of beauty.",
+        "source": "T12n0364_001:0331a07_0"
+    },
+    {
+        "source_sentence": "口中常出栴檀之香，身諸毛孔出優鉢羅華香，其香普熏無量無邊不可思議那由他由旬；",
+        "translation": "In his mouth a sandalwood fragrance always emanated, and from the pores of his body an odor of blue lotus blossoms emerged. That fragrance was immeasurable, boundless, and inconceivable, permeating all directions for ten thousand yojanas.",
+        "source": "T12n0364_001:0331a08_1"
+    },
+    {
+        "source_sentence": "眾生聞此香者，皆發無上菩提之心。",
+        "translation": "When sentient beings hear this fragrance, they all give rise to the mind of unsurpassed enlightenment.",
+        "source": "T12n0364_001:0331a10_2"
+    },
+    {
+        "source_sentence": "又手中恒出一切衣服，一切飲食，一切幢旛、寶蓋，一切音樂，及一切最上所須之物，",
+        "translation": "In his hand he always carried all kinds of cloth, food and drink, banners, jeweled canopies, music, and the highest necessities.",
+        "source": "T12n0364_001:0331a11_3"
+    },
+    {
+        "source_sentence": "利樂一切眾生令歸佛道。",
+        "translation": "It benefits all sentient beings and causes them to return to the Buddha Way.",
+        "source": "T12n0364_001:0331a13_4"
+    },
+    {
+        "source_sentence": "如是積功累德，無量無數百千萬億劫，功德圓滿威神熾盛，方得成就所願而入佛位。」",
+        "translation": "Such accumulated merits are immeasurable and countless hundreds of thousands of millions of eons, whose virtues are perfect and their authoritative power is so great that they can fulfill their vows and enter the Buddhahood.",
+        "source": "T12n0364_001:0331a13_5"
+    },
+    {
+        "source_sentence": "蜎蠕亦度分第十一",
+        "translation": "The Eleventh Part of the Abhidharma-mahāvijñāna",
+        "source": "T12n0364_001:0331a16_0"
+    },
+    {
+        "source_sentence": "阿難白言：「法藏比丘為已成佛而取滅度？",
+        "translation": "Ānanda said, Does the monk Dharmâkara take extinction for the sake of having become a buddha?",
+        "source": "T12n0364_001:0331a17_0"
+    },
+    {
+        "source_sentence": "為未成佛？",
+        "translation": "Why hasn't he become a buddha yet?",
+        "source": "T12n0364_001:0331a17_1"
+    },
+    {
+        "source_sentence": "為今現在？」",
+        "translation": "Why is it present now?",
+        "source": "T12n0364_001:0331a18_2"
+    },
+    {
+        "source_sentence": "佛言：「彼佛如來，來無所來，去無所去，無生無滅，非過去、現在、未來，",
+        "translation": "The Buddha said: That buddha-tathāgata has neither coming nor going, neither going nor leaving, neither arising nor ceasing, neither past nor present nor future.",
+        "source": "T12n0364_001:0331a18_3"
+    },
+    {
+        "source_sentence": "但以酬其志願度一切眾生，現在西方，去此百萬世界，其世界名曰極樂；",
+        "translation": "In order to repay their vow to liberate all sentient beings, they are now in the West. Departing from one million worlds here, that world is called Paramount Bliss.",
+        "source": "T12n0364_001:0331a19_4"
+    },
+    {
+        "source_sentence": "其佛號阿彌陀，成佛以來于今十劫。",
+        "translation": "The Buddha was named Amitâbha, and it's been ten eons since he became a buddha.",
+        "source": "T12n0364_001:0331a21_5"
+    },
+    {
+        "source_sentence": "又在十方世界，教化無央數諸天人民，以至蜎飛蠕動之類，莫不得過度解脫者。」",
+        "translation": "Also, in the worlds of the ten directions, he teaches and transforms measureless gods and people up to the level of flying and wriggling creatures, so they won't be allowed to go beyond liberation.",
+        "source": "T12n0364_001:0331a22_6"
+    },
+    {
+        "source_sentence": "光明獨勝分第十二",
+        "translation": "The Twelfth Part of the solitary victory of Light",
+        "source": "T12n0364_001:0331a25_0"
+    },
+    {
+        "source_sentence": "佛言：「阿彌陀佛光明最為遠著，諸佛光明皆所不及。",
+        "translation": "The Buddha said, Amitâbha's light is the most distant and unfathomable from all the buddhas' lights.",
+        "source": "T12n0364_001:0331a26_0"
+    },
+    {
+        "source_sentence": "十方無央數佛，其頂中光明有照一里者，有照二里者，有照三里者，如是展轉漸遠，",
+        "translation": "In the ten directions there are innumerable buddhas. The light emanating from their tops shines for a distance of one li; those who shine for two li, and those who shine for three li—in this way they develop gradually further and further:",
+        "source": "T12n0364_001:0331a27_1"
+    },
+    {
+        "source_sentence": "有至於照千二百萬里。",
+        "translation": "It reaches a thousand two million miles in illumination.",
+        "source": "T12n0364_001:0331a29_2"
+    },
+    {
+        "source_sentence": "復有佛頂中光明照一世界者，有照二世界者，有照三世界者，如是展轉漸遠，",
+        "translation": "“Furthermore, the light shining from the top of Buddha’s head illumines one world; the light that illumines two worlds and the light that illumines three worlds—in this way, gradually and far-reachingly, they develop.",
+        "source": "T12n0364_001:0331a29_3"
+    },
+    {
+        "source_sentence": "有至於照二百萬世界者。",
+        "translation": "There's someone who reaches the point where he illuminates two million worlds.",
+        "source": "T12n0364_001:0331b02_4"
+    },
+    {
+        "source_sentence": "惟阿彌陀佛頂中光明，照千萬世界無有窮極。",
+        "translation": "Only the light from the top of Amitâbha Buddha's head shines brightly, illuminating a thousand worlds without limit.",
+        "source": "T12n0364_001:0331b02_5"
+    },
+    {
+        "source_sentence": "諸佛光明所以有遠近者，何以故？",
+        "translation": "“World-honored One, why is the light of buddhas so distant and obscure?",
+        "source": "T12n0364_001:0331b04_0"
+    },
+    {
+        "source_sentence": "初為菩薩時，願力功德各有大小，至期作佛，皆隨所得，是故光明亦從而異。",
+        "translation": "When he first became a bodhisattva, the power of his vows and merits were each different in size, and when he became a buddha at the right time, they all differed according to what he attained; therefore, his radiance also differed.",
+        "source": "T12n0364_001:0331b04_1"
+    },
+    {
+        "source_sentence": "若威神自在隨意所作，不必豫計則無不同。",
+        "translation": "If their authoritative power is unimpeded and done as they wish, there's no difference if they don't have to think about it.",
+        "source": "T12n0364_001:0331b06_2"
+    },
+    {
+        "source_sentence": "阿彌陀佛願力無邊，功德超絕故，比諸佛光明特為殊勝。」",
+        "translation": "Amitâbha Buddha's power of vows has no limit, and his virtue is so transcendent that it's especially superior to the buddhas' light.",
+        "source": "T12n0364_001:0331b07_3"
+    },
+    {
+        "source_sentence": "十三佛號分第十三",
+        "translation": "Thirteen Buddha Names, Part 13",
+        "source": "T12n0364_001:0331b09_0"
+    },
+    {
+        "source_sentence": "佛言：「阿彌陀佛光明，明麗快甚絕殊無極，勝於日月之明千萬億倍，",
+        "translation": "The Buddha said, Amitâbha's radiance of light is so brilliant and sublime that it's beyond the brightness of the sun and moon a thousand million times greater.",
+        "source": "T12n0364_001:0331b10_0"
+    },
+    {
+        "source_sentence": "而為諸佛光明之王，故號無量壽佛；",
+        "translation": "Because they are the kings of the light of all buddhas, they are called Buddhas of Immeasurable Life.",
+        "source": "T12n0364_001:0331b11_1"
+    },
+    {
+        "source_sentence": "亦號無量光佛、無邊光佛、無礙光佛、無對光佛、炎王光佛、清淨光佛、歡喜光佛、智慧光佛、不斷光佛、難思光佛、難稱光佛、超日月光佛。",
+        "translation": "They are also called Buddha of Immeasurable Light, Buddha of Boundless Light, Buddha of Boundless Light, Buddha of Unobstructed Light, Buddha of Unremitting Light, Buddha of opposing Light, Buddha of King Yama Light, Buddha of Pure Light, Buddha of Joyful Light, Buddha of Light of Wisdom, Buddha of Incessant Light, Buddha of Inconceivable",
+        "source": "T12n0364_001:0331b12_2"
+    },
+    {
+        "source_sentence": "其光明所照無央數天下，幽冥之處皆常大明。",
+        "translation": "The light shone over an infinite number of worlds, and everywhere in the darkness it always shines brightly.",
+        "source": "T12n0364_001:0331b15_3"
+    },
+    {
+        "source_sentence": "諸天、人民、禽獸、蜎飛蠕動之類，見此光明莫不喜悅而生慈心。",
+        "translation": "All the gods, humans, animals, birds, hawks, flying creatures, and wriggling creatures who saw this light were all delighted and gave rise to compassion.",
+        "source": "T12n0364_001:0331b16_4"
+    },
+    {
+        "source_sentence": "其淫泆、瞋怒、愚癡者，見此光明莫不遷善。",
+        "translation": "Those who are lustful, angry, and foolish see this light and don't fail to change goodness.",
+        "source": "T12n0364_001:0331b18_5"
+    },
+    {
+        "source_sentence": "地獄、餓鬼、畜生，考掠痛苦之處，見此光明無復苦惱，命終之後皆得解脫。",
+        "translation": "When hells, hungry ghosts, and animals plunder painful places, they see this light without further suffering or distress, and after their lives end, they'll all be liberated.",
+        "source": "T12n0364_001:0331b19_6"
+    },
+    {
+        "source_sentence": "不獨我今稱讚阿彌陀佛光明，十方無央數佛、菩薩、緣覺、聲聞之眾，",
+        "translation": "Countless buddhas, enlightening beings, bodhisattvas, pratyekabuddhas, and śrāvakas of the ten directions are present in this assembly.",
+        "source": "T12n0364_001:0331b20_7"
+    },
+    {
+        "source_sentence": "悉皆稱讚亦復如是。",
+        "translation": "It's likewise when they all praise it.",
+        "source": "T12n0364_001:0331b22_8"
+    },
+    {
+        "source_sentence": "若有眾生，聞此光明威神功德，日夜歸命稱讚不已，隨其志願必生其剎。",
+        "translation": "If there are sentient beings who hear the authoritative merit of this light and return to their lives day and night without ceasing to praise it, a buddha will surely be born according to their aspirations.",
+        "source": "T12n0364_001:0331b22_9"
+    },
+    {
+        "source_sentence": "復為諸菩薩、聲聞所共稱讚，當亦如是。",
+        "translation": "Again, it's praised by bodhisattvas and śrāvakas together, and so it will be likewise.",
+        "source": "T12n0364_001:0331b24_10"
+    },
+    {
+        "source_sentence": "我說阿彌陀佛光明威神巍巍殊妙，晝夜一劫尚未能盡，今為汝等略言之耳。」",
+        "translation": "I've described the majestic and marvelous splendors of Amitâbha Buddha's radiance, which can't be exhausted day and night for an eon, but now I'll briefly describe it for you.",
+        "source": "T12n0364_001:0331b25_11"
+    },
+    {
+        "source_sentence": "阿闍世王分第十四",
+        "translation": "Ajātaśatru Part 14",
+        "source": "T12n0364_001:0331b28_0"
+    },
+    {
+        "source_sentence": "爾時阿闍世王太子與五百長者子，各持一金華蓋，前以獻佛，却坐一面，",
+        "translation": "The prince Ajātaśatru and the five hundred wealthy householders, each holding a golden-hued canopy, offered it to the Buddha and withdrew to sit at one side.",
+        "source": "T12n0364_001:0331b29_0"
+    },
+    {
+        "source_sentence": "聞說阿彌陀佛功德光明，皆大歡喜。",
+        "translation": "They were all greatly delighted to hear the teaching of Amitâbha Buddha’s ray of light of virtue.",
+        "source": "T12n0364_001:0331c01_1"
+    },
+    {
+        "source_sentence": "其心願言：「我等後作佛時，皆如阿彌陀佛。」",
+        "translation": "Their minds vowed, When we become buddhas in the future, we'll all be like Amitâbha Buddha.",
+        "source": "T12n0364_001:0331c02_2"
+    },
+    {
+        "source_sentence": "佛即知之，告諸比丘言：「阿闍世王太子與五百長者子，後無央數劫皆當作佛，",
+        "translation": "Knowing this, the Buddha told the monks, “The prince Ajātaśatru and the five hundred wealthy sons will all become buddhas in immeasurable kalpas to come.",
+        "source": "T12n0364_001:0331c03_3"
+    },
+    {
+        "source_sentence": "如阿彌陀佛。",
+        "translation": "It's like Amitâbha Buddha.",
+        "source": "T12n0364_001:0331c05_4"
+    },
+    {
+        "source_sentence": "此等行菩薩道已無央數劫，皆各供養四百億佛，今復供養於我。",
+        "translation": "These enlightening beings have practiced the path of enlightening beings for countless eons, each paying homage to four hundred myriads of koṭis of buddhas. And now they also pay homage to me.",
+        "source": "T12n0364_001:0331c05_5"
+    },
+    {
+        "source_sentence": "往昔迦葉佛時，皆常為我弟子，今又至此是復會遇也。」",
+        "translation": "In the past, when Kāśyapa Buddha was a disciple of mine, they were all my disciples; now that they've come here, this is another encounter.",
+        "source": "T12n0364_001:0331c07_6"
+    },
+    {
+        "source_sentence": "時諸比丘聞是語已，莫不喜悅、恭敬、讚歎。",
+        "translation": "After hearing these words, the monks were all delighted, venerated, and praised.",
+        "source": "T12n0364_001:0331c08_7"
+    },
+    {
+        "source_sentence": "地平氣和分第十五",
+        "translation": "The Fifteenth Part of the Earth's Peacefulness and harmoniousness",
+        "source": "T12n0364_001:0331c10_0"
+    },
+    {
+        "source_sentence": "佛言：「阿彌陀佛剎中皆自然七寶，所謂黃金、白銀、水晶、瑠璃、珊瑚、琥珀、硨磲，",
+        "translation": "The Buddha said, In Amitâbha's buddha-stage, there are seven treasures that all naturally arise: gold, silver, crystal, lapis lazuli, coral, amber, and brass.",
+        "source": "T12n0364_001:0331c11_0"
+    },
+    {
+        "source_sentence": "其體性溫柔，以是七寶相間為地。",
+        "translation": "Its essence and nature are gentle, and these seven treasures are the distinctive characteristics of the land.",
+        "source": "T12n0364_001:0331c12_1"
+    },
+    {
+        "source_sentence": "或純以一寶為地，光色照耀奇妙清淨，超越十方一切世界。",
+        "translation": "Perhaps it's purely made of a single treasure that shines brilliantly and marvelously pure, transcending all the worlds in the ten directions.",
+        "source": "T12n0364_001:0331c13_2"
+    },
+    {
+        "source_sentence": "其國恢廓曠蕩不可窮盡，地皆平正，無須彌山及金剛圍一切諸山；",
+        "translation": "That country was vast and vast, inexhaustibly vast. The land was even and peaceful; there were no mountains like the polar mountain or any of the other mountains surrounding the diamond constellation.",
+        "source": "T12n0364_001:0331c14_3"
+    },
+    {
+        "source_sentence": "亦無大海、小海，及坑坎、井谷，亦無幽暗之所。",
+        "translation": "Nor is there an ocean, a small sea, a pit, or a well- drained valley; nor is there a place of darkness.",
+        "source": "T12n0364_001:0331c16_4"
+    },
+    {
+        "source_sentence": "無地獄、餓鬼、眾生、禽虫，以至蜎飛蠕動之類；",
+        "translation": "There are no hells, hungry ghosts, sentient beings, or birds and beasts.",
+        "source": "T12n0364_001:0331c17_5"
+    },
+    {
+        "source_sentence": "無阿須倫及諸龍、鬼神。",
+        "translation": "There are no asuras, dragons, or ghosts.",
+        "source": "T12n0364_001:0331c18_6"
+    },
+    {
+        "source_sentence": "亦無雨露，惟有自然流泉；",
+        "translation": "There is neither rain nor dew but a naturally flowing fountain.",
+        "source": "T12n0364_001:0331c18_7"
+    },
+    {
+        "source_sentence": "亦無寒暑，氣象常春清快明麗，不可具言。",
+        "translation": "The climate is neither cold nor hot, and the seasons are always clear and beautiful in springtime.",
+        "source": "T12n0364_001:0331c19_8"
+    },
+    {
+        "source_sentence": "有萬種自然之物，如百味飲食，意有所欲悉現在前；",
+        "translation": "There were myriad kinds of natural things, like food and drink with a hundred flavors. All their desires and wishes were manifested before them.",
+        "source": "T12n0364_001:0331c20_9"
+    },
+    {
+        "source_sentence": "意若不用自然化去，隨其所念無不得之。",
+        "translation": "If he doesn't use it, he naturally transforms and leaves it, and whatever he thinks, he can't get it.",
+        "source": "T12n0364_001:0331c21_10"
+    },
+    {
+        "source_sentence": "此娑婆世界，有他化自在天，其中天人一切所須自然化現；",
+        "translation": "In this world Endurance there are the Paranirmita-vaśavartin gods, who naturally manifest all kinds of magical creations that humans and goddesses need.",
+        "source": "T12n0364_001:0331c22_11"
+    },
+    {
+        "source_sentence": "以比於此佛剎中自然之物，猶萬億倍不可以及。」",
+        "translation": "It's a thousand times greater than the natural things in this Buddha's buddha-stage that can't be compared.",
+        "source": "T12n0364_001:0331c23_12"
+    },
+    {
+        "source_sentence": "講堂宅宇分第十六",
+        "translation": "The Sixteenth Part of the Treatise on the Palace of the Assembly Hall",
+        "source": "T12n0364_001:0331c25_0"
+    },
+    {
+        "source_sentence": "佛言：「阿彌陀佛講堂、精舍，皆自然七寶相間而成。",
+        "translation": "The Buddha said, All the seven treasures of Amitâbha's lecture hall and monastery are naturally interspersed with each other.",
+        "source": "T12n0364_001:0331c26_0"
+    },
+    {
+        "source_sentence": "復有七寶以為樓觀、欄楯；",
+        "translation": "Again, there were seven jewels adorning the towers and railings.",
+        "source": "T12n0364_001:0331c27_1"
+    },
+    {
+        "source_sentence": "復以七寶為之纓絡懸飾其側；",
+        "translation": "They were also draped with a garland of seven kinds of treasure and hung beside them.",
+        "source": "T12n0364_001:0331c27_2"
+    },
+    {
+        "source_sentence": "復以白珠、明月珠、摩尼珠，為之交絡遍覆其上，殊特妙好清淨光輝不可勝言。",
+        "translation": "It's also covered with white pearls, bright moon pearls, and maṇi pearls, which are interlocked together to make a special, marvelous, beautiful, pure, and unspeakably brilliant light.",
+        "source": "T12n0364_001:0331c28_3"
+    },
+    {
+        "source_sentence": "其餘菩薩、聲聞所居宮宇，亦復如是。",
+        "translation": "So it is with the other palaces where bodhisattvas and śrāvakas live.",
+        "source": "T12n0364_001:0332a01_4"
+    },
+    {
+        "source_sentence": "彼諸天及世人，衣服、飲食、華香、纓絡、傘蓋、幢旛、微妙音樂，隨意而現。",
+        "translation": "Those gods and humans, their clothing, food and drink, flowers, fragrances, garlands, umbrellas, canopies, banners, pennants, and subtle music appear as they wish.",
+        "source": "T12n0364_001:0332a02_0"
+    },
+    {
+        "source_sentence": "所居宮宇、樓閣，稱其形色、高下、大小，或以一寶、二寶乃至無量眾寶，",
+        "translation": "The palaces and towers in which they live are variously shaped, high and low, large and small, one treasure, two treasures, up to an infinite number of treasures.",
+        "source": "T12n0364_001:0332a03_1"
+    },
+    {
+        "source_sentence": "悉化現而成。",
+        "translation": "They are all transformed into manifestations.",
+        "source": "T12n0364_001:0332a05_2"
+    },
+    {
+        "source_sentence": "然宮宇有隨意高大浮於空中若雲氣者；",
+        "translation": "Still, in the palace there are those who float high and wide as they wish, like clouds flying in the sky.",
+        "source": "T12n0364_001:0332a05_3"
+    },
+    {
+        "source_sentence": "有不能隨意高大，止在地上如世間者。",
+        "translation": "Some people can't follow the highness of their wishes and stop on the ground like the world.",
+        "source": "T12n0364_001:0332a06_4"
+    },
+    {
+        "source_sentence": "其故非他，能隨意者，乃前世求道時慈心精進，益作諸善德厚所致。",
+        "translation": "Therefore, it's not others who can follow their wishes, but when they were seeking the path in a previous life, compassion and effort increased as a result of the exertion of good qualities.",
+        "source": "T12n0364_001:0332a07_5"
+    },
+    {
+        "source_sentence": "不能隨意者，乃前世求道時不慈心精進，作善微尠德薄所致。",
+        "translation": "Those who can't follow their wishes are those who weren't compassionate in the past when they pursued the path and didn't make good effort, which was due to weak debilitating virtue.",
+        "source": "T12n0364_001:0332a08_6"
+    },
+    {
+        "source_sentence": "若衣服、飲食則皆平等，惟宮宇不同。",
+        "translation": "If clothing and food were the same, they would all be equal, except for the differences in the palace.",
+        "source": "T12n0364_001:0332a10_7"
+    },
+    {
+        "source_sentence": "所以別進有勤墮，德有大小，示眾見之。",
+        "translation": "That's why there's a separate effort to advance and fall, and virtue has large and small size, so he shows it to the crowd.",
+        "source": "T12n0364_001:0332a11_0"
+    },
+    {
+        "source_sentence": "此講堂宮宇，初無作者，亦無所從來，以此佛願大德重，自然化生。」",
+        "translation": "This lecture hall has no author at first, and there's no place where it comes from; this is the great virtue of the Buddha's vow to naturally transform sentient beings.",
+        "source": "T12n0364_001:0332a11_1"
+    },
+    {
+        "source_sentence": "寶池大小分第十七",
+        "translation": "The Seventeenth Part of the Great and Small parts of the Jeweled Lake",
+        "source": "T12n0364_001:0332a14_0"
+    },
+    {
+        "source_sentence": "佛言：「阿彌陀佛剎中講堂、宮宇，勝於此世界中第六天上天帝所居，",
+        "translation": "The Buddha said: Among the buddha-fields of Amitâbha, the assembly halls and the palaces are superior to those in the sixth heavenly realm (i.e., Jambudvīpa) where Indra lives.",
+        "source": "T12n0364_001:0332a15_0"
+    },
+    {
+        "source_sentence": "百千萬倍終不可及。",
+        "translation": "It's a hundred million times greater than that, but it's ultimately unfathomable.",
+        "source": "T12n0364_001:0332a16_1"
+    },
+    {
+        "source_sentence": "其內、外復有自然流泉及諸池沼，與自然七寶俱生。",
+        "translation": "Inside and outside, there are naturally flowing springs and ponds that arise together with the naturally produced seven treasures.",
+        "source": "T12n0364_001:0332a17_0"
+    },
+    {
+        "source_sentence": "有純一寶池者，其底沙亦以一寶；",
+        "translation": "If there is a pond of pure one treasure, the bottom of that pond also has one treasure in it.",
+        "source": "T12n0364_001:0332a18_1"
+    },
+    {
+        "source_sentence": "若黃金池者底白銀沙，水晶池者底瑠璃沙，珊瑚池者底琥珀沙。",
+        "translation": "If a golden pond has white silver sand at its bottom, a crystal pond has lapis lazuli sand at its bottom, and a coral pond has amber sand at its bottom.",
+        "source": "T12n0364_001:0332a19_0"
+    },
+    {
+        "source_sentence": "有二寶為一池者，其底沙亦以二寶；",
+        "translation": "“When two treasures make one lake, the bottom and the sand at the bottom are also made of two treasures.",
+        "source": "T12n0364_001:0332a20_1"
+    },
+    {
+        "source_sentence": "若黃金、白銀池者，底沙則以水晶、瑠璃；",
+        "translation": "If it were made of gold or silver, the bottom would be made of crystal or lapis lazuli.",
+        "source": "T12n0364_001:0332a21_2"
+    },
+    {
+        "source_sentence": "若水晶、瑠璃池者，底沙則以珊瑚、琥珀；",
+        "translation": "If there are crystal or lapis lapis lazuli ponds, the bottom is made of coral and ambrosia.",
+        "source": "T12n0364_001:0332a22_3"
+    },
+    {
+        "source_sentence": "若珊瑚、琥珀池者，底沙則以硨磲、瑪瑙。",
+        "translation": "If there's a coral or amber pond, the bottom is made of sand and agate.",
+        "source": "T12n0364_001:0332a23_4"
+    },
+    {
+        "source_sentence": "若三寶、四寶以至七寶，共為一池，則底沙亦如是。",
+        "translation": "If the three treasures and four treasures up to seven treasures are combined into one lake, then so is the bottom of the pool.",
+        "source": "T12n0364_001:0332a24_0"
+    },
+    {
+        "source_sentence": "此諸寶池有方四十里者，有方五十里者，有方六十里者，如是展轉漸大，",
+        "translation": "These jeweled ponds are forty li in width, fifty li in width, and sixty li in width.",
+        "source": "T12n0364_001:0332a25_1"
+    },
+    {
+        "source_sentence": "以至於方二萬四百八十里若大海。",
+        "translation": "As far as it goes, it's 2,800 miles wide like the great ocean.",
+        "source": "T12n0364_001:0332a26_2"
+    },
+    {
+        "source_sentence": "然是諸池者，皆菩薩、聲聞諸上善人生長之所，有時浴於其間。",
+        "translation": "However, these ponds are all places where bodhisattvas and śrāvakas of the highest goodness grow up, and sometimes they bathe among them.",
+        "source": "T12n0364_001:0332a27_3"
+    },
+    {
+        "source_sentence": "若彼佛池其方倍此，皆七寶相間而成，白珠、明月珠、摩尼珠為之底沙。",
+        "translation": "If that Buddha's pond were to be doubled this square, it would all be made of seven treasures, and the white pearl, bright-moon pearl, and maṇi pearl would be its bottom.",
+        "source": "T12n0364_001:0332a29_4"
+    },
+    {
+        "source_sentence": "是諸池者，皆八功德水湛然盈滿，清淨香潔味如甘露。",
+        "translation": "These ponds are all filled with the water of the eight virtues, pure and fragrant like ambrosia.",
+        "source": "T12n0364_001:0332b01_5"
+    },
+    {
+        "source_sentence": "其間復有百種異華，枝皆千葉，光色既異，香氣亦異芬芳，馥郁不可勝言。」",
+        "translation": "Between them, there are another hundred different kinds of flowers that have a thousand leaves on their branches, whose luster is different, and their fragrance is also different, with an unspeakably fragrant fragrance.",
+        "source": "T12n0364_001:0332b02_6"
+    },
+    {
+        "source_sentence": "蓮華化生分第十八",
+        "translation": "Padmavṛṣa-puṇḍarīka, Part 18",
+        "source": "T12n0364_001:0332b05_0"
+    },
+    {
+        "source_sentence": "佛言：「十方無央數世界諸天人民，以至蜎飛蠕動之類，往生阿彌陀佛剎者，",
+        "translation": "The Buddha said, In the incalculable number of worlds in the ten directions, there are gods and people who will be reborn in Amitâbha's buddha-stage by flying and wriggling birds.",
+        "source": "T12n0364_001:0332b06_0"
+    },
+    {
+        "source_sentence": "皆於七寶池蓮華中化生，自然長大亦無乳養之者，皆食自然之食。",
+        "translation": "They're all born in the lotus flower of the seven-jeweled pond, which grows naturally and has no milk that nourishes them, and they all eat natural food.",
+        "source": "T12n0364_001:0332b07_1"
+    },
+    {
+        "source_sentence": "其容貌、形色端正淨好，固非世人可比，亦非天人可比；",
+        "translation": "Their appearance, shape, form, and mannerisms are certainly not comparable to those of the people of the world, nor can they be compared to gods or human beings.",
+        "source": "T12n0364_001:0332b09_2"
+    },
+    {
+        "source_sentence": "皆受自然清虛之身、無極之壽。」",
+        "translation": "They'll all experience a body that's naturally pure and empty and an infinite life span.",
+        "source": "T12n0364_001:0332b10_3"
+    },
+    {
+        "source_sentence": "[句-口+止]者比類分第十九",
+        "translation": "[句-口+止]者比類分第十九",
+        "source": "T12n0364_001:0332b12_0"
+    },
+    {
+        "source_sentence": "佛言：「譬如[句-口+止]者在帝王之側，相容儀寧可類否？」",
+        "translation": "The Buddha said, Suppose someone [says - mouth + stop] is at the side of the emperor, so how could their appearance be similar?",
+        "source": "T12n0364_001:0332b13_0"
+    },
+    {
+        "source_sentence": "阿難答言：「[句-口+止]者在帝王之側，羸陋醜惡無以為喻，百千萬倍不可以及。",
+        "translation": "Ānanda replied, [句-口+止]者在帝王之側而、羸陋醜惡無以為喻,百千萬倍不可比.",
+        "source": "T12n0364_001:0332b14_1"
+    },
+    {
+        "source_sentence": "所以然者，皆坐前世不植德本，積財不施，富有益慳，但欲唐得，貪求無厭。",
+        "translation": "The reason for this is because they all sat in the past lives and did not plant roots of virtue, accumulated wealth and didn't give alms, were rich and stingy, simply wanted nothing but to get it, and greedily pursued it without tire.",
+        "source": "T12n0364_001:0332b15_2"
+    },
+    {
+        "source_sentence": "不信修善得福，益作諸惡，如是壽終墮於惡趣，受諸長苦；",
+        "translation": "They do not believe that cultivating wholesomeness brings merit and increasingly commits evil. At the end of their life in this way, they will fall into a bad realm of existence and experience long-lasting suffering.",
+        "source": "T12n0364_001:0332b17_3"
+    },
+    {
+        "source_sentence": "得出為人，下賤醜弊，示眾見之。",
+        "translation": "He came out to be a human being, inferior and ugly, and showed the crowd how to see him.",
+        "source": "T12n0364_001:0332b18_4"
+    },
+    {
+        "source_sentence": "所以帝王人中尊貴，皆由宿世積德所致，慈惠溫良，博施兼濟，損已利物，",
+        "translation": "The emperor was thus the most noble among people, all because of the accumulated virtues he had cultivated in previous lives. His kindness and benevolence were warm and gentle, and his generosity extended both benefits and harmed those who lost what they had gained.",
+        "source": "T12n0364_001:0332b19_5"
+    },
+    {
+        "source_sentence": "無所違爭，是以壽終應生天上享其福樂；",
+        "translation": "There is no objection. For this reason, at the end of life one should be reborn in heaven to enjoy happiness and blessings.",
+        "source": "T12n0364_001:0332b21_6"
+    },
+    {
+        "source_sentence": "餘慶猶存遂生王家，自然尊貴，儀容端正，眾所敬事；",
+        "translation": "So he was born in the royal family. He was naturally noble and well-looking, respected by all the people.",
+        "source": "T12n0364_001:0332b22_0"
+    },
+    {
+        "source_sentence": "美衣珍饍隨心服御，自非宿福何以能然。」",
+        "translation": "Beautiful clothing and treasures are appropriated according to their hearts, so why would they be able to do so if they aren't the result of past merit?",
+        "source": "T12n0364_001:0332b23_1"
+    },
+    {
+        "source_sentence": "佛言：「汝言是矣！",
+        "translation": "The Buddha said, Yes, you say so!",
+        "source": "T12n0364_001:0332b24_2"
+    },
+    {
+        "source_sentence": "若言形相威光，帝王雖人中尊貴，比轉輪聖王猶如鄙陋，若彼[句-口+止]者在帝王之側。",
+        "translation": "If someone says their form is authoritative and resplendent, then even though the emperor is the most noble among men, he's like a wheel-turning sage king who's coarse and ugly, and if they [phrase - mouth + stop] them, they're beside the emperor.",
+        "source": "T12n0364_001:0332b24_3"
+    },
+    {
+        "source_sentence": "轉輪聖王天下第一，比忉利天王，又百千萬倍不可以及。",
+        "translation": "The wheel-turning sage king is the best in the world, a hundred million times greater than the Trāyastriṃśa gods.",
+        "source": "T12n0364_001:0332b26_4"
+    },
+    {
+        "source_sentence": "忉利天王比第六天王，又百千萬倍不可以及。",
+        "translation": "The Trāyastriṃśa gods are a hundred million times greater than the sixth king, and they can't be matched.",
+        "source": "T12n0364_001:0332b27_5"
+    },
+    {
+        "source_sentence": "第六天王，比阿彌陀佛剎中諸菩薩、聲聞、諸上善人，又百千萬倍不可以及。」",
+        "translation": "The sixth heavenly king is a hundred million times greater than the bodhisattvas, śrāvakas, and other excellent people in Amitâbha's buddha-stage.",
+        "source": "T12n0364_001:0332b28_6"
+    },
+    {
+        "source_sentence": "澡雪形體分第二十",
+        "translation": "The Twentieth Part of the Chapter on the Form and Essence of Wasting Snow",
+        "source": "T12n0364_001:0332c02_0"
+    },
+    {
+        "source_sentence": "佛言：「阿彌陀佛剎中，諸菩薩、聲聞、諸上善人，若入七寶池中澡雪形體；",
+        "translation": "The Buddha said: In the buddha-stage of Amitâbha, all the bodhisattvas, śrāvakas, and other supremely good people entered a pool of seven jewels to bathe themselves in the form of snow.",
+        "source": "T12n0364_001:0332c03_0"
+    },
+    {
+        "source_sentence": "意欲令水沒足水即沒足，欲令至膝水即至膝，欲令至腰至腋，以至于頸，",
+        "translation": "He wishes to cause water to go up to his knees, and wants to cause it to reach his knees; he wishes to cause water to go up to his waist, down to his armpits, and up to his neck.",
+        "source": "T12n0364_001:0332c04_1"
+    },
+    {
+        "source_sentence": "水亦如是。",
+        "translation": "So it is with water.",
+        "source": "T12n0364_001:0332c06_2"
+    },
+    {
+        "source_sentence": "欲淋灌其身悉如其意，欲令其水如初，即亦如初。",
+        "translation": "He wants to pour water over his body just as he wishes, and wants to make the water look like the first, which is also like the first.",
+        "source": "T12n0364_001:0332c06_3"
+    },
+    {
+        "source_sentence": "調和冷暖無不順適，開神悅體滌蕩情慮，清明澄潔瑩若無形。",
+        "translation": "He harmonizes coolness, warmth, and non-uncomfortability, enlightens his mind with a delightful body that washes away emotions and thoughts, becomes clear, pure, clean, and formless.",
+        "source": "T12n0364_001:0332c07_4"
+    },
+    {
+        "source_sentence": "既出浴已，各坐於一蓮華之上，自然微風徐動，吹諸寶樹，或作音樂，",
+        "translation": "Having emerged from the bath, they each sat on top of a lotus flower. A gentle breeze blew in their direction and blowing down jeweled trees or making music.",
+        "source": "T12n0364_001:0332c09_0"
+    },
+    {
+        "source_sentence": "或作法音；",
+        "translation": "Or they may make the sound of the Teaching.",
+        "source": "T12n0364_001:0332c10_1"
+    },
+    {
+        "source_sentence": "吹諸寶華皆成異香，散諸菩薩、聲聞、大眾之上。",
+        "translation": "It blows jeweled flowers that all make a strange fragrance and scatter them above the bodhisattvas, śrāvakas, and masses.",
+        "source": "T12n0364_001:0332c10_2"
+    },
+    {
+        "source_sentence": "華墮地者積厚四寸，極目明麗芳香無比，及至小萎，自然亂風吹去。",
+        "translation": "The flower that falls to the ground is four inches in height, and its eyes are extremely bright and beautiful with an incomparably fragrant fragrance. As soon as it reaches a little bloom, a sudden wind blows away of its own accord.",
+        "source": "T12n0364_001:0332c11_3"
+    },
+    {
+        "source_sentence": "諸菩薩、聲聞、大眾，有欲聞法音者，有欲聞音樂者，有欲聞華香者，",
+        "translation": "“Furthermore, those bodhisattvas, śrāvakas, and great assemblies may wish to hear the sound of the Dharma. Those who wish to hear music and those who wish to smell the fragrance of flowers",
+        "source": "T12n0364_001:0332c13_4"
+    },
+    {
+        "source_sentence": "有皆不欲聞者；",
+        "translation": "There are those who do not want to hear it.",
+        "source": "T12n0364_001:0332c14_5"
+    },
+    {
+        "source_sentence": "其欲聞者輒獨聞之，不欲聞者寂無所聞，各適其意無所違忤，其為快樂常得自然。」",
+        "translation": "Those who want to hear it will hear it alone, and those who don't want to hear it will be silent and have nothing to hear, each according to his or her wishes without disobedience, and they'll always attain spontaneity for their happiness.",
+        "source": "T12n0364_001:0332c15_6"
+    },
+    {
+        "source_sentence": "澡畢進業分第二十一",
+        "translation": "The Twenty-first Part of the Cultivation of Practice after bathing [the Buddha]",
+        "source": "T12n0364_001:0332c18_0"
+    },
+    {
+        "source_sentence": "佛言：「饒皆浴已各往修進，有在地講經者，有在地誦經者，有在地自說經者，",
+        "translation": "The Buddha said: “Each of them, after having bathed, will go and practise themselves. There are those who teach the Dharma on the ground, those who recite it on the ground, and those who preach the Dharma for themselves on the ground.",
+        "source": "T12n0364_001:0332c19_0"
+    },
+    {
+        "source_sentence": "有在地口授經者，有在地聽經者，有在地念經者，有在地思道者，有在地坐禪一心者，",
+        "translation": "There are those who teach the scriptures verbally on the ground, those who listen to the scriptures on the ground, those who remember the scriptures on the ground, those who contemplate the path on the ground, and those who meditate with one mind while sitting in meditation on the ground.",
+        "source": "T12n0364_001:0332c20_1"
+    },
+    {
+        "source_sentence": "有在地經行者；",
+        "translation": "There are those who practice the scriptures on earth.",
+        "source": "T12n0364_001:0332c22_2"
+    },
+    {
+        "source_sentence": "仍有在虛空中講經者，在虛空中誦經者，在虛空中自說經者，在虛空中口授經者，",
+        "translation": "There are still those who preach the scriptures in space, those who recite the scriptures in space, those who explain the scriptures themselves in space, and those who teach the scriptures verbally in space.",
+        "source": "T12n0364_001:0332c23_0"
+    },
+    {
+        "source_sentence": "在虛空中聽經者，在虛空中念經者，在虛空中思道者，在虛空中坐禪一心者，",
+        "translation": "Those who hear the scriptures in space, those who recite them in space, those who contemplate the path in space, and those who meditate with one mind while sitting in space.",
+        "source": "T12n0364_001:0332c24_1"
+    },
+    {
+        "source_sentence": "在虛空中經行者。",
+        "translation": "He's walking in space, and he's reciting sūtras.",
+        "source": "T12n0364_001:0332c26_2"
+    },
+    {
+        "source_sentence": "其間有未得須陀洹者，因是得須陀洹；",
+        "translation": "Among them, there are those who have not yet attained the state of stream-enterer because of this attainment.",
+        "source": "T12n0364_001:0332c27_0"
+    },
+    {
+        "source_sentence": "未得斯陀含者，因是得斯陀含；",
+        "translation": "Those who have not yet attained the state of once-returning will attain it as a result.",
+        "source": "T12n0364_001:0332c27_1"
+    },
+    {
+        "source_sentence": "未得阿那含者，得阿那含；",
+        "translation": "Those who haven’t yet attained andgaminhood will attain andgaminhood.",
+        "source": "T12n0364_001:0332c28_2"
+    },
+    {
+        "source_sentence": "未得阿羅漢者，得阿羅漢；",
+        "translation": "Those who have not attained arhatship will attain arhatship.",
+        "source": "T12n0364_001:0332c29_3"
+    },
+    {
+        "source_sentence": "有未得不退轉地菩薩者，乃得不退轉地菩薩。",
+        "translation": "If there are bodhisattvas who haven't yet attained the stage of nonretrogression, then they'll attain the stage of nonretrogressing bodhisattva.",
+        "source": "T12n0364_001:0332c29_4"
+    },
+    {
+        "source_sentence": "各隨其質而有所得，莫不欣然適意而悅。」",
+        "translation": "Each one has gained something according to their quality, and no one isn't delighted or pleased with what they like.",
+        "source": "T12n0364_001:0333a01_5"
+    },
+    {
+        "source_sentence": "佛說大阿彌陀經卷上",
+        "translation": "Foshuo daamiduo jing, vol. 1",
+        "source": "T12n0364_001:0333a03_0"
+    }
+]

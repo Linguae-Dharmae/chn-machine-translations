@@ -1,0 +1,3077 @@
+[
+    {
+        "source_sentence": "偷迦遮復彌經晉名修行道地",
+        "translation": "Puṣkarasārin-sūtra is called the stage of the path of cultivation in Jin.",
+        "source": "T15n0606_001:0181c12_0"
+    },
+    {
+        "source_sentence": "卷第一(并序)",
+        "translation": "Vol. 1 (with preface)",
+        "source": "T15n0606_001:0181c13_0"
+    },
+    {
+        "source_sentence": "造立《修行道地經》者，天竺沙門，厥名眾護，出于中國聖興之域，幼學大業洪要之典，",
+        "translation": "The founder of the Sutra on the Stages of the Path of Cultivation was a śramaṇa named Sanghaprabha from India, born in the holy and prosperous domain of China. As a young boy he studied the scriptures of the Great Vehicle (Mahayana-sutra), which contained extensive essential teachings.",
+        "source": "T15n0606_001:0181c15_0"
+    },
+    {
+        "source_sentence": "通盡法藏十二部經，三達之智靡不貫博，鈎玄致妙能體深奧，以大慈悲弘益眾生，",
+        "translation": "He comprehended all twelve kinds of scriptures of the Tripiṭaka of the Teaching, and his threefold knowledge penetrated widely. He was entangled in the profound but subtle; he had great compassion and benefited sentient beings by means of his great compassion.",
+        "source": "T15n0606_001:0181c16_1"
+    },
+    {
+        "source_sentence": "助明大光照悟盲冥，敘尊甘露蕩蕩之訓，權現真人，其實菩薩也！",
+        "translation": "It helps to clarify that the great luminosity illuminates and awakens the blind, describes the teaching of the venerable Amṛta's vast expanse, and rightly presents a real person who is really a bodhisattva!",
+        "source": "T15n0606_001:0181c18_2"
+    },
+    {
+        "source_sentence": "愍念後賢庶幾道者，儻有力劣不能自前，故總眾經之大較，建易進之徑路，",
+        "translation": "Because of the debilitating power and weakness of the later wise and common people, they were unable to advance on their own. Therefore, in order to summarize the great comparability of all scriptures and establish an easy path of progress, the Buddha said:",
+        "source": "T15n0606_001:0181c20_3"
+    },
+    {
+        "source_sentence": "分別五陰成敗所趣，變起幾微生死之苦，勸迷勵惑，故作斯經。",
+        "translation": "This sūtra is composed because it discerns the destinies of the five aggregates as becoming and decaying, how many subtle forms of suffering that arise in birth-and-death are produced, and encourages delusion and induces mental disturbances.",
+        "source": "T15n0606_001:0181c22_4"
+    },
+    {
+        "source_sentence": "雖文約而義豐，採喻遠近，防制奸心，但以三昧禪數為務，解空歸無，",
+        "translation": "Although the text is concise, its meaning is extensive. It collects metaphors from distant and near to counteract thoughts of malice but with concentration and absorption foremost; it understands emptiness and returns it to nonexistence.",
+        "source": "T15n0606_001:0181c23_5"
+    },
+    {
+        "source_sentence": "眾想為宗，真可謂離患之至寂，無為之道哉！",
+        "translation": "It's true that the doctrine of all conceptions is to be called freedom from affliction and ultimate quiescence, which is the path of nothingness!",
+        "source": "T15n0606_001:0181c25_6"
+    },
+    {
+        "source_sentence": "修行道地經卷第一",
+        "translation": "Sutra of the Stages of Cultivation of the Way, Volume 1",
+        "source": "T15n0606_001:0182a02_0"
+    },
+    {
+        "source_sentence": "西晉三藏竺法護譯",
+        "translation": "Translated by the Western Jin Tripiṭaka Zhu Fahou",
+        "source": "T15n0606_001:0182a04_0"
+    },
+    {
+        "source_sentence": "集散品第一",
+        "translation": "the first in the chapter on accumulation and dispersal",
+        "source": "T15n0606_001:0182a05_0"
+    },
+    {
+        "source_sentence": "　厥元由顯興，　　灼灼踰日光，",
+        "translation": "It was originally due to the appearance of the Buddha, Who surpassed the light of the sun in its glow.",
+        "source": "T15n0606_001:0182a06_0"
+    },
+    {
+        "source_sentence": "　德積甚巍巍，　　勝於帝王種。",
+        "translation": "Their accumulation of virtue is so lofty and majestic That it surpasses the emperor’s lineage.",
+        "source": "T15n0606_001:0182a07_0"
+    },
+    {
+        "source_sentence": "　諸天及神仙，　　專精暴露成，",
+        "translation": "The gods and holy ones Who concentrate their efforts on revealing the truth.",
+        "source": "T15n0606_001:0182a08_0"
+    },
+    {
+        "source_sentence": "　多學博眾義，　　咸皆禮最安。",
+        "translation": "Many learners are well versed in many doctrines, and they all venerate the most peaceful.",
+        "source": "T15n0606_001:0182a09_0"
+    },
+    {
+        "source_sentence": "　天人龍鬼神，　　在世而精進，",
+        "translation": "Gods, humans, dragons, ghosts, and spirits live in the world but they exert effort.",
+        "source": "T15n0606_001:0182a10_0"
+    },
+    {
+        "source_sentence": "　奉迎於世尊，　　三界無等倫。",
+        "translation": "I greet the World-honored One, Who has no equal in the three worlds.",
+        "source": "T15n0606_001:0182a11_0"
+    },
+    {
+        "source_sentence": "　濟以無比慧，　　生死懼了除，",
+        "translation": "With incomparable wisdom, he relieves the fear of birth-and-death and removes it.",
+        "source": "T15n0606_001:0182a12_0"
+    },
+    {
+        "source_sentence": "　佛正法眾僧，　　是三德無踰。",
+        "translation": "The buddhas, the true teachings, and the saṃgha are unsurpassed by these three virtues.",
+        "source": "T15n0606_001:0182a13_0"
+    },
+    {
+        "source_sentence": "　當觀此道眼，　　諦說平等法，",
+        "translation": "You should observe this vision of the path, truthfully explaining equanimity.",
+        "source": "T15n0606_001:0182a14_0"
+    },
+    {
+        "source_sentence": "　意採宣尊教，　　猶如出甘露。",
+        "translation": "The intention is to proclaim the teaching of the honored one, just as if he were to produce ambrosia.",
+        "source": "T15n0606_001:0182a15_0"
+    },
+    {
+        "source_sentence": "　或有專修行，　　觀察於世俗，",
+        "translation": "Some people concentrate their practice, Observing the conventional.",
+        "source": "T15n0606_001:0182a16_0"
+    },
+    {
+        "source_sentence": "　眾閙若干種，　　生死之不安。",
+        "translation": "The masses are disturbed in various ways, and birth-and-death is unsettled.",
+        "source": "T15n0606_001:0182a17_0"
+    },
+    {
+        "source_sentence": "　沈溺于世根，　　猶朽車沒泥，",
+        "translation": "They're submerged in the worldly faculties, like a rotten chariot sinking into mud.",
+        "source": "T15n0606_001:0182a18_0"
+    },
+    {
+        "source_sentence": "　不能自拔濟，　　當從經典要。",
+        "translation": "If you can't save yourself, you should follow the essentials of the sūtras.",
+        "source": "T15n0606_001:0182a19_0"
+    },
+    {
+        "source_sentence": "　亦如採諸花，　　愍世是故演，",
+        "translation": "It's also like gathering flowers, which is why it's so popular in the world.",
+        "source": "T15n0606_001:0182a20_0"
+    },
+    {
+        "source_sentence": "　專聽修行經，　　除有令至無。",
+        "translation": "He listens exclusively to the scriptures of practice, Extending what exists and causing what does not exist.",
+        "source": "T15n0606_001:0182a21_0"
+    },
+    {
+        "source_sentence": "於是當講修行道經。",
+        "translation": "He then taught the Sutra of the Path of Cultivation.",
+        "source": "T15n0606_001:0182a22_0"
+    },
+    {
+        "source_sentence": "生死老病憂結啼哭，諸不可意眾惱集會，專修行者在家出學，欲令究竟清淨之法，",
+        "translation": "Birth and death, old age, sickness, sorrow, bondage, lamentation, and weeping—they are assembled together with various unpleasant feelings. Those who practice exclusively at home or at home away from home want to enable them to perfect the pure Dharma.",
+        "source": "T15n0606_001:0182a22_1"
+    },
+    {
+        "source_sentence": "志不轉還遂至甘露，眾患為絕。",
+        "translation": "His resolve didn't change and he returned to the ambrosia, where all his afflictions were cut off.",
+        "source": "T15n0606_001:0182a24_2"
+    },
+    {
+        "source_sentence": "其無救護無所依仰，唯當棄捨一切諸求，是故修行欲離惱者，常當精進奉行此經。",
+        "translation": "They lack rescue and protection, have nothing to rely on, and will simply abandon all their requests. Therefore, those who cultivate the desire to be free of affliction should always diligently practice this sūtra.",
+        "source": "T15n0606_001:0182a25_3"
+    },
+    {
+        "source_sentence": "　墮生老死而憂惱，　　身心所興有眾苦，",
+        "translation": "They fall into birth, old age, and death with grief. The various pains that arise in body and mind are like this:",
+        "source": "T15n0606_001:0182a26_4"
+    },
+    {
+        "source_sentence": "　欲得濟度不復還，　　學修行道莫有厭。",
+        "translation": "Wanting to be liberated and never returning, They study and practice the path without weariness.",
+        "source": "T15n0606_001:0182a26_4"
+    },
+    {
+        "source_sentence": "即說頌曰：何謂無行？",
+        "translation": "He then spoke a verse, What's meant by practicelessness?",
+        "source": "T15n0606_001:0182a26_4"
+    },
+    {
+        "source_sentence": "何謂為行？",
+        "translation": "What's meant by practice?",
+        "source": "T15n0606_001:0182b01_5"
+    },
+    {
+        "source_sentence": "云何修行？",
+        "translation": "How do they cultivate it?",
+        "source": "T15n0606_001:0182b01_6"
+    },
+    {
+        "source_sentence": "云何修行道？",
+        "translation": "What's the path of cultivation?",
+        "source": "T15n0606_001:0182b01_7"
+    },
+    {
+        "source_sentence": "其無行者，謂念淫怒欲害親屬，諸天國土弊友毀戒，習惡麁言聽于不善，",
+        "translation": "The absence of practice means being mindful of sexual misconduct, with the desire to harm one’s kinsmen and relatives. Those in heavenly realms who belong to bad companions violate the precepts, engaging in harsh speech and listening to unwholesome talk.",
+        "source": "T15n0606_001:0182b02_0"
+    },
+    {
+        "source_sentence": "不好學問自輕自慢，興有著想起邪計常，貪樂有身所居之處，習近女色放逸懈怠，",
+        "translation": "They are not fond of learning and self-conceited, give rise to thoughts of attachment, wrong views, and false notions of permanence. They crave the body as a dwelling place for existence and become accustomed to sexual misconduct, indulgence, laziness, and laziness.",
+        "source": "T15n0606_001:0182b03_1"
+    },
+    {
+        "source_sentence": "而著情欲不離怒癡，多緣眾求人捨遠避，縱恣自是放心睡疑，失于精進常懷恐怖，",
+        "translation": "They are attached to feelings and desires, aren't free of anger and delusion, often rely on others to offer support and distance themselves from them, indulge in self-restraint, sleep and doubt, lose effort, and always harbor fear.",
+        "source": "T15n0606_001:0182b05_2"
+    },
+    {
+        "source_sentence": "根門不定追逐眾事，多於言語無有節度，思樂長路反論邪說，樂說戾事順逐非法，",
+        "translation": "Their faculties and approaches are indeterminate, chasing after all things; they often speak words without moderation. They delight in speaking falsehoods for a long time, preferring to say what is against the Dharma and follow what is against the Dharma.",
+        "source": "T15n0606_001:0182b07_3"
+    },
+    {
+        "source_sentence": "遠于道義是謂無行；",
+        "translation": "To be far removed from the meaning of the path is to say that one does not practice.",
+        "source": "T15n0606_001:0182b09_4"
+    },
+    {
+        "source_sentence": "此於無為而不可行。",
+        "translation": "This is something that can't be done in the absence of things.",
+        "source": "T15n0606_001:0182b09_5"
+    },
+    {
+        "source_sentence": "　瞋恚貪欲念害命，　　常有樂身不淨想，",
+        "translation": "Mindfulness of anger and craving harms life, Always having thoughts of bliss and the body being impure.",
+        "source": "T15n0606_001:0182b10_6"
+    },
+    {
+        "source_sentence": "　邪智反順若干瑕，　　佛說是輩不可行。",
+        "translation": "Wrong wisdom is opposed to certain flaws, and the Buddha teaches that this group can't be practiced.",
+        "source": "T15n0606_001:0182b10_6"
+    },
+    {
+        "source_sentence": "於是頌曰：何謂可行？",
+        "translation": "He then composed the verse, What's meant by practicing?",
+        "source": "T15n0606_001:0182b10_6"
+    },
+    {
+        "source_sentence": "不起瞋恚不念加害，親近善友奉戒清淨，言輒以道受教學問，不自輕慢念計無常，",
+        "translation": "They do not become angry or hostile, do not think of harming others, associate with good friends and observe the precepts purely. When they say so, they often receive instruction in the way [of enlightenment]; they do not despise their own self-conceit and think that it is impermanent.",
+        "source": "T15n0606_001:0182b13_7"
+    },
+    {
+        "source_sentence": "苦空非身處於可居，不習女色除其放逸，常志精進滅於塵勞，少食知節救攝身行，",
+        "translation": "Suffering, emptiness, and non-bodies are found in a place where they can live. They do not indulge in women’s sexual desires but rid themselves of their heedlessness. They always strive with energy to extinguish the worldly troubles. They eat sparingly and being restrained by moderation protect their bodily actions.",
+        "source": "T15n0606_001:0182b15_8"
+    },
+    {
+        "source_sentence": "宿夜覺悟斂心不忘，無有狐疑不懷恐怖，寂定根門無有眾緣，所說輒正平等解脫，",
+        "translation": "night after night, he awakened and concentrated his mind without forgetting. He had no doubts or apprehensions and did not harbor fear. At the door of the faculty of absorption in quiescence there were no objects to think about. What he taught was easy and straightforward, impartial liberation.",
+        "source": "T15n0606_001:0182b17_0"
+    },
+    {
+        "source_sentence": "樂于閑居所觀如諦，所未獲法當以懷來，諸可逮法堅持不忘，歡心採取法化之要，",
+        "translation": "They delight in leisurely dwelling and contemplate things as they really are, retaining the teachings they have not yet attained. They hold fast to the doctrine that can be apprehended without forgetting it, joyfully grasping the essentials of the Teaching.",
+        "source": "T15n0606_001:0182b18_1"
+    },
+    {
+        "source_sentence": "於諸衣食而知止足，志存經道而無厭極，習計非常，不樂世間穢食諸想也。",
+        "translation": "He knows moderation regarding clothing and food, aspires to the sūtras and paths without extreme weariness, cultivates unremitting thoughts that are impermanent, and doesn't delight in worldly notions of filthy food.",
+        "source": "T15n0606_001:0182b20_2"
+    },
+    {
+        "source_sentence": "無為之道所為寂然，如是輩法近於無為，是謂可行。",
+        "translation": "The path of nonproductivity is quiescent, and such a group of dharmas are close to nonproductivity, which is called practicable.",
+        "source": "T15n0606_001:0182b22_3"
+    },
+    {
+        "source_sentence": "行在何許？",
+        "translation": "Where is the practice?",
+        "source": "T15n0606_001:0182b23_4"
+    },
+    {
+        "source_sentence": "謂之泥洹。",
+        "translation": "It's called nirvāṇa.",
+        "source": "T15n0606_001:0182b23_5"
+    },
+    {
+        "source_sentence": "　戒淨志樂無我想，　　唯聽經義隨善友，",
+        "translation": "Their morality, purity, aspiration, and non-thought are selfless; They listen only to the meaning of scriptures And follow good companions.",
+        "source": "T15n0606_001:0182b24_6"
+    },
+    {
+        "source_sentence": "　所見審諦如教行，　　佛說此則無為道。",
+        "translation": "What's seen is carefully practiced according to teaching, and the Buddha teaches that this is the path of nothingness.",
+        "source": "T15n0606_001:0182b24_6"
+    },
+    {
+        "source_sentence": "　諸可所趣眾法念，　　定若干意無苦厭，",
+        "translation": "Mindful of the teachings to which one can be directed, He concentrates on certain thoughts without suffering or displeasure.",
+        "source": "T15n0606_001:0182b24_6"
+    },
+    {
+        "source_sentence": "　是為講說德所聚，　　攝定諸根是謂行。",
+        "translation": "These are said to be the faculties that are accumulated by virtue. The faculties of collecting and concentrating are what is called ‘practice’.",
+        "source": "T15n0606_001:0182b24_6"
+    },
+    {
+        "source_sentence": "於是頌曰：何謂修行？",
+        "translation": "The verse then said, What's meant by cultivation?",
+        "source": "T15n0606_001:0182b24_6"
+    },
+    {
+        "source_sentence": "云何為行？",
+        "translation": "What's practice?",
+        "source": "T15n0606_001:0182b29_7"
+    },
+    {
+        "source_sentence": "謂能順行，修習遵奉，是為修行；",
+        "translation": "It is this: being able to follow and practice what is conducive to enlightenment, cultivating and following it; this is enlightenment practice.",
+        "source": "T15n0606_001:0182b29_8"
+    },
+    {
+        "source_sentence": "其修及習，是謂為行。",
+        "translation": "Their cultivation and accumulation are called practice.",
+        "source": "T15n0606_001:0182c01_9"
+    },
+    {
+        "source_sentence": "何謂修行道？",
+        "translation": "By what is the path of religious practice meant?",
+        "source": "T15n0606_001:0182c01_10"
+    },
+    {
+        "source_sentence": "專精寂道是為修行道。",
+        "translation": "To focus on the path of concentration and quiescence is the path of cultivation.",
+        "source": "T15n0606_001:0182c02_0"
+    },
+    {
+        "source_sentence": "其彼修行而有三品：一曰凡夫，二曰學向道，三無所學也。",
+        "translation": "There are three kinds of cultivation: 1. ordinary people, 2. those who train and head for the path, and 3. those who have nothing to learn.",
+        "source": "T15n0606_001:0182c02_1"
+    },
+    {
+        "source_sentence": "所謂凡夫修行，新學舊學未成，為此輩說修行道經；",
+        "translation": "The so-called worldlings who are practising the path of religion but have newly learnt and those who have not mastered their old studies. They preach to these people the scripture on the path of religion.",
+        "source": "T15n0606_001:0182c03_2"
+    },
+    {
+        "source_sentence": "其不學者，以為通達，何所復論。",
+        "translation": "If someone who doesn't study it, they think they understand it, so why would they discuss it again?",
+        "source": "T15n0606_001:0182c05_3"
+    },
+    {
+        "source_sentence": "彼所以謂，修行道地經寂然而觀。",
+        "translation": "This is why they say that the scriptures of the stages of the path of cultivation are calm and contemplated.",
+        "source": "T15n0606_001:0182c05_4"
+    },
+    {
+        "source_sentence": "云何寂觀？",
+        "translation": "What's the contemplation of quiescence?",
+        "source": "T15n0606_001:0182c06_5"
+    },
+    {
+        "source_sentence": "趣於沙門四德之果。",
+        "translation": "He's headed for the fruit of the four virtues of the ascetic.",
+        "source": "T15n0606_001:0182c06_6"
+    },
+    {
+        "source_sentence": "云何四德？",
+        "translation": "What are the four virtues?",
+        "source": "T15n0606_001:0182c07_7"
+    },
+    {
+        "source_sentence": "謂為有餘泥洹之界。",
+        "translation": "It's the realm of nirvāṇa with remainder.",
+        "source": "T15n0606_001:0182c07_8"
+    },
+    {
+        "source_sentence": "云何有餘？",
+        "translation": "What's the remainder?",
+        "source": "T15n0606_001:0182c08_0"
+    },
+    {
+        "source_sentence": "謂其當至無為之界。",
+        "translation": "It means they'll reach the realm of nonproductivity.",
+        "source": "T15n0606_001:0182c08_1"
+    },
+    {
+        "source_sentence": "云何當至無為之界？",
+        "translation": "How will they reach the realm of nothingness?",
+        "source": "T15n0606_001:0182c08_2"
+    },
+    {
+        "source_sentence": "謂眾苦本一切除盡。",
+        "translation": "It means that the root of all suffering is completely extinguished.",
+        "source": "T15n0606_001:0182c09_3"
+    },
+    {
+        "source_sentence": "是故行者欲捨一切劇苦之惱，常當專精不興異行，不傷教禁修建寂觀；",
+        "translation": "Therefore, if practitioners want to abandon all the torments of suffering, they should always concentrate their efforts without engaging in heretical practices and without harming or teaching others.",
+        "source": "T15n0606_001:0182c09_4"
+    },
+    {
+        "source_sentence": "假使行者毀戒傷教，不至寂觀，唐捐功夫。",
+        "translation": "Suppose a practitioner violates the precepts and teaches harmful things, doesn't go to the silent contemplation, and loses his effort.",
+        "source": "T15n0606_001:0182c11_5"
+    },
+    {
+        "source_sentence": "譬如有人鑽木求火，數數休息而不專一，終不致之，既不獲火唐勞其功；",
+        "translation": "Good man, this is analogous to someone who drills wood for fire and repeatedly rests but does not concentrate his efforts on one or the other. In the end he will not get it; since he has not obtained the fire, how can he do so?",
+        "source": "T15n0606_001:0182c12_6"
+    },
+    {
+        "source_sentence": "其懈怠心欲求無為，譬猶亦然。",
+        "translation": "It's likewise with a lazy mind that wants to pursue nonproductivity.",
+        "source": "T15n0606_001:0182c13_7"
+    },
+    {
+        "source_sentence": "　常得寂然行於定，　　當捨憍慢及輕戲，",
+        "translation": "He always attains quiescence and practices concentration, relinquishing conceit and frivolity.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　以奉修行莫毀失，　　譬如冥夜開目行。",
+        "translation": "Because of their devotion, they cultivate practice and don't disparage it, like opening their eyes at night in the darkness.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　如是行者見所趣，　　智慧若斯精進前，",
+        "translation": "Such a practitioner sees what he’s aiming for, and if his wisdom comes before his effort,",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　奉于正化未曾懈，　　乃致靜漠無為道。",
+        "translation": "Being devoted to correct teaching without laziness, they attain the unconditioned path of quiescence and indifference.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　徹覩眾玄微妙事，　　觀採大德所說教，",
+        "translation": "He thoroughly investigates all mysterious and subtle things, Observing what the great virtuous one teaches.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　此經洪訓名寂觀，　　吾鈔眾經以演說。",
+        "translation": "This sūtra's vast teaching is called the silent contemplation, and I compiled a collection of scriptures to explain it.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　從若干經採明要，　　立不老死甘露言，",
+        "translation": "To gather the essential points of illumination from various scriptures, he establishes the ambrosia of immortality of not old age and death.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　耳所聽聞明者行，　　清淨之慧除垢冥。",
+        "translation": "What the ear hears and hears with clarity is practiced by the wise, whose pure wisdom removes dirt and darkness.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　入於寂然若日光，　　譬如月行照眾星，",
+        "translation": "Entering into the stillness like the sunlight, Like the moon moving and shining on all the stars.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　已獲度世當受教，　　是盛無量如秋月。",
+        "translation": "Having saved the world and will receive its teachings, it flourishes without measure like an autumn moon.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　恭奉羅漢而稽首，　　能仁如空頭面禮，",
+        "translation": "They honored the Buddha, bowed their heads and faces, And venerated him as if he were an empty space.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　歸命巍巍獲甘露，　　除世根芽種種欲。",
+        "translation": "Taking refuge in the majestic, he obtains the ambrosia of immortality, Removing worldly roots and sprouts and various desires.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　生若干種之果實，　　欣樂憂慼為諸枝，",
+        "translation": "It produces various kinds of fruit, Delight and sorrow being its branches.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "　佛解五陰而本無，　　當觀眾經從其原。",
+        "translation": "The Buddha understands that the five aggregates are originally nonexistent, so you should observe the sūtras from their source.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "於是頌曰：修行道地經五陰本品第二修行道者，當復觀身五陰之本。",
+        "translation": "The second chapter of the sutra on the five aggregates of the path of cultivation is to contemplate the five aggregates of the body.",
+        "source": "T15n0606_001:0182c14_8"
+    },
+    {
+        "source_sentence": "色、痛、想、行、識，是謂五陰也。",
+        "translation": "Form, pain, perception, volition, and consciousness are the five aggregates.",
+        "source": "T15n0606_001:0183a01_9"
+    },
+    {
+        "source_sentence": "譬如有城若干家居，東西南北合乃為城。",
+        "translation": "It's like when a city has several houses, and east, west, south, and north are combined into a city.",
+        "source": "T15n0606_001:0183a02_10"
+    },
+    {
+        "source_sentence": "色亦如是，亦不一色為色陰也；",
+        "translation": "Form is also like this: it is not that one form is the aggregate of form.",
+        "source": "T15n0606_001:0183a03_11"
+    },
+    {
+        "source_sentence": "痛、想、行、識亦復如此。",
+        "translation": "So it is with pain, perception, volition, and consciousness.",
+        "source": "T15n0606_001:0183a03_12"
+    },
+    {
+        "source_sentence": "非但一識名為識陰，彼有十入，或色觀法，是為色陰也。",
+        "translation": "Not only is one consciousness called the aggregate of consciousness, but there are ten sense-fields in it, or form and contemplation dharma, which are the form aggregate.",
+        "source": "T15n0606_001:0183a04_13"
+    },
+    {
+        "source_sentence": "八百痛樂名之痛陰，想、行、識陰各有八百，乃名為陰。",
+        "translation": "The eight hundred forms of pain and pleasure are named the aggregate of pain. The aggregates of feeling, volition and consciousness each have eight hundred forms:",
+        "source": "T15n0606_001:0183a05_14"
+    },
+    {
+        "source_sentence": "解五陰本亦當如斯。",
+        "translation": "Understanding the root of the five aggregates should also be like this.",
+        "source": "T15n0606_001:0183a06_15"
+    },
+    {
+        "source_sentence": "　色痛想行識，　　五陰之所起，",
+        "translation": "Form, pain, ideation, volition, and consciousness are produced by the five aggregates.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　譬如有大城，　　若干家名色。",
+        "translation": "It's like a large city that has several names and forms of families.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　非一色為色，　　凡有十色入，",
+        "translation": "The ten material āyatanas are not the same color as one color:",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　痛樂有八百，　　想行識亦爾。",
+        "translation": "There are eight hundred forms of pain and pleasure. The same is true for conceptual identification, volition, and consciousness.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　慧人解此法，　　若干乃名陰，",
+        "translation": "A wise person understands this teaching, and a certain number of them are called an aggregate.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　分別知非一，　　行者之所念。",
+        "translation": "Discrimination and knowledge are not one and the same: This is what practitioners think.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　合集眾事而相連，　　用離慧言捨佛教，",
+        "translation": "Together they gather all things and link them, using the words of detachment from wisdom to abandon Buddhism.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　習於愚癡不了了，　　譬如有樹多枝葉，",
+        "translation": "They are accustomed to ignorance and do not understand. Like a tree with many branches and leaves,",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　其五觚生而分布，　　無巧便種亦如是，",
+        "translation": "The five arrowheads arise and are distributed, As well as the skilllessly planted sowing.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　當了五陰為若斯，　　黠人解慧明知此。",
+        "translation": "You should understand that the five aggregates are like this, and clever people of understanding and wisdom clearly know it.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　所以生長有姓地，　　所講法言如蜜塗，",
+        "translation": "That's why they grow in the land of having a family name, and the words taught are like honey-smearing mud.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　比丘譬蜂採華味，　　猶若蓮華之開剖。",
+        "translation": "The monk is like a bee picking the taste of flowers, Like opening and cutting lotus blossoms.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　其慧覺了勝日出，　　佛復超越勝蓮花，",
+        "translation": "His wisdom awakened to the superior sunrise, and the Buddha again surpassed the superior lotus flower.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　佛之清潔無所著，　　是故稽首歸命尊。",
+        "translation": "The Buddha is pure and unattached, so he pays homage to the venerable by bowing his head.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　其相淡然達無礙，　　寂寞無想而得定，",
+        "translation": "Their characteristics are light and unobstructed, And they attain concentration in the absence of thought or ideation.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　未曾有退還墮落，　　而以救濟至無為。",
+        "translation": "Never has anyone withdrew or fallen away And yet, to rescue them, they reach the unconditioned.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　秉意將導而示現，　　教訓群萌如己行，",
+        "translation": "He holds the intention to lead and show, Teaching all sentient beings according to their actions.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "　以愍傷吾是故說，　　乃為當來眾生類。",
+        "translation": "Because of pitying me, I'll explain it for the sake of future sentient beings.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "於是頌曰：修行道地經五陰相品第三其修行者當解五陰相。",
+        "translation": "Thereupon, the verse said, The third chapter of the Sutra on the Cultivation of the Five Consciousnesses says, Those who cultivate it will understand the characteristics of the five aggregates.",
+        "source": "T15n0606_001:0183a07_16"
+    },
+    {
+        "source_sentence": "云何各知五陰之相？",
+        "translation": "How do they each know the characteristics of the five aggregates?",
+        "source": "T15n0606_001:0183a27_17"
+    },
+    {
+        "source_sentence": "有光明為色，有像相亦復為色，手所獲持亦名為色，若示他人亦復是色也。",
+        "translation": "When there's light, form is form, and when there's an image, form is also form; what's held by the hand is also called form, and if it's shown to others, form is also form.",
+        "source": "T15n0606_001:0183a28_0"
+    },
+    {
+        "source_sentence": "習樂為痛，不樂、不苦亦復是痛，是為痛想也。",
+        "translation": "Accumulating pleasure is painful, and neither pleasure nor pain is painful, which is the perception of pain.",
+        "source": "T15n0606_001:0183a29_1"
+    },
+    {
+        "source_sentence": "識相為想，若男、若女及餘眾物，是曰思想。",
+        "translation": "Consciousness is characterized as perception, and whether it's male, female, or other things, this is called perception.",
+        "source": "T15n0606_001:0183a30_2"
+    },
+    {
+        "source_sentence": "有所造作名之為行，若作善行、若作惡行，亦不善惡，是謂為行。",
+        "translation": "What's created and done is called practice, and what's done that's good or bad, which isn't good or bad, is called practice.",
+        "source": "T15n0606_001:0183b01_3"
+    },
+    {
+        "source_sentence": "曉想為識，善、不善、亦非有善亦非不善，曉是為識。",
+        "translation": "Knowing that conceptions are consciousnesses, which are good, bad, and neither good nor bad, and knowing that they are consciousnesses.",
+        "source": "T15n0606_001:0183b03_4"
+    },
+    {
+        "source_sentence": "如是各了五陰之相。",
+        "translation": "Each of these thus understands the characteristics of the five aggregates.",
+        "source": "T15n0606_001:0183b04_5"
+    },
+    {
+        "source_sentence": "　色者不安多瑕穢，　　佛說經教實如應，",
+        "translation": "Form is unstable and mostly defiled. The Buddha teaches the scriptures as they really are.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "　如其所言隨順行，　　分別五陰若干相。",
+        "translation": "In accordance with what they say, they discriminate the various characteristics of the five aggregates.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "　而以甘露滅盛火，　　消除五陰諸苦本，",
+        "translation": "Instead, he uses the ambrosia of immortality to extinguish the blazing fire and remove the root of suffering in the five aggregates.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "　其慧光明喻日光，　　三界普奉吾亦歸。",
+        "translation": "The light of his wisdom is likened to the sunlight, and I will also return if you universally serve me in the three realms.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "　佛能仁尊深慧力，　　解了清淨之智黠，",
+        "translation": "The Buddha can be benevolent and honored by the power of profound wisdom, Understanding pure knowledge and intelligence.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "　順其所知而現義，　　採佛法教隨應說。",
+        "translation": "In accordance with what they know, they manifest their meanings, collecting the Buddha's teachings and teachings as appropriate.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "　當分別解聽其講，　　今者導彼順定意，",
+        "translation": "You should discern and understand the meaning of what they teach. Now I will lead them to conform to your state of concentration.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "　別了五陰本所興，　　博引眾義善思之。",
+        "translation": "Understanding what the five aggregates originally produce, they extensively cite their meanings and well consider them.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "於是頌曰：修行道地經分別五陰品第四其修行者當分別了五陰行本。",
+        "translation": "The fourth chapter of the Sutra on the Cultivation of the Path of Meditation discerns the five aggregates, and those who cultivate it will discern the basis of the practice of the five aggregates.",
+        "source": "T15n0606_001:0183b04_6"
+    },
+    {
+        "source_sentence": "何謂曉了五陰之本？",
+        "translation": "What's meant by understanding the source of the five aggregates?",
+        "source": "T15n0606_001:0183b14_7"
+    },
+    {
+        "source_sentence": "譬如四衢墮貫真珠，有人見之，意中欣然欲往斂取。",
+        "translation": "It's like a real pearl that falls through the four quarters and is viewed by people who are delighted with joy in their minds and want to go and collect it.",
+        "source": "T15n0606_001:0183b15_8"
+    },
+    {
+        "source_sentence": "其人目見真珠之貫謂應色陰，愛樂可意是謂痛陰，初始見之識是貫珠名為想陰，",
+        "translation": "That person's eyes see the true pearl as penetrating, which is called the form aggregate, and what's pleasant and desirable is called the pain aggregate. The first time he sees it, his consciousness penetrates this pearl and calls it the perception aggregate.",
+        "source": "T15n0606_001:0183b16_9"
+    },
+    {
+        "source_sentence": "其人生意欲取貫珠是為行陰，分別貫珠是為識陰，如是五陰。",
+        "translation": "That person's business wants to take the penetrating pearl as the aggregate of volition, and the penetrating pearl of discrimination is the aggregate of consciousness, which are the five aggregates.",
+        "source": "T15n0606_001:0183b18_10"
+    },
+    {
+        "source_sentence": "如是五陰，如一貫珠一時俱行，造若干行，若從心出，如一貫珠同時俱興，",
+        "translation": "In this way, the five aggregates arise at one and the same time: just as the unified pearl simultaneously proceeds at one and the same time. It creates certain formations.",
+        "source": "T15n0606_001:0183b19_11"
+    },
+    {
+        "source_sentence": "退從五陰。",
+        "translation": "They regress from the five aggregates.",
+        "source": "T15n0606_001:0183b21_12"
+    },
+    {
+        "source_sentence": "一切諸人亦復如是，目所見色五陰皆從，如是耳聲、鼻香、舌味、身更、心法，",
+        "translation": "And so it is with the five aggregates of matter seen by the eye: sound, odor, taste, touch, and mental states.",
+        "source": "T15n0606_001:0183b21_13"
+    },
+    {
+        "source_sentence": "心中四陰為無色陰。",
+        "translation": "The four aggregates in the mind are formless aggregates.",
+        "source": "T15n0606_001:0183b23_14"
+    },
+    {
+        "source_sentence": "如是為別五陰之本。",
+        "translation": "Thus, these are the distinctive roots of the five aggregates.",
+        "source": "T15n0606_001:0183b23_15"
+    },
+    {
+        "source_sentence": "　無極之德分別說，　　如其所講經中義，",
+        "translation": "Unexcelled qualities teach distinctly, According to the meanings of the scriptures they teach.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "　貪欲者迷不受教，　　吾今順法承其講。",
+        "translation": "Those who are addicted to desire are deluded and won't accept the teaching, so now I'll follow the teaching and accept it.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "　明智之無世尊要，　　調順無低獲其際，",
+        "translation": "The Buddha’s knowledge and wisdom are not essential to the World-honored One, And his discipline is unexcelled.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "　已超境界無邊岸，　　稽首世尊稱無量。",
+        "translation": "Having transcended the boundless shore of objective realm, they bowed their heads to the Bhagavān and called him immeasurable.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "　所講猶日明，　　照弟子若茲，",
+        "translation": "What I teach is like the sun at dawn, shining on my disciples like this.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "　了知于塵勞，　　除畏如萎華。",
+        "translation": "Knowing that the world is like a withered flower Removing fear and suffering from defilement.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "　其覩諸起滅，　　了五陰成敗，",
+        "translation": "They see the arising and ceasing, Understanding the formation and decay of the five aggregates.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "　願稽首彼佛，　　聽我說尊言。",
+        "translation": "May you pay homage to that buddha and hear me speak these words of honor.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "於是頌曰：修行道地經五陰成敗品第五修行道者當知五陰成敗之變。",
+        "translation": "The fifth chapter of the Sutra on the Stages of Cultivation of the Path of Practice explains the transformations that occur in the formation and decay of the five aggregates.",
+        "source": "T15n0606_001:0183b24_16"
+    },
+    {
+        "source_sentence": "何謂當知五陰成敗？",
+        "translation": "What are the five aggregates of formation and decay that should be known?",
+        "source": "T15n0606_001:0183c04_17"
+    },
+    {
+        "source_sentence": "譬若如人命欲終時，逼壽盡故，其人身中四百四病前後稍至，便值多夢而覩瑞怪，",
+        "translation": "Good man, it is analogous to the fact that when a person’s life is about to end because of the constraint imposed by the exhaustion of life, four hundred and forty-four illnesses will appear in that person’s body before or after his death. Then he will experience many nightmares like thunder and lightning.",
+        "source": "T15n0606_001:0183c05_18"
+    },
+    {
+        "source_sentence": "而懷驚恐；",
+        "translation": "They were frightened and fearful.",
+        "source": "T15n0606_001:0183c07_19"
+    },
+    {
+        "source_sentence": "夢見蜜蜂、烏鵲、鵰鷲住其頂上，覩眾住堂在上娛樂，身所著衣青、黃、白、黑，",
+        "translation": "In a dream he saw honey bees, crows, magpies, and eagles standing on the top of their heads. All the monks in the assembly hall were staying there to entertain themselves. Their clothes they wore were blue, yellow, white, and black.",
+        "source": "T15n0606_001:0183c07_20"
+    },
+    {
+        "source_sentence": "騎亂[馬*毛]馬而復嗚呼；",
+        "translation": "They rode the scattered horses and cried out in distress.",
+        "source": "T15n0606_001:0183c08_21"
+    },
+    {
+        "source_sentence": "夢枕大狗，又枕獼猴，在土上臥；",
+        "translation": "In a dream the great dog was cushioned and the rhesus monkey was also cushioned, lying on the ground.",
+        "source": "T15n0606_001:0183c09_22"
+    },
+    {
+        "source_sentence": "夢與死人、屠魁、除溷者共一器食，同乘遊觀；",
+        "translation": "In a dream he shared a container of food with the dead, butchers and slaughterers, as well as those free from hunger. They traveled together in the same carriage to enjoy the excursion.",
+        "source": "T15n0606_001:0183c10_23"
+    },
+    {
+        "source_sentence": "或以麻油及脂醍醐自澆其身，又服食之，數數如是；",
+        "translation": "Sometimes he pours sesame oil and sour cream over his own bodies, and again and again he eats it.",
+        "source": "T15n0606_001:0183c11_24"
+    },
+    {
+        "source_sentence": "見蛇纏身，倒掣入水；",
+        "translation": "He saw a snake tethering his body and pulling it back into the water.",
+        "source": "T15n0606_001:0183c12_25"
+    },
+    {
+        "source_sentence": "或自覩身歡喜踊躍，拍髀戲笑；",
+        "translation": "Or they may see their own bodies blistering and jumping with joy, stamping and laughing.",
+        "source": "T15n0606_001:0183c12_26"
+    },
+    {
+        "source_sentence": "或自覩之華飾墮灰，以灰坌身復取食之；",
+        "translation": "Or they may ornament themselves with garlands of flowers and fall into ashes, or take them again from their bodies covered with ashes and eat them.",
+        "source": "T15n0606_001:0183c13_27"
+    },
+    {
+        "source_sentence": "或見蟻子，身越其上；",
+        "translation": "Or they may see ants with bodies that go beyond them.",
+        "source": "T15n0606_001:0183c14_28"
+    },
+    {
+        "source_sentence": "或見嚼鹽，狗犬、獼猴，所見追逐各還嚙之；",
+        "translation": "Or they may see dogs, dogs, or rhesus monkeys chewing salt.",
+        "source": "T15n0606_001:0183c14_29"
+    },
+    {
+        "source_sentence": "或見娶婦，又祠家神，見屋崩壞，諸神寺破；",
+        "translation": "Or they may see a married woman and other deities in the houses of worship, or they may see their houses collapse and all the deities’ temples break down.",
+        "source": "T15n0606_001:0183c15_30"
+    },
+    {
+        "source_sentence": "夢見耕犁，犁墮鬚髮；",
+        "translation": "In a dream he saw the plowmen with hair on their beard.",
+        "source": "T15n0606_001:0183c16_31"
+    },
+    {
+        "source_sentence": "或時牙齒而自墮地，又著伍白衣；",
+        "translation": "Sometimes he would fall to the ground with his teeth, wearing white clothes.",
+        "source": "T15n0606_001:0183c17_32"
+    },
+    {
+        "source_sentence": "或見己身倮跣而行，麻油塗身，宛轉土中；",
+        "translation": "Or they may see their bodies crude and walk, coated with oil or rubbed with hemp ointments, hovering in the dirt.",
+        "source": "T15n0606_001:0183c18_33"
+    },
+    {
+        "source_sentence": "夢服皮草弊壞之衣；",
+        "translation": "In a dream he wore robes made of leather, grass, and broken cloth.",
+        "source": "T15n0606_001:0183c19_34"
+    },
+    {
+        "source_sentence": "夢見他人乘朽敗車，到其門戶欲迎之去；",
+        "translation": "In a dream he saw another man riding in a decayed chariot, approaching the door and wanting to greet him.",
+        "source": "T15n0606_001:0183c19_35"
+    },
+    {
+        "source_sentence": "或見眾花甲煎諸香，親屬取之以嚴其身，先祖為現顏色青黑，呼前捉抴，",
+        "translation": "Some see various kinds of fragrant flower garlands, and their relatives take them to adorn their bodies. Their forefathers appear blue-and-black in color and call out to the front to grab the garland.",
+        "source": "T15n0606_001:0183c20_36"
+    },
+    {
+        "source_sentence": "數作此夢；",
+        "translation": "I often had these dreams.",
+        "source": "T15n0606_001:0183c22_37"
+    },
+    {
+        "source_sentence": "遊丘塜間拾取華瓔，及見赤蓮華落在頸，墮大河中為水所漂；",
+        "translation": "In the distance between the hills he picked up a flower necklace and saw red lotus blossoms on his neck. He fell into a big river and was driven by the water.",
+        "source": "T15n0606_001:0183c22_38"
+    },
+    {
+        "source_sentence": "夢倒墮水五湖九江，不得其底；",
+        "translation": "In a dream he fell into the water of five lakes and nine rivers but could not reach their bottom.",
+        "source": "T15n0606_001:0183c23_39"
+    },
+    {
+        "source_sentence": "或見其身入諸叢林，無有華果，而為荊棘鉤壞軀體，以諸瓦石鎮其身上；",
+        "translation": "Or they may see their bodies enter forests without flowers or fruits, yet their bodies are broken apart by thorns and hooks, covered with tiles and stones.",
+        "source": "T15n0606_001:0183c24_40"
+    },
+    {
+        "source_sentence": "或見枯樹都無枝葉，夢緣其上而獨戲樂，在於廟壇而自搏舞；",
+        "translation": "Or they may see withered trees without branches or leaves. In a dream they sleep on top of them, playing and frolicking alone, or dancing and wrestling among themselves at the shrines and altar sites.",
+        "source": "T15n0606_001:0183c26_41"
+    },
+    {
+        "source_sentence": "或見叢樹，獨樂其中欣欣大笑，折取枯枝束負持行；",
+        "translation": "Sometimes they see clusters of trees, enjoying themselves in them alone and laughing joyfully. They pull down a bundle of withered branches and carry it on their backs.",
+        "source": "T15n0606_001:0183c27_42"
+    },
+    {
+        "source_sentence": "或入冥室，不知戶出；",
+        "translation": "Or they may enter a dark room but do not know the door or exit.",
+        "source": "T15n0606_001:0184a01_43"
+    },
+    {
+        "source_sentence": "又上山嶽巖穴之中，不知出處；",
+        "translation": "Again, on the mountain they climbed up into a deep cave and did not know where to get out.",
+        "source": "T15n0606_001:0184a02_44"
+    },
+    {
+        "source_sentence": "復見山崩，鎮己身上，悲哭號呼；",
+        "translation": "They also saw the mountain crumble and they grieved, weeping and wailing in distress.",
+        "source": "T15n0606_001:0184a03_0"
+    },
+    {
+        "source_sentence": "或見群象忽然來至，躡蹈其身；",
+        "translation": "Or they may see a herd of elephants suddenly arrive, stamping on their bodies.",
+        "source": "T15n0606_001:0184a03_1"
+    },
+    {
+        "source_sentence": "夢見土塵坌其身首，或著弊衣行於曠野；",
+        "translation": "In a dream he saw the dust of dirt on his body and head, or he might be dressed in rags and walking in the wilderness.",
+        "source": "T15n0606_001:0184a04_2"
+    },
+    {
+        "source_sentence": "夢見乘虎而暴奔走，或乘驢狗而南遊行；",
+        "translation": "In a dream he saw her riding on a tiger and running wildly, or traveling southward in a donkey or dog.",
+        "source": "T15n0606_001:0184a05_3"
+    },
+    {
+        "source_sentence": "入於塜間收炭爪髮，自見其身戴於枯華，引入大山，閻王見問。",
+        "translation": "When he entered the cave and collected his charcoal nails, he saw himself carrying a dried-up flower on his body and leading it into the great mountain.",
+        "source": "T15n0606_001:0184a06_4"
+    },
+    {
+        "source_sentence": "　處世多安樂，　　命對至乃怖，",
+        "translation": "They live in the world with much peace and happiness, but when their lives confront them, they're frightened.",
+        "source": "T15n0606_001:0184a07_5"
+    },
+    {
+        "source_sentence": "　為疾所中傷，　　逼困不自在。",
+        "translation": "They're wounded by an illness, and they're oppressed and unable to control themselves.",
+        "source": "T15n0606_001:0184a07_5"
+    },
+    {
+        "source_sentence": "　心熱憂惱至，　　見夢懷恐懼，",
+        "translation": "Their minds become feverish and distressed, And they see dreams and harbor fear.",
+        "source": "T15n0606_001:0184a07_5"
+    },
+    {
+        "source_sentence": "　猶惡人見逐，　　憂畏亦如是。",
+        "translation": "It's like a bad person who sees and chases, and so is grief and fear.",
+        "source": "T15n0606_001:0184a07_5"
+    },
+    {
+        "source_sentence": "於是頌曰：其人心覺已，心懷恐怖身體戰慄，計命欲盡，審爾不疑：「今吾所夢自昔未有。」",
+        "translation": "He then composed a verse, saying, After his mind was awakened, his mind became frightened and his body trembled, and he thought his life was about to end, so he judged you without doubt, Now, I've never had a dream like this since the distant past.",
+        "source": "T15n0606_001:0184a07_5"
+    },
+    {
+        "source_sentence": "以意懅故，衣毛為竪，病遂困篤震動不安，譬如猛象、群眾普至踏蹈芭蕉，",
+        "translation": "Because his mind was weary, his hair stood on end and his hair stood on end. As a consequence he became ill and suffered greatly from distress. He trembled with trembling uneasiness, resembling a wild elephant or a massed heron stamping over a plantain tree.",
+        "source": "T15n0606_001:0184a14_6"
+    },
+    {
+        "source_sentence": "病轉著床其譬如是；",
+        "translation": "It is like the analogy of a sick man lying on a bed.",
+        "source": "T15n0606_001:0184a16_7"
+    },
+    {
+        "source_sentence": "窮迫無計便求歸醫，昆弟、族親見困如此，遣人呼醫，所可遣人；",
+        "translation": "When they are overcome with extreme poverty and oppressed by unremitting hunger, they seek refuge in the physician. Seeing this kind of distress from their kinsmen and clanspeople, they send someone to call for a physician.",
+        "source": "T15n0606_001:0184a16_8"
+    },
+    {
+        "source_sentence": "體多垢穢，衣被弊壞，或手爪長戴裂繖蓋，其足履決木跂屣破，乘朽壞車，",
+        "translation": "Their bodies are mostly dirty, and their clothes are covered with rags. Some of them wear long patched canopies on their hands or nails; the soles of their feet are made of broken pieces of wood. They ride in decaying carts.",
+        "source": "T15n0606_001:0184a18_9"
+    },
+    {
+        "source_sentence": "顏色正黑兩眼復青，而數以手摩抆鬚髮；",
+        "translation": "His complexion was pure black and his eyes were blue, but he frequently stroked his hair and beard with his hands.",
+        "source": "T15n0606_001:0184a20_10"
+    },
+    {
+        "source_sentence": "所可駕牛，或青或黑，又有正白。",
+        "translation": "The cow that can be driven is either blue or black, and there are also right and left.",
+        "source": "T15n0606_001:0184a21_11"
+    },
+    {
+        "source_sentence": "急急呼醫捉來上車。",
+        "translation": "They quickly called the doctor and brought him to the chariot.",
+        "source": "T15n0606_001:0184a21_12"
+    },
+    {
+        "source_sentence": "　人行遊觀時，　　唯樂無益事，",
+        "translation": "When people walk and wander, they only enjoy useless things.",
+        "source": "T15n0606_001:0184a22_13"
+    },
+    {
+        "source_sentence": "　放恣於所欲，　　未曾念於醫。",
+        "translation": "They indulge in what they want without ever thinking of the doctor.",
+        "source": "T15n0606_001:0184a22_13"
+    },
+    {
+        "source_sentence": "　體適有疾病，　　困篤著床席，",
+        "translation": "When his body is fit to be sick, he's seriously ill and sits on a bed or seat.",
+        "source": "T15n0606_001:0184a22_13"
+    },
+    {
+        "source_sentence": "　然後乃請醫，　　欲令療其疾。",
+        "translation": "Then he asked a physician to treat his illness.",
+        "source": "T15n0606_001:0184a22_13"
+    },
+    {
+        "source_sentence": "於是頌曰：於時其醫以意察之，病者必死。",
+        "translation": "He then composed a verse, saying, At the time, that doctor examined it with his mind, and the sick man would surely die.",
+        "source": "T15n0606_001:0184a22_13"
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T15n0606_001:0184a27_14"
+    },
+    {
+        "source_sentence": "見此怪應，視來呼人服色、語言、持壞繖蓋、鬚爪毛亂，又其日惡，若四日、六日、十二日、十四日，",
+        "translation": "On the fourth, the sixth, the twelfth, and the fourteenth [days] when they see this strange response, they look around and call out to people with their colors, words, carriages, broken canopies, hair on their beard, hair on their nails, and hair on their hair.",
+        "source": "T15n0606_001:0184a28_0"
+    },
+    {
+        "source_sentence": "以此日來者皆為不祥，醫即不喜，以觝星宿，失於良時，神仙先聖所禁之日。",
+        "translation": "All the people who came here on that day were inauspicious, and the physician didn't rejoice, so he sat cross-legged with the stars and lost the good time, a day forbidden by the gods and sages and former sages.",
+        "source": "T15n0606_001:0184b01_1"
+    },
+    {
+        "source_sentence": "醫心念言：「雖值此怪星宿吉凶，或可治療。",
+        "translation": "The physician thought to himself, “Even if you meet this strange star or constellation that is auspicious and bad fortuneous, you may be able to treat it.",
+        "source": "T15n0606_001:0184b02_2"
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T15n0606_001:0184b03_3"
+    },
+    {
+        "source_sentence": "雖有病者方便消息，本命未盡想當除愈，若對至者不能令差。",
+        "translation": "Even though there's a sick person with skillful means who has the idea that his original life hasn't ended and he'll be cured, if he confronts someone who arrives, he won't be cured.",
+        "source": "T15n0606_001:0184b03_4"
+    },
+    {
+        "source_sentence": "以是言之，不必在善日星宿吉凶，是故慧人，不從曆日而求良時。",
+        "translation": "Because of this, a wise person doesn't follow the calendar and don't seek good times according to the seasons.",
+        "source": "T15n0606_001:0184b05_5"
+    },
+    {
+        "source_sentence": "神仙常言：『當求方便。』",
+        "translation": "The sage always says, 'Should you seek skillful means?'",
+        "source": "T15n0606_001:0184b06_6"
+    },
+    {
+        "source_sentence": "或風寒病，命未盡者，儻有橫死，是者可治。",
+        "translation": "Or if someone has a cold or wind condition and their life isn't up, and they die uncontrollably. This is treatable.",
+        "source": "T15n0606_001:0184b07_7"
+    },
+    {
+        "source_sentence": "設命應盡，無如之何；",
+        "translation": "If one were to die, there would be nothing like it.",
+        "source": "T15n0606_001:0184b08_8"
+    },
+    {
+        "source_sentence": "雖爾，往而治之，猶勝不行。」",
+        "translation": "Even so, they'll go and treat them, but they won't do it.",
+        "source": "T15n0606_001:0184b08_9"
+    },
+    {
+        "source_sentence": "醫念此已，即起欲去。",
+        "translation": "After the doctor thought this, he immediately got up and wanted to leave.",
+        "source": "T15n0606_001:0184b09_10"
+    },
+    {
+        "source_sentence": "　譬如有二人，　　俱發行入海，",
+        "translation": "It is like the case of two people Who have both set out and entered the ocean.",
+        "source": "T15n0606_001:0184b09_11"
+    },
+    {
+        "source_sentence": "　或有到彼岸，　　或而中斷絕。",
+        "translation": "Some may reach the other shore, or they may be cut off in the middle.",
+        "source": "T15n0606_001:0184b09_11"
+    },
+    {
+        "source_sentence": "　墮于疾病海，　　其譬亦如是，",
+        "translation": "The analogy of falling into the sea of sickness is likewise.",
+        "source": "T15n0606_001:0184b09_11"
+    },
+    {
+        "source_sentence": "　儻時從病差，　　而有更死者。",
+        "translation": "At the time of sickness, they're cured by illness, and there are those who die again.",
+        "source": "T15n0606_001:0184b09_11"
+    },
+    {
+        "source_sentence": "於是頌曰：於是其醫，已到病家，則有惡怪，便聞凶聲，亡失、焚燒、破壞、斷截、剝撥、掣出、恐殺、曳去、發行、拘閉，",
+        "translation": "Then the physician arrives at the house of the sick man and thereupon hears a terrifying sound that kills, burns, injures, breaks up, dismembers, pulls away, threatens to be driven away, releases, or confined.",
+        "source": "T15n0606_001:0184b09_11"
+    },
+    {
+        "source_sentence": "當以占之，不可復療，以為死已。",
+        "translation": "You must divine it so that you won't be able to treat it again and think it's dead.",
+        "source": "T15n0606_001:0184b16_12"
+    },
+    {
+        "source_sentence": "南方狐鳴，或聞烏梟聲，或見小兒以土相坌，而復裸立相挽頭髮，破甖瓶盆及諸器物；",
+        "translation": "In the southern direction the fox cries, and some hear the sound of a crow or an owl. Or they may see small children clinging to each other with dirt, their hair standing on end even naked, breaking open jars, bowls, pots, food containers, and other utensils.",
+        "source": "T15n0606_001:0184b16_13"
+    },
+    {
+        "source_sentence": "見此變已，前省病人，困劣著床。",
+        "translation": "Seeing this change, he went ahead to examine the sick man, who was in distress and lying on his bed.",
+        "source": "T15n0606_001:0184b18_14"
+    },
+    {
+        "source_sentence": "　醫則占視病者相，　　驚怖惶惶而不安，",
+        "translation": "The physician then divined the features of the sick man, terrified and frightened, and unsettled.",
+        "source": "T15n0606_001:0184b19_15"
+    },
+    {
+        "source_sentence": "　或坐或起復著床，　　煩懣熱極如燒皮。",
+        "translation": "Whether he's sitting or rising from his seat or putting himself back on a bed, the afflictions and fever are as intense as burning skin.",
+        "source": "T15n0606_001:0184b19_15"
+    },
+    {
+        "source_sentence": "於是頌曰：醫覩如是，便心念言：「如吾觀歷諸經本末，是則死應：面色惶懅，",
+        "translation": "He then composed a verse, saying: So it is with the doctor’s wound. Then he thought to himself: As I have examined the beginning and end of the scriptures, this should be death:",
+        "source": "T15n0606_001:0184b19_15"
+    },
+    {
+        "source_sentence": "眼睫為亂，身體萎黃，口中涎出，目冥昧昧，鼻孔騫黃，顏彩失色，不聞聲香，",
+        "translation": "Their eyes and eyelashes are distorted, their bodies wither and yellow, saliva appears in their mouths, their eyes are obscure, their nostrils are coarse and dull-colored, their complexion loses its color, and they can’t smell or taste.",
+        "source": "T15n0606_001:0184b23_16"
+    },
+    {
+        "source_sentence": "脣斷舌乾，其貌如地，百脈正青，毛髮皆竪，捉髮搯鼻，都無所覺，喘息不均，",
+        "translation": "Their hair stood on end and their hair stood on end. They looked as if they were standing on the ground, with a hundred veins all shining blue in color. They did not even touch each other’s hair or nose.",
+        "source": "T15n0606_001:0184b25_17"
+    },
+    {
+        "source_sentence": "或遲或疾。」",
+        "translation": "They may be late or sick.",
+        "source": "T15n0606_001:0184b26_18"
+    },
+    {
+        "source_sentence": "　面色則為變，　　毛髮而正竪，",
+        "translation": "The color of the face then becomes different, with hair standing straight up and curled.",
+        "source": "T15n0606_001:0184b27_19"
+    },
+    {
+        "source_sentence": "　直視如所思，　　舌強怪已現；",
+        "translation": "He looked straight ahead, just as he had thought. His tongue was already manifested with a strange voice.",
+        "source": "T15n0606_001:0184b27_19"
+    },
+    {
+        "source_sentence": "　病人有是應，　　餘命少少耳，",
+        "translation": "The sick person has this response, for the rest of his life is little.",
+        "source": "T15n0606_001:0184b27_19"
+    },
+    {
+        "source_sentence": "　疾火之所圍，　　如焚燒草木。",
+        "translation": "It's surrounded by a burning fire like burning grass and trees.",
+        "source": "T15n0606_001:0184b27_19"
+    },
+    {
+        "source_sentence": "於是頌曰：復有異經，說人終時，諸怪之變：設有洗沐，若復不浴；",
+        "translation": "Again, there is another strange sūtra that says: When the human life span ends, all the miracles take place. There are those who bathe and those who don’t bathe.",
+        "source": "T15n0606_001:0184b27_19"
+    },
+    {
+        "source_sentence": "設燒好香、木櫁、栴檀、根香、花香，此諸雜香，其香實好，病者聞之，",
+        "translation": "If he burns a good fragrance, such as sandalwood, rosewood, sandalwood, root odor, or flower odor, and these mixed fragrances are really good in smell, and the sick man hears them.",
+        "source": "T15n0606_001:0184c04_20"
+    },
+    {
+        "source_sentence": "如燒死人骨、髮、毛、爪、皮膚、脂、髓、糞除之臭也，又如梟、鷲、狐狸、狗、鼠、蛇、虺之臭也。",
+        "translation": "It's like the smell of burning a dead person's bone, hair, nails, skin, fat, marrow, dung, and excrement, or the smell of an owl, an eagle, a fox, a dog, a rat, a snake, or a viper.",
+        "source": "T15n0606_001:0184c05_21"
+    },
+    {
+        "source_sentence": "病者聲變，言如破瓦，狀如咽塞，其音或如鶴、鴈、孔雀、牛、馬、虎、狼、雷、鼓之聲；",
+        "translation": "The sick person’s voice changes, and his words are like broken tiles, shaped like throats. The sounds they make may be like the sounds of cranes, hounds, peacocks, birds, cattle, horses, tigers, wolves, thunder, and drums.",
+        "source": "T15n0606_001:0184c07_22"
+    },
+    {
+        "source_sentence": "其人志性，變改不常，或現端政，其身柔軟，或復麁堅，身體數變，或輕、或重而失所願。",
+        "translation": "Their aspiration is unchanging and impermanent. Some of them may appear handsome, with supple bodies that are soft or hard, whose bodies change in number but sometimes they lose what they wish, whether light or heavy.",
+        "source": "T15n0606_001:0184c09_23"
+    },
+    {
+        "source_sentence": "此諸變怪，命應盡者，各值數事，不悉具有。",
+        "translation": "These transformations and wonders are not present in all those whose lives should end, but each one has a number of things that they don't have.",
+        "source": "T15n0606_001:0184c11_0"
+    },
+    {
+        "source_sentence": "　覩見若干變，　　眾惱趣逼身，",
+        "translation": "They see various transformations in anger, and their bodies are oppressed by various afflictive destinies.",
+        "source": "T15n0606_001:0184c11_1"
+    },
+    {
+        "source_sentence": "　志懷於恐怖，　　遭厄為若斯。",
+        "translation": "Their aspiration is to harbor fear, and their encounter with misfortune is like this.",
+        "source": "T15n0606_001:0184c11_1"
+    },
+    {
+        "source_sentence": "　人性敗如此，　　身變不一種，",
+        "translation": "Such is the nature of human beings. Their physical forms are not the same as this:",
+        "source": "T15n0606_001:0184c11_1"
+    },
+    {
+        "source_sentence": "　猶如竹葦實，　　自生自然壞。",
+        "translation": "It's like the fruit of bamboo and reeds that naturally disintegrate spontaneously as they arise.",
+        "source": "T15n0606_001:0184c11_1"
+    },
+    {
+        "source_sentence": "於是頌曰：今我所學，如所聞知，人臨死時，所現變怪：口不知味，耳不聞音，",
+        "translation": "Thereupon, the Buddha continued in verse: As we have now studied, we know from what we have heard. When a person dies, he manifests strange signs and wonders; his mouth does not know taste but his ears do not hear sound.",
+        "source": "T15n0606_001:0184c11_1"
+    },
+    {
+        "source_sentence": "筋脈縮急，喘息不定；",
+        "translation": "Their tendons and veins shrink, and they pant in an unsteady breath.",
+        "source": "T15n0606_001:0184c18_2"
+    },
+    {
+        "source_sentence": "體痛呻吟，血氣微細，身轉羸瘦，其筋現麁；",
+        "translation": "His body was painful, screaming and wailing; his blood and vitality weakened as his flesh became emaciated and his tendons became coarse.",
+        "source": "T15n0606_001:0184c18_3"
+    },
+    {
+        "source_sentence": "或身卒肥，血脈隆起，頰車垂下，其頭戰掉，視之可憎，舉動舒緩；",
+        "translation": "Sometimes his body suddenly becomes fat, his blood vessels grow larger, his cheeks and chariots hang down. His head trembles and looks disgusting, hovering and licentious.",
+        "source": "T15n0606_001:0184c19_4"
+    },
+    {
+        "source_sentence": "其眼童子，甚黑於常，眼目不視，便利不通，諸節欲解，諸根不定；",
+        "translation": "The boy with the divine eye was deeply black like a constant cloud. His eyes did not see, his hands and feet did not touch [the earth], his joints and joints wanted to be freed, but his sense faculties were unsettled.",
+        "source": "T15n0606_001:0184c21_5"
+    },
+    {
+        "source_sentence": "眼口中盡青，氣結連喘。",
+        "translation": "Their eyes and mouths are all blue, and they pant one after the other.",
+        "source": "T15n0606_001:0184c22_6"
+    },
+    {
+        "source_sentence": "諸所怪變，各現如此。",
+        "translation": "Each of these strange transformations is manifested like this.",
+        "source": "T15n0606_001:0184c23_7"
+    },
+    {
+        "source_sentence": "　其病惱無數，　　血脈精氣竭，",
+        "translation": "Their illnesses and afflictions will be countless, With their blood vessels and vitality depleted.",
+        "source": "T15n0606_001:0184c23_8"
+    },
+    {
+        "source_sentence": "　如水嚙樹根，　　當愍如拔裁。",
+        "translation": "Like water clinging to the roots of a tree, it's like pulling and cutting.",
+        "source": "T15n0606_001:0184c23_8"
+    },
+    {
+        "source_sentence": "於是頌曰：於時醫心念言：「有如此病，必死不疑。」",
+        "translation": "He then composed a verse, saying, At the time, the doctor thought to himself, If there's such an illness, he'll surely die without doubt.",
+        "source": "T15n0606_001:0184c23_8"
+    },
+    {
+        "source_sentence": "古昔良醫，造結經文，名曰：於彼除恐、長耳灰掌、養言長育、急教多髯、天又長蓋、大首退轉、燋悴大白、最尊路面、調牛、岐伯、醫徊、扁鵲，",
+        "translation": "Good doctors of yore composed a collection of scriptural texts called “Remembering the Fearlessnesses,” which are as follows: Their fearlessness is extinguished; their ears grow long and dull, their palms are greasy, their speech nourishes and grows longer, they quickly teach many kinds of singing, gods also grow long",
+        "source": "T15n0606_001:0184c26_9"
+    },
+    {
+        "source_sentence": "如是等輩，悉療身病。",
+        "translation": "Such a group of people all treat their physical illnesses.",
+        "source": "T15n0606_001:0185a03_10"
+    },
+    {
+        "source_sentence": "　於彼之等類，　　尊法梵志仙，",
+        "translation": "Among those kinds of people, the honored Dharma priest and brahmin sages,",
+        "source": "T15n0606_001:0185a04_11"
+    },
+    {
+        "source_sentence": "　正救所有果，　　及餘王良醫。",
+        "translation": "It's the fruit of righteous salvation that exists, and it's the other king's good doctor.",
+        "source": "T15n0606_001:0185a04_11"
+    },
+    {
+        "source_sentence": "　此為主成敗，　　博知能度厄，",
+        "translation": "This is the leader who accomplishes victory and defeat, knows well and can save those in distress.",
+        "source": "T15n0606_001:0185a04_11"
+    },
+    {
+        "source_sentence": "　愍以經救命，　　猶如梵造法。",
+        "translation": "I'm going to save my life with the sūtras, just as Brahmā created the Dharma.",
+        "source": "T15n0606_001:0185a04_11"
+    },
+    {
+        "source_sentence": "於是頌曰：復有其醫，主治耳目，名曰：眼眴動搖、和鬪鈴鳴、月氏英子、篋藏善覺、調牛目金、禿梟力氏、雷鳴，",
+        "translation": "Thereupon, he said in verse: Again, there is another physician skilled in the treatment of the organs of hearing and sight. His name is Candravyūha; his eyes are gross and shaken, his voice sounds like a whispering bell, [the sound of] the moon family’s “youngest son,” which is endowed with the virtue of being well",
+        "source": "T15n0606_001:0185a04_11"
+    },
+    {
+        "source_sentence": "是上醫名，主治耳目。",
+        "translation": "This is the name of the above-mentioned physician, who treats the ear and eye.",
+        "source": "T15n0606_001:0185a11_12"
+    },
+    {
+        "source_sentence": "　眼眴醫之等，　　造合藥分明，",
+        "translation": "Eye doctors, ophthalmicians, physicians, and so forth. They prescribe combined medicines to clarify the doctrine.",
+        "source": "T15n0606_001:0185a11_13"
+    },
+    {
+        "source_sentence": "　除疾之瑕冥，　　如日滅諸冥。",
+        "translation": "He removes the flaws of illness like the sun and extinguishes the darkness.",
+        "source": "T15n0606_001:0185a11_13"
+    },
+    {
+        "source_sentence": "於是頌曰：復有瘡醫，治療諸瘡，名曰：法財稚弟、端政辭約、黃金言談，",
+        "translation": "Then he said in verse: Again, there is a physician skilled in healing sores called Dharma財稚弟,端政辭約、金言談,",
+        "source": "T15n0606_001:0185a11_13"
+    },
+    {
+        "source_sentence": "是為瘡醫等。",
+        "translation": "These are sores, doctors, and so forth.",
+        "source": "T15n0606_001:0185a15_14"
+    },
+    {
+        "source_sentence": "　其有能療治，　　百種之瘡痍，",
+        "translation": "There are those who can heal a hundred kinds of sores.",
+        "source": "T15n0606_001:0185a15_15"
+    },
+    {
+        "source_sentence": "　能除眾厄疾，　　如以脚平地。",
+        "translation": "He's able to remove all the afflictions and illnesses like putting his feet on a level ground.",
+        "source": "T15n0606_001:0185a15_15"
+    },
+    {
+        "source_sentence": "　法財所以出，　　於世造經書，",
+        "translation": "That’s why the treasure of the Dharma comes forth. He produces scriptures and books in the world,",
+        "source": "T15n0606_001:0185a15_15"
+    },
+    {
+        "source_sentence": "　正為治瘡病，　　令眾離患難。",
+        "translation": "It's precisely for the purpose of healing sores and illnesses, so that all people will be freed from suffering and distress.",
+        "source": "T15n0606_001:0185a15_15"
+    },
+    {
+        "source_sentence": "於是頌曰：復有小兒醫，其名曰：尊迦葉耆域、奉慢速疾，是等皆治小兒之病。",
+        "translation": "Thereupon, he said in verse: Again there is a young physician named Venerable Kāśyapa, who treats the sicknesses of old age and arrogance. These are all cured by this young physician.",
+        "source": "T15n0606_001:0185a15_15"
+    },
+    {
+        "source_sentence": "　譬如有蒼頭，　　捐務除貢高，",
+        "translation": "It's like the case of a blue head who donates to remove pride and arrogance.",
+        "source": "T15n0606_001:0185a21_16"
+    },
+    {
+        "source_sentence": "　故生於世俗，　　愍傷治小兒。",
+        "translation": "That's why they're born in the secular world and treat small children with pity.",
+        "source": "T15n0606_001:0185a21_16"
+    },
+    {
+        "source_sentence": "　此尊迦葉等，　　行仁以正法，",
+        "translation": "These venerable Kāśyapa and others, practicing kindness with the right teaching,",
+        "source": "T15n0606_001:0185a21_16"
+    },
+    {
+        "source_sentence": "　哀念童幼故，　　則作於醫經。",
+        "translation": "Because of his compassion for the children, he created a scripture on healing.",
+        "source": "T15n0606_001:0185a21_16"
+    },
+    {
+        "source_sentence": "於是頌曰：復有鬼神醫，名曰：戴華、不事火，是等辟除鬼神來嬈人者。",
+        "translation": "Thereupon, the verse said, Again, there's a demon doctor named wears flowers and doesn't serve fire; this is someone who removes the spirits that come to harm people.",
+        "source": "T15n0606_001:0185a21_16"
+    },
+    {
+        "source_sentence": "　諸宿轉周行，　　人生猶亦然，",
+        "translation": "The constellations travel in all directions, As do the beings who are born.",
+        "source": "T15n0606_001:0185a27_17"
+    },
+    {
+        "source_sentence": "　主有所恐怖，　　而多有危害。",
+        "translation": "The lord is frightened, but there are many dangers.",
+        "source": "T15n0606_001:0185a27_17"
+    },
+    {
+        "source_sentence": "　造立是經者，　　悉為解其患，",
+        "translation": "Those who compiled this scripture Understood all their faults.",
+        "source": "T15n0606_001:0185a27_17"
+    },
+    {
+        "source_sentence": "　如佛以正法，　　除愚令見明。",
+        "translation": "Just as the Buddha uses the right teaching to remove folly and make views clear.",
+        "source": "T15n0606_001:0185a27_17"
+    },
+    {
+        "source_sentence": "於是頌曰：正使合會此上諸醫，及幻蠱道并巫呪說，不能使差，令不終亡。",
+        "translation": "He then composed a verse, saying, It's precisely because the combination of these above-mentioned physicians, illusory paths, and spells that won't allow him to be cured and won't die.",
+        "source": "T15n0606_001:0185a27_17"
+    },
+    {
+        "source_sentence": "　造作罪塵勞，　　勤苦懷眾惱，",
+        "translation": "They commit sins and defilements, endure pain and suffering, and harbor various afflictions.",
+        "source": "T15n0606_001:0185b04_18"
+    },
+    {
+        "source_sentence": "　病痛亂其志，　　多垢命日促。",
+        "translation": "Their illness and pain disturbed their resolve, and their lives are often defiled by the swiftness of the sun.",
+        "source": "T15n0606_001:0185b04_18"
+    },
+    {
+        "source_sentence": "　為病所漂沒，　　死證見便怖，",
+        "translation": "They'll be floating and drowning because of illness, and they'll be frightened when they see death.",
+        "source": "T15n0606_001:0185b04_18"
+    },
+    {
+        "source_sentence": "　天帝諸神等，　　不救安況吾。",
+        "translation": "The lords of gods and other deities won't save me.",
+        "source": "T15n0606_001:0185b04_18"
+    },
+    {
+        "source_sentence": "於是頌曰：醫心念言：「曼命未斷，當避退矣！」",
+        "translation": "He then composed a verse, saying, The doctor thought to himself, My life hasn't been cut off, so I must avoid retreating!",
+        "source": "T15n0606_001:0185b04_18"
+    },
+    {
+        "source_sentence": "便語眾人：「今此病者，設有所索飯食美味，恣意與之，勿得逆也！",
+        "translation": "He then said to the people, Now, this sick man, if he has food and delicious food that's asked for, give it freely; don't go against him!",
+        "source": "T15n0606_001:0185b09_19"
+    },
+    {
+        "source_sentence": "吾有急事而相捨去，事了當還。」",
+        "translation": "I have an urgent matter to attend to, so I'll abandon you and return when the task is done.",
+        "source": "T15n0606_001:0185b11_20"
+    },
+    {
+        "source_sentence": "故興此緣，便捨退去。",
+        "translation": "When this condition arises, they abandon it and retreat.",
+        "source": "T15n0606_001:0185b11_21"
+    },
+    {
+        "source_sentence": "　命欲向斷時，　　得病甚困極，",
+        "translation": "When his life is about to be cut off, he becomes seriously ill and in distress.",
+        "source": "T15n0606_001:0185b12_22"
+    },
+    {
+        "source_sentence": "　與塵勞俱合，　　罪至不自覺。",
+        "translation": "Together with defilement and trouble, sin reaches the point where they don't realize it themselves.",
+        "source": "T15n0606_001:0185b12_22"
+    },
+    {
+        "source_sentence": "　怪變自然起，　　得對陰熱極，",
+        "translation": "The wonders and transformations arise naturally, attaining the opposite aggregate of extreme heat.",
+        "source": "T15n0606_001:0185b12_22"
+    },
+    {
+        "source_sentence": "　正使執金剛，　　不能濟其命。",
+        "translation": "The envoy held the vajra and couldn't save his life.",
+        "source": "T15n0606_001:0185b12_22"
+    },
+    {
+        "source_sentence": "於是頌曰：是時病家大小男女，聞醫所說，便棄湯藥及諸呪術，家室、眷屬、宗黨、比隣、親厚、知識，",
+        "translation": "Thereupon, the Buddha continued in verse: When the sick man’s family members, both large and small, men and women alike, heard the physician’s words, they discarded the hot water, medicine, spells, householders, their followers, sects, friends, relatives, kinsmen, and attendants.",
+        "source": "T15n0606_001:0185b12_22"
+    },
+    {
+        "source_sentence": "悉來聚會，圍遶病者，悲哀啼哭，觀念病困。",
+        "translation": "They all came to the assembly, surrounded by those who were ill, cried in pity and grief, and observed the illness and distress.",
+        "source": "T15n0606_001:0185b18_23"
+    },
+    {
+        "source_sentence": "譬如屠家群中捕猪，牽欲殺之，餘猪悉聚驚怖，側耳聽聲，惶懅愕視；",
+        "translation": "It is as if a butcher had caught a pig in a herd and wanted to kill it. The other pigs all gathered together in fear, the sound of which was heard from his or her ears at his or her side and he or she looked around in fear.",
+        "source": "T15n0606_001:0185b19_24"
+    },
+    {
+        "source_sentence": "譬如猛虎群中搏牛，餘牛見之，驚怖而走，或入山巖，或投深谷，又入樹間，",
+        "translation": "It's like when a group of fierce tigers fights an ox among a herd of cows, and the other cows see it and run in fear, or they may enter a mountain cliff, or they may plunge into a deep valley, or they may enter a tree.",
+        "source": "T15n0606_001:0185b21_25"
+    },
+    {
+        "source_sentence": "跳騰哮吼；",
+        "translation": "They jumped and roared in great roar.",
+        "source": "T15n0606_001:0185b23_26"
+    },
+    {
+        "source_sentence": "譬如魚師持網捕魚，餘魚見之，怖散沈竄石岸草底；",
+        "translation": "It is as if a skilled fisherman were to catch a fish by holding a net in his hand and when the other fish saw him, they would be terrified and drown at the bottom of the grass on the rocky shore.",
+        "source": "T15n0606_001:0185b23_27"
+    },
+    {
+        "source_sentence": "又如蒼鷹臨其眾鳥，有所爴取，餘鳥見之各散飛去。",
+        "translation": "It's also like when a blue eagle approaches a group of birds and snatches something, and the other birds see it, each flying away.",
+        "source": "T15n0606_001:0185b24_28"
+    },
+    {
+        "source_sentence": "其人如是，無常對至，其身壞散，家室、親屬念當別離，悲哀若斯。",
+        "translation": "Their bodies disintegrate and disperse, and their homes and relatives are thoughtful that they will be separated.",
+        "source": "T15n0606_001:0185b25_29"
+    },
+    {
+        "source_sentence": "命臨欲斷，閻王使者自然來至，其到見縛鐵箭所射，上生死船罪所牽引，",
+        "translation": "When his life was about to be cut off, the messenger of King Yama came by naturally. When he arrived there, he was bound and shot by an iron arrow.",
+        "source": "T15n0606_001:0185b27_30"
+    },
+    {
+        "source_sentence": "即欲發去。",
+        "translation": "That's when he wants to go away.",
+        "source": "T15n0606_001:0185b28_31"
+    },
+    {
+        "source_sentence": "家室繞之，放髮悲慟，塵坌其面目，哀泣歎息，涕淚流面，皆言：「痛哉！",
+        "translation": "His family surrounded him, weeping and wailing in grief, their faces covered with dust and tears. They all cried out in pain.",
+        "source": "T15n0606_001:0185b29_0"
+    },
+    {
+        "source_sentence": "奈何相捨？」",
+        "translation": "What's the characteristic of equanimity?",
+        "source": "T15n0606_001:0185c01_1"
+    },
+    {
+        "source_sentence": "椎胸欝[悍-干+月]，稱歎病者若干德行，心懷懊惱。",
+        "translation": "He beats his chest [Hun -干 + moon] and praises the virtues of the sick man's deeds, but his mind harbors remorse.",
+        "source": "T15n0606_001:0185c01_2"
+    },
+    {
+        "source_sentence": "　人其疾苦困，　　身冷消離熱，",
+        "translation": "A man is sick and distressed, with a cold body that’s free of heat.",
+        "source": "T15n0606_001:0185c02_3"
+    },
+    {
+        "source_sentence": "　室家悉聚會，　　舉聲而悲哀。",
+        "translation": "All the monks and nuns gathered together, raising their voices in sorrow.",
+        "source": "T15n0606_001:0185c02_3"
+    },
+    {
+        "source_sentence": "　造業更苦樂，　　如蜂採華味，",
+        "translation": "They create actions that are even more painful and pleasant, like a bee picking the taste of flowers.",
+        "source": "T15n0606_001:0185c02_3"
+    },
+    {
+        "source_sentence": "　心遂受憂慼，　　并惱一宗門。",
+        "translation": "The mind then suffers from grief and anguish, and it's a school of affliction.",
+        "source": "T15n0606_001:0185c02_3"
+    },
+    {
+        "source_sentence": "於是頌曰：其人疾病如是身中刀風起，令病者骨節解。",
+        "translation": "Thereupon, the verse said, That person's illness thus arises from a sword and wind in their body, causing the sick man's bones and joints to disintegrate.",
+        "source": "T15n0606_001:0185c02_3"
+    },
+    {
+        "source_sentence": "有風名科，斷諸節解；",
+        "translation": "There is a wind called class, which cuts off the knuckles and dismembers.",
+        "source": "T15n0606_001:0185c08_0"
+    },
+    {
+        "source_sentence": "有風名震，令筋脈緩；",
+        "translation": "There is a wind called quaking that causes the tendons and veins to be weakened.",
+        "source": "T15n0606_001:0185c08_1"
+    },
+    {
+        "source_sentence": "有風名破骨，消病人髓；",
+        "translation": "There is a wind called ‘breaking through the bones’ that destroys the marrow of the ill.",
+        "source": "T15n0606_001:0185c08_2"
+    },
+    {
+        "source_sentence": "有風名減，變其面色，眼、耳、鼻、口、咽喉皆青，出入諸孔斷絕破壞，",
+        "translation": "The eye, ear, nose, tongue, mouth, and throat are all blue. All the pores that pass in and out are cut off and destroyed.",
+        "source": "T15n0606_001:0185c09_3"
+    },
+    {
+        "source_sentence": "[利-禾+皮]剝其身；",
+        "translation": "[利-禾+皮]吐其身;",
+        "source": "T15n0606_001:0185c10_4"
+    },
+    {
+        "source_sentence": "復有一風名曰止脇，令其身內及膝、肩、脇、背、脊、腹、齊、大小之腸、肝、肺、心、脾并餘諸藏，",
+        "translation": "Again, there is another wind called stopping the hypochondrium that causes the body to restrain its knees, shoulders, back, neck, back, flanks, back, abdomen, stomach, intestines large and small, livers, liver, lungs, heart, spleen, and other stores within it.",
+        "source": "T15n0606_001:0185c11_5"
+    },
+    {
+        "source_sentence": "皆令斷絕；",
+        "translation": "I cause them all to be cut off.",
+        "source": "T15n0606_001:0185c13_6"
+    },
+    {
+        "source_sentence": "有風名旋，令其肪血及大小便、生藏熟藏，所食不通，寒熱悉乾；",
+        "translation": "There is a wind called whirl that causes the fat, blood, excrement, urine, and birth stores to grow and mature. The food it eats is not accessible, and all cold and heat are completely dried up.",
+        "source": "T15n0606_001:0185c13_7"
+    },
+    {
+        "source_sentence": "有風名節間，令諸支節，或縮或伸，而舉手足欲捉虛空，坐起煩憒，有時笑戲，",
+        "translation": "There is a wind called intermittent wind that causes the knuckles, sometimes contracting or sometimes extending, to raise their hands and feet in an act of grasping space. Sitting there, they become agitated; occasionally they laugh and play.",
+        "source": "T15n0606_001:0185c14_8"
+    },
+    {
+        "source_sentence": "又復大息，其聲懇惻，節節以斷，筋脈則緩，髓腦為消，目不見色，耳不聞聲，",
+        "translation": "Again, when he exhaled a great deal his voice became muffled and all the knuckles and joints were severed. The sinews and veins became weak and the marrow and brain abscesses dissolved. His eyes did not see form and his ears did not hear sound.",
+        "source": "T15n0606_001:0185c16_9"
+    },
+    {
+        "source_sentence": "鼻不別香，口不知味，身冷氣絕，無所復識，心下尚煖，魂神續在，挺直如木，",
+        "translation": "Their noses do not smell distinctly, and their mouths do not know the taste. Their bodies are cold and exhausted, and they have no consciousness whatsoever. Their minds are still warm; their souls and spirits live on, straight as a piece of wood.",
+        "source": "T15n0606_001:0185c18_10"
+    },
+    {
+        "source_sentence": "不能動搖。",
+        "translation": "They can't shake it.",
+        "source": "T15n0606_001:0185c19_11"
+    },
+    {
+        "source_sentence": "　其刀風起時，　　身動多不安，",
+        "translation": "When the wind of his sword blows, His body moves with great uneasiness.",
+        "source": "T15n0606_001:0185c20_12"
+    },
+    {
+        "source_sentence": "　眾緣普皆至，　　悉不自覺知。",
+        "translation": "All kinds of conditions arise everywhere, but they don't know it for themselves.",
+        "source": "T15n0606_001:0185c20_12"
+    },
+    {
+        "source_sentence": "　身遭若干惱，　　命乃為窮盡，",
+        "translation": "Their bodies are tormented by various afflictions, and their lives are exhausted.",
+        "source": "T15n0606_001:0185c20_12"
+    },
+    {
+        "source_sentence": "　譬如弓弩弦，　　緩急不可用。",
+        "translation": "It's like the string of a bow and crossbow, which are too slow and too fast to be used.",
+        "source": "T15n0606_001:0185c20_12"
+    },
+    {
+        "source_sentence": "於是頌曰：爾時彼人其心周匝所有四大，皆為衰落，微命雖在如燈欲滅。",
+        "translation": "The verse then said, At that point, all the four elements surrounding his mind are declining, and even though a little life exists like a lamp that wants to go out.",
+        "source": "T15n0606_001:0185c20_12"
+    },
+    {
+        "source_sentence": "此人心中有身意根，其生存時所為善惡，即心念本殃福吉凶，今世、後世所可作為，",
+        "translation": "Within this mind, there is the faculty of body and mind. When it exists, good or bad deeds are done; that is to say, when it thinks of past evil, future blessedness or misfortune, which can be done either now or in the next life.",
+        "source": "T15n0606_001:0186a02_13"
+    },
+    {
+        "source_sentence": "心悉自知，奉行善者面色和解，其行惡者顏貌不悅。",
+        "translation": "Their minds all know for themselves that those who practice good deeds have a peaceful countenance and complexion, but those who do evil deeds don't like their appearance.",
+        "source": "T15n0606_001:0186a04_14"
+    },
+    {
+        "source_sentence": "其人心喜，面色則好，當知所歸，必至善道；",
+        "translation": "Their minds will be joyous and their facial features beautiful. You should know where to turn and you will surely reach a good path.",
+        "source": "T15n0606_001:0186a05_15"
+    },
+    {
+        "source_sentence": "其面色惡，心念不善，則趣惡道。",
+        "translation": "If their appearance is bad and their thoughts are unwholesome, they'll go to a bad path.",
+        "source": "T15n0606_001:0186a06_16"
+    },
+    {
+        "source_sentence": "如有老人而照淨鏡，皆自見形，頭白、面皺、齒落、瘡痍、塵垢、黑醜、皮緩、脊僂、年老戰[病-丙+又](音又)；",
+        "translation": "Good man, it is like an old man who illuminates a clear mirror and sees all his own forms: his hair white, his face wrinkled, his teeth drooling, his abscesses covered with sores, the dirt of defilement, his complexion dark and ugly, his skin loose, his back emaciated, his flanks liable to discomfort",
+        "source": "T15n0606_001:0186a07_17"
+    },
+    {
+        "source_sentence": "設見如是，還自羞鄙，閉目放鏡；",
+        "translation": "On seeing this, the king felt ashamed of himself and closed his eyes to let go of the mirror.",
+        "source": "T15n0606_001:0186a09_18"
+    },
+    {
+        "source_sentence": "吾已去少！",
+        "translation": "I've gone a little bit!",
+        "source": "T15n0606_001:0186a09_19"
+    },
+    {
+        "source_sentence": "衰老將至，心懷愁憂，已離安隱，至於窮極。",
+        "translation": "When old age approached, he was overcome with sorrow and grief. Having renounced his peaceful state of existence, he reached the utmost misery.",
+        "source": "T15n0606_001:0186a10_20"
+    },
+    {
+        "source_sentence": "素行惡者，臨壽終時，所見惡變，愁慘恐怖，深自剋責：「吾歸惡道，",
+        "translation": "At the end of his life, those who committed evil deeds in the past will see bad developments. They will be grieved and terrified when their lives come to an end.",
+        "source": "T15n0606_001:0186a11_21"
+    },
+    {
+        "source_sentence": "定無有疑。」",
+        "translation": "There's certainly no doubt about it.",
+        "source": "T15n0606_001:0186a12_22"
+    },
+    {
+        "source_sentence": "亦如老人照鏡，見身知為衰至。",
+        "translation": "It's like an old man who shines in a mirror and sees his body knowing it to be declining.",
+        "source": "T15n0606_001:0186a12_23"
+    },
+    {
+        "source_sentence": "　金寶等所作，　　巧拙成不同，",
+        "translation": "What's made of gold, treasure, and so forth is different in skillfulness and clumsiness.",
+        "source": "T15n0606_001:0186a13_24"
+    },
+    {
+        "source_sentence": "　設有行惡者，　　沈沒於深淵。",
+        "translation": "If there's someone who does evil, they'll sink into a deep abyss.",
+        "source": "T15n0606_001:0186a13_24"
+    },
+    {
+        "source_sentence": "　已沒雖更生，　　顧視無所依，",
+        "translation": "Even though they have disappeared and are reborn, They look back without support.",
+        "source": "T15n0606_001:0186a13_24"
+    },
+    {
+        "source_sentence": "　如為水所漂，　　臨死亦若斯。",
+        "translation": "Just as they are floating in the water, so it is when they're about to die.",
+        "source": "T15n0606_001:0186a13_24"
+    },
+    {
+        "source_sentence": "於是頌曰：其有行善，為有三輩，攝身、口、意，淨修眾德，以法為財，",
+        "translation": "Thereupon, the Buddha continued in verse: Those who practice virtue are divided into three classes. They embrace body, speech, and mind; they cultivate virtue by means of purity, with the Dharma as their treasure.",
+        "source": "T15n0606_001:0186a13_24"
+    },
+    {
+        "source_sentence": "臨壽終時，心懷喜踊：「吾定上天。」",
+        "translation": "When his life was about to end, he cherished joy in his heart and said, I'm sure I'll go up to heaven.",
+        "source": "T15n0606_001:0186a19_25"
+    },
+    {
+        "source_sentence": "譬如賈客遠行治生，得度厄道多獲財利，還歸到家心悅無量；",
+        "translation": "Good man, this is analogous to a merchant traveling from a distant land to cultivate his livelihood in order to cross over an evil path. Having gained much wealth and benefit, he returns home with immeasurable joy.",
+        "source": "T15n0606_001:0186a19_26"
+    },
+    {
+        "source_sentence": "又如田家犁不失時，風雨復節多收五穀，藏著篅中意甚歡喜；",
+        "translation": "Good man, it is also like the case of a farmer’s plow that does not lose time. When wind blows and rainstorms occur in season he harvests five kinds of grains at different seasons; when he stores them in rice bowls he is overjoyed.",
+        "source": "T15n0606_001:0186a21_27"
+    },
+    {
+        "source_sentence": "如困病得愈得畢償債，中心踊躍亦復如是。",
+        "translation": "Just as a distressed person who is cured and healed from illness can repay the debt, so too does the central monk dance likewise.",
+        "source": "T15n0606_001:0186a22_28"
+    },
+    {
+        "source_sentence": "猶蜂採花以用作蜜，積德亦爾，其意大悅：「我定上天！」",
+        "translation": "It's like a bee gathering flowers to make honey and accumulating virtue, whose mind is greatly delighted, saying, I'll surely go up to heaven!",
+        "source": "T15n0606_001:0186a23_29"
+    },
+    {
+        "source_sentence": "　其有學正士，　　積累行真法，",
+        "translation": "Those who have studied the true teaching, righteous masters, Accumulated and practiced it.",
+        "source": "T15n0606_001:0186a25_0"
+    },
+    {
+        "source_sentence": "　以度於眾患，　　自致得明道。",
+        "translation": "To save them from all afflictions, they themselves attain the path of insight.",
+        "source": "T15n0606_001:0186a25_0"
+    },
+    {
+        "source_sentence": "　譬如閑居者，　　高山望其下，",
+        "translation": "It's like someone living in a secluded place Whose lofty mountain looks down on them.",
+        "source": "T15n0606_001:0186a25_0"
+    },
+    {
+        "source_sentence": "　彼人命盡時，　　見善道若斯。",
+        "translation": "When that person's life ends, he sees a good path like this.",
+        "source": "T15n0606_001:0186a25_0"
+    },
+    {
+        "source_sentence": "於是頌曰：爾時其人命已盡者，身根識滅，便受中止；",
+        "translation": "The verse then goes on to say: At that very moment, when the man’s life has ended, his body, faculties, and consciousness cease, and sensation is interrupted.",
+        "source": "T15n0606_001:0186a25_0"
+    },
+    {
+        "source_sentence": "譬若如稱，隨其輕重或上或下，善惡如是。",
+        "translation": "It's like a name, which follows its weakness, whether it's higher or lower, and so forth, good and bad are likewise.",
+        "source": "T15n0606_001:0186a30_1"
+    },
+    {
+        "source_sentence": "神離人身住於中止，五陰悉具無所乏少。",
+        "translation": "The soul is separated from the human body and abides in cessation, fully endowed with all five aggregates without any lack.",
+        "source": "T15n0606_001:0186b01_2"
+    },
+    {
+        "source_sentence": "死時五陰不到中止，中止五陰亦不離本也；",
+        "translation": "When dying, the five aggregates do not arise and are not discontinued. The five aggregates are neither discontinued nor separated from the source.",
+        "source": "T15n0606_001:0186b02_3"
+    },
+    {
+        "source_sentence": "譬以印章以用印泥，印不著泥亦不離之；",
+        "translation": "It is analogous of using a seal to seal mud, the seal doesn’t touch the mud and doesn’t part from it.",
+        "source": "T15n0606_001:0186b03_4"
+    },
+    {
+        "source_sentence": "如種五穀苗生莖實，非是本種亦不離本；",
+        "translation": "It is like planting seeds of five kinds of grain and growing stalks, which are not the original seeds but also do not leave the roots.",
+        "source": "T15n0606_001:0186b04_5"
+    },
+    {
+        "source_sentence": "如是人死精神魂魄，不齊五陰亦不離本也。",
+        "translation": "Thus, when a person dies, his spirit and soul are not the same as the five aggregates or separate from their original source.",
+        "source": "T15n0606_001:0186b05_6"
+    },
+    {
+        "source_sentence": "隨本所種各得果報，其作德者住善中止，履行惡者在罪中止，唯有道眼乃見之耳。",
+        "translation": "The virtuous one abides in the good and stops doing evil, while the one who fulfills evil abides in sin. Only the eye of enlightenment sees this.",
+        "source": "T15n0606_001:0186b06_7"
+    },
+    {
+        "source_sentence": "處於中止而有三食：一曰觸軟，二曰心食，三曰意識。",
+        "translation": "There are three kinds of food that abide in cessation: first, contact and softness; second, mental food; and third, consciousness.",
+        "source": "T15n0606_001:0186b08_8"
+    },
+    {
+        "source_sentence": "在中止者，或住一日極久七日，至父母會隨其本行，或趣三塗、人間、天上。",
+        "translation": "Someone who stays in a stopping place may stay for a day or seven days at most, go to their parents' assembly and follow their original practice, or they may go to the three destinies, among humans and gods.",
+        "source": "T15n0606_001:0186b09_9"
+    },
+    {
+        "source_sentence": "行惡多者，在中止中，見大火起，圍遶其身，猶如野火焚燒草木，塵雨其形，",
+        "translation": "Those who commit numerous evil deeds are in the wilderness when they see a great fire starting and surrounding their bodies, just like a wildfire that burns up grass and trees and rains dust into their forms.",
+        "source": "T15n0606_001:0186b11_10"
+    },
+    {
+        "source_sentence": "見烏、鵰、鷲、惡人之類，爪齒皆長面目醜陋，衣服弊壞頭上火然，各執兵仗為所撾棒，",
+        "translation": "They saw crows, eagles, eagles, eagles, and bad creatures with long paws and teeth, ugly faces and eyes, clothes that looked dilapidated, their hair on their heads burning in flames, each holding an armed stick to beat them.",
+        "source": "T15n0606_001:0186b13_11"
+    },
+    {
+        "source_sentence": "矛刺刀斫心懷恐懼；",
+        "translation": "Their spears and swords pierced the enemy’s minds with fear.",
+        "source": "T15n0606_001:0186b15_12"
+    },
+    {
+        "source_sentence": "欲求救護遙見叢樹，走往趣之，爾時即失，中止五陰。",
+        "translation": "Wishing to rescue and protect him, he saw a cluster of trees from a distance and ran toward them, but at that point he lost it and stopped the five aggregates.",
+        "source": "T15n0606_001:0186b15_13"
+    },
+    {
+        "source_sentence": "入刀劍樹泥犁之中，墮地獄者，神見若此。",
+        "translation": "If someone enters a mud plow made of swords and swords and falls into hell, the spirit sees them like this.",
+        "source": "T15n0606_001:0186b16_14"
+    },
+    {
+        "source_sentence": "　迷惑如醉象，　　違失聖法教，",
+        "translation": "Bewildered like a drunken elephant, they disobey the teachings of the holy Dharma.",
+        "source": "T15n0606_001:0186b17_15"
+    },
+    {
+        "source_sentence": "　染濁如潦水，　　心憒亂若斯；",
+        "translation": "Their minds are as dirty and confused as the muddy water, And their minds are like that.",
+        "source": "T15n0606_001:0186b17_15"
+    },
+    {
+        "source_sentence": "　常捐於正道，　　放心入邪徑，",
+        "translation": "They always give up the right path, trusting and entering wrong paths.",
+        "source": "T15n0606_001:0186b17_15"
+    },
+    {
+        "source_sentence": "　此人遭眾苦，　　命終墮地獄。",
+        "translation": "At the end of their life, they'll fall into hell.",
+        "source": "T15n0606_001:0186b17_15"
+    },
+    {
+        "source_sentence": "於是頌曰：行小惡者，見火煙塵繞滿其身，及為師子、虎、狼、蛇虺、群象所逐，",
+        "translation": "The lion, the tiger, the wolf, the serpent, and the elephants chased after them.",
+        "source": "T15n0606_001:0186b17_15"
+    },
+    {
+        "source_sentence": "又見故渠、泉源、深水、崩山、大澗，心懷怖懅，赴趣其中，爾時即失，",
+        "translation": "They also saw an old ditch, a fountain, deep water, a collapsed mountain, and a large stream. Fearful, they rushed into it but at that moment they were driven away.",
+        "source": "T15n0606_001:0186b23_16"
+    },
+    {
+        "source_sentence": "中止五陰。",
+        "translation": "He stops the five aggregates.",
+        "source": "T15n0606_001:0186b24_17"
+    },
+    {
+        "source_sentence": "墮畜生處，見是變者，知受獸身。",
+        "translation": "They'll fall into the place of an animal, and those who see this change know they'll experience the body of an animal.",
+        "source": "T15n0606_001:0186b25_18"
+    },
+    {
+        "source_sentence": "　習癡捨慧便，　　或醉墮冥道，",
+        "translation": "Accumulating delusion and abandoning the opportunity of wisdom, some may be drunk and fall into the dark path.",
+        "source": "T15n0606_001:0186b25_19"
+    },
+    {
+        "source_sentence": "　惡口常麁言，　　喜行撾捶人，",
+        "translation": "He speaks harshly, always angrily, Gladdening and beating people.",
+        "source": "T15n0606_001:0186b25_19"
+    },
+    {
+        "source_sentence": "　又為犯罪殃，　　樂為不善事，",
+        "translation": "They are also guilty of crimes and misdeeds, delighting in unwholesome things.",
+        "source": "T15n0606_001:0186b25_19"
+    },
+    {
+        "source_sentence": "　如是無慈者，　　生於畜獸中。",
+        "translation": "Thus, someone who lacks kindness is born among animals.",
+        "source": "T15n0606_001:0186b25_19"
+    },
+    {
+        "source_sentence": "於是頌曰：罪若微者，周匝四面有熱風起，身體欝蒸自然飢渴，遙見人來皆持刀杖、矛戟、弓箭而圍遶之，",
+        "translation": "Thereupon, the king said in verse: If his guilt is slight, there will be a sudden gust of wind that blows all around him. His body will burn and he will naturally hunger and thirst. He will see people coming from a distance, surrounded by enemies with swords, sticks, halberds, spears, bowheads, and",
+        "source": "T15n0606_001:0186b25_19"
+    },
+    {
+        "source_sentence": "望見大城意欲入中；",
+        "translation": "They looked to the great city and wished to enter it.",
+        "source": "T15n0606_001:0186c03_20"
+    },
+    {
+        "source_sentence": "適發此心，即失中止所受五陰。",
+        "translation": "When this thought arises, it's the five aggregates that are received by loss and cessation.",
+        "source": "T15n0606_001:0186c03_21"
+    },
+    {
+        "source_sentence": "生於薜荔，其見如是變，當知墮餓鬼中。",
+        "translation": "He's born in a fig tree, and his views are thus transformed, so you should know that he'll fall into a hungry ghost.",
+        "source": "T15n0606_001:0186c04_22"
+    },
+    {
+        "source_sentence": "　剛弊喜譖人，　　遠戒不順法，",
+        "translation": "A greedy person who is unworthy of the precepts and disobedient to the Dharma.",
+        "source": "T15n0606_001:0186c05_23"
+    },
+    {
+        "source_sentence": "　犯禁穢濁事，　　貪[彌\\/食]而獨食；",
+        "translation": "To commit immoral defilement, they covet food and eat it alone.",
+        "source": "T15n0606_001:0186c05_23"
+    },
+    {
+        "source_sentence": "　墮於膿血處，　　飢餓煩惱極，",
+        "translation": "They'll fall into the place of pus and blood, hunger and afflictions at their peak.",
+        "source": "T15n0606_001:0186c05_23"
+    },
+    {
+        "source_sentence": "　當知此輩人，　　定入為餓鬼。",
+        "translation": "You should know that these people will surely enter as hungry ghosts.",
+        "source": "T15n0606_001:0186c05_23"
+    },
+    {
+        "source_sentence": "於是頌曰：清修德善，涼風四來其風甚香，若干種熏雨其身上，諸妓樂音相和而鳴，",
+        "translation": "Thereupon, he composed the following verse: Their pure and virtuous cultivation is good. The cool breeze blows in all directions with a strong fragrance that showers rain of various kinds on their bodies. The sounds of music and dances are harmonious and sing together.",
+        "source": "T15n0606_001:0186c05_23"
+    },
+    {
+        "source_sentence": "瞻視園觀、樹木、花果，而悉茂盛；",
+        "translation": "They looked around the garden and saw all kinds of trees, flowers, and fruit growing luxuriantly.",
+        "source": "T15n0606_001:0186c11_24"
+    },
+    {
+        "source_sentence": "發意欲往，即時便失，中止五陰，精神自然上忉利天。",
+        "translation": "When he arouses the intention to go there, he immediately loses it and stops the five aggregates, and his spirit naturally goes up to the Trāyastriṃśa gods.",
+        "source": "T15n0606_001:0186c12_25"
+    },
+    {
+        "source_sentence": "　習法歸聖道，　　種福業生天，",
+        "translation": "They practice the Dharma and return to the noble path, planting good deeds to be born in heaven.",
+        "source": "T15n0606_001:0186c13_26"
+    },
+    {
+        "source_sentence": "　妓樂以自娛，　　遊諸花樹間，",
+        "translation": "Music and dance are performed for self-enjoyment, roaming among the flowers and trees.",
+        "source": "T15n0606_001:0186c13_26"
+    },
+    {
+        "source_sentence": "　美豓玉女眾，　　端正光從容，",
+        "translation": "Beautiful women and jadelike maidens emerged from each other’s bodies, With their beautiful features shining brilliantly.",
+        "source": "T15n0606_001:0186c13_26"
+    },
+    {
+        "source_sentence": "　常觀心欣悅，　　居止太山頂。",
+        "translation": "He always observes the mind with joy and abides at the top of Mount Tai.",
+        "source": "T15n0606_001:0186c13_26"
+    },
+    {
+        "source_sentence": "於是頌曰：行不淳一，或善或惡，當至人道。",
+        "translation": "The verse then says, Practice that's not pure and unified, whether good or bad, should reach the human path.",
+        "source": "T15n0606_001:0186c13_26"
+    },
+    {
+        "source_sentence": "父母合會，精不失時，子應來生。",
+        "translation": "When parents are united, the spirit isn't lost, and the child should come to be born.",
+        "source": "T15n0606_001:0186c18_27"
+    },
+    {
+        "source_sentence": "父母德想而俱同時等，其母胎通無所拘礙，心懷喜躍而無邪念，則為柔軟而不[怡-台+龍]悷，",
+        "translation": "They think of their parents as equal, but they are all the same at the same time. Their mother’s womb penetrates without any obstruction; her heart is joyous and blissful, yet she has no thoughts of evil. Then she becomes gentle and not coarse.",
+        "source": "T15n0606_001:0186c19_28"
+    },
+    {
+        "source_sentence": "無有疾疹堪任受子；",
+        "translation": "There was no disease or rash that would allow them to bear the burden.",
+        "source": "T15n0606_001:0186c21_29"
+    },
+    {
+        "source_sentence": "不為輕慢亦無反行，順其正法不受濁污，即捐一切瑕穢之塵。",
+        "translation": "They aren't despised or conceited, don't practice backsliding, and follow their right teaching without being stained by it, which is to abandon all the defiled dust.",
+        "source": "T15n0606_001:0186c21_30"
+    },
+    {
+        "source_sentence": "其精不清亦不為濁，中適不強，亦不腐敗，亦不赤黑，不為風寒眾毒雜錯，",
+        "translation": "Their semen is neither impure nor defiled, neither medium nor strong, neither rotten nor red or black, neither wind nor cold, and neither mixed with poison.",
+        "source": "T15n0606_001:0186c23_31"
+    },
+    {
+        "source_sentence": "與小便別，應來生者，精神便趣。",
+        "translation": "It's separated from urination, and those who should be born in the future will have their spirits go to it.",
+        "source": "T15n0606_001:0187a01_0"
+    },
+    {
+        "source_sentence": "心自念言：「設是男子不與女人共俱合者，吾欲與通。」",
+        "translation": "He thought to himself, Suppose this man doesn't associate with a woman, and I want to give it to her.",
+        "source": "T15n0606_001:0187a01_1"
+    },
+    {
+        "source_sentence": "起瞋怒心恚彼男子，志懷恭敬念於女人，瞋喜俱作，便排男子欲向女人；",
+        "translation": "They become angry and hostile toward the man, thinking of women with respect and affection. Being both angry and delighted, they drive away the male desires and turn their attention to women.",
+        "source": "T15n0606_001:0187a02_2"
+    },
+    {
+        "source_sentence": "父時精下，其神忻歡，謂是吾許。",
+        "translation": "At the time, my father's energy was weak, and his spirit was delighted, saying, 'I approve.'",
+        "source": "T15n0606_001:0187a04_3"
+    },
+    {
+        "source_sentence": "爾時即失中止五陰，便入胞胎。",
+        "translation": "At that point, they'll immediately lose the five aggregates and enter the womb.",
+        "source": "T15n0606_001:0187a05_4"
+    },
+    {
+        "source_sentence": "父母精合，既在胞胎倍用踊躍，非是中止五陰，亦不離之。",
+        "translation": "When parents and semen are combined, they're both present in the twins and doubly vigorous, not stopping the five aggregates but also not parting with them.",
+        "source": "T15n0606_001:0187a05_5"
+    },
+    {
+        "source_sentence": "入於胞胎是為色陰，歡喜之時為痛樂陰，念於精時是為想陰，因本罪福緣得入胎，",
+        "translation": "Entry into the womb is the aggregate matter. At the moment of joy, it is the aggregate pain and pleasure. At the moment of thought regarding semen, it is the aggregate ideation.",
+        "source": "T15n0606_001:0187a07_6"
+    },
+    {
+        "source_sentence": "是為行陰，神處胞中則應識陰，如是和合名曰五陰。",
+        "translation": "These are the aggregate of volition and the aggregate of consciousness in the soul, which should be the aggregate of consciousness. Such a combination is called the five aggregates.",
+        "source": "T15n0606_001:0187a09_7"
+    },
+    {
+        "source_sentence": "尋在胎時，即得二根，意根、身根也。",
+        "translation": "When they are in the womb, they'll attain two faculties, which are the mind faculty and body faculty.",
+        "source": "T15n0606_001:0187a10_8"
+    },
+    {
+        "source_sentence": "七日住中，而不增減；",
+        "translation": "They abide in the middle for seven days, not increasing or decreasing.",
+        "source": "T15n0606_001:0187a11_9"
+    },
+    {
+        "source_sentence": "又二七日，其胎稍轉，譬如薄酪；",
+        "translation": "On the twenty-seventh day the embryo gradually turns, resembling thin curds.",
+        "source": "T15n0606_001:0187a11_10"
+    },
+    {
+        "source_sentence": "至三七日，似如生酪；",
+        "translation": "On the thirty-seventh day, it looked like fresh curds.",
+        "source": "T15n0606_001:0187a12_11"
+    },
+    {
+        "source_sentence": "又四七日，精凝如熟酪；",
+        "translation": "For another four days and seven days the milk was as concentrated as cooked curds.",
+        "source": "T15n0606_001:0187a12_12"
+    },
+    {
+        "source_sentence": "至五七日，胎精遂變，猶如生酥；",
+        "translation": "On the fifth and seventh days, the semen of the embryo continues to change like fresh butter.",
+        "source": "T15n0606_001:0187a13_13"
+    },
+    {
+        "source_sentence": "又六七日，變如息肉；",
+        "translation": "On the sixth and seventh days it changed into calm flesh.",
+        "source": "T15n0606_001:0187a14_0"
+    },
+    {
+        "source_sentence": "至七七日，轉如段肉；",
+        "translation": "On the seventh day it turns like pieces of meat.",
+        "source": "T15n0606_001:0187a14_1"
+    },
+    {
+        "source_sentence": "又八七日，其堅如坏；",
+        "translation": "On the eighth and seventh days it will be as hard as broken.",
+        "source": "T15n0606_001:0187a15_0"
+    },
+    {
+        "source_sentence": "至九七日，變為五皰，兩肘、兩髀及其頸項，而從中出也；",
+        "translation": "On the ninth and seventh days it turns into five blistering blisters, two or three zhou in circumference. The blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering",
+        "source": "T15n0606_001:0187a15_1"
+    },
+    {
+        "source_sentence": "又十七日，復有五皰，手腕、脚腕及生其頭；",
+        "translation": "On the seventeenth day another five blistering blistering occurred, all over his hands, feet, wrists, and head.",
+        "source": "T15n0606_001:0187a16_2"
+    },
+    {
+        "source_sentence": "十一七日，續生二十四皰，手指、足指、眼、耳、鼻、口，此從中出；",
+        "translation": "On the eleventh and seventh days, twenty-four blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering blistering",
+        "source": "T15n0606_001:0187a17_3"
+    },
+    {
+        "source_sentence": "十二七日，是諸胞相，轉成就；",
+        "translation": "On the twelve-seventh day, this is the characteristic of the cells that develop and become complete.",
+        "source": "T15n0606_001:0187a19_4"
+    },
+    {
+        "source_sentence": "十三七日，則現腹相；",
+        "translation": "On the thirteenth day he manifested the sign of his abdomen.",
+        "source": "T15n0606_001:0187a19_5"
+    },
+    {
+        "source_sentence": "十四七日，生肝、肺、心及其脾、腎；",
+        "translation": "On the fourteenth and seventh days, liver, lungs, heart, spleen, and kidneys arose.",
+        "source": "T15n0606_001:0187a20_6"
+    },
+    {
+        "source_sentence": "十五七日，則生大腸；",
+        "translation": "On the fifteenth and seventh days large intestines appear.",
+        "source": "T15n0606_001:0187a20_7"
+    },
+    {
+        "source_sentence": "十六七日，即有小腸；",
+        "translation": "On the sixteenth day he will have a small intestine.",
+        "source": "T15n0606_001:0187a21_8"
+    },
+    {
+        "source_sentence": "十七七日，則有胃處；",
+        "translation": "On the seventeenth day there is a place where the moon has its stomach.",
+        "source": "T15n0606_001:0187a21_9"
+    },
+    {
+        "source_sentence": "十八七日，生藏、熟藏起此二處；",
+        "translation": "On the eighteenth and seventeenth days, these two places arise in the arising and maturing stores.",
+        "source": "T15n0606_001:0187a22_10"
+    },
+    {
+        "source_sentence": "十九七日生髀及[跳-兆+專]、腸、骸、手掌、足趺、臂節、筋連；",
+        "translation": "On the twenty-seventh day they give birth to their thighs, calves, intestines, bones, hands, palms, feet, nails, arm knuckles, and tendons.",
+        "source": "T15n0606_001:0187a23_11"
+    },
+    {
+        "source_sentence": "二十七日，生陰、臍、乳、頤、項、形相。",
+        "translation": "On the twenty-seventh day, he gives birth to the aggregate, navel, milk, hair, neck, and form.",
+        "source": "T15n0606_001:0187a24_12"
+    },
+    {
+        "source_sentence": "二十一七日，體骨各分，隨其所應，兩骨在頭，三十二骨著口，七骨著項，",
+        "translation": "On the twenty-seventh day, each of his bones were separated into two parts. According to what was proper, these two bones remained on his head; thirty-two bones touched his mouth; and seven bones touched his neck.",
+        "source": "T15n0606_001:0187a24_13"
+    },
+    {
+        "source_sentence": "兩骨著髀，兩骨著肘，四骨著臂，十二骨著胸，十八骨著背，兩骨著臗，",
+        "translation": "The two bones touch the thigh, the two bones touch the elbow, the four bones touch the arm, the twelve bones touch the chest, the eighteen bones touch the back, and the two bones touch the hip.",
+        "source": "T15n0606_001:0187a26_14"
+    },
+    {
+        "source_sentence": "四骨著膝，四十骨著足，微骨百八與體肉合，其十八骨著在兩脇，二骨著肩，",
+        "translation": "The four bones touched his knees, and the forty bones touched his feet. The eighteen bones touched both sides, while two bones touched his shoulders.",
+        "source": "T15n0606_001:0187a28_15"
+    },
+    {
+        "source_sentence": "如是身骨，凡有三百而相連結，其骨柔軟如初生瓠；",
+        "translation": "In this way, the bones of the body were all three hundred in number and connected one to the other. The bones were as soft and supple as if they had just been born:",
+        "source": "T15n0606_001:0187a29_16"
+    },
+    {
+        "source_sentence": "二十二七日，其骨稍堅，如未熟瓠；",
+        "translation": "On the twenty-seventh day their bones became slightly firmer, resembling unripe abscesses.",
+        "source": "T15n0606_001:0187a30_17"
+    },
+    {
+        "source_sentence": "二十三七日，其骨轉堅，譬如胡桃，此三百骨，各相連綴，足骨著足、膝骨著膝、踝骨著踝、髀骨著髀、臗骨著臗、脊骨著脊、胸骨著胸、脇骨著脇、脣骨著脣，",
+        "translation": "On the twenty-third and twenty-seventh days their bones become firmer, resembling a peach. These three hundred bones are each endowed with two pairs of embellishments: the foot bone touching the feet, the knee bone touching the knees, the ankle bone touching the ankles, the thigh bone touching the thigh",
+        "source": "T15n0606_001:0187b01_18"
+    },
+    {
+        "source_sentence": "項、頤、臂、腕、手、足諸骨轉相連著，如是聚骨猶若幻化，又如合車骨為垣牆，",
+        "translation": "Their necks, hair, armpits, shoulders, arms, wrists, hands, feet, and other bones are interlocked one after the other. Just as a cluster of bones is like an illusion, just as a conjoined chariot-bone forms a wall or wall.",
+        "source": "T15n0606_001:0187b05_19"
+    },
+    {
+        "source_sentence": "筋束、血流、皮肉塗裹，薄膚覆之，因本罪福，果獲致此，無有思想依其心元，",
+        "translation": "They are wrapped in bundles of tendons, blood streams, coated with skin and flesh, covered with thin skin. Because of their original sins and for meritorious deeds, they attain these results without any thought of relying on the mind as their source.",
+        "source": "T15n0606_001:0187b06_20"
+    },
+    {
+        "source_sentence": "隨風所由牽引舉動。",
+        "translation": "It moves according to the wind that causes it to be pulled.",
+        "source": "T15n0606_001:0187b08_21"
+    },
+    {
+        "source_sentence": "　其五骨積聚，　　隨心輕放恣，",
+        "translation": "The five bones are piled up in heaps, As easily as one wishes.",
+        "source": "T15n0606_001:0187b09_22"
+    },
+    {
+        "source_sentence": "　在身現掣頓，　　猶如牽拽蛇；",
+        "translation": "He manifests in his body as if he were pulling a snake.",
+        "source": "T15n0606_001:0187b09_22"
+    },
+    {
+        "source_sentence": "　前世所造行，　　善惡所興法，",
+        "translation": "The deeds created in a previous life, the good and bad dharmas that arise,",
+        "source": "T15n0606_001:0187b09_22"
+    },
+    {
+        "source_sentence": "　譬如人行路，　　或平或荊棘。",
+        "translation": "It's like a person walking on a path, whether it's level or thorny.",
+        "source": "T15n0606_001:0187b09_22"
+    },
+    {
+        "source_sentence": "於是頌曰：二十四七日，生七百筋，連著其身；",
+        "translation": "On the twenty-fourth and twenty-seventh days, seven hundred tendons will arise. They will bind their bodies one after the other.",
+        "source": "T15n0606_001:0187b09_22"
+    },
+    {
+        "source_sentence": "二十五七日，生七千脈，尚未具成；",
+        "translation": "On the twenty-five-seventh day, seven thousand veins arose, not yet fully formed.",
+        "source": "T15n0606_001:0187b14_23"
+    },
+    {
+        "source_sentence": "二十六七日，諸脈悉徹，具足成就，如蓮華根孔；",
+        "translation": "On the twenty-seventh day all his veins penetrated, and he was fully endowed like the root of a lotus flower.",
+        "source": "T15n0606_001:0187b15_24"
+    },
+    {
+        "source_sentence": "二十七七日，三百六十三筋皆成；",
+        "translation": "On the twenty-seventh day, all three hundred and sixty-three sinews were formed.",
+        "source": "T15n0606_001:0187b16_25"
+    },
+    {
+        "source_sentence": "二十八七日，其肌始生；",
+        "translation": "On the twenty-eighth and seventh days their skin began to grow.",
+        "source": "T15n0606_001:0187b17_26"
+    },
+    {
+        "source_sentence": "二十九七日，肌肉稍厚；",
+        "translation": "On the twenty-seventh day his flesh became slightly thicker.",
+        "source": "T15n0606_001:0187b17_27"
+    },
+    {
+        "source_sentence": "三十七日，纔有皮、有像；",
+        "translation": "On the thirty-seventh day there was only skin and an image on it.",
+        "source": "T15n0606_001:0187b18_28"
+    },
+    {
+        "source_sentence": "三十一七日，皮轉厚堅；",
+        "translation": "For thirty-one days the skin became thicker and firmer.",
+        "source": "T15n0606_001:0187b18_29"
+    },
+    {
+        "source_sentence": "三十二七日，皮革轉成；",
+        "translation": "On the thirty-seventh day, the leather began to turn into leather.",
+        "source": "T15n0606_001:0187b19_30"
+    },
+    {
+        "source_sentence": "三十三七日，耳、鼻、脣、指、諸膝節成；",
+        "translation": "On the thirty-seventh day their ears, nose, lips, fingers, and knuckles were formed.",
+        "source": "T15n0606_001:0187b20_0"
+    },
+    {
+        "source_sentence": "三十四七日，生九十九萬毛孔，髮孔猶尚未成；",
+        "translation": "On the thirty-seventh day ninety-nine million pores arose, but the pores had not yet been formed.",
+        "source": "T15n0606_001:0187b20_1"
+    },
+    {
+        "source_sentence": "三十五七日，毛孔具足；",
+        "translation": "On the thirty-fifth and seventh days their hair pores are fully endowed.",
+        "source": "T15n0606_001:0187b21_2"
+    },
+    {
+        "source_sentence": "三十六七日，爪甲成。",
+        "translation": "On the thirty-seventh day his nails and armor were completed.",
+        "source": "T15n0606_001:0187b22_3"
+    },
+    {
+        "source_sentence": "三十七七日，其母腹中，若干風起，有風開兒耳、目、鼻、口；",
+        "translation": "On the thirty-seventh day, several gusts of wind rose from their mother’s womb and a gust of wind opened her ears, eyes, nose, and mouth.",
+        "source": "T15n0606_001:0187b22_4"
+    },
+    {
+        "source_sentence": "或有風起，染其髮毛，或端正，或醜陋；",
+        "translation": "Sometimes a wind rises and stains their hair; sometimes they are handsome, sometimes ugly.",
+        "source": "T15n0606_001:0187b24_5"
+    },
+    {
+        "source_sentence": "又有風起，成體顏色，或白、赤、黑，有好、有醜皆由宿行；",
+        "translation": "Again, a wind rises and their physical forms may be white, red, or black; good or bad are all due to the actions of the constellations.",
+        "source": "T15n0606_001:0187b25_0"
+    },
+    {
+        "source_sentence": "在此七日中，生風寒熱，大小便通。",
+        "translation": "On this seventh day, a wind and cold and heat arise. Both excretory and urinating sensations are possible.",
+        "source": "T15n0606_001:0187b26_1"
+    },
+    {
+        "source_sentence": "　是身筋纏裹，　　諸血脈所成，",
+        "translation": "Their bodies are wrapped in sinews, Formed of blood vessels.",
+        "source": "T15n0606_001:0187b26_2"
+    },
+    {
+        "source_sentence": "　不淨盛腐積，　　水洗諸漏孔；",
+        "translation": "impure, full of decay, The water washes away the dirty pores.",
+        "source": "T15n0606_001:0187b26_2"
+    },
+    {
+        "source_sentence": "　虛覆心使然，　　巧偽而合成，",
+        "translation": "The mind that covers and makes it so, skillfully combining what’s false with what’s real.",
+        "source": "T15n0606_001:0187b26_2"
+    },
+    {
+        "source_sentence": "　機關如木人，　　求之甚難得。",
+        "translation": "It's as difficult to find a machine like a wooden man who seeks it.",
+        "source": "T15n0606_001:0187b26_2"
+    },
+    {
+        "source_sentence": "於是頌曰：三十八七日，在母腹中，隨其本行，自然風起。",
+        "translation": "The verse then said, On the thirty-eighth and seventh days, he's in his mother's womb, and a natural wind arises according to his original motion.",
+        "source": "T15n0606_001:0187b26_2"
+    },
+    {
+        "source_sentence": "宿行善者便有香風，可其身意柔軟無瑕，正其骨節令其端正，莫不愛敬也；",
+        "translation": "Those who practiced good deeds in the past had a fragrant breeze that refreshed their bodies and minds, making them gentle and without blemish. Correcting their bones and knuckles to make them handsome was an act of affection and reverence.",
+        "source": "T15n0606_001:0187c03_0"
+    },
+    {
+        "source_sentence": "本行惡者則起臭風，令身不安不可心意，吹其骨節令僂邪曲，使不端正又不能男，",
+        "translation": "When someone does evil in the past, a foul-smelling wind arises that disturbs body and mind. It blows their bones and knuckles so they bend and crooked, making them unstable and unable to grow male.",
+        "source": "T15n0606_001:0187c04_1"
+    },
+    {
+        "source_sentence": "人所不喜也；",
+        "translation": "It is not liked by people.",
+        "source": "T15n0606_001:0187c06_2"
+    },
+    {
+        "source_sentence": "是為三十八七日。",
+        "translation": "This is the thirty-eighth and seventh days.",
+        "source": "T15n0606_001:0187c06_3"
+    },
+    {
+        "source_sentence": "九月不滿四日，其兒身體、骨節，則成為人。",
+        "translation": "On the fourth day of the ninth month, his body and bones will become human beings.",
+        "source": "T15n0606_001:0187c07_4"
+    },
+    {
+        "source_sentence": "　人在身九月，　　則具諸體脈，",
+        "translation": "In the ninth month, a human body is endowed with all its bodily veins.",
+        "source": "T15n0606_001:0187c08_5"
+    },
+    {
+        "source_sentence": "　骨節皆成就，　　滿足無所乏。",
+        "translation": "The bones and joints are all complete, fulfilled without lack.",
+        "source": "T15n0606_001:0187c08_5"
+    },
+    {
+        "source_sentence": "　腹中漸自辦，　　稍稍而成長，",
+        "translation": "It gradually grows on its own in the belly, just a little bit larger.",
+        "source": "T15n0606_001:0187c08_5"
+    },
+    {
+        "source_sentence": "　期至悉具足，　　如月十五日。",
+        "translation": "Their arrival is complete on the fifteenth day of the month.",
+        "source": "T15n0606_001:0187c08_5"
+    },
+    {
+        "source_sentence": "於是頌曰：其小兒體而有二分：一分從父，一分從母。",
+        "translation": "The body of a small child is divided into two parts: one part comes from the father and one part comes from the mother.",
+        "source": "T15n0606_001:0187c08_5"
+    },
+    {
+        "source_sentence": "身諸髮、毛、頰、眼、舌、喉、心、肝、脾、腎、腸、血，軟者從母也；",
+        "translation": "The flesh, hair, eyelashes, cheeks, eyes, tongue, throat, heart, liver, spleen, kidneys, intestines, and blood all come from the mother.",
+        "source": "T15n0606_001:0187c13_6"
+    },
+    {
+        "source_sentence": "爪、齒、骨、節、髓、腦、筋、脈，堅者從父也。",
+        "translation": "The firmness of the nails, teeth, bones, knuckles, marrow, brain, sinews, and veins comes from the father.",
+        "source": "T15n0606_001:0187c15_0"
+    },
+    {
+        "source_sentence": "　人體相連綴，　　皆由父母生，",
+        "translation": "The bodies of sentient beings are interconnected, all born from their parents.",
+        "source": "T15n0606_001:0187c15_1"
+    },
+    {
+        "source_sentence": "　若干之節解，　　因緣化成立。",
+        "translation": "There are several sections that explain the causes and conditions for the formation of dharmas.",
+        "source": "T15n0606_001:0187c15_1"
+    },
+    {
+        "source_sentence": "　依而致顏色，　　悉當為衰耗，",
+        "translation": "Relying on it, their appearance will all decline.",
+        "source": "T15n0606_001:0187c15_1"
+    },
+    {
+        "source_sentence": "　眾材合起車，　　計體猶亦然。",
+        "translation": "All the materials are combined to form a chariot, And so is the imagined body.",
+        "source": "T15n0606_001:0187c15_1"
+    },
+    {
+        "source_sentence": "　作前有二事，　　立身譬若斯，",
+        "translation": "There are two things that were done previously, such as establishing a body metaphor.",
+        "source": "T15n0606_001:0187c15_1"
+    },
+    {
+        "source_sentence": "　因從父母報，　　然後乃得生。",
+        "translation": "As a result, they'll be born from their parents' reward, and then they'll be born.",
+        "source": "T15n0606_001:0187c15_1"
+    },
+    {
+        "source_sentence": "於是頌曰：其小兒在母腹中，處生藏之下、熟藏之上，男兒背外而面向內，",
+        "translation": "The boy was born in his mother’s womb, lying at the bottom of the embryo-store and above the embryo-store. The boy looked inside with his back to the outside.",
+        "source": "T15n0606_001:0187c15_1"
+    },
+    {
+        "source_sentence": "在左脇也；",
+        "translation": "He was also on his left side.",
+        "source": "T15n0606_001:0187c23_2"
+    },
+    {
+        "source_sentence": "女子背母而面向外，處在右脇也。",
+        "translation": "The woman turned her back on her mother and faced outward, standing at her right side.",
+        "source": "T15n0606_001:0187c23_3"
+    },
+    {
+        "source_sentence": "苦痛臭處污露不淨，一切骨節縮不得伸，捐在革囊腹網纏裹，藏血塗染所處逼迮，",
+        "translation": "It's painful, foul-smelling, defiled and impure, all the bones shrink and can't be extended, are wrapped in leather bags, hiding blood, smeared with stains, and crushed wherever it's found.",
+        "source": "T15n0606_001:0187c24_4"
+    },
+    {
+        "source_sentence": "依因屎尿瑕穢若斯。",
+        "translation": "Depending on the causes, excrement and urine are defiled like this.",
+        "source": "T15n0606_001:0187c26_5"
+    },
+    {
+        "source_sentence": "其於九月此餘四日，宿有善行，初日、後日發心念言：「吾在園觀亦在天上。」",
+        "translation": "On the fourth day after the first day in the ninth month, he had a good practice, and on the first day and the second day after that, he resolved to think, I'm in the garden and observing myself up in heaven.",
+        "source": "T15n0606_001:0187c26_6"
+    },
+    {
+        "source_sentence": "其行惡者謂：「在泥犁世間之獄。」",
+        "translation": "Those who do evil say, They're in the hell of the mud plow world.",
+        "source": "T15n0606_001:0188a02_7"
+    },
+    {
+        "source_sentence": "至三日中，即愁不樂，到四日時，母腹風起，或上或下，轉其兒身，而令倒懸，",
+        "translation": "On the third day he was overcome with sorrow and displeasure. On the fourth day, a wind rose from his mother’s womb and either upward or downward rolled her child’s body, causing it to hover in distress.",
+        "source": "T15n0606_001:0188a03_8"
+    },
+    {
+        "source_sentence": "頭向產門。",
+        "translation": "The head goes to the gate of production.",
+        "source": "T15n0606_001:0188a04_9"
+    },
+    {
+        "source_sentence": "其有德者，時心念言：「我投浴池，水中遊戲，如墮高床華香之處也！」",
+        "translation": "The virtuous man then thought to himself, I'll throw myself into a bathing pond and play in the water like falling on a high bed of flowers and fragrance!",
+        "source": "T15n0606_001:0188a05_10"
+    },
+    {
+        "source_sentence": "其無福者，自發念言：「吾從山墮，投於樹岸、溝坑、溷中，或如地獄、羅網、蕀上、曠野、石澗、劍戟之中！」",
+        "translation": "Those who lack merit will think to themselves, I'll fall from the mountain and throw myself into a tree shore, a ditch, or a pit, or like hell, a net, a river, a wilderness, a stream, a sword, or a halberd!",
+        "source": "T15n0606_001:0188a06_11"
+    },
+    {
+        "source_sentence": "愁憂不樂。",
+        "translation": "They're sad and unhappy.",
+        "source": "T15n0606_001:0188a08_12"
+    },
+    {
+        "source_sentence": "善惡之報，不同若此。",
+        "translation": "The results of good and evil are not the same as these.",
+        "source": "T15n0606_001:0188a08_13"
+    },
+    {
+        "source_sentence": "　如投燒熱火，　　亂煙來圍繞，",
+        "translation": "It's like throwing into a burning hot fire, Surrounded by smoke and turmoil.",
+        "source": "T15n0606_001:0188a09_14"
+    },
+    {
+        "source_sentence": "　放逸果所致，　　處形若沸湯。",
+        "translation": "The fruit of carelessness is like boiling water in the shape of a pot.",
+        "source": "T15n0606_001:0188a09_14"
+    },
+    {
+        "source_sentence": "　苦樂之所由，　　皆因罪福成，",
+        "translation": "The causes of suffering and pleasure are all due to sins and merits.",
+        "source": "T15n0606_001:0188a09_14"
+    },
+    {
+        "source_sentence": "　在在生所作，　　受身各如是。",
+        "translation": "The same applies to the body and to what is manifesting at birth.",
+        "source": "T15n0606_001:0188a09_14"
+    },
+    {
+        "source_sentence": "於是頌曰：其小兒身既當向產，又墮地時外風所吹，女人手觸煖水洗之，",
+        "translation": "Thereupon, the goddess said in verse: When the small child was about to give birth, and when he fell down onto the ground and washed his body with warm water by touching it with her hand, a wind blew from an outside wind.",
+        "source": "T15n0606_001:0188a09_14"
+    },
+    {
+        "source_sentence": "逼迫毒痛猶如瘡病也。",
+        "translation": "The pain of oppression and poison is like a sore.",
+        "source": "T15n0606_001:0188a15_15"
+    },
+    {
+        "source_sentence": "以是苦惱恐畏死亡，便有癡惑是故迷憒，不識本來去至何所也。",
+        "translation": "Because of this suffering and fear of death, they'll have delusion and confusion, so they'll be confused and disillusioned, not knowing where they originally went.",
+        "source": "T15n0606_001:0188a16_16"
+    },
+    {
+        "source_sentence": "適生在地，血纏臭處，鬼魅來繞，姦邪所中，飛屍所觸，蠱道、癲鬼，",
+        "translation": "When they are born on the ground, their blood tethers them to a foul-smelling place where ghosts and demons come to surround them.",
+        "source": "T15n0606_001:0188a17_17"
+    },
+    {
+        "source_sentence": "各伺犯之。",
+        "translation": "Each one examines the offense and violates it.",
+        "source": "T15n0606_001:0188a19_18"
+    },
+    {
+        "source_sentence": "如四交道墮一叚肉，烏鵄、雕狼各來諍之，諸邪魅鬼欲得兒便，周匝圍遶亦復如是。",
+        "translation": "It's like when a piece of flesh falls from the four intersections and crows and wolves each come to eat it, and evil demons and ghosts want to get an advantage over it, just as they surround it.",
+        "source": "T15n0606_001:0188a19_19"
+    },
+    {
+        "source_sentence": "宿行善者邪不得便，設宿行惡眾邪即著。",
+        "translation": "Those who practice good in the past won't get an advantage over wrongdoers, and those who practice bad in the past will become attached to wrongdoing.",
+        "source": "T15n0606_001:0188a21_20"
+    },
+    {
+        "source_sentence": "兒初生時因母乳活，稍稍長大因食得立。",
+        "translation": "When a child is first born, it's because of the mother's breast that he's alive, and when he's slightly older, he can stand up because of food.",
+        "source": "T15n0606_001:0188a22_21"
+    },
+    {
+        "source_sentence": "　在於胞胎時，　　遭若干苦惱，",
+        "translation": "While in the womb, they experience various kinds of suffering and distress.",
+        "source": "T15n0606_001:0188a23_22"
+    },
+    {
+        "source_sentence": "　既生得為人，　　其痛有百千。",
+        "translation": "Once he's born, he becomes a human being, and his pain is a hundred thousand times greater.",
+        "source": "T15n0606_001:0188a23_22"
+    },
+    {
+        "source_sentence": "　諸根已成就，　　因出危脆身，",
+        "translation": "Having perfected their faculties, they cause the emergence of dangerous and fragile bodies.",
+        "source": "T15n0606_001:0188a23_22"
+    },
+    {
+        "source_sentence": "　有生必老死，　　是為最不真。",
+        "translation": "If there's birth, there must be old age and death, which is the most unreal.",
+        "source": "T15n0606_001:0188a23_22"
+    },
+    {
+        "source_sentence": "於是頌曰：兒已長大揣哺養身，適得穀氣其體即時，生八十種蟲。",
+        "translation": "He then composed a verse, saying, When the child grows up to adulthood and feeds his body, he'll be able to gather grain and give rise to eighty kinds of insects.",
+        "source": "T15n0606_001:0188a23_22"
+    },
+    {
+        "source_sentence": "兩種在髮根：一名舌舐，二名重舐。",
+        "translation": "Two kinds are present in the faculties: one is called tongue licking and two are called repeated licking.",
+        "source": "T15n0606_001:0188a29_23"
+    },
+    {
+        "source_sentence": "三種在頭，名曰：堅固、傷損、毀害。",
+        "translation": "There are three kinds of people on their heads, namely, the strong, the wounded, and the harmful.",
+        "source": "T15n0606_001:0188b01_24"
+    },
+    {
+        "source_sentence": "一種在腦，兩種在腦表：一名[虫*哲]咮，二名耗擾，三名憒亂。",
+        "translation": "There's one kind that's in the brain, and two kinds that are on the surface of the brain: one [insect*zhe] gnats, two are called troubled, and three are called disturbed.",
+        "source": "T15n0606_001:0188b01_25"
+    },
+    {
+        "source_sentence": "兩種在額：一名卑下，二名朽腐。",
+        "translation": "Two kinds are present in the forehead: one is inferior and two are decaying.",
+        "source": "T15n0606_001:0188b03_0"
+    },
+    {
+        "source_sentence": "兩種在眼：一名舌舐，二名重舐。",
+        "translation": "Two kinds are present in the eye: one is called tongue licking and two are called heavy licking.",
+        "source": "T15n0606_001:0188b03_1"
+    },
+    {
+        "source_sentence": "兩種在耳：一名識味，二名現味英。",
+        "translation": "Two kinds are present in the ear: one is the taste of consciousness, and two are called the manifestation of taste.",
+        "source": "T15n0606_001:0188b04_2"
+    },
+    {
+        "source_sentence": "兩種在耳根：一名曰赤，二名復赤。",
+        "translation": "Two kinds are found in the ear faculty: one is called red and two are called red again.",
+        "source": "T15n0606_001:0188b05_3"
+    },
+    {
+        "source_sentence": "兩種在鼻：一名曰肥，二名復肥。",
+        "translation": "Two kinds are present in the nose: one is called fat and two are called regained fat.",
+        "source": "T15n0606_001:0188b06_0"
+    },
+    {
+        "source_sentence": "兩種在口中：一名曰搖，二名動搖。",
+        "translation": "Two kinds are present in the mouth: one is called shook, and two are called shaken.",
+        "source": "T15n0606_001:0188b06_1"
+    },
+    {
+        "source_sentence": "兩種在齒中：一名惡弊，二名凶暴。",
+        "translation": "Two kinds are present in the teeth: one is bad and two are called violent.",
+        "source": "T15n0606_001:0188b07_2"
+    },
+    {
+        "source_sentence": "三種在齒根，名曰：喘息、休止、捽搣。",
+        "translation": "The three kinds at the root of teeth are called panting, resting, and trembling.",
+        "source": "T15n0606_001:0188b08_3"
+    },
+    {
+        "source_sentence": "一種在舌，名曰甘美。",
+        "translation": "One kind is in the tongue, which is called sweetness.",
+        "source": "T15n0606_001:0188b09_4"
+    },
+    {
+        "source_sentence": "一種在舌根，名曰柔軟。",
+        "translation": "One kind is in the tongue faculty, which is called softness.",
+        "source": "T15n0606_001:0188b09_5"
+    },
+    {
+        "source_sentence": "一種在上齗，名曰來往。",
+        "translation": "The first is called “coming and going” because it is located above the monastery.",
+        "source": "T15n0606_001:0188b10_6"
+    },
+    {
+        "source_sentence": "一種在咽，名為嗽喉。",
+        "translation": "One kind is in the throat, which is called a coughing throat.",
+        "source": "T15n0606_001:0188b10_7"
+    },
+    {
+        "source_sentence": "兩種在瞳子：一名曰生，二名不熟。",
+        "translation": "Two kinds are present in the pupil: one is called birth, and two are called immature.",
+        "source": "T15n0606_001:0188b11_8"
+    },
+    {
+        "source_sentence": "兩種在肩：一名曰垂，二名曰復垂。",
+        "translation": "Two kinds are on the shoulders: one is called hanging, and two are called again hanging.",
+        "source": "T15n0606_001:0188b12_0"
+    },
+    {
+        "source_sentence": "一種在臂，名為住立。",
+        "translation": "One kind is in the arm, which is called standing.",
+        "source": "T15n0606_001:0188b12_1"
+    },
+    {
+        "source_sentence": "一種在手，名為周旋。",
+        "translation": "One kind is in the hand, which is called circumambulation.",
+        "source": "T15n0606_001:0188b13_2"
+    },
+    {
+        "source_sentence": "兩種在胸：一名額坑，二名廣普。",
+        "translation": "Two kinds are present in the chest: one is a forehead pit, and two are called vast and universal.",
+        "source": "T15n0606_001:0188b13_3"
+    },
+    {
+        "source_sentence": "一種在心，名為班駁。",
+        "translation": "One kind is present in the mind, which is called Banqi.",
+        "source": "T15n0606_001:0188b14_4"
+    },
+    {
+        "source_sentence": "一種在乳，名曰湩現。",
+        "translation": "One kind is present in milk, which is called coarse manifestation.",
+        "source": "T15n0606_001:0188b15_0"
+    },
+    {
+        "source_sentence": "一種在臍，名為圍繞。",
+        "translation": "One kind is in the navel, which is called circumambulation.",
+        "source": "T15n0606_001:0188b15_1"
+    },
+    {
+        "source_sentence": "兩種在脇：一名為月，二名月面。",
+        "translation": "There are two kinds of people at the waist: one is called the moon and two are called the moon-face.",
+        "source": "T15n0606_001:0188b16_0"
+    },
+    {
+        "source_sentence": "兩種在脊：一名月行，二名月貌。",
+        "translation": "There are two kinds at the back: one is called the moon moves, and the other is called the moon's appearance.",
+        "source": "T15n0606_001:0188b16_1"
+    },
+    {
+        "source_sentence": "一種在背胸間，名為安豐。",
+        "translation": "One kind is between the back and chest, which is called Anfeng.",
+        "source": "T15n0606_001:0188b17_2"
+    },
+    {
+        "source_sentence": "一種在皮裏，名為虎爪。",
+        "translation": "One kind is inside the skin, which is called the tiger's claw.",
+        "source": "T15n0606_001:0188b18_3"
+    },
+    {
+        "source_sentence": "兩種在肉：一名消膚，二名燒樹。",
+        "translation": "There are two kinds of flesh: one that removes fat and two that burn trees.",
+        "source": "T15n0606_001:0188b18_4"
+    },
+    {
+        "source_sentence": "四種在骨，名為：甚毒、習毒、細骨、雜毒。",
+        "translation": "The four kinds in the bones are called extreme poison, chronic poison, subtle bones, and mixed poison.",
+        "source": "T15n0606_001:0188b19_5"
+    },
+    {
+        "source_sentence": "五種在髓，名曰：殺害、無殺、破壞、離骸、白骨。",
+        "translation": "There are five kinds in the marrow, which are called killing, non-killing, dismembering, being free of bone and white bone.",
+        "source": "T15n0606_001:0188b20_6"
+    },
+    {
+        "source_sentence": "兩種在腸：一名蜣蜋，二名蜣蜋[口*(隹\\/乃)]。",
+        "translation": "Two kinds are present in the intestines: one is crude, and two are called crude [mouth*(coarse\\/no)].",
+        "source": "T15n0606_001:0188b21_7"
+    },
+    {
+        "source_sentence": "兩種在細腸：一名兒子，二名復子。",
+        "translation": "Two kinds are in the subtle intestines: one is a son, and two are called reborn.",
+        "source": "T15n0606_001:0188b21_8"
+    },
+    {
+        "source_sentence": "一種在肝，名為嚚喍。",
+        "translation": "One kind is in the liver, which is called abscess.",
+        "source": "T15n0606_001:0188b22_9"
+    },
+    {
+        "source_sentence": "一種在生藏，名曰帔忞。",
+        "translation": "One kind is in the store of birth, which is called anger.",
+        "source": "T15n0606_001:0188b23_10"
+    },
+    {
+        "source_sentence": "一種在熟藏，名為太息。",
+        "translation": "One kind is in the store of maturation, which is called Taishou.",
+        "source": "T15n0606_001:0188b23_11"
+    },
+    {
+        "source_sentence": "一種在穀道，名為重身。",
+        "translation": "One kind is in the grain path, which is called a heavy body.",
+        "source": "T15n0606_001:0188b24_12"
+    },
+    {
+        "source_sentence": "三種在糞中，名曰：筋目、結目、編髮。",
+        "translation": "The three kinds are in the dung, which are called sinews, fetters, eyes, and knotts.",
+        "source": "T15n0606_001:0188b24_13"
+    },
+    {
+        "source_sentence": "兩種在尻：一名流下，二名重流。",
+        "translation": "Two kinds are in the buttocks: one is below the flow, and two are heavy-flowing.",
+        "source": "T15n0606_001:0188b25_14"
+    },
+    {
+        "source_sentence": "五種在胞，名為：宗姓、惡族、臥寐、不覺、護汁。",
+        "translation": "There are five kinds in the cellar, which are called castes, bad castes, lying asleep, not awake, and guarding juice.",
+        "source": "T15n0606_001:0188b26_15"
+    },
+    {
+        "source_sentence": "一種在髀，名為撾杖。",
+        "translation": "One kind is in the thighs, which are called laying a staff.",
+        "source": "T15n0606_001:0188b27_16"
+    },
+    {
+        "source_sentence": "一種在膝，名為現傷。",
+        "translation": "One kind is in the knees, which are called present wounds.",
+        "source": "T15n0606_001:0188b27_17"
+    },
+    {
+        "source_sentence": "一種在踝，名為鍼[口*(隹\\/乃)]。",
+        "translation": "One kind is at the ankle, which is called a needle [mouth*(hen\\/now)].",
+        "source": "T15n0606_001:0188b28_18"
+    },
+    {
+        "source_sentence": "一種在足指，名為燋然。",
+        "translation": "One kind is placed on the toes of the feet, which are called angry.",
+        "source": "T15n0606_001:0188b28_19"
+    },
+    {
+        "source_sentence": "一種在足心，名為食皮。",
+        "translation": "One kind is in the mind at the feet, which is called eating skin.",
+        "source": "T15n0606_001:0188b29_20"
+    },
+    {
+        "source_sentence": "是為八十種蟲，處在人身，晝夜食體。",
+        "translation": "These are the eighty kinds of insects that live in human bodies and feed day and night.",
+        "source": "T15n0606_001:0188c01_0"
+    },
+    {
+        "source_sentence": "　從頭髮下至足，　　遍中蟲消食人，",
+        "translation": "From the bottom to the feet, worms pervade and eat people.",
+        "source": "T15n0606_001:0188c01_1"
+    },
+    {
+        "source_sentence": "　計念之為瑕穢，　　譬喻比如濁水。",
+        "translation": "Thinking of it as defiled, it's like the metaphor of turbid water.",
+        "source": "T15n0606_001:0188c01_1"
+    },
+    {
+        "source_sentence": "　從己生反自殘，　　如刀怨患害人，",
+        "translation": "They are born from themselves and turn against themselves, like a sword that harms someone with an enemy.",
+        "source": "T15n0606_001:0188c01_1"
+    },
+    {
+        "source_sentence": "　常來齧傷其身，　　若流水侵兩岸。",
+        "translation": "They always come to compassionately hurt their bodies, and if flowing water encroaches on both sides.",
+        "source": "T15n0606_001:0188c01_1"
+    },
+    {
+        "source_sentence": "於是頌曰：其人身中，因風起病，有百一種，寒、熱、共合，各有百一，",
+        "translation": "Thereupon, the Buddha said in verse: The man’s body is afflicted by wind and has a hundred and one kinds of illnesses. Cold, heat, and combined with it each have a hundred and one types.",
+        "source": "T15n0606_001:0188c01_1"
+    },
+    {
+        "source_sentence": "凡合計之，四百四病，在人身中。",
+        "translation": "Together with these, four hundred and four illnesses occurred in the human body.",
+        "source": "T15n0606_001:0188c08_2"
+    },
+    {
+        "source_sentence": "如木生火，還自燒然；",
+        "translation": "It is like a tree that when it produces fire, returns to burn itself.",
+        "source": "T15n0606_001:0188c08_3"
+    },
+    {
+        "source_sentence": "病亦如是，本因體興，反來危人。",
+        "translation": "So it is with illness, which originally arises by its own cause and returns to a dangerous person in return.",
+        "source": "T15n0606_001:0188c09_4"
+    },
+    {
+        "source_sentence": "及身中表八十種蟲，擾動其身，令人不安，豈復況外諸苦之惱也！",
+        "translation": "And the eighty kinds of insects on the surface of their bodies disturb their bodies, making them uneasy, so why wouldn't they be disturbed by external pain and suffering?",
+        "source": "T15n0606_001:0188c10_5"
+    },
+    {
+        "source_sentence": "計身如是，常有憂患，凡夫之士自謂為安，不聞不解。",
+        "translation": "They think their bodies are like this and always have grief and distress. Ordinary people call themselves peaceful, but they don’t hear or understand.",
+        "source": "T15n0606_001:0188c11_6"
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T15n0606_001:0188c12_7"
+    },
+    {
+        "source_sentence": "不見諦故。",
+        "translation": "It's because they don't see the truth.",
+        "source": "T15n0606_001:0188c13_8"
+    },
+    {
+        "source_sentence": "　髮毛諸爪齒，　　心肉皮骨合，",
+        "translation": "hair, nails, and teeth, heart, flesh, skin, and bones are combined.",
+        "source": "T15n0606_001:0188c13_9"
+    },
+    {
+        "source_sentence": "　精血寒熱生，　　髓腦脂生熟，",
+        "translation": "semen and blood arise from cold and heat, marrow and fat grow and mature.",
+        "source": "T15n0606_001:0188c13_9"
+    },
+    {
+        "source_sentence": "　諸寒涕唾淚，　　大小便常漏，",
+        "translation": "Their cold tears, spittle, and tears are always leaking from their exhalation.",
+        "source": "T15n0606_001:0188c13_9"
+    },
+    {
+        "source_sentence": "　非常計不淨，　　愚者謂為珍。",
+        "translation": "They don't really think it's impure, and foolish people call it treasure.",
+        "source": "T15n0606_001:0188c13_9"
+    },
+    {
+        "source_sentence": "於是頌曰：計念人身，覆以薄皮，如合棗奈，皮甚薄少耳！",
+        "translation": "He then composed a verse, saying, Suppose someone imagines to cover their body with thin skin, like combining it with jujubes and nails, which are very thin!",
+        "source": "T15n0606_001:0188c13_9"
+    },
+    {
+        "source_sentence": "以為蓋之，人而不知，假使脫皮如困鈍肉，何可名之為是人身？",
+        "translation": "It's because people don't know it, and even if they were to remove skin like hungry dull flesh, how could they call it a human body?",
+        "source": "T15n0606_001:0188c19_10"
+    },
+    {
+        "source_sentence": "骨節相拄如連鐵鎖，諦見如是尚不足蹈，況復親近而目視之！",
+        "translation": "The bones are pointed at each other like chains of iron chains, and it's still not enough to touch them when you see them so closely, so why would you look at them with your eyes if you were to approach them?",
+        "source": "T15n0606_001:0188c20_11"
+    },
+    {
+        "source_sentence": "　計本為瑕穢，　　譬如臭爛屍，",
+        "translation": "To think of the original as defiled is like smelling a rotten corpse.",
+        "source": "T15n0606_001:0188c22_12"
+    },
+    {
+        "source_sentence": "　亦如諸塵垢，　　體蟲俱復然；",
+        "translation": "Like the dirt of all the dust motes, So is the body and the insects.",
+        "source": "T15n0606_001:0188c22_12"
+    },
+    {
+        "source_sentence": "　亦如畫好像，　　會當歸腐敗，",
+        "translation": "It's also like a drawing that looks like it, which will surely return to decay.",
+        "source": "T15n0606_001:0188c22_12"
+    },
+    {
+        "source_sentence": "　以諦見本無，　　安可附近之。",
+        "translation": "Because the view of truth is originally nonexistent, it's safe to approach it.",
+        "source": "T15n0606_001:0188c22_12"
+    },
+    {
+        "source_sentence": "於是以偈而歎頌曰：計人在世所作禍福，不盡其壽，亦有中夭而死傷者。",
+        "translation": "He then composed a verse in praise, saying, A person's calculation of misfortune and fortune created in the world doesn't end their life span, and there are also those who die with an intermediate death.",
+        "source": "T15n0606_001:0188c22_12"
+    },
+    {
+        "source_sentence": "譬如陶家作諸瓦器，或始破者，向欲刀治坏時破者，或塼上破、或下時破、或著地破、或拍時破、或坏燥破、或陶中破、或熟破者、或移時破者、或用破者，",
+        "translation": "It's like a potter making tile vessel that breaks when it's first broken, or when it's facing toward the desire knife and cuts it down; sometimes it breaks when it's crude, sometimes it breaks when it's crude, sometimes it breaks when it's crude, sometimes it breaks when it's crude, sometimes it break",
+        "source": "T15n0606_001:0189a04_13"
+    },
+    {
+        "source_sentence": "設使不用久久會破也！",
+        "translation": "Suppose someone doesn't need to break it up for a long time!",
+        "source": "T15n0606_001:0189a07_14"
+    },
+    {
+        "source_sentence": "人亦如是，有初發意向來未至死者，或有二根胎如生酪，有如熟酪、息肉、段肉，",
+        "translation": "Good man, it is the same with humans. There are those who have first undertaken intentions but do not reach death before their arrival. Some [are born] in two-cornered wombs like fresh curds and some like cooked curds, suckling flesh, and crocodile meat.",
+        "source": "T15n0606_001:0189a08_15"
+    },
+    {
+        "source_sentence": "具足六情，或不具足而有死者；",
+        "translation": "They are endowed with the six emotions. Some die when they are not endowed with them.",
+        "source": "T15n0606_001:0189a10_16"
+    },
+    {
+        "source_sentence": "向欲生時，又適墮地；",
+        "translation": "When they are about to be born, they will again fall into the ground.",
+        "source": "T15n0606_001:0189a10_17"
+    },
+    {
+        "source_sentence": "一日、百日、一歲、十歲學業死者；",
+        "translation": "“One day, a hundred days, one year and ten years old:",
+        "source": "T15n0606_001:0189a11_18"
+    },
+    {
+        "source_sentence": "二十、三十、四十、五十，從一歲死至到百歲，雖復長壽會當歸盡也！",
+        "translation": "Twenty, thirty, forty, forty, and fifty years, from one year old when they die until a hundred years old, even though their long life will return to its end!",
+        "source": "T15n0606_001:0189a11_19"
+    },
+    {
+        "source_sentence": "如是五陰計本皆空，展轉相依，須臾有起、須臾有滅，舉足、下足而皆無常。",
+        "translation": "In this way, the five aggregates are all calculated to be fundamentally void. They are mutually dependent in transmigration: they arise and perish at the moment; they are impermanent when one lifts their legs or when one lowers them.",
+        "source": "T15n0606_001:0189a13_20"
+    },
+    {
+        "source_sentence": "愚癡之人，不聞不知反計有身，從少至老皆謂我所，呼為一種，不知非常之變也！",
+        "translation": "A foolish man who doesn't hear or know and rejects the idea that there's a body, which is described as self from youthful to old, calls it one type, and doesn't know the impermanent change!",
+        "source": "T15n0606_001:0189a15_21"
+    },
+    {
+        "source_sentence": "修行道者思惟計之，從是致是，無是則無。",
+        "translation": "When someone cultivates the path, they contemplate and conceptualize it, which is to be done from this, and when there's nothing, then there's nothing.",
+        "source": "T15n0606_001:0189a16_22"
+    },
+    {
+        "source_sentence": "何謂從是致是者？",
+        "translation": "What's meant to be the result of this?",
+        "source": "T15n0606_001:0189a17_23"
+    },
+    {
+        "source_sentence": "因本之行所作殃福，故致死亡而在中止。",
+        "translation": "Because of the bad fortune caused by their original actions, they died and stayed there.",
+        "source": "T15n0606_001:0189a18_24"
+    },
+    {
+        "source_sentence": "至于胞胎精神處之，形如薄酪、息肉、段肉，稍至堅肉因有六根，六根具足則便出生，",
+        "translation": "When the spirit of the embryo is placed there, it's shaped like thin curds, smoked flesh, and pieces of flesh. A little bit hard flesh has six faculties, and when the six faculties are complete, then birth occurs.",
+        "source": "T15n0606_001:0189a19_25"
+    },
+    {
+        "source_sentence": "從少小身及至中年，乃到老、病當復歸死，其五陰轉於生死之輪，常如川流無有休息，",
+        "translation": "From the time they are small and middle aged, when they reach old age and sickness, they will return to death. The five aggregates revolve in the cycle of birth and death, always flowing like rivers without cease.",
+        "source": "T15n0606_001:0189a21_26"
+    },
+    {
+        "source_sentence": "一切皆空譬如幻化，如是顛倒至于老、病、死。",
+        "translation": "All of them are empty, like illusory transformations, and so they are mistaken up to old age, illness, and death.",
+        "source": "T15n0606_001:0189a23_27"
+    },
+    {
+        "source_sentence": "譬如有大城西門失火，從次燒之乃到東門，皆令灰燼，計東門火非是初火也！",
+        "translation": "It's like a great city that loses fire at the west gate of its west gate and goes to the east gate after it's burned from one place to another, and they all fall into ashes, which is not the first fire in the east gate!",
+        "source": "T15n0606_001:0189a24_28"
+    },
+    {
+        "source_sentence": "然其燋燃不離本火也！",
+        "translation": "Still, that flame doesn't part from the original fire!",
+        "source": "T15n0606_001:0189a25_29"
+    },
+    {
+        "source_sentence": "人亦如是，從本因緣隨其禍福，當觀如此從是有是也！",
+        "translation": "So it is with humans, who follow their misfortune and fortune from the original causes and conditions, and you should observe that this is the beginning of existence!",
+        "source": "T15n0606_001:0189a26_30"
+    },
+    {
+        "source_sentence": "何謂無是則無也？",
+        "translation": "What's meant by nonexistence, which is then nonexistence?",
+        "source": "T15n0606_001:0189a27_31"
+    },
+    {
+        "source_sentence": "無有凶福及餘塵勞則不歸死，已不歸死不在中止，設無中止何從有生？",
+        "translation": "If there's no bad fortune or other defilement, then they won't return to death; after they don't return to death, they aren't abiding in cessation, and if there's no cessation, how could there be birth?",
+        "source": "T15n0606_001:0189a28_32"
+    },
+    {
+        "source_sentence": "已不有生，其老、病、死何由而有也？",
+        "translation": "If there is no birth, how could old age, illness, and death arise?",
+        "source": "T15n0606_001:0189a29_33"
+    },
+    {
+        "source_sentence": "計生死流本末如此，修行道者當觀五陰所從成敗。",
+        "translation": "Such is the calculation of the origin and derivative of the stream of birth and death. Practitioners of the path should contemplate the formation and decay from which the five aggregates are derived.",
+        "source": "T15n0606_001:0189b01_34"
+    },
+    {
+        "source_sentence": "　明識諸慧義，　　心淨如月盛，",
+        "translation": "To clarify the meaning of consciousness and wisdom, The mind is pure like the moon in full bloom.",
+        "source": "T15n0606_001:0189b02_35"
+    },
+    {
+        "source_sentence": "　秉志而專一，　　愍哀三界人。",
+        "translation": "They hold their aspirations and focus on one, pitying the people of the three realms.",
+        "source": "T15n0606_001:0189b02_35"
+    },
+    {
+        "source_sentence": "　如蓮花於水，　　甘美柔軟上，",
+        "translation": "It's like a lotus flower in water that's sweet and gentle on the surface.",
+        "source": "T15n0606_001:0189b02_35"
+    },
+    {
+        "source_sentence": "　口之所宣說，　　聽者則欣達。",
+        "translation": "What he teaches with his mouth, the hearers will gladly comprehend it.",
+        "source": "T15n0606_001:0189b02_35"
+    },
+    {
+        "source_sentence": "　分別演本起，　　了之歸滅盡，",
+        "translation": "Discriminating and explaining the original arising, Understanding it returns to cessation.",
+        "source": "T15n0606_001:0189b02_35"
+    },
+    {
+        "source_sentence": "　能仁悉究竟，　　以愍眾生故。",
+        "translation": "Their kindness is complete because they pity sentient beings.",
+        "source": "T15n0606_001:0189b02_35"
+    },
+    {
+        "source_sentence": "　吾從佛經中，　　省採而鈔取，",
+        "translation": "I collected and compiled the scriptures from the Buddha’s sutras.",
+        "source": "T15n0606_001:0189b02_35"
+    },
+    {
+        "source_sentence": "　因佛之講說，　　故造修行經。",
+        "translation": "Because of the Buddha’s exhortation, He composed the scripture on religious practice.",
+        "source": "T15n0606_001:0189b02_35"
+    },
+    {
+        "source_sentence": "於是頌曰：修行道地經卷第一",
+        "translation": "Then he composed the following verse:",
+        "source": "T15n0606_001:0189b02_35"
+    }
+]
