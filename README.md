@@ -17,7 +17,7 @@ Germany
 
 
 # How to publish 
-You are free to publish these translations on your website. Please show a disclaimer (or a link to a disclaimer) with the translations so people can put the results into context. Please use the disclaimers that are added at each folder.
+You are free to publish these translations on your website. Please show a disclaimer (or a link to a disclaimer) with the translations so people can put the results into context. Please use the disclaimers that are added in each folder.
 
 
 # Feedback

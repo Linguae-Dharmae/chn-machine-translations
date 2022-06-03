@@ -13,7 +13,7 @@ This text was translated by Sebastian Nehrdich using an experimental model that 
 # How to publish 
 You are free to publish these translations on your website. Please show a disclaimer (or a link to a disclaimer) with the translations so people can put the results into context. Please use the following disclaimer: 
 
-> This text was translated by Sebastian using an experimental model that
+> This text was translated by Sebastian Nehrdich using an experimental model that
 > was trained as an internal, non-commercial research project. Given the
 > sparsity of the training material and the diverse nature of the Taisho
 > corpus, the model might not always give high quality resutls.
