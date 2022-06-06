@@ -1,4 +1,4 @@
-# Taisho translations by Sebastian Nehrdich
+# *Linguae Dharmae* by Sebastian Nehrdich
 
 
 # License
