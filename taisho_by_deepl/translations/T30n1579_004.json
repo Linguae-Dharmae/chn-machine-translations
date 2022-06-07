@@ -1,0 +1,4496 @@
+[
+    {
+        "source_sentence": "瑜伽師地論卷第四",
+        "translation": "Yogâcārabhūmi-śāstra, Vol. 4",
+        "source": "T30n1579_004:0294b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彌勒菩薩說",
+        "translation": "Maitreya Bodhisattva said",
+        "source": "T30n1579_004:0294b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T30n1579_004:0294b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本地分中有尋有伺等三地之一",
+        "translation": "one of the three grounds of discursive thought and discursive thought in the original state",
+        "source": "T30n1579_004:0294b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已說意地。",
+        "translation": "I've already explained the ground of intention.",
+        "source": "T30n1579_004:0294b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有尋有伺地。",
+        "translation": "\"What's the ground of discursive thought and discursive thought?",
+        "source": "T30n1579_004:0294b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無尋唯伺地。",
+        "translation": "What's the ground of no discursive thought but discursive thought?",
+        "source": "T30n1579_004:0294b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無尋無伺地。",
+        "translation": "What's the ground of no discursive thought and no discursive thought?",
+        "source": "T30n1579_004:0294b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總嗢拕南曰。",
+        "translation": "It's summarized in a general outline that says.",
+        "source": "T30n1579_004:0294b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　界相如理不如理　　雜染等起最為後如是三地。",
+        "translation": "'The characteristics of the realms are as they are and as they aren't, defilements and so forth arise most recently, and these three stages are thus established.'",
+        "source": "T30n1579_004:0294b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略以五門施設建立。",
+        "translation": "They are established by a brief designation of five aspects.",
+        "source": "T30n1579_004:0294b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一界施設建立。",
+        "translation": "One is established by defining the objective realm.",
+        "source": "T30n1579_004:0294b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二相施設建立。",
+        "translation": "Two are established by the designations of characteristics.",
+        "source": "T30n1579_004:0294b17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三如理作意施設建立。",
+        "translation": "Three are established by contemplating what's correct and what's not correct.",
+        "source": "T30n1579_004:0294b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四不如理作意施設建立。",
+        "translation": "Four don't establish with correct contemplation.",
+        "source": "T30n1579_004:0294b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五雜染等起施設建立。",
+        "translation": "Five defilements and so forth are established by the designations that arise.",
+        "source": "T30n1579_004:0294b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何界施設建立。",
+        "translation": "What are the establishments of defining the elements?",
+        "source": "T30n1579_004:0294b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別嗢拕南曰。",
+        "translation": "The secular teaching says.",
+        "source": "T30n1579_004:0294b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　數處量壽受用生　　自體因緣果分別當知界建立由八種相。",
+        "translation": "'The number of places, the number of lives, the experiences, the functions, and the births that arise from their own bodies, causes, conditions, and effects are discerned.' You should know that the establishment of the elements is based on eight kinds of characteristics.",
+        "source": "T30n1579_004:0294b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一數建立。",
+        "translation": "One is established by number.",
+        "source": "T30n1579_004:0294b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二處建立。",
+        "translation": "Two establishments are places.",
+        "source": "T30n1579_004:0294b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三有情量建立。",
+        "translation": "Three are established by the amount of sentient beings.",
+        "source": "T30n1579_004:0294b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四有情壽建立。",
+        "translation": "Four sentient beings' lives are established ...",
+        "source": "T30n1579_004:0294b22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五有情受用建立。",
+        "translation": "five sentient beings' experience of function is established ...",
+        "source": "T30n1579_004:0294b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六生建立。",
+        "translation": "6 birth is established ...",
+        "source": "T30n1579_004:0294b23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七自體建立。",
+        "translation": "...seven self-substance is established ...",
+        "source": "T30n1579_004:0294b23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八因緣果建立。",
+        "translation": "8. the establishment of causes and conditions as results.",
+        "source": "T30n1579_004:0294b23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何數建立。",
+        "translation": "\"What are the various establishments?",
+        "source": "T30n1579_004:0294b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略有三界。",
+        "translation": "There are briefly three elements.",
+        "source": "T30n1579_004:0294b24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界色界無色界。",
+        "translation": "They are the desire realm, the form realm, and the formless realm.",
+        "source": "T30n1579_004:0294b24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是三種名墮攝界。",
+        "translation": "These three are called fallen into the collected realm.",
+        "source": "T30n1579_004:0294b25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非墮攝界者。",
+        "translation": "Those who haven't fallen into the perspective realm ...",
+        "source": "T30n1579_004:0294b25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂方便。",
+        "translation": "They are the skillful means ...",
+        "source": "T30n1579_004:0294b25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "并薩迦耶。",
+        "translation": "It's also the sāgaya.",
+        "source": "T30n1579_004:0294b26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅及無戲論。",
+        "translation": "They are cessation and the absence of conceptual elaboration.",
+        "source": "T30n1579_004:0294b26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無漏界。",
+        "translation": "They are the uncontaminated realm.",
+        "source": "T30n1579_004:0294b26_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中欲界及色界初靜慮。",
+        "translation": "Here, there's the first concentration in the desire realm and the form realm.",
+        "source": "T30n1579_004:0294b26_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除靜慮中間若定若生。",
+        "translation": "Except for the intermediate state of meditation, if there's concentration or birth, that's called the stage of discursive thought.",
+        "source": "T30n1579_004:0294b27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名有尋有伺地。",
+        "translation": "It's called the stage of discursive thought and discursive investigation.",
+        "source": "T30n1579_004:0294b27_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即靜慮中間若定若生。",
+        "translation": "That is, if there's concentration or arising in the middle of meditation.",
+        "source": "T30n1579_004:0294b28_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名無尋唯伺地隨一有情由修此故。",
+        "translation": "It's called the stage of no discursive thought but only discursive thought, and it's because of this cultivation that a sentient being attains great purity.",
+        "source": "T30n1579_004:0294b28_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得為大梵。",
+        "translation": "They then attain great purity.",
+        "source": "T30n1579_004:0294b29_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從第二靜慮。",
+        "translation": "From the second concentration, the rest of the form realm and the formless realm are concentrated and produced.",
+        "source": "T30n1579_004:0294b29_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘有色界及無色界。",
+        "translation": "The rest of the realms of form and formlessness.",
+        "source": "T30n1579_004:0294c01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "全名無尋無伺地。",
+        "translation": "They're all called the stage of no discursive thought and no discursive expectation.",
+        "source": "T30n1579_004:0294c01_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中由離尋伺欲道理。",
+        "translation": "Here, it's because of the principle of freedom from the desire to seek and wait.",
+        "source": "T30n1579_004:0294c02_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故說名無尋無伺地。",
+        "translation": "Therefore, it's called the ground of no discursive thought and no expectation.",
+        "source": "T30n1579_004:0294c02_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不由不現行故。",
+        "translation": "It's not based on unmanifest activity.",
+        "source": "T30n1579_004:0294c03_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T30n1579_004:0294c03_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未離欲界欲者。",
+        "translation": "Those who haven't yet parted with the desire of the realm of discursive thought ...",
+        "source": "T30n1579_004:0294c03_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由教導作意差別故。",
+        "translation": "It's because of the distinction between teaching and contemplation.",
+        "source": "T30n1579_004:0294c04_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一時間亦有無尋無伺意現行。",
+        "translation": "At one point in time, there's also the mental activity of absence of discursive thought.",
+        "source": "T30n1579_004:0294c04_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已離尋伺欲者。",
+        "translation": "Those who have parted with the desire for discursive thought also have discursive thought manifested.",
+        "source": "T30n1579_004:0294c05_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有尋伺現行。",
+        "translation": "There's also the activity of discursive thought.",
+        "source": "T30n1579_004:0294c05_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如出彼定及生彼者。",
+        "translation": "It's like those who emerge from that concentration and those who are born there.",
+        "source": "T30n1579_004:0294c06_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無漏界有為定所攝初靜慮。",
+        "translation": "If there's the first concentration included in the untainted realm of existential concentration, then it's also called the ground of discursive discursive thought.",
+        "source": "T30n1579_004:0294c06_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦名有尋有伺地。",
+        "translation": "It's also called the stage of existence of discursive thought and discursive expectation.",
+        "source": "T30n1579_004:0294c07_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依尋伺處法。",
+        "translation": "It relies on the state of discursive discursive thought.",
+        "source": "T30n1579_004:0294c07_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣真如為境入此定故。",
+        "translation": "It's because the perceptual objects of true thusness are brought into this concentration.",
+        "source": "T30n1579_004:0294c08_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不由分別現行故。",
+        "translation": "It's because it doesn't arise from discrimination.",
+        "source": "T30n1579_004:0294c08_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘如前說。",
+        "translation": "The rest is as explained above.",
+        "source": "T30n1579_004:0294c09_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處所建立者。",
+        "translation": "\"Establishment of sense-fields\" means that there are thirty-six sense-fields in the desire realm.",
+        "source": "T30n1579_004:0294c09_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於欲界中有三十六處。",
+        "translation": "There are thirty-six abodes in the desire realm.",
+        "source": "T30n1579_004:0294c09_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂八大那落迦。",
+        "translation": "They are the eight great hellholes.",
+        "source": "T30n1579_004:0294c10_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為八。",
+        "translation": "What are the eight?",
+        "source": "T30n1579_004:0294c10_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一等活。",
+        "translation": "One is equally living.",
+        "source": "T30n1579_004:0294c10_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二黑繩。",
+        "translation": "Two are black-string ...",
+        "source": "T30n1579_004:0294c11_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三眾合。",
+        "translation": "Three are united.",
+        "source": "T30n1579_004:0294c11_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四號叫。",
+        "translation": "Four are called \"hollers.",
+        "source": "T30n1579_004:0294c11_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五大號叫。",
+        "translation": "Five are great wails.",
+        "source": "T30n1579_004:0294c11_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六燒熱。",
+        "translation": "Six burns hot.",
+        "source": "T30n1579_004:0294c11_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七極燒熱。",
+        "translation": "Seven are extremely hot ...",
+        "source": "T30n1579_004:0294c12_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八無間。",
+        "translation": "Eight is uninterrupted.",
+        "source": "T30n1579_004:0294c12_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此諸大那落迦處。",
+        "translation": "These are the great hellholes.",
+        "source": "T30n1579_004:0294c12_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣十千踰繕那。",
+        "translation": "They're 10,000 yojanas wide.",
+        "source": "T30n1579_004:0294c12_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此外復有八寒那落迦處。",
+        "translation": "In addition, there are eight other cold hellholes.",
+        "source": "T30n1579_004:0294c13_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為八。",
+        "translation": "What are the eight?",
+        "source": "T30n1579_004:0294c13_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一皰那落迦。",
+        "translation": "One is the blistering naraka.",
+        "source": "T30n1579_004:0294c14_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二皰裂那落迦。",
+        "translation": "Two are blistering narakas.",
+        "source": "T30n1579_004:0294c14_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三喝哳詀那落迦。",
+        "translation": "Three are the nightshade naraka.",
+        "source": "T30n1579_004:0294c14_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四郝郝凡那落迦。",
+        "translation": "Four are the hawthorned hellholes.",
+        "source": "T30n1579_004:0294c15_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五虎虎凡那落迦。",
+        "translation": "Five are the Huhuhuvan naraka.",
+        "source": "T30n1579_004:0294c15_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六青蓮那落迦。",
+        "translation": "Six blue-hued hellokas.",
+        "source": "T30n1579_004:0294c16_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七紅蓮那落迦。",
+        "translation": "Seven red-hued lotus hellakas.",
+        "source": "T30n1579_004:0294c16_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八大紅蓮那落迦。",
+        "translation": "The eighth is the great red lotus hellaka.",
+        "source": "T30n1579_004:0294c16_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此下三萬二千踰繕那。",
+        "translation": "From here on down, there are 32,000 yojanas.",
+        "source": "T30n1579_004:0294c17_67",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至等活那落迦。",
+        "translation": "It reaches the level of the living hell.",
+        "source": "T30n1579_004:0294c17_68",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此復隔四千踰繕那。",
+        "translation": "From there, there's another 4,000 yojanas.",
+        "source": "T30n1579_004:0294c18_69",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘那落迦。",
+        "translation": "There are other narakas.",
+        "source": "T30n1579_004:0294c18_70",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如等活大那落迦處。",
+        "translation": "It's like the site of the great hell of the red lotus.",
+        "source": "T30n1579_004:0294c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初寒那落迦處亦爾。",
+        "translation": "The same is true of the first cold hell hell.",
+        "source": "T30n1579_004:0294c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此復隔二千踰繕那。",
+        "translation": "From there, there's another 2,000 yojanas apart.",
+        "source": "T30n1579_004:0294c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘那落迦應知。",
+        "translation": "There are other narakas, as you should know.",
+        "source": "T30n1579_004:0294c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又有餓鬼處所。",
+        "translation": "\"There's also the place of hungry ghosts.",
+        "source": "T30n1579_004:0294c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又有非天處所。",
+        "translation": "There's also the place of the non-gods.",
+        "source": "T30n1579_004:0294c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傍生即與人天同處。",
+        "translation": "An animal being is in the same place as humans and gods.",
+        "source": "T30n1579_004:0294c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不別建立。",
+        "translation": "Therefore, they aren't established separately.",
+        "source": "T30n1579_004:0294c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有四大洲如前說。",
+        "translation": "\"Again, there are the four continents as explained above.",
+        "source": "T30n1579_004:0294c22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有八中洲。",
+        "translation": "There are also the eight middle continents.",
+        "source": "T30n1579_004:0294c23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又欲界天有六處。",
+        "translation": "There are also six locations in the desire realm heaven.",
+        "source": "T30n1579_004:0294c23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一四大王眾天。",
+        "translation": "One is the four great heavens of the four kings.",
+        "source": "T30n1579_004:0294c23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二三十三天。",
+        "translation": "There are the second thirty-three heavens.",
+        "source": "T30n1579_004:0294c24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三時分天。",
+        "translation": "Three are the Time-sharing Heavens.",
+        "source": "T30n1579_004:0294c24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四知足天。",
+        "translation": "Four are the Heavens of Adequacy ...",
+        "source": "T30n1579_004:0294c24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五樂化天。",
+        "translation": "Five Heavens of Delightful Transformation ...",
+        "source": "T30n1579_004:0294c24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六他化自在天。",
+        "translation": "Sixth, there's the Paranirmita-vaśavartin Heaven.",
+        "source": "T30n1579_004:0294c25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有摩羅天宮。",
+        "translation": "There's also the palace of Māra Heaven.",
+        "source": "T30n1579_004:0294c25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即他化自在天攝。",
+        "translation": "It's subsumed within the Paranirmita-vaśavartin Heaven.",
+        "source": "T30n1579_004:0294c25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然處所高勝。",
+        "translation": "Its location is quite lofty.",
+        "source": "T30n1579_004:0294c26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有獨一那落迦近邊那落迦。",
+        "translation": "There's also the solitary hell-gazer and the near hell-gazer.",
+        "source": "T30n1579_004:0294c26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即大那落迦及寒那落迦。",
+        "translation": "That's the great hellaka and the cold hellaka.",
+        "source": "T30n1579_004:0294c27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以近邊故不別立處。",
+        "translation": "Because they're near the extremes, they don't have separate locations.",
+        "source": "T30n1579_004:0294c27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於人中亦有一分獨一那落迦可得。",
+        "translation": "Also, among humans, there's a part of the distinctive naraka that can be obtained.",
+        "source": "T30n1579_004:0294c28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如尊者取菉豆子說。",
+        "translation": "As the Venerable took a rhododendron seed and said.",
+        "source": "T30n1579_004:0294c29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我見諸有情。",
+        "translation": "\"I've seen all sentient beings.",
+        "source": "T30n1579_004:0294c29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燒然。",
+        "translation": "They're burning it.",
+        "source": "T30n1579_004:0295a01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極燒然。",
+        "translation": "It's perfectly burned.",
+        "source": "T30n1579_004:0295a01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遍極燒然總一燒然。",
+        "translation": "They are burned to the utmost, and they are burned uniformly.",
+        "source": "T30n1579_004:0295a01_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聚如是等三十六處。",
+        "translation": "There are thirty-six places like this.",
+        "source": "T30n1579_004:0295a01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總名欲界。",
+        "translation": "They're collectively called the desire realm.",
+        "source": "T30n1579_004:0295a02_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次色界有十八處。",
+        "translation": "\"Furthermore, there are 18 places in the form realm.",
+        "source": "T30n1579_004:0295a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂梵眾天梵前益天大梵天。",
+        "translation": "They are the Brahmakāyika gods, the Brahmacāyika gods, and the Mahābrahma gods.",
+        "source": "T30n1579_004:0295a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此三由軟中上品。",
+        "translation": "These three are the middle, middle, and highest levels of softness.",
+        "source": "T30n1579_004:0295a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "熏修初靜慮故。",
+        "translation": "They are perfumed by the cultivation of the first meditation.",
+        "source": "T30n1579_004:0295a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少光天無量光天極淨光天。",
+        "translation": "The Heaven of Lesser Light and the Heaven of Immeasurable Light and the Heaven of Extremely Pure Light.",
+        "source": "T30n1579_004:0295a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此三由軟中上品。",
+        "translation": "These three are the soft, middling, and highest category.",
+        "source": "T30n1579_004:0295a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "熏修第二靜慮故。",
+        "translation": "They are perfumed by cultivating the second meditation.",
+        "source": "T30n1579_004:0295a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少淨天無量淨天遍淨天。",
+        "translation": "The Heaven of Lesser Purity and Immeasurable Purity is the Heaven of Universal Purity.",
+        "source": "T30n1579_004:0295a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此三由軟中上品。",
+        "translation": "These three are the soft, middling, and highest qualities.",
+        "source": "T30n1579_004:0295a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "熏修第三靜慮故。",
+        "translation": "They're perfumed by cultivating the third level of meditation.",
+        "source": "T30n1579_004:0295a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無雲天福生天廣果天。",
+        "translation": "Cloudless Heaven, Merukalpa Heaven, and Vipaśyinagara Heaven.",
+        "source": "T30n1579_004:0295a07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此三由軟中上品。",
+        "translation": "These three are the soft, middling, and highest category.",
+        "source": "T30n1579_004:0295a08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "熏修第四靜慮故。",
+        "translation": "They are perfumed by cultivating the fourth level of meditation.",
+        "source": "T30n1579_004:0295a08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無想天即廣果攝無別處所。",
+        "translation": "The cloudless heaven is the vast fruit that's included in no particular place.",
+        "source": "T30n1579_004:0295a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有諸聖住止不共五淨宮地。",
+        "translation": "\"Also, there are the sages who abide in the five pure palace stages that are not shared.",
+        "source": "T30n1579_004:0295a09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無煩無熱善現善見。",
+        "translation": "These are the absence of affliction and heat, good appearances, and good views.",
+        "source": "T30n1579_004:0295a10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及色究竟由軟中上。",
+        "translation": "Their form is ultimately composed of the soft, middle, and high.",
+        "source": "T30n1579_004:0295a11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上勝上極品。",
+        "translation": "They're superior, higher, and most extreme.",
+        "source": "T30n1579_004:0295a11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雜熏修第四靜慮故復有超過淨宮大自在住處。",
+        "translation": "Because of the complicated perfuming and cultivation of the fourth concentration, there's also a place beyond the pure palace that's a great unimpeded dwelling place.",
+        "source": "T30n1579_004:0295a11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有十地菩薩。",
+        "translation": "There's a tenth-stage bodhisattva.",
+        "source": "T30n1579_004:0295a13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由極熏修第十地故得生其中。",
+        "translation": "Because they thoroughly perfume and cultivate the tenth ground, they're born there.",
+        "source": "T30n1579_004:0295a13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次無色界有四處所或無處所。",
+        "translation": "\"Furthermore, there are four abodes or no abodes in the formless realm.",
+        "source": "T30n1579_004:0295a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有情量建立者。",
+        "translation": "One is established by the number of sentient beings.",
+        "source": "T30n1579_004:0295a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂贍部洲人身量不定。",
+        "translation": "It means that the size of a person on Jambudvīpa is indeterminate.",
+        "source": "T30n1579_004:0295a16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或時高大或時卑小。",
+        "translation": "Sometimes they're tall and sometimes they're small.",
+        "source": "T30n1579_004:0295a16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然隨自肘三肘半量。",
+        "translation": "However, they are measured according to their own elbows, three elbows, and a half.",
+        "source": "T30n1579_004:0295a17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "東毘提訶身量決定。",
+        "translation": "The size of Jambudvīpa's body is determined.",
+        "source": "T30n1579_004:0295a17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦隨自肘三肘半量。",
+        "translation": "It's also measured according to an elbow and three and a half elbows.",
+        "source": "T30n1579_004:0295a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身又高大。",
+        "translation": "That person's body is tall and large.",
+        "source": "T30n1579_004:0295a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如東毘提訶。",
+        "translation": "It's like that of Don Videha.",
+        "source": "T30n1579_004:0295a18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是西瞿陀尼北拘盧洲身量亦爾。",
+        "translation": "Thus, the body of West Gautama and North Kolodānīya was similar in size.",
+        "source": "T30n1579_004:0295a19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "轉復高大。",
+        "translation": "Again, it's tall and large.",
+        "source": "T30n1579_004:0295a19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四大王眾天身量。",
+        "translation": "The body of the four great kings and gods measures as large as a quarter of Kolokāśa's.",
+        "source": "T30n1579_004:0295a20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如拘盧舍四分之一。",
+        "translation": "They're like one-fourth of Kolokāśa.",
+        "source": "T30n1579_004:0295a20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三十三天身量復增一足。",
+        "translation": "The Trāyastriṃśa gods' stature increases by another foot.",
+        "source": "T30n1579_004:0295a21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "帝釋身量半拘盧舍。",
+        "translation": "Indra's body was half the size of Kolosya's.",
+        "source": "T30n1579_004:0295a21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時分天身量亦半拘盧舍。",
+        "translation": "The body of the Time-parted Celestials is also half the size of Kolosya's.",
+        "source": "T30n1579_004:0295a22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此上一切如欲界天身量。",
+        "translation": "All of the above are like the size of the body of the desire realm heaven.",
+        "source": "T30n1579_004:0295a22_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知漸漸各增一足。",
+        "translation": "You should know that each gradually increases in size by one foot.",
+        "source": "T30n1579_004:0295a23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "梵眾天身量半踰繕那。",
+        "translation": "The Brahmakāyika gods' body measurements are half a yojana.",
+        "source": "T30n1579_004:0295a23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "梵前益天身量一踰繕那。",
+        "translation": "The body measurement of the Brahmā Saṃkhya Heaven is one yojana.",
+        "source": "T30n1579_004:0295a24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大梵天身量一踰繕那半。",
+        "translation": "The body of the Brahma Heaven measures 1 yojana and a half.",
+        "source": "T30n1579_004:0295a24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少光天身量二踰繕那。",
+        "translation": "The lesser-luminous gods' body measurements are two transcendent calibres.",
+        "source": "T30n1579_004:0295a25_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此上一切餘天身量各漸倍增。",
+        "translation": "The other heavens above that have a body measurement that gradually increases by a factor of ...",
+        "source": "T30n1579_004:0295a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除無雲天。",
+        "translation": "Except for the cloudless heaven, that heaven should be known to have a body measurement of three transcendent nasties.",
+        "source": "T30n1579_004:0295a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知彼天減三踰繕那。",
+        "translation": "That god should be known to have a body measurement of three transcendent nas.",
+        "source": "T30n1579_004:0295a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又大那落迦身量不定。",
+        "translation": "The body of the Mahānārāja is indeterminate in size.",
+        "source": "T30n1579_004:0295a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若作及增長極重惡不善業者。",
+        "translation": "If someone does and increases extremely heavy bad and unskillful actions, then their body shape will be enormous.",
+        "source": "T30n1579_004:0295a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼感身形其量廣大。",
+        "translation": "He'll experience a body shape that's quite large in size.",
+        "source": "T30n1579_004:0295a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘則不爾。",
+        "translation": "The rest are not like that.",
+        "source": "T30n1579_004:0295a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如大那落迦。",
+        "translation": "It's like the great hell-gahara.",
+        "source": "T30n1579_004:0295a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是寒那落迦獨一那落迦近邊那落迦傍生餓鬼亦爾諸非天身量大小如三十三天。",
+        "translation": "Thus, the cold hell hell, the solitary hell hell, the near hell hell, the hungry ghosts, and the non-gods are all the same in size as the Trāyastriṃśa Heaven.",
+        "source": "T30n1579_004:0295a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知無色界無有色故無有身量。",
+        "translation": "You should know that because the formless realm has no form, there's no body measurement.",
+        "source": "T30n1579_004:0295b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "壽建立者。",
+        "translation": "\"A lifespan builder.",
+        "source": "T30n1579_004:0295b03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂贍部洲人。",
+        "translation": "This refers to a person on Jambudvīpa.",
+        "source": "T30n1579_004:0295b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "壽量不定。",
+        "translation": "Their lifespan is indeterminate.",
+        "source": "T30n1579_004:0295b04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼人以三十日夜為一月。",
+        "translation": "Those people take 30 days and nights as a month.",
+        "source": "T30n1579_004:0295b04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一歲。",
+        "translation": "The twelfth month is a year.",
+        "source": "T30n1579_004:0295b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或於一時壽無量歲。",
+        "translation": "Some live an immeasurable number of years at a time.",
+        "source": "T30n1579_004:0295b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或於一時壽八萬歲。",
+        "translation": "Sometimes they live 80,000 years at a time.",
+        "source": "T30n1579_004:0295b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或於一時壽量漸減乃至十歲。",
+        "translation": "Sometimes their lifespan gradually decreases up to ten years at a time.",
+        "source": "T30n1579_004:0295b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "東毘提訶人壽量決定二百五十歲。",
+        "translation": "The amount of life determined for Don Videha is 250 years.",
+        "source": "T30n1579_004:0295b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西瞿陀尼人壽量決定五百歲。",
+        "translation": "In Western Gautama, his life expectancy is determined to be 500 years.",
+        "source": "T30n1579_004:0295b07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "北拘盧洲人壽量決定千歲。",
+        "translation": "The northern continent of Kolodānīya has a life span that's determined to be 1,000 years.",
+        "source": "T30n1579_004:0295b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又人間五十歲是四大王眾天一日一夜。",
+        "translation": "Another fifty years among humans is one day and one night in the four great heavenly kings.",
+        "source": "T30n1579_004:0295b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此日夜三十日夜為一月。",
+        "translation": "These thirty days and nights are counted as one month.",
+        "source": "T30n1579_004:0295b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一歲。",
+        "translation": "The month of December is one year.",
+        "source": "T30n1579_004:0295b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸天眾壽量五百歲。",
+        "translation": "The lifespan of those gods is measured in years, which is 500 years.",
+        "source": "T30n1579_004:0295b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人間百歲是三十三天一日一夜。",
+        "translation": "A hundred years among humans is one day and one night in the Trāyastriṃśa Heaven.",
+        "source": "T30n1579_004:0295b11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此日夜如前說。",
+        "translation": "These days and nights are as explained above.",
+        "source": "T30n1579_004:0295b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸天眾壽量千歲。",
+        "translation": "The lifespan of those gods is measured in thousands of years.",
+        "source": "T30n1579_004:0295b12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是所餘乃至他化自在天日夜及壽量。",
+        "translation": "The rest of the days and nights like this, up to the number of days and nights in the Paranirmitavaśavartin Heaven, have a lifespan twice as long as the previous one.",
+        "source": "T30n1579_004:0295b13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各增前一倍。",
+        "translation": "Each is doubled in length.",
+        "source": "T30n1579_004:0295b14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又四大王眾天滿足壽量。",
+        "translation": "The four great king gods also have the full lifespan of that multitude of gods.",
+        "source": "T30n1579_004:0295b14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是等活大那落迦一日一夜。",
+        "translation": "These are the living great hells that live for a day and a night.",
+        "source": "T30n1579_004:0295b15_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即以此三十日夜為一月。",
+        "translation": "That's when these 30 days and nights are counted as one month.",
+        "source": "T30n1579_004:0295b15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一歲。",
+        "translation": "The twelfth month is a year.",
+        "source": "T30n1579_004:0295b16_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼大那落迦壽五百歲。",
+        "translation": "That great hell of a god lives for 500 years.",
+        "source": "T30n1579_004:0295b16_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以四大王眾天壽量。",
+        "translation": "That's the lifespan of the four great kings and gods.",
+        "source": "T30n1579_004:0295b17_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成等活大那落迦壽量。",
+        "translation": "That completes the lifespan of the great hell of the living.",
+        "source": "T30n1579_004:0295b17_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是以三十三天壽量。",
+        "translation": "Thus, he uses the lifespan of the Trāyastriṃśa gods to measure the lifespan of the black-rope great hell-king.",
+        "source": "T30n1579_004:0295b18_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成黑繩大那落迦壽量。",
+        "translation": "That black-stringed great hell of hell has a lifespan of 500 years.",
+        "source": "T30n1579_004:0295b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以時分天壽量。",
+        "translation": "From the lifespan of the Time-parted Heaven, he'll create the lifespan of the great black-rope hellaka.",
+        "source": "T30n1579_004:0295b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成眾合大那落迦壽量。",
+        "translation": "It becomes the lifespan of the great hell of the merged hells.",
+        "source": "T30n1579_004:0295b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以知足天壽量。",
+        "translation": "With the lifespan of the Prajñāpati Heaven, he'll become known as the Great Nādika whose lifespan is measured in years.",
+        "source": "T30n1579_004:0295b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成號叫大那落迦壽量。",
+        "translation": "It's called the great hell of hell's life span.",
+        "source": "T30n1579_004:0295b20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以樂化天壽量。",
+        "translation": "By the amount of life he'll live, he'll become known as the Great Nādika.",
+        "source": "T30n1579_004:0295b21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成大號叫大那落迦壽量。",
+        "translation": "It becomes known as the great hell of hell's life span.",
+        "source": "T30n1579_004:0295b21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以他化自在天壽量。",
+        "translation": "With the lifespan of the Paranirmita-vaśavartin Heaven.",
+        "source": "T30n1579_004:0295b22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成燒熱大那落迦壽量。",
+        "translation": "It becomes known as the burning hot great hell of hell's life span.",
+        "source": "T30n1579_004:0295b22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知亦爾。",
+        "translation": "You should know that it's the same.",
+        "source": "T30n1579_004:0295b23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極燒熱大那落迦有情壽半中劫。",
+        "translation": "The very burning hot great hell of hell sentient beings has a lifespan of half a medium-length eon.",
+        "source": "T30n1579_004:0295b23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無間大那落迦有情壽一中劫。",
+        "translation": "The lifespan of a sentient being in the Great Indefinite Nādaka is one medium eon.",
+        "source": "T30n1579_004:0295b24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非天壽量如三十三天。",
+        "translation": "The lifespan of non-gods is like that of the Trāyastriṃśa Heaven.",
+        "source": "T30n1579_004:0295b25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傍生餓鬼壽量不定。",
+        "translation": "The lifespan of an unliving hungry ghost is indeterminate.",
+        "source": "T30n1579_004:0295b25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又寒那落迦於大那落迦。",
+        "translation": "Also, the cold hells and the great hells look at each other in order.",
+        "source": "T30n1579_004:0295b26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次第相望壽量近半。",
+        "translation": "Looking at each other in order, their lifespans are nearly half as long.",
+        "source": "T30n1579_004:0295b26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知又近邊那落迦獨一那落迦受生有情壽量不定。",
+        "translation": "You should know that the lifespan of another sentient being born near Nādika and one Nādika alone is indeterminate.",
+        "source": "T30n1579_004:0295b27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "梵眾天壽二十中劫一劫。",
+        "translation": "The Brahmakāyika gods live for 20 medium-length eons and one eon.",
+        "source": "T30n1579_004:0295b28_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "梵前益天壽四十中劫一劫。",
+        "translation": "The Brahmā Saṃkhya Heaven has a lifespan of 40 medium-length eons and one eon.",
+        "source": "T30n1579_004:0295b29_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大梵天壽六十中劫一劫。",
+        "translation": "The Brahma Heaven has a lifespan of 60 medium-length eons and one eon.",
+        "source": "T30n1579_004:0295b29_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少光天壽八十中劫二劫。",
+        "translation": "The Shaughnessy Heaven has a lifespan of 80 medium-length eons and two eons.",
+        "source": "T30n1579_004:0295c01_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自此以上餘色界天壽量相望各漸倍增。",
+        "translation": "From here on, the remaining form realm gods' lifespans are expected to gradually increase in proportion to each other.",
+        "source": "T30n1579_004:0295c01_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯除無雲。",
+        "translation": "Only the cloudless one is excluded.",
+        "source": "T30n1579_004:0295c02_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知彼天壽減三劫。",
+        "translation": "You should know that god's lifespan is reduced by three eons.",
+        "source": "T30n1579_004:0295c03_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊處壽二萬劫。",
+        "translation": "The infinity of emptiness has a lifespan of 20,000 eons.",
+        "source": "T30n1579_004:0295c03_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識無邊處壽四萬劫。",
+        "translation": "The limitless realm of consciousness has a lifespan of 40,000 eons.",
+        "source": "T30n1579_004:0295c04_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所有處壽六萬劫。",
+        "translation": "The sphere of the lack of existence has a lifespan of 60,000 eons.",
+        "source": "T30n1579_004:0295c04_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非想非非想處壽八萬劫。",
+        "translation": "The abode of neither perception nor non-perception has a lifespan of 80,000 eons.",
+        "source": "T30n1579_004:0295c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除北拘盧洲。",
+        "translation": "Except for the northern continent of Kauśāmbī, the rest of the world has a midlife.",
+        "source": "T30n1579_004:0295c05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘一切處悉有中夭。",
+        "translation": "All the other places have a premature death in the middle.",
+        "source": "T30n1579_004:0295c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又人鬼傍生趣有餘滓身。",
+        "translation": "There are also the remaining dregs of the bodies of humans, ghosts, and animals in the destinies of the near world.",
+        "source": "T30n1579_004:0295c06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天及那落迦。",
+        "translation": "The gods and hells have a residual residual body.",
+        "source": "T30n1579_004:0295c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與識俱沒無餘滓身。",
+        "translation": "They perish with their consciousnesses and have a residual residual body.",
+        "source": "T30n1579_004:0295c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受用建立者。",
+        "translation": "\"Those whose enjoyment is established.",
+        "source": "T30n1579_004:0295c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略有三種。",
+        "translation": "There are three basic kinds.",
+        "source": "T30n1579_004:0295c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂受用苦樂受用飲食。",
+        "translation": "They are the experience of pain and pleasure, the experience of food and drink, and the experience of sexual desire.",
+        "source": "T30n1579_004:0295c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受用婬欲。",
+        "translation": "those who experience painful pleasures, those who experience food and drink, and those who experience sexual desires.",
+        "source": "T30n1579_004:0295c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受用苦樂者。",
+        "translation": "Those who experience pain and pleasure ...",
+        "source": "T30n1579_004:0295c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂那落迦有情多分受用極治罰苦。",
+        "translation": "It means that many sentient beings in Nāroka experience the pain of severe punishment.",
+        "source": "T30n1579_004:0295c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傍生有情多分受用相食噉苦。",
+        "translation": "Many sentient beings in the evening life experience the pain of feeding and gnawing each other.",
+        "source": "T30n1579_004:0295c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餓鬼有情多分受用極飢渴苦。",
+        "translation": "Many sentient beings in the hungry ghosts experience the suffering of extreme hunger and thirst.",
+        "source": "T30n1579_004:0295c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人趣有情多分受用匱乏追求種種之苦。",
+        "translation": "Many sentient beings in the human condition experience the suffering of lack and pursuit of various things.",
+        "source": "T30n1579_004:0295c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天趣有情多分受用衰惱墜沒之苦。",
+        "translation": "For many sentient beings in the heavenly realms, they experience the pain of decay and distress and fall into ruin.",
+        "source": "T30n1579_004:0295c12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於等活大那落迦中。",
+        "translation": "They're also among the great hellhounds who live equally.",
+        "source": "T30n1579_004:0295c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多受如是極治罰苦。",
+        "translation": "They often experience these kinds of painful punishments.",
+        "source": "T30n1579_004:0295c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼有情多共聚集業增上生。",
+        "translation": "It means that many of those sentient beings collectively produce karma that's superior.",
+        "source": "T30n1579_004:0295c14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種苦具次第而起。",
+        "translation": "Various kinds of painful conditions arise in sequence.",
+        "source": "T30n1579_004:0295c15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更相殘害悶絕躄地。",
+        "translation": "They are further crippled, depressed, and crippled to the ground.",
+        "source": "T30n1579_004:0295c15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次虛空中有大聲發。",
+        "translation": "Next, a great voice arises in space.",
+        "source": "T30n1579_004:0295c16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唱如是言。",
+        "translation": "It called out this, saying.",
+        "source": "T30n1579_004:0295c16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此諸有情可還等活可還等活。",
+        "translation": "\"These sentient beings may be returned to their lives and may be returned to their lives.",
+        "source": "T30n1579_004:0295c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次彼有情欻然復起。",
+        "translation": "Next, those sentient beings crashing back into existence.",
+        "source": "T30n1579_004:0295c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復由如前所說苦具。",
+        "translation": "Again, it's because of the instruments of suffering as previously described.",
+        "source": "T30n1579_004:0295c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更相殘害。",
+        "translation": "They are further harmed by each other.",
+        "source": "T30n1579_004:0295c18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣長時受苦。",
+        "translation": "As a result, they'll experience pain for a long time.",
+        "source": "T30n1579_004:0295c18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至先世所造一切惡不善業未盡未出故。",
+        "translation": "It's even the result of all the bad and unskillful actions created in prior lifetimes that haven't yet ended or escaped.",
+        "source": "T30n1579_004:0295c19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此那落迦名為等活。",
+        "translation": "This nārāka is called 'equally living.'",
+        "source": "T30n1579_004:0295c20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於黑繩大那落迦中。",
+        "translation": "It's also in the great black-rope hellaka.",
+        "source": "T30n1579_004:0295c20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多受如是治罰重苦。",
+        "translation": "It's often subject to this kind of severe pain as a punishment.",
+        "source": "T30n1579_004:0295c21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼有情多分為彼所攝。",
+        "translation": "It means that many parts of those sentient beings are taken in by them.",
+        "source": "T30n1579_004:0295c21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "獄卒以黑繩拼之。",
+        "translation": "The jailer puts it together with a black rope.",
+        "source": "T30n1579_004:0295c22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或為四方或為八方。",
+        "translation": "Some of them are made in four directions or eight directions.",
+        "source": "T30n1579_004:0295c23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或為種種圖畵文像。",
+        "translation": "It might be a picture with a drawing or an image.",
+        "source": "T30n1579_004:0295c23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼既拼已。",
+        "translation": "After they put it together, he chops it up or carves it according to its location.",
+        "source": "T30n1579_004:0295c24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨其處所若鑿若斲若斫若剜。",
+        "translation": "According to its location, it's either dug, carved, chopped, or plucked.",
+        "source": "T30n1579_004:0295c24_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由如是等種種因緣。",
+        "translation": "Because of these various causes, it's a long time of suffering.",
+        "source": "T30n1579_004:0295c25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "長時受苦。",
+        "translation": "For a long time, they'll experience suffering.",
+        "source": "T30n1579_004:0295c25_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至先世所造一切惡不善業未盡未出故。",
+        "translation": "It's because all the bad and unskillful actions created in prior lifetimes have yet to be completed and have yet to escape.",
+        "source": "T30n1579_004:0295c25_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此那落迦名為黑繩。",
+        "translation": "This nārāka is called a black cord.",
+        "source": "T30n1579_004:0295c26_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於眾合大那落迦中。",
+        "translation": "It's also among the many combinations of great hellholes.",
+        "source": "T30n1579_004:0295c27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多受如是治罰重苦。",
+        "translation": "They'll often experience such severe pain as a punishment.",
+        "source": "T30n1579_004:0295c27_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼有情或時展轉聚集和合。",
+        "translation": "It means that sometimes those sentient beings will gradually gather together and merge.",
+        "source": "T30n1579_004:0295c28_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時便有彼攝獄卒。",
+        "translation": "At that point, there's this jailer who takes them in.",
+        "source": "T30n1579_004:0295c29_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "驅逼令入兩鐵羺頭大山之間。",
+        "translation": "He drives them away and forces them to enter between two large mountains of iron-cemented mountains.",
+        "source": "T30n1579_004:0295c29_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼既入已兩山迫之。",
+        "translation": "After he enters, the two mountains force him to enter.",
+        "source": "T30n1579_004:0296a01_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既被迫已一切門中血便流注。",
+        "translation": "After he's forced, blood will flow from all the gates.",
+        "source": "T30n1579_004:0296a01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如兩鐵羺頭如是。",
+        "translation": "It's like the two iron barbarians and so forth.",
+        "source": "T30n1579_004:0296a02_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兩鐵羝頭。",
+        "translation": "There are two iron billy-heads ...",
+        "source": "T30n1579_004:0296a02_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兩鐵馬頭。",
+        "translation": "Two iron horse heads ...",
+        "source": "T30n1579_004:0296a03_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兩鐵象頭。",
+        "translation": "... two iron elephant heads ...",
+        "source": "T30n1579_004:0296a03_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兩鐵師子頭。",
+        "translation": "... two iron lion heads ...",
+        "source": "T30n1579_004:0296a03_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兩鐵虎頭亦爾。",
+        "translation": "The same goes for the two iron tiger heads.",
+        "source": "T30n1579_004:0296a03_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復令和合置大鐵槽中。",
+        "translation": "Again, he makes them combine and puts them in a large metal trough.",
+        "source": "T30n1579_004:0296a04_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便即壓之如壓甘蔗。",
+        "translation": "He then immediately presses it like crushing sugarcane.",
+        "source": "T30n1579_004:0296a04_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既被壓已血便流注。",
+        "translation": "After being crushed, his blood then flows out.",
+        "source": "T30n1579_004:0296a05_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復和合已有大鐵山從上而墮。",
+        "translation": "Then, he combines them with a large iron mountain that falls from above.",
+        "source": "T30n1579_004:0296a05_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼有情躄在鐵地。",
+        "translation": "It causes that sentient being to be crippled on the iron floor.",
+        "source": "T30n1579_004:0296a06_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若斫若刺或擣或裂。",
+        "translation": "It's either chopped, pierced, broken, or split open.",
+        "source": "T30n1579_004:0296a07_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既被斫刺及擣裂已。",
+        "translation": "After being chopped, stabbed, and split open, their blood then flows out.",
+        "source": "T30n1579_004:0296a07_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "血便流注。",
+        "translation": "Their blood then flows out.",
+        "source": "T30n1579_004:0296a08_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣長時受苦。",
+        "translation": "As a result, they'll experience pain for a long time.",
+        "source": "T30n1579_004:0296a08_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至先世所作一切惡不善業未盡未出故。",
+        "translation": "It's because all the bad and unskillful deeds done in prior lifetimes haven't been completed or removed.",
+        "source": "T30n1579_004:0296a08_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此那落迦名為眾合。",
+        "translation": "This Nādaka is called 'multitude of combinations.'",
+        "source": "T30n1579_004:0296a09_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於號叫大那落迦中。",
+        "translation": "It's also called the great hell of hell.",
+        "source": "T30n1579_004:0296a10_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多受如是治罰重苦。",
+        "translation": "It's often subject to such severe pain as a punishment.",
+        "source": "T30n1579_004:0296a10_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼有情尋求舍宅。",
+        "translation": "That's when a sentient being seeks to abandon their home.",
+        "source": "T30n1579_004:0296a11_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便入大鐵室中彼纔入已即便火起。",
+        "translation": "They then enter a large metal room, and after they enter, a fire starts.",
+        "source": "T30n1579_004:0296a11_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此燒然。",
+        "translation": "It burns them up.",
+        "source": "T30n1579_004:0296a12_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若極燒然遍極燒然。",
+        "translation": "If it burns to the utmost, it will burn to the utmost.",
+        "source": "T30n1579_004:0296a12_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既被燒已苦痛逼切發聲號叫。",
+        "translation": "Once they're burned, the pain and suffering are intense, and they shout and scream.",
+        "source": "T30n1579_004:0296a13_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣長時受苦。",
+        "translation": "As a result, they'll suffer for a long time.",
+        "source": "T30n1579_004:0296a14_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至先世所造一切惡不善業未盡未出故。",
+        "translation": "It's because all the bad and unskillful actions created in prior lifetimes haven't been ended and haven't yet escaped.",
+        "source": "T30n1579_004:0296a14_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此那落迦名為號叫。",
+        "translation": "This Nādika is called 'wailing.'",
+        "source": "T30n1579_004:0296a15_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於大號叫大那落迦中。",
+        "translation": "Also, in the great hell of hell, the great hell of screaming.",
+        "source": "T30n1579_004:0296a16_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所受苦惱與此差別。",
+        "translation": "The suffering and distress they experience are different from this one.",
+        "source": "T30n1579_004:0296a16_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼室宅其如胎藏故此那落迦名大號叫。",
+        "translation": "That house is like a womb, so that's why that hell is called a great screaming hell.",
+        "source": "T30n1579_004:0296a17_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於燒熱大那落迦中。",
+        "translation": "It's also in the burning hot great hellaka.",
+        "source": "T30n1579_004:0296a18_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多受如是治罰重苦。",
+        "translation": "It's often subject to this kind of severe pain as a punishment.",
+        "source": "T30n1579_004:0296a18_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼所攝獄卒以諸有情。",
+        "translation": "It means that the jailers they take in use sentient beings.",
+        "source": "T30n1579_004:0296a19_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "置無量踰繕那熱極熱遍極燒然大鐵鏊上。",
+        "translation": "They place them on a large metal griddle that's extremely hot and pervasively burning, with measureless yojana heat.",
+        "source": "T30n1579_004:0296a19_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "左右轉之表裏燒煿。",
+        "translation": "Turning it from side to side, it burns them both on the surface and on the inside.",
+        "source": "T30n1579_004:0296a20_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如炙魚。",
+        "translation": "It's also like roasting a fish.",
+        "source": "T30n1579_004:0296a21_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以大鐵丳從下貫之徹頂而出。",
+        "translation": "He uses a large metal skewer to penetrate from below to the top and emit it.",
+        "source": "T30n1579_004:0296a21_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "反覆炙之。",
+        "translation": "It repeatedly roasts them.",
+        "source": "T30n1579_004:0296a22_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼有情諸根毛孔及以口中悉皆焰起。",
+        "translation": "It causes the pores of a sentient being's faculties and mouth to light up.",
+        "source": "T30n1579_004:0296a22_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復以有情。",
+        "translation": "Then, he takes another sentient being and places them in a hot place, where they're extremely hot and burned thoroughly.",
+        "source": "T30n1579_004:0296a23_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "置熱極熱遍極燒然大鐵地上。",
+        "translation": "They're placed on a large metal floor that's extremely hot and pervasively scorching.",
+        "source": "T30n1579_004:0296a23_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或仰或覆以熱極熱遍極燒然大鐵椎棒。",
+        "translation": "Either tilting or covering them with a hot, extremely hot, pervasively burning, large iron hammer and stick.",
+        "source": "T30n1579_004:0296a24_67",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或打或築遍打遍築。",
+        "translation": "Either beating or building it, striking it thoroughly and building it thoroughly.",
+        "source": "T30n1579_004:0296a25_68",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令如肉摶。",
+        "translation": "It causes them to resemble a ball of flesh.",
+        "source": "T30n1579_004:0296a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣長時受苦。",
+        "translation": "As a result, they'll experience pain for a long time.",
+        "source": "T30n1579_004:0296a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至先世所造一切惡不善業未盡未出故。",
+        "translation": "It's even the result of all the bad and unskillful actions created in prior lives that haven't yet ended or escaped.",
+        "source": "T30n1579_004:0296a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此那落迦名為燒熱。",
+        "translation": "This Nādika is called a burning hot mess.",
+        "source": "T30n1579_004:0296a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於極燒熱大那落迦中。",
+        "translation": "In the great hell of burning hot hell, the suffering and distress that he experiences are different from this.",
+        "source": "T30n1579_004:0296a28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所受苦惱與此差別。",
+        "translation": "The suffering and distress that it experiences is different from this.",
+        "source": "T30n1579_004:0296a28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂以三支大熱鐵丳從下貫之。",
+        "translation": "He's struck with three large, hot iron skewers from below.",
+        "source": "T30n1579_004:0296a29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "徹其兩膊及頂而出。",
+        "translation": "They penetrate both of his shoulders and his head, and then they escape.",
+        "source": "T30n1579_004:0296b01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣。",
+        "translation": "This is the cause and condition.",
+        "source": "T30n1579_004:0296b01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼耳鼻口及諸毛孔猛焰流出。",
+        "translation": "A fierce flame flows from his eyes, ears, nose, mouth, and pores.",
+        "source": "T30n1579_004:0296b01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又以熱極熱遍極燒然大銅鐵鍱。",
+        "translation": "Another large metal sheet that's extremely hot and pervasively flaming is wrapped around his body.",
+        "source": "T30n1579_004:0296b02_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遍裹其身。",
+        "translation": "It wraps around his body.",
+        "source": "T30n1579_004:0296b03_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復倒擲置熱極熱遍極燒然彌滿灰水大鐵鑊中。",
+        "translation": "Again, he tosses it upside down into a large metal wok that's extremely hot, pervasive, and glowing, and it fills it with ash and water.",
+        "source": "T30n1579_004:0296b03_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而煎煮之。",
+        "translation": "It then boils it.",
+        "source": "T30n1579_004:0296b04_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其湯涌沸令此有情隨湯飄轉或出或沒令其血肉及以皮脈悉皆銷爛。",
+        "translation": "The boiling water causes this sentient being to be swept around in the water, sometimes exiting or disappearing, so that their flesh and blood and skin and veins all melt away.",
+        "source": "T30n1579_004:0296b05_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯骨瑣在。",
+        "translation": "Only their bones remain.",
+        "source": "T30n1579_004:0296b06_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尋復漉之置鐵地上。",
+        "translation": "He then drenches it again and places it on an iron floor.",
+        "source": "T30n1579_004:0296b07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令其皮肉及以血脈復生如故。",
+        "translation": "That causes their skin, flesh, and blood vessels to grow back as before.",
+        "source": "T30n1579_004:0296b07_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "還置鑊中。",
+        "translation": "He puts them back in the wok.",
+        "source": "T30n1579_004:0296b08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘如燒熱大那落迦說。",
+        "translation": "The rest is like the burning hot great hell that's explained in the Nādika.",
+        "source": "T30n1579_004:0296b08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣長時受苦。",
+        "translation": "As a result, he'll experience pain for a long time.",
+        "source": "T30n1579_004:0296b09_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至先世所造一切惡不善業未盡未出故。",
+        "translation": "It's because all the bad and unskillful actions created in prior lifetimes haven't been ended and haven't yet escaped.",
+        "source": "T30n1579_004:0296b09_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此那落迦名極燒熱。",
+        "translation": "This naraka is called the burning hot one.",
+        "source": "T30n1579_004:0296b10_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於無間大那落迦中。",
+        "translation": "It's also the great unremitting hell of hell.",
+        "source": "T30n1579_004:0296b11_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情恒受如是極治罰苦。",
+        "translation": "Those sentient beings are constantly subjected to this kind of extremely severe punishment.",
+        "source": "T30n1579_004:0296b11_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂從東方多百踰繕那燒熱極燒熱遍極燒然大鐵地上。",
+        "translation": "It means that from the east, there are hundreds of yojanas of burning fever, and it's extremely scorching fever spreads throughout the great burning iron ground.",
+        "source": "T30n1579_004:0296b12_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有猛熾火騰焰而來。",
+        "translation": "A fierce, blazing fire rises up and burns them down.",
+        "source": "T30n1579_004:0296b13_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "刺彼有情穿皮入肉斷筋破骨復徹其髓。",
+        "translation": "It pierces the skin of those sentient beings, penetrating their flesh, cutting their tendons, breaking their bones, and penetrating their marrow.",
+        "source": "T30n1579_004:0296b14_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燒如脂燭。",
+        "translation": "It burns them like a candle made of fat.",
+        "source": "T30n1579_004:0296b15_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是舉身皆成猛焰。",
+        "translation": "Thus, a fierce flame rises from his or her body.",
+        "source": "T30n1579_004:0296b15_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如從東方。",
+        "translation": "It's like from the east.",
+        "source": "T30n1579_004:0296b15_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "南西北方亦復如是。",
+        "translation": "It's likewise from the south, west, and north.",
+        "source": "T30n1579_004:0296b16_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣。",
+        "translation": "This is the cause and condition.",
+        "source": "T30n1579_004:0296b16_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情與猛焰和雜。",
+        "translation": "Those sentient beings are mixed with the fierce flame.",
+        "source": "T30n1579_004:0296b16_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯見火聚從四方來。",
+        "translation": "They see only a cluster of fires coming from all directions.",
+        "source": "T30n1579_004:0296b17_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "火焰和雜無有間隙。",
+        "translation": "There's no gap between the conflagration and the conflagration.",
+        "source": "T30n1579_004:0296b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所受苦痛亦無間隙。",
+        "translation": "There's also no gap between the pain and suffering that they experience.",
+        "source": "T30n1579_004:0296b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯聞苦逼號叫之聲。",
+        "translation": "They only hear the sound of screaming and shouting in anguish.",
+        "source": "T30n1579_004:0296b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知有眾生。",
+        "translation": "He knows there are sentient beings.",
+        "source": "T30n1579_004:0296b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又以鐵箕。",
+        "translation": "Then, he takes a metal skillet.",
+        "source": "T30n1579_004:0296b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盛滿燒然極燒然遍極燒然猛焰鐵炭。",
+        "translation": "It's filled with glowing, extremely glowing, and completely glowing iron and coal.",
+        "source": "T30n1579_004:0296b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而簸剪之。",
+        "translation": "It's tipped and cut.",
+        "source": "T30n1579_004:0296b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復置熱鐵地上。",
+        "translation": "Putting it back on a hot iron floor, he causes them to climb a great hot iron mountain.",
+        "source": "T30n1579_004:0296b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令登大熱鐵山。",
+        "translation": "He makes them climb a great mountain of hot iron.",
+        "source": "T30n1579_004:0296b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上而復下下而復上。",
+        "translation": "He goes up and comes back down, and then he goes back up again.",
+        "source": "T30n1579_004:0296b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從其口中拔出其舌。",
+        "translation": "He pulls his tongue out of his mouth.",
+        "source": "T30n1579_004:0296b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以百鐵釘釘而張之。",
+        "translation": "He nails it with a hundred iron nails and spreads it open.",
+        "source": "T30n1579_004:0296b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令無皺襵如張牛皮。",
+        "translation": "It becomes wrinkle-free and flattering like a sheet of cowhide.",
+        "source": "T30n1579_004:0296b23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復更仰臥熱鐵地上。",
+        "translation": "Then, he'll lie on his back on a hot iron floor.",
+        "source": "T30n1579_004:0296b23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以熱燒鐵鉗鉗口令開。",
+        "translation": "He uses hot iron forceps to clamp his mouth open.",
+        "source": "T30n1579_004:0296b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以燒然極燒然遍極燒然大熱鐵丸。",
+        "translation": "Then, he takes a large, hot iron ball that's glowing, extremely glowing, and completely glowing.",
+        "source": "T30n1579_004:0296b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "置其口中。",
+        "translation": "Put it in his mouth.",
+        "source": "T30n1579_004:0296b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即燒其口及以咽喉徹於府藏。",
+        "translation": "It then burns his mouth and throat and penetrates his mansion.",
+        "source": "T30n1579_004:0296b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從下而出。",
+        "translation": "It then comes out from below.",
+        "source": "T30n1579_004:0296b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又以洋銅而灌其口。",
+        "translation": "Then, he pours foreign copper into his mouth.",
+        "source": "T30n1579_004:0296b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燒喉及口徹於府藏。",
+        "translation": "It burns his throat and mouth and penetrates his mango-store.",
+        "source": "T30n1579_004:0296b27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從下流出。",
+        "translation": "From below, it flows out.",
+        "source": "T30n1579_004:0296b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所餘苦惱如極熱說。",
+        "translation": "The remaining suffering and distress is described as extremely hot.",
+        "source": "T30n1579_004:0296b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣長時受苦。",
+        "translation": "As a result, they'll experience pain for a long time.",
+        "source": "T30n1579_004:0296b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至先世所造一切惡不善業未盡未出故。",
+        "translation": "It's because all the bad and unskillful actions created in prior lifetimes haven't been ended and haven't yet escaped.",
+        "source": "T30n1579_004:0296b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此那落迦名為無間。",
+        "translation": "This Nādika is called unremitting.",
+        "source": "T30n1579_004:0296c01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多是造作無間之業來生是中。",
+        "translation": "It's mostly the result of creating unremitting activity that comes to be born here.",
+        "source": "T30n1579_004:0296c02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此但略說麁顯苦具。",
+        "translation": "This is only a brief explanation of the debilitating and manifesting afflictions.",
+        "source": "T30n1579_004:0296c02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非於如是大那落迦中。",
+        "translation": "It's not in this kind of great naraka.",
+        "source": "T30n1579_004:0296c03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所餘種種眾多苦具而不可得又於近邊諸那落迦中。",
+        "translation": "There are many other kinds of painful implements that are unobtainable, and there are nearby narakas.",
+        "source": "T30n1579_004:0296c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有情之類受用如是治罰重苦。",
+        "translation": "Sentient beings experience such severe pain as a punishment.",
+        "source": "T30n1579_004:0296c05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼一切諸大那落迦。",
+        "translation": "All those great hellholes are described as having four sides, four banks, and four gates.",
+        "source": "T30n1579_004:0296c05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆有四方四岸四門鐵牆圍遶從其四方四門出已。",
+        "translation": "They're all surrounded by four quadrants, four banks, four gates, and an iron wall.",
+        "source": "T30n1579_004:0296c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其一一門外有四出園。",
+        "translation": "Outside one of those gates are four parks that emerge.",
+        "source": "T30n1579_004:0296c07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂煻煨齊膝。",
+        "translation": "It's called a forest that burns hot and close to the knees.",
+        "source": "T30n1579_004:0296c08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情出求舍宅遊行至此。",
+        "translation": "Those sentient beings leave their homes in search of shelter and march here.",
+        "source": "T30n1579_004:0296c08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下足之時皮肉及血並即消爛。",
+        "translation": "When they step down, their skin, flesh, and blood immediately melt away.",
+        "source": "T30n1579_004:0296c09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉足還生。",
+        "translation": "Lifting their feet, they are reborn.",
+        "source": "T30n1579_004:0296c09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次此煻煨無間即有死屍糞泥。",
+        "translation": "Next, there's this toasty, uninterrupted area where there are dead corpses and dung.",
+        "source": "T30n1579_004:0296c10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此諸有情為求舍宅從彼出已。",
+        "translation": "After emerging from there, these sentient beings seeking shelter emerge.",
+        "source": "T30n1579_004:0296c10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "漸漸遊行陷入其中首足俱沒。",
+        "translation": "They gradually march into it and lose their heads and feet together.",
+        "source": "T30n1579_004:0296c11_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又屍糞埿內多有諸蟲。",
+        "translation": "Also, there are many worms inside the dung and mud of corpses.",
+        "source": "T30n1579_004:0296c12_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名孃矩吒。",
+        "translation": "They're called khaṭṭas.",
+        "source": "T30n1579_004:0296c12_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "穿皮入肉斷筋破骨取髓而食。",
+        "translation": "They pierce skin, enter flesh, cut tendons, break bones, and take marrow to eat.",
+        "source": "T30n1579_004:0296c13_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次屍糞埿無間有利刀劍。",
+        "translation": "Next, there's a corpse's dung stain that has no room for swords.",
+        "source": "T30n1579_004:0296c13_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仰刃為路。",
+        "translation": "Their heads are tilted, and their blades are turned into paths.",
+        "source": "T30n1579_004:0296c14_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情為求舍宅。",
+        "translation": "Those sentient beings seeking shelter will march out from there and arrive here.",
+        "source": "T30n1579_004:0296c14_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從彼出已遊行至此。",
+        "translation": "After emerging from there, they march over to this place.",
+        "source": "T30n1579_004:0296c15_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下足之時皮肉筋血悉皆消爛。",
+        "translation": "When they step down, their skin, flesh, tendons, and blood all melt away.",
+        "source": "T30n1579_004:0296c15_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉足之時還復如故。",
+        "translation": "When they lift their feet, they're still the same as before.",
+        "source": "T30n1579_004:0296c16_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次刀劍刃路無間有刃葉林。",
+        "translation": "\"Next, there's the path of swords and blades, and there's the forest of blades and leaves without interruption.",
+        "source": "T30n1579_004:0296c16_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情為求舍宅。",
+        "translation": "Those sentient beings are seeking to abandon their homes.",
+        "source": "T30n1579_004:0296c17_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從彼出已往趣彼蔭纔坐其下微風遂起刃葉墮落。",
+        "translation": "After emerging from there, they go to that shadow, and once they sit under it, a breeze rises and drops blades and leaves.",
+        "source": "T30n1579_004:0296c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斫截其身一切支節。",
+        "translation": "It chops off every limb of their body.",
+        "source": "T30n1579_004:0296c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便即躄地有黑黧狗。",
+        "translation": "They're then crippled to the ground, and there's a black-and-tan dog.",
+        "source": "T30n1579_004:0296c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "摣掣脊[胎-ㄙ+口]而噉食之。",
+        "translation": "They took his back [fetus - mouth + mouth] and ate it.",
+        "source": "T30n1579_004:0296c20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此刃葉林無間有鐵設拉末梨林。",
+        "translation": "From this forest of bladed leaves, there's an uninterrupted forest of iron cemeteries and mangoes.",
+        "source": "T30n1579_004:0296c20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情為求舍宅。",
+        "translation": "Those sentient beings seek shelter there.",
+        "source": "T30n1579_004:0296c21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便來趣之遂登其上。",
+        "translation": "They then come to it and climb on top of it.",
+        "source": "T30n1579_004:0296c22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當登之時一切刺鋒悉迴向下。",
+        "translation": "When they climb up, all the thorns turn down.",
+        "source": "T30n1579_004:0296c22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲下之時一切刺鋒復迴向上。",
+        "translation": "When they want to descend, the blades of all the thorns turn back up again.",
+        "source": "T30n1579_004:0296c23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣貫刺其身遍諸支節。",
+        "translation": "This is the cause and condition that pierces their bodies and penetrates their joints.",
+        "source": "T30n1579_004:0296c24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時便有鐵[此/朿]大烏。",
+        "translation": "At that point, there's a large crow of iron [here/that].",
+        "source": "T30n1579_004:0296c24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上彼頭上或上其髆。",
+        "translation": "It goes up on their head or onto their shoulder blade.",
+        "source": "T30n1579_004:0296c25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "探啄眼睛而噉食之。",
+        "translation": "They peck at their eyes and eat them.",
+        "source": "T30n1579_004:0296c25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從鐵設拉末梨林無間有廣大河沸熱灰水彌滿其中。",
+        "translation": "From the Tshilamālī forest, there's an instantaneous, vast river of boiling hot gray water that fills it.",
+        "source": "T30n1579_004:0296c26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情尋求舍宅。",
+        "translation": "Those sentient beings search for a home.",
+        "source": "T30n1579_004:0296c27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從彼出已來墮此中。",
+        "translation": "After emerging from there, they fall into it.",
+        "source": "T30n1579_004:0296c28_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶如以豆置之大鑊。",
+        "translation": "They're like putting soybeans in a large wok.",
+        "source": "T30n1579_004:0296c28_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然猛熾火而煎煮之。",
+        "translation": "It's being boiled in a fierce, blazing fire.",
+        "source": "T30n1579_004:0296c29_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨湯騰涌周旋迴復。",
+        "translation": "As the water rises up, it circles around and goes back and forth.",
+        "source": "T30n1579_004:0296c29_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於河兩岸有諸獄卒。",
+        "translation": "On both sides of the river there are jailers.",
+        "source": "T30n1579_004:0297a01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "手執杖索及以大網。",
+        "translation": "They were armed with staffs and ropes and had large nets in their hands.",
+        "source": "T30n1579_004:0297a01_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行列而住。",
+        "translation": "They lined them up and stood there.",
+        "source": "T30n1579_004:0297a02_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遮彼有情不令得出。",
+        "translation": "They block them from reaching sentient beings and prevent them from escaping.",
+        "source": "T30n1579_004:0297a02_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或以索羂。",
+        "translation": "Some use ropes and nooses, while others use nets to wet them.",
+        "source": "T30n1579_004:0297a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或以網漉。",
+        "translation": "Some use nets to weave them in.",
+        "source": "T30n1579_004:0297a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復置廣大熱鐵地上。",
+        "translation": "Again, he places them on a large, hot iron floor.",
+        "source": "T30n1579_004:0297a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仰彼有情而問之言。",
+        "translation": "He looks up to those sentient beings and asks them.",
+        "source": "T30n1579_004:0297a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等今者欲何所須。",
+        "translation": "\"What do you want now?",
+        "source": "T30n1579_004:0297a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是答言。",
+        "translation": "They replied.",
+        "source": "T30n1579_004:0297a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等今者竟無覺知。",
+        "translation": "\"Now, we don't even know it.",
+        "source": "T30n1579_004:0297a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然為種種飢苦所逼。",
+        "translation": "We're nonetheless being subjected to various kinds of hunger and suffering.",
+        "source": "T30n1579_004:0297a05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼獄卒即以鐵鉗鉗口令開。",
+        "translation": "The jailer then used iron forceps to force open their mouths.",
+        "source": "T30n1579_004:0297a06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便以極熱燒然鐵丸。",
+        "translation": "He then put a very hot, burning iron ball in his mouth.",
+        "source": "T30n1579_004:0297a07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "置其口中。",
+        "translation": "He put it in his mouth.",
+        "source": "T30n1579_004:0297a07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘如前說。",
+        "translation": "The rest is as explained above.",
+        "source": "T30n1579_004:0297a07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼答言。",
+        "translation": "If he answers, \"Now, I'm only being forced by thirst.",
+        "source": "T30n1579_004:0297a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今唯為渴苦所逼。",
+        "translation": "\"Now, I'm only being forced by thirst and suffering.",
+        "source": "T30n1579_004:0297a08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時獄卒。",
+        "translation": "It's then that the jailer.",
+        "source": "T30n1579_004:0297a08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便即洋銅以灌其口。",
+        "translation": "He then fills his mouth with warm copper.",
+        "source": "T30n1579_004:0297a09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是因緣長時受苦。",
+        "translation": "As a result of this, he'll experience pain for a long time.",
+        "source": "T30n1579_004:0297a09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至先世所造一切能感那落迦惡不善業未盡未出。",
+        "translation": "It's even the result of all the things created in prior lives that can cause Nādika to do bad and unskillful actions that haven't yet ended or escaped.",
+        "source": "T30n1579_004:0297a10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中若刀劍刃路。",
+        "translation": "Here, there's the path of a sword's edge.",
+        "source": "T30n1579_004:0297a11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若刃葉林。",
+        "translation": "Suppose there's a forest of razor blades and leaves ...",
+        "source": "T30n1579_004:0297a11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若鐵設拉末梨林。",
+        "translation": "...or the forest of iron filaments.",
+        "source": "T30n1579_004:0297a12_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總之為一故有四園。",
+        "translation": "All of them are one, so there are four parks.",
+        "source": "T30n1579_004:0297a12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於寒那落迦受生有情。",
+        "translation": "Also, sentient beings who are born in Hanārāja are subject to this kind of intense cold and suffering.",
+        "source": "T30n1579_004:0297a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多受如是極重寒苦。",
+        "translation": "They often experience this kind of intense cold and suffering.",
+        "source": "T30n1579_004:0297a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂皰那落迦中受生有情。",
+        "translation": "It means that there are sentient beings born in hermitage Nāroka.",
+        "source": "T30n1579_004:0297a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即為彼地極重廣大寒觸所觸。",
+        "translation": "They're then touched by the extremely heavy, vast cold sensation of that ground.",
+        "source": "T30n1579_004:0297a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切身分悉皆卷縮猶如瘡皰。",
+        "translation": "All of their bodies are curled up and shrunken like sores and blisters.",
+        "source": "T30n1579_004:0297a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此那落迦名皰那落迦。",
+        "translation": "That's why this hell is called blistering hell.",
+        "source": "T30n1579_004:0297a16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皰裂那落迦與此差別。",
+        "translation": "Blistering Nādaka is different from this.",
+        "source": "T30n1579_004:0297a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶如皰潰膿血流出其瘡卷皺。",
+        "translation": "It's like a blistering pus and blood flowing out of a sore that's curled and wrinkled.",
+        "source": "T30n1579_004:0297a17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此那落迦名為皰裂。",
+        "translation": "That's why this naraka is called blistered.",
+        "source": "T30n1579_004:0297a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又喝哳詀。",
+        "translation": "It's also called 'shouting and whispering.'",
+        "source": "T30n1579_004:0297a18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "郝郝凡。",
+        "translation": "'Hao haofan.'",
+        "source": "T30n1579_004:0297a18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "虎虎凡。",
+        "translation": "Huhuhufan ...",
+        "source": "T30n1579_004:0297a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此三那落迦由彼有情苦音差別。",
+        "translation": "These three naraka are distinguished by the painful sounds of those sentient beings.",
+        "source": "T30n1579_004:0297a19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以立其名。",
+        "translation": "That's why they're called that.",
+        "source": "T30n1579_004:0297a19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "青蓮那落迦中。",
+        "translation": "Among the blue lotus hellhouses.",
+        "source": "T30n1579_004:0297a20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼地極重廣大寒觸所觸。",
+        "translation": "It's the result of that ground's extremely heavy, vast, and cold touch.",
+        "source": "T30n1579_004:0297a20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切身分悉皆青瘀。",
+        "translation": "All of their bodies are bruised and battered.",
+        "source": "T30n1579_004:0297a21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皮膚破裂或五或六。",
+        "translation": "Their skin may be broken in five or six places.",
+        "source": "T30n1579_004:0297a21_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此那落迦名曰青蓮。",
+        "translation": "That's why this Nādaka is called the blue lotus.",
+        "source": "T30n1579_004:0297a22_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "紅蓮那落迦與此差別。",
+        "translation": "The red lotus Nādaka is different from this.",
+        "source": "T30n1579_004:0297a22_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "過此青已色變紅赤。",
+        "translation": "After this blue color, its color changes to red.",
+        "source": "T30n1579_004:0297a23_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皮膚分裂或十或多。",
+        "translation": "His skin may be split ten or more times.",
+        "source": "T30n1579_004:0297a23_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此那落迦名曰紅蓮。",
+        "translation": "That's why this Nādaka is called the red lotus.",
+        "source": "T30n1579_004:0297a24_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大紅蓮那落迦與此差別。",
+        "translation": "The great red lotus Nādaka differs from this.",
+        "source": "T30n1579_004:0297a24_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼身分極大紅赤。",
+        "translation": "Its identity is described as extremely large and red.",
+        "source": "T30n1579_004:0297a25_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皮膚分裂或百或多。",
+        "translation": "Their skin may be split a hundred or more times.",
+        "source": "T30n1579_004:0297a25_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此那落迦。",
+        "translation": "That's why this Nādaka is called the great red lotus.",
+        "source": "T30n1579_004:0297a26_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名大紅蓮。",
+        "translation": "It's called the great red lotus.",
+        "source": "T30n1579_004:0297a26_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又獨一那落迦中受生有情。",
+        "translation": "Also, there's a single sentient being born in that hellhole.",
+        "source": "T30n1579_004:0297a26_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各於自身自業所感。",
+        "translation": "Each is caused by their own actions.",
+        "source": "T30n1579_004:0297a27_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多受如是種種大苦。",
+        "translation": "They'll often experience these kinds of great suffering.",
+        "source": "T30n1579_004:0297a27_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如吉祥問採菉豆子經中廣說。",
+        "translation": "It's as explained in detail in the Sutra of the Auspicious Questions on Picking Green Peas.",
+        "source": "T30n1579_004:0297a28_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故此那落迦名為獨一。",
+        "translation": "That's why this hell of a hell of a lotus is called unique.",
+        "source": "T30n1579_004:0297a29_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又傍生趣更相殘害如羸弱者為諸強力之所殺害。",
+        "translation": "Also, the destinies of unenlightened sentient beings are mutually harmful, such as when a weak person is killed by strong forces.",
+        "source": "T30n1579_004:0297b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣受種種苦。",
+        "translation": "As a result of these causes, they experience various kinds of suffering.",
+        "source": "T30n1579_004:0297b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以不自在他所驅馳多被鞭撻。",
+        "translation": "Because they aren't comfortable with being driven around by others, they're often whipped and beaten.",
+        "source": "T30n1579_004:0297b02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與彼人天為資生具。",
+        "translation": "Being with those humans and gods is a means of livelihood.",
+        "source": "T30n1579_004:0297b03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣。",
+        "translation": "As a result, they'll be subject to a variety of extremely severe suffering.",
+        "source": "T30n1579_004:0297b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具受種種極重苦惱。",
+        "translation": "They experience various kinds of extremely severe suffering and distress.",
+        "source": "T30n1579_004:0297b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又餓鬼趣略有三種。",
+        "translation": "There are also three basic types of rebirth as a hungry ghost.",
+        "source": "T30n1579_004:0297b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者由外。",
+        "translation": "One is from the outside.",
+        "source": "T30n1579_004:0297b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "障礙飲食。",
+        "translation": "It's an obstruction to food and drink.",
+        "source": "T30n1579_004:0297b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者由內障礙飲食。",
+        "translation": "Two, it's from within that food and drink are obstructed.",
+        "source": "T30n1579_004:0297b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者飲食無有障礙。",
+        "translation": "The third is that food and drink are not obstructed.",
+        "source": "T30n1579_004:0297b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何由外障礙飲食。",
+        "translation": "What is the food and drink that's obstructed from the outside?",
+        "source": "T30n1579_004:0297b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼有情由習上品慳故生鬼趣中。",
+        "translation": "It means that some sentient beings are born in the rebirth of ghosts because they're accustomed to the higher level of stinginess.",
+        "source": "T30n1579_004:0297b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常與飢渴相應。",
+        "translation": "They're always accompanied by hunger and thirst.",
+        "source": "T30n1579_004:0297b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皮肉血脈皆悉枯槁猶如火炭。",
+        "translation": "Their skin, flesh, and blood vessels are all withered like burning coals.",
+        "source": "T30n1579_004:0297b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頭髮蓬亂其面黯黑。",
+        "translation": "Their hair is disheveled, and their faces are dull and black.",
+        "source": "T30n1579_004:0297b09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "脣口乾焦常以其舌舐略口面。",
+        "translation": "Their lips and mouth are dry and burnt, and they often lick their mouths and faces with their tongues.",
+        "source": "T30n1579_004:0297b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飢渴慞惶處處馳走。",
+        "translation": "They're hungry, thirsty, and perplexed, and they scurry from place to place.",
+        "source": "T30n1579_004:0297b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所到泉池為餘有情手執刀杖及以羂索。",
+        "translation": "Whenever they reach a spring or pond, they carry a sword, staff, and noose for other sentient beings.",
+        "source": "T30n1579_004:0297b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行列守護令不得趣。",
+        "translation": "They line up to guard them so that they can't go to them.",
+        "source": "T30n1579_004:0297b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或強趣之。",
+        "translation": "Even if they are forced to go to them, they'll see their springs turn to pus and blood.",
+        "source": "T30n1579_004:0297b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便見其泉變成膿血自不欲飲。",
+        "translation": "They then see their springs turn to pus and blood and don't want to drink from them.",
+        "source": "T30n1579_004:0297b12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等鬼。",
+        "translation": "Such a demon.",
+        "source": "T30n1579_004:0297b13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名由外障礙飲食。",
+        "translation": "This is called an obstruction to food and drink from the outside.",
+        "source": "T30n1579_004:0297b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何由內障礙飲食。",
+        "translation": "What is it that internally obstructs food and drink?",
+        "source": "T30n1579_004:0297b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂彼有情口或如針。",
+        "translation": "It means that some sentient being's mouth might be like a needle.",
+        "source": "T30n1579_004:0297b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "口或如炬。",
+        "translation": "Their mouth may be like a torch.",
+        "source": "T30n1579_004:0297b15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復頸癭其腹寬大。",
+        "translation": "Their necks may be burrs, and their bellies may be wide.",
+        "source": "T30n1579_004:0297b15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣。",
+        "translation": "This is the cause and condition.",
+        "source": "T30n1579_004:0297b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "縱得飲食無他障礙。",
+        "translation": "Even though they can eat and drink without other obstructions, they naturally can't eat or drink it.",
+        "source": "T30n1579_004:0297b16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自然不能若噉若飲。",
+        "translation": "Naturally, they can't eat or drink it.",
+        "source": "T30n1579_004:0297b16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等鬼。",
+        "translation": "Such a demon.",
+        "source": "T30n1579_004:0297b17_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名由內障礙飲食。",
+        "translation": "This is called a diet that's obstructed from within.",
+        "source": "T30n1579_004:0297b17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何飲食無有障礙。",
+        "translation": "How is food and drink unobstructed?",
+        "source": "T30n1579_004:0297b18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有餓鬼名猛焰鬘。",
+        "translation": "It means there's a hungry ghost named Fierce Flame Garland.",
+        "source": "T30n1579_004:0297b18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨所飲噉皆被燒然。",
+        "translation": "Whatever it eats and drinks, it's burned.",
+        "source": "T30n1579_004:0297b19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣。",
+        "translation": "This is the cause and condition.",
+        "source": "T30n1579_004:0297b19_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飢渴大苦未甞暫息。",
+        "translation": "Their hunger and thirst are never stopped, and they experience great suffering.",
+        "source": "T30n1579_004:0297b19_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有餓鬼名食糞穢。",
+        "translation": "\"Also, there's a hungry ghost named 'Excrement Eater.'",
+        "source": "T30n1579_004:0297b20_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有一分食糞飲溺。",
+        "translation": "Sometimes there's one that eats dung and drinks drowning.",
+        "source": "T30n1579_004:0297b20_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有一分唯能飲噉極可厭惡生熟臭穢。",
+        "translation": "Some parts of it can only drink and gnaw on the most disgusting raw, ripe, and smelly filth.",
+        "source": "T30n1579_004:0297b21_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "縱得香美而不能食。",
+        "translation": "Even though it's fragrant and delicious, it can't eat it.",
+        "source": "T30n1579_004:0297b22_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有一分自割身肉而噉食之。",
+        "translation": "Sometimes there's a part that cuts off its own flesh and devours it.",
+        "source": "T30n1579_004:0297b22_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "縱得餘食竟不能噉。",
+        "translation": "Even if they were able to eat another part, they still wouldn't be able to devour it.",
+        "source": "T30n1579_004:0297b23_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等鬼。",
+        "translation": "Such a demon.",
+        "source": "T30n1579_004:0297b24_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名飲食無有障礙。",
+        "translation": "This is called a diet that's free of obstructions.",
+        "source": "T30n1579_004:0297b24_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又人趣中受生有情。",
+        "translation": "Furthermore, sentient beings are born in a human rebirth.",
+        "source": "T30n1579_004:0297b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多受如是匱乏之苦。",
+        "translation": "They often suffer from this kind of deprivation.",
+        "source": "T30n1579_004:0297b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂俱生飢渴匱乏苦。",
+        "translation": "They suffer from the deficiency of hunger and thirst that accompany birth.",
+        "source": "T30n1579_004:0297b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所欲不果匱乏苦。",
+        "translation": "The lack of fulfillment of desires is called the suffering of deprivation.",
+        "source": "T30n1579_004:0297b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "麁疎飲食匱乏苦。",
+        "translation": "The deprivation of debilitating food and drink is painful.",
+        "source": "T30n1579_004:0297b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "逼切追求攝受等匱乏苦。",
+        "translation": "Suffering from deprivation such as the harsh pursuit of sustenance.",
+        "source": "T30n1579_004:0297b27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時節變異若寒若熱匱乏苦。",
+        "translation": "Suffering of deprivation from seasonal changes such as cold and heat.",
+        "source": "T30n1579_004:0297b27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有舍宅覆障所作淋漏匱乏苦。",
+        "translation": "The lack of a dwelling that's obstructed by drenching and contamination is deficient and painful.",
+        "source": "T30n1579_004:0297b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "黑闇等障所作事業皆悉休廢匱乏苦。",
+        "translation": "deprivation and suffering from the complete abandonment of undertakings that are hindered by darkness and so forth.",
+        "source": "T30n1579_004:0297b29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又受變壞老病死苦。",
+        "translation": "He also suffers the pain of decay, old age, illness, and death.",
+        "source": "T30n1579_004:0297c01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由那落迦中謂死為樂。",
+        "translation": "It's because death is considered a pleasure in the naraka.",
+        "source": "T30n1579_004:0297c01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故於彼趣不立為苦。",
+        "translation": "Therefore, it's not considered to be suffering in that destiny.",
+        "source": "T30n1579_004:0297c02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又天趣中無解支節苦。",
+        "translation": "Also, in the heavenly destinies there's no suffering of the limbs of liberation.",
+        "source": "T30n1579_004:0297c02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而有死墮苦。",
+        "translation": "Instead, there's the suffering of falling through death.",
+        "source": "T30n1579_004:0297c03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如經中說。",
+        "translation": "As the sūtras say.",
+        "source": "T30n1579_004:0297c03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有諸天子將欲沒時。",
+        "translation": "\"When some celestial sons are about to perish.",
+        "source": "T30n1579_004:0297c03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五相先現。",
+        "translation": "Five characteristics first appear.",
+        "source": "T30n1579_004:0297c04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一衣無垢染有垢染現。",
+        "translation": "One, their robes are undefiled, and defilement appears.",
+        "source": "T30n1579_004:0297c04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二鬘舊不萎今乃萎顇。",
+        "translation": "Two, his garments haven't withered in the past, but now they're withered.",
+        "source": "T30n1579_004:0297c05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三兩腋汗流。",
+        "translation": "Three, sweat runs down from their armpits.",
+        "source": "T30n1579_004:0297c05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四身便臭穢。",
+        "translation": "Four, their stool smells bad.",
+        "source": "T30n1579_004:0297c06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五天及天子不樂本座。",
+        "translation": "Five gods and celestials aren't happy in their seats.",
+        "source": "T30n1579_004:0297c06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼天子偃臥林間所有婇女與餘天子共為遊戲。",
+        "translation": "At the time, that god was lying prostrate in the forest with his maidens and the other gods playing together.",
+        "source": "T30n1579_004:0297c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼既見已由此因緣生大憂苦。",
+        "translation": "After he sees this, the cause and conditions give rise to great sorrow and suffering.",
+        "source": "T30n1579_004:0297c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復受陵蔑悚慄之苦。",
+        "translation": "He'll also experience the pain of disdain and fear.",
+        "source": "T30n1579_004:0297c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T30n1579_004:0297c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由有廣大福聚成就及廣大五欲。",
+        "translation": "It's because there's a great accumulation of merit and a vast array of the five desires.",
+        "source": "T30n1579_004:0297c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天子生時所餘薄福諸舊天子見已惶怖。",
+        "translation": "When the sons of gods are born, the rest of the poorly endowed sons of gods are terrified when they see them.",
+        "source": "T30n1579_004:0297c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣受大憂苦。",
+        "translation": "As a result, they experience great sorrow and suffering.",
+        "source": "T30n1579_004:0297c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又受斫截破壞驅擯殘害之苦。",
+        "translation": "They also suffer the pain of being chopped off, destroyed, driven away, and maimed.",
+        "source": "T30n1579_004:0297c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T30n1579_004:0297c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由天與非天共戰諍時天與非天互相違拒。",
+        "translation": "It's because when gods and non-gods fight together, the gods and non-gods oppose each other.",
+        "source": "T30n1579_004:0297c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即執四仗。",
+        "translation": "They then seize four weapons.",
+        "source": "T30n1579_004:0297c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂金銀頗胝琉璃。",
+        "translation": "They're called gold, silver, and bunched lapis lazuli.",
+        "source": "T30n1579_004:0297c14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共相戰鬪。",
+        "translation": "They fight each other.",
+        "source": "T30n1579_004:0297c14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時諸天及與非天。",
+        "translation": "At that point, the gods and non-gods are fighting with each other.",
+        "source": "T30n1579_004:0297c15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或斷支節或破其身或復致死。",
+        "translation": "They might sever a limb, break their bodies, or cause death.",
+        "source": "T30n1579_004:0297c15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若傷身斷節續還如故。",
+        "translation": "If they injure their bodies and sever their limbs, they'll continue as before.",
+        "source": "T30n1579_004:0297c16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若斷其首即便殞沒。",
+        "translation": "If they sever their heads, they'll fall apart.",
+        "source": "T30n1579_004:0297c16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天與非天互有他勝。",
+        "translation": "There's another way that gods and non-gods are superior to each other.",
+        "source": "T30n1579_004:0297c17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然天多勝力勢強故。",
+        "translation": "However, the gods are mostly superior because of their strength and power.",
+        "source": "T30n1579_004:0297c17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然其彼二若為他勝即退入自宮。",
+        "translation": "However, if those two are superior to others, they'll retreat into their own palace.",
+        "source": "T30n1579_004:0297c18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "己之同類竟不慰問。",
+        "translation": "Their own kind doesn't even bother them.",
+        "source": "T30n1579_004:0297c19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣便懷憂慼。",
+        "translation": "Because of this cause, they then become sad.",
+        "source": "T30n1579_004:0297c19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若天得勝便入非天宮中。",
+        "translation": "If the gods were victorious, they'd go to the palace of someone who isn't a god.",
+        "source": "T30n1579_004:0297c20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為悅其女起此違諍。",
+        "translation": "This disagreement arises to please their daughter.",
+        "source": "T30n1579_004:0297c20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若非天得勝即入天宮。",
+        "translation": "If the non-gods prevail, they'll enter the palace of the gods.",
+        "source": "T30n1579_004:0297c21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為求四種蘇陀味故共相戰諍。",
+        "translation": "They fight each other for the sake of seeking the four flavors of sustenance.",
+        "source": "T30n1579_004:0297c21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸非天當知天趣所攝。",
+        "translation": "Those who aren't gods should know that they're included in the destinies of gods.",
+        "source": "T30n1579_004:0297c22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然由意志多懷詐幻諂誑多故。",
+        "translation": "However, because their wills are full of deceit and illusion, and they lie and flatter a lot, they aren't as good as the gods as pure Dharma vessels.",
+        "source": "T30n1579_004:0297c23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不如諸天為淨法器。",
+        "translation": "They aren't as pure a vessel for the Dharma as the gods are.",
+        "source": "T30n1579_004:0297c23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此因緣。",
+        "translation": "This is the cause and condition.",
+        "source": "T30n1579_004:0297c24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有時經中說為別趣。",
+        "translation": "Sometimes it's said in the sutras that these are different destinies.",
+        "source": "T30n1579_004:0297c24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "實是天類由不受行諸天法故說為非天。",
+        "translation": "It's really a type of god who's not a god because he doesn't accept or practice the teachings of the gods.",
+        "source": "T30n1579_004:0297c25_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有強力天子纔一發憤。",
+        "translation": "There's another powerful celestial who gets angry just once.",
+        "source": "T30n1579_004:0297c26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸劣天子便被驅擯出其自宮。",
+        "translation": "The less powerful gods are then driven out of their own palaces.",
+        "source": "T30n1579_004:0297c26_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故諸天受三種苦。",
+        "translation": "As a result, gods experience three kinds of suffering.",
+        "source": "T30n1579_004:0297c27_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂死墮苦。",
+        "translation": "They are the suffering of death and descent.",
+        "source": "T30n1579_004:0297c28_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "陵蔑苦。",
+        "translation": "They suffer the pain of being despised.",
+        "source": "T30n1579_004:0297c28_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斫截破壞殘害驅擯苦。",
+        "translation": "They suffer the pain of being chopped off, destroyed, maimed, and expelled.",
+        "source": "T30n1579_004:0297c28_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又色無色界有情無有如是等苦。",
+        "translation": "There's no such suffering for sentient beings in the form and formless realms.",
+        "source": "T30n1579_004:0297c29_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼有情非苦受器故。",
+        "translation": "It's because those sentient beings aren't recipients of suffering.",
+        "source": "T30n1579_004:0297c29_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然由麁重苦故說彼有苦。",
+        "translation": "However, it's because of debilitating suffering that they're said to have suffering.",
+        "source": "T30n1579_004:0298a01_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有煩惱故。",
+        "translation": "It's because there are afflictions ...",
+        "source": "T30n1579_004:0298a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有障礙故。",
+        "translation": "It's because there are obstacles.",
+        "source": "T30n1579_004:0298a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於死及住不自在故。",
+        "translation": "It's because they don't have freedom in death and abode.",
+        "source": "T30n1579_004:0298a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又無漏界中一切麁重諸苦永斷。",
+        "translation": "Furthermore, in the uncontaminated realm, all crude and severe suffering is permanently stopped.",
+        "source": "T30n1579_004:0298a03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故唯此是勝義樂。",
+        "translation": "Therefore, this alone is supramundane happiness.",
+        "source": "T30n1579_004:0298a03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知所餘一切是苦。",
+        "translation": "You should know that all the rest is suffering.",
+        "source": "T30n1579_004:0298a04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於四種那落迦中無有樂受。",
+        "translation": "Furthermore, in the four kinds of naraka, there's no pleasant sensation.",
+        "source": "T30n1579_004:0298a04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如那落迦中。",
+        "translation": "It's like that in naraka.",
+        "source": "T30n1579_004:0298a05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三種餓鬼中亦爾。",
+        "translation": "The same is true among the three kinds of hungry ghosts.",
+        "source": "T30n1579_004:0298a05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸大力鬼傍生人中。",
+        "translation": "Among the powerful ghosts and those who live near them.",
+        "source": "T30n1579_004:0298a06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有外門所生資具樂可得。",
+        "translation": "There are external supports and pleasures that are produced by other disciplines.",
+        "source": "T30n1579_004:0298a06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然為眾苦之所相雜。",
+        "translation": "They're nonetheless the result of the compounding of many sufferings.",
+        "source": "T30n1579_004:0298a07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又人趣中轉輪王樂最勝微妙。",
+        "translation": "Also, among human rebirths, the pleasure of the wheel-turning king is the most excellent and subtle.",
+        "source": "T30n1579_004:0298a07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼輪王出現世時有成就七寶自然出現故。",
+        "translation": "It's because that wheel-turning king naturally appears in the world with the accomplishment of the seven treasures.",
+        "source": "T30n1579_004:0298a08_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說彼王具足七寶。",
+        "translation": "That king is said to be fully endowed with seven treasures.",
+        "source": "T30n1579_004:0298a09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為七。",
+        "translation": "What are the seven?",
+        "source": "T30n1579_004:0298a10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂輪寶象寶馬寶末尼珠寶女寶主藏臣寶主兵臣寶。",
+        "translation": "They are the wheel treasure, the elephant treasure, the horse treasure, the maṇi jewel treasure, the woman treasure, the lord's store minister treasure, and the lord's army minister treasure.",
+        "source": "T30n1579_004:0298a10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時輪寶等現。",
+        "translation": "At the time, the wheel-treasure and other treasures were present.",
+        "source": "T30n1579_004:0298a11_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其相云何。",
+        "translation": "What are their appearances?",
+        "source": "T30n1579_004:0298a11_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七寶現相如經廣說。",
+        "translation": "The seven treasures' appearances are as the sūtras explain in detail.",
+        "source": "T30n1579_004:0298a12_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼輪王王四洲者。",
+        "translation": "\"Suppose there's a wheel-turning king who rules the four continents.",
+        "source": "T30n1579_004:0298a12_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切小王望風順化。",
+        "translation": "All the lesser kings look to the wind to obey their transformation.",
+        "source": "T30n1579_004:0298a13_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各自白言。",
+        "translation": "Each one says.",
+        "source": "T30n1579_004:0298a13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "某城邑聚落天之所有。",
+        "translation": "'That town or village belongs to the gods.'",
+        "source": "T30n1579_004:0298a13_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願大王垂恩教勅。",
+        "translation": "\"Please grant us the great king's blessing and command.",
+        "source": "T30n1579_004:0298a14_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等皆當為天僕隸。",
+        "translation": "We will all become servants of the gods.'",
+        "source": "T30n1579_004:0298a14_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時輪王便即勅令。",
+        "translation": "The wheel-turning king then commanded them.",
+        "source": "T30n1579_004:0298a15_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等諸王各於自境以理獎化。",
+        "translation": "\"You kings, each of you will reward and teach people in your own place according to principle.",
+        "source": "T30n1579_004:0298a15_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當以如法勿以非法。",
+        "translation": "Do so according to the Dharma and not according to what's not the Dharma.",
+        "source": "T30n1579_004:0298a16_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復汝等於國於家勿行非法行。",
+        "translation": "Also, don't do anything unlawful in your country or your household.",
+        "source": "T30n1579_004:0298a17_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勿行不平等行。",
+        "translation": "Don't perform unequal deeds.",
+        "source": "T30n1579_004:0298a17_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼輪王王三洲者。",
+        "translation": "Suppose there's a wheel-turning king who occupies three continents.",
+        "source": "T30n1579_004:0298a18_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先遣使往然後從化。",
+        "translation": "Send an envoy there first, then follow through with the teaching.",
+        "source": "T30n1579_004:0298a18_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼輪王王二洲者。",
+        "translation": "Suppose there's a wheel-turning king who lives on two continents.",
+        "source": "T30n1579_004:0298a19_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "興師現威後乃從化。",
+        "translation": "He'll train a master, show his authority, and then follow through with the teaching.",
+        "source": "T30n1579_004:0298a19_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼輪王王一洲者。",
+        "translation": "If there's a wheel-turning king on one continent, then he'll go there himself, raging with his spear and wielding his sword.",
+        "source": "T30n1579_004:0298a20_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便自往彼奮戈揮刃然後從化。",
+        "translation": "He then personally goes there, rouses his spear, wields his sword, and then follows through with the teaching.",
+        "source": "T30n1579_004:0298a20_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次諸天受其廣大天之富樂。",
+        "translation": "\"Furthermore, the gods receive the riches and happiness of those vast gods.",
+        "source": "T30n1579_004:0298a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "形色殊妙多諸適悅。",
+        "translation": "Their appearance is marvelous, and they have many comforts.",
+        "source": "T30n1579_004:0298a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自宮中而得久住。",
+        "translation": "They can stay in their own palace for a long time.",
+        "source": "T30n1579_004:0298a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其身內外皆悉清潔無有臭穢。",
+        "translation": "Their bodies are thoroughly clean inside and out, and there's no stench.",
+        "source": "T30n1579_004:0298a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又人身內多有不淨。",
+        "translation": "Also, there are many things inside their bodies that are impure.",
+        "source": "T30n1579_004:0298a24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂塵垢筋骨脾腎心肝。",
+        "translation": "They're called dirt, tendons, bones, spleen, kidneys, heart, and liver.",
+        "source": "T30n1579_004:0298a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼皆無有。",
+        "translation": "They don't have any of that.",
+        "source": "T30n1579_004:0298a25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼諸天有四種宮殿。",
+        "translation": "Also, those gods have four kinds of palaces.",
+        "source": "T30n1579_004:0298a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂金銀頗胝琉璃所成。",
+        "translation": "They're made of gold, silver, coral, and lapis lazuli.",
+        "source": "T30n1579_004:0298a26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種文綵綺飾莊嚴種種臺閣種種樓觀。",
+        "translation": "They are decorated with various kinds of ornaments, adorned with various kinds of towers and various kinds of buildings.",
+        "source": "T30n1579_004:0298a26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種層級種種窓牖種種羅網皆可愛樂。",
+        "translation": "There are various tiers, various windows, and various nets of fabric that are pleasing to the eye.",
+        "source": "T30n1579_004:0298a27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種末尼以為綺鈿。",
+        "translation": "Various kinds of maṇi are decorated with ornamentation.",
+        "source": "T30n1579_004:0298a28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "周匝放光共相照曜。",
+        "translation": "All around, they emit light that shines together.",
+        "source": "T30n1579_004:0298a29_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有食樹。",
+        "translation": "\"Again, there's a food tree.",
+        "source": "T30n1579_004:0298a29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從其樹裏出四食味。",
+        "translation": "From that tree come four flavors of food.",
+        "source": "T30n1579_004:0298b01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名曰蘇陀。",
+        "translation": "It's called sudhā.",
+        "source": "T30n1579_004:0298b01_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂青黃赤白。",
+        "translation": "They're called blue, yellow, red, and white.",
+        "source": "T30n1579_004:0298b01_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有飲樹。",
+        "translation": "\"Again, there's the drinking tree.",
+        "source": "T30n1579_004:0298b02_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此流出甘美之飲。",
+        "translation": "From it flows sweet, delicious drink.",
+        "source": "T30n1579_004:0298b02_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有乘樹。",
+        "translation": "\"Again, there's the vehicle tree.",
+        "source": "T30n1579_004:0298b02_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此出生種種妙乘。",
+        "translation": "From it, various wonderful vehicles are born.",
+        "source": "T30n1579_004:0298b03_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂車輅輦輿等。",
+        "translation": "They're called chariots, carts, and mounts.",
+        "source": "T30n1579_004:0298b03_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有衣樹。",
+        "translation": "\"Again, there's the robe tree.",
+        "source": "T30n1579_004:0298b04_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此出生種種妙衣。",
+        "translation": "From this comes forth various kinds of marvelous clothing.",
+        "source": "T30n1579_004:0298b04_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其衣細軟妙色鮮潔雜綵間飾。",
+        "translation": "Their robes are fine, soft, and of a fine, clean color, and are decorated with mixed ribbons.",
+        "source": "T30n1579_004:0298b04_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有莊嚴具樹。",
+        "translation": "\"Again, there's the ornamented implements tree.",
+        "source": "T30n1579_004:0298b05_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此出生種種微妙莊嚴之具。",
+        "translation": "From this there arises a variety of subtly adorned implements.",
+        "source": "T30n1579_004:0298b05_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂末尼臂印耳璫環釧。",
+        "translation": "These are called manis, armlets, earrings, bracelets, and rings.",
+        "source": "T30n1579_004:0298b06_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及以手足綺飾之具。",
+        "translation": "And his hands and feet are adorned with ornaments.",
+        "source": "T30n1579_004:0298b07_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等類諸莊嚴具。",
+        "translation": "These kinds of adornments are all made of various kinds of marvelous maṇi.",
+        "source": "T30n1579_004:0298b07_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆以種種妙末尼寶。",
+        "translation": "They're all adorned with a variety of marvelous maṇi treasures.",
+        "source": "T30n1579_004:0298b08_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而間飾之。",
+        "translation": "They are adorned with a variety of exquisite maṇi treasures.",
+        "source": "T30n1579_004:0298b08_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有熏香鬘樹。",
+        "translation": "\"There's also the perfumed incense garland tree.",
+        "source": "T30n1579_004:0298b08_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此出生種種塗香種種熏香種種花鬘。",
+        "translation": "From this grows a variety of perfumed fragrances, a variety of perfumed fragrances, and a variety of flower garlands.",
+        "source": "T30n1579_004:0298b09_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有大集會樹。",
+        "translation": "Then there's the great gathering tree.",
+        "source": "T30n1579_004:0298b10_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "最勝微妙。",
+        "translation": "It's most excellent and subtle.",
+        "source": "T30n1579_004:0298b10_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其根深固五十踰繕那。",
+        "translation": "Its roots are fifty times deep and solid, and it's tall and erect for a hundred times longer.",
+        "source": "T30n1579_004:0298b10_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其身高挺百踰繕那。",
+        "translation": "Its body is tall and erect for more than a hundred leagues.",
+        "source": "T30n1579_004:0298b11_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "枝條及葉遍覆八十踰繕那。",
+        "translation": "Its branches and leaves are 80 yojanas in length.",
+        "source": "T30n1579_004:0298b11_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雜花開發。",
+        "translation": "Its various flowers develop.",
+        "source": "T30n1579_004:0298b12_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其香順風熏百踰繕那。",
+        "translation": "Its fragrance is perfumed by a breeze that goes along with it for a hundred yojanas.",
+        "source": "T30n1579_004:0298b12_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "逆風熏五十踰繕那。",
+        "translation": "It smells like 50 yojanas against the wind.",
+        "source": "T30n1579_004:0298b13_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此樹下三十三天。",
+        "translation": "Underneath this tree, there's the Trāyastriṃśa Heaven.",
+        "source": "T30n1579_004:0298b13_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雨四月中以天妙五欲共相娛樂。",
+        "translation": "During the fourth month of rain, they're entertained by the five wonderful desires of the gods.",
+        "source": "T30n1579_004:0298b14_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有歌笑舞樂之樹。",
+        "translation": "Again, there's the tree of song, laughter, dance, and music.",
+        "source": "T30n1579_004:0298b15_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此出生歌笑舞等種種樂器。",
+        "translation": "From this tree comes song, laughter, dance, and a variety of other musical instruments.",
+        "source": "T30n1579_004:0298b15_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又有資具之樹。",
+        "translation": "\"There's also the tree of necessities.",
+        "source": "T30n1579_004:0298b16_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此出生種種資具。",
+        "translation": "From it, various necessities are born.",
+        "source": "T30n1579_004:0298b16_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂食飲之具。",
+        "translation": "They're called provisions for eating and drinking.",
+        "source": "T30n1579_004:0298b17_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "坐臥之具。",
+        "translation": "...and necessities for sitting and lying down.",
+        "source": "T30n1579_004:0298b17_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等類種種資具。",
+        "translation": "These are various necessities of this sort.",
+        "source": "T30n1579_004:0298b17_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼諸天欲受用時。",
+        "translation": "When those gods want to use them, they show them to their hands according to their desires and karma.",
+        "source": "T30n1579_004:0298b18_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨欲隨業應其所須來現手中。",
+        "translation": "They show up in their hands according to their desires and karma and according to what's needed.",
+        "source": "T30n1579_004:0298b18_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸非天隨其所應。",
+        "translation": "Those who aren't gods follow their desires.",
+        "source": "T30n1579_004:0298b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受用種種宮殿富樂應知。",
+        "translation": "They'll be able to use various palaces, wealth, and pleasure as you should know.",
+        "source": "T30n1579_004:0298b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又北拘盧洲有如是相樹。",
+        "translation": "There's also this kind of tree in northern Kolokuche.",
+        "source": "T30n1579_004:0298b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名曰如意。",
+        "translation": "It's called 'wishful thinking.'",
+        "source": "T30n1579_004:0298b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸人眾所欲資具。",
+        "translation": "It provides the sentient beings with the necessities they desire.",
+        "source": "T30n1579_004:0298b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從樹而取不由思惟。",
+        "translation": "They take them from the tree without thinking about it.",
+        "source": "T30n1579_004:0298b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨其所須自然在手。",
+        "translation": "Whatever they need, it naturally comes into their hand.",
+        "source": "T30n1579_004:0298b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有秔稻不種而穫無有我所。",
+        "translation": "Again, there's fructus rice that's harvested without planting and has no self or property.",
+        "source": "T30n1579_004:0298b23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼有情竟無繫屬決定勝進。",
+        "translation": "After all, those sentient beings have no tethers and are determined to advance resolutely.",
+        "source": "T30n1579_004:0298b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又天帝釋有普勝殿。",
+        "translation": "Also, Indra has the Hall of Universal Victory.",
+        "source": "T30n1579_004:0298b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸殿中最為殊勝。",
+        "translation": "It's the most distinguished of all the halls.",
+        "source": "T30n1579_004:0298b25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仍於其處有百樓觀。",
+        "translation": "Still, there are a hundred mansions and shrines in its place.",
+        "source": "T30n1579_004:0298b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一樓觀有百臺閣。",
+        "translation": "Each tower of contemplation has a hundred pavilions.",
+        "source": "T30n1579_004:0298b26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一臺閣有七房室一一房室有七天女。",
+        "translation": "In each tower, there are seven rooms, and in each room there are seven goddesses.",
+        "source": "T30n1579_004:0298b26_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一天女有七侍女。",
+        "translation": "For each goddess, there are seven maids of honor.",
+        "source": "T30n1579_004:0298b27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼諸天所有地界。",
+        "translation": "\"Furthermore, the gods' entire earth realm is flat as the palm of their hands, with no height.",
+        "source": "T30n1579_004:0298b28_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "平正如掌竟無高下。",
+        "translation": "They're as flat as the end of their palms, with no height.",
+        "source": "T30n1579_004:0298b28_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "履觸之時便生安樂。",
+        "translation": "When they touch it, they experience well-being.",
+        "source": "T30n1579_004:0298b29_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下足之時陷便至膝。",
+        "translation": "When he puts his foot down, it sinks down to his knees.",
+        "source": "T30n1579_004:0298b29_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉足之時隨足還起。",
+        "translation": "When he lifts his foot, it rises back up with his foot.",
+        "source": "T30n1579_004:0298c01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切時自然而有曼陀羅華遍布其上。",
+        "translation": "At all times, naturally, there are flowers of mandarins spreading all over them.",
+        "source": "T30n1579_004:0298c01_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時有微風吹去萎華復引新者。",
+        "translation": "Sometimes a gentle breeze blows away the withered flowers and brings back new ones.",
+        "source": "T30n1579_004:0298c02_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼天宮四面各有大街。",
+        "translation": "There's also a large street on each of the four sides of that celestial palace.",
+        "source": "T30n1579_004:0298c03_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其形殊妙軌式可觀。",
+        "translation": "Their shape is marvelous, and their manners are observable.",
+        "source": "T30n1579_004:0298c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨端嚴度量齊整。",
+        "translation": "It's pure, dignified, and well-balanced.",
+        "source": "T30n1579_004:0298c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復於四面有四大門。",
+        "translation": "On the other four sides, there are four large gates.",
+        "source": "T30n1579_004:0298c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "規模宏壯色相希奇。",
+        "translation": "Their size is magnificent, and their appearance is marvelous.",
+        "source": "T30n1579_004:0298c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀之無厭實為殊絕。",
+        "translation": "They're truly extraordinary, and there's nothing to tire of when you look at them.",
+        "source": "T30n1579_004:0298c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多有異類妙色藥叉。",
+        "translation": "There are many wonderfully colored yakṣas of different kinds.",
+        "source": "T30n1579_004:0298c06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常所守護。",
+        "translation": "They are always guarding them.",
+        "source": "T30n1579_004:0298c06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復於四面有四園苑。",
+        "translation": "Also, on the four sides there are four parks and gardens.",
+        "source": "T30n1579_004:0298c07_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一名繢車。",
+        "translation": "One is colored like a cabbage raft.",
+        "source": "T30n1579_004:0298c07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二名麁澁。",
+        "translation": "Two are called rough.",
+        "source": "T30n1579_004:0298c07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三名和雜。",
+        "translation": "Three are called mixed.",
+        "source": "T30n1579_004:0298c08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四名喜林。",
+        "translation": "The fourth is called the joyful forest.",
+        "source": "T30n1579_004:0298c08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其四園外有四勝地。",
+        "translation": "Outside those four parks are four excellent stages.",
+        "source": "T30n1579_004:0298c08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色相殊妙形狀可觀。",
+        "translation": "Their appearance is marvelous, and their shape is contemplable.",
+        "source": "T30n1579_004:0298c09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "端嚴無比。",
+        "translation": "Their appearance is unsurpassed.",
+        "source": "T30n1579_004:0298c09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其宮東北隅有天會處。",
+        "translation": "At the northeast corner of the palace there's a meeting place for the gods.",
+        "source": "T30n1579_004:0298c09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名曰善法。",
+        "translation": "It's called the good dharma.",
+        "source": "T30n1579_004:0298c10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸天入中思惟稱量觀察妙義。",
+        "translation": "The gods enter it to contemplate, measure, and examine its wondrous meaning.",
+        "source": "T30n1579_004:0298c10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "近此園側有如意石。",
+        "translation": "Nearby, on the side of this garden, there's the Ruyi Stone.",
+        "source": "T30n1579_004:0298c11_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其色黃白形質殊妙。",
+        "translation": "It's yellow and white in color and has a marvelous shape.",
+        "source": "T30n1579_004:0298c11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其相可觀嚴麗無比。",
+        "translation": "Its features are observable and have unsurpassed beauty.",
+        "source": "T30n1579_004:0298c12_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼天身自然光曜。",
+        "translation": "That celestial's body naturally shines brightly.",
+        "source": "T30n1579_004:0298c12_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "闇相若現乃知晝去夜分方來。",
+        "translation": "When darkness similarly appears, they then know that day departs and night comes from a certain direction.",
+        "source": "T30n1579_004:0298c13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便於天妙五欲遊戲之中嬾墮睡眠。",
+        "translation": "They then fall into a deep sleep amidst the gods' five wonderful desires and play.",
+        "source": "T30n1579_004:0298c14_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "異類之鳥不復和鳴。",
+        "translation": "The birds of another species no longer chirp in unison.",
+        "source": "T30n1579_004:0298c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此等相以表晝夜。",
+        "translation": "These characteristics are used to express day and night.",
+        "source": "T30n1579_004:0298c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼諸天眾妙五欲甚可愛樂。",
+        "translation": "The heavenly beings' five subtle desires are delightful.",
+        "source": "T30n1579_004:0298c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯發喜樂。",
+        "translation": "They only arouse joy and happiness.",
+        "source": "T30n1579_004:0298c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸天眾恒為放逸之所持行。",
+        "translation": "Those gods are always behaving in a careless way.",
+        "source": "T30n1579_004:0298c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常聞種種歌舞音樂鼓噪之聲。",
+        "translation": "They always hear the sounds of various songs, dances, music, and drums.",
+        "source": "T30n1579_004:0298c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "調戲言笑談謔等聲。",
+        "translation": "They make sounds like playful words, laughter, conversation, and banter.",
+        "source": "T30n1579_004:0298c18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常見種種可意之色。",
+        "translation": "They often see various desirable forms.",
+        "source": "T30n1579_004:0298c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常齅種種微妙之香。",
+        "translation": "They always smell various subtle fragrances.",
+        "source": "T30n1579_004:0298c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恒甞種種美好之味。",
+        "translation": "He always tastes various pleasant flavors.",
+        "source": "T30n1579_004:0298c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恒觸種種天諸婇女最勝之觸。",
+        "translation": "He's always touching the most excellent touch of the gods and goddesses.",
+        "source": "T30n1579_004:0298c20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恒為是樂。",
+        "translation": "It's a constant delight.",
+        "source": "T30n1579_004:0298c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "牽引其意以度其時。",
+        "translation": "They are constantly led by their thoughts to spend their time there.",
+        "source": "T30n1579_004:0298c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼諸天多受如是眾妙欲樂。",
+        "translation": "Those gods often experience such a variety of wonderful desires and pleasures.",
+        "source": "T30n1579_004:0298c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常無疾病亦無衰老。",
+        "translation": "There's always no illness, and there's no aging.",
+        "source": "T30n1579_004:0298c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無飲食等匱乏所作俱生之苦。",
+        "translation": "They don't suffer from a lack of food and drink or other necessities that create the pain of co-existence.",
+        "source": "T30n1579_004:0298c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無如前說於人趣中有餘匱乏之苦。",
+        "translation": "There's no suffering of deprivation with remainder in the human destiny as explained previously.",
+        "source": "T30n1579_004:0298c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "瑜伽師地論卷第四",
+        "translation": "Yogâcārabhūmi-śāstra, vol. 4",
+        "source": "T30n1579_004:0298c25_0",
+        "is_bad_quality": false
+    }
+]

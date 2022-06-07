@@ -1,0 +1,5222 @@
+[
+    {
+        "source_sentence": "攝大乘論釋論卷第九",
+        "translation": "Commentary on the Compendium of the Great Vehicle",
+        "source": "T31n1596_009:0309c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世親菩薩造",
+        "translation": "created by the world-famous bodhisattva",
+        "source": "T31n1596_009:0309c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隋天竺三藏笈多共行矩等譯",
+        "translation": "Sui Tianzhu Tripiṭaka Gupta Co-Hongxing Kue et al.",
+        "source": "T31n1596_009:0309c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增上慧學勝相勝語第八之二",
+        "translation": "Eighth and Second Part of the Eighth Part of the Eminent Teaching on the Study of Superlative Wisdom",
+        "source": "T31n1596_009:0309c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0309c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於方便無分別智中有三種。",
+        "translation": "\"There are three kinds of nondiscriminating cognition of skillful means.",
+        "source": "T31n1596_009:0309c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂因緣引攝數習等。",
+        "translation": "They are those that are brought about by causes and conditions, such as gathering in numbers and accumulation.",
+        "source": "T31n1596_009:0309c17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出生差別故。",
+        "translation": "They are produced because of distinctions.",
+        "source": "T31n1596_009:0309c18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無分別智亦有三種。",
+        "translation": "There are also three kinds of nondiscriminating cognition.",
+        "source": "T31n1596_009:0309c18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂知足不顛倒無戲論等無分別故。",
+        "translation": "This refers to the knowledge that's sufficient, not mistaken, without conceptual elaborations, and so forth, because there's no discrimination.",
+        "source": "T31n1596_009:0309c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無分別後得智有五種。",
+        "translation": "There are five kinds of nondiscriminating subsequently attained cognition.",
+        "source": "T31n1596_009:0309c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂通達憶念成立和合如意等。",
+        "translation": "They are knowledge of recollection, establishment, union, and so forth.",
+        "source": "T31n1596_009:0309c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯示差別。",
+        "translation": "They reveal distinctions.",
+        "source": "T31n1596_009:0309c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0309c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因緣引攝數習等出生差別故者。",
+        "translation": "\"It's because of the distinctions that arise when causes and conditions lead to the inclusion of numerous habits and so forth.",
+        "source": "T31n1596_009:0309c21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是方便無分別三種。",
+        "translation": "These are the three kinds of nondiscrimination in terms of skillful means.",
+        "source": "T31n1596_009:0309c22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由或以種性力。",
+        "translation": "It's either by virtue of their seed nature or by virtue of their present number of habits that they attain.",
+        "source": "T31n1596_009:0309c22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或以現前數習力故得生。",
+        "translation": "Or, it's by the power of several past habits that they're produced.",
+        "source": "T31n1596_009:0309c23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中種性力者。",
+        "translation": "Of these, the power of the seed nature ...",
+        "source": "T31n1596_009:0309c23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是從因得生。",
+        "translation": "That's the cause from which something comes into being.",
+        "source": "T31n1596_009:0309c24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "數習力者即是現在身丈夫力作。",
+        "translation": "The power of repeated accumulation is the result of the power of a presently active person.",
+        "source": "T31n1596_009:0309c24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非從因生。",
+        "translation": "It doesn't arise from a cause.",
+        "source": "T31n1596_009:0309c25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知足無顛倒不戲論無分別故者。",
+        "translation": "He's satisfied with knowing and not mistaken, doesn't engage in conceptual elaborations, and doesn't discriminate.",
+        "source": "T31n1596_009:0309c25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中知足無分別者。",
+        "translation": "Knowing and fulfilling in this doesn't lead to discrimination.",
+        "source": "T31n1596_009:0309c26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知是聞思體究竟。",
+        "translation": "He should know that this is the ultimate in listening, contemplation, and substance.",
+        "source": "T31n1596_009:0309c26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由滿足故不復分別故。",
+        "translation": "It's because of fulfillment that there's no more discrimination.",
+        "source": "T31n1596_009:0309c27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名知足無分別。",
+        "translation": "It's called being fully aware and without discrimination.",
+        "source": "T31n1596_009:0309c27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於聞思位究竟時自知得到究竟處。",
+        "translation": "When he reaches the final stage of listening and contemplation, he knows for himself the final place of attaining it.",
+        "source": "T31n1596_009:0309c28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此菩薩住在凡夫地。",
+        "translation": "This bodhisattva is staying in the stage of worldling.",
+        "source": "T31n1596_009:0309c28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生滿足心。",
+        "translation": "He gives rise to the mental state of fulfillment.",
+        "source": "T31n1596_009:0309c29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是念。",
+        "translation": "He thinks.",
+        "source": "T31n1596_009:0309c29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聞思事只齊於此。",
+        "translation": "'This is the only thing that's equal in terms of hearing and contemplating.'",
+        "source": "T31n1596_009:0309c29_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是義故說為知足無分別。",
+        "translation": "For this reason, it's called being satisfied without discrimination.",
+        "source": "T31n1596_009:0310a01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次應知。",
+        "translation": "Furthermore, you should know this.",
+        "source": "T31n1596_009:0310a01_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有世間知足無分別。",
+        "translation": "'There's the worldly state of knowing and not discriminating.'",
+        "source": "T31n1596_009:0310a02_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若得於有頂處見為涅槃。",
+        "translation": "Suppose he attains the highest level of existence and sees it as nirvāṇa.",
+        "source": "T31n1596_009:0310a02_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生知足心。",
+        "translation": "He gives rise to the mental state of contentment.",
+        "source": "T31n1596_009:0310a03_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂更無餘處故名知足無分別。",
+        "translation": "It's called knowing enough without discrimination because there's no place beyond that.",
+        "source": "T31n1596_009:0310a03_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不顛倒無分別者應知是聲聞等。",
+        "translation": "Those who aren't mistaken and don't discriminate should know that they are direct disciples and so forth.",
+        "source": "T31n1596_009:0310a04_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由諸聲聞通達真實故得無常等四無倒智。",
+        "translation": "Because śrāvakas comprehend reality, they attain the knowledge of the four imperfections such as impermanence.",
+        "source": "T31n1596_009:0310a04_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於常等四倒相中不復顛倒分別。",
+        "translation": "Among the four fallacies of permanence and so forth, they're no longer mistakenly discriminated.",
+        "source": "T31n1596_009:0310a05_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無戲論無分別者應知。",
+        "translation": "Those who lack conceptual elaborations and lack discrimination should know this.",
+        "source": "T31n1596_009:0310a06_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸菩薩由諸菩薩知一切法乃至菩提。",
+        "translation": "'It's because bodhisattvas know all dharmas up to enlightenment.",
+        "source": "T31n1596_009:0310a07_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無戲論無分別故不復分別。",
+        "translation": "Because they lack conceptual elaborations and lack discrimination, they don't further discriminate.",
+        "source": "T31n1596_009:0310a08_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無戲論者。",
+        "translation": "He who has no conceptual elaborations ...",
+        "source": "T31n1596_009:0310a08_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂出語言道過世間智由此智非言語所說。",
+        "translation": "It's knowledge that transcends the path of language and transcends worldly cognition, and this knowledge is not expressed in words.",
+        "source": "T31n1596_009:0310a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦非世智所知故。",
+        "translation": "It's also not known by conventional cognition.",
+        "source": "T31n1596_009:0310a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次無分別後得智。",
+        "translation": "Furthermore, nondiscriminating subsequently attained cognition.",
+        "source": "T31n1596_009:0310a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有五種差別應知。",
+        "translation": "There are five kinds of distinctions that should be known.",
+        "source": "T31n1596_009:0310a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂通達憶念成立和合如意等。",
+        "translation": "They are the penetration of recollection, the establishment of union, and so forth.",
+        "source": "T31n1596_009:0310a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯示差別故者。",
+        "translation": "This is because they show distinctions.",
+        "source": "T31n1596_009:0310a12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中通達顯示。",
+        "translation": "In this case, penetrating insight reveals it ...",
+        "source": "T31n1596_009:0310a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "憶念顯示。",
+        "translation": "Recollection reveals it ...",
+        "source": "T31n1596_009:0310a12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成立顯示。",
+        "translation": "Established manifests ...",
+        "source": "T31n1596_009:0310a13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "和合顯示。",
+        "translation": "it's a combined display ...",
+        "source": "T31n1596_009:0310a13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如意顯示等五種差別。",
+        "translation": "Thus, there are five kinds of distinctions in what's revealed.",
+        "source": "T31n1596_009:0310a13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中通達顯示者。",
+        "translation": "\"Among them, penetrating display ...",
+        "source": "T31n1596_009:0310a14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若通達已即於彼時顯示云。",
+        "translation": "If he has comprehended it, then he shows it at that point, saying.",
+        "source": "T31n1596_009:0310a14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已通達作如是顯示。",
+        "translation": "'I've comprehended it and made this kind of disclosure.'",
+        "source": "T31n1596_009:0310a15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯示者。",
+        "translation": "'Manifestation' means to recall the manifestation because of definite knowledge.",
+        "source": "T31n1596_009:0310a15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂決定知故憶念顯示者若出定已憶念言。",
+        "translation": "This refers to the person who recollects the display because he knows it with certainty, and if he recollects it after emerging from concentration, he says.",
+        "source": "T31n1596_009:0310a15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已通達無分別也。",
+        "translation": "\"I've comprehended it without discrimination.",
+        "source": "T31n1596_009:0310a16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成立顯示者如所通達為他解說。",
+        "translation": "He who establishes and reveals explains it for others as he has understood it.",
+        "source": "T31n1596_009:0310a17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "和合顯示者以一切法為一摶相。",
+        "translation": "It's a combined manifestation that takes all things as one resemblance.",
+        "source": "T31n1596_009:0310a18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總相攀緣智。",
+        "translation": "It's the knowledge of generalizing and climbing to objects.",
+        "source": "T31n1596_009:0310a18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此觀智即得轉依。",
+        "translation": "By observing this knowledge, he then attains transformation of the basis.",
+        "source": "T31n1596_009:0310a19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如意顯示者由此轉依故即得如意顯示。",
+        "translation": "As-willed manifestation: because of this transformation of the basis, it's possible to display as intended.",
+        "source": "T31n1596_009:0310a19_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由隨心所念一切自在。",
+        "translation": "From following the mind's inclinations, they're all at ease.",
+        "source": "T31n1596_009:0310a20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此自在若以地等為金等即得成就。",
+        "translation": "From this mastery, he'll attain it if he uses earth and so forth as gold and so forth.",
+        "source": "T31n1596_009:0310a21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由顯示故為此如意故。",
+        "translation": "This is because it shows, and it's because of this thusness of mind.",
+        "source": "T31n1596_009:0310a22_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯示故名如意顯示。",
+        "translation": "Because it's shown, it's called displaying as one wishes.",
+        "source": "T31n1596_009:0310a22_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故。",
+        "translation": "Why is that?",
+        "source": "T31n1596_009:0310a23_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由經說。",
+        "translation": "The sūtras say.",
+        "source": "T31n1596_009:0310a23_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以顯示及如意故。",
+        "translation": "'It's because of showing and thus intending.'",
+        "source": "T31n1596_009:0310a23_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已成立無分別智。",
+        "translation": "nondiscriminating cognition has been established.",
+        "source": "T31n1596_009:0310a23_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未說成就因緣故。",
+        "translation": "It's because the causes and conditions for its accomplishment haven't been explained.",
+        "source": "T31n1596_009:0310a24_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復以偈顯示。",
+        "translation": "Again, it's revealed in a verse.",
+        "source": "T31n1596_009:0310a24_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The discussion says.",
+        "source": "T31n1596_009:0310a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更有別偈成就無分別智。",
+        "translation": "'There's another verse that accomplishes nondiscriminating cognition.'",
+        "source": "T31n1596_009:0310a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　鬼畜人天等　　各隨其所應",
+        "translation": "Ghosts, animals, humans, gods, and so forth each follows their own lead.",
+        "source": "T31n1596_009:0310a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　一切意有異　　故知義不成",
+        "translation": "all intentions differ, so the meaning is not understood to be valid",
+        "source": "T31n1596_009:0310a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　過去等及夢　　并餘二影像",
+        "translation": "past, etc., and dreams, and the other two images",
+        "source": "T31n1596_009:0310a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　無有為攀緣　　然彼攀緣成",
+        "translation": "there are no artificial perceptual objects, yet they are perceptual objects in their own right",
+        "source": "T31n1596_009:0310a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若義成為境　　無無分別智",
+        "translation": "if meaning becomes object and there is no nondiscriminating cognition",
+        "source": "T31n1596_009:0310b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此智若不有　　佛果無可得",
+        "translation": "if this kind of cognition does not exist, the Buddhahood will not be attained",
+        "source": "T31n1596_009:0310b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　得自在菩薩　　樂欲自在故",
+        "translation": "bodhisattvas who attain sovereignty because they wish to be sovereign",
+        "source": "T31n1596_009:0310b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如念地等成　　得定者亦爾",
+        "translation": "just as mindfulness of the grounds and so forth is accomplished, so is he who attains concentration",
+        "source": "T31n1596_009:0310b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　成就觀行人　　智人得寂靜",
+        "translation": "accomplished meditator, the wise attain quiescence",
+        "source": "T31n1596_009:0310b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　思惟一切法　　如其義顯現",
+        "translation": "to contemplate all dharmas as their meanings appear",
+        "source": "T31n1596_009:0310b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　智行無分別　　一切義不現",
+        "translation": "nondiscrimination of cognition and practice, all meanings unmanifest",
+        "source": "T31n1596_009:0310b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　即知無有義　　識亦不得有",
+        "translation": "i.e., knowing that there is no meaning, consciousness cannot exist either",
+        "source": "T31n1596_009:0310b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0310b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中鬼畜人天等各隨其所應者。",
+        "translation": "\"Here, ghosts, animals, humans, gods, and so forth each follow their own lead.",
+        "source": "T31n1596_009:0310b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "畜生以為水。",
+        "translation": "The animals are made of water.",
+        "source": "T31n1596_009:0310b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餓鬼為高原。",
+        "translation": "Hungry ghosts are plateaus.",
+        "source": "T31n1596_009:0310b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如人見糞為穢。",
+        "translation": "Just as humans see dung as filth, so animals like pigs see it as pure and marvelous.",
+        "source": "T31n1596_009:0310b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猪等畜生見為淨妙。",
+        "translation": "Pigs and other animals see it as pure and marvelous.",
+        "source": "T31n1596_009:0310b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如人見飲食為淨。",
+        "translation": "As a human being, he sees food and drink as pure.",
+        "source": "T31n1596_009:0310b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸天見為不淨。",
+        "translation": "In the heavens, they see it as impure.",
+        "source": "T31n1596_009:0310b11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此道理顯示。",
+        "translation": "This principle shows that.",
+        "source": "T31n1596_009:0310b12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一物中各隨其意見有差別。",
+        "translation": "'In a single thing, each sees distinctions according to his own mind.'",
+        "source": "T31n1596_009:0310b12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故應知義無所有故。",
+        "translation": "Therefore, you should know that the meaning has no substance.",
+        "source": "T31n1596_009:0310b13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼等所取既不成就。",
+        "translation": "What they grasp will not be accomplished.",
+        "source": "T31n1596_009:0310b13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾義無所有故識應不緣境而生。",
+        "translation": "If that's the case, then consciousness shouldn't arise in reference to objects because its meaning is nonexistent.",
+        "source": "T31n1596_009:0310b14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答亦有識不緣境而生。",
+        "translation": "Answer: There are also consciousnesses that don't arise in response to objects.",
+        "source": "T31n1596_009:0310b15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如夢及過去未來等。",
+        "translation": "It's like a dream, the past, future, and so forth.",
+        "source": "T31n1596_009:0310b15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無實攀緣即自體攀緣。",
+        "translation": "An insubstantial object is an object that's attached to its own body.",
+        "source": "T31n1596_009:0310b16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如鏡像及定境亦爾次以偈顯示。",
+        "translation": "Like a mirror or an object of concentration, it's likewise. Next, he shows it in a verse.",
+        "source": "T31n1596_009:0310b16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "過去等及夢此偈者。",
+        "translation": "\"Past and so forth and dreams.\" This verse explains the second half of the verse.",
+        "source": "T31n1596_009:0310b17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中後半偈釋前半偈。",
+        "translation": "The second half of the verse explains the first half of the verse.",
+        "source": "T31n1596_009:0310b17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如其次第應知。",
+        "translation": "They should be understood in their sequence.",
+        "source": "T31n1596_009:0310b18_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由無實攀緣故無攀緣。",
+        "translation": "'Because there are no real perceptual objects, there are no perceptual objects.'",
+        "source": "T31n1596_009:0310b18_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非無攀緣即自攀緣故。",
+        "translation": "It's not because there are no perceptual objects that they themselves are perceptual objects.",
+        "source": "T31n1596_009:0310b19_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自心為境而攀緣故。",
+        "translation": "It's because his own mind takes on objects and makes them its own objects.",
+        "source": "T31n1596_009:0310b19_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是過去未來及夢并二影像等次第相應。",
+        "translation": "That is, it's associated with the past, future, dreams, and the two images in sequential order.",
+        "source": "T31n1596_009:0310b20_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若義成為境無無分別智者。",
+        "translation": "If the meaning becomes the object and there's no nondiscriminating cognition, then the meaning has an essential nature and there's no such thing as nondiscriminating cognition.",
+        "source": "T31n1596_009:0310b21_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若義有自性則無無分別智。",
+        "translation": "If meaning has an own-nature, then there's no nondiscriminating cognition.",
+        "source": "T31n1596_009:0310b21_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若汝言無無分別智有何失者。",
+        "translation": "If you say there's no nondiscriminating cognition, what's wrong with that?",
+        "source": "T31n1596_009:0310b22_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此智若不有佛果無可得。",
+        "translation": "If this knowledge doesn't exist, the Buddhahood is not attainable.",
+        "source": "T31n1596_009:0310b23_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無分別智不有則不能得佛果。",
+        "translation": "If nondiscriminating cognition doesn't exist, then the Buddhahood can't be attained.",
+        "source": "T31n1596_009:0310b23_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故決定應有應知。",
+        "translation": "Therefore, it's definitely worth knowing.",
+        "source": "T31n1596_009:0310b24_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得自在菩薩者。",
+        "translation": "\"A bodhisattva who has attained sovereignty ...",
+        "source": "T31n1596_009:0310b25_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂已得自在力故勝解自在故者。",
+        "translation": "It means someone who has attained mastery because of the power of mastery and because of the mastery of resolve.",
+        "source": "T31n1596_009:0310b25_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得樂欲自在故如念地等成者。",
+        "translation": "He attains freedom of desire because he's mindful of the ground and so forth.",
+        "source": "T31n1596_009:0310b26_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲以地等諸物成金等相。",
+        "translation": "It's the desire to use things like the ground to form characteristics like gold.",
+        "source": "T31n1596_009:0310b26_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即能成故。",
+        "translation": "It's then possible to form them.",
+        "source": "T31n1596_009:0310b27_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得定者亦爾者。",
+        "translation": "This is also true of someone who has attained concentration.",
+        "source": "T31n1596_009:0310b27_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂得定人及餘聲聞等故。",
+        "translation": "It's because they've attained concentration and other śrāvakas.",
+        "source": "T31n1596_009:0310b28_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成就觀行人者。",
+        "translation": "\"Accomplished meditator\" means someone who has accomplished meditation.",
+        "source": "T31n1596_009:0310b28_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂成就毘鉢舍那故。",
+        "translation": "This refers to someone who has accomplished vipaśyanā.",
+        "source": "T31n1596_009:0310b29_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智人者即是諸菩薩。",
+        "translation": "A person of wisdom is a bodhisattva.",
+        "source": "T31n1596_009:0310b29_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得寂靜者。",
+        "translation": "Someone who has attained quiescence ...",
+        "source": "T31n1596_009:0310c01_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂得三摩提故。",
+        "translation": "It's because they've attained samādhi.",
+        "source": "T31n1596_009:0310c01_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "思惟一切法如其義顯現者。",
+        "translation": "\"He who contemplates all things as they appear in their meaning.",
+        "source": "T31n1596_009:0310c01_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由諸菩薩於如是如是修多羅等法。",
+        "translation": "It's because bodhisattvas are mindful of such and such things as the sūtra.",
+        "source": "T31n1596_009:0310c02_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義思念時如念顯現。",
+        "translation": "When they contemplate their meanings, they are thus mindful and manifest.",
+        "source": "T31n1596_009:0310c03_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若念佛時隨所思念。",
+        "translation": "When they are mindful of the Buddha, they follow that mindfulness.",
+        "source": "T31n1596_009:0310c03_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼彼法中佛義顯現。",
+        "translation": "In that or that dharma, the Buddha's meaning appears.",
+        "source": "T31n1596_009:0310c04_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是色受等義顯現亦爾故。",
+        "translation": "Thus, the meanings of form, feeling, and so forth are also manifested.",
+        "source": "T31n1596_009:0310c04_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智行無分別一切義不現者。",
+        "translation": "When there's no discrimination between wisdom and practice, all their meanings aren't manifested.",
+        "source": "T31n1596_009:0310c05_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智正行無分別時。",
+        "translation": "When the correct practice of cognition has no discrimination, the Buddha's meaning doesn't appear.",
+        "source": "T31n1596_009:0310c05_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由一切義不現故。",
+        "translation": "As a result, all meanings aren't manifested.",
+        "source": "T31n1596_009:0310c06_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即知義無有。",
+        "translation": "That's when he knows that the meanings are nonexistent.",
+        "source": "T31n1596_009:0310c06_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由義無所有故識亦成無所有。",
+        "translation": "Because the meanings are nonexistent, consciousness also becomes nonexistent.",
+        "source": "T31n1596_009:0310c07_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此識無所有今當顯示。",
+        "translation": "This consciousness' lack of existence will now be revealed.",
+        "source": "T31n1596_009:0310c07_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識亦不得有者。",
+        "translation": "'Consciousness also can't exist.'",
+        "source": "T31n1596_009:0310c08_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所識既不有能識則不成。",
+        "translation": "Since the consciousness that's existent doesn't exist, the subjective consciousness won't exist.",
+        "source": "T31n1596_009:0310c08_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故應知無所有。",
+        "translation": "Therefore, it should be known that it doesn't exist.",
+        "source": "T31n1596_009:0310c09_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此義應知。",
+        "translation": "This meaning should be known.",
+        "source": "T31n1596_009:0310c09_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相中已具解釋。",
+        "translation": "It's been fully explained in the introduction.",
+        "source": "T31n1596_009:0310c09_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0310c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "般若波羅蜜與無分別智無有差別。",
+        "translation": "\"There's no difference between prajñā-pāramitā and nondiscriminating cognition.",
+        "source": "T31n1596_009:0310c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如經說菩薩住般若波羅蜜中已。",
+        "translation": "As the sūtras say, after abiding in prajñā-pāramitā, a bodhisattva doesn't stop there.",
+        "source": "T31n1596_009:0310c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與不住相應故。",
+        "translation": "It's because it's associated with abstinence.",
+        "source": "T31n1596_009:0310c12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修餘波羅蜜得滿足。",
+        "translation": "cultivating the rest of the perfection can lead to its fulfillment.",
+        "source": "T31n1596_009:0310c13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不住相應而得滿足。",
+        "translation": "How is it fulfilled without being associated with abiding?",
+        "source": "T31n1596_009:0310c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂遠離五種住處故。",
+        "translation": "It's because they're free of five kinds of abiding places.",
+        "source": "T31n1596_009:0310c14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一遠離外道我執處故。",
+        "translation": "One, it's because they're free from the place of non-Buddhist attachment to self.",
+        "source": "T31n1596_009:0310c14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二遠離不見真實菩薩分別處故。",
+        "translation": "Two, it's because they're free from the point where they don't see the true bodhisattva's discriminations.",
+        "source": "T31n1596_009:0310c15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三遠離生死涅槃二邊處故。",
+        "translation": "Three, it's because they're free from the two extreme realms of birth-and-death and nirvāṇa.",
+        "source": "T31n1596_009:0310c15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四遠離唯斷煩惱障生知足處故。",
+        "translation": "Four, it's because they're secluded from the place where only the afflictive hindrances are removed and birth is known and fulfilled.",
+        "source": "T31n1596_009:0310c16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五遠離捨眾生利益事。",
+        "translation": "5. is free from abandoning the task of benefiting sentient beings.",
+        "source": "T31n1596_009:0310c17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住無餘涅槃界處故。",
+        "translation": "It's because they abide in the sphere of nirvāṇa without remainder.",
+        "source": "T31n1596_009:0310c17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0310c18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此無分別智。",
+        "translation": "\"This nondiscriminating cognition is the perfection of wisdom.",
+        "source": "T31n1596_009:0310c18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是般若波羅蜜。",
+        "translation": "It's the perfection of wisdom.",
+        "source": "T31n1596_009:0310c18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故。",
+        "translation": "Why is that?",
+        "source": "T31n1596_009:0310c19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由經說住般若波羅蜜中。",
+        "translation": "Because the sūtras say that abiding in the perfection of wisdom ...",
+        "source": "T31n1596_009:0310c19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已與不住相應。",
+        "translation": "It's already associated with abiding without stopping.",
+        "source": "T31n1596_009:0310c19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等為欲令知此義故。",
+        "translation": "This is because they want to make this meaning known.",
+        "source": "T31n1596_009:0310c20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以經文顯示。",
+        "translation": "The sūtras show this.",
+        "source": "T31n1596_009:0310c20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是住不住相應中滿足餘波羅蜜。",
+        "translation": "'Thus abiding in abstinence is associated with fulfilling the remainder of the perfections.'",
+        "source": "T31n1596_009:0310c21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠離外道我執處者。",
+        "translation": "He's far removed from the place where non-Buddhists attach to self.",
+        "source": "T31n1596_009:0310c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如外道住般若中有我執。",
+        "translation": "It's like a non-Buddhist who abides in prajñā and has attachment to self.",
+        "source": "T31n1596_009:0310c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念云。",
+        "translation": "They think, 'I'm abiding in prajñā.",
+        "source": "T31n1596_009:0310c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我住般若中。",
+        "translation": "'I'm abiding in prajñā.'",
+        "source": "T31n1596_009:0310c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是般若。",
+        "translation": "'This is prajñā.'",
+        "source": "T31n1596_009:0310c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩遠離如是外道住相故。",
+        "translation": "Because the bodhisattva is free of such markings of non-Buddhist abiding, he can abide in prajñā that's associated with non-abiding.",
+        "source": "T31n1596_009:0310c23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住無住相應般若中。",
+        "translation": "They can abide in prajñā without abiding in association with it.",
+        "source": "T31n1596_009:0310c24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠離不見真實菩薩分別處者。",
+        "translation": "He's free of the bodhisattva's discriminating position of not seeing the truth.",
+        "source": "T31n1596_009:0310c24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如不見真實。",
+        "translation": "It's like not seeing the truth.",
+        "source": "T31n1596_009:0310c25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩於無分別般若波羅蜜中。",
+        "translation": "The bodhisattva is in the prajñāpāramit of nondiscrimination.",
+        "source": "T31n1596_009:0310c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "分別言。",
+        "translation": "They discriminate and say.",
+        "source": "T31n1596_009:0310c26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是般若波羅蜜。",
+        "translation": "'This is the perfection of prajñā.'",
+        "source": "T31n1596_009:0310c26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無如是分別故。",
+        "translation": "It's because there's no such discrimination.",
+        "source": "T31n1596_009:0310c27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名不住相應。",
+        "translation": "It's called association with non-abiding.",
+        "source": "T31n1596_009:0310c27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠離生死涅槃二邊處者。",
+        "translation": "\"He's far removed from the two extremes of birth-and-death and nirvāṇa.",
+        "source": "T31n1596_009:0310c27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如世間住生死邊。",
+        "translation": "It's like the worldly world that abides at the extreme of birth-and-death.",
+        "source": "T31n1596_009:0310c28_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞等住涅槃邊。",
+        "translation": "śrāvakas and others abide at the extreme of nirvāṇa.",
+        "source": "T31n1596_009:0310c28_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩不如是。",
+        "translation": "Bodhisattvas don't like that.",
+        "source": "T31n1596_009:0310c29_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不住此二即是不住相應應知。",
+        "translation": "Not abiding in these two is associated with abiding in abstinence, which should be understood.",
+        "source": "T31n1596_009:0310c29_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠離唯斷煩惱障生知足者。",
+        "translation": "\"He's free of those who only cut off the afflictive hindrances and produce contentment.",
+        "source": "T31n1596_009:0311a01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如聲聞唯斷煩惱障生知足。",
+        "translation": "Just like the direct disciples, only the afflictive hindrances are eliminated, and production of knowledge and contentment arises.",
+        "source": "T31n1596_009:0311a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩不如是由此意故言諸菩薩不住相應行應知。",
+        "translation": "Bodhisattvas don't thus have the intention to say that bodhisattvas don't abide in practices that are associated with abiding.",
+        "source": "T31n1596_009:0311a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠離捨眾生利益事住無餘涅槃界處者。",
+        "translation": "\"He's far removed from abandoning the task of benefiting sentient beings and abiding in the sphere of nirvāṇa without remainder.",
+        "source": "T31n1596_009:0311a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如聲聞捨利益眾生事。",
+        "translation": "Suppose a śrāvaka abandons the task of benefiting sentient beings.",
+        "source": "T31n1596_009:0311a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於無餘涅槃而取涅槃。",
+        "translation": "They then attain nirvāṇa without remainder.",
+        "source": "T31n1596_009:0311a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩不爾。",
+        "translation": "That's not the case for bodhisattvas.",
+        "source": "T31n1596_009:0311a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是不住聲聞所住。",
+        "translation": "Thus, they don't abide where the śrāvakas abide.",
+        "source": "T31n1596_009:0311a06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名不住相應。",
+        "translation": "This is called association with non-abiding.",
+        "source": "T31n1596_009:0311a06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞智與菩薩智有五種差別相。",
+        "translation": "There are five distinctive aspects of direct disciple cognition and bodhisattva cognition.",
+        "source": "T31n1596_009:0311a06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今當顯示。",
+        "translation": "They will now be revealed.",
+        "source": "T31n1596_009:0311a07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The discussion says.",
+        "source": "T31n1596_009:0311a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞智與此菩薩智有何差別。",
+        "translation": "\"What's the difference between śrāvaka cognition and this bodhisattva cognition?",
+        "source": "T31n1596_009:0311a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有五種差別應知。",
+        "translation": "There are five kinds of distinctions that should be known.",
+        "source": "T31n1596_009:0311a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無分別差別。",
+        "translation": "One is the lack of discriminated distinctions.",
+        "source": "T31n1596_009:0311a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂陰等法無分別故。",
+        "translation": "That's because there's no discrimination of aggregates and other dharmas.",
+        "source": "T31n1596_009:0311a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二無分限差別。",
+        "translation": "Two, there's no distinction in delimitation.",
+        "source": "T31n1596_009:0311a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂通達真如入一切種應知。",
+        "translation": "This refers to comprehension of true reality and entry into all kinds of knowables.",
+        "source": "T31n1596_009:0311a10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為一切眾生無有分限故。",
+        "translation": "It's because there are no delimitations for all sentient beings.",
+        "source": "T31n1596_009:0311a11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三無住差別。",
+        "translation": "Third, there's no distinction between abiding and abiding.",
+        "source": "T31n1596_009:0311a11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂入無住涅槃故。",
+        "translation": "It's because he enters nirvāṇa without abiding.",
+        "source": "T31n1596_009:0311a11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四畢竟差別。",
+        "translation": "The fourth final distinction refers to the difference between finality and extinction.",
+        "source": "T31n1596_009:0311a12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂趣無餘涅槃界不盡故。",
+        "translation": "It's because the path to the state of nirvāṇa without remainder doesn't end.",
+        "source": "T31n1596_009:0311a12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五無上差別。",
+        "translation": "5. unsurpassed distinction.",
+        "source": "T31n1596_009:0311a13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂最為勝上無有餘乘勝過故。",
+        "translation": "This refers to the supreme one, which is because there's no superiority over the remaining vehicles.",
+        "source": "T31n1596_009:0311a13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　五種差別智　　大悲以為體",
+        "translation": "The five kinds of discriminating cognition are embodied in great compassion.",
+        "source": "T31n1596_009:0311a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　世出世果報　　當知不為遠",
+        "translation": "worldly and supramundane rewards should be understood not to be distant",
+        "source": "T31n1596_009:0311a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0311a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中無分別差別者。",
+        "translation": "\"There's no discrimination among them.",
+        "source": "T31n1596_009:0311a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由諸聲聞攀緣陰等。",
+        "translation": "It's because śrāvakas climb the aggregate of causation and so forth.",
+        "source": "T31n1596_009:0311a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生分別智。",
+        "translation": "discriminating cognition arises.",
+        "source": "T31n1596_009:0311a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩智。",
+        "translation": "The cognition of the bodhisattvas gives rise to discriminated knowledge.",
+        "source": "T31n1596_009:0311a18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於陰等不生分別故。",
+        "translation": "It's because the aggregates and so forth don't give rise to discriminations.",
+        "source": "T31n1596_009:0311a18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無分限差別者通達人法二無我故應知。",
+        "translation": "The lack of delimitation of distinctions should be known because they comprehend that humans and dharmas are both without self.",
+        "source": "T31n1596_009:0311a19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有分限。",
+        "translation": "There are no delimitations.",
+        "source": "T31n1596_009:0311a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由諸菩薩於一切應知中智生故。",
+        "translation": "It's because bodhisattvas' knowledge arises in the midst of all that should be known.",
+        "source": "T31n1596_009:0311a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞唯知苦等諦為眾生亦無分限。",
+        "translation": "śrāvakas' knowledge of only the truths of suffering and so forth for the sake of sentient beings also has no delimitation.",
+        "source": "T31n1596_009:0311a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩為一切眾生故求菩提。",
+        "translation": "Bodhisattvas seek enlightenment for the sake of all sentient beings.",
+        "source": "T31n1596_009:0311a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞唯為自利故。",
+        "translation": "śrāvakas do so only for their own benefit.",
+        "source": "T31n1596_009:0311a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無住差別者。",
+        "translation": "\"There's no distinction between abodes.",
+        "source": "T31n1596_009:0311a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩得無住處涅槃非諸聲聞此差別。",
+        "translation": "Bodhisattvas attain nirvāṇa without an abode, not śrāvakas as distinct from this.",
+        "source": "T31n1596_009:0311a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "畢竟差別者。",
+        "translation": "'Final distinction' means final distinction.",
+        "source": "T31n1596_009:0311a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中言差別者。",
+        "translation": "This is called a distinction.",
+        "source": "T31n1596_009:0311a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於無餘涅槃界中。",
+        "translation": "In the state of remainderless nirvāṇa, there's nirvāṇa for the direct disciples.",
+        "source": "T31n1596_009:0311a24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞涅槃則有盡滅。",
+        "translation": "In the case of śrāvaka nirvāṇa, there's total cessation.",
+        "source": "T31n1596_009:0311a25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩涅槃則不爾。",
+        "translation": "Bodhisattva nirvāṇa is not like that.",
+        "source": "T31n1596_009:0311a25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無上差別者聲聞乘有上。",
+        "translation": "The unsurpassed distinction is that śrāvaka nirvāṇa has an upside.",
+        "source": "T31n1596_009:0311a26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩大乘則無有上。",
+        "translation": "The bodhisattva's great vehicle has no higher.",
+        "source": "T31n1596_009:0311a26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故此為差別。",
+        "translation": "This is called a distinction.",
+        "source": "T31n1596_009:0311a27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此義偈中顯示五種差別智等中。",
+        "translation": "This meaningful verse shows that there are five kinds of discriminating cognitions and so forth.",
+        "source": "T31n1596_009:0311a27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世出世果報者。",
+        "translation": "'Mundane and supramundane rewards' means the form and formless realms are mundane and transmundane realms.",
+        "source": "T31n1596_009:0311a28_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色無色界是世間果報聲聞等是出世果報。",
+        "translation": "These are the worldly rewards of form and formless realms, and the supramundane rewards of śrāvakas and so forth.",
+        "source": "T31n1596_009:0311a28_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0311b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩如是增上戒增上心增上慧等功德果報具足。",
+        "translation": "\"If a bodhisattva thus completes the rewards of such virtues as superior morality, superior mind, and superior wisdom, then he'll attain self-realization in all kinds of benefits.",
+        "source": "T31n1596_009:0311b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已於一切義利中得自在者。",
+        "translation": "They've attained mastery in all kinds of merits.",
+        "source": "T31n1596_009:0311b02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故現見有諸眾生。",
+        "translation": "Why do they now see that there are sentient beings who",
+        "source": "T31n1596_009:0311b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受諸貧苦。",
+        "translation": "They suffer from poverty and hardship.",
+        "source": "T31n1596_009:0311b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見是諸眾生於彼義利業障故。",
+        "translation": "It's because they see that these sentient beings are handicapped by their activities for their own benefit.",
+        "source": "T31n1596_009:0311b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見若與其樂果報。",
+        "translation": "It's because they see that if they were given the pleasant rewards of those rewards.",
+        "source": "T31n1596_009:0311b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸善法中礙其起善故。",
+        "translation": "It's because it prevents them from producing goodness in the midst of good qualities.",
+        "source": "T31n1596_009:0311b04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見其無有義利。",
+        "translation": "It's because they see that they lack purposeful benefits.",
+        "source": "T31n1596_009:0311b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則厭惡現前故。",
+        "translation": "They then become disillusioned with their present appearance.",
+        "source": "T31n1596_009:0311b05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見其若得果報。",
+        "translation": "Because he sees that if he were to reap the rewards, it would be a cause for the accumulation of unwholesome qualities.",
+        "source": "T31n1596_009:0311b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為聚集不善法因故。",
+        "translation": "It's because it's a cause for gathering unwholesome qualities.",
+        "source": "T31n1596_009:0311b06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見其若得果報。",
+        "translation": "Because he sees that if he were to reap the results.",
+        "source": "T31n1596_009:0311b07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與餘無量眾生作逼惱因故。",
+        "translation": "It's because it's a cause of distress for measureless other sentient beings.",
+        "source": "T31n1596_009:0311b07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是義故現見眾生受諸苦惱。",
+        "translation": "For this reason, he now sees that sentient beings are subject to suffering and distress.",
+        "source": "T31n1596_009:0311b08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中有偈。",
+        "translation": "Here's a verse.",
+        "source": "T31n1596_009:0311b08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　見業礙現前　　集惡逼惱他",
+        "translation": "\"Seeing karmic obstructions to manifestation, the accumulation of evil forces that distress others.",
+        "source": "T31n1596_009:0311b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　當知是眾生　　不得菩薩施",
+        "translation": "you should know that these sentient beings do not receive the bodhisattva's charity",
+        "source": "T31n1596_009:0311b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0311b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得自在菩薩。",
+        "translation": "\"The bodhisattva attains sovereignty.",
+        "source": "T31n1596_009:0311b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此因緣雖有大悲而不與眾生富樂。",
+        "translation": "Although he has great compassion because of this cause, he doesn't share the prosperity and happiness of sentient beings.",
+        "source": "T31n1596_009:0311b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今顯示此意。",
+        "translation": "Now, I'll show you what this means.",
+        "source": "T31n1596_009:0311b13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中見諸眾生業障故者。",
+        "translation": "'It's because I see the karmic hindrances of sentient beings in this.",
+        "source": "T31n1596_009:0311b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸眾生於菩薩威力中有業障礙故。",
+        "translation": "It's because sentient beings have karmic obstructions in the bodhisattva's authority.",
+        "source": "T31n1596_009:0311b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼等於菩薩智有障礙所礙。",
+        "translation": "Because they are obstructed by the bodhisattva's knowledge, they have hindrances.",
+        "source": "T31n1596_009:0311b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩雖有堪能。",
+        "translation": "Even though the bodhisattva has the ability, he sees this and is impoverished.",
+        "source": "T31n1596_009:0311b15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見此事故於其貧苦即生捨心。",
+        "translation": "Seeing this happens, their poverty and suffering immediately give rise to a mind of equanimity.",
+        "source": "T31n1596_009:0311b16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中顯餓鬼見河水為譬。",
+        "translation": "This shows the analogy of a hungry ghost seeing a river of water.",
+        "source": "T31n1596_009:0311b16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如河有水若欲飲時無人障礙。",
+        "translation": "Suppose there's water in a river, and when you want to drink it, there's no obstruction.",
+        "source": "T31n1596_009:0311b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然餓鬼由自罪業故。",
+        "translation": "But the hungry ghost is prevented from drinking it because of its own sinful activity.",
+        "source": "T31n1596_009:0311b18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能得飲。",
+        "translation": "They can't drink it.",
+        "source": "T31n1596_009:0311b18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦如是河喻菩薩。",
+        "translation": "Thus, the river also serves as a metaphor for the bodhisattva.",
+        "source": "T31n1596_009:0311b18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "財物喻水。",
+        "translation": "Wealth is a metaphor for water.",
+        "source": "T31n1596_009:0311b19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餓鬼喻眾生。",
+        "translation": "Hungry ghosts are a metaphor for sentient beings.",
+        "source": "T31n1596_009:0311b19_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶如彼水。",
+        "translation": "They're just like that water.",
+        "source": "T31n1596_009:0311b19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸眾生。",
+        "translation": "These sentient beings ...",
+        "source": "T31n1596_009:0311b20_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼財物不能得受用。",
+        "translation": "They can't get access to their possessions.",
+        "source": "T31n1596_009:0311b20_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其義亦爾。",
+        "translation": "Their meaning is likewise.",
+        "source": "T31n1596_009:0311b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見與樂礙其起善者。",
+        "translation": "They are hindered from producing goodness by views and pleasures.",
+        "source": "T31n1596_009:0311b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有餘人雖無業障。",
+        "translation": "\"There's another person who has no karmic hindrances.",
+        "source": "T31n1596_009:0311b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此人得見菩薩時。",
+        "translation": "When this person attains a vision of the bodhisattva, however, good qualities arise in the continuum.",
+        "source": "T31n1596_009:0311b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於相續中生起善法。",
+        "translation": "In the continuum, good qualities arise.",
+        "source": "T31n1596_009:0311b22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若與此人果報以受富樂故。",
+        "translation": "If this person were given the fruit of that view in order to experience prosperity and happiness.",
+        "source": "T31n1596_009:0311b23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於起善則斷絕。",
+        "translation": "That goodness that arises is then cut off.",
+        "source": "T31n1596_009:0311b23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩作是思量。",
+        "translation": "The bodhisattva thinks about it this way.",
+        "source": "T31n1596_009:0311b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧令貧苦隨順起善。",
+        "translation": "'Wouldn't it be better to allow poverty and suffering to give rise to goodness?'",
+        "source": "T31n1596_009:0311b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此道理不與富樂。",
+        "translation": "For this reason, he won't give [them] wealth and happiness.",
+        "source": "T31n1596_009:0311b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見其厭惡現前故者。",
+        "translation": "It's because they see their distaste manifest.",
+        "source": "T31n1596_009:0311b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復有人厭惡現前。",
+        "translation": "Perhaps someone's disillusionment manifests itself.",
+        "source": "T31n1596_009:0311b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩見其貧苦。",
+        "translation": "The bodhisattva sees that they're poor and suffering.",
+        "source": "T31n1596_009:0311b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而於善不善中勝上厭惡現前思量。",
+        "translation": "They then deliberate on the superior manifestation of disillusionment among the good and unskillful.",
+        "source": "T31n1596_009:0311b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是已於彼眾生不與富樂。",
+        "translation": "Having done so, he won't give riches and pleasure to those sentient beings.",
+        "source": "T31n1596_009:0311b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見其苦受果報。",
+        "translation": "Because he sees the results of their suffering, he'll experience the rewards.",
+        "source": "T31n1596_009:0311b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增長不善因者。",
+        "translation": "It's a cause that reinforces unwholesomeness.",
+        "source": "T31n1596_009:0311b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復有人於貧窮時。",
+        "translation": "\"Again, when a person is poor, they can't gather unwholesome things.",
+        "source": "T31n1596_009:0311b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不得聚集不善法。",
+        "translation": "They can't gather unwholesome qualities.",
+        "source": "T31n1596_009:0311b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩見已作是思量。",
+        "translation": "After seeing this, the bodhisattva makes this reflection.",
+        "source": "T31n1596_009:0311b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧令貧窮。",
+        "translation": "'It's better to be poor than to create unwholesomeness.'",
+        "source": "T31n1596_009:0311c01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫令造作不善。",
+        "translation": "They mustn't cultivate unwholesomeness.",
+        "source": "T31n1596_009:0311c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故於彼等不與富樂。",
+        "translation": "Therefore, he won't give them wealth and happiness.",
+        "source": "T31n1596_009:0311c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見其若得果報。",
+        "translation": "It's because they see that if they attain the fruit of their actions.",
+        "source": "T31n1596_009:0311c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與餘無量眾生作逼惱因故者。",
+        "translation": "That's because it would be a cause of distress for measureless other sentient beings.",
+        "source": "T31n1596_009:0311c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復有人得大果報。",
+        "translation": "\"Again, there's someone who has achieved a great result.",
+        "source": "T31n1596_009:0311c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則苦惱無量眾生。",
+        "translation": "Then, they'll afflict measureless sentient beings.",
+        "source": "T31n1596_009:0311c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故寧令一身獨受貧苦。",
+        "translation": "Therefore, they'd rather let one person alone suffer from poverty and hardship.",
+        "source": "T31n1596_009:0311c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於理為勝。",
+        "translation": "In principle, that's better.",
+        "source": "T31n1596_009:0311c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫令苦惱無量眾生。",
+        "translation": "They mustn't cause suffering and distress to measureless sentient beings.",
+        "source": "T31n1596_009:0311c05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不與富樂。",
+        "translation": "Therefore, they won't be given wealth and happiness.",
+        "source": "T31n1596_009:0311c05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等義偈中顯示。",
+        "translation": "Such and other meanings are shown in the verse.",
+        "source": "T31n1596_009:0311c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中業障礙故。",
+        "translation": "'It's because of these karmic obstacles that...",
+        "source": "T31n1596_009:0311c06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生起善根故。",
+        "translation": "It's because of the production of good roots.",
+        "source": "T31n1596_009:0311c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現前故。",
+        "translation": "because goodness is manifested ...",
+        "source": "T31n1596_009:0311c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聚集不善故。",
+        "translation": "It's because it gathers unwholesome [roots].",
+        "source": "T31n1596_009:0311c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "逼惱餘眾生故。",
+        "translation": "It's because it forces other sentient beings to be distressed.",
+        "source": "T31n1596_009:0311c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩見其如此不與富樂。",
+        "translation": "Seeing this, the bodhisattva doesn't give them riches and happiness.",
+        "source": "T31n1596_009:0311c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是偈中業及礙現前。",
+        "translation": "That's the verse that shows the manifestation of actions and hindrances.",
+        "source": "T31n1596_009:0311c08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "集惡逼惱他。",
+        "translation": "It gathers badness and forces others to come under its thumb.",
+        "source": "T31n1596_009:0311c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此顯示餘義可解。",
+        "translation": "This shows that the rest of the meaning can be understood.",
+        "source": "T31n1596_009:0311c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋增上慧學竟。",
+        "translation": "After explaining the training of superior insight, I'll finish.",
+        "source": "T31n1596_009:0311c10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝大乘論釋論寂滅勝相勝語第九",
+        "translation": "The ninth excellent statement in the Commentary on the Compendium of the Great Vehicle Treatise on the Triumph of Tranquility",
+        "source": "T31n1596_009:0311c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0311c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是已說增上慧學勝相。",
+        "translation": "\"Thus, we've described the surpassing characteristic of training in superior insight.",
+        "source": "T31n1596_009:0311c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寂滅勝相云何可見。",
+        "translation": "How can the surpassing aspect of extinction be seen?",
+        "source": "T31n1596_009:0311c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩寂滅即是無住處涅槃。",
+        "translation": "The extinction of all bodhisattvas is nirvāṇa without an abode.",
+        "source": "T31n1596_009:0311c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以捨離煩惱不捨生死。",
+        "translation": "It's because they abandon affliction and don't abandon birth and death.",
+        "source": "T31n1596_009:0311c13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共依止轉依為相。",
+        "translation": "Shared dependence and transformation of dependence are the characteristics.",
+        "source": "T31n1596_009:0311c14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中生死者是依他性染污分。",
+        "translation": "Here, birth-and-death is the other-dependent part of nature that's defiled.",
+        "source": "T31n1596_009:0311c14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "涅槃者即是依他性清淨分。",
+        "translation": "Nirvāṇa is the other-natured part that's pure.",
+        "source": "T31n1596_009:0311c15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依止者即是依他性具二分。",
+        "translation": "That which is supported is the twofold portion of other-nature that's relied upon.",
+        "source": "T31n1596_009:0311c16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "轉依者即是依他性對治起時染污分滅。",
+        "translation": "The one who changes his basis is the other-nature that counteracts the arising of the defiled parts when the defiled parts cease.",
+        "source": "T31n1596_009:0311c16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨分顯。",
+        "translation": "The pure parts are revealed.",
+        "source": "T31n1596_009:0311c17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0311c18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無住處涅槃相者。",
+        "translation": "\"The characteristic of nirvāṇa without abiding is free from affliction and not free from equanimity.",
+        "source": "T31n1596_009:0311c18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是捨離煩惱不捨生死。",
+        "translation": "It's freedom from affliction and non-abandonment of birth and death.",
+        "source": "T31n1596_009:0311c18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共依止轉依為相者。",
+        "translation": "This is the characteristic of shared basis and transformation basis.",
+        "source": "T31n1596_009:0311c19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住此轉時不令煩惱得住。",
+        "translation": "When he abides in this transition, he doesn't allow the afflictions to abide.",
+        "source": "T31n1596_009:0311c19_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然不捨生死。",
+        "translation": "Yet, they don't abandon birth and death.",
+        "source": "T31n1596_009:0311c20_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "染分故名依他。",
+        "translation": "This is called other-dependent because of the defiled part.",
+        "source": "T31n1596_009:0311c20_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此淨分故名涅槃。",
+        "translation": "The pure part is called nirvāṇa because of this.",
+        "source": "T31n1596_009:0311c20_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二分故即是彼依止。",
+        "translation": "These two parts are therefore their supports.",
+        "source": "T31n1596_009:0311c21_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "轉依亦即此中得成。",
+        "translation": "This is also the point at which the transformation of the basis is accomplished.",
+        "source": "T31n1596_009:0311c21_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此中對治起時。",
+        "translation": "When the antidote arises from this, the defiled part isn't practiced, and the pure part is developed.",
+        "source": "T31n1596_009:0311c22_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "染分不行淨分行故。",
+        "translation": "The defiled part doesn't act like the pure part.",
+        "source": "T31n1596_009:0311c22_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0311c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次此轉略說有六種。",
+        "translation": "\"Furthermore, this turning [of the wheel of the Dharma] is briefly described as having six kinds.",
+        "source": "T31n1596_009:0311c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一益力損能轉。",
+        "translation": "One is the power of improvement that impairs the ability to change.",
+        "source": "T31n1596_009:0311c24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由信解力住聞熏習故。",
+        "translation": "It's because of the power of faith and understanding, abiding in hearing and permeation.",
+        "source": "T31n1596_009:0311c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有慚微煩惱行不行故。",
+        "translation": "It's because the practice of conscience and subtle afflictions doesn't work.",
+        "source": "T31n1596_009:0311c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二通達轉。",
+        "translation": "Second, it's the turning of comprehension.",
+        "source": "T31n1596_009:0311c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂已入地諸菩薩。",
+        "translation": "This refers to bodhisattvas who have entered the ground.",
+        "source": "T31n1596_009:0311c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "真實不真實顯現在前故乃至六地。",
+        "translation": "It's because the true and untrue are manifested up to the sixth ground.",
+        "source": "T31n1596_009:0311c26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三修習轉。",
+        "translation": "The third is the development of cultivation.",
+        "source": "T31n1596_009:0311c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有障礙一切相不顯現。",
+        "translation": "When there are obstacles, all characteristics aren't revealed.",
+        "source": "T31n1596_009:0311c27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "真如顯現故乃至十地。",
+        "translation": "It's because the true thusness is manifested up to the tenth ground.",
+        "source": "T31n1596_009:0311c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四果圓滿轉。",
+        "translation": "The fourth fruit is perfected and developed.",
+        "source": "T31n1596_009:0311c28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無障礙一切相不顯現。",
+        "translation": "Without obstruction, all marks aren't manifested.",
+        "source": "T31n1596_009:0311c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "最清淨真如顯現。",
+        "translation": "The purest true thusness appears.",
+        "source": "T31n1596_009:0311c29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得一切相自在故。",
+        "translation": "It's because he attains mastery over all characteristics.",
+        "source": "T31n1596_009:0312a01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五下劣轉諸聲聞等通達人無我故。",
+        "translation": "The fifth inferior stage of development is because śrāvakas and others comprehend that humans lack self.",
+        "source": "T31n1596_009:0312a01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一向背生死一向捨離生死。",
+        "translation": "They consistently deviate from birth and death and consistently abandon birth and death.",
+        "source": "T31n1596_009:0312a02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六曠大轉。",
+        "translation": "Sixth, there's a vast transformation.",
+        "source": "T31n1596_009:0312a03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩通達法無我故。",
+        "translation": "Because bodhisattvas understand that dharmas lack self, they see that birth-and-death is tranquility.",
+        "source": "T31n1596_009:0312a03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見生死即是寂靜。",
+        "translation": "They see that birth-and-death is quiescence.",
+        "source": "T31n1596_009:0312a03_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅煩惱而不捨離故。",
+        "translation": "It's because they cease the afflictions and don't abandon them.",
+        "source": "T31n1596_009:0312a04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩於下劣轉中有何過失。",
+        "translation": "What faults do bodhisattvas have in their inferior rebirth?",
+        "source": "T31n1596_009:0312a04_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不念利益眾生事故。",
+        "translation": "They don't think about the task of benefiting sentient beings.",
+        "source": "T31n1596_009:0312a05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩法應超過下乘。",
+        "translation": "A bodhisattva's teaching should exceed that of the inferior vehicle.",
+        "source": "T31n1596_009:0312a05_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同其解脫此是過失。",
+        "translation": "To be liberated in common with them is a mistake.",
+        "source": "T31n1596_009:0312a06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩於曠大轉中有何功德。",
+        "translation": "What merit do bodhisattvas have in their extensive training?",
+        "source": "T31n1596_009:0312a06_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於生死法中以自依止轉為依止故。",
+        "translation": "In the midst of the law of birth-and-death, they transform themselves into supports based on their own support.",
+        "source": "T31n1596_009:0312a07_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得身自在於一切趣顯示一切身故。",
+        "translation": "They attain physical mastery and display all bodies in all destinies.",
+        "source": "T31n1596_009:0312a08_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以種種調伏方便。",
+        "translation": "With various methods of submission, they are disciplined and established in the fruits of the world.",
+        "source": "T31n1596_009:0312a09_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "調伏安立於世間果報及三乘中。",
+        "translation": "They are disciplined and placed in the worldly rewards and the three vehicles.",
+        "source": "T31n1596_009:0312a09_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此為功德。",
+        "translation": "This is merit.",
+        "source": "T31n1596_009:0312a10_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0312a10_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此轉復有六種。",
+        "translation": "\"There are six more kinds of this turning.",
+        "source": "T31n1596_009:0312a10_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "益力損能轉者。",
+        "translation": "Those who can be turned by the power of improvement and the impairment of others.",
+        "source": "T31n1596_009:0312a11_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿梨耶識中染污熏習。",
+        "translation": "It's the perfuming of defilements in the store consciousness.",
+        "source": "T31n1596_009:0312a11_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "損其能益對治力。",
+        "translation": "It undermines the antidotal power that can benefit them.",
+        "source": "T31n1596_009:0312a12_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故得轉住。",
+        "translation": "It's therefore possible to abide in the turning stage.",
+        "source": "T31n1596_009:0312a12_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "解行地者。",
+        "translation": "\"He who understands the ground of practice.",
+        "source": "T31n1596_009:0312a12_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住聞熏習力已得轉依故。",
+        "translation": "After abiding in the power of permeation from hearing, he'll be able to change his basis.",
+        "source": "T31n1596_009:0312a13_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若煩惱現行彼有慚愧故。",
+        "translation": "If someone with active afflictions has a sense of shame, then they'll be able to abide in the stage of understanding and practice.",
+        "source": "T31n1596_009:0312a13_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現行煩惱熏習薄少。",
+        "translation": "Their present afflictive permeations are weak.",
+        "source": "T31n1596_009:0312a14_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "通達轉中真實不真實顯現者。",
+        "translation": "He who fully comprehends what's really going on in the turning [stage] and doesn't really manifest it.",
+        "source": "T31n1596_009:0312a14_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由正入地時為真實顯現因故。",
+        "translation": "It's because it's the cause of true manifestation when he correctly enters the ground.",
+        "source": "T31n1596_009:0312a15_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於彼。",
+        "translation": "That's when he...",
+        "source": "T31n1596_009:0312a16_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時得轉依。",
+        "translation": "At some point, they'll attain a basis for transformation.",
+        "source": "T31n1596_009:0312a16_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或時出觀此即為不真實顯現因乃至六地。",
+        "translation": "Sometimes he goes beyond observing that this is the cause of untrue manifestation up to the sixth ground.",
+        "source": "T31n1596_009:0312a16_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修習轉者。",
+        "translation": "Those who cultivate transformation ...",
+        "source": "T31n1596_009:0312a17_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於應知障中有礙。",
+        "translation": "They should know that there are obstacles in the hindrances.",
+        "source": "T31n1596_009:0312a17_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此菩薩已一切相不復顯現故。",
+        "translation": "After this bodhisattva has had all his characteristics no longer manifest, then he'll attain transformation of reliance.",
+        "source": "T31n1596_009:0312a18_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得轉依。",
+        "translation": "He then attains the basis of turning.",
+        "source": "T31n1596_009:0312a18_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此轉乃至十地。",
+        "translation": "This transformation leads to the tenth ground.",
+        "source": "T31n1596_009:0312a19_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "果圓滿轉中一切障不復障礙者。",
+        "translation": "In the perfect completion of that turning, all the hindrances aren't further obstructions.",
+        "source": "T31n1596_009:0312a19_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此菩薩已一切相不顯現。",
+        "translation": "After this bodhisattva has had all appearances, they don't show up.",
+        "source": "T31n1596_009:0312a20_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有一切障礙。",
+        "translation": "There are no obstructions of any kind.",
+        "source": "T31n1596_009:0312a20_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見最清淨真如故。",
+        "translation": "It's because he sees the purest true reality.",
+        "source": "T31n1596_009:0312a21_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得此於一切相中得自在故得依止。",
+        "translation": "Attaining this, he attains independence in all characteristics and thus attains support.",
+        "source": "T31n1596_009:0312a21_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由得此相自在故。",
+        "translation": "Because they've attained this mastery over characteristics, they're able to create problems that benefit all people as they like.",
+        "source": "T31n1596_009:0312a22_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能作隨意利益眾生事。",
+        "translation": "He's able to create as many problems as he wants.",
+        "source": "T31n1596_009:0312a22_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曠大轉者。",
+        "translation": "It's a vast transformation.",
+        "source": "T31n1596_009:0312a23_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由於生死見其寂靜。",
+        "translation": "It's because he sees the quiescence of birth and death.",
+        "source": "T31n1596_009:0312a23_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "煩惱即滅非有所捨。",
+        "translation": "His afflictions cease, and he doesn't abandon anything.",
+        "source": "T31n1596_009:0312a24_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但煩惱不染由處染不染故。",
+        "translation": "It's because the place is defiled and undefiled that the afflictions aren't defiled.",
+        "source": "T31n1596_009:0312a24_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不捨生死此有何功德此曠大轉。",
+        "translation": "What merit is there in not abandoning birth and death? This is a vast transformation.",
+        "source": "T31n1596_009:0312a25_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩以自依止轉依故。",
+        "translation": "It's because bodhisattvas rely on themselves to change their basis.",
+        "source": "T31n1596_009:0312a25_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切法得自在。",
+        "translation": "They attain mastery over all dharmas.",
+        "source": "T31n1596_009:0312a26_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切趣中顯示同一切身[怡-台+龍]悷不調眾生。",
+        "translation": "In all destinies, they reveal the same full body [yi-tai+nāga] that's sorrowful and doesn't tame sentient beings.",
+        "source": "T31n1596_009:0312a26_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以種種調伏方便智調伏。",
+        "translation": "They are disciplined with the knowledge of various methods of disciplining.",
+        "source": "T31n1596_009:0312a27_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "安立於富樂及三乘中。",
+        "translation": "He establishes them in prosperity and happiness and in the three vehicles.",
+        "source": "T31n1596_009:0312a28_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此為功德。",
+        "translation": "This is merit.",
+        "source": "T31n1596_009:0312a29_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中富樂者是世間果報故。",
+        "translation": "Among these, wealth and happiness are the worldly rewards.",
+        "source": "T31n1596_009:0312a29_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0312b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為轉依此中有偈。",
+        "translation": "\"In order to turn this into a basis, there's a verse.",
+        "source": "T31n1596_009:0312b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　凡夫覆真實　　一切虛妄現",
+        "translation": "\"Ordinary beings conceal the truth, and everything is presented falsely.",
+        "source": "T31n1596_009:0312b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　諸菩薩離妄　　一切真實現",
+        "translation": "all bodhisattvas are free from delusion, and all are truly realized",
+        "source": "T31n1596_009:0312b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　應知現不現　　真實不真實",
+        "translation": "you should know that what is manifest and unmanifest is truly unreal",
+        "source": "T31n1596_009:0312b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此依止轉已　　名解脫如意",
+        "translation": "having transformed this basis, it is called liberating as one wishes",
+        "source": "T31n1596_009:0312b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　生死及涅槃　　若平等智生",
+        "translation": "saṃsāra and nirvāṇa are produced with equal knowledge",
+        "source": "T31n1596_009:0312b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　生死即涅槃　　彼人得如是",
+        "translation": "birth-and-death is nirvāṇa, and that person attains it",
+        "source": "T31n1596_009:0312b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　即得於生死　　非捨非非捨",
+        "translation": "immediately attains birth and death neither equanimous nor non-equanimous",
+        "source": "T31n1596_009:0312b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　亦即於涅槃　　非得非非得",
+        "translation": "also known as nirvāṇa, neither attained nor unobtained",
+        "source": "T31n1596_009:0312b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0312b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為顯轉依故說偈。",
+        "translation": "\"The verse is spoken to show that there's a basis for transformation.",
+        "source": "T31n1596_009:0312b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如諸凡夫由無明故。",
+        "translation": "'It's like ordinary people who are hindered by ignorance.",
+        "source": "T31n1596_009:0312b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "覆障真實。",
+        "translation": "They are hindered from truly being.",
+        "source": "T31n1596_009:0312b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "虛妄顯現。",
+        "translation": "They are falsely manifested.",
+        "source": "T31n1596_009:0312b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是眾生等相。",
+        "translation": "That's the mark of sentient beings and so forth.",
+        "source": "T31n1596_009:0312b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是諸聖人真實顯現故。",
+        "translation": "Thus, the true appearances of sages are manifested.",
+        "source": "T31n1596_009:0312b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨離眾生等相。",
+        "translation": "They abandon the characteristics of sentient beings and so forth.",
+        "source": "T31n1596_009:0312b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由斷虛妄無明故。",
+        "translation": "It's because they've ended false and nondiscriminating ignorance.",
+        "source": "T31n1596_009:0312b12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得如是。",
+        "translation": "They attain suchness.",
+        "source": "T31n1596_009:0312b13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知現不現真實不真實者。",
+        "translation": "You should know that what's present and unmanifest is real and untrue.",
+        "source": "T31n1596_009:0312b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "虛妄分別不顯現。",
+        "translation": "False discrimination doesn't manifest itself.",
+        "source": "T31n1596_009:0312b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "真實成就性顯現。",
+        "translation": "The accomplished nature of the true and the real is manifested.",
+        "source": "T31n1596_009:0312b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名轉依。",
+        "translation": "This is called transformation of the basis.",
+        "source": "T31n1596_009:0312b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於轉依中虛妄不現行真實現行。",
+        "translation": "In this transformation of the basis, what's false and unreal is truly manifest.",
+        "source": "T31n1596_009:0312b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即是解脫相應名解脫如意者。",
+        "translation": "This is the liberation associated with the name liberation as intended.",
+        "source": "T31n1596_009:0312b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如意欲行皆得解脫。",
+        "translation": "According to intention, all desires and actions attain liberation.",
+        "source": "T31n1596_009:0312b16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非如聲聞畢竟涅槃猶如斬首。",
+        "translation": "They aren't like the final nirvāṇa of śrāvakas or like cutting off their heads.",
+        "source": "T31n1596_009:0312b17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得如是解脫。",
+        "translation": "They attain such liberation.",
+        "source": "T31n1596_009:0312b17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生死及涅槃若平等智生者。",
+        "translation": "\"If the knowledge of birth-and-death and nirvāṇa are equal, then he'll arise from that knowledge.",
+        "source": "T31n1596_009:0312b18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於生死涅槃二種。",
+        "translation": "In both birth-and-death and nirvāṇa, the knowledge arises equally.",
+        "source": "T31n1596_009:0312b18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "平等智生。",
+        "translation": "They arise with equal knowledge.",
+        "source": "T31n1596_009:0312b19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此二無有差別故者。",
+        "translation": "There's no difference between these two.",
+        "source": "T31n1596_009:0312b19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若即於彼時故復次生死涅槃云何得平等。",
+        "translation": "If it's at that point, then how can birth-and-death and nirvāṇa be equal?",
+        "source": "T31n1596_009:0312b19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由煩惱為生死。",
+        "translation": "It's because the afflictions are birth-and-death.",
+        "source": "T31n1596_009:0312b20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "煩惱法無我。",
+        "translation": "The afflictions and dharmas are without self.",
+        "source": "T31n1596_009:0312b21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩通達此法。",
+        "translation": "The bodhisattva fully comprehends this dharma.",
+        "source": "T31n1596_009:0312b21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無我智生見彼諸法皆無所有。",
+        "translation": "Wisdom of selflessness arises when they see that these things are all nonexistent.",
+        "source": "T31n1596_009:0312b21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有生死即是涅槃。",
+        "translation": "All birth-and-death that exists is nirvāṇa.",
+        "source": "T31n1596_009:0312b22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見生死法即是涅槃寂靜。",
+        "translation": "Seeing the dharmas of birth-and-death is nirvāṇa and tranquility.",
+        "source": "T31n1596_009:0312b23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若如是有何所得。",
+        "translation": "If this is the case, what do they attain?",
+        "source": "T31n1596_009:0312b23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即得於生死非捨非非捨故。",
+        "translation": "It's because birth-and-death is not equanimous and not non-equanimous.",
+        "source": "T31n1596_009:0312b24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非捨者由諸有生死即是涅槃故。",
+        "translation": "Not equanimous, because all birth-and-death that exists is nirvāṇa.",
+        "source": "T31n1596_009:0312b24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非非捨者捨故。",
+        "translation": "What's not non-chastity is because it's equanimity.",
+        "source": "T31n1596_009:0312b25_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由於此中不染故。",
+        "translation": "It's because it's not defiled here.",
+        "source": "T31n1596_009:0312b25_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見無所有故若得如是。",
+        "translation": "Seeing nothing, it's because of this that if he attains it.",
+        "source": "T31n1596_009:0312b26_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦即於涅槃非得非非得。",
+        "translation": "That's nirvāṇa that's neither attained nor unattained.",
+        "source": "T31n1596_009:0312b26_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼法不異涅槃是故非得。",
+        "translation": "Because that dharma isn't different from nirvāṇa, it's therefore not attained.",
+        "source": "T31n1596_009:0312b27_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由於彼法見其寂靜。",
+        "translation": "It's because he sees the quiescence of that dharma.",
+        "source": "T31n1596_009:0312b28_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與涅槃無有差別。",
+        "translation": "There's no difference between that and nirvāṇa.",
+        "source": "T31n1596_009:0312b28_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故非非得。",
+        "translation": "Therefore, it's neither attained nor non-obtained.",
+        "source": "T31n1596_009:0312b28_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋學果寂滅竟。",
+        "translation": "After explaining the extinction of the fruit of discipline, he explained.",
+        "source": "T31n1596_009:0312b29_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝大乘論釋論智勝相勝語第十之一",
+        "translation": "Compendium of the Great Vehicle, Explanation of the Treatise on the Triumph of Wisdom over Characteristics, Tenth and Oneth",
+        "source": "T31n1596_009:0312c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0312c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是已說寂滅勝相。",
+        "translation": "\"Thus, we've explained the surpassing characteristic of cessation.",
+        "source": "T31n1596_009:0312c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智勝相云何可見。",
+        "translation": "How can the surpassing characteristic of wisdom be seen?",
+        "source": "T31n1596_009:0312c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三種佛身故。",
+        "translation": "It's because of the three kinds of buddha-bodies.",
+        "source": "T31n1596_009:0312c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知是智勝相。",
+        "translation": "They should be known as the surpassing characteristic of wisdom.",
+        "source": "T31n1596_009:0312c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂自性身。",
+        "translation": "They are the self-nature body ...",
+        "source": "T31n1596_009:0312c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受用身變化身。",
+        "translation": "It's the body that experiences function and the body that transforms.",
+        "source": "T31n1596_009:0312c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中自性身者。",
+        "translation": "Of these, the self-nature body is the Tathāgata's Dharma body.",
+        "source": "T31n1596_009:0312c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是如來法身。",
+        "translation": "It's the Tathāgata's Dharma body.",
+        "source": "T31n1596_009:0312c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切法中自在依止故。",
+        "translation": "It's because it's the self-nature body that's supported by all dharmas on its own.",
+        "source": "T31n1596_009:0312c04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受用身者此顯諸佛種種大集輪。",
+        "translation": "The body that's used shows the various ways the buddhas take the great set of wheels.",
+        "source": "T31n1596_009:0312c05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法身為依止。",
+        "translation": "The Dharma body is their support.",
+        "source": "T31n1596_009:0312c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨佛剎中。",
+        "translation": "It's found in pure buddha bases.",
+        "source": "T31n1596_009:0312c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受用大乘法果報故。",
+        "translation": "It's because it's the result of using the great vehicle dharmas.",
+        "source": "T31n1596_009:0312c06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "變化身者。",
+        "translation": "Transformation body: This shows that the buddhas' various kinds of great aggregate wheels have the Dharma body as their support.",
+        "source": "T31n1596_009:0312c07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦以法身為依止。",
+        "translation": "This body also takes the Dharma body as its support.",
+        "source": "T31n1596_009:0312c07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處兜率陀宮故。",
+        "translation": "It's because he's staying at the palace of Tuṣita.",
+        "source": "T31n1596_009:0312c07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及降生受欲樂。",
+        "translation": "He'll be reborn into a world of desire and pleasure.",
+        "source": "T31n1596_009:0312c08_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出家往外道中。",
+        "translation": "He leaves home and goes to a non-Buddhist sect.",
+        "source": "T31n1596_009:0312c08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修行苦行正覺菩提轉法輪入大涅槃。",
+        "translation": "He cultivates asceticism, correct enlightenment, bodhi, turns the wheel of the Dharma, and enters great nirvāṇa.",
+        "source": "T31n1596_009:0312c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所顯示故。",
+        "translation": "It's because of what's revealed.",
+        "source": "T31n1596_009:0312c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0312c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智勝相此中解說。",
+        "translation": "\"The surpassing characteristic of wisdom is explained here.",
+        "source": "T31n1596_009:0312c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即以三身顯智勝相。",
+        "translation": "That is, the three bodies reveal the superior characteristic of wisdom.",
+        "source": "T31n1596_009:0312c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自性身為一切法自在依止。",
+        "translation": "The self-nature body is the unimpeded support for all dharmas.",
+        "source": "T31n1596_009:0312c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受用身者即以前所說。",
+        "translation": "The body that receives and uses is what was explained earlier.",
+        "source": "T31n1596_009:0312c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自性身為所依。",
+        "translation": "'The self-nature body is the basis.'",
+        "source": "T31n1596_009:0312c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種諸佛大集輪故。",
+        "translation": "It's because of the great set of various buddha-wheels.",
+        "source": "T31n1596_009:0312c12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得顯於清淨佛剎中。",
+        "translation": "It can be manifested in a pure buddha-brace.",
+        "source": "T31n1596_009:0312c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大乘修多羅等法為因故。",
+        "translation": "It's because the great vehicle sūtra and other dharmas are the cause.",
+        "source": "T31n1596_009:0312c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得受用法樂此為依止。",
+        "translation": "This is the basis for attaining the enjoyment of the Dharma and happiness.",
+        "source": "T31n1596_009:0312c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有別義為受用清淨佛剎故。",
+        "translation": "There's another meaning that's specific to this because it's for the enjoyment of pure buddha bases and the enjoyment of the happiness of the Dharma.",
+        "source": "T31n1596_009:0312c14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及受用法樂故以此為依止。",
+        "translation": "It's because they experience the happiness of the Dharma that they take this as their support.",
+        "source": "T31n1596_009:0312c15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "變化身中始從兜率陀宮。",
+        "translation": "Among the transformation bodies, it starts at the palace of Tuṣita.",
+        "source": "T31n1596_009:0312c16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至入涅槃等者。",
+        "translation": "He'll go on to enter nirvāṇa and so forth.",
+        "source": "T31n1596_009:0312c16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為顯示同天人法。",
+        "translation": "That's to show that they're the same as gods and humans.",
+        "source": "T31n1596_009:0312c17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此為依止。",
+        "translation": "They take this as their support.",
+        "source": "T31n1596_009:0312c17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T31n1596_009:0312c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中有欝陀那(隋云攝持)。",
+        "translation": "\"Here there's Udana (Sui, \"to gather and maintain\").",
+        "source": "T31n1596_009:0312c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　相得及自在　　依止與攝持",
+        "translation": "They are endowed with both mutual attainment and sovereignty, and they are sustained and collected.",
+        "source": "T31n1596_009:0312c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　差別德甚深　　念業等佛身",
+        "translation": "profundity of the virtues of distinctions Mindfulness of karma and so forth in the buddha-body",
+        "source": "T31n1596_009:0312c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何者為相。",
+        "translation": "\"What are the characteristics?",
+        "source": "T31n1596_009:0312c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸佛法身略說有五種相。",
+        "translation": "Briefly, the buddha's Dharma body has five kinds of characteristics.",
+        "source": "T31n1596_009:0312c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知一轉依相。",
+        "translation": "You should know that one is the aspect of turning dependence.",
+        "source": "T31n1596_009:0312c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂一切障染污分依他性滅處。",
+        "translation": "It's the cessation of all hindrances, defiling factors, and dependency on other natures.",
+        "source": "T31n1596_009:0312c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為解脫一切障。",
+        "translation": "In order to be liberated from all hindrances, he attains unimpeded manifestation of all things.",
+        "source": "T31n1596_009:0312c22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切法得自在現前。",
+        "translation": "He attains unimpeded manifestation of all things.",
+        "source": "T31n1596_009:0312c23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨分依他性顯故。",
+        "translation": "It's because the pure parts depend on the other nature to manifest.",
+        "source": "T31n1596_009:0312c23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二白法自體相。",
+        "translation": "Second, it's the characteristic of the self-nature of the white dharmas.",
+        "source": "T31n1596_009:0312c24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六波羅蜜滿足得十自在。",
+        "translation": "There are ten kinds of mastery attained by fulfilling the six perfections.",
+        "source": "T31n1596_009:0312c24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂命自在心自在眾具自在。",
+        "translation": "They are the mastery of life, the mastery of mind, and the mastery of the multitude of implements.",
+        "source": "T31n1596_009:0312c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此陀那波羅蜜滿足故。",
+        "translation": "It's because this perfection of dhyāna is fulfilled.",
+        "source": "T31n1596_009:0312c25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "業自在生自在。",
+        "translation": "Their karmic power is self-perfected, and their birth is self-perfected.",
+        "source": "T31n1596_009:0312c26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尸羅波羅蜜滿足故。",
+        "translation": "It's because the perfection of śīla is fulfilled.",
+        "source": "T31n1596_009:0312c26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勝解自在。",
+        "translation": "He has mastery of resolve.",
+        "source": "T31n1596_009:0312c27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "羼提波羅蜜滿足故。",
+        "translation": "because the perfection of kṣanti fulfills it ...",
+        "source": "T31n1596_009:0312c27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願自在。",
+        "translation": "vows are fulfilled.",
+        "source": "T31n1596_009:0312c27_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "毘離耶波羅蜜滿足故。",
+        "translation": "because the perfection of vīrya is fulfilled ...",
+        "source": "T31n1596_009:0312c28_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神力自在。",
+        "translation": "his psychic powers are unimpeded ...",
+        "source": "T31n1596_009:0312c28_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五通所攝禪波羅蜜滿足故。",
+        "translation": "because the perfection of meditation that's included in the five supernormal powers is fulfilled ...",
+        "source": "T31n1596_009:0312c28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智自在法自在。",
+        "translation": "knowledge is freely attained ... the Dharma is freely attained ...",
+        "source": "T31n1596_009:0312c29_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "般若波羅蜜滿足故。",
+        "translation": "It's because the perfection of wisdom is fulfilled.",
+        "source": "T31n1596_009:0312c29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三無二相。",
+        "translation": "\"The three are without two characteristics.",
+        "source": "T31n1596_009:0313a01_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有無無二相故。",
+        "translation": "It's because there are and aren't two characteristics.",
+        "source": "T31n1596_009:0313a01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切法無所有。",
+        "translation": "All dharmas are without existence.",
+        "source": "T31n1596_009:0313a01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此空相不無故。",
+        "translation": "The characteristic of emptiness is not absent.",
+        "source": "T31n1596_009:0313a02_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有為無為無二為相。",
+        "translation": "'Existence and nonexistence have no dual characteristics.'",
+        "source": "T31n1596_009:0313a02_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非業煩惱所為。",
+        "translation": "They aren't created by karmic afflictions.",
+        "source": "T31n1596_009:0313a03_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然似有所為自在顯示故。",
+        "translation": "However, it appears to have some form of activity that's freely manifested.",
+        "source": "T31n1596_009:0313a03_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一異無二相。",
+        "translation": "One is different, and there are no two characteristics.",
+        "source": "T31n1596_009:0313a04_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中一切諸佛依止無差別。",
+        "translation": "In this, there's no distinction between the buddhas who rely on all of them.",
+        "source": "T31n1596_009:0313a04_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然無量身相續證正覺故。",
+        "translation": "However, there's no lack of continuity in the realization of right awakening.",
+        "source": "T31n1596_009:0313a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中有偈。",
+        "translation": "Here's a verse.",
+        "source": "T31n1596_009:0313a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我取無有故　　依止無差別",
+        "translation": "\"It's because I grasp that there's nothing, and there's no distinction between what's relied upon and what's supported.",
+        "source": "T31n1596_009:0313a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　前後次第證　　假名說差別",
+        "translation": "the prior and subsequent are realized in order, and the nominal is stated as a distinction",
+        "source": "T31n1596_009:0313a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　性行別非虛　　具無初無別",
+        "translation": "the distinction between nature and practice is not false, and there is no beginning, no distinction",
+        "source": "T31n1596_009:0313a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　非一亦非多　　無垢依止故",
+        "translation": "neither one nor many, based on the absence of defilement",
+        "source": "T31n1596_009:0313a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四常相謂真如清淨為相。",
+        "translation": "The four characteristic of permanence are the characteristic of the purity of true thusness.",
+        "source": "T31n1596_009:0313a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本願所引佛事不休息故。",
+        "translation": "It's because the Buddha-work induced by the past vows doesn't rest.",
+        "source": "T31n1596_009:0313a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五不思議相。",
+        "translation": "The fifth characteristic of inconceivability.",
+        "source": "T31n1596_009:0313a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此真如清淨唯自證知。",
+        "translation": "This true Tathāgata's purity is known only by himself.",
+        "source": "T31n1596_009:0313a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間譬喻不可得。",
+        "translation": "Mundane metaphors can't obtain it.",
+        "source": "T31n1596_009:0313a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非分別所行故。",
+        "translation": "It's not something that's practiced separately.'",
+        "source": "T31n1596_009:0313a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0313a12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此欝陀那偈中。",
+        "translation": "\"In this Udayana verse.",
+        "source": "T31n1596_009:0313a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂相得等。",
+        "translation": "\"It's called 'attaining characteristics.'",
+        "source": "T31n1596_009:0313a13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中相者。",
+        "translation": "\"Here, 'characteristics' means five kinds of characteristics of the Dharma body.",
+        "source": "T31n1596_009:0313a13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即法身相有五種。",
+        "translation": "That is, there are five kinds of characteristics of the Dharma body.",
+        "source": "T31n1596_009:0313a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知轉依相。",
+        "translation": "They should be understood to be the characteristic of transformation of the basis.",
+        "source": "T31n1596_009:0313a14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂一切障染污分。",
+        "translation": "They are all the hindrances, defilements, and components.",
+        "source": "T31n1596_009:0313a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依他性滅。",
+        "translation": "Other-dependent nature ceases.",
+        "source": "T31n1596_009:0313a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由染污分依他性滅故。",
+        "translation": "It's because the defiled parts of the body's nature depend on other things to cease.",
+        "source": "T31n1596_009:0313a15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切障得解脫。",
+        "translation": "He attains liberation from all hindrances.",
+        "source": "T31n1596_009:0313a15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切法中自在現前。",
+        "translation": "They are unimpededly manifested in all dharmas.",
+        "source": "T31n1596_009:0313a16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨分依他性顯者。",
+        "translation": "The other-dependent nature of the purifying part manifests itself.",
+        "source": "T31n1596_009:0313a16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由於一切法得自在故。",
+        "translation": "It's because he attains mastery over all things.",
+        "source": "T31n1596_009:0313a17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依他性一分清淨性。",
+        "translation": "The pure nature of the other-dependent part of nature is immediately revealed.",
+        "source": "T31n1596_009:0313a17_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即得顯現。",
+        "translation": "It's immediately manifested.",
+        "source": "T31n1596_009:0313a18_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白法體相者。",
+        "translation": "\"White dharma essence and characteristics\"?",
+        "source": "T31n1596_009:0313a18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂六波羅蜜圓滿故。",
+        "translation": "It's because the six perfections are complete.",
+        "source": "T31n1596_009:0313a18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得法身十種自在。",
+        "translation": "He attains ten kinds of mastery over the Dharma body.",
+        "source": "T31n1596_009:0313a19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是白法體。",
+        "translation": "This is the white substance of the Dharma.",
+        "source": "T31n1596_009:0313a19_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中命自在者。",
+        "translation": "\"The person who has mastery over life in the interim.",
+        "source": "T31n1596_009:0313a19_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲得自身齊幾許時住。",
+        "translation": "He wants to attain a few hours of uniform abiding in himself.",
+        "source": "T31n1596_009:0313a20_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即能顯示。",
+        "translation": "That's when it's revealed.",
+        "source": "T31n1596_009:0313a20_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知心自在者。",
+        "translation": "You should know that this is the mind's mastery.",
+        "source": "T31n1596_009:0313a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於爾許時住。",
+        "translation": "At these certain times, he'll abide.",
+        "source": "T31n1596_009:0313a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不為生死所染污故。",
+        "translation": "It's because it's not stained by birth and death.",
+        "source": "T31n1596_009:0313a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾具自在者謂食等十種眾具。",
+        "translation": "The self-subtlety of possessions refers to the ten kinds of possessions, such as food.",
+        "source": "T31n1596_009:0313a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸佛如念即得。",
+        "translation": "The buddhas attain them just by mindfully recollecting them.",
+        "source": "T31n1596_009:0313a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知此三由陀那波羅蜜圓滿為因。",
+        "translation": "You should know that these three are caused by the perfection of the dhāraṇī.",
+        "source": "T31n1596_009:0313a23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知如偈說。",
+        "translation": "You should know them as the verse explains.",
+        "source": "T31n1596_009:0313a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　諸菩薩思惟　　若淨若不淨",
+        "translation": "\"Bodhisattvas contemplate whether something is pure or impure.",
+        "source": "T31n1596_009:0313a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　一切皆成善　　是為意自在",
+        "translation": "All things become wholesome, and this is the mastery of intention.",
+        "source": "T31n1596_009:0313a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "業自在生自在。",
+        "translation": "\"Karma is freely produced with complete mastery.",
+        "source": "T31n1596_009:0313a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由尸羅波羅蜜滿故者。",
+        "translation": "It's because of the completion of the perfection of śīla-pāramitā.",
+        "source": "T31n1596_009:0313a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝因及所生果故。",
+        "translation": "It's because the causes are collected and the results produced are produced.",
+        "source": "T31n1596_009:0313a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又以此故身口業自在轉應知。",
+        "translation": "It's also because of this that physical and verbal actions freely develop should be understood.",
+        "source": "T31n1596_009:0313a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由隨欲所生即彼業現前生自在者。",
+        "translation": "Those born from following desires that are the direct result of those actions will naturally arise in the present.",
+        "source": "T31n1596_009:0313a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂生處自在轉應知。",
+        "translation": "This refers to the comfortable transformation of the place of birth that should be known.",
+        "source": "T31n1596_009:0313a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由於善惡等趣。",
+        "translation": "It's because the destinies of good and evil are produced.",
+        "source": "T31n1596_009:0313b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨意欲生即能生故。",
+        "translation": "It's because they can be produced according to their desires.",
+        "source": "T31n1596_009:0313b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尸羅因名為業。",
+        "translation": "The cause of śīla is called action.",
+        "source": "T31n1596_009:0313b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尸羅果名為生。",
+        "translation": "The result of śīla is called birth.",
+        "source": "T31n1596_009:0313b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此道理即得顯其自在故。",
+        "translation": "This principle then makes it possible to express their mastery.",
+        "source": "T31n1596_009:0313b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信解自在由忍波羅蜜圓滿故者。",
+        "translation": "\"The mastery of faith and understanding comes from the perfection of the perfection of forbearance.",
+        "source": "T31n1596_009:0313b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸法皆隨心轉故。",
+        "translation": "It's because all things are transformed according to the mind.",
+        "source": "T31n1596_009:0313b04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得隨所樂欲。",
+        "translation": "He can follow what he desires.",
+        "source": "T31n1596_009:0313b04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如所樂欲一切事悉成就故。",
+        "translation": "According to those desires, all things are accomplished.",
+        "source": "T31n1596_009:0313b05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願自在是毘離耶波羅蜜圓滿果者。",
+        "translation": "\"The person whose freedom of aspiration is the perfection of the perfection of vairocana.",
+        "source": "T31n1596_009:0313b05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由精進一切發行皆究竟。",
+        "translation": "As a result of effort, all conditioned things are accomplished.",
+        "source": "T31n1596_009:0313b06_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切思量事悉成就故。",
+        "translation": "All conceptual things are fully accomplished.",
+        "source": "T31n1596_009:0313b07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五通所攝神力自在。",
+        "translation": "The spiritual powers included in the five supernormal powers are unimpeded.",
+        "source": "T31n1596_009:0313b07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是禪波羅蜜圓滿果者。",
+        "translation": "This is the perfect fulfillment of the perfection of meditation.",
+        "source": "T31n1596_009:0313b08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由心有堪能出生神通故。",
+        "translation": "It's because the mind has the capability to produce supernormal powers.",
+        "source": "T31n1596_009:0313b08_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智自在法自在。",
+        "translation": "He's naturally endowed with the knowledge and naturally endowed with the Dharma.",
+        "source": "T31n1596_009:0313b09_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是般若波羅蜜圓滿果者。",
+        "translation": "\"This is the perfection of prajñā-pāramitā.",
+        "source": "T31n1596_009:0313b09_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "般若力故安立陰等。",
+        "translation": "It's because of the power of prajñā that the aggregates and so forth are posited.",
+        "source": "T31n1596_009:0313b10_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及得此後一切種智。",
+        "translation": "and attains all subsequent kinds of cognition.",
+        "source": "T31n1596_009:0313b10_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無二相中非有相者。",
+        "translation": "\"There are no dual characteristics and no nonexistent characteristics.",
+        "source": "T31n1596_009:0313b11_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切法無有相故。",
+        "translation": "It's because all dharmas lack characteristics.",
+        "source": "T31n1596_009:0313b11_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非無相者有空自性故。",
+        "translation": "Those that aren't without marks have an empty self-nature.",
+        "source": "T31n1596_009:0313b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有為無為無二相者。",
+        "translation": "Those who have two characteristics, whether existent or not, and those who don't have two characteristics.",
+        "source": "T31n1596_009:0313b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂非有為自性。",
+        "translation": "It's not the self-nature of being ...",
+        "source": "T31n1596_009:0313b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非無為自性故。",
+        "translation": "It's not the self-nature of nonexistence.",
+        "source": "T31n1596_009:0313b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中非業煩惱所生故非有為相。",
+        "translation": "It's not a mark of being because it's not produced by the afflictions of karma.",
+        "source": "T31n1596_009:0313b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦是有為相者。",
+        "translation": "It's also a mark of being.",
+        "source": "T31n1596_009:0313b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於有為中已得自在。",
+        "translation": "They've attained mastery in the midst of existent beings.",
+        "source": "T31n1596_009:0313b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處處顯示。",
+        "translation": "It's displayed everywhere.",
+        "source": "T31n1596_009:0313b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此義故名有為相。",
+        "translation": "This is the reason it's called the characteristic of having-being.",
+        "source": "T31n1596_009:0313b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一異無二為相者。",
+        "translation": "'One-different, non-dual forms of existence.'",
+        "source": "T31n1596_009:0313b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於法身中由依止無別。",
+        "translation": "In the Dharma body, it's because there's no distinction between dependence and existence.",
+        "source": "T31n1596_009:0313b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故無異相。",
+        "translation": "Therefore, there's no difference in characteristics.",
+        "source": "T31n1596_009:0313b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由無量身得至故不得為一相。",
+        "translation": "Because there's no tailor-made arrival, it can't be one characteristic.",
+        "source": "T31n1596_009:0313b17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此二中不可偏說故。",
+        "translation": "Of these two, it can't be said to be partial.",
+        "source": "T31n1596_009:0313b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名無二相。",
+        "translation": "They're called the characteristic of nonduality.",
+        "source": "T31n1596_009:0313b18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此義以偈顯示。",
+        "translation": "This meaning is revealed in a verse.",
+        "source": "T31n1596_009:0313b18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我取無有故依止無差別者。",
+        "translation": "'There's no distinction in basis because self-acquisition is nonexistent.'",
+        "source": "T31n1596_009:0313b19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於世中我取力故有身差別。",
+        "translation": "In the world, there are distinctions in bodies because of the power of self-acquisition.",
+        "source": "T31n1596_009:0313b19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於法身中無有我取故無差別。",
+        "translation": "In the Dharma body, there's no distinction because there's no self-acquisition.",
+        "source": "T31n1596_009:0313b20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若身無差別云何有多佛前後次第。",
+        "translation": "If there's no distinction in body, then how could there be many buddhas in order of precedence and subsequent precedence?",
+        "source": "T31n1596_009:0313b21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "證假名說差別者。",
+        "translation": "The proof nominally says there's a distinction.",
+        "source": "T31n1596_009:0313b21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此無量身得故。",
+        "translation": "It's because there's no customary attainment.",
+        "source": "T31n1596_009:0313b22_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有差別。",
+        "translation": "There are also distinctions.",
+        "source": "T31n1596_009:0313b22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如此等義。",
+        "translation": "This and other explanations are explained in verse.",
+        "source": "T31n1596_009:0313b23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更以偈說。",
+        "translation": "He further explains it in verse.",
+        "source": "T31n1596_009:0313b23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性別者諸菩薩有眾多。",
+        "translation": "\"Distinct natures mean that there are many bodhisattvas.",
+        "source": "T31n1596_009:0313b23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此差別故發行亦異。",
+        "translation": "Because of these distinctions, their issues are also different.",
+        "source": "T31n1596_009:0313b24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由發行差別故有眾多人。",
+        "translation": "Because of these distinctions in issuance, there are many people.",
+        "source": "T31n1596_009:0313b24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩提資糧得圓滿。",
+        "translation": "The necessary preparations for enlightenment can be perfected.",
+        "source": "T31n1596_009:0313b25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故若唯一佛。",
+        "translation": "Therefore, if there's only one Buddha.",
+        "source": "T31n1596_009:0313b25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘人資糧則應虛。",
+        "translation": "the remaining people's accumulation would be in vain.",
+        "source": "T31n1596_009:0313b26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作具足者。",
+        "translation": "'Completely accomplished' means [accomplished].",
+        "source": "T31n1596_009:0313b26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸佛具作一切眾生利益事。",
+        "translation": "The buddhas are fully equipped to do things for the benefit of all sentient beings.",
+        "source": "T31n1596_009:0313b26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂安立於三乘中。",
+        "translation": "They are established in the three vehicles.",
+        "source": "T31n1596_009:0313b27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸佛唯以佛乘安立眾生。",
+        "translation": "If buddhas establish sentient beings solely in terms of the Buddha vehicle, then what they do as buddhas isn't complete.",
+        "source": "T31n1596_009:0313b27_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則所作佛事不具足。",
+        "translation": "Then their works as buddhas wouldn't be complete.",
+        "source": "T31n1596_009:0313b28_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故應有多佛。",
+        "translation": "Therefore, there should be many buddhas.",
+        "source": "T31n1596_009:0313b28_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如生死無初佛亦如是。",
+        "translation": "Suppose there's no first Buddha in birth-and-death, and so it is.",
+        "source": "T31n1596_009:0313b29_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若唯一佛即是有初。",
+        "translation": "If there's only one Buddha, then there's a beginning.",
+        "source": "T31n1596_009:0313b29_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故非一。",
+        "translation": "Therefore, it's not one.",
+        "source": "T31n1596_009:0313c01_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼依止無差別故。",
+        "translation": "It's also because there are no distinctions in their supports.",
+        "source": "T31n1596_009:0313c01_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不得為多。",
+        "translation": "They also can't be many.",
+        "source": "T31n1596_009:0313c01_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是此無垢法界依止無差別。",
+        "translation": "That is, there are no distinctions in the basis of this unsullied Dharma realm.",
+        "source": "T31n1596_009:0313c02_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不一異相。",
+        "translation": "This is not a different characteristic.",
+        "source": "T31n1596_009:0313c02_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此道理即得顯示常相者。",
+        "translation": "This is the reason it's possible to show its characteristic of permanence.",
+        "source": "T31n1596_009:0313c03_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三因緣故。",
+        "translation": "It's because of the three causes and conditions.",
+        "source": "T31n1596_009:0313c03_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此體常住為相。",
+        "translation": "This essence always remains as a characteristic.",
+        "source": "T31n1596_009:0313c04_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "真如清淨以為佛體。",
+        "translation": "The truly pure nature of the Buddha's body is its essence.",
+        "source": "T31n1596_009:0313c04_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即常住。",
+        "translation": "This is its eternal abiding.",
+        "source": "T31n1596_009:0313c04_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此道理得顯如來常住。",
+        "translation": "This principle makes it possible to show that the Tathāgata is eternally abiding.",
+        "source": "T31n1596_009:0313c05_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知本願所引者。",
+        "translation": "You should know that this is the one who's led by the past vows.",
+        "source": "T31n1596_009:0313c05_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由昔發願作一切眾生利益事。",
+        "translation": "In the past, he made a vow to do things for the benefit of all sentient beings.",
+        "source": "T31n1596_009:0313c06_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此願所引故。",
+        "translation": "It's because they were led by this vow that the Buddha's body was manifested.",
+        "source": "T31n1596_009:0313c06_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛體顯現。",
+        "translation": "The Buddha's body was manifested.",
+        "source": "T31n1596_009:0313c07_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故彼願不虛。",
+        "translation": "Therefore, that vow wasn't in vain.",
+        "source": "T31n1596_009:0313c07_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即常住應知。",
+        "translation": "This is what should be known about eternal abiding.",
+        "source": "T31n1596_009:0313c07_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若謂如來作眾生利益事已竟者。",
+        "translation": "Suppose it's said that the Tathāgata has finished doing things for the benefit of sentient beings.",
+        "source": "T31n1596_009:0313c08_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此義不然。",
+        "translation": "That doesn't mean that.",
+        "source": "T31n1596_009:0313c08_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以所作未究竟故。",
+        "translation": "It's because what he's done hasn't been completed.",
+        "source": "T31n1596_009:0313c09_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於今時有無邊事。",
+        "translation": "That is, at this point in time there are limitless things.",
+        "source": "T31n1596_009:0313c09_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂一切眾生未般涅槃故。",
+        "translation": "It's because all sentient beings have yet to attain parinirvāṇa.",
+        "source": "T31n1596_009:0313c10_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以此因緣故常住為相應知。",
+        "translation": "Because of these causes and conditions, they are always abiding and are known to be concomitant with each other.",
+        "source": "T31n1596_009:0313c10_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖如是等說已。",
+        "translation": "Even after such a statement, it's inconceivable to know.",
+        "source": "T31n1596_009:0313c11_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼亦不可思議應知。",
+        "translation": "\"They are also inconceivable and should be understood.",
+        "source": "T31n1596_009:0313c11_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此不可思議因緣。",
+        "translation": "These are inconceivable causes and conditions.",
+        "source": "T31n1596_009:0313c12_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今當顯示。",
+        "translation": "Now, we'll show it.",
+        "source": "T31n1596_009:0313c12_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯自證知者。",
+        "translation": "'It's only self-witnessed knowledge.'",
+        "source": "T31n1596_009:0313c12_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸佛自證彼體故。",
+        "translation": "It's because the buddhas themselves realize their essence.",
+        "source": "T31n1596_009:0313c13_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼體唯自證故。",
+        "translation": "It's because their essence is only self-realized.",
+        "source": "T31n1596_009:0313c13_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非彼覺觀所能思量。",
+        "translation": "It's not something that can be imagined by perception and contemplation.",
+        "source": "T31n1596_009:0313c13_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於世間中亦無此比類。",
+        "translation": "There's no such analogy in the world.",
+        "source": "T31n1596_009:0313c14_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以譬喻知故。",
+        "translation": "It's known by metaphor.",
+        "source": "T31n1596_009:0313c14_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The discussion said.",
+        "source": "T31n1596_009:0313c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次云何得最初證此法身。",
+        "translation": "\"Furthermore, how did he first realize this Dharma body?",
+        "source": "T31n1596_009:0313c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "總相大乘法為所緣故。",
+        "translation": "It's because the Dharma of the general character of the great vehicle is the object.",
+        "source": "T31n1596_009:0313c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無分別智及彼後得智故。",
+        "translation": "It's because there's no discriminating cognition or subsequently attained cognition.",
+        "source": "T31n1596_009:0313c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五相善修於一切地中。",
+        "translation": "The five characteristics are well cultivated in all stages.",
+        "source": "T31n1596_009:0313c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善集資糧故。",
+        "translation": "It's because they skillfully gather accumulation.",
+        "source": "T31n1596_009:0313c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "破微細難破障故。",
+        "translation": "It's because it destroys subtle and difficult to break down hindrances.",
+        "source": "T31n1596_009:0313c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛譬三摩提。",
+        "translation": "The vajra metaphor is called the absorption.",
+        "source": "T31n1596_009:0313c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次此三摩提。",
+        "translation": "This is the next stage of the samādhi.",
+        "source": "T31n1596_009:0313c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後離一切障即得轉依。",
+        "translation": "He then parts with all the hindrances and attains transformation of the basis.'",
+        "source": "T31n1596_009:0313c19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0313c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中說得最初得者。",
+        "translation": "\"Here, it's said that he first attains it.",
+        "source": "T31n1596_009:0313c20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此體無生以無為故。",
+        "translation": "It's because this essence is unarisen and based on nonproductivity.",
+        "source": "T31n1596_009:0313c20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若生即是無常。",
+        "translation": "If it's produced, it's impermanent.'",
+        "source": "T31n1596_009:0313c21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛譬三摩提者。",
+        "translation": "\"The vajra metaphor is samādhi.",
+        "source": "T31n1596_009:0313c21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此三摩提猶如金剛能破微細難破障故。",
+        "translation": "This samādhi is like the adamantine that breaks through subtle and difficult to break down hindrances.",
+        "source": "T31n1596_009:0313c22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即得轉依者。",
+        "translation": "\"He who immediately attains transformation of the basis.",
+        "source": "T31n1596_009:0313c23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂由此金剛譬三摩提。",
+        "translation": "This is called the vajra-parable samādhi.",
+        "source": "T31n1596_009:0313c23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能轉依得法身。",
+        "translation": "It's able to change the basis and attain the Dharma body.",
+        "source": "T31n1596_009:0313c24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0313c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次法身有幾種自在而得至自在。",
+        "translation": "\"Furthermore, how many kinds of mastery does the Dharma body have that lead to mastery?",
+        "source": "T31n1596_009:0313c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略說有五種自在。",
+        "translation": "Briefly, there are five kinds of sovereignty.",
+        "source": "T31n1596_009:0313c25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一國土自身相好無邊聲。",
+        "translation": "One is the limitless sound of the land's own distinctive features.",
+        "source": "T31n1596_009:0313c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無見頂自在。",
+        "translation": "It has no freedom of seeing the top of the head.",
+        "source": "T31n1596_009:0313c26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉色聚依故。",
+        "translation": "It's because it transforms form into a cluster of supports.",
+        "source": "T31n1596_009:0313c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二無譏嫌無量高大安樂行自在。",
+        "translation": "Two, he has the freedom to practice without slander, without measure, without greatness, without comfort, and with ease.",
+        "source": "T31n1596_009:0313c27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉受聚依故。",
+        "translation": "It's because it changes the basis of the feeling cluster.",
+        "source": "T31n1596_009:0313c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三說一切名身句身味身自在。",
+        "translation": "Three, it's comfortable speaking of all names, bodies, phrases, bodies, and tastes.",
+        "source": "T31n1596_009:0313c28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉想聚依故。",
+        "translation": "It's because he's transforming the cluster of perceptions that depends on it.",
+        "source": "T31n1596_009:0313c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四變化變易引大眾。",
+        "translation": "Four changes and transformations lead to the masses.",
+        "source": "T31n1596_009:0313c29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "引白法自在。",
+        "translation": "It's because he brings forth a white dharma with mastery.",
+        "source": "T31n1596_009:0314a01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉行聚依故。",
+        "translation": "It's because he's transformed into a cluster of supports for practice.",
+        "source": "T31n1596_009:0314a01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五鏡平等觀作所應作智自在。",
+        "translation": "Five mirrors equally contemplate the knowledge of what should be created with ease.",
+        "source": "T31n1596_009:0314a01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉識聚依故。",
+        "translation": "It's because he's transforming the cluster of consciousnesses that depends on it.",
+        "source": "T31n1596_009:0314a02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0314a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中顯示自在。",
+        "translation": "\"This shows that [this knowledge] is self-perfected.",
+        "source": "T31n1596_009:0314a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉色等五聚依故得自在。",
+        "translation": "It's attained because he's transforming the five groups of form and so forth into bases.",
+        "source": "T31n1596_009:0314a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中由轉色聚依故。",
+        "translation": "In this, it's because he's transforming the clusters of form and other bases.",
+        "source": "T31n1596_009:0314a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得佛剎自在。",
+        "translation": "He attains the Buddha's buddha-like mastery.",
+        "source": "T31n1596_009:0314a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂顯示金銀等。",
+        "translation": "It's the freedom to display gold and silver.",
+        "source": "T31n1596_009:0314a04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨意顯示身自在。",
+        "translation": "He has the mastery of revealing his body as he wishes.",
+        "source": "T31n1596_009:0314a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於大眾輪隨諸眾生樂欲。",
+        "translation": "This refers to following the pleasures and desires of sentient beings in the masses of the wheel.",
+        "source": "T31n1596_009:0314a05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯示身應知。",
+        "translation": "He displays the body as should be known.",
+        "source": "T31n1596_009:0314a06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相好等自在謂隨所樂欲為彼顯示故。",
+        "translation": "The mastery of characteristics and so forth means following the desires of those who wish to reveal it for them.",
+        "source": "T31n1596_009:0314a06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是無邊聲。",
+        "translation": "That is, it's limitless sound.",
+        "source": "T31n1596_009:0314a07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無見頂等自在。",
+        "translation": "It's the absence of such mastery as seeing the top of the head.",
+        "source": "T31n1596_009:0314a07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉受聚依故。",
+        "translation": "It's because they've been reborn into a group of supports.",
+        "source": "T31n1596_009:0314a08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無譏嫌無量高大安樂行自在者。",
+        "translation": "He attains the freedom to practice without ridicule, without measure, without greatness, and with comfort.",
+        "source": "T31n1596_009:0314a08_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於無譏嫌無量高大等安樂行中得自在行故。",
+        "translation": "It's because he attains the practice of ease in the practice of happiness that's without ridicule, without measure, and of greatness.",
+        "source": "T31n1596_009:0314a09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中無量者。",
+        "translation": "Measureless within that means that it's because of the various kinds.",
+        "source": "T31n1596_009:0314a10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知是種種故。",
+        "translation": "You should know that these are various.",
+        "source": "T31n1596_009:0314a10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "高大者謂此樂超過三界樂故。",
+        "translation": "\"Tall\" means that this happiness exceeds the happiness of the three realms.",
+        "source": "T31n1596_009:0314a11_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知由轉想聚依故。",
+        "translation": "It should be known because it's the basis of a cluster of transformative ideas.",
+        "source": "T31n1596_009:0314a11_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於說名身等中得自在故。",
+        "translation": "It's because he attains mastery in teaching the body of names and so forth.",
+        "source": "T31n1596_009:0314a12_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由取相想故。",
+        "translation": "It's because of the conception of grasping characteristics.",
+        "source": "T31n1596_009:0314a12_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣於名言等而取其相。",
+        "translation": "Conditioned on names and words, etc., they grasp their characteristics.",
+        "source": "T31n1596_009:0314a13_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "轉滅此想故。",
+        "translation": "It's because they develop and cease these perceptions.",
+        "source": "T31n1596_009:0314a13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉行聚依故。",
+        "translation": "It's because he's transformed into a cluster of supports of practice.",
+        "source": "T31n1596_009:0314a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於變化變易引大眾引白法等故得自在。",
+        "translation": "He attains mastery because he guides the public through change and leads them to explain the teaching.",
+        "source": "T31n1596_009:0314a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中變化自在者。",
+        "translation": "\"In this, change is freely given.",
+        "source": "T31n1596_009:0314a15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨意變化應知。",
+        "translation": "It refers to changes that should be understood according to one's wishes.",
+        "source": "T31n1596_009:0314a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "變易者謂變易地等。",
+        "translation": "'Change' refers to changing the earth and so forth.",
+        "source": "T31n1596_009:0314a16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令成金等故。",
+        "translation": "It's caused by transforming the earth into gold and so forth.",
+        "source": "T31n1596_009:0314a16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "引大眾者應知隨其意引諸大眾。",
+        "translation": "\"Lead the masses,\" he should know that he leads the masses according to his intention.",
+        "source": "T31n1596_009:0314a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂引天夜叉等眾故。",
+        "translation": "This is because it leads gods, yakṣas, and other people.",
+        "source": "T31n1596_009:0314a17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "引白法者謂如意所欲則白法現前應知。",
+        "translation": "\"Lead the white Dharma\" means to do as one wishes, then the white Dharma should be known to manifest itself.",
+        "source": "T31n1596_009:0314a18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由轉識聚依故。",
+        "translation": "It's because he's transforming the cluster of consciousnesses into bases.",
+        "source": "T31n1596_009:0314a19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得鏡智平等智正觀智作所應作智。",
+        "translation": "He attains mirror cognition, equality cognition, and right contemplation cognition of what should be done.",
+        "source": "T31n1596_009:0314a19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中鏡智者。",
+        "translation": "In this context, mirror cognition is knowledge of what should be known.",
+        "source": "T31n1596_009:0314a20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所應知法雖不現前。",
+        "translation": "Although the knowable dharmas aren't directly present, they aren't forgotten like well-established worldly habits.",
+        "source": "T31n1596_009:0314a20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無忘失如世間善習經書故。",
+        "translation": "He's not forgetful, just like the world when he's well-versed in the sūtras and books.",
+        "source": "T31n1596_009:0314a21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "平等智者於通達時。",
+        "translation": "When he comprehends it, he has the knowledge of equality.",
+        "source": "T31n1596_009:0314a21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切眾生。",
+        "translation": "He attains equality of mind in all sentient beings.",
+        "source": "T31n1596_009:0314a22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得平等心。",
+        "translation": "He attains an equal mind.",
+        "source": "T31n1596_009:0314a22_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即是淨心。",
+        "translation": "This is called a pure mind.",
+        "source": "T31n1596_009:0314a22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知正觀智者。",
+        "translation": "You should know that someone who correctly observes cognition.",
+        "source": "T31n1596_009:0314a23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如典庫者。",
+        "translation": "He's like the treasurer of scriptures.",
+        "source": "T31n1596_009:0314a23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於陀羅尼三摩提門。",
+        "translation": "At the dhāraṇī samādhi gate.",
+        "source": "T31n1596_009:0314a23_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨於何時何法作意思惟。",
+        "translation": "He focuses his mind according to when and what teaching he's working on.",
+        "source": "T31n1596_009:0314a24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼中智行無礙故。",
+        "translation": "In that, the knowledge and practice are unimpeded.",
+        "source": "T31n1596_009:0314a24_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作所應作智者謂顯示如從兜率陀乃至涅槃。",
+        "translation": "The knowledge of doing what should be done means showing things like going from tuṣita to nirvāṇa.",
+        "source": "T31n1596_009:0314a25_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中顯現佛事。",
+        "translation": "In that, the Buddha's works are manifested.",
+        "source": "T31n1596_009:0314a26_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0314a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知法身為幾法所依止。",
+        "translation": "\"You should know how many things the Dharma body is based on.",
+        "source": "T31n1596_009:0314a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略說有三種。",
+        "translation": "There are three kinds, as briefly explained.",
+        "source": "T31n1596_009:0314a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一種種佛住依止。",
+        "translation": "One is the support of various buddha-abodes.",
+        "source": "T31n1596_009:0314a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中有二偈。",
+        "translation": "Here, there are two verses.",
+        "source": "T31n1596_009:0314a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　得受五種自體喜　　諸佛由證自界故　遠離五喜由不證　　是故為喜應須證　堪能事成無有量　　法味義利功德具　諸佛恒常見無盡　　故得歡喜最無嫌二種種受用身依止成熟諸菩薩故。",
+        "translation": "\"Attaining the five kinds of personal joy, the buddhas realize their own state and distance themselves from the five joys because they don't realize them. Therefore, these joys should be realized, capable of accomplishing immeasurable things, endowed with the flavor, meaning, and virtue of the Dharma, the buddhas are always seen to be inexhaustible, and therefore attaining joy is most unsurprising.",
+        "source": "T31n1596_009:0314a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三種種化身依止多為成熟諸聲聞等故。",
+        "translation": "Third, the various transformation bodies rely on many things to ripen śrāvakas and so forth.",
+        "source": "T31n1596_009:0314b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "He explained.",
+        "source": "T31n1596_009:0314b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知有幾法依止。",
+        "translation": "\"You should know how many ways there are to rely on.",
+        "source": "T31n1596_009:0314b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法身於中種種佛住依止者。",
+        "translation": "The Dharma body contains various kinds of buddha-abodes that are relied upon.",
+        "source": "T31n1596_009:0314b06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種謂聖住天住梵住等諸住所依止故。",
+        "translation": "They are variously referred to as the noble abodes, heavenly abodes, and Brahmā abodes, and so on, because they are the supports of various abodes.",
+        "source": "T31n1596_009:0314b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有人作是念。",
+        "translation": "Some people may think.",
+        "source": "T31n1596_009:0314b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸佛何須現化身。",
+        "translation": "'Why do the buddhas need to present transformation bodies?'",
+        "source": "T31n1596_009:0314b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以諸聲聞不證此故。",
+        "translation": "It's because the śrāvakas don't realize it.",
+        "source": "T31n1596_009:0314b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "離於五喜。",
+        "translation": "They're free of the five joys.",
+        "source": "T31n1596_009:0314b09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸聲聞等不能證此法身。",
+        "translation": "It means that śrāvakas can't realize the Dharma body.",
+        "source": "T31n1596_009:0314b09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則遠離五種歡喜。",
+        "translation": "Then they're far removed from the five kinds of joy.",
+        "source": "T31n1596_009:0314b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故為喜。",
+        "translation": "Therefore, they're joyous.",
+        "source": "T31n1596_009:0314b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應須證者。",
+        "translation": "Those who should realize it.",
+        "source": "T31n1596_009:0314b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂若欲求此歡喜取於證者。",
+        "translation": "It means that if someone wants to pursue this joy, they'll attain its realization.",
+        "source": "T31n1596_009:0314b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當勤修方便也。",
+        "translation": "He should diligently cultivate skillful means.",
+        "source": "T31n1596_009:0314b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此五種歡喜以第二偈顯示。",
+        "translation": "These five kinds of joy are shown in the second verse.",
+        "source": "T31n1596_009:0314b11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "堪能事成無有量。",
+        "translation": "They are capable of accomplishing an incalculable number of things.",
+        "source": "T31n1596_009:0314b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法味義利功德具者。",
+        "translation": "They are endowed with the flavor, meaning, and merit of the Dharma.",
+        "source": "T31n1596_009:0314b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中法身有堪能無量故。",
+        "translation": "Because the Dharma body in it is capable of measurelessness ...",
+        "source": "T31n1596_009:0314b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量人得正覺者。",
+        "translation": "Measureless people attain right awakening.",
+        "source": "T31n1596_009:0314b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆悉堪能平等應知。",
+        "translation": "They are all capable and should be understood equally.",
+        "source": "T31n1596_009:0314b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由得見此堪能無量故生於歡喜。",
+        "translation": "Because they can see this capability, it's immeasurable and gives rise to rejoicing.",
+        "source": "T31n1596_009:0314b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及事成亦無量者。",
+        "translation": "Those whose works are accomplished are also immeasurable.",
+        "source": "T31n1596_009:0314b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若一佛作眾生利益事。",
+        "translation": "If one Buddha does something to benefit sentient beings, that's the work of all the buddhas.",
+        "source": "T31n1596_009:0314b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是一切佛事。",
+        "translation": "That is, it's the work of all the buddhas.",
+        "source": "T31n1596_009:0314b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由諸佛多故事亦無量。",
+        "translation": "Because there are so many buddhas, their stories are also immeasurable.",
+        "source": "T31n1596_009:0314b17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由見此故生於歡喜。",
+        "translation": "Seeing this gives rise to rejoicing.",
+        "source": "T31n1596_009:0314b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法味者由見了修多羅祇夜等十二部經法故。",
+        "translation": "The taste of the Dharma comes from seeing the twelve scriptures and Dharma of Sutra of the Thirty-three Celestials.",
+        "source": "T31n1596_009:0314b18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生勝歡喜。",
+        "translation": "It gives rise to overjoyed joy.",
+        "source": "T31n1596_009:0314b19_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義利功德具者。",
+        "translation": "'Qualified in terms of meaning and benefit and merit.'",
+        "source": "T31n1596_009:0314b19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂財利具成及功德具成。",
+        "translation": "It refers to the completion of wealth and profit and the completion of merit.",
+        "source": "T31n1596_009:0314b19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中財利具成者。",
+        "translation": "Among them, 'fully endowed with wealth and profit' refers to someone who attains them at the moment of contemplation.",
+        "source": "T31n1596_009:0314b20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隨所思念即得具足應知。",
+        "translation": "It means that whatever you think about, it's fully acquired and should be known.",
+        "source": "T31n1596_009:0314b20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "功德具成者。",
+        "translation": "'Accomplished in terms of merit' means the ten powers and eighteen distinctive qualities are accomplished.",
+        "source": "T31n1596_009:0314b21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂十力十八不共法等具成應知也。",
+        "translation": "It refers to the full accomplishment of the ten powers and 18 distinctive qualities that should be known.",
+        "source": "T31n1596_009:0314b21_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故得歡喜最無失者。",
+        "translation": "\"Therefore, he'll attain the greatest joy without loss.",
+        "source": "T31n1596_009:0314b22_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "最者過三界歡喜故。",
+        "translation": "Most is because it's more joyous than the three realms.",
+        "source": "T31n1596_009:0314b23_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無失者及習氣煩惱滅故。",
+        "translation": "Being without loss, it's because the afflictions and karmic impressions cease.",
+        "source": "T31n1596_009:0314b23_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知諸佛恒常見無盡者。",
+        "translation": "You should know that the buddhas' vision of permanence is inexhaustible.",
+        "source": "T31n1596_009:0314b24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見此次前所說四種歡喜。",
+        "translation": "They see the four kinds of joy described earlier in this teaching.",
+        "source": "T31n1596_009:0314b24_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至窮生死後際無有滅盡。",
+        "translation": "They don't reach the end of birth-and-death without cessation.",
+        "source": "T31n1596_009:0314b25_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖入無餘涅槃亦無盡。",
+        "translation": "Even though they enter nirvāṇa without remainder, there's no end to them.",
+        "source": "T31n1596_009:0314b25_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故諸佛別得最勝歡喜。",
+        "translation": "Therefore, the buddhas are individually endowed with the most excellent joy.",
+        "source": "T31n1596_009:0314b26_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非餘聲聞。",
+        "translation": "They are not like the other śrāvakas.",
+        "source": "T31n1596_009:0314b27_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法身亦為受用身所依止。",
+        "translation": "The Dharma body is also the basis for the enjoyment body.",
+        "source": "T31n1596_009:0314b27_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何因緣得成受用身依止。",
+        "translation": "What are the causes and conditions that make it a basis for the body that's used?",
+        "source": "T31n1596_009:0314b27_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若離此入地已上諸菩薩不得成熟。",
+        "translation": "If bodhisattvas beyond this point of entry into the [bodhisattva] ground aren't allowed to mature, then they'll also be the basis for the transformation body.",
+        "source": "T31n1596_009:0314b28_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦為化身所依止。",
+        "translation": "They're also the basis for the transformation body.",
+        "source": "T31n1596_009:0314b29_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何因緣得成化身依止。",
+        "translation": "What are the causes and conditions that make it possible to support the transformation body?",
+        "source": "T31n1596_009:0314b29_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多為成熟諸聲聞故由下願樂諸聲聞等。",
+        "translation": "It's mostly for the purpose of ripening śrāvakas, and it's because of the following vows that they'll enjoy śrāvakas and so forth.",
+        "source": "T31n1596_009:0314c01_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若離此不得成熟故。",
+        "translation": "If they part with this, they won't be able to ripen.",
+        "source": "T31n1596_009:0314c02_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言多為者亦攝信行地諸菩薩應知。",
+        "translation": "The expression 'many for the sake of' also includes bodhisattvas in the stage of faith and practice, as they should know.",
+        "source": "T31n1596_009:0314c02_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T31n1596_009:0314c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知有幾佛法攝法身。",
+        "translation": "\"Should you know how many buddha-teachings comprise the Dharma body?",
+        "source": "T31n1596_009:0314c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略說有六種。",
+        "translation": "There are six kinds, as briefly explained.",
+        "source": "T31n1596_009:0314c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一清淨攝阿梨耶識轉已。",
+        "translation": "One is purely collected after the transformation of the store consciousness.",
+        "source": "T31n1596_009:0314c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得此法身故。",
+        "translation": "It's because he attained this Dharma body.",
+        "source": "T31n1596_009:0314c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二果報攝。",
+        "translation": "Two, it's the result that's gathered in.",
+        "source": "T31n1596_009:0314c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色根轉已得果報智故。",
+        "translation": "After transforming the form faculty, he attains knowledge of the fruit of fruition.",
+        "source": "T31n1596_009:0314c06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三樂攝轉欲行等樂已得無量智樂故。",
+        "translation": "Three pleasures are gathered in because they've developed desires, actions, and other pleasures and attained immeasurable knowledge of their pleasures.",
+        "source": "T31n1596_009:0314c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四自在攝。",
+        "translation": "The fourth is the gathering in of self-sovereignty.",
+        "source": "T31n1596_009:0314c07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種業所攝自在轉已得一切世界無礙神通智自在故。",
+        "translation": "It's because he has acquired the knowledge of the unhindered supernormal powers of all the worlds after freely transforming the activities that are included in various kinds of karma.",
+        "source": "T31n1596_009:0314c07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五世流布攝。",
+        "translation": "The fifth worldly diffusion is collected.",
+        "source": "T31n1596_009:0314c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切見聞覺。",
+        "translation": "All seeing, hearing, and awakening [beings].",
+        "source": "T31n1596_009:0314c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知世流布言說轉已得令一切眾生心喜正說智自在。",
+        "translation": "After knowledge of the world's dissemination, speech, and transformation, they attain the knowledge of making all sentient beings' hearts happy and correct in what's said.",
+        "source": "T31n1596_009:0314c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故六拔濟攝。",
+        "translation": "Therefore, the sixth category of deliverance includes.",
+        "source": "T31n1596_009:0314c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "拔濟一切災橫過失轉已得拔濟一切眾生災橫過失智故。",
+        "translation": "After rescuing all calamities and transgressions and turning, they'll attain the knowledge of rescuing all sentient beings from calamities and transgressions.",
+        "source": "T31n1596_009:0314c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此等六種佛法。",
+        "translation": "These are the six kinds of Buddhist teachings.",
+        "source": "T31n1596_009:0314c12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝取諸佛法身。",
+        "translation": "They collect the Dharma bodies of the buddhas.",
+        "source": "T31n1596_009:0314c12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋曰。",
+        "translation": "The explanation says.",
+        "source": "T31n1596_009:0314c13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有法能攝法身。",
+        "translation": "\"If there's a Dharma that can collect the Dharma body.",
+        "source": "T31n1596_009:0314c13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今當顯示。",
+        "translation": "Now you will show it.",
+        "source": "T31n1596_009:0314c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "轉何法故得此法身。",
+        "translation": "\"What teaching has transformed to obtain this Dharma body?",
+        "source": "T31n1596_009:0314c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿梨耶識轉已得法身故者。",
+        "translation": "It's because the Dharma body has been attained after the transformation of the store consciousness.",
+        "source": "T31n1596_009:0314c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂得法身及清淨故。",
+        "translation": "It means it's because the Dharma body has been attained and is purified.",
+        "source": "T31n1596_009:0314c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此法身清淨。",
+        "translation": "This Dharma body is pure.",
+        "source": "T31n1596_009:0314c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名清淨攝。",
+        "translation": "It's called being included in purity.",
+        "source": "T31n1596_009:0314c15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "果報攝者即是果報所攝佛法。",
+        "translation": "\"Consequence-contained\" means it's the Buddha-dharma that's included in the result.",
+        "source": "T31n1596_009:0314c16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色根轉者。",
+        "translation": "'Transformation of the form faculties'?",
+        "source": "T31n1596_009:0314c16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼等色根轉故。",
+        "translation": "It's the transformation of the form faculties like the eye.",
+        "source": "T31n1596_009:0314c17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得果報智者。",
+        "translation": "'Acquired knowledge of the results of form ...'",
+        "source": "T31n1596_009:0314c17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂轉彼色根得果報智故。",
+        "translation": "It's the transformation of those form faculties that results in knowledge of the rewards of form.",
+        "source": "T31n1596_009:0314c17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂攝中欲行等樂轉者。",
+        "translation": "\"This is the transformation of desires, actions, and other pleasures that are included in pleasure.",
+        "source": "T31n1596_009:0314c18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂世間欲行轉已得佛法樂故。",
+        "translation": "It's because worldly desires and actions are transformed and the happiness of the Buddha's teaching is attained.",
+        "source": "T31n1596_009:0314c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無量智故者。",
+        "translation": "It's because he has attained immeasurable knowledge.",
+        "source": "T31n1596_009:0314c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是遊於種種樂故。",
+        "translation": "It's because he travels around to various pleasures.",
+        "source": "T31n1596_009:0314c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自在攝中種種攝業轉者。",
+        "translation": "\"The turning of various collected karmas in self-contained refers to the turning of various worldly desires and practices to attain the happiness of the Buddha's teachings.",
+        "source": "T31n1596_009:0314c20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如世間種種業。",
+        "translation": "It's like the various worldly activities.",
+        "source": "T31n1596_009:0314c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂田作興生等。",
+        "translation": "It's called creating fields, producing life, and so forth.",
+        "source": "T31n1596_009:0314c21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "轉此已得於一切世界中無障礙神通智故。",
+        "translation": "After transforming them, he attains unobstructed supernormal cognition in all the worlds.",
+        "source": "T31n1596_009:0314c21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世流布攝者。",
+        "translation": "'Collection of worldly expressions' means the worldly perspective of seeing, hearing, perceiving, and knowing.",
+        "source": "T31n1596_009:0314c22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂世間見聞覺知等流布轉已。",
+        "translation": "It refers to the worldly dissemination of views, hearing, perceptions, and so forth.",
+        "source": "T31n1596_009:0314c23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見聞等中得自在。",
+        "translation": "He attains mastery in views and sounds.",
+        "source": "T31n1596_009:0314c23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由得歡悅一切眾生智故。",
+        "translation": "This is because they've attained the knowledge of rejoicing in all sentient beings.",
+        "source": "T31n1596_009:0314c24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "拔濟攝者。",
+        "translation": "\"Suppressing and saving\" refers to those who are included.",
+        "source": "T31n1596_009:0314c24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如世間王法苦惱事起。",
+        "translation": "It's when worldly afflictions arise from the king's laws.",
+        "source": "T31n1596_009:0314c25_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或以親友力財物力而得拔濟。",
+        "translation": "Sometimes they're rescued by the power of friends and relatives, or by the power of possessions.",
+        "source": "T31n1596_009:0314c25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "轉此已得拔濟一切眾生一切苦惱智。",
+        "translation": "After turning to this, he attains the knowledge of rescuing all sentient beings from all their afflictions.",
+        "source": "T31n1596_009:0314c26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此拔濟智離一切過失故。",
+        "translation": "This knowledge of plucking and rescuing is free of all faults.",
+        "source": "T31n1596_009:0314c27_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝大乘論釋論卷第九",
+        "translation": "Commentary on the Compendium of the Great Vehicle, Volume 9",
+        "source": "T31n1596_009:0314c28_0",
+        "is_bad_quality": false
+    }
+]

@@ -1,0 +1,2318 @@
+[
+    {
+        "source_sentence": "阿毘達磨品類足論卷第三",
+        "translation": "Abhidharma-prakaraṇapāda-śāstra, Vol. 3",
+        "source": "T26n1542_003:0700a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者世友造",
+        "translation": "created by Venerable Layman",
+        "source": "T26n1542_003:0700a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T26n1542_003:0700a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "辯七事品第四之餘",
+        "translation": "the fourth and final class of the debate on the seven matters",
+        "source": "T26n1542_003:0700a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信云何？",
+        "translation": "What is faith?",
+        "source": "T26n1542_003:0700a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂信性增上信性、忍可欲作、欲為欲造、心澄淨性，是名為信。",
+        "translation": "This is called faithfulness, which is characterized by an increasing faithfulness, tolerating desires that can be created, desires that are created for desires, and mental clarity.",
+        "source": "T26n1542_003:0700a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勤云何？",
+        "translation": "What is diligence?",
+        "source": "T26n1542_003:0700a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂勤精進、勇健勢猛、熾盛難制、勵意不息、心勇悍性，是名勤。",
+        "translation": "This is called diligence, which is vigorous and energetic, bold and vigorous, difficult to control, unrelenting in its motivation, and courageous in nature.",
+        "source": "T26n1542_003:0700a08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慚云何？",
+        "translation": "What's the conscience?",
+        "source": "T26n1542_003:0700a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂慚等慚各別慚、羞等羞各別羞、厭等厭各別厭、毀等毀各別毀，有尊有敬、有所自在、有自在轉、有所畏忌、不自在行，是名為慚。",
+        "translation": "This is called conscience when there's a sense of conscience and so forth, shame and so forth, shame and so forth, loathing and so forth, loathing and so forth, and disparagement and so forth, with respect and reverence, some ease, some freedom to change, some fear, and some unsteady conduct.",
+        "source": "T26n1542_003:0700a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "愧云何？",
+        "translation": "What's shame?",
+        "source": "T26n1542_003:0700a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂愧等愧各別愧、恥等恥各別恥、厭等厭各別厭、毀等毀各別毀，怖罪懼罪、於罪見怖，是名為愧。",
+        "translation": "This is called modesty when there's a difference between modesty and modesty, shame and shame, disgust and disgust, disgust and disparagement, fear of sin and fear of the view of sin.",
+        "source": "T26n1542_003:0700a13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無貪云何？",
+        "translation": "What's the absence of craving?",
+        "source": "T26n1542_003:0700a15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有心所與心相應能對治貪，是名無貪。",
+        "translation": "When there are mental objects associated with the mind that counteract craving, this is called the absence of craving.",
+        "source": "T26n1542_003:0700a15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無瞋云何？",
+        "translation": "What does the absence of anger mean?",
+        "source": "T26n1542_003:0700a16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有心所與心相應能對治瞋，是名無瞋。",
+        "translation": "When there's a mental object that's associated with the mind and can counteract anger, this is called the absence of anger.",
+        "source": "T26n1542_003:0700a17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "輕安云何？",
+        "translation": "How is it peaceful?",
+        "source": "T26n1542_003:0700a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂身輕安、心輕安，已輕安、輕安類，是名輕安。",
+        "translation": "To be at ease with the body, at ease with the mind, at ease with what has happened, and at ease with these kinds of things is called being at ease.",
+        "source": "T26n1542_003:0700a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨云何？",
+        "translation": "What's equanimity?",
+        "source": "T26n1542_003:0700a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂身平等心平等、身正直心正直、無警覺寂靜住，是名為捨。",
+        "translation": "Equality of body and mind, uprightness of body and mind, and the calm abiding without alertness are called equanimity.",
+        "source": "T26n1542_003:0700a19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不放逸云何？",
+        "translation": "What's non-carelessness?",
+        "source": "T26n1542_003:0700a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於斷惡法具足善法中，堅作常作修習不捨，名不放逸。",
+        "translation": "When someone stops bad qualities and perfects good qualities, resolutely and consistently cultivates them without abandoning them, that's called non-carelessness.",
+        "source": "T26n1542_003:0700a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不害云何？",
+        "translation": "What's non-harming?",
+        "source": "T26n1542_003:0700a22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於有情不毀不損、不傷不害、不惱不觸、不令墮苦，是名不害。",
+        "translation": "For a sentient being not to be damaged or harmed, not to be injured or hurt, not to be distressed or touched, and not to be made to suffer is called not harming.",
+        "source": "T26n1542_003:0700a22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不信云何？",
+        "translation": "What's the point of not believing?",
+        "source": "T26n1542_003:0700a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不信不信性增上不信性、不忍、不可、不欲作、不欲為、不欲造，心不澄淨性，是名不信。",
+        "translation": "Disbelief is called the nature of disbelief that's increased by disbelief, intolerance, unacceptability, a desire not to do, a desire not to act, a desire not to create, and a lack of mental clarity.",
+        "source": "T26n1542_003:0700a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "懈怠云何？",
+        "translation": "What's laziness?",
+        "source": "T26n1542_003:0700a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂下劣精進、微弱精進、羸惙精進、退怯精進、憩息精進，心不勇悍性，是名懈怠。",
+        "translation": "This is called laziness, which is inferior effort, weak effort, feeble effort, retrogressive effort, restless effort, and a mind that's not courageous.",
+        "source": "T26n1542_003:0700a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "失念云何？",
+        "translation": "What's a loss of mindfulness?",
+        "source": "T26n1542_003:0700a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂虛念空念、忘念失念，心外念性，是名失念。",
+        "translation": "Void mindfulness, empty mindfulness, forgetfulness, and loss of mindfulness are called loss of mindfulness when the mind is not mindful of the nature.",
+        "source": "T26n1542_003:0700a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心亂云何？",
+        "translation": "What's the confusion in the mind?",
+        "source": "T26n1542_003:0700b01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心亂心散、心流轉心飄蕩、心不一趣不住一緣，是名心亂。",
+        "translation": "A mind that's disturbed and distracted, a mind that's in flux and wandering, and a mind that doesn't share the same destination and doesn't abide in the same condition is called a mind in turmoil.",
+        "source": "T26n1542_003:0700b01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無明云何？",
+        "translation": "What does nescience mean?",
+        "source": "T26n1542_003:0700b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂三界無知性。",
+        "translation": "The three realms are described as nondiscursive.",
+        "source": "T26n1542_003:0700b03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不正知云何？",
+        "translation": "What is incorrect cognition?",
+        "source": "T26n1542_003:0700b03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂非理所引慧。",
+        "translation": "It's wisdom that's not induced by principle.",
+        "source": "T26n1542_003:0700b03_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非理作意云何？",
+        "translation": "What is wisdom that's not based on principle?",
+        "source": "T26n1542_003:0700b04_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂染污作意。",
+        "translation": "It's called defiled contemplation.",
+        "source": "T26n1542_003:0700b04_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "邪勝解云何？",
+        "translation": "What is wrong and superior understanding?",
+        "source": "T26n1542_003:0700b04_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂染污作意相應心，正勝解已勝解當勝解，是名邪勝解。",
+        "translation": "The mind associated with defiled contemplation, which is called wrong resolve after right resolve has been resolved and should be resolved.",
+        "source": "T26n1542_003:0700b05_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "掉舉云何？",
+        "translation": "What's agitation?",
+        "source": "T26n1542_003:0700b06_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心不寂靜、心不憺怕、心不寧謐掉動飄舉，心躁擾性，是名掉舉。",
+        "translation": "When the mind isn't calm, the mind isn't afraid, the mind isn't tranquil, agitated, and agitated, this is called debauchery.",
+        "source": "T26n1542_003:0700b06_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "放逸云何？",
+        "translation": "What's dissipation?",
+        "source": "T26n1542_003:0700b08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於斷惡法具足善法中，不修不習不別修習、不堅作不常作，不勤修習性，是名放逸。",
+        "translation": "When someone stops bad qualities and perfects good qualities, not cultivating or accumulating them, not cultivating them separately, not working resolutely or constantly, and not diligently cultivating their disposition is called negligence.",
+        "source": "T26n1542_003:0700b08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "忿云何？",
+        "translation": "What's anger?",
+        "source": "T26n1542_003:0700b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂忿等忿、遍忿極忿、已正當忿，是名為忿。",
+        "translation": "This is called anger that's equal to anger, pervasive anger that's extreme, and anger that's rightly justified.",
+        "source": "T26n1542_003:0700b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恨云何？",
+        "translation": "What's hate?",
+        "source": "T26n1542_003:0700b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心結怨、已正當恨，是名為恨。",
+        "translation": "To say that one's mind is hostile and has rightly formed a grudge is called hatred.",
+        "source": "T26n1542_003:0700b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "覆云何？",
+        "translation": "What does it mean when it's covered?",
+        "source": "T26n1542_003:0700b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂隱藏自罪。",
+        "translation": "It's called concealing one's own faults.",
+        "source": "T26n1542_003:0700b13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惱云何？",
+        "translation": "What's the problem?",
+        "source": "T26n1542_003:0700b13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心佷悷、已正當惱，是名為惱。",
+        "translation": "To be resentful and to have been rightly vexed is called vexation.",
+        "source": "T26n1542_003:0700b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嫉云何？",
+        "translation": "What's jealousy?",
+        "source": "T26n1542_003:0700b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心妬忌。",
+        "translation": "It's called being jealous of the mind.",
+        "source": "T26n1542_003:0700b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慳云何？",
+        "translation": "What's stinginess?",
+        "source": "T26n1542_003:0700b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心鄙悋。",
+        "translation": "It's called having a despicable mind and being stingy.",
+        "source": "T26n1542_003:0700b15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誑云何？",
+        "translation": "What is deception?",
+        "source": "T26n1542_003:0700b15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂幻惑他。",
+        "translation": "It's called deceiving others by illusion.",
+        "source": "T26n1542_003:0700b15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諂云何？",
+        "translation": "What's the deceit?",
+        "source": "T26n1542_003:0700b15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心矯曲。",
+        "translation": "It's called a contorted mind.",
+        "source": "T26n1542_003:0700b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "憍云何？",
+        "translation": "What's arrogance?",
+        "source": "T26n1542_003:0700b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂憍醉極憍醉、迷悶極迷悶、慢緩極慢緩，心傲誕性，是名為憍。",
+        "translation": "This is called arrogance, which is defined as being intoxicated and extremely intoxicated, confused and extremely confused, slow and extremely slow, and having a proud and arrogant mind.",
+        "source": "T26n1542_003:0700b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "害云何？",
+        "translation": "What's the harm?",
+        "source": "T26n1542_003:0700b17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於有情能為毀損傷害惱觸，逼令墮苦，是名為害。",
+        "translation": "It's called harming sentient beings by damaging, hurting, and contacting them, and forcing them to fall into suffering.",
+        "source": "T26n1542_003:0700b18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲貪云何？",
+        "translation": "What does desire and craving mean?",
+        "source": "T26n1542_003:0700b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於諸欲起貪等貪，執藏防護、耽著愛樂，是名欲貪。",
+        "translation": "Desiring desires, such as craving, appropriating and guarding them, and clinging to craving and enjoyment are called desire cravings.",
+        "source": "T26n1542_003:0700b19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色貪云何？",
+        "translation": "What about desire for form?",
+        "source": "T26n1542_003:0700b20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於諸色起貪等貪，執藏防護、耽著愛樂，是名色貪。",
+        "translation": "To become greedy for form and so forth, to cling to protection, and to be addicted to pleasure is called form greed.",
+        "source": "T26n1542_003:0700b20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無色貪云何？",
+        "translation": "What's formless greed?",
+        "source": "T26n1542_003:0700b22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於無色起貪等貪，執藏防護、耽著愛樂，是名無色貪。",
+        "translation": "This is called formless greed, which is the kind of greed that arises when you cling to formlessness, protect it, and become addicted to its pleasures.",
+        "source": "T26n1542_003:0700b22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "瞋云何？",
+        "translation": "What's anger?",
+        "source": "T26n1542_003:0700b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於有情心懷憤恚，根裁對礙、憎怒凶悖、猛烈暴惡、已正當瞋，是名為瞋。",
+        "translation": "When a sentient being's mind is angry, its faculties are discriminated against, it's hateful and violent, and it's right to be angry, which is called anger.",
+        "source": "T26n1542_003:0700b23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "疑云何？",
+        "translation": "What's the doubt?",
+        "source": "T26n1542_003:0700b25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於諦猶豫。",
+        "translation": "It's called hesitation in regard to the truths.",
+        "source": "T26n1542_003:0700b25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有對觸云何？",
+        "translation": "What is the contact that exists?",
+        "source": "T26n1542_003:0700b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂五識身相應觸。",
+        "translation": "It's contact associated with the five bodily consciousnesses.",
+        "source": "T26n1542_003:0700b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增語觸云何？",
+        "translation": "What is verbal contact that's enhanced?",
+        "source": "T26n1542_003:0700b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂意識身相應觸。",
+        "translation": "It's contact associated with the body of consciousness.",
+        "source": "T26n1542_003:0700b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明觸云何？",
+        "translation": "What is the clarifying contact?",
+        "source": "T26n1542_003:0700b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無漏觸。",
+        "translation": "It's called uncontaminated contact.",
+        "source": "T26n1542_003:0700b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無明觸云何？",
+        "translation": "What is nescient contact?",
+        "source": "T26n1542_003:0700b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂染污觸。",
+        "translation": "It's called defiled contact.",
+        "source": "T26n1542_003:0700b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非明非無明觸云何？",
+        "translation": "What's contact that's neither light nor nescience?",
+        "source": "T26n1542_003:0700b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不染污有漏觸。",
+        "translation": "It's called undefiled contaminated contact.",
+        "source": "T26n1542_003:0700b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有身見云何？",
+        "translation": "What's the view that there's a body?",
+        "source": "T26n1542_003:0700c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於五取蘊等隨觀執我或我所，由此起忍樂慧觀見，是名有身見。",
+        "translation": "To observe the five appropriated aggregates and so forth and then attach to self or what belongs to self, and thus give rise to the wisdom perspective of tolerating pleasure is called the perspective of having a body.",
+        "source": "T26n1542_003:0700c01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "邊執見云何？",
+        "translation": "What is the view of attachment to the extremes?",
+        "source": "T26n1542_003:0700c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於五取蘊等隨觀執或斷或常，由此起忍樂慧觀見，是名邊執見。",
+        "translation": "The view that follows the contemplation that the five appropriated aggregates and so forth are either stopped or permanent, and this gives rise to the wisdom perspective of tolerating them, is called the view of extreme attachment.",
+        "source": "T26n1542_003:0700c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "邪見云何？",
+        "translation": "What is this mistaken view?",
+        "source": "T26n1542_003:0700c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂謗因謗果、或謗作用、或壞實事，由此起忍樂慧觀見，是名邪見。",
+        "translation": "To denigrate causes and denigrate effects, denigrate actions, or destroy real things, and thus give rise to the view of tolerant joy and wisdom is called wrong view.",
+        "source": "T26n1542_003:0700c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見取云何？",
+        "translation": "What does attachment to views mean?",
+        "source": "T26n1542_003:0700c06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於五取蘊等隨觀執為最為勝、為上為極，由此起忍樂慧觀見，是名見取。",
+        "translation": "The contemplation that follows the attachment to the five appropriated aggregates as the most superior, the highest, and the ultimate, and that gives rise to the contemplation of the wisdom of tolerating pleasure, is called the grasping of views.",
+        "source": "T26n1542_003:0700c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "戒禁取云何？",
+        "translation": "What is grasping to the precepts and prohibitions?",
+        "source": "T26n1542_003:0700c08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於五取蘊等隨觀執為能清淨、為能解脫、為能出離，由此起忍樂慧觀見，是名戒禁取。",
+        "translation": "The contemplation that follows the attachment to the five appropriated aggregates as something that can be purified, something that can be liberated, and something that can be escaped from, and that gives rise to the wise observation of tolerance and happiness, is called the appropriation of precepts.",
+        "source": "T26n1542_003:0700c08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂根云何？",
+        "translation": "What are the faculties of pleasure?",
+        "source": "T26n1542_003:0700c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂順樂受觸所觸時，所起身樂心樂平等受，受所攝，是名樂根。",
+        "translation": "When they are touched in response to pleasant sensations, the body, mind, and feelings that arise are pleasant and equal, and they are included in the sensations, which are called the pleasant faculty.",
+        "source": "T26n1542_003:0700c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苦根云何？",
+        "translation": "What are the painful faculties?",
+        "source": "T26n1542_003:0700c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂順苦受觸所觸時，所起身苦不平等受，受所攝，是名苦根。",
+        "translation": "When contact is experienced as painful, the body that arises when it's touched is painfully unequal, and that feeling is included, which is called the root of suffering.",
+        "source": "T26n1542_003:0700c12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喜根云何？",
+        "translation": "What's the joy faculty?",
+        "source": "T26n1542_003:0700c14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂順喜受觸所觸時，所起心喜平等受，受所攝，是名喜根。",
+        "translation": "When you touch something that's received with joy, the mind that arises from that touch is satisfied with the feeling of equality, and that feeling is included, which is called the joy faculty.",
+        "source": "T26n1542_003:0700c14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "憂根云何？",
+        "translation": "What's the grief faculty?",
+        "source": "T26n1542_003:0700c15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂順憂受觸所觸時，所起心憂不平等受，受所攝，是名憂根。",
+        "translation": "When contact is experienced as a response to grief, the grief that arises in the mind is unequal to the sensation that's included in the sensation, which is called the grief root.",
+        "source": "T26n1542_003:0700c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨根云何？",
+        "translation": "What's the faculty of equanimity?",
+        "source": "T26n1542_003:0700c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂順捨受觸所觸時，所起身捨心捨非平等非不平等受，受所攝，是名捨根。",
+        "translation": "When he follows the sensation of equanimity and touches what is touched, the body that arises from equanimity and the mind that equanimizes feelings that are not equal or unequal is called the faculty of equanimity.",
+        "source": "T26n1542_003:0700c17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尋云何？",
+        "translation": "What does the inquiry mean?",
+        "source": "T26n1542_003:0700c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心尋求遍尋求、搆度極搆度現前搆度、推究追尋極思惟思惟性，令心麁動，是名為尋。",
+        "translation": "The mind seeking, pervasively seeking, intensely intensely intensely intensely intensely present, and inquiring into and pursuing intensely thoughtful contemplation, which causes the mind to be disturbed, is called seeking.",
+        "source": "T26n1542_003:0700c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "伺云何？",
+        "translation": "What is discursive?",
+        "source": "T26n1542_003:0700c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂心伺察遍伺察隨遍伺察、隨轉隨流隨屬於尋，令心細動，是名為伺。",
+        "translation": "This is called the mind's scrutiny, which examines, fully examines, follows universal scrutiny, and follows the streams and subordinates itself to discursive thought, causing the mind to move subtly.",
+        "source": "T26n1542_003:0700c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識云何？",
+        "translation": "What does consciousness mean?",
+        "source": "T26n1542_003:0700c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂六識身，即眼識乃至意識。",
+        "translation": "It's the body of the six consciousnesses, which are the visual consciousness and up to the consciousness.",
+        "source": "T26n1542_003:0700c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無慚云何？",
+        "translation": "What's lack of conscience?",
+        "source": "T26n1542_003:0700c24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不慚不等慚不各別慚、不羞不等羞不各別羞、不厭不等厭不各別厭、不毀不等毀不各別毀，無尊無敬、無所自在、無自在轉、無所畏忌自在而行，是名無慚。",
+        "translation": "Being unconscientious, unequally conscientious, and not separately conscientious, unashamed, unequally ashamed, and not separately ashamed, unwearying, unequally disgusted, and not separately disgusted, and not disparaging, unequally disparaging, and not separately disparaging, and having no respect or veneration, no independence, no unrestrained movement, and no fear to act freely is called lacking conscience.",
+        "source": "T26n1542_003:0700c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無愧云何？",
+        "translation": "What's lack of conscience?",
+        "source": "T26n1542_003:0700c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不愧不等愧不各別愧、不恥不等恥不各別恥、不厭不等厭不各別厭、不毀不等毀不各別毀，不怖罪不懼罪於罪不見怖，是名無愧。",
+        "translation": "Not being ashamed and not equally ashamed and not separately ashamed, not being ashamed and not equally ashamed and not separately ashamed, not being disgusted and not equally disgusted and not separately disgusted, not being disparaged and not separately disparaged, and not being afraid of sins and not fearing sins and not seeing fear in sins is called having no shame.",
+        "source": "T26n1542_003:0700c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼識云何？",
+        "translation": "What about the visual consciousness?",
+        "source": "T26n1542_003:0701a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼及色為緣生眼識。",
+        "translation": "\"The eye and form are the conditions for the arising of the eye consciousness.",
+        "source": "T26n1542_003:0701a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是眼為增上、色為所緣，於眼所識色諸已正當了別，是名眼識。",
+        "translation": "Thus, when the eye is the superior and form is the object, the forms that are conscious by the eye are correctly discerned; this is called the eye consciousness.",
+        "source": "T26n1542_003:0701a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、舌、身、意識亦爾。",
+        "translation": "The same goes for the ear, nose, tongue, body, and consciousness.",
+        "source": "T26n1542_003:0701a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸云何？",
+        "translation": "What about visual contact?",
+        "source": "T26n1542_003:0701a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼及色為緣生眼識，三和合故觸。",
+        "translation": "The eye and form are the conditions for giving rise to the eye consciousness, and the union of the three results in contact.",
+        "source": "T26n1542_003:0701a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是眼為增上、色為所緣，於眼所識色，諸觸等觸、觸性等觸性、已觸、觸類，是名眼觸。",
+        "translation": "Thus, with the eye as the superior and form as the perceptual object, the form that's conscious by the eye, tactile equipoise, tactile nature, equipoise, past tactile, and tactile type are called eye contact.",
+        "source": "T26n1542_003:0701a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、舌、身、意觸亦爾。",
+        "translation": "The same goes for contact of the ear, nose, tongue, body, and mind.",
+        "source": "T26n1542_003:0701a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸所生受云何？",
+        "translation": "What are the sensations produced by visual contact?",
+        "source": "T26n1542_003:0701a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼及色為緣生眼識，三和合故觸，觸為緣故受。",
+        "translation": "It means that the eye and form are the condition for giving rise to the eye consciousness, the union of the three causes contact, and contact is the condition for feeling.",
+        "source": "T26n1542_003:0701a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是眼為增上、色為所緣，眼觸為因為集為類為生，眼觸所生作意相應，於眼所識色，諸受等受各別等受、已受、受類，是名眼觸所生受。",
+        "translation": "Thus, when the eye is the superior, form is the perceptual object, eye contact is the cause, it's collected, it's of the same type, and it's associated with the contemplation produced by eye contact, which is called the sensation produced by eye contact, and the sensations such as those experienced by the form consciousnessed by the eye are each separately experienced, experienced, and of the same type.",
+        "source": "T26n1542_003:0701a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、舌、身、意觸所生受亦爾。",
+        "translation": "The same goes for sensations arising from ear, nose, tongue, body, and mind contact.",
+        "source": "T26n1542_003:0701a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸所生想云何？",
+        "translation": "What are the perceptions produced by eye contact?",
+        "source": "T26n1542_003:0701a14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼及色為緣生眼識，三和合故觸，觸為緣故想。",
+        "translation": "It means that the eye and form are the conditions for the arising of the eye consciousness, contact arises from the union of the three, and perception arises from contact as a condition.",
+        "source": "T26n1542_003:0701a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是眼為增上、色為所緣，眼觸為因為集為類為生，眼觸所生作意相應，於眼所識色，諸想等想增上等想、已想、想類，是名眼觸所生想。",
+        "translation": "Thus, when the eye is the superior, form is the perceptual object, eye contact is the cause, it's collected, it's of the same type, and it's associated with the contemplation produced by eye contact, which is called the perception produced by eye contact, and the perceptions of form, such as perceptions, superior perceptions, past perceptions, and perceived types.",
+        "source": "T26n1542_003:0701a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、舌、身、意觸所生想亦爾。",
+        "translation": "The same goes for perceptions arising from ear, nose, tongue, body, and mind contact.",
+        "source": "T26n1542_003:0701a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸所生思云何？",
+        "translation": "What about perceptions produced by eye contact?",
+        "source": "T26n1542_003:0701a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼及色為緣生眼識，三和合故觸，觸為緣故思。",
+        "translation": "It means that the eye and form are the conditions for the arising of the eye consciousness, contact results from the confluence of the three, and thought results from contact being the condition.",
+        "source": "T26n1542_003:0701a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是眼為增上、色為所緣，眼觸為因為集為類為生，眼觸所生作意相應，於眼所識色，諸思等思增上等思、已思、思類，心作意業，是名眼觸所生思。",
+        "translation": "Thus, when the eye is the superior, form is the perceptual object, eye-contact is the cause, it's the collection, the type, and the mental activity produced by eye-contact, which are associated with the form consciousnessed by the eye, such thoughts as those that are superior, such thoughts that have been thought, and such types of thoughts that are produced by the mind, are called thoughts produced by eye-contact.",
+        "source": "T26n1542_003:0701a21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、舌、身、意觸所生思亦爾。",
+        "translation": "Similarly, mind-made contemplations that arise from ear, nose, tongue, body, and mind contact.",
+        "source": "T26n1542_003:0701a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸所生愛云何？",
+        "translation": "What's the desire arising from visual contact?",
+        "source": "T26n1542_003:0701a25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂眼及色為緣生眼識，三和合故觸，觸為緣故愛。",
+        "translation": "It means that the eye and form are the condition for giving rise to the eye consciousness, the union of the three causes contact, and contact is the condition for craving.",
+        "source": "T26n1542_003:0701a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是眼為增上、色為所緣，於眼所識色，諸貪等貪，執藏防護耽著愛樂，是名眼觸所生愛。",
+        "translation": "Thus, when the eye is the superior and form is the perceptual object, the form of the visual consciousness and other desires, such as craving, are appropriated, guarded, and adored, which is called craving produced by visual contact.",
+        "source": "T26n1542_003:0701a26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "耳、鼻、舌、身、意觸所生愛亦爾。",
+        "translation": "Similarly, the desire arising from contact with the ear, nose, tongue, body, and mind.",
+        "source": "T26n1542_003:0701a28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界，幾界幾處幾蘊攝？",
+        "translation": "How many elements, how many places, and how many aggregates are included in the visual realm?",
+        "source": "T26n1542_003:0701b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界所攝法，幾界幾處幾蘊攝？",
+        "translation": "\"How many elements, how many locations, and how many aggregates are included in the dharmas included in the visual realm?",
+        "source": "T26n1542_003:0701b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界所不攝法，幾界幾處幾蘊攝？",
+        "translation": "How many realms, places, and aggregates are included in dharmas that are not included in the visual realm?",
+        "source": "T26n1542_003:0701b02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界所攝不攝法，幾界幾處幾蘊攝？",
+        "translation": "How many factors are included in the visual realm that are not included in the dharmas, and how many places and how many aggregates are included in the visual realm?",
+        "source": "T26n1542_003:0701b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除眼界所攝法餘法，幾界幾處幾蘊攝？",
+        "translation": "Other than the dharmas included in the visual realm, how many realms, how many places, and how many aggregates are included?",
+        "source": "T26n1542_003:0701b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除眼界所不攝法餘法，幾界幾處幾蘊攝？",
+        "translation": "How many realms, places, and aggregates are included in dharmas other than those not included in the visual realm?",
+        "source": "T26n1542_003:0701b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除眼界所攝不攝法餘法，幾界幾處幾蘊攝？",
+        "translation": "Other than the dharmas included in the visual realm that are not included, how many realms, how many places, and how many aggregates are included?",
+        "source": "T26n1542_003:0701b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至意觸所生愛，為問亦爾。",
+        "translation": "\"Even when there's craving arising from mental contact, why do you ask?",
+        "source": "T26n1542_003:0701b06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：眼界，一界一處一蘊攝，不攝十七界十一處五蘊。",
+        "translation": "A: The eye realm is comprised of one element, one location, and one aggregate, and it doesn't comprise the 17 elements, 11 locations, and five aggregates.",
+        "source": "T26n1542_003:0701b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界所攝法，一界一處一蘊攝，不攝十七界十一處五蘊。",
+        "translation": "What's included in the visual realm is included in one element, one location, and one aggregate, but not in the 17 elements, 11 locations, and five aggregates.",
+        "source": "T26n1542_003:0701b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界所不攝法，十七界十一處五蘊攝，不攝一界一處一蘊。",
+        "translation": "What's not included in the visual realm is included in the 17 realms, 11 areas, and five aggregates, and not included in one realm, one area, and one aggregate.",
+        "source": "T26n1542_003:0701b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼界所攝不攝法，十八界十二處五蘊攝，無界無處無蘊不攝。",
+        "translation": "What's included and not included in the visual realm is included in the five aggregates of the 18 realms and 12 places, and it's not included in no realm, no place, and no aggregate.",
+        "source": "T26n1542_003:0701b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除眼界所攝法餘法，十七界十一處五蘊攝，不攝一界一處一蘊。",
+        "translation": "The other things that are not included in the eye realm are included in the five aggregates of the seventeen realms and eleven locations, and they are not included in a single realm or location or aggregate.",
+        "source": "T26n1542_003:0701b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除眼界所不攝法餘法，一界一處一蘊攝，不攝十七界十一處五蘊。",
+        "translation": "Except for the remaining qualities that are not included in the eye realm, one realm, one place, and one aggregate are included, and the 17 realms, 11 places, and five aggregates are not included.",
+        "source": "T26n1542_003:0701b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除眼界所攝不攝法，所問餘法，無事空論，以一切法皆被除故。",
+        "translation": "Except for qualities that are included and not included in the eye realm, the remaining qualities that are asked about have nothing to do with the theory of emptiness, because all qualities are removed.",
+        "source": "T26n1542_003:0701b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如眼界，九有色界、十有色處，應知亦爾。",
+        "translation": "As in the eye realm, the nine colored realms and ten colored abodes should be understood to be the same.",
+        "source": "T26n1542_003:0701b17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼識界，二界一處一蘊攝，不攝十七界十二處五蘊。",
+        "translation": "In the element of the visual consciousness, the two elements are included in one place and one aggregate, and they aren't included in the 17 elements, 12 places, and five aggregates.",
+        "source": "T26n1542_003:0701b18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如眼識界，耳鼻舌身意識界、六識身，應知亦爾。",
+        "translation": "As in the element of the eye consciousness, the element of the ear, nose, tongue, and body consciousnesses and the six consciousness bodies should be known to be the same.",
+        "source": "T26n1542_003:0701b19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意界，七界一處一蘊攝，不攝十一界十一處四蘊。",
+        "translation": "In the mental realm, the seven elements are subsumed in one part and one aggregate, but they aren't subsumed in the eleven elements and eleven parts of the four aggregates.",
+        "source": "T26n1542_003:0701b20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如意界，意處、識蘊、識法，應知亦爾。",
+        "translation": "As in the mind realm, this should be known to be true of the mind-field, the aggregate of consciousness, and the conscious dharmas.",
+        "source": "T26n1542_003:0701b21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界，一界一處四蘊攝，不攝十七界十一處二蘊。",
+        "translation": "In the Dharma realm, the four aggregates of one place in one realm are included, but the two aggregates of 11 places in 17 realms are not included.",
+        "source": "T26n1542_003:0701b22_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法處亦爾。",
+        "translation": "So it is with the Dharma realm.",
+        "source": "T26n1542_003:0701b23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色蘊，十一界十一處一蘊攝，不攝八界二處四蘊。",
+        "translation": "The form aggregate is subsumed in 11 elements, 11 places, and one aggregate, and it doesn't subsume eight elements, two places, and four aggregates.",
+        "source": "T26n1542_003:0701b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受蘊，一界一處一蘊攝，不攝十八界十二處四蘊。",
+        "translation": "The feeling aggregate, which is comprised of one aggregate in one place of one realm, doesn't comprise the four aggregates in 12 places of the 18 realms.",
+        "source": "T26n1542_003:0701b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如受蘊，想蘊、行蘊、大地法中受想，應知亦爾。",
+        "translation": "As with the aggregate of feeling, the aggregates of perception, volition, and feeling and perception in the major earth dharmas should be understood to be the same.",
+        "source": "T26n1542_003:0701b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色取蘊，十一界十一處一蘊攝，不攝八界二處五蘊。",
+        "translation": "The aggregate of form-acquisition is subsumed in eleven elements and eleven parts of one aggregate, and it doesn't subsume the eight elements and two parts of the five aggregates.",
+        "source": "T26n1542_003:0701b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受取蘊，一界一處一蘊攝，不攝十八界十二處五蘊。",
+        "translation": "The appropriated aggregate of feeling is subsumed in one aggregate of one place in one realm, but not in the five aggregates of 12 places in the 18 realms.",
+        "source": "T26n1542_003:0701b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如受取蘊，想取蘊、行取蘊、五有色界、八大地法、十大善地法、十大煩惱地法、十小煩惱地法、五煩惱、五觸、五見、五根四法、後五六身，應知亦爾。",
+        "translation": "As with the appropriation of feeling, the appropriation of perception, the appropriation of volition, the five colored realms, the eight elements, the ten good elements, the ten elements of affliction, the ten lesser elements of affliction, the five afflictions, the five tactile sensations, the five views, the five faculties, the four dharmas, and the last five or six bodies should all be known as well.",
+        "source": "T26n1542_003:0701b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識取蘊，七界一處一蘊攝，不攝十三界十二處五蘊。",
+        "translation": "The aggregate of consciousness and grasping is included in seven elements and one location and one aggregate, and it doesn't include the 13 elements, 12 locations, and five aggregates.",
+        "source": "T26n1542_003:0701c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識界亦爾。",
+        "translation": "The same is true of the consciousness element.",
+        "source": "T26n1542_003:0701c04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼識界，一界一處三蘊相應，十八界十二處五蘊不相應。",
+        "translation": "In the element of the visual consciousness, the three aggregates of one element and one location are concomitant, but the five aggregates of the 18 elements and 12 locations are not concomitant.",
+        "source": "T26n1542_003:0701c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如眼識界，耳鼻舌身意識界、識取蘊、識界、六識身，應知亦爾。",
+        "translation": "As in the element of the visual consciousness, the element of the ear, nose, tongue, and body consciousness, the appropriated aggregate of consciousness, the element of consciousness, and the body of the six consciousnesses should be understood to be the same.",
+        "source": "T26n1542_003:0701c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意界，一界一處三蘊相應，十八界十二處三蘊不相應。",
+        "translation": "In the mental realm, the three aggregates of a factor and a place are associated, and the three aggregates of the eighteen factors and twelve places are not associated.",
+        "source": "T26n1542_003:0701c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如意界，意處、識蘊、識法，應知亦爾。",
+        "translation": "As in the mind realm, these should be known as the mind-field, the aggregate of consciousness, and the conscious dharmas.",
+        "source": "T26n1542_003:0701c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法界，八界二處四蘊相應，十一界十一處二蘊不相應。",
+        "translation": "In the Dharma realm, the four aggregates of the eight realms and two locations are associated, and the two aggregates of the eleven realms and eleven locations are not associated.",
+        "source": "T26n1542_003:0701c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如法界，法處、行蘊、八大地法，應知亦爾。",
+        "translation": "As in the Dharma realm, the Dharma field, the formative aggregate, and the eight major ground dharmas should be known to be the same.",
+        "source": "T26n1542_003:0701c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受蘊，八界二處三蘊相應，十一界十一處三蘊不相應。",
+        "translation": "For the feeling aggregate, the eight realms and two locations and three aggregates are associated, and the eleven realms and eleven locations and three aggregates are not associated.",
+        "source": "T26n1542_003:0701c12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如受蘊，想蘊、大地法中受想，應知亦爾。",
+        "translation": "As with the feeling aggregate, this should be known to be true of the perception aggregate and the perceptions experienced in the major earthly factors.",
+        "source": "T26n1542_003:0701c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受取蘊，八界二處三蘊相應，十三界十二處五蘊不相應。",
+        "translation": "The appropriated aggregate of feeling is associated with the eight realms, two locations, and three aggregates, and it's not associated with the thirteen realms, twelve locations, and five aggregates.",
+        "source": "T26n1542_003:0701c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "想取蘊亦爾。",
+        "translation": "The same goes for the aggregate of apprehending perceptions.",
+        "source": "T26n1542_003:0701c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行取蘊，八界二處四蘊相應，十三界十二處五蘊不相應。",
+        "translation": "The appropriating aggregate of volition is associated with the eight realms, two places, and four aggregates, and the thirteen realms, twelve places, and five aggregates are not associated with it.",
+        "source": "T26n1542_003:0701c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尋、伺法亦爾。",
+        "translation": "The same goes for the discursive and discursive aspects.",
+        "source": "T26n1542_003:0701c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信，八界二處四蘊相應，十八界十二處五蘊不相應。",
+        "translation": "For faith, the four aggregates of the eight realms and two locations are associated, and the five aggregates of the eighteen realms and twelve locations are not associated.",
+        "source": "T26n1542_003:0701c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如信，餘九大善地法、十大煩惱地法、欲貪、瞋、無明觸、非明非無明觸、無慚、無愧，應知亦爾。",
+        "translation": "As with faith, the other nine elements of the good stages, the ten elements of the afflictive stages, desire, greed, anger, touch of nescience, touch of neither nescience nor nescience, lack of conscience, and lack of shame should be known to be the same.",
+        "source": "T26n1542_003:0701c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "忿，三界二處四蘊相應，十八界十二處五蘊不相應。",
+        "translation": "Wrath is associated with the four aggregates of the three realms and two locations, and it's not associated with the five aggregates of the 18 realms and 12 locations.",
+        "source": "T26n1542_003:0701c21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如忿，餘九小煩惱地法、無色貪、疑、明觸、五見、六愛身，應知亦爾。",
+        "translation": "As anger, the other nine states of minor affliction, formless greed, doubt, light contact, the five views, and the six desires for the body should be known as well.",
+        "source": "T26n1542_003:0701c22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色貪，六界二處四蘊相應，十八界十二處五蘊不相應。",
+        "translation": "For desire for form, the four aggregates of the six realms and two locations are associated, while the five aggregates of the 18 realms and 12 locations are not associated.",
+        "source": "T26n1542_003:0701c23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有對觸，七界二處四蘊相應，十三界十二處五蘊不相應。",
+        "translation": "For oppositional contact, the four aggregates of the two places in the seven realms are associated with it, and the five aggregates of the 12 places in the 13 realms are not associated with it.",
+        "source": "T26n1542_003:0701c25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增語觸，三界三處四蘊相應，十七界十二處五蘊不相應。",
+        "translation": "For proclivities of speech and contact, the three realms and three places of the four aggregates are associated, and the twelve places of the five aggregates in the seventeen realms are not associated.",
+        "source": "T26n1542_003:0701c26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六觸身、六思身亦爾。",
+        "translation": "The same goes for the six bodies of contact and the six bodies of thought.",
+        "source": "T26n1542_003:0701c27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂根，八界二處三蘊相應，十八界十二處五蘊不相應。",
+        "translation": "The sense faculty of pleasure is associated with the three aggregates of the eight realms and two locations, and it's not associated with the five aggregates of the 12 locations in the 18 realms.",
+        "source": "T26n1542_003:0701c28_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨根亦爾。",
+        "translation": "The same is true for the faculty of equanimity.",
+        "source": "T26n1542_003:0701c29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "苦根，七界二處三蘊相應，十八界十二處五蘊不相應。",
+        "translation": "For the faculty of suffering, the seven realms and two places and three aggregates are associated, and the 18 realms and 12 places and five aggregates are not associated.",
+        "source": "T26n1542_003:0701c29_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喜根，三界二處三蘊相應，十八界十二處五蘊不相應。",
+        "translation": "For the joy faculty, the two parts of the three aggregates are associated with the three realms, and the five aggregates of the 12 parts of the 18 realms are not associated with it.",
+        "source": "T26n1542_003:0702a01_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "憂根亦爾。",
+        "translation": "The same is true for the grief faculty.",
+        "source": "T26n1542_003:0702a03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼觸所生受，三界二處三蘊相應，十七界十二處五蘊不相應。",
+        "translation": "The sensations produced by visual contact are associated with the three constituents in two places of the three aggregates and are not associated with the five aggregates in 12 places of the 17 constituents.",
+        "source": "T26n1542_003:0702a03_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如眼觸所生受，耳鼻舌身意觸所生受、六想身，應知亦爾。",
+        "translation": "As with the sensations produced by visual contact, the sensations produced by sense contact of the ear, nose, tongue, body, and mind, and the six conceptual bodies should be understood to be the same.",
+        "source": "T26n1542_003:0702a04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "品類足論辯隨眠品第五之一",
+        "translation": "Chapter 5-1 of the Prakaraṇapāda-śāstra [Treatise on the Theory of Ambient Sleep]",
+        "source": "T26n1542_003:0702a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九十八隨眠，幾欲界繫、幾色界繫、幾無色界繫？",
+        "translation": "Of the ninety-eight latent afflictions, how many are the fetters of the desire realm, how many are the fetters of the form realm, and how many are the fetters of the formless realm?",
+        "source": "T26n1542_003:0702a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：三十六欲界繫，三十一色界繫，三十一無色界繫。",
+        "translation": "A: There are 36 fetters of the desire realm, 31 fetters of the form realm, and 31 fetters of the formless realm.",
+        "source": "T26n1542_003:0702a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此九十八隨眠，幾見所斷、幾修所斷？",
+        "translation": "Of these ninety-eight latent afflictions, how many are stopped by seeing and how many are stopped by cultivating?",
+        "source": "T26n1542_003:0702a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答八十八見所斷，十修所斷。",
+        "translation": "\"Answer, there are 88 things stopped by views and 10 things stopped by cultivation.",
+        "source": "T26n1542_003:0702a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界繫三十六隨眠，幾見所斷、幾修所斷？",
+        "translation": "Of the thirty-six latent afflictions in the desire realm, how many are eliminated by views and how many are eliminated by cultivation?",
+        "source": "T26n1542_003:0702a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：三十二見所斷，四修所斷。",
+        "translation": "A: The thirty-two [afflictions] stopped by seeing and the four [afflictions] stopped by cultivating.",
+        "source": "T26n1542_003:0702a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界繫三十一隨眠，幾見所斷、幾修所斷？",
+        "translation": "Of the thirty-one latent afflictions in the form realm, how many are eliminated by views and how many are eliminated by cultivation?",
+        "source": "T26n1542_003:0702a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：二十八見所斷，三修所斷。",
+        "translation": "A: The twenty-eight views are eliminated, and the three cultivations are eliminated.",
+        "source": "T26n1542_003:0702a14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無色界繫三十一隨眠亦爾。",
+        "translation": "The same goes for the thirty-one latent afflictions in the formless realm.",
+        "source": "T26n1542_003:0702a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此九十八隨眠，幾見苦所斷、幾見集滅道、修所斷？",
+        "translation": "Of these 98 latent afflictions, how many are stopped by seeing what's painful, how many are stopped by seeing what's the path to accumulation and cessation, and how many are stopped by cultivation?",
+        "source": "T26n1542_003:0702a15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：二十八見苦所斷，十九見集所斷，十九見滅所斷，二十二見道所斷，十修所斷。",
+        "translation": "A: Twenty-eight see what's stopped by suffering, 19 see what's stopped by accumulation, 19 see what's stopped by cessation, 22 see what's stopped by the path, and 10 see what's stopped by cultivation.",
+        "source": "T26n1542_003:0702a16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界繫三十六隨眠，幾見苦所斷、幾見集滅道、修所斷？",
+        "translation": "Of the thirty-six latent afflictions in the desire realm, how many are stopped by seeing what's painful, how many are stopped by seeing what's the path to accumulation and cessation, and how many are stopped by cultivation?",
+        "source": "T26n1542_003:0702a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：十見苦所斷，七見集所斷，七見滅所斷，八見道所斷，四修所斷。",
+        "translation": "A: Ten see what's stopped by suffering, seven see what's stopped by accumulation, seven see what's stopped by cessation, eight see what's stopped by the path, and four see what's stopped by cultivation.",
+        "source": "T26n1542_003:0702a19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界繫三十一隨眠，幾見苦所斷、幾見集滅道、修所斷？",
+        "translation": "Of the thirty-one latent afflictions in the form realm, how many are stopped by seeing what's painful, how many are stopped by seeing what's the path to accumulation and cessation, and how many are stopped by cultivation?",
+        "source": "T26n1542_003:0702a21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：九見苦所斷，六見集所斷，六見滅所斷，七見道所斷，三修所斷。",
+        "translation": "A: Nine are stopped by seeing what's painful, six are stopped by seeing what's created, six are stopped by seeing what's cessation, seven are stopped by seeing what's the path, and three are stopped by cultivation.",
+        "source": "T26n1542_003:0702a22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無色界繫三十一隨眠亦爾。",
+        "translation": "So are the thirty-one latent afflictions in the formless realm.",
+        "source": "T26n1542_003:0702a23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨眠是何義？",
+        "translation": "What's the meaning of latent dormancy?",
+        "source": "T26n1542_003:0702a24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：微細義是隨眠義、隨增義是隨眠義、隨逐義是隨眠義、隨縛義是隨眠義。",
+        "translation": "A: The meaning of subtle is the meaning of latent, the meaning of increasing is the meaning of latent, the meaning of following is the meaning of latent, and the meaning of binding is the meaning of latent.",
+        "source": "T26n1542_003:0702a24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是隨眠，若未斷未遍知，由二事故隨增，謂所緣故、相應故。",
+        "translation": "Thus, if such latencies are not yet stopped or fully understood, they are proliferated by two things, namely, by their objects and by their concomitants.",
+        "source": "T26n1542_003:0702a26_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是隨增，於自界非他界有十二隨眠，謂欲貪隨眠、瞋恚隨眠、色貪隨眠、無色貪隨眠、慢隨眠、無明隨眠、有身見隨眠、邊執見隨眠、邪見隨眠、見取隨眠、戒禁取隨眠、疑隨眠。",
+        "translation": "Thus, when it's followed by increase, there are 12 latent tendencies in the self and not other realms, which are latent desire, latent anger, latent form greed, latent formless greed, latent conceit, latent ignorance, latent belief in the existence of a body, latent extreme-attached belief, latent mistaken belief, latent view-acquisition, latent precept-acquisition, and latent doubt.",
+        "source": "T26n1542_003:0702a27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何欲貪隨眠隨增？",
+        "translation": "How does craving for form increase with drowsiness?",
+        "source": "T26n1542_003:0702b02_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂可愛故、可樂故、可戀故、可意故。",
+        "translation": "It means it's desirable, enjoyable, lovable, and agreeable.",
+        "source": "T26n1542_003:0702b03_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何瞋恚隨眠隨增？",
+        "translation": "How does anger increase with drowsiness?",
+        "source": "T26n1542_003:0702b04_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不可愛故、不可樂故、不可戀故、不可意故。",
+        "translation": "It's because it's not to be loved, not to be enjoyed, not to be clung to, and not to be desired.",
+        "source": "T26n1542_003:0702b04_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何色貪隨眠隨增？",
+        "translation": "How does craving for form increase with drowsiness?",
+        "source": "T26n1542_003:0702b05_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂可愛故、可樂故、可憙故、可意故。",
+        "translation": "It's something that's desirable, enjoyable, pleasurable, enjoyable, and agreeable.",
+        "source": "T26n1542_003:0702b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無色貪隨眠隨增？",
+        "translation": "How does formless craving increase with drowsiness?",
+        "source": "T26n1542_003:0702b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂可愛故、可樂故、可意故。",
+        "translation": "It means it's desirable, enjoyable, and agreeable.",
+        "source": "T26n1542_003:0702b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何慢隨眠隨增？",
+        "translation": "How does conceit increase with drowsiness?",
+        "source": "T26n1542_003:0702b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂高舉故、輕篾故。",
+        "translation": "It's because it's held high, and it's because it's held lightly.",
+        "source": "T26n1542_003:0702b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無明隨眠隨增？",
+        "translation": "How does nescience increase as a result of sleep?",
+        "source": "T26n1542_003:0702b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無知故、闇昧故、愚癡故。",
+        "translation": "It's due to ignorance, darkness, and delusion.",
+        "source": "T26n1542_003:0702b09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有身見隨眠隨增？",
+        "translation": "How does the view that there's a body that follows sleep and increases with it?",
+        "source": "T26n1542_003:0702b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂我故、我所故。",
+        "translation": "It means it's because of self and because of what belongs to self.",
+        "source": "T26n1542_003:0702b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何邊執見隨眠隨增？",
+        "translation": "How does a view of attachment to extremes increase as a result of dormancy?",
+        "source": "T26n1542_003:0702b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂斷故、常故。",
+        "translation": "It's because it's stopped, and it's because it's permanent.",
+        "source": "T26n1542_003:0702b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何邪見隨眠隨增？",
+        "translation": "How do mistaken views increase with dormancy?",
+        "source": "T26n1542_003:0702b11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂無因故、無用故、誹謗故。",
+        "translation": "It's because it has no cause, it's useless, and it's defamatory.",
+        "source": "T26n1542_003:0702b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何見取隨眠隨增？",
+        "translation": "How do views and grasping follow dormancy and increase accordingly?",
+        "source": "T26n1542_003:0702b12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂最故勝故、上故極故。",
+        "translation": "It means it's the best because it's superior, and it's the highest because it's ultimate.",
+        "source": "T26n1542_003:0702b13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何戒禁取隨眠隨增？",
+        "translation": "How does adherence to the precepts increase with dormancy?",
+        "source": "T26n1542_003:0702b13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂能清淨故、能解脫故、能出離故。",
+        "translation": "It's because it's purifying, liberating, and liberating.",
+        "source": "T26n1542_003:0702b14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何疑隨眠隨增？",
+        "translation": "How do doubts increase with drowsiness?",
+        "source": "T26n1542_003:0702b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂惑故、疑故、猶豫故。",
+        "translation": "It's because of confusion, doubt, and hesitation.",
+        "source": "T26n1542_003:0702b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何起欲貪隨眠乃至云何起疑隨眠？",
+        "translation": "How does desire and craving give rise to latencies, and how does doubt and latencies give rise to latencies?",
+        "source": "T26n1542_003:0702b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：欲貪隨眠由三處起：一者欲貪隨眠未斷未遍知故；二者順欲貪纏法現在前故；三者於彼處有非理作意故。",
+        "translation": "A: The latent desire for sex arises in three ways: first, because the latent desire for sex has yet to be stopped and is not fully known; second, because the latent desire for sex is present in the presence of the afflictive dharmas; and third, because there are mistaken attitudes in those places.",
+        "source": "T26n1542_003:0702b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至疑隨眠亦由三處起：一者疑隨眠未斷未遍知故；二者順疑纏法現在前故；三者於彼處有非理作意故。",
+        "translation": "Even the latent dormancy of doubt also arises from three places: first, because the latent dormancy of doubt has yet to be stopped and is not fully known; second, because the principle of following the entanglement of doubt is present; and third, because there's an irrational contemplation in that place.",
+        "source": "T26n1542_003:0702b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有七隨眠十二隨眠，為七攝十二、十二攝七耶？",
+        "translation": "Are there seven latent hindrances and twelve latent hindrances, or are they seven that include twelve and twelve that include seven?",
+        "source": "T26n1542_003:0702b21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：互相攝，隨其事。",
+        "translation": "A: They are included in each other's affairs.",
+        "source": "T26n1542_003:0702b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲貪隨眠攝欲貪隨眠，瞋隨眠攝瞋恚隨眠，有貪隨眠攝色無色貪隨眠，慢隨眠攝慢隨眠，無明隨眠攝無明隨眠，見隨眠攝五見隨眠，疑隨眠攝疑隨眠。",
+        "translation": "That is, latent desire subsumes latent desire, latent anger subsumes latent anger, latent desire subsumes latent form and formless desire, latent conceit subsumes latent conceit, latent ignorance subsumes latent ignorance, latent views subsumes latent five views, and latent doubt subsumes latent doubt.",
+        "source": "T26n1542_003:0702b23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七隨眠九十八隨眠，為七攝九十八、九十八攝七耶？",
+        "translation": "Of the seven latent tendencies and ninety-eight latent tendencies, are they seven that are included in ninety-eight and ninety-eight that are included in seven?",
+        "source": "T26n1542_003:0702b26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：互相攝，隨其事。",
+        "translation": "A: They are included in each other's affairs.",
+        "source": "T26n1542_003:0702b27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲貪瞋隨眠各攝五，有貪隨眠攝十，慢、無明隨眠各攝十五，見隨眠攝三十六，疑隨眠攝十二。",
+        "translation": "That means the latent dormancies of desire, greed, and anger each include five, the latent dormancies of craving each include 10, the latent dormancies of conceit and ignorance each include 15, the latent dormancies of views include 36, and the latent dormancies of doubt include 12.",
+        "source": "T26n1542_003:0702b28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二隨眠九十八隨眠，為十二攝九十八、九十八攝十二耶？",
+        "translation": "Of the 12 latent dormancies and 98 latent dormancies, are they 12 that are included in 98 and 98 that are included in 12?",
+        "source": "T26n1542_003:0702c01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：互相攝，隨其事。",
+        "translation": "A: They are included in each other's affairs.",
+        "source": "T26n1542_003:0702c02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲貪、瞋、色無色貪隨眠各攝五，慢、無明隨眠各攝十五，有身見、邊執見隨眠各攝三，邪見、見取、疑隨眠各攝十二，戒禁取隨眠攝六。",
+        "translation": "That means the latent tendencies of desire, anger, and form and formless greed are each included in five, the latent tendencies of conceit and ignorance are each included in 15, the latent tendencies of belief in the existence of a body and belief in extreme attachment are each included in three, the latent tendencies of wrong view, view-acquisition, and doubt are each included in 12, and the latent tendencies of adherence to precepts are included in six.",
+        "source": "T26n1542_003:0702c03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九十八隨眠，幾是遍行、幾非遍行？",
+        "translation": "Of the ninety-eight latent tendencies, how many are pervasive and how many are not pervasive?",
+        "source": "T26n1542_003:0702c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：二十七是遍行，六十五非遍行，六應分別。",
+        "translation": "A: Twenty-seven are omnipresent, 65 are not omnipresent, and 6 should be discriminated.",
+        "source": "T26n1542_003:0702c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見苦集所斷無明隨眠，或是遍行、或非遍行。",
+        "translation": "It means seeing the latent tendencies of ignorance that are ended by suffering and accumulation is either pervasive or not pervasive.",
+        "source": "T26n1542_003:0702c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何是遍行？",
+        "translation": "What's pervasive activity?",
+        "source": "T26n1542_003:0702c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見苦集所斷非遍行隨眠不相應無明。",
+        "translation": "It's the nescience that sees that what's stopped by suffering and accumulation isn't pervasive, and that follows dormancy and isn't associated with it.",
+        "source": "T26n1542_003:0702c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非遍行？",
+        "translation": "How is it not a pervasive condition?",
+        "source": "T26n1542_003:0702c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見苦集所斷非遍行隨眠相應無明。",
+        "translation": "It's the nescience associated with the latent dormancy that's stopped by seeing suffering and accumulation as not pervasive.",
+        "source": "T26n1542_003:0702c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界繫三十六隨眠，幾是遍行、幾非遍行？",
+        "translation": "Of the thirty-six latent tendencies bound to the desire realm, how many are pervasive and how many are not pervasive?",
+        "source": "T26n1542_003:0702c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：九是遍行，二十五非遍行，二應分別。",
+        "translation": "A: Nine are pervasive and twenty-five are not pervasive, and these two should be distinguished.",
+        "source": "T26n1542_003:0702c13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見苦集所斷無明隨眠，或是遍行、或非遍行。",
+        "translation": "It means that the latent dormancy of ignorance that's ended by the fetters of the desire realm and the views of suffering and arising is either pervasive or not pervasive.",
+        "source": "T26n1542_003:0702c14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何是遍行？",
+        "translation": "What's pervasive activity?",
+        "source": "T26n1542_003:0702c15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見苦集所斷非遍行隨眠不相應無明。",
+        "translation": "It means that the desire realm's fetters, views, suffering, accumulation, and elimination are not pervasive, and dormancy is not associated with ignorance.",
+        "source": "T26n1542_003:0702c15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非遍行？",
+        "translation": "How is it not a pervasive condition?",
+        "source": "T26n1542_003:0702c16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見苦集所斷非遍行隨眠相應無明。",
+        "translation": "It's the nescience associated with the latent dormancy in the desire realm that sees what's stopped by suffering and accumulation that's not pervasive.",
+        "source": "T26n1542_003:0702c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界繫三十一隨眠，幾是遍行、幾非遍行？",
+        "translation": "Of the thirty-one latent tendencies in the form realm, how many are pervasive and how many are not pervasive?",
+        "source": "T26n1542_003:0702c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：九是遍行，二十非遍行，二應分別。",
+        "translation": "A: Nine are pervasive and 20 are not pervasive, and these two should be distinguished.",
+        "source": "T26n1542_003:0702c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見苦集所斷無明隨眠，或是遍行、或非遍行。",
+        "translation": "It means that the form realm's fetters see the latent dormancy of ignorance that's ended by suffering and accumulation, which is either pervasive or not pervasive activity.",
+        "source": "T26n1542_003:0702c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何是遍行？",
+        "translation": "What's pervasive activity?",
+        "source": "T26n1542_003:0702c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見苦集所斷非遍行隨眠不相應無明。",
+        "translation": "It means the nescience that's bound to the form realm and sees that what's stopped by suffering and accumulation isn't pervasive and follows dormancy that's not associated with it.",
+        "source": "T26n1542_003:0702c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非遍行？",
+        "translation": "How is it not a pervasive condition?",
+        "source": "T26n1542_003:0702c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見苦集所斷非遍行隨眠相應無明。",
+        "translation": "It means the form realm fetters see nescience associated with the non-penetrative latencies that are stopped by suffering and accumulation.",
+        "source": "T26n1542_003:0702c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無色界繫三十一隨眠亦爾。",
+        "translation": "The same goes for the thirty-one latent dormancies in the formless realm.",
+        "source": "T26n1542_003:0702c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九十八隨眠，幾是遍行修所斷、幾非遍行非修所斷。",
+        "translation": "Of the ninety-eight latent tendencies, how many are eliminated by the cultivation of pervasive practices and how many are not eliminated by the cultivation of non-pervasive practices?",
+        "source": "T26n1542_003:0702c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：三十七是遍行修所斷，五十五非遍行非修所斷，六應分別。",
+        "translation": "A: Thirty-seven are ended by the cultivation of pervasive practices, and fifty-five are ended by what's not pervasive and what's not cultivated, and six should be discerned.",
+        "source": "T26n1542_003:0702c25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見苦集所斷無明隨眠，或是遍行、或非遍行。",
+        "translation": "It means seeing the latent dormancy of ignorance that's stopped by suffering and accumulation is either pervasive or not pervasive.",
+        "source": "T26n1542_003:0702c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何是遍行？",
+        "translation": "What's pervasive activity?",
+        "source": "T26n1542_003:0702c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見苦集所斷非遍行隨眠不相應無明。",
+        "translation": "It's the nescience that sees that what's stopped by suffering and accumulation isn't pervasive, and that follows dormancy and isn't associated with it.",
+        "source": "T26n1542_003:0702c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非遍行？",
+        "translation": "How is it not a pervasive condition?",
+        "source": "T26n1542_003:0702c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見苦集所斷非遍行隨眠相應無明。",
+        "translation": "It's the nescience associated with the latent dormancy that's stopped by seeing suffering as accumulation and not by pervasive practice.",
+        "source": "T26n1542_003:0702c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界三十六隨眠，幾是遍行修所斷、幾非遍行非修所斷？",
+        "translation": "Of the thirty-six latent tendencies in the desire realm, how many are eliminated by the cultivation of pervasive practices and how many are not eliminated by the cultivation of pervasive practices?",
+        "source": "T26n1542_003:0703a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：十三是遍行修所斷，二十一非遍行非修所斷，二應分別。",
+        "translation": "A: Thirteen are pervasively active, cultivated, and eliminated, and 21 are not pervasively active or cultivated, and these two should be distinguished.",
+        "source": "T26n1542_003:0703a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見苦集所斷無明隨眠，或是遍行、或非遍行。",
+        "translation": "They are the afflictions in the desire realm, the views of suffering, accumulation, and the elimination of ignorance and latencies, which are either pervasive or not pervasive.",
+        "source": "T26n1542_003:0703a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何是遍行？",
+        "translation": "What's pervasive activity?",
+        "source": "T26n1542_003:0703a05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見苦集所斷非遍行隨眠不相應無明。",
+        "translation": "It means that the desire realm's fetters, views, suffering, accumulation, and elimination are not pervasive, and dormancy is not associated with ignorance.",
+        "source": "T26n1542_003:0703a05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非遍行？",
+        "translation": "How is it not a pervasive condition?",
+        "source": "T26n1542_003:0703a06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見苦集所斷非遍行隨眠相應無明。",
+        "translation": "It's the nescience associated with the non-penetrative latencies that are stopped by the fetters of the desire realm that are afflicted by views, and the latencies that are not pervasive.",
+        "source": "T26n1542_003:0703a07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界三十一隨眠，幾是遍行修所斷、幾非遍行非修所斷？",
+        "translation": "Which of the thirty-one latent tendencies in the form realm are eliminated by the cultivation of pervasive practices and which are not eliminated by the cultivation of pervasive practices?",
+        "source": "T26n1542_003:0703a08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：十二是遍行修所斷，十七非遍行非修所斷，二應分別。",
+        "translation": "A: The twelve are ended by pervasive practice and the seventeen are not ended by pervasive practice or practice, and the two should be distinguished.",
+        "source": "T26n1542_003:0703a09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見苦集所斷無明隨眠，或是遍行、或非遍行。",
+        "translation": "They are the form realm fetters, which see the dormancy of ignorance that's ended by suffering and accumulation, and they're either pervasive or non-pervasive.",
+        "source": "T26n1542_003:0703a10_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何是遍行？",
+        "translation": "What's pervasive activity?",
+        "source": "T26n1542_003:0703a11_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見苦集所斷非遍行隨眠不相應無明。",
+        "translation": "It means the nescience that's bound to the form realm and sees that what's stopped by suffering and accumulation isn't pervasive and follows dormancy that's not associated with it.",
+        "source": "T26n1542_003:0703a12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非遍行？",
+        "translation": "How is it not a pervasive condition?",
+        "source": "T26n1542_003:0703a13_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見苦集所斷非遍行隨眠相應無明。",
+        "translation": "It means the form realm fetters see nescience associated with the non-penetrative latencies that are stopped by suffering and accumulation.",
+        "source": "T26n1542_003:0703a13_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無色界繫三十一隨眠亦爾。",
+        "translation": "The same goes for the thirty-one latent tendencies in the formless realm.",
+        "source": "T26n1542_003:0703a14_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九十八隨眠，幾有漏緣、幾無漏緣？",
+        "translation": "Of the ninety-eight latent tendencies, how many are contaminated and how many are uncontaminated?",
+        "source": "T26n1542_003:0703a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：八十有漏緣，十二無漏緣，六應分別。",
+        "translation": "A: There are 80 contaminated conditions, 12 uncontaminated conditions, and six discriminable causes.",
+        "source": "T26n1542_003:0703a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見滅道所斷無明隨眠，或有漏緣、或無漏緣。",
+        "translation": "They are the contaminated or uncontaminated conditions that are the latent dormancy of ignorance that's stopped in the path to the cessation of views.",
+        "source": "T26n1542_003:0703a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有漏緣？",
+        "translation": "What are the contaminated conditions?",
+        "source": "T26n1542_003:0703a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見滅道所斷有漏緣隨眠相應無明。",
+        "translation": "This refers to ignorance associated with latent dormancy that is a contaminant condition stopped in the path of seeing cessation.",
+        "source": "T26n1542_003:0703a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無漏緣？",
+        "translation": "What are the uncontaminated conditions?",
+        "source": "T26n1542_003:0703a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見滅道所斷有漏緣隨眠不相應無明。",
+        "translation": "It's ignorance that's not associated with the contaminated condition of latent dormancy that's stopped in the path of seeing cessation.",
+        "source": "T26n1542_003:0703a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界繫三十六隨眠，幾有漏緣、幾無漏緣？",
+        "translation": "Of the thirty-six latent afflictions in the desire realm, how many are contaminated conditions and how many are uncontaminated conditions?",
+        "source": "T26n1542_003:0703a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：三十有漏緣，四無漏緣，二應分別。",
+        "translation": "A: There are 30 contaminated conditions and four uncontaminated conditions, and these two should be discerned.",
+        "source": "T26n1542_003:0703a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見滅道所斷無明隨眠，或有漏緣、或無漏緣。",
+        "translation": "They are the contaminated and uncontaminated conditions that are either present or absent in the latent dormancy of ignorance that's stopped in the path to the cessation of views in the desire realm.",
+        "source": "T26n1542_003:0703a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有漏緣？",
+        "translation": "What are the contaminated conditions?",
+        "source": "T26n1542_003:0703a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見滅道所斷有漏緣隨眠相應無明。",
+        "translation": "This refers to ignorance associated with dormancy as a contaminant condition that's stopped in the path to the cessation of views in the desire realm.",
+        "source": "T26n1542_003:0703a24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無漏緣？",
+        "translation": "What are the uncontaminated conditions?",
+        "source": "T26n1542_003:0703a25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見滅道所斷有漏緣隨眠不相應無明。",
+        "translation": "It's the nescience that doesn't correspond to the contaminated causal followers of dormancy stopped in the path to the cessation of views in the fetters of the desire realm.",
+        "source": "T26n1542_003:0703a25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界繫三十一隨眠，幾有漏緣、幾無漏緣？",
+        "translation": "Of the thirty-one latent conditions in the form realm, how many are contaminated conditions and how many are uncontaminated conditions?",
+        "source": "T26n1542_003:0703a26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：二十五有漏緣，四無漏緣，二應分別。",
+        "translation": "A: There are twenty-five contaminated conditions and four uncontaminated conditions, and these two should be discerned.",
+        "source": "T26n1542_003:0703a27_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見滅道所斷無明隨眠，或有漏緣、或無漏緣。",
+        "translation": "They are the contaminated and uncontaminated conditions that are either present or absent in the latent dormancy of ignorance that's stopped in the form realm when the fetters of views cease.",
+        "source": "T26n1542_003:0703a28_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有漏緣？",
+        "translation": "What are the contaminated conditions?",
+        "source": "T26n1542_003:0703a29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見滅道所斷有漏緣隨眠相應無明。",
+        "translation": "This refers to ignorance associated with dormancy as a contaminant condition that's stopped in the form realm when he's bound to the path of seeing and cessation.",
+        "source": "T26n1542_003:0703b01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無漏緣？",
+        "translation": "What are the uncontaminated conditions?",
+        "source": "T26n1542_003:0703b02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見滅道所斷有漏緣隨眠不相應無明。",
+        "translation": "This refers to ignorance that's not associated with the contaminated causal followers of dormancy stopped in the path to the cessation of views in the form realm.",
+        "source": "T26n1542_003:0703b02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無色界繫三十一隨眠亦爾。",
+        "translation": "The same goes for the thirty-one latent tendencies in the formless realm.",
+        "source": "T26n1542_003:0703b03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九十八隨眠，幾有為緣、幾無為緣？",
+        "translation": "Of the ninety-eight latent conditions, how many are an existential condition and how many are an impermanent condition?",
+        "source": "T26n1542_003:0703b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：八十九有為緣，六無為緣，三應分別。",
+        "translation": "A: There are 89 perceptual conditions and six nonperceptual conditions, and three should be discerned.",
+        "source": "T26n1542_003:0703b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見滅所斷無明隨眠，或有為緣、或無為緣。",
+        "translation": "They are the condition of presence or condition of absence, which is the latent dormancy of ignorance that's stopped by the cessation of views.",
+        "source": "T26n1542_003:0703b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有為緣？",
+        "translation": "What are the existential conditions?",
+        "source": "T26n1542_003:0703b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見滅所斷有為緣隨眠相應無明。",
+        "translation": "It's nescience associated with dormancy that follows the condition of being existent that's eliminated by seeing.",
+        "source": "T26n1542_003:0703b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無為緣？",
+        "translation": "What are the condition of nonexistence?",
+        "source": "T26n1542_003:0703b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂見滅所斷有為緣隨眠不相應無明。",
+        "translation": "This refers to ignorance that's not associated with the derivative dormancy of the existential conditions that are stopped by seeing extinction.",
+        "source": "T26n1542_003:0703b09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲界繫三十六隨眠，幾有為緣、幾無為緣？",
+        "translation": "Of the thirty-six latent tendencies bound to the desire realm, how many are conditioned by existents and how many are unconcerned by existents?",
+        "source": "T26n1542_003:0703b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：三十三有為緣，二無為緣，一應分別。",
+        "translation": "A: There are thirty-three perceptual conditions and two nonperceptual conditions, one of which should be discerned.",
+        "source": "T26n1542_003:0703b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見滅所斷無明隨眠，或有為緣、或無為緣。",
+        "translation": "They are the existential conditions and the nonexistent conditions that accompany the nescience stopped by the cessation of views in the desire realm.",
+        "source": "T26n1542_003:0703b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有為緣？",
+        "translation": "What are the existential conditions?",
+        "source": "T26n1542_003:0703b12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見滅所斷有為緣隨眠相應無明。",
+        "translation": "This refers to ignorance associated with dormancy that's a condition of the cessation of the desire realm and the cessation of visible forms of existence.",
+        "source": "T26n1542_003:0703b13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無為緣？",
+        "translation": "What are the condition of nonexistence?",
+        "source": "T26n1542_003:0703b14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲界繫見滅所斷有為緣隨眠不相應無明。",
+        "translation": "It's the nescience that doesn't correspond to the condition of existence and the consequent dormancy that's stopped by seeing extinction in the desire realm.",
+        "source": "T26n1542_003:0703b14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色界繫三十一隨眠，幾有為緣、幾無為緣？",
+        "translation": "Of the thirty-one latent forms of the form realm, how many are conditioned by existents and how many are unconditioned?",
+        "source": "T26n1542_003:0703b15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：二十八有為緣，二無為緣，一應分別。",
+        "translation": "A: There are 28 perceptual conditions and two nonperceptual conditions, one of which should be discerned.",
+        "source": "T26n1542_003:0703b16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見滅所斷無明隨眠，或有為緣、或無為緣。",
+        "translation": "They are the existential conditions and the nonexistent conditions that accompany the nescience stopped by the cessation of views in the form realm.",
+        "source": "T26n1542_003:0703b17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何有為緣？",
+        "translation": "What are the existential conditions?",
+        "source": "T26n1542_003:0703b18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見滅所斷有為緣隨眠相應無明。",
+        "translation": "It's nescience associated with dormancy that's a condition for the cessation of the tethers in the form realm and the presence of existents.",
+        "source": "T26n1542_003:0703b18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無為緣？",
+        "translation": "What are the condition of nonexistence?",
+        "source": "T26n1542_003:0703b19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂色界繫見滅所斷有為緣隨眠不相應無明。",
+        "translation": "This refers to the nescience that doesn't correspond to the conditioned followers of existence that are stopped by the cessation of views in the form realm.",
+        "source": "T26n1542_003:0703b20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無色界繫三十一隨眠亦爾。",
+        "translation": "The same goes for the thirty-one latent tendencies in the formless realm.",
+        "source": "T26n1542_003:0703b21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九十八隨眠，幾所緣故隨增非相應故、幾相應故隨增非所緣故、幾所緣故隨增亦相應故、幾非所緣故隨增非相應故？",
+        "translation": "For what causes are the ninety-eight latent tendencies that increase and don't correspond, that increase and don't correspond, that increase and don't correspond, and that increase and don't correspond because of the causes that don't correspond?",
+        "source": "T26n1542_003:0703b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：所緣故隨增非相應故者，無相應故。",
+        "translation": "A: What's referential and follows from and isn't referential is unconnected.",
+        "source": "T26n1542_003:0703b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨增非所緣故者，謂無漏緣隨眠。",
+        "translation": "What follows increase and isn't contingent on is uncontaminated conditioned latencies.",
+        "source": "T26n1542_003:0703b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣故隨增亦相應故者，謂有漏緣隨眠。",
+        "translation": "Whatever causes it to increase, it's also associated with, which are the contaminated causes of latencies.",
+        "source": "T26n1542_003:0703b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非所緣故隨增非相應故者，無。",
+        "translation": "Whatever happens to be contingent, it's both increasing and non-associative.",
+        "source": "T26n1542_003:0703b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如不定繫，欲界繫、色界繫、無色界繫亦爾。",
+        "translation": "As with indeterminate fetters, so are the fetters of the desire realm, the form realm, and the formless realm.",
+        "source": "T26n1542_003:0703b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有二十法，謂見苦所斷法、見集所斷法、見滅所斷法、見道所斷法、修所斷法。",
+        "translation": "There are 20 things, which are things stopped by seeing suffering, things stopped by seeing accumulation, things stopped by seeing cessation, things stopped by seeing the path, and things stopped by cultivation.",
+        "source": "T26n1542_003:0703b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如不定繫，欲界繫、色界繫、無色界繫亦爾。",
+        "translation": "As with indeterminate fetters, so are the fetters of the desire realm, the form realm, and the formless realm.",
+        "source": "T26n1542_003:0703c01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦所斷法，幾隨眠隨增？",
+        "translation": "In what ways does seeing what's stopped by suffering follow sleep and increase it?",
+        "source": "T26n1542_003:0703c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：見苦所斷一切，及見集所斷遍行隨眠。",
+        "translation": "A: They see everything that's stopped by suffering and the pervasive latencies that are stopped by the view of origination.",
+        "source": "T26n1542_003:0703c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見集所斷法，幾隨眠隨增？",
+        "translation": "How many latent tendencies does seeing what's stopped by accumulation have to be followed by more latencies?",
+        "source": "T26n1542_003:0703c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：見集所斷一切，及見苦所斷遍行隨眠。",
+        "translation": "A: Seeing everything that's stopped by accumulation and seeing the pervasive latencies that are stopped by suffering.",
+        "source": "T26n1542_003:0703c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷法，幾隨眠隨增？",
+        "translation": "How many latent tendencies are there that are increased by the view that they're eliminated by cessation?",
+        "source": "T26n1542_003:0703c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：見滅所斷一切，及遍行隨眠。",
+        "translation": "A: Whatever is stopped by seeing cessation, it's pervasively followed by drowsiness.",
+        "source": "T26n1542_003:0703c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見道所斷法，幾隨眠隨增？",
+        "translation": "How many latent tendencies are there that are increased by the dharmas stopped in the path of seeing?",
+        "source": "T26n1542_003:0703c07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：見道所斷一切，及遍行隨眠。",
+        "translation": "A: Seeing everything that the path stops and the pervasive tendencies that follow dormancy.",
+        "source": "T26n1542_003:0703c07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於修所斷法，幾隨眠隨增？",
+        "translation": "How many latent tendencies are there that are increased by the cultivation of the things that are stopped?",
+        "source": "T26n1542_003:0703c08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：修所斷一切，及遍行隨眠。",
+        "translation": "A: Whatever is cultivated, it's eliminated, and it's pervasively followed by dormancy.",
+        "source": "T26n1542_003:0703c09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如不定繫，欲界繫、色界繫、無色界繫亦爾。",
+        "translation": "As with the indeterminate fetters, so are the fetters of the desire realm, the form realm, and the formless realm.",
+        "source": "T26n1542_003:0703c09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見苦所斷法，幾隨眠所緣故隨增非相應故，幾隨眠相應故隨增非所緣故，幾隨眠所緣故隨增亦相應故，幾隨眠非所緣故隨增非相應故？",
+        "translation": "In terms of the things that are stopped by seeing suffering, how many [afflictions] are associated with latencies that increase and don't correspond, how many [afflictions] are associated with latencies that increase and don't correspond, how many [afflictions] are associated with latencies that increase and don't correspond, and how many [afflictions] are associated with latencies that don't correspond?",
+        "source": "T26n1542_003:0703c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：所緣故隨增非相應故者，謂見集所斷遍行隨眠。",
+        "translation": "A: \"That which follows and increases because of its referents and isn't associated with it is the pervasive latencies that are eliminated by views and collections.",
+        "source": "T26n1542_003:0703c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應故隨增非所緣故者，無。",
+        "translation": "Whatever corresponds, it follows and increases without being a cause, which is none.",
+        "source": "T26n1542_003:0703c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣故隨增亦相應故者，謂見苦所斷一切隨眠。",
+        "translation": "That's because it's accompanied by and associated with what's conditioned, which is to see all latencies that are ended by suffering.",
+        "source": "T26n1542_003:0703c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非所緣故隨增非相應故者，謂見集所斷非遍行，及見滅道修所斷一切隨眠。",
+        "translation": "Those who are not contingent and subsequently increase in number and are not associated with it mean seeing what's stopped by accumulation that's not pervasive, and seeing what's stopped by cultivation in the path to cessation that's followed by dormancy.",
+        "source": "T26n1542_003:0703c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見集所斷法，幾隨眠所緣故隨增非相應故、幾隨眠相應故隨增非所緣故、幾隨眠所緣故隨增亦相應故、幾隨眠非所緣故隨增非相應故？",
+        "translation": "In the case of those things that are stopped by insight into the arising of suffering, how many [afflictions] are associated with latent dormancy that increase and aren't associated with it, how many [afflictions] are associated with latent dormancy that increase and aren't associated with it, and how many [afflictions] are associated with latent dormancy that increase and aren't associated with it?",
+        "source": "T26n1542_003:0703c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：所緣故隨增非相應故者，謂見苦所斷遍行隨眠。",
+        "translation": "A: \"That which follows and increases because of its referents and isn't associated with it is the pervasive latencies that are stopped by seeing suffering.",
+        "source": "T26n1542_003:0703c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應故隨增非所緣故者，無。",
+        "translation": "Whatever corresponds, it follows and increases without being a cause, which is none.",
+        "source": "T26n1542_003:0703c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣故隨增亦相應故者，謂見集所斷一切隨眠。",
+        "translation": "That's because it's accompanied by and associated with what's conditioned, which is to see all the latencies that are eliminated by accumulation.",
+        "source": "T26n1542_003:0703c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非所緣故隨增非相應故者，謂見苦所斷非遍行，及見滅道修所斷一切隨眠。",
+        "translation": "Those who are not contingent and subsequently increase in a way that's not associated with it refer to all latencies that are stopped by seeing suffering as not pervasive, and all latencies that are stopped by cultivating the path to cessation.",
+        "source": "T26n1542_003:0703c25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見滅所斷法，幾隨眠所緣故隨增非相應故、幾隨眠相應故隨增非所緣故、幾隨眠所緣故隨增亦相應故、幾隨眠非所緣故隨增非相應故？",
+        "translation": "In terms of qualities stopped by insight into cessation, how many latent tendencies are associated with increase and non-association, how many latent tendencies are associated with increase and non-association, how many latent tendencies are associated with increase and non-association, and how many latent tendencies are non-associated with increase and non-association?",
+        "source": "T26n1542_003:0703c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：所緣故隨增非相應故者，謂遍行隨眠。",
+        "translation": "A: Whatever follows and increases because of the referent and isn't associated with it is the pervasive latencies.",
+        "source": "T26n1542_003:0704a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應故隨增非所緣故者，謂見滅所斷無漏緣隨眠。",
+        "translation": "That which increases concomitantly and follows as a consequence is called the uncontaminated conditioned latencies that are stopped by seeing extinction.",
+        "source": "T26n1542_003:0704a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣故隨增亦相應故者，謂見滅所斷有漏緣隨眠。",
+        "translation": "It's because it's accompanied by and associated with cognition that it refers to the contaminated cognitive latencies that are stopped by seeing cessation.",
+        "source": "T26n1542_003:0704a03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非所緣故隨增非相應故者，謂見苦集所斷非遍行，及見道修所斷一切隨眠。",
+        "translation": "What's not contingent and subsequently increases and isn't consequential means seeing what's stopped by suffering and accumulation as not pervasive, and seeing all the latent dormancy stopped by cultivation in the path.",
+        "source": "T26n1542_003:0704a04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於見道所斷法，幾隨眠所緣故隨增非相應故、幾隨眠相應故隨眠非所緣故、幾隨眠所緣故隨增亦相應故、幾隨眠非所緣故隨增非相應故？",
+        "translation": "In terms of the things stopped in the path of seeing, how much latent dormancy is associated with that which is increased and not associated with it, how much latent dormancy is associated with that which is not associated with it, how much latent dormancy is associated with that which is increased and also associated with it, and how much latent dormancy is not associated with that which is not associated with that which is increased and not associated with it?",
+        "source": "T26n1542_003:0704a06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：所緣故隨增非相應故者，謂遍行隨眠。",
+        "translation": "A: Whatever follows and increases because of the referent and isn't associated with it is the pervasive latent hindrances.",
+        "source": "T26n1542_003:0704a09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應故隨增非所緣故者，謂見道所斷無漏緣隨眠。",
+        "translation": "That which increases concomitantly and follows non-concomitantly refers to the uncontaminated conditioned latencies that are eliminated in the path of seeing.",
+        "source": "T26n1542_003:0704a10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣故隨增亦相應故者，謂見道所斷有漏緣隨眠。",
+        "translation": "Those who are proliferating because of causes and conditions and those who are concomitant with causes refer to the contaminated conditioned latencies that are stopped in the path of seeing.",
+        "source": "T26n1542_003:0704a11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非所緣故隨增非相應故者，謂見苦集所斷非遍行，及見滅修所斷一切隨眠。",
+        "translation": "When it's not contingent, it follows and is not concomitant with that, which is to see what's stopped by suffering and accumulation as not pervasive, and to see all the latent dormancies stopped by cultivation and cessation.",
+        "source": "T26n1542_003:0704a12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於修所斷法，幾隨眠所緣故隨增非相應故、幾隨眠相應故隨增非所緣故、幾隨眠所緣故隨增亦相應故、幾隨眠非所緣故隨增非相應故？",
+        "translation": "In terms of the qualities that are stopped by cultivation, how many [afflictions] are associated with latent dormancy that increase and aren't associated with it, how many [afflictions] are associated with latent dormancy that increase and aren't associated with it, how many [afflictions] are associated with latent dormancy that increase and are associated with it, and how many [afflictions] are associated with latent dormancy that aren't associated with it?",
+        "source": "T26n1542_003:0704a14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答：所緣故隨增非相應故者，謂遍行隨眠。",
+        "translation": "A: Someone who is proliferating because of the referent and not because of the concomitant is pervasively following sleep.",
+        "source": "T26n1542_003:0704a17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相應故隨增非所緣故者，無。",
+        "translation": "Whatever corresponds, it follows and increases without being a cause, which is none.",
+        "source": "T26n1542_003:0704a18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣故隨增亦相應故者，謂修所斷一切隨眠。",
+        "translation": "Those whose condition is that it follows and increases consequently are all the latent dormancies that are stopped by cultivation.",
+        "source": "T26n1542_003:0704a19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非所緣故隨增非相應故者，謂見苦集所斷非遍行，及見滅道所斷一切隨眠。",
+        "translation": "Those who are not contingent and subsequently increase in number and are not associated with it mean that they see what's stopped by suffering and accumulation that's not pervasive, and they see what's stopped by the path to cessation that's followed by dormancy.",
+        "source": "T26n1542_003:0704a20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如不定繫，欲界繫、色界繫、無色界繫亦爾。",
+        "translation": "As with indeterminate fetters, so are the fetters of the desire realm, the form realm, and the formless realm.",
+        "source": "T26n1542_003:0704a22_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說一切有部品類足論卷第三",
+        "translation": "Saṃyuktâgama-prakaraṇapāda-śāstra, Vol. 3",
+        "source": "T26n1542_003:0704a23_0",
+        "is_bad_quality": false
+    }
+]

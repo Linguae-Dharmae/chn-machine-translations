@@ -1,0 +1,3686 @@
+[
+    {
+        "source_sentence": "大智度論釋六喻品第七十七",
+        "translation": "Dazhiduolun shi liuxue pin sevenseven",
+        "source": "T25n1509_088:0675a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(卷八十八)",
+        "translation": "(Vol. 88)",
+        "source": "T25n1509_088:0675a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖者龍樹造",
+        "translation": "created by the sage Nāgârjuna",
+        "source": "T25n1509_088:0675a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後秦龜茲國三藏鳩摩羅什譯",
+        "translation": "Translated by Kumārajīva, Tripiṭaka of Kucha, Later Qin Dynasty",
+        "source": "T25n1509_088:0675a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "◎【經】須菩提白佛言：「世尊！",
+        "translation": "Â- [Sutra] Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0675a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無相、不可分別、自相空諸法中具足修六波羅蜜，所謂檀波羅蜜、尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪波羅蜜、般若波羅蜜？",
+        "translation": "\"What are the six perfections of the formless, nondiscriminable, and self-natured dharmas, which are called the perfection of giving, the perfection of śīla, the perfection of kṣatriya, the perfection of vīrya, the perfection of meditation, and the perfection of prajñā?",
+        "source": "T25n1509_088:0675a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊！",
+        "translation": "Bhagavān!",
+        "source": "T25n1509_088:0675a25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何無異法中而分別說異相？",
+        "translation": "How do you discern different characteristics in the absence of different dharmas?",
+        "source": "T25n1509_088:0675a25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何般若波羅蜜攝檀、尸、羼、精進、禪？",
+        "translation": "\"How does prajñāpāramit include giving, śramaṇa, diligence, and meditation?",
+        "source": "T25n1509_088:0675a26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何行異相法，以一相道得果？」",
+        "translation": "How does practicing a different characteristic lead to the realization of the path of one characteristic?\"",
+        "source": "T25n1509_088:0675a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告須菩提：「菩薩摩訶薩住五陰如夢、如響、如影、如焰、如幻、如化，住是中行布施、持戒、修忍辱、勤精進、入禪定、修智慧。",
+        "translation": "The Buddha told Subhūti, \"The bodhisattva Mahāsattva abides in the five aggregates as dream, sound, shadow, flame, illusion, and transformation, and he abides in them while practicing generosity, observing precepts, cultivating patience, diligently exerting himself, entering meditation, and cultivating wisdom.",
+        "source": "T25n1509_088:0675a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知是五陰實如夢、如響、如影、如焰、如幻、如化；五陰如夢無相，乃至如化無相。",
+        "translation": "They know that these five aggregates are really like dreams, like sounds, like shadows, like flames, like illusions, and like transformations, and that they are like dreams without marks or like transformations without marks.",
+        "source": "T25n1509_088:0675b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0675b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夢無自性，響、影、焰、幻、化皆無自性。",
+        "translation": "Dreams have no self-nature, and sounds, shadows, flames, illusions, and transformations all have no self-nature.",
+        "source": "T25n1509_088:0675b03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若法無自性，是法無相；若法無相，是法一相，所謂無相。",
+        "translation": "If a dharma has no self-nature, it's a dharma without marks, and if a dharma has no marks, it's a dharma with one mark, which is called formless.",
+        "source": "T25n1509_088:0675b04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣故，須菩提！",
+        "translation": "For this reason, Subhūti!",
+        "source": "T25n1509_088:0675b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知菩薩布施無相、施者無相、受者無相。",
+        "translation": "You should know that a bodhisattva's generosity has no characteristics, the donor has no characteristics, and the recipient has no characteristics.",
+        "source": "T25n1509_088:0675b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能如是知布施，是能具足檀波羅蜜乃至能具足般若波羅蜜，能具足四念處乃至八聖道分，能具足內空乃至無法有法空，能具足空三昧、無相、無作三昧，能具足八背捨、九次第定、五神通、五百陀羅尼門，能具足佛十力、四無所畏、四無礙智、十八不共法。",
+        "translation": "Those who can thus know generosity can fully possess the perfection of the perfection of giving and the perfection of the perfection of wisdom, the four abodes of mindfulness and even the eight noble factors of the path, internal emptiness and even the emptiness of nonexistence and dharmas, the samādhi of emptiness, signlessness, and noncontrivance, the eight renunciations, nine graduated concentrations, five supernormal powers, and five hundred dhāraṇī entries, and the ten powers of the Buddha, the four fearlessnesses, the four unhindered cognitions, and the eighteen uncommon dharmas.",
+        "source": "T25n1509_088:0675b07_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩住是報得無漏法中，飛到東方無量國土，供養諸佛衣服、飲食，乃至隨其所須而供養之。",
+        "translation": "Abiding in the untainted Dharma of these rewards, this bodhisattva flies to measureless lands in the east and makes offerings of clothing and food to the buddhas, even to the extent that he needs them.",
+        "source": "T25n1509_088:0675b12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦利益眾生，應以布施攝者，而布施攝之；應以持戒攝者，教令持戒；應以忍辱、精進、禪定、智慧攝者，教令忍辱、精進、禪定、智慧而攝取之；乃至應以種種善法攝者，以種種善法而攝取之。",
+        "translation": "It also benefits sentient beings by giving alms to those who should be given alms, teaching those who should observe precepts to observe them, teaching those who should be given patience, effort, meditation, and wisdom to observe them, teaching those who should be given patience, effort, meditation, and wisdom to observe them, and even by various good qualities to those who should be given various good qualities.",
+        "source": "T25n1509_088:0675b15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩成就是一切善法，受世間身，不為世間生死所污；為眾生故，於天、人中受尊貴富樂，以是尊貴富樂攝取眾生。",
+        "translation": "Accomplishing all these good qualities, the bodhisattva is endowed with an earthly body that isn't defiled by worldly birth and death, and for the sake of sentient beings, he's honored and enriched among gods and humans, and he collects sentient beings with such honor and prosperity.",
+        "source": "T25n1509_088:0675b19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩知一切法無相故，知須陀洹果亦不於中住，知斯陀含果、阿那含果、阿羅漢果亦不於中住，知辟支佛道亦不於中住。",
+        "translation": "Because this bodhisattva knows that all things lack characteristics, he knows that the fruit of stream entry doesn't reside in the middle, that the fruit of once-returning, non-returning, and arhatship doesn't reside in the middle, and that the path of the solitary realizers doesn't reside in the middle either.",
+        "source": "T25n1509_088:0675b21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0675b24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩用一切種智知一切法已，應當得一切種智，不與聲聞、辟支佛共。",
+        "translation": "\"After knowing all things with omniscience, this bodhisattva should attain omniscience that's not shared with direct disciples or solitary realizers.",
+        "source": "T25n1509_088:0675b24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0675b26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩知一切法無相已，知六波羅蜜無相，乃至知一切佛法無相。」",
+        "translation": "After the bodhisattva knows that all things are without marks, he knows that the six perfections are without marks, and he even knows that all Buddha-dharmas are without marks.\"",
+        "source": "T25n1509_088:0675b26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0675b28_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩住五陰如夢、如響、如影、如焰、如幻、如化，能具足無相尸羅波羅蜜。",
+        "translation": "The bodhisattva Mahāsattva abides in the five aggregates like a dream, like a sound, like a shadow, like a flame, like an illusion, and like a transformation, and he's able to fully possess the formless śīla-pāramitā.",
+        "source": "T25n1509_088:0675b28_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是戒不缺、不破、不雜、不著，聖人所讚無漏戒，入八聖道分；住是戒中持一切戒，所謂名字戒、自然戒、律儀戒、作戒、無作戒、威儀戒、非威儀戒。",
+        "translation": "These are precepts that are not lacking, not broken, not mixed, and not attached, which are praised by noble people as uncontaminated precepts that enter the eightfold noble path; abiding in these precepts, they uphold all the precepts, which are called the name precepts, the nature precepts, the discipline precepts, the created precepts, the uncreated precepts, the authoritative precepts, and the non-authoritative precepts.",
+        "source": "T25n1509_088:0675c01_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩成就諸戒，不作是願：『我以此戒因緣故，生剎利大姓、婆羅門大姓、居士大家、若小王家、若轉輪聖王家，若四天王天處生，若三十三天、夜摩天、兜率陀天、化樂天、他化自在天。』",
+        "translation": "Such a bodhisattva fulfills the precepts and doesn't make this vow: 'Because of these precepts, I'll be born into a great family of warriors, a great family of brāhmaṇas, a house of householders, a house of lesser kings, a house of wheel-turning sage kings, a birthplace in the Heaven of the Four Heavenly Kings, or in the Trāyastriṃśa Heaven, Yama Heaven, Tuṣita Heaven, Nirmāṇarati Heaven, or Paranirmitavaśavartin Heaven.'",
+        "source": "T25n1509_088:0675c04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不作是願：『我持戒因緣故，當得須陀洹果、斯陀含果、阿那含果、阿羅漢果、辟支佛道。』",
+        "translation": "Don't make this vow: 'Because I observe the causes and conditions of the precepts, I will attain the fruit of stream entry, the fruit of once-returning, the fruit of non-returning, the fruit of an arhat, and the path of a pratyekabuddha.'",
+        "source": "T25n1509_088:0675c08_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0675c10_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切法無相，所謂一相。",
+        "translation": "\"All things lack characteristics, which is called the single characteristic.",
+        "source": "T25n1509_088:0675c10_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無相法不能得無相法，有相法不能得有相法；無相法不能得有相法，有相法不能得無相法。",
+        "translation": "It's not possible to obtain a teaching without marks, and it's not possible to obtain a teaching with marks that has marks; it's not possible to obtain a teaching with marks that has no marks, and it's not possible to obtain a teaching without marks that has marks.",
+        "source": "T25n1509_088:0675c11_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0675c13_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜時，能具足無相尸羅波羅蜜而入菩薩位；入菩薩位已，得無生法忍；行道種智，得報得五神通；住五百陀羅尼門，得四無礙智。",
+        "translation": "When the bodhisattva Mahāsattva practices the perfection of prajñāpāramitā, he can fully attain the status of bodhisattva without marks, and after entering the bodhisattva status, he attains the forbearance of the nonarising of the Dharma, practices the knowledge of the seeds of the path, attains the five supernormal powers as a result, abides in the gate of the five hundred dhāraṇīs, and attains the four unhindered cognitions.",
+        "source": "T25n1509_088:0675c13_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從一佛國至一佛國，供養諸佛，成就眾生、淨佛國土。",
+        "translation": "From one buddha land to another, they make offerings to the buddhas, accomplish the success of sentient beings, and purify the buddha lands.",
+        "source": "T25n1509_088:0675c17_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖入五道中，生死業報不能染污。",
+        "translation": "Even though they enter the five destinies, the results of birth-and-death karma can't stain them.",
+        "source": "T25n1509_088:0675c18_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0675c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如化轉輪聖王，雖坐臥行住，不見來處，不見去處，不見住處、坐處、臥處，而能利益眾生，亦不得眾生；菩薩亦如是。",
+        "translation": "\"It's like the wheel-turning sage king who, although he sits and sleeps, walks and stands, doesn't see where he's coming from, doesn't see where he's going, and doesn't see where he's standing, sitting, or lying down, yet he's able to benefit sentient beings and doesn't obtain them; so it is with the bodhisattvas.",
+        "source": "T25n1509_088:0675c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0675c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如須扇多佛，得阿耨多羅三藐三菩提，為三乘轉法輪，無有得菩薩記者；化作化佛已，捨身壽命，入無餘涅槃。",
+        "translation": "Suppanta Buddha, for example, attains supreme perfect enlightenment, turns the Dharma wheel for the three vehicles, and there's no reporter who attains bodhisattvahood; after transforming into a transformation Buddha, he gives up his life and enters nirvāṇa without remainder.",
+        "source": "T25n1509_088:0675c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0675c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩亦如是，行般若波羅蜜時，能具足尸羅波羅蜜；具足尸羅波羅蜜已，攝取一切善法。",
+        "translation": "Thus, when practicing the perfection of prajñā, a bodhisattva can fully possess the perfection of śīla, and after fully possessing the perfection of śīla, he collects all good qualities.",
+        "source": "T25n1509_088:0675c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0675c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜時，住五陰如夢、如響、如影、如焰、如幻、如化，具足無相羼提波羅蜜。」",
+        "translation": "When bodhisattvas and mahāsattvas practice the perfection of prajñā, they abide in the five aggregates as dream, sound, shadow, flame, illusion, and transformation, replete with the perfection of formless kṣatriya.\"",
+        "source": "T25n1509_088:0675c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T25n1509_088:0675c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩摩訶薩具足無相羼提波羅蜜？」",
+        "translation": "How is the bodhisattva-mahāsattva fully endowed with the perfection of formless kṣatriya?\"",
+        "source": "T25n1509_088:0675c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0676a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩住二忍中，能具足羼提波羅蜜。",
+        "translation": "In the two kinds of forbearance that bodhisattvas and mahāsattvas abide, they can fully attain the perfection of the perfection of kṣatriya.",
+        "source": "T25n1509_088:0676a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等二忍？",
+        "translation": "What are these two kinds of forbearance?",
+        "source": "T25n1509_088:0676a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生忍、法忍。",
+        "translation": "\"Forbearance of sentient beings and forbearance of the Dharma.",
+        "source": "T25n1509_088:0676a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從初發意乃至坐道場，於其中間，若一切眾生來罵詈麁惡語，或以瓦石、刀杖加是菩薩，是菩薩欲具足羼提波羅蜜故，乃至不生一念惡。",
+        "translation": "From the time he first arouses his intention until he sits on the site of enlightenment, if all sentient beings come to ridicule him with harsh words or attack him with tiles, stones, or knives, that bodhisattva desires to perfect the perfection of the perfection of karmic discipline, even to the point of not producing a single bad thought.",
+        "source": "T25n1509_088:0676a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩如是思惟：『罵我者誰？",
+        "translation": "That bodhisattva thus thinks, 'Who's that person who's scolding me?'",
+        "source": "T25n1509_088:0676a06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "害我者誰？",
+        "translation": "Who are those who harm me?",
+        "source": "T25n1509_088:0676a06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以惡言加我、以瓦石刀杖害我者誰？』",
+        "translation": "Who would inflict evil words on me or harm me with a tile, stone, or sword?'",
+        "source": "T25n1509_088:0676a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0676a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩於一切法得無相忍故，云何作是念：『是人罵我、害我』？",
+        "translation": "Because this bodhisattva has attained markless tolerance of all phenomena, how does he think, 'That person ridicules me and harms me'?",
+        "source": "T25n1509_088:0676a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩如是行，能具足羼提波羅蜜。",
+        "translation": "If a bodhisattva-mahāsattva thus practices, he can fully attain the perfection of kṣatriya.",
+        "source": "T25n1509_088:0676a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是羼提波羅蜜具足故，得無生法忍。」",
+        "translation": "Because this perfection of kṣatriya-pāramitā is complete, they'll attain the patience of the nonarising of the Dharma.\"",
+        "source": "T25n1509_088:0676a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0676a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為無生法忍？",
+        "translation": "What is the acceptance of nonarising?",
+        "source": "T25n1509_088:0676a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是忍何所斷？",
+        "translation": "What is it that is stopped by forbearance?",
+        "source": "T25n1509_088:0676a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何所知？」",
+        "translation": "What do you know?\"",
+        "source": "T25n1509_088:0676a12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告須菩提：「得法忍，乃至不生少許不善法，是故名無生法忍。",
+        "translation": "The Buddha told Subhūti, \"Attaining the tolerance of dharmas, even when few unskillful qualities are not produced, is called the tolerance of the nonarising of dharmas.",
+        "source": "T25n1509_088:0676a12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切菩薩所斷煩惱盡，是名斷；用智慧知一切法不生，是名知。」",
+        "translation": "To end all the afflictions that bodhisattvas have ended is called ending, and to know with wisdom that all things don't arise is called knowing.\"",
+        "source": "T25n1509_088:0676a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0676a15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸聲聞辟支佛無生法忍、菩薩無生法忍，有何等異？」",
+        "translation": "What's the difference between the śrāvakas and pratyekbuddhas' tolerance of the nonarising of the Dharma and the bodhisattvas' tolerance of the nonarising of the Dharma?\"",
+        "source": "T25n1509_088:0676a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告須菩提：「諸須陀洹若智、若斷，是名菩薩忍；斯陀含若智、若斷，是名菩薩忍；阿那含若智、若斷，是名菩薩忍；阿羅漢若智、若斷，是名菩薩忍；辟支佛若智、若斷，是名菩薩忍。",
+        "translation": "The Buddha told Subhūti, \"It's called bodhisattva tolerance if the stream-winners know and stop; it's called bodhisattva tolerance if the once-returners know and stop; it's called bodhisattva tolerance if the non-returners know and stop; it's called bodhisattva tolerance if the arhats know and stop; and it's called bodhisattva tolerance if the solitary realizers know and stop.",
+        "source": "T25n1509_088:0676a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為異。",
+        "translation": "These are the differences.",
+        "source": "T25n1509_088:0676a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0676a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩成就是忍，勝一切聲聞、辟支佛。",
+        "translation": "The bodhisattva-mahāsattva achieves this kind of forbearance, which is superior to that of all śrāvakas and pratyekabuddhas.",
+        "source": "T25n1509_088:0676a21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住如是報得無生忍中，行菩薩道，能具足道種智；具足道種智故，常不離三十七助道法及空、無相、無作三昧，常不離五神通；不離五神通故，能成就眾生、淨佛國土；成就眾生、淨佛國土已，當得一切種智。",
+        "translation": "Abiding in this kind of forbearance that obtains the result of nonproduction, they practice the bodhisattva path and can fully possess the knowledge of the steps of the path; because they possess the knowledge of the steps of the path, they never part from the thirty-seven factors that aid in the path, the samādhi of emptiness, signlessness, and unconstructedness, and they never part from the five supernormal powers; because they don't part from the five supernormal powers, they can accomplish the sentient beings and purify the Buddha's land; and after accomplishing the sentient beings and purifying the Buddha's land, they'll attain the knowledge of all kinds.",
+        "source": "T25n1509_088:0676a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0676a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩具足無相羼提波羅蜜。",
+        "translation": "\"The bodhisattva Mahāsattva is fully endowed with the perfection of formless kṣatriya.",
+        "source": "T25n1509_088:0676a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0676a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩住無相五陰如夢、如響、如影、如焰、如幻、如化，行身精進、心精進。",
+        "translation": "The bodhisattva Mahāsattva abides in the five aggregates without marks like a dream, like a sound, like a shadow, like a flame, like an illusion, and like a transformation, and he conducts himself with physical and mental exertion.",
+        "source": "T25n1509_088:0676a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以身精進故起神通；起神通故，到十方國土，供養諸佛、饒益眾生；以身精進力教化眾生，令住三乘。",
+        "translation": "Because of that physical exertion, they give rise to supernormal powers; because they give rise to supernormal powers, they travel to lands in the ten directions, making offerings to the buddhas and benefiting sentient beings; and because of the power of their physical exertion, they teach sentient beings and cause them to abide in the three vehicles.",
+        "source": "T25n1509_088:0676b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0676b03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜，能具足無相精進波羅蜜。",
+        "translation": "When a bodhisattva practices the perfection of prajñā, he can fully realize the perfection of formless effort.",
+        "source": "T25n1509_088:0676b03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩以心精進、聖無漏精進，入八聖道分中，能具足毘梨耶波羅蜜。",
+        "translation": "With mental effort and noble uncontaminated effort, the bodhisattva enters the eightfold noble path, and he can fully possess the perfection of vīrya.",
+        "source": "T25n1509_088:0676b04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是毘梨耶波羅蜜皆攝一切善法，所謂四念處、四正勤、四如意足、五根、五力、七覺分、八聖道分，四禪、四無量心、四無色定、八解脫、九次第定，佛十力、四無所畏、四無礙智、十八不共法。",
+        "translation": "This perfection of vīrya includes all the good qualities, which are the four abodes of mindfulness, the four correct endeavors, the four miraculous abilities, the five faculties, the five powers, the seven factors of awakening, the eight factors of the noble path, the four meditations, the four immeasurable states of mind, the four formless concentrations, the eight liberations, the nine graduated concentrations, the Buddha's ten powers, the four fearlessnesses, the four unhindered cognitions, and the 18 uncommon dharmas.",
+        "source": "T25n1509_088:0676b06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩行是法，應具足一切種智；具足一切種智已，斷一切煩惱習，具足滿三十二相，身放無等無量光明；放光明已，三轉十二行法輪；法輪轉故，三千大千世界六種震動，光明遍照三千大千世界；三千大千世界中眾生聞說法聲，皆以三乘法而得度脫。",
+        "translation": "Such a bodhisattva practicing this teaching should possess omniscience, and after possessing omniscience, he stops all afflictive habits, fully completes the thirty-two marks, and emits an unequalled amount of measureless light from his body; after emitting that light, he turns the Dharma wheel three times in twelve steps; as a result of the Dharma wheel's turning, six kinds of vibrations in the 3,000 great one-thousand worlds occur, and light pervades the 3,000 great one-thousand worlds; all the sentient beings in the 3,000 great one-thousand worlds who hear the sound of the teaching will be liberated by the teachings of the three vehicles.",
+        "source": "T25n1509_088:0676b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Suppository!",
+        "source": "T25n1509_088:0676b16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩住精進波羅蜜中，能大饒益及能具足一切種智。",
+        "translation": "The bodhisattva Mahāsattva abides in the perfection of effort, which is capable of greatly benefiting and fully possessing all kinds of cognition.",
+        "source": "T25n1509_088:0676b16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0676b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩住無相五陰如夢、如響、如影、如焰、如幻、如化，能具足禪波羅蜜。」",
+        "translation": "Bodhisattvas abide in the five aggregates without marks like a dream, like a sound, like a shadow, like a flame, like an illusion, and like a transformation, and they're able to fully possess the perfection of the perfection of meditation.\"",
+        "source": "T25n1509_088:0676b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T25n1509_088:0676b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩住五陰如夢、如響、如影、如焰、如幻、如化，能具足禪波羅蜜？」",
+        "translation": "How do bodhisattvas abide in the five aggregates as dream, sound, shadow, flame, illusion, and transformation, and how can they fully possess the perfection of meditation?\"",
+        "source": "T25n1509_088:0676b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0676b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩入初禪乃至入第四禪，入慈、悲、喜、捨無量心，入無邊虛空處乃至入非有想非無想處，入空三昧、無相、無作三昧，入如電光三昧，入如金剛三昧，入聖正三昧；除諸佛三昧，諸餘三昧，若共聲聞、辟支佛三昧，皆證皆入；亦不受三昧味，亦不受三昧果。",
+        "translation": "The bodhisattva Mahāsattva enters the first meditation ... enters the fourth meditation ... enters the immeasurable mind of kindness, pity, joy, and equanimity ... enters the sphere of infinite space ... enters the sphere of neither perception nor non-perception ... enters the samādhi of emptiness, the samādhi of signlessness and non-contrivance ... enters the samādhi of lightning-like light ... enters the samādhi of adamantine ... enters the noble and correct samādhi ... and realizes all of the other samādhis except the samādhis of the buddhas and the samādhis of the śrāvakas and pratyekabuddhas, and doesn't experience the taste of samādhi or the fruit of samādhi.",
+        "source": "T25n1509_088:0676b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0676b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩知是三昧無相、無所有性，當云何於無相法受無相法味、無所有法受無所有法味？",
+        "translation": "If this bodhisattva knows that this samādhi has no marks and no essence, how will he experience the taste of markless dharmas and the taste of markless dharmas when they have no marks?",
+        "source": "T25n1509_088:0676b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不受味，則不隨禪定力生若色界、若無色界。",
+        "translation": "If they don't experience taste, then they won't be born in the form realm or the formless realm by virtue of their meditation.",
+        "source": "T25n1509_088:0676b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0676c01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩不見是二界，亦不見是禪，亦不見入禪者，亦不見用法入禪者。",
+        "translation": "This is a bodhisattva who doesn't see these two elements, doesn't see this meditation, doesn't see someone who enters meditation, and doesn't see someone who enters meditation using the Dharma.",
+        "source": "T25n1509_088:0676c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不得是法，即能具足無相禪波羅蜜。",
+        "translation": "If they don't attain this teaching, then they'll be able to fully realize the perfection of formless meditation.",
+        "source": "T25n1509_088:0676c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩用是禪波羅蜜，能過聲聞、辟支佛地。」",
+        "translation": "With this perfection of meditation, a bodhisattva can surpass the stages of śrāvakas and pratyekbuddhas.\"",
+        "source": "T25n1509_088:0676c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0676c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩具足無相禪波羅蜜故能過聲聞、辟支佛地？」",
+        "translation": "How can a bodhisattva's perfection of the perfection of signless meditation enable him to surpass the stages of śrāvakas and pratyekabuddhas?\"",
+        "source": "T25n1509_088:0676c05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告須菩提：「菩薩善學內空，善學外空，乃至善學無法有法空；於是諸空，無法可住處——若須陀洹果，若斯陀含果、阿那含果、阿羅漢果，乃至一切種智；是諸空亦空。",
+        "translation": "The Buddha told Subhūti, \"A bodhisattva well trains in internal emptiness, well trains in external emptiness, and well trains in the emptiness of nonexistence; in these kinds of emptiness, there's no place to abide - whether it's the fruit of stream entry, the fruit of once-returning, the fruit of non-returning, the fruit of arhatship, or even the cognition of all kinds; these are emptinesses as well.",
+        "source": "T25n1509_088:0676c07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行如是諸空，能入菩薩位中。」",
+        "translation": "When bodhisattvas and mahāsattvas practice such emptiness, they can enter the bodhisattva stage.\"",
+        "source": "T25n1509_088:0676c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0676c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩摩訶薩位？",
+        "translation": "What is the bodhisattva-mahāsattva stage?",
+        "source": "T25n1509_088:0676c12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何非位？」",
+        "translation": "How is it not a position?\"",
+        "source": "T25n1509_088:0676c12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0676c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切有所得是非菩薩位，一切無所得是菩薩位。」",
+        "translation": "Everything that's attained is the non-bodhisattva stage, and everything that's unattained is the bodhisattva stage.\"",
+        "source": "T25n1509_088:0676c13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T25n1509_088:0676c14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等是有所得？",
+        "translation": "What is it that has been gained?",
+        "source": "T25n1509_088:0676c14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等是無所得？」",
+        "translation": "What is unobtainable?\"",
+        "source": "T25n1509_088:0676c14_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0676c15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色是有所得，受、想、行、識是有所得，眼、耳、鼻、舌、身、意，乃至一切種智有所得，是非菩薩位。",
+        "translation": "'When form is acquired, feeling, perception, volition, and consciousness are acquired, and the eye, ear, nose, tongue, body, and mind, up to and including all kinds of cognition, are acquired, that's not the bodhisattva stage.'",
+        "source": "T25n1509_088:0676c15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0676c17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩位者，是諸法不可示、不可說。",
+        "translation": "\"The bodhisattva stage is one in which the various dharmas are not to be shown or explained.",
+        "source": "T25n1509_088:0676c17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等法不可示、不可說？",
+        "translation": "What are the things that can't be shown or explained?",
+        "source": "T25n1509_088:0676c18_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若色乃至一切種智。",
+        "translation": "\"Suppose there's form ... up to all kinds of cognition.",
+        "source": "T25n1509_088:0676c18_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0676c19_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0676c19_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色性是不可示、不可說，乃至一切種智性是不可示、不可說。",
+        "translation": "The nature of form is not to be shown or explained, and even the nature of omniscience is not to be shown or explained.",
+        "source": "T25n1509_088:0676c19_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0676c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名菩薩位。",
+        "translation": "Thus, it's called the bodhisattva stage.",
+        "source": "T25n1509_088:0676c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩入位中，一切禪定、三昧具足，尚不隨禪定、三昧力生，何況住婬、怒、癡，於中起罪業生！",
+        "translation": "In this bodhisattva's stage of entry, all meditation and concentration are complete, and yet they don't arise from the power of meditation and concentration, so why would they abide in lust, anger, and delusion, in which sinful activity arises?",
+        "source": "T25n1509_088:0676c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩但住如幻法中饒益眾生，亦不得眾生及如幻法。",
+        "translation": "\"When a bodhisattva only abides in illusory things to benefit sentient beings, he doesn't attain sentient beings and illusory things.",
+        "source": "T25n1509_088:0676c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無所得，是時，能成就眾生、淨佛國土。",
+        "translation": "If they don't attain them, then they'll be able to accomplish the goal of purifying the land of the Buddha for sentient beings.",
+        "source": "T25n1509_088:0676c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Suppository!",
+        "source": "T25n1509_088:0676c25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩具足無相禪波羅蜜，乃至能轉法輪，所謂不可得法輪。",
+        "translation": "This is called a bodhisattva who has fully realized the perfection of formless meditation ... and who can turn the wheel of the Dharma, which is called the unobtainable wheel of the Dharma.",
+        "source": "T25n1509_088:0676c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0676c27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜，知一切法如夢、如響、如焰、如影、如幻、如化。」",
+        "translation": "A bodhisattva practicing prajñā-pāramitā knows that all things are dreamlike, resonant, flaming, shadowed, illusory, and transformative.\"",
+        "source": "T25n1509_088:0676c27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0676c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩云何知一切法如夢、如響、如影、如焰、如幻、如化？」",
+        "translation": "How does the bodhisattva Mahāsattva know all dharmas as dreams, as sounds, as shadows, as flames, as illusions, and as transformations?\"",
+        "source": "T25n1509_088:0676c29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0677a02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜時，不見夢、不見見夢者，不見響、不見聞響者，不見影、不見見影者，不見焰、不見見焰者，不見幻、不見見幻者，不見化、不見見化者。",
+        "translation": "When bodhisattvas Mahāsattvas practice the perfection of wisdom, they don't see dreams and don't see those who see dreams, don't see sounds and don't hear sounds, don't see shadows and don't see shadows, don't see flames and don't see flames, don't see illusions and don't see illusions, and don't see transformation and don't see transformation.",
+        "source": "T25n1509_088:0677a02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0677a05_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是夢、響、影、焰、幻、化皆是凡夫愚人顛倒法故。",
+        "translation": "\"Dreams, sounds, shadows, flames, illusions, and transformations are all mistaken concepts of ordinary foolish people.",
+        "source": "T25n1509_088:0677a06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿羅漢不見夢、不見見夢者，乃至不見化、不見見化者；辟支佛、菩薩摩訶薩、諸佛亦不見夢、不見見夢者，乃至不見化、亦不見見化者。",
+        "translation": "Arhats don't see dreams and don't see those who see dreams, and they don't see those who are created and don't see those who are created; pratyekabuddhas, bodhisattvas, mahāsattvas, and buddhas also don't see dreams and don't see those who dream, and they don't see those who are created and don't see those who are created.",
+        "source": "T25n1509_088:0677a07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0677a10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切法無所有性、不生、不定。",
+        "translation": "\"All things are lacking in nature, unarisen, and indeterminate.",
+        "source": "T25n1509_088:0677a10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若法無所有性、不生、不定，菩薩摩訶薩當云何行般若波羅蜜，是中取生相、定相？",
+        "translation": "If all dharmas are lacking in nature, unarisen, and indeterminate, how will the bodhisattva Mahāsattva practice prajñāpāramit, which grasps the marks of arising and the marks of concentration?",
+        "source": "T25n1509_088:0677a10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是處不然！",
+        "translation": "This is not the case!",
+        "source": "T25n1509_088:0677a12_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0677a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸法少多有性、有生、有定，不名修般若波羅蜜。",
+        "translation": "If few and many things have a nature, are produced, or are concentrated, that's not called cultivating the perfection of wisdom.",
+        "source": "T25n1509_088:0677a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0677a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜，不著色乃至不著識，不著欲、色、無色界，不著諸禪、解脫、三昧，不著四念處乃至八聖道分，不著空三昧、無相、無作三昧，不著檀波羅蜜、尸羅波羅蜜、羼提波羅蜜、毘梨耶波羅蜜、禪波羅蜜、般若波羅蜜。",
+        "translation": "When a bodhisattva practices the perfection of wisdom, he doesn't become attached to form or even to consciousness, doesn't become attached to the desire, form, or formless realms, doesn't become attached to meditation, liberation, and concentration, doesn't become attached to the four abodes of mindfulness or even the eight noble factors of the path, doesn't become attached to the samādhi of emptiness, the samādhi of signlessness, and the samādhi of noncontrivance, and doesn't become attached to the perfection of doneness, the perfection of śīla, the perfection of kṣatriya, the perfection of vairocana, the perfection of meditation, or the perfection of wisdom.",
+        "source": "T25n1509_088:0677a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不著故，能具足菩薩初地，於初地中亦不生著。",
+        "translation": "Because they aren't attached, they're able to fully complete the bodhisattva's first ground, and they don't become attached in that first ground.",
+        "source": "T25n1509_088:0677a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0677a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩不得是地，云何生貪著？",
+        "translation": "If this bodhisattva doesn't attain this stage, how does he become addicted?",
+        "source": "T25n1509_088:0677a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至十地亦如是。",
+        "translation": "*Up to the tenth ground is likewise.",
+        "source": "T25n1509_088:0677a21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩行般若波羅蜜，亦不得般若波羅蜜；若行般若波羅蜜時不得般若波羅蜜，是時見一切法皆入般若波羅蜜中，亦不得是法。",
+        "translation": "When a bodhisattva practices prajñā-pāramit, he doesn't attain prajñā-pāramit; if he doesn't attain prajñā-pāramit when he practices prajñā-pāramit, then he sees that all things enter prajñā-pāramit, and he doesn't attain that thing either.",
+        "source": "T25n1509_088:0677a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0677a25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸法與般若波羅蜜無二無別。",
+        "translation": "\"These things are not two or different from the perfection of wisdom.",
+        "source": "T25n1509_088:0677a25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0677a26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸法入如、法性、實際故無分別。」",
+        "translation": "All things enter into thusness, Dharma nature, and reality, so there's no discrimination.\"",
+        "source": "T25n1509_088:0677a26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0677a27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸法無相、無分別，云何說是善是不善、是有漏是無漏、是世間是出世間、是有為是無為？」",
+        "translation": "If all dharmas are without marks and without discrimination, how can it be said that they are good or unskillful, contaminated or uncontaminated, mundane or transmundane, and acquired or unacquired?\"",
+        "source": "T25n1509_088:0677a27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0677a29_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於汝意云何？",
+        "translation": "What do you think?",
+        "source": "T25n1509_088:0677a29_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸法實相中，有法可說是善、是不善，乃至是有為、是無為，是須陀洹果乃至是阿羅漢、是辟支佛、是菩薩、是阿耨多羅三藐三菩提不？」",
+        "translation": "Is there anything in the true characteristics of dharmas that can be said to be good or unskillful, even existent or inactive, the fruit of stream entry or even arhat, pratyekabuddha, bodhisattva, or unsurpassed, samyak-saṃbodhi?\"",
+        "source": "T25n1509_088:0677b01_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T25n1509_088:0677b04_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不可說也！」",
+        "translation": "I cannot explain it!\"",
+        "source": "T25n1509_088:0677b04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0677b04_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣故，當知一切法無相、無分別、無生、無定、不可示。",
+        "translation": "Because of these causes and conditions, you should know that all things lack characteristics, lack discrimination, lack birth, lack definition, and are not to be revealed.",
+        "source": "T25n1509_088:0677b04_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0677b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我本行菩薩道時，亦無有法可得性，若色、若受想行識乃至若有為、若無為，須陀洹果乃至阿耨多羅三藐三菩提。",
+        "translation": "When I started out on the bodhisattva path, there was no such thing as the knowable nature of things, whether form, feeling, perception, volition, consciousness, or even something with or without effort, or the fruit of stream entry or even the unsurpassed, correct, and complete enlightenment.",
+        "source": "T25n1509_088:0677b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0677b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜，從初發意乃至阿耨多羅三藐三菩提，應善學諸法性；善學諸法性故，是名阿耨多羅三藐三菩提道。",
+        "translation": "When a bodhisattva practicing the perfection of wisdom, from the first arousal of the intention up to unsurpassed perfect enlightenment, he or she should skillfully train in the nature of dharmas; skillfully training in the nature of dharmas is called the path to unsurpassed perfect enlightenment.",
+        "source": "T25n1509_088:0677b09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行是道，能具足六波羅蜜，成就眾生、淨佛國土；住是法中得阿耨多羅三藐三菩提，以三乘法度脫眾生，亦不著三乘。",
+        "translation": "Practicing this path, they'll be able to fully realize the six perfections, accomplish sentient beings, and purify the Buddha's land; abiding in this way, they'll attain unsurpassed, correct, and complete enlightenment, liberating sentient beings with the teachings of the three vehicles and not clinging to the three vehicles.",
+        "source": "T25n1509_088:0677b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0677b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩以無相法應學般若波羅蜜。」",
+        "translation": "The bodhisattva Mahāsattva should train in the perfection of wisdom because of the signlessness of dharmas.\"",
+        "source": "T25n1509_088:0677b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "【論】問曰：須菩提問佛：「若諸法無相無分別，云何差別說六波羅蜜？」",
+        "translation": "[Commentary] asked, \"Suppository asked the Buddha, 'If all dharmas are without marks and without discrimination, how are the six perfections explained differently?'\"",
+        "source": "T25n1509_088:0677b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛還答：「菩薩住是如夢五眾中，能具足六波羅蜜。」",
+        "translation": "The Buddha also answered, \"A bodhisattva abiding in these five multitudes like a dream can fully realize the six perfections.\"",
+        "source": "T25n1509_088:0677b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提以空問，佛還以空答，此問答云何得別異？",
+        "translation": "When Subhūti asked this question about emptiness and the Buddha answered it back with an answer about emptiness, how could this question and answer be any different?",
+        "source": "T25n1509_088:0677b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：須菩提問：「若諸法空，今眼見菩薩行六波羅蜜作佛！」",
+        "translation": "Answer: Subhūti asked, \"If all dharmas were empty, would the eye now see a bodhisattva practice the six perfections and become a buddha!\"",
+        "source": "T25n1509_088:0677b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛答：凡夫遠實智慧，取相，見菩薩行六波羅蜜作佛，著是空法故難。",
+        "translation": "The Buddha answered, \"Ordinary people who are far from true wisdom and grasp to characteristics see that bodhisattvas practice the six perfections to become buddhas and are attached to the dharma of emptiness, so it's difficult.",
+        "source": "T25n1509_088:0677b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩雖住五眾，住五眾如幻、如夢空法中，亦以空心行布施，是故雖行諸法，具足六波羅蜜，不妨於空。",
+        "translation": "Even though the bodhisattva abides in the five aggregates and abides in the five aggregates as illusory and dreamlike emptiness, he also makes offerings with an empty mind; therefore, even though he practices all dharmas and is fully endowed with the six perfections, he might as well be empty.",
+        "source": "T25n1509_088:0677b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如雲霧，遠視則見，近之則無所見。",
+        "translation": "It's like a cloud that's visible when you look at it from afar but invisible when you get close to it.",
+        "source": "T25n1509_088:0677b25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡夫亦如是，遠實相故，見諸佛。",
+        "translation": "Ordinary people are likewise, seeing the buddhas because they're distant from their true characteristics.",
+        "source": "T25n1509_088:0677b26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩近實相故，見皆空，是故不妨；不妨故，能於檀波羅蜜一念中具足行諸善法。",
+        "translation": "Because bodhisattvas come close to true characteristics, they see them all as empty, so they can't; because they can't, they can fully practice the good qualities in a single thought of the perfection of giving.",
+        "source": "T25n1509_088:0677b27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人常修無漏清淨波羅蜜故，轉身還報得無漏波羅蜜。",
+        "translation": "Because this person always cultivates the uncontaminated pure perfection, he transforms his body and returns to the reward to attain the uncontaminated perfection.",
+        "source": "T25n1509_088:0677b29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "報得名更不修行，自然而得；譬如報得眼根，自然能見色。",
+        "translation": "When the reward is given a name, he doesn't cultivate it, but attains it naturally, like when the reward is given the eye faculty, which can naturally see form.",
+        "source": "T25n1509_088:0677c01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得是報得無漏波羅蜜已，能變一身作無量阿僧祇身，於十方佛所具足聞諸佛甚深法，度脫十方眾生，漸漸淨佛世界，隨願作佛。",
+        "translation": "After attaining this reward and attaining the untainted perfection, he can transform his body into measureless incalculable bodies, fully hear the profound teachings of the buddhas in the ten directions, liberate sentient beings in the ten directions, and gradually purify the buddha world and become a buddha according to his wishes.",
+        "source": "T25n1509_088:0677c02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：若諸法空無相，云何分別？",
+        "translation": "He asks, \"If all things are empty and have no characteristics, how can they be discerned?",
+        "source": "T25n1509_088:0677c05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何得知行檀波羅蜜等，各各具足餘波羅蜜？",
+        "translation": "\"How do you know that the perfection of practice of the perfection of giving is fully acquired by each of the other perfections?",
+        "source": "T25n1509_088:0677c06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：行者雖不自分別，而諸佛、菩薩說其行檀、行尸，具足諸行。",
+        "translation": "Answer: \"Although practitioners don't discriminate for themselves, the buddhas and bodhisattvas say that their practices are complete in terms of the donations and practices.",
+        "source": "T25n1509_088:0677c07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如聲聞人入見諦，無漏、無相、無分別法中，餘聖人亦數其所入法：知諸法實相，所謂無相相，是名正見；正見得力已，名為正行；是時不惱眾生，不作諸惡，是名正語、正業、正命。",
+        "translation": "As a direct disciple enters the truth of views, which is uncontaminated, markless, and undiscriminated, so do other sages count the things they enter: knowing the true characteristics of things, which are called markless characteristics, is called right view; when right view is attained, it's called right practice; not troubling sentient beings or doing evil then is called right speech, right action, and right livelihood.",
+        "source": "T25n1509_088:0677c09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時雖無所說、亦無所造，而名為正語、正業。",
+        "translation": "At that point, even though there's nothing to say and nothing to create, it's called right speech and right action.",
+        "source": "T25n1509_088:0677c13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0677c14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名深妙正語、正業，所謂畢竟不惱眾生故。",
+        "translation": "This is called profound and subtle right speech and right action, which is called not bothering sentient beings after all.",
+        "source": "T25n1509_088:0677c14_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中發心有所造作，是名精進；繫念緣中，是名正念；攝心一處，是名正定。",
+        "translation": "This is called effort, which arouses the mind to create something, right mindfulness which is right concentration, and single-mindedness which is right concentration.",
+        "source": "T25n1509_088:0677c15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見身、受、心、法實相，是名「四念處」。",
+        "translation": "To see the true characteristics of body, feeling, mind, and dharmas is called the \"four abodes of mindfulness.\"",
+        "source": "T25n1509_088:0677c17_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至七覺意，亦如是。",
+        "translation": "Up to the seven factors of awakening, it's likewise.",
+        "source": "T25n1509_088:0677c18_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於四念處中，亦如八直聖道中，諸聖人為數。",
+        "translation": "In these four abodes of mindfulness, they're also like the eightfold noble path in which sages are numerous.",
+        "source": "T25n1509_088:0677c18_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩亦如是，行是無相檀波羅蜜，能具足尸波羅蜜等諸善法。",
+        "translation": "Similarly, bodhisattvas who practice this formless perfection of giving can fully possess such good qualities as the perfection of moral discipline.",
+        "source": "T25n1509_088:0677c19_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如檀波羅蜜，尸波羅蜜等攝諸善法亦如是。",
+        "translation": "As the perfection of giving, the perfection of morality and other good qualities are likewise included.",
+        "source": "T25n1509_088:0677c21_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：上品中以一波羅蜜具諸波羅蜜，此無相攝一切法，有何差別？",
+        "translation": "Q: In the first category, the perfection of one perfection was fully present in all the perfections, but what's the difference between this markless inclusion of all dharmas?",
+        "source": "T25n1509_088:0677c22_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：上以一念中能具諸波羅蜜，此以諸法雖空無相而能具諸波羅蜜為異。",
+        "translation": "Answer: The above is based on the fact that the perfections can be possessed in a single thought, and this is based on the difference that the perfections can be possessed even though the dharmas are empty and without marks.",
+        "source": "T25n1509_088:0677c23_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "◎◎大智度論釋四攝品第七十八【經】須菩提白佛言：「世尊！",
+        "translation": "The four collections of the Mahāprajñāpāramitā-śāstra, the seventy-eighth [sūtra], were explained by Subhūti to the Buddha, saying, \"Bhagavān!",
+        "source": "T25n1509_088:0677c25_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸法如夢、如響、如影、如焰、如幻、如化，無有實事、無所有性、自相空者，云何分別是善法、是不善法，是世間法、是出世間法，是有漏法、是無漏法，是有為法、是無為法，是法能得須陀洹果，能得斯陀含果、阿那含果、阿羅漢果，能得辟支佛道，能得阿耨多羅三藐三菩提？」",
+        "translation": "If all dharmas are like dreams, like sounds, like shadows, like flames, like illusions, like transformations, and have no real thing, no essence, and are empty of their own characteristics, how can one discern what is a good dharma, what is an unskillful dharma, what is a worldly dharma, what is a transmundane dharma, what is a contaminated dharma, what is an uncontaminated dharma, what is a created dharma, what is an uncreated dharma, and what is capable of attaining the fruit of stream entry, the fruit of once-returning, the fruit of non-returning, the fruit of the arhat, the path of the solitary buddha, and the unsurpassed, corrected, and complete enlightenment?\"",
+        "source": "T25n1509_088:0677c27_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告須菩提：「凡夫愚人得夢、得見夢者，乃至得化、得見化者，起身口意善業、不善業、無記業，起福業、若起罪業、作不動業。",
+        "translation": "The Buddha told Subhūti, \"Ordinary foolish people who dream and see dreams or who are converted and see conversions produce good, unskillful, or indeterminate actions of body, speech, and thought, as well as meritorious actions or sinful or immovable actions.",
+        "source": "T25n1509_088:0678a04_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩摩訶薩行般若波羅蜜，住二空中——畢竟空、無始空，為眾生說法，作是言：『諸眾生！",
+        "translation": "This is the bodhisattva Mahāsattva who practices the perfection of wisdom, abides in two kinds of emptiness-absolute emptiness and beginningless emptiness-and teaches sentient beings, saying, 'Sentient beings!",
+        "source": "T25n1509_088:0678a07_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是色空無所有，受、想、行、識空無所有；十二入、十八界空無所有。",
+        "translation": "\"Form is empty and lacks existence, feeling, perception, volition, and consciousness are empty and lack existence, and the twelve sense-fields and eighteen elements are empty and lack existence.",
+        "source": "T25n1509_088:0678a09_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色是夢，受、想、行、識是夢；十二入、十八界是夢。",
+        "translation": "Form is a dream, feeling, perception, volition, and consciousness are dreams, and the twelve sense-fields and eighteen elements are dreams.",
+        "source": "T25n1509_088:0678a10_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "色是響、是影、是焰、是幻、是化，受、想、行、識亦如是。",
+        "translation": "As form is sound, shadow, flame, illusion, and transformation, so are feeling, perception, volition, and consciousness.",
+        "source": "T25n1509_088:0678a11_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二入、十八界是夢、是響、是影、是焰、是幻、是化。",
+        "translation": "The twelve sense-fields and eighteen elements are dreams, and they are sounds, shadows, flames, illusions, and transformations.",
+        "source": "T25n1509_088:0678a12_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中無陰、入、界，無夢亦無見夢者，無響亦無聞響者，無影亦無見影者，無焰亦無見焰者，無幻亦無見幻者，無化亦無見化者。",
+        "translation": "There are no aggregates, formations, or elements, no dreamers and no dreamers in sight, no sounders and no sounders, no shadows and no shadows in sight, no flames and no flames in sight, no illusions and no illusions in sight, and no transformations and no transformations in sight.",
+        "source": "T25n1509_088:0678a13_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切法無根本實性無所有，汝等於無陰中見有陰、無入見有入、無界見有界。",
+        "translation": "All things lack fundamental true nature and lack existence, so you see existence in the absence of aggregates, see existence in the absence of sense-entering, and see existence in the absence of elements.",
+        "source": "T25n1509_088:0678a16_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是一切法皆從因緣和合生，以顛倒心起，屬業果報，汝等何以故於諸法空無根本中而取根本相？』",
+        "translation": "Since all dharmas arise from the conjunction of causes and conditions, are produced with a mistaken mind, and are the result of actions, why do you grasp to the fundamental aspects of all dharmas that are empty and lack fundamentals?'",
+        "source": "T25n1509_088:0678a18_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「是時，菩薩摩訶薩行般若波羅蜜，以方便力故，於慳法中拔出眾生，教行檀波羅蜜；持是布施功德，得大福報。",
+        "translation": "\"At the time, the bodhisattva Mahāsattva practiced the perfection of wisdom and, by the power of skillful means, plucked sentient beings out of the midst of stinginess and taught them to practice the perfection of giving, which produces the rewards of great merit.",
+        "source": "T25n1509_088:0678a20_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從大福報拔出，教令持戒；持戒功德，生天上尊貴處。",
+        "translation": "Plucking them out of that great reward of merit, they are taught to observe precepts, and the virtue of observing precepts gives rise to a place of honor in the heavens.",
+        "source": "T25n1509_088:0678a22_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復拔出，令住初禪；初禪功德生梵天處。",
+        "translation": "They also uproot it and cause him to abide in the first dhyāna, and the merits of the first dhyāna lead to birth in the Brahma heavens.",
+        "source": "T25n1509_088:0678a24_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二禪、三禪、四禪、無邊空處、無邊識處、無所有處、非有想非無想處亦如是。",
+        "translation": "So it is with the second, third, and fourth meditations, the sphere of infinite emptiness, the sphere of infinite consciousness, the sphere of nothingness, and the sphere of neither associative thought nor non-associative thought.",
+        "source": "T25n1509_088:0678a24_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾生行是布施及布施果報，持戒及持戒果報，禪定及禪定果報，種種因緣拔出，安置無餘涅槃及涅槃道中，所謂四念處、四正勤、四如意足、五根、五力、七覺分、八聖道分，空解脫門、無相、無作解脫門，八背捨、九次第定，佛十力、四無所畏、四無礙智、十八不共法，安隱眾生，令住聖無漏法——無色、無形、無對法中。",
+        "translation": "The various causes and conditions that lead sentient beings to practice these things, such as the four abodes of mindfulness, the four correct endeavors, the four miraculous abilities, the five faculties, the five powers, the seven factors of awakening, the eight factors of the noble path, the liberation through emptiness, the liberation through signlessness, and the absence of effort, the eightfold equanimity, the nine graduated concentrations, the Buddha's ten powers, the four fearlessnesses, the four unhindered cognitions, and the 18 uncommon dharmas, calm sentient beings and cause them to abide in the noble and uncontaminated dharmas that are formless, immaterial, and without opposition.",
+        "source": "T25n1509_088:0678a26_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有可得須陀洹果者，安隱教化，令住須陀洹果；可得斯陀含果、阿那含果、阿羅漢果、辟支佛道者，令住斯陀含果、阿那含果、阿羅漢果、辟支佛道；可得阿耨多羅三藐三菩提者，亦安隱教化，令住阿耨多羅三藐三菩提中。」",
+        "translation": "Those who may attain the fruit of stream entry, are made to stand in the fruit of stream entry, those who may attain the fruit of non-returning, the fruit of non-returning, the fruit of arhatship, and the path of the solitary realizers, are made to stand in the fruit of stream entry, the fruit of non-returning, the fruit of arhatship, and the path of the solitary realizers, and those who may attain the unsurpassed, corrected, and educated to stand in the unsurpassed, unsurpassed, and unsurpassed enlightenment.\"",
+        "source": "T25n1509_088:0678b04_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0678b09_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩甚希有難及，能行是深般若波羅蜜，諸法無所有性，畢竟空、無始空，而分別諸法是善、是不善，是有漏、是無漏，乃至是有為、是無為。」",
+        "translation": "It's rare and difficult for bodhisattvas and mahāsattvas to practice this profound prajñāpāramit, which states that all things are without nature, ultimately empty, and beginninglessly empty, and discerns whether they are good or unskillful, contaminated or uncontaminated, or even whether they are made or unmade.\"",
+        "source": "T25n1509_088:0678b09_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告須菩提：「如是！",
+        "translation": "The Buddha told Subhūti, \"So it is!",
+        "source": "T25n1509_088:0678b13_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是！",
+        "translation": "So it is!",
+        "source": "T25n1509_088:0678b13_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩甚希有難及，能行是深般若波羅蜜，諸法無所有性，畢竟空、無始空，而分別諸法。",
+        "translation": "It's rare and difficult for bodhisattvas and mahāsattvas to practice this profound prajñāpāramit, which discerns qualities when dharmas are devoid of their own nature and are ultimately empty and beginninglessly empty.",
+        "source": "T25n1509_088:0678b13_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0678b15_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等若知是菩薩摩訶薩希有難及法，則知一切聲聞、辟支佛不能報，何況餘人！」",
+        "translation": "If you know this rare and difficult-to-obtain teaching of the bodhisattva Mahāsattva, then you know that all śrāvakas and pratyekabuddhas are unable to repay it, let alone others!\"",
+        "source": "T25n1509_088:0678b16_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0678b17_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等是菩薩摩訶薩希有難及法，諸聲聞、辟支佛所無有？」",
+        "translation": "What is this rare and difficult-to-obtain teaching of the bodhisattvas, which is unavailable to śrāvakas and pratyekabuddhas?\"",
+        "source": "T25n1509_088:0678b18_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告須菩提：「一心諦聽！",
+        "translation": "The Buddha told Subhūti, \"Listen with undivided attention!",
+        "source": "T25n1509_088:0678b19_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有菩薩摩訶薩行般若波羅蜜，住報得六波羅蜜中及住報得五神通、三十七助道法，住諸陀羅尼、諸無礙智，到十方世界，可以布施度者，以布施攝之；可以持戒度者，以持戒攝之；可以忍辱、精進、禪定、智慧度者，隨其所應而攝取之。",
+        "translation": "If there are bodhisattvas, mahāsattvas, who practice prajñāpāramit, abide in the six perfections, abide in the five supernormal powers and thirty-seven factors that aid in the path, abide in the dhāraṇīs, and have unhindered cognition, and go to the worlds in the ten directions, they will be taken in by generosity if they can be saved by generosity, by observing precepts if they can be saved by observing precepts, and by tolerating humility, effort, meditation, and wisdom as they see fit.",
+        "source": "T25n1509_088:0678b20_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可以初禪度者，以初禪攝取之；可以二禪、三禪、四禪、無邊空處、無邊識處、無所有處、非有想非無想處度者，隨其所應而攝取之。",
+        "translation": "Those who can be saved by the first dhyāna are collected by the first dhyāna, and those who can be saved by the second, third, and fourth dhyānas, the sphere of infinite emptiness, the sphere of infinite consciousness, the sphere of nothingness, and the sphere of neither perception nor non-perception are collected as they see fit.",
+        "source": "T25n1509_088:0678b25_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可以慈、悲、喜、捨心度者，以慈、悲、喜、捨心攝取之。",
+        "translation": "Those who can be liberated with kindness, pity, joy, and equanimity will be collected with kindness, pity, joy, and equanimity.",
+        "source": "T25n1509_088:0678b28_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可以四念處、四正勤、四如意足、五根、五力、七覺分、八聖道分，空三昧、無相、無作三昧度者，隨所攝之。」",
+        "translation": "Those who can be liberated by the four abodes of mindfulness, the four correct endeavors, the four miraculous abilities, the five faculties, the five powers, the seven factors of awakening, the eight factors of the noble path, and the samādhi of emptiness, signlessness, and unconstructedness will be collected as they see fit.\"",
+        "source": "T25n1509_088:0678b29_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T25n1509_088:0678c02_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩云何以布施饒益眾生？」",
+        "translation": "How does the bodhisattva-mahāsattva enrich sentient beings with almsgiving?\"",
+        "source": "T25n1509_088:0678c02_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0678c03_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩行般若波羅蜜時布施，隨其所須飲食、衣服、車馬、香華、瓔珞、種種所須，盡給與之。",
+        "translation": "When a bodhisattva practices prajñāpāramit, he gives as much food and drink, clothing, chariots and horses, flowers, jewelry, and various necessities as he needs.",
+        "source": "T25n1509_088:0678c03_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若供養佛、辟支佛、阿羅漢、阿那含、斯陀含、須陀洹等無有異；若施入正道中人及凡人，下至禽獸，皆無分別，等一布施。",
+        "translation": "There's no difference if they make offerings to buddhas, pratyekbuddhas, arhats, nonreturners, sakṛdhas, and so forth, or if they give to those who enter the right path or to ordinary people, down to animals, all without discrimination, as one offering.",
+        "source": "T25n1509_088:0678c05_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0678c08_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切法不異、不分別故。",
+        "translation": "\"All things are not different and not discriminated, so it's because they are not different.",
+        "source": "T25n1509_088:0678c08_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩無異、無別布施已，當得無分別法報，所謂一切種智。",
+        "translation": "After making this kind of gift, the bodhisattva's lack of difference and lack of discrimination will lead to the nondiscriminating Dharma reward known as the knowledge of all kinds.",
+        "source": "T25n1509_088:0678c09_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0678c10_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若菩薩摩訶薩見乞匃者，若生是心：『佛是福田，我應供養；禽獸非福田，不應供養。』",
+        "translation": "If a bodhisattva sees a beggar and gives rise to this thought, 'The Buddha is a field of merit, so I should make offerings; animals are not a field of merit, so I shouldn't make offerings.'",
+        "source": "T25n1509_088:0678c10_67",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是非菩薩法。",
+        "translation": "That's not a bodhisattva dharma.",
+        "source": "T25n1509_088:0678c12_68",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0678c12_69",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩發阿耨多羅三藐三菩提心，不作是念：『是眾生應以布施饒益，是不應布施。』",
+        "translation": "When the bodhisattva arouses the mind of unsurpassed, correct enlightenment, he doesn't think, 'This is a sentient being who should be benefited by almsgiving and who shouldn't be given alms.'",
+        "source": "T25n1509_088:0678c13_70",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是眾生布施因緣故，應生剎利大姓、婆羅門大姓、居士大家，乃至以是布施因緣，以三乘法度之，令入無餘涅槃。",
+        "translation": "Because of the causes and conditions of their almsgiving, these sentient beings should be born into a great family of bhadras, a great family of brāhmaṇas, or a great family of householders, even if they are saved by the teachings of the three vehicles because of the causes and conditions of their almsgiving, so that they will enter nirvāṇa without remainder.",
+        "source": "T25n1509_088:0678c15_71",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若眾生來從菩薩乞，亦不生異心分別：『應與是，不應與是。』",
+        "translation": "If sentient beings come to beg from a bodhisattva, they won't discriminate with different minds, 'This should be given, and this shouldn't be given.'",
+        "source": "T25n1509_088:0678c17_72",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0678c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩為是眾生故發阿耨多羅三藐三菩提心；若分別簡擇，便墮諸佛、菩薩、辟支佛、學無學人、一切世間天及人訶責處：『誰請汝救一切眾生？",
+        "translation": "This is the bodhisattva who arouses the mind of unsurpassed, correct enlightenment for the sake of these sentient beings; if he discriminates and scrutinizes them, he will fall into the position of the buddhas, bodhisattvas, pratyekabuddhas, trainees, and those who are reprimanded by gods and humans of all worlds: 'Who invited you to save all sentient beings?'",
+        "source": "T25n1509_088:0678c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝為一切眾生舍、一切眾生護、一切眾生依，而分別簡擇應與、不應與？』",
+        "translation": "Do you give up for all sentient beings, protect for all sentient beings, and rely on all sentient beings, discriminating and simply selecting what should and shouldn't be given?'",
+        "source": "T25n1509_088:0678c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，若菩薩摩訶薩行般若波羅蜜時，若人、若非人來，欲求乞菩薩身體支節，是時不應生二心：『若與？",
+        "translation": "\"Furthermore, if a bodhisattva-mahāsattva practices the perfection of wisdom and if a person or non-person comes along and wants to solicit a limb of the bodhisattva's body, then two thoughts shouldn't arise: 'What if I were to give it to him?'",
+        "source": "T25n1509_088:0678c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不與？』",
+        "translation": "What if it is not given?'",
+        "source": "T25n1509_088:0678c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0678c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩摩訶薩為眾生故受身，眾生來取，何可不與？",
+        "translation": "This is the bodhisattva Mahāsattva who receives the body for the sake of sentient beings; why shouldn't sentient beings take it?",
+        "source": "T25n1509_088:0678c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "『我以饒益眾生故受是身，眾生不乞，自應與之，何況乞而不與！』",
+        "translation": "'I accept this body for the benefit of sentient beings, and I should give it to sentient beings who don't ask for it, so why should I ask and not give it to them?'",
+        "source": "T25n1509_088:0678c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜，應如是學。",
+        "translation": "Thus should the bodhisattvas and mahāsattvas practice the perfection of wisdom and thus train.",
+        "source": "T25n1509_088:0678c29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩見有乞者，應生是念：『是中誰與、誰受？",
+        "translation": "When the bodhisattva Mahāsattva sees a beggar, he should think, 'Who will give and who will accept this?'",
+        "source": "T25n1509_088:0679a01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所施何物？",
+        "translation": "What is it that is given?",
+        "source": "T25n1509_088:0679a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是一切法自性皆不可得，以畢竟空故；空相法，無與、無奪。』",
+        "translation": "The self-nature of all dharmas is unobtainable because they are ultimately empty; they are empty of marks and dharmas that are not given or taken away.'",
+        "source": "T25n1509_088:0679a02_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0679a04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "畢竟空故，內空故，外空、內外空、大空、第一義空、自相空故。",
+        "translation": "It's because of their ultimate emptiness, because of their internal emptiness, external emptiness, internal and external emptiness, great emptiness, the emptiness of the ultimate truth, and the emptiness of their own characteristics.",
+        "source": "T25n1509_088:0679a04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住是諸空布施，是時具足檀波羅蜜。",
+        "translation": "When they abide in this kind of generosity toward emptiness, they possess the perfection of the perfection of giving.",
+        "source": "T25n1509_088:0679a05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具足檀波羅蜜故，若斷內外法時，作是念：『截我者誰？",
+        "translation": "Being fully endowed with the perfection of giving, when he stops internal and external dharmas, he thinks, 'Who's cutting me off?'",
+        "source": "T25n1509_088:0679a06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "割我者誰？』",
+        "translation": "Who is it that cuts me off?'",
+        "source": "T25n1509_088:0679a07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我以佛眼見東方如恒河沙等諸菩薩摩訶薩入大地獄，令火滅湯冷，以三事教化：一者、神通，二者、知他心，三者、說法。",
+        "translation": "With the Buddha's eye, I've seen bodhisattvas, mahāsattvas, and others like the Ganges Sands in the east enter the great hell and make it go out in flames and cool water, teaching and transforming it in three ways: first, with supernormal powers; second, by knowing the minds of others; and third, by expounding the Dharma.",
+        "source": "T25n1509_088:0679a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩以神通力，令大地獄火滅湯冷；知他心；以慈、悲、喜、捨，隨意說法。",
+        "translation": "With supernormal powers, this bodhisattva causes the fires of the great hells to go out and the water to cool, knows the minds of others, and teaches the Dharma as he wishes with kindness, compassion, joy, and equanimity.",
+        "source": "T25n1509_088:0679a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是眾生於菩薩生清淨心，從地獄得脫，漸以三乘法得盡苦際。",
+        "translation": "These sentient beings give rise to the bodhisattva's pure mind, are freed from hell, and gradually reach the end of suffering with the teachings of the three vehicles.",
+        "source": "T25n1509_088:0679a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "南西北方、四維、上下亦如是。",
+        "translation": "It's likewise in the south, west, north, four dimensions, and above and below.",
+        "source": "T25n1509_088:0679a13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，須菩提！",
+        "translation": "Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679a14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我以佛眼觀十方世界，見如恒河沙等國土中諸菩薩，為諸佛給使，供養諸佛，隨意愛樂恭敬；若諸佛所說，盡能受持，乃至阿耨多羅三藐三菩提，終不忘失。",
+        "translation": "With the Buddha's eye, I've looked at the worlds in the ten directions and seen bodhisattvas in lands like the Ganges River Sands who are the messengers of the buddhas, make offerings to the buddhas, love and respect them as they wish, and are able to fully accept what the buddhas teach until they reach unsurpassed, correct, and complete enlightenment without ever losing sight of it.",
+        "source": "T25n1509_088:0679a14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我以佛眼觀十方如恒河沙等國土中諸菩薩摩訶薩，為畜生故，捨其壽命，割截身體，分散諸方。",
+        "translation": "\"With the Buddha's eye, I've observed the bodhisattvas, mahāsattvas, and animals in the lands of the Ganges River Sands in the ten directions as they abandon their lives, cut off their bodies, and scatter them in different directions.",
+        "source": "T25n1509_088:0679a18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有眾生食是諸菩薩摩訶薩肉者，皆愛敬菩薩；以愛敬故，即得離畜生道，值遇諸佛，聞佛說法，如說修行，漸以三乘——聲聞、辟支佛、佛法於無餘涅槃而般涅槃。",
+        "translation": "When sentient beings eat the flesh of these bodhisattvas and mahāsattvas, they all love and revere the bodhisattvas; because they love and revere them, they then escape the path of the animals, meet the buddhas, hear their teachings, practice as they've been taught, and gradually attain parinirvāṇa without remainder in the three vehicles - the śrāvakas, the pratyekabuddhas, and the Buddha-dharma.",
+        "source": "T25n1509_088:0679a20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0679a24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩所益甚多——教化眾生令發阿耨多羅三藐三菩提心，如說修行，乃至於無餘涅槃而般涅槃。",
+        "translation": "It's very helpful for bodhisattvas, mahāsattvas, to teach sentient beings to give rise to the mind of unsurpassed, correct practice, up to parinirvāṇa without remainder.",
+        "source": "T25n1509_088:0679a24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679a27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我以佛眼見十方如恒河沙等國土中諸菩薩摩訶薩除諸餓鬼飢渴苦，是諸餓鬼皆愛敬菩薩；以愛敬故，得離餓鬼道，值遇諸佛，聞諸佛說法，如說修行，漸以三乘——聲聞、辟支佛、佛法而般涅槃，乃至無餘涅槃。",
+        "translation": "With the Buddha's eye, I've seen the bodhisattvas, mahāsattvas, and buddhas in lands as vast as the Ganges River Sands in the ten directions remove the hunger and thirst of hungry ghosts, and these hungry ghosts all adore the bodhisattvas; because of that adoration, they are freed from the path of hungry ghosts, meet the buddhas, hear their teachings, practice as they've been taught, and gradually attain parinirvāṇa with the three vehicles-the śrāvakas, the pratyekabuddhas, and the Buddha-dharma, up to nirvāṇa without remainder.",
+        "source": "T25n1509_088:0679a27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0679b03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩為度眾生故，行大悲心。",
+        "translation": "In order to save sentient beings, the bodhisattva Mahāsattva practices great compassion.",
+        "source": "T25n1509_088:0679b03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679b04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我以佛眼見諸菩薩摩訶薩在四天王天上說法，在三十三天、夜摩天、兜率陀天、化樂天、他化自在天上說法；諸天聞菩薩說法，漸以三乘而得滅度。",
+        "translation": "With the Buddha's eye, I've seen bodhisattvas and mahāsattvas preaching in the Heaven of the Four Heavenly Kings, the Trāyastriṃśa Heaven, the Yama Heaven, the Tuṣita Heaven, the Nirmāṇarati Heaven, and the Paranirmitavaśavartin Heaven; and when the gods heard the bodhisattvas preach, they were gradually liberated by the three vehicles.",
+        "source": "T25n1509_088:0679b04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0679b08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸天眾中有貪著五欲者，是菩薩示現火起，燒其宮殿，而為說法，作是言：『諸天！",
+        "translation": "When a bodhisattva among the gods who were addicted to the five desires showed up in a fire, burned down his palace, preached, and said, 'Gods!",
+        "source": "T25n1509_088:0679b08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切有為法悉皆無常，誰得安者？』",
+        "translation": "All created things are impermanent, so who can be at peace?'",
+        "source": "T25n1509_088:0679b10_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679b11_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我以佛眼觀十方世界，見如恒河沙等國土中諸梵天著於邪見，諸菩薩摩訶薩教令遠離邪見，作是言：『汝等云何於空相虛妄諸法中而生邪見？』",
+        "translation": "When I looked at the worlds in the ten directions with the Buddha's eye and saw that there were Brahmā gods in lands like the Ganges River Sands who were attached to wrong views, the bodhisattvas, the mahāsattvas, taught them to avoid wrong views and said, 'How do you give rise to wrong views in regard to the illusory nature of things that are empty?'",
+        "source": "T25n1509_088:0679b11_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, shall bodhi!",
+        "source": "T25n1509_088:0679b14_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩住大慈心，為眾生說法。",
+        "translation": "The bodhisattva Mahāsattva abides in great compassion and teaches the Dharma for sentient beings.",
+        "source": "T25n1509_088:0679b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0679b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為諸菩薩希有難及法。",
+        "translation": "This is a rare and difficult-to-obtain teaching for bodhisattvas.",
+        "source": "T25n1509_088:0679b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我以佛眼觀十方世界如恒河沙等國土中，諸菩薩摩訶薩以四事攝取眾生。",
+        "translation": "With the Buddha's eye, I've observed that in the worlds of the ten directions, lands like the Ganges River Sands, the bodhisattvas, the great beings, and so forth, collect sentient beings by doing four things.",
+        "source": "T25n1509_088:0679b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為四？",
+        "translation": "What are the four?",
+        "source": "T25n1509_088:0679b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "布施、愛語、利益、同事。",
+        "translation": "It's about generosity, loving words, benefits, and coworkers.",
+        "source": "T25n1509_088:0679b18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何菩薩以布施攝取眾生？",
+        "translation": "\"How do bodhisattvas gather sentient beings with almsgiving?",
+        "source": "T25n1509_088:0679b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0679b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩以二種施攝取眾生：財施、法施。",
+        "translation": "Bodhisattvas take sentient beings in with two kinds of generosity: financial and Dharma generosity.",
+        "source": "T25n1509_088:0679b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「何等財施攝取眾生？",
+        "translation": "\"What kind of almsgiving of goods takes in sentient beings?",
+        "source": "T25n1509_088:0679b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0679b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩以金、銀、琉璃、頗梨、真珠、珂貝、珊瑚等諸寶物，或以飲食、衣服、臥具、房舍、燈燭、華、香、瓔珞，若男、若女，若牛、羊、象、馬、車乘，若以己身，給施眾生；語眾生言：『汝等若有所須，各來取之，如取己物，莫得疑難！』",
+        "translation": "The bodhisattva Mahāsattva gives to sentient beings precious things like gold, silver, beryl, pāri, real beads, precious shells, coral, or food, clothing, bedding, dwelling, candles, flowers, incense, jewelry, whether male or female, oxen, sheep, elephants, horses, chariots, or even his own body; he says to the sentient beings, 'If you need anything, come and take it from each of them as you would take your own; don't be doubtful!'",
+        "source": "T25n1509_088:0679b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩施已，教三歸依：歸依佛、歸依法、歸依僧；或教受五戒，或教一日戒；或教初禪乃至教非有想非無想定，或教慈、悲、喜、捨，或教念佛、念法、念僧、念戒、念捨、念天，或教不淨觀，或教安那般那觀，或相、或觸；或教四念處、四正勤、四如意足、五根、五力、七覺分、八聖道分，空三昧，無相、無作三昧，八背捨、九次第定，佛十力、四無所畏、四無礙智、十八不共法、大慈大悲、三十二相、八十隨形好；或教須陀洹果、斯陀含果、阿那含果、阿羅漢果，或教辟支佛道，或教阿耨多羅三藐三菩提。",
+        "translation": "是菩薩施已，教三歸依：歸依佛、歸依法、歸依僧；或教受五戒，或教一日戒；或教初禪乃至教非有想非無想定，或教慈、悲、喜、捨，或教念佛、念法、念僧、念戒、念捨、念天，或教不淨觀，或教安那般那觀，或相、或觸；或教四念處、四正勤、四如意足、五根、五力、七覺分、八聖道分，空三昧，無相、無作三昧，八背捨、九次第定，佛十力、四無所畏、四無礙智、十八不共法、大慈大悲、三十二相、八十隨形好；或教須陀洹果、斯陀含果、阿那含果、阿羅漢果，或教辟支佛道，或教阿耨多羅三藐三菩提。",
+        "source": "T25n1509_088:0679b26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0679c07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩行般若波羅蜜，以方便力教眾生，財施已，後教令得無上安隱涅槃。",
+        "translation": "After practicing prajñā-pāramitā with the power of skillful means, the bodhisattva teaches sentient beings to give financially, and then he teaches them to attain unsurpassed tranquil nirvāṇa.",
+        "source": "T25n1509_088:0679c08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0679c10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩摩訶薩希有難及法。",
+        "translation": "This is called the rare and difficult-to-obtain teaching of the bodhisattva Mahāsattva.",
+        "source": "T25n1509_088:0679c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0679c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩云何以法施攝取眾生？",
+        "translation": "How do bodhisattvas take in sentient beings with their offerings of the Dharma?",
+        "source": "T25n1509_088:0679c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0679c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法施有二種：一者、世間，二者、出世間。",
+        "translation": "There are two kinds of giving of the Dharma: the first is mundane, and the second is transmundane.",
+        "source": "T25n1509_088:0679c11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為世間法施？",
+        "translation": "What's mundane giving of the Dharma?",
+        "source": "T25n1509_088:0679c12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "敷演、顯示世間法，所謂不淨觀、安那般那念、四禪、四無量心、四無色定。",
+        "translation": "They expound and reveal the worldly dharmas called the contemplation of impurity, mindfulness of breathing, the four meditations, the four immeasurable states of mind, and the four formless concentrations.",
+        "source": "T25n1509_088:0679c13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等世間法，及諸餘共凡夫所行法，是名世間法施。",
+        "translation": "Such worldly dharmas and other common worldly dharmas practiced by ordinary people are called worldly dharma-giving.",
+        "source": "T25n1509_088:0679c14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩如是世間法施已，以種種因緣教化，令遠離世間法；遠離世間法已，以方便力，令得聖無漏法及聖無漏法果。",
+        "translation": "After thus bestowing worldly dharmas, the bodhisattva uses various causes and conditions to teach and teach others to avoid worldly dharmas, and after avoiding worldly dharmas, he uses the power of skillful means to cause them to attain the noble uncontaminated dharma and the fruit of the noble uncontaminated dharma.",
+        "source": "T25n1509_088:0679c16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等是聖無漏法？",
+        "translation": "What's the noble uncontaminated dharma?",
+        "source": "T25n1509_088:0679c18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等是聖無漏法果？",
+        "translation": "What is the noble and untainted fruit of the Dharma?",
+        "source": "T25n1509_088:0679c19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖無漏法者，三十七助道法、三解脫門。",
+        "translation": "\"Noble and uncontaminated dharmas are the thirty-seven factors that aid in the path and the three gates of liberation.",
+        "source": "T25n1509_088:0679c19_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聖無漏法果者，須陀洹果乃至阿羅漢果，辟支佛道，阿耨多羅三藐三菩提。",
+        "translation": "The holy uncontaminated Dharma is the fruit of stream entry ... the fruit of the arhat, the path of the solitary realizer, and supreme perfect enlightenment.",
+        "source": "T25n1509_088:0679c20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次，須菩提！",
+        "translation": "\"Furthermore, Subhūti!",
+        "source": "T25n1509_088:0679c22_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩聖無漏法：須陀洹果中智慧乃至阿羅漢果中智慧、辟支佛道中智慧、三十七助道法中智慧、六波羅蜜中智慧乃至大慈大悲中智慧——如是等一切法，若世間若出世間智慧、若有漏若無漏、若有為若無為，是法中一切種智，是名菩薩摩訶薩聖無漏法。",
+        "translation": "\"The noble and uncontaminated dharmas of the bodhisattvas, the wisdom in the fruit of stream entry ... the wisdom in the fruit of the arhat, the wisdom in the path of the solitary buddha, the wisdom in the thirty-seven factors that aid in the path, the wisdom in the six perfections, and the wisdom in great compassion ... all these things, whether worldly or transmundane wisdom, contaminated or uncontaminated, acquired or unacquired, are all kinds of wisdom in this world, and this is called the noble and uncontaminated dharma of the bodhisattvas, the great uncontaminated dharma.",
+        "source": "T25n1509_088:0679c22_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為聖無漏法果？",
+        "translation": "What's the fruit of the noble uncontaminated dharma?",
+        "source": "T25n1509_088:0679c28_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷一切煩惱習，是名聖無漏法果。」",
+        "translation": "To eliminate all habituated tendencies of affliction is called the noble and uncontaminated fruit of the Dharma.\"",
+        "source": "T25n1509_088:0679c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提白佛言：「世尊！",
+        "translation": "Subhūti said to the Buddha, \"Bhagavān!",
+        "source": "T25n1509_088:0679c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩得一切種智不？」",
+        "translation": "Has the bodhisattva Mahāsattva attained the cognition of all seeds?\"",
+        "source": "T25n1509_088:0680a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「如是！",
+        "translation": "The Buddha said, \"So it is!",
+        "source": "T25n1509_088:0680a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是！",
+        "translation": "So it is!",
+        "source": "T25n1509_088:0680a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0680a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩得一切種智。」",
+        "translation": "The bodhisattva Mahāsattva has attained omniscience.\"",
+        "source": "T25n1509_088:0680a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提言：「菩薩與佛有何等異？」",
+        "translation": "Subhūti said, \"How are the bodhisattvas different from the buddhas?\"",
+        "source": "T25n1509_088:0680a03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「有異。",
+        "translation": "The Buddha said, \"There's a difference.",
+        "source": "T25n1509_088:0680a03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩得一切種智，是名為佛。",
+        "translation": "The bodhisattva Mahāsattva who has attained omniscience is called a Buddha.",
+        "source": "T25n1509_088:0680a04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0680a04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩心與佛心無有異。",
+        "translation": "There's no difference between a bodhisattva's mind and a Buddha's mind.",
+        "source": "T25n1509_088:0680a05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩住是一切種智中，於一切法無不照明，是名菩薩摩訶薩世間法施。",
+        "translation": "A bodhisattva's abiding in this omniscience and his nonnegligible illumination of all dharmas is called the bodhisattva-mahāsattva's worldly gift of the Dharma.",
+        "source": "T25n1509_088:0680a05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提！",
+        "translation": "Subhūti!",
+        "source": "T25n1509_088:0680a07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩因世間法施，得出世間法施。",
+        "translation": "As a result of giving worldly dharmas, the bodhisattvas mahāsattvas attain supramundane dharmas.",
+        "source": "T25n1509_088:0680a07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是，須菩提！",
+        "translation": "Thus, Subhūti!",
+        "source": "T25n1509_088:0680a08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩教眾生令得世間法已，以方便力教令得出世間法。",
+        "translation": "After teaching sentient beings to attain worldly dharmas, the bodhisattva Mahāsattva uses the power of skillful means to teach them to attain supramundane dharmas.",
+        "source": "T25n1509_088:0680a08_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0680a10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等是菩薩出世間法不共凡夫法同？",
+        "translation": "\"What is a bodhisattva's transmundane dharma that is not shared with mortal dharmas?",
+        "source": "T25n1509_088:0680a10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂四念處、四正勤、四如意足、五根、五力、七覺分、八聖道分，三解脫門、八背捨、九次第定，佛十力、四無所畏、四無礙智、十八不共法、三十二相、八十隨形好，五百陀羅尼門，是名出世間法。",
+        "translation": "The four abodes of mindfulness, four correct endeavors, four basis of supernormal power, five faculties, five powers, seven factors of awakening, eight factors of the noble path, three gates of liberation, eight decisions, nine graduated concentrations, the Buddha's ten powers, four fearlessnesses, four unhindered cognitions, 18 distinctive qualities, 32 marks, 80 comportments, and 500 dhāraṇīs are called transmundane dharmas.",
+        "source": "T25n1509_088:0680a11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0680a15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為四念處？",
+        "translation": "What are the four abodes of mindfulness?",
+        "source": "T25n1509_088:0680a15_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩觀內身循身觀、觀外身循身觀、觀內外身循身觀，勤精進，以一心智慧觀身、觀身集因緣、觀身滅、觀身集生滅；行是道，無所依，於世間無所愛。",
+        "translation": "\"When a bodhisattva mahāsattva observes the internal body and observes it, observes the external body and observes it, observes the internal and external body and observes it, diligently and with single-minded wisdom observes the body, observes the collection of causes and conditions for the body, observes the cessation of the body, and observes the collection of birth and cessation of the body, he practices this path, has no support, and has no craving in the world.",
+        "source": "T25n1509_088:0680a15_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受、心、法念處，亦如是。",
+        "translation": "*The mindfulness of feeling, mind, and dharmas is likewise.",
+        "source": "T25n1509_088:0680a19_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0680a20_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為四正勤？",
+        "translation": "What are the four kinds of correct effort?",
+        "source": "T25n1509_088:0680a20_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未生惡不善法，為不生故，勤、生欲、精進；已生惡不善法，為斷故，勤、生欲、精進；未生善法，為生故，勤、生欲、精進；已生諸善法，為增長修具足故，勤、生欲、精進；是名四正勤。",
+        "translation": "To work hard, generate desire, and exert effort in order to prevent the birth of bad and unskillful qualities that have yet to arise, to work hard, generate desire, and exert effort in order to stop bad and unskillful qualities that have already arisen, to work hard, generate desire, and exert effort in order to produce good qualities that have yet to arise, and to work hard, generate desire, and exert effort in order to cultivate the fulfillment of good qualities that have already arisen are called the four kinds of right effort.",
+        "source": "T25n1509_088:0680a20_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「須菩提！",
+        "translation": "\"Subhūti!",
+        "source": "T25n1509_088:0680a24_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為四如意足？",
+        "translation": "What are the four miraculous abilities?",
+        "source": "T25n1509_088:0680a24_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲三昧斷行成就初如意足，精進三昧、心三昧、思惟三昧斷行成就如意足。",
+        "translation": "Desire samādhi ends practice and accomplishes the first stage of as-willedness, and effort samādhi, mind samādhi, and contemplation samādhi end practice and accomplish as-willedness.",
+        "source": "T25n1509_088:0680a24_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為五根？",
+        "translation": "\"What are the five faculties?",
+        "source": "T25n1509_088:0680a26_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信根、精進根、念根、定根、慧根。",
+        "translation": "They are the faculty of faith, the faculty of effort, the faculty of mindfulness, the faculty of concentration, and the faculty of wisdom.",
+        "source": "T25n1509_088:0680a26_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為五力？",
+        "translation": "\"What are the five powers?",
+        "source": "T25n1509_088:0680a27_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信力、精進力、念力、定力、慧力。",
+        "translation": "They are the powers of faith, effort, mindfulness, concentration, and wisdom.",
+        "source": "T25n1509_088:0680a27_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為七覺分？",
+        "translation": "\"What are the seven factors of awakening?",
+        "source": "T25n1509_088:0680a28_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "念覺分、擇法覺分、精進覺分、喜覺分、除息覺分、定覺分、捨覺分。",
+        "translation": "The awakening factor of mindfulness, the awakening factor of discriminating qualities, the awakening factor of effort, the awakening factor of joy, the awakening factor of calmness, the awakening factor of concentration, and the awakening factor of equanimity.",
+        "source": "T25n1509_088:0680a28_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為八聖道分？",
+        "translation": "\"What are the eight factors of the noble path?",
+        "source": "T25n1509_088:0680b01_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正見、正思惟、正語、正業、正命、正精進、正念、正定。",
+        "translation": "Right view, right contemplation, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.",
+        "source": "T25n1509_088:0680b01_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為三三昧？",
+        "translation": "\"What are the three samādhis?",
+        "source": "T25n1509_088:0680b02_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空三昧門，無相、無作三昧門。",
+        "translation": "It's the samādhi of emptiness and the samādhi of formlessness and noncontrivance.",
+        "source": "T25n1509_088:0680b03_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為空三昧？",
+        "translation": "What is emptiness samādhi?",
+        "source": "T25n1509_088:0680b03_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以空行、無我行攝心，是名空三昧。",
+        "translation": "To collect the mind with the practice of emptiness and the practice of selflessness is called emptiness samādhi.",
+        "source": "T25n1509_088:0680b04_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為無相三昧？",
+        "translation": "What's markless concentration?",
+        "source": "T25n1509_088:0680b04_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以寂滅行、離行攝心，是為無相三昧。",
+        "translation": "To collect the mind with practices of extinction and seclusion is formless concentration.",
+        "source": "T25n1509_088:0680b05_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為無作三昧？",
+        "translation": "What is unconstructed samādhi?",
+        "source": "T25n1509_088:0680b06_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無常行、苦行攝心，是為無作三昧。",
+        "translation": "To be collected in the mind by impermanent and ascetic practices is the concentration of nonconduct.",
+        "source": "T25n1509_088:0680b06_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為八背捨？",
+        "translation": "\"What are the eight kinds of renunciation?",
+        "source": "T25n1509_088:0680b07_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內色相外觀色，是初背捨；內無色相外觀色，是二背捨；淨背捨，是三背捨；過一切色相，滅一切對相，不念一切異相故，觀無邊虛空，入無邊空處；乃至過一切非有想非無想處，入滅受想背捨。",
+        "translation": "Going past the appearance of form in the internal form is the first abdication; going beyond the appearance of form in the formless realm is the second abdication; going beyond the pure abdication is the third abdication; going beyond all forms, ceasing all oppositions, and not being mindful of all different forms, he observes infinite space and enters the sphere of infinite space; up to going beyond all states of neither perception nor non-perception and entering the abdication of perception of feeling.",
+        "source": "T25n1509_088:0680b07_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名八背捨。",
+        "translation": "These are called the eight kinds of indifference.",
+        "source": "T25n1509_088:0680b12_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何九次第定？",
+        "translation": "\"What are the nine graduated concentrations?",
+        "source": "T25n1509_088:0680b12_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行者離欲、惡不善法，有覺有觀，離生喜樂，入初禪；第二、第三、第四禪；乃至過非有想非無想處，入滅受想定。",
+        "translation": "Being free of desire, bad and unskillful qualities, having perception and contemplation, and being free of joy and happiness that arises, the practitioner enters the first dhyāna; the second, third, and fourth dhyāna; and finally, after passing through the realm of neither perception nor non-perception, he enters the concentration of cessation of sensation and perception.",
+        "source": "T25n1509_088:0680b12_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名九次第定。",
+        "translation": "These are called the nine progressive concentrations.",
+        "source": "T25n1509_088:0680b15_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為佛十力？",
+        "translation": "\"What are the Buddha's ten powers?",
+        "source": "T25n1509_088:0680b15_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是處、不是處，如實知；知眾生過去、未來、現在諸業諸受法，知造業處，知因緣，知報；諸禪定、解脫、三昧、定垢淨分別相，如實知；知他眾生諸根上下相；知他眾生種種欲解；知一切世間種種無數性；知一切到道相；知種種宿命，一世乃至無量劫，如實知；天眼見眾生，乃至生善惡道；漏盡故，無漏心解脫，如實知。",
+        "translation": "He truly knows the right place and wrong place, knows the past, future, and present karmic formations and feelings of sentient beings, knows the places where actions are created, knows the causes and conditions, and knows the rewards; truly knows the meditative concentration, liberation, samādhi, and the discernment of the defilement and purity of concentration; truly knows the up-and-down characteristics of the faculties of other sentient beings; knows the various desires and understandings of other sentient beings; knows the various ways in which the world is countless; knows the characteristics of all the paths that are reached; truly knows the various past lives of sentient beings from one life to measureless eons; truly knows the divine eye that sees sentient beings up to birth in the good and bad destinies; and truly knows the liberation of the uncontaminated mind because the contaminants have ended.",
+        "source": "T25n1509_088:0680b15_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為佛十力。",
+        "translation": "These are the Buddha's ten powers.",
+        "source": "T25n1509_088:0680b22_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為佛四無所畏？",
+        "translation": "\"What are the Buddha's four forms of fearlessness?",
+        "source": "T25n1509_088:0680b23_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛作誠言：『我是一切正智人。』",
+        "translation": "The Buddha made a sincere statement, 'I'm the one who has all the correct knowledge.'",
+        "source": "T25n1509_088:0680b23_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有沙門、婆羅門，若天、若魔、若梵、若復餘眾如實言：『是法不知。』",
+        "translation": "If there are ascetics, priests, gods, Māra, Brahmā, or any other group, they truly say, 'I don't know this teaching.'",
+        "source": "T25n1509_088:0680b24_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至不見是微畏相。",
+        "translation": "... doesn't see this mark of subtle fear.",
+        "source": "T25n1509_088:0680b25_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "『以是故，我得安隱、得無所畏，安住聖主處，在大眾中師子吼，能轉梵輪；諸沙門、婆羅門，若天、若魔、若梵、若復餘眾實不能轉。』",
+        "translation": "' 'Because of this, I've attained peace and fearlessness, have been placed in the place of the noble lord, have been the lion's roar among the masses, and have been able to turn the noble wheel; ascetics and priests, whether gods, Māra, Brahmā, or any other group of people really can't turn it.'",
+        "source": "T25n1509_088:0680b26_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無畏也。",
+        "translation": "There's one fearlessness.",
+        "source": "T25n1509_088:0680b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛作誠言：『我一切漏盡。』",
+        "translation": "The Buddha made a sincere statement, 'All of my contaminants have ended.'",
+        "source": "T25n1509_088:0680b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有沙門、婆羅門，若天、若魔、若梵、若復餘眾如實言：『是漏不盡。』",
+        "translation": "If there are ascetics and priests, or if there are gods, Māra, Brahmā, or any other group of people, they truly say, 'These are contaminants that aren't ended.'",
+        "source": "T25n1509_088:0680b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至不見是微畏相。",
+        "translation": "... doesn't see this subtle sign of fear.",
+        "source": "T25n1509_088:0680c02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "『以是故，我得安隱、得無所畏，安住聖主處，在大眾中作師子吼，能轉梵輪；諸沙門、婆羅門，若天、若魔、若梵、若復餘眾實不能轉。』",
+        "translation": "' 'Because of this, I've attained peace and fearlessness, abide comfortably in the place of the noble lord, make a lion's roar among the masses, and can turn the noble wheel; ascetics and priests, whether gods, Māra, Brahmā, or any of the others really can't turn it.'",
+        "source": "T25n1509_088:0680c02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二無畏也。",
+        "translation": "The two kinds of fearlessness are also present.",
+        "source": "T25n1509_088:0680c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛作誠言：『我說障法。』",
+        "translation": "The Buddha made a sincere statement, 'I'll explain the obstructive state.'",
+        "source": "T25n1509_088:0680c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有沙門、婆羅門，若天、若魔、若梵、若復餘眾如實言：『受是法不障道。』",
+        "translation": "If there are ascetics or priests, or if there are gods, Māra, Brahmā, or any other group of people, they truly say, 'Accepting this teaching won't obstruct the path.'",
+        "source": "T25n1509_088:0680c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至不見是微畏相。",
+        "translation": "... doesn't see this mark of subtle fear.",
+        "source": "T25n1509_088:0680c07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "『以是故，我得安隱、得無所畏，安住聖主處，在大眾中師子吼，能轉梵輪；諸沙門、婆羅門，若天、若魔、若梵、若復餘眾實不能轉。』",
+        "translation": "' 'Because of this, I've attained peace and fearlessness, abide comfortably in the place of the noble lord, roar as a lion among the masses, and can turn the noble wheel; ascetics and priests, whether gods, Māra, Brahmā, or any of the others really can't turn it.'",
+        "source": "T25n1509_088:0680c08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三無畏也。",
+        "translation": "The three kinds of fearlessness are also present.",
+        "source": "T25n1509_088:0680c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛作誠言：『我所說聖道，能出世間；隨是行，能盡苦。』",
+        "translation": "The Buddha made a sincere statement, 'The noble path I've taught can transcend the world; following this practice, it can end suffering.'",
+        "source": "T25n1509_088:0680c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有沙門、婆羅門，若天、若魔、若梵、若復餘眾如實言：『行是道不能出世間、不能盡苦。』",
+        "translation": "If there are ascetics, priests, gods, Māra, Brahmā, or any other group of people who truly say, 'Such a path cannot be practiced to transcend the world or end suffering.'",
+        "source": "T25n1509_088:0680c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至不見是微畏相。",
+        "translation": "... doesn't see this mark of subtle fear.",
+        "source": "T25n1509_088:0680c14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "『以是故，我得安隱、得無所畏，安住聖主處，在大眾中師子吼，能轉梵輪；諸沙門、婆羅門，若天、若魔、若梵、若復餘眾實不能轉。』",
+        "translation": "' 'Because of this, I've attained peace and fearlessness, abide comfortably in the place of the noble lord, roar as a lion among the masses, and can turn the noble wheel; ascetics and priests, whether gods, Māra, Brahmā, or any of the others really can't turn it.'",
+        "source": "T25n1509_088:0680c14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四無畏也。",
+        "translation": "The four forms of fearlessness are also present.",
+        "source": "T25n1509_088:0680c17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為四無礙智？",
+        "translation": "\"What are the four kinds of unhindered cognition?",
+        "source": "T25n1509_088:0680c17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者、義無礙智，二者、法無礙智，三者、辭無礙智，四者、樂說無礙智。",
+        "translation": "1. unhindered knowledge of meaning, 2. unhindered knowledge of principles, 3. unhindered knowledge of language, and 4. unhindered knowledge of pleasant explanations.",
+        "source": "T25n1509_088:0680c18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為義無礙智？",
+        "translation": "What is cognition unhindered by meaning?",
+        "source": "T25n1509_088:0680c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣義智慧，是為義無礙智。",
+        "translation": "This is the cognition of meaning that's unimpeded in terms of meaning.",
+        "source": "T25n1509_088:0680c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為法無礙智？",
+        "translation": "What is unimpeded cognition of phenomena?",
+        "source": "T25n1509_088:0680c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣法智慧，是為法無礙智。",
+        "translation": "This is cognition of the unhindered nature of dharmas.",
+        "source": "T25n1509_088:0680c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為辭無礙智？",
+        "translation": "What is unhindered cognition of discourse?",
+        "source": "T25n1509_088:0680c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣辭智慧，是為辭無礙智。",
+        "translation": "The wisdom of referring to speech is the wisdom of unhindered speech.",
+        "source": "T25n1509_088:0680c22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何為樂說無礙智？",
+        "translation": "What is the wisdom that's unhindered by delighting in eloquence?",
+        "source": "T25n1509_088:0680c22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣樂說智慧，是為樂說無礙智。",
+        "translation": "This is the wisdom that takes pleasure in explaining, which is the wisdom that's unimpeded in explaining pleasure.",
+        "source": "T25n1509_088:0680c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何為十八不共法？",
+        "translation": "\"What are the 18 distinctive qualities?",
+        "source": "T25n1509_088:0680c23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者、諸佛身無失，二者、口無失，三、念無失，四、無異想，五、無不定心，六、無不知已捨心，七、欲無減，八、精進無減，九、念無減，十、慧無減，十一、解脫無減，十二、解脫知見無減，十三、一切身業隨智慧行，十四、一切口業隨智慧行，十五、一切意業隨智慧行，十六、智慧知過去世無礙，十七、智慧知未來世無礙，十八、智慧知現在世無礙。",
+        "translation": "1. the buddhas' bodies are without loss, 2. their speech is without loss, 3. mindfulness is without loss, 4. there's no mistaken perception, 5. there's no indeterminate mind, 6. there's no mind that doesn't know it's been abandoned, 7. desires are without decrease, 8. effort is without decrease, 9. mindfulness is without decrease, 10. wisdom is without decrease, 11. liberation is without decrease, 12. knowledge and vision of liberation are without decrease, 13. all physical actions are performed with wisdom, 14. all verbal actions are performed with wisdom, 15. all mental actions are performed with wisdom, 16. wisdom's knowledge of past lives is unimpeded, 17. wisdom's knowledge of future lives is unimpeded, and 18. wisdom's knowledge of present lives is unimpeded.",
+        "source": "T25n1509_088:0680c24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「云何三十二相？",
+        "translation": "\"What are the thirty-two marks?",
+        "source": "T25n1509_088:0681a02_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者、足下安平立平如奩底；二者、足下千輻輞輪，輪相具足；三者、手足指長勝於餘人；四者、手足柔軟勝餘身分；五者、足跟廣具足滿好；六者、手足指合縵網勝於餘人；七者、足趺高平好，與跟相稱；八者、伊泥延鹿[蹲-酋+(十/田/ㄙ)]，[蹲-酋+(十/田/ㄙ)]纖好，如伊泥延鹿王；九者、平住兩手摩膝；十者、陰藏相，如馬王、象王；十一者、身縱廣等，如尼俱盧樹；十二者、一一孔一毛生，色青、柔軟、右旋；十三者、毛上向，青色柔軟右旋；十四者、金色相，其色微妙勝閻浮檀金；十五者、身光面一丈；十六者、皮薄細滑不受塵垢，不停蚊蜹；十七者、七處滿：兩足下、兩手中、兩肩上、項中皆滿字相分明；十八者、兩腋下滿；十九者、上身如師子；二十者、身廣端直；二十一者、肩圓好；二十二者、四十齒；二十三者、齒白齊密而根深；二十四者、四牙最白而大；二十五者、方頰車如師子；二十六者、味中得上味，咽中二處津液流出；二十七者、舌大、軟、薄，能覆面至耳髮際；二十八者、梵音深遠，如迦蘭頻伽聲；二十九者、眼色如金精；三十者、眼睫如牛王；三十一者、眉間白毫相，軟白如兜羅綿；三十二者、頂髻肉成。",
+        "translation": "一者、足下安平立平如奩底；二者、足下千輻輞輪，輪相具足；三者、手足指長勝於餘人；四者、手足柔軟勝餘身分；五者、足跟廣具足滿好；六者、手足指合縵網勝於餘人；七者、足趺高平好，與跟相稱；八者、伊泥延鹿[蹲-酋+(十/田/ㄙ)]，[蹲-酋+(十/田/ㄙ)]纖好，如伊泥延鹿王；九者、平住兩手摩膝；十者、陰藏相，如馬王、象王；十一者、身縱廣等，如尼俱盧樹；十二者、一一孔一毛生，色青、柔軟、右旋；十三者、毛上向，青色柔軟右旋；十四者、金色相，其色微妙勝閻浮檀金；十五者、身光面一丈；十六者、皮薄細滑不受塵垢，不停蚊蜹；十七者、七處滿：兩足下、兩手中、兩肩上、項中皆滿字相分明；十八者、兩腋下滿；十九者、上身如師子；二十者、身廣端直；二十一者、肩圓好；二十二者、四十齒；二十三者、齒白齊密而根深；二十四者、四牙最白而大；二十五者、方頰車如師子；二十六者、味中得上味，咽中二處津液流出；二十七者、舌大、軟、薄，能覆面至耳髮際；二十八者、梵音深遠，如迦蘭頻伽聲；二十九者、眼色如金精；三十者、眼睫如牛王；三十一者、眉間白毫相，軟白如兜羅綿；三十二者、頂髻肉成。",
+        "source": "T25n1509_088:0681a03_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是三十二相，佛身成就。",
+        "translation": "These are the thirty-two marks of a completed Buddha body.",
+        "source": "T25n1509_088:0681a24_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「光明遍照三千大千世界，若欲廣照，則遍滿十方無量阿僧祇世界，為眾生故受丈光；若放無量光明，則無日月、時節、歲數。",
+        "translation": "\"When his light shines everywhere in the 3,000 great thousand worlds, or when it wants to shine broadly, it fills measureless incalculable worlds in the ten directions and receives a ten-foot radiance for the sake of sentient beings; if he radiates measureless light, then there's no sun, moon, time, or number of years.",
+        "source": "T25n1509_088:0681a24_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛音聲遍滿三千大千世界，若欲大聲，則遍滿十方無量阿僧祇世界；隨眾多少，音聲遍至。」",
+        "translation": "The Buddha's voice would reach 3,000 great thousand worlds, and if he wanted to make a loud noise, it would reach measureless incalculable worlds in ten directions; depending on how many people there are, his voice would reach them everywhere.\"",
+        "source": "T25n1509_088:0681a27_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "【論】問曰：上來已，處處說：「諸法性空，云何分別有善、不善？」",
+        "translation": "[Commentary] He asked, \"Since the above, it's been said everywhere, 'The nature of all things is empty, so how can we discern that there's good and unskillful?'\"",
+        "source": "T25n1509_088:0681b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提何以從後已來，品品中義無異而作種種名問？",
+        "translation": "Why, Subhūti, have you asked various questions in various names since then, even though the meanings in each category are not different?",
+        "source": "T25n1509_088:0681b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：是事上已答。",
+        "translation": "Answer: \"This is something that was answered above.",
+        "source": "T25n1509_088:0681b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，眾生從無始生死已來著心深難解故，須菩提復作是重問。",
+        "translation": "Furthermore, since sentient beings have been attached to mind since beginningless birth and death, it's difficult to understand, so Subhūti repeatedly asked this question.",
+        "source": "T25n1509_088:0681b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，是般若波羅蜜欲說是空，義要故，數問。",
+        "translation": "Furthermore, since the perfection of wisdom wants to explain that this is emptiness, it's important to ask that question repeatedly.",
+        "source": "T25n1509_088:0681b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，佛在世時，眾生利根易悟；佛滅度五百年後，像法中眾生愛著佛法，墮著法中，言：「若諸法皆空、如夢、如幻，何以故有善、不善？」",
+        "translation": "Furthermore, when the Buddha was alive, sentient beings had sharp faculties and were easily enlightened; 500 years after the Buddha's death, sentient beings in the semblance realm became attached to the Buddha's teaching and fell into that teaching, saying, \"If all things are empty and dreamlike and illusory, why are they good and unskillful?\"",
+        "source": "T25n1509_088:0681b06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是故，須菩提憐愍未來眾生鈍根不解故重問。",
+        "translation": "Because of this, Suppository sympathizes with future sentient beings whose dull faculties don't understand him and therefore asks this question again.",
+        "source": "T25n1509_088:0681b09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「世尊！",
+        "translation": "\"Bhagavān!",
+        "source": "T25n1509_088:0681b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸法皆空，云何分別有善、不善等？」",
+        "translation": "If all dharmas are empty, how can we discriminate between what's good and what's not good?\"",
+        "source": "T25n1509_088:0681b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中佛自說因緣：「凡夫顛倒心故，於法皆作顛倒異見，乃至不見一法是實。",
+        "translation": "Here, the Buddha himself explains the causes and conditions, \"As a result of a mistaken mind, ordinary people hold mistaken and different views about things, up to the point where they don't see a single thing as real.",
+        "source": "T25n1509_088:0681b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡夫於夢中，著夢、得夢、見夢者，亦著夢中所見事。」",
+        "translation": "Ordinary people who are attached to dreams, obtain dreams, and see dreams in dreams are also attached to the things they see in dreams.\"",
+        "source": "T25n1509_088:0681b13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人若不信罪福，起三種不善業；若信罪福，起三種善業。",
+        "translation": "If someone doesn't believe in sins and merits, three kinds of unwholesome actions will arise, and if they believe in sins and merits, three kinds of wholesome actions will arise.",
+        "source": "T25n1509_088:0681b14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善、不善、不動：善名欲界中善法，喜樂果報；不善名憂悲苦惱果報；不動名生色、無色界因緣業。",
+        "translation": "Good, unwholesome, and immovable: good is called the result of joy and happiness in the good dharmas of the desire realm; unwholesome is called the result of grief, sorrow, and suffering; and immovable is called the causal actions that give rise to the form and formless realms.",
+        "source": "T25n1509_088:0681b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩知是三種業皆是虛誑不實，住二空中，為眾生說法——畢竟空破諸法；無始空破眾生相。",
+        "translation": "Knowing that these three kinds of actions are all false and unreal, the bodhisattva abides in both realms and speaks for sentient beings - final emptiness refutes all dharmas, and beginningless emptiness refutes the characteristics of sentient beings.",
+        "source": "T25n1509_088:0681b18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住中道，為眾生說法，所謂：「五眾、十二入、十八界皆是空，如夢、如幻乃至如化，是法中無夢、亦無見夢者。」",
+        "translation": "Abiding in the middle way, he teaches sentient beings the teaching, which is, \"The five aggregates, twelve sense fields, and eighteen elements are all empty, like dreams, illusions, and even transformations; these things are without dreams, and there's no one who sees dreams.\"",
+        "source": "T25n1509_088:0681b20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩語眾生：「汝等於空法顛倒心故生諸著！」",
+        "translation": "The bodhisattva says to sentient beings, \"You have all created attachments because of your mistaken minds regarding the principle of emptiness!\"",
+        "source": "T25n1509_088:0681b22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如經中廣說。",
+        "translation": "It's as explained in detail in the sūtras.",
+        "source": "T25n1509_088:0681b23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩方便力故，於顛倒中拔出眾生，著破顛倒法中。",
+        "translation": "\"It's the power of the bodhisattva's skillful means to pluck sentient beings out of their mistakenness and get stuck in the Dharma that refutes their mistakenness.",
+        "source": "T25n1509_088:0681b24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如：慳貪是顛倒，以布施破慳貪法。",
+        "translation": "For example, stinginess and greed are mistaken, and generosity is used to refute the teaching of stinginess and greed.",
+        "source": "T25n1509_088:0681b25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而眾生著是布施故，為說布施果報無常、實空；從布施拔出眾生，令持戒。",
+        "translation": "Because sentient beings are attached to this kind of generosity, they are taught that the result of generosity is impermanent and truly empty, and they are plucked out of that generosity to observe precepts.",
+        "source": "T25n1509_088:0681b26_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持戒及持戒果報中拔出眾生，語眾生言：「天福盡時，無常苦惱！」",
+        "translation": "Pulling sentient beings out of the consequences of observing precepts and observing precepts, he says to them, \"When the merits of gods are ended, they'll be impermanent and painful!\"",
+        "source": "T25n1509_088:0681b28_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "拔出眾生，令離欲、行禪定；而為說禪定及果報虛誑不實，能令人墮顛倒中。",
+        "translation": "They uproot sentient beings, free them from desire, practice meditation, and teach that meditation and its rewards are false and unreal, which can cause people to fall into delusion.",
+        "source": "T25n1509_088:0681b29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種因緣，為說布施、持戒、禪定無常過失，令住涅槃、得涅槃方便，所謂四念處乃至十八不共法，令眾生住是法中。",
+        "translation": "These are the various causes and conditions that explain the impermanence and faults of generosity, observance of precepts, and meditation, and the method of abiding in and attaining nirvāṇa, which are called the four abodes of mindfulness and even the 18 distinctive qualities, so that sentient beings will abide in these qualities.",
+        "source": "T25n1509_088:0681c02_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若布施、持戒、禪定是定實法，則不應令遠離。",
+        "translation": "If generosity, observance of precepts, and meditation are real dharmas of concentration, then they shouldn't be made to part with them.",
+        "source": "T25n1509_088:0681c05_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如布施、持戒等破凡夫法，此則因顛倒而生，雖少時益眾生，久則變異，能生苦惱故，亦教令捨離。",
+        "translation": "Such things as generosity and maintaining precepts that refute worldly dharmas are the result of confusion, and even though they benefit sentient beings for a little while, they change over time and cause suffering and distress, so they're also taught to abandon them.",
+        "source": "T25n1509_088:0681c06_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩方便力故，先教眾生捨罪，稱讚持戒、布施福德；次復為說持戒、布施亦未免無常苦惱，然後為說諸法空，但稱讚實法，所謂無餘涅槃。",
+        "translation": "Because of the power of the bodhisattva's skillful means, he first teaches sentient beings to abandon sins and praises the merits of observing precepts and generosity; then he teaches that observing precepts and generosity aren't exempt from the suffering and distress of impermanence, and then he teaches that all things are empty and praises the true teaching, which is called nirvāṇa without remainder.",
+        "source": "T25n1509_088:0681c08_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時，須菩提歡喜：「甚希有！",
+        "translation": "Subsequently, Subhūti rejoiced, \"How rare!",
+        "source": "T25n1509_088:0681c11_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩能如是知是諸法實相，所謂畢竟空，而為眾生說法，令至無餘涅槃。」",
+        "translation": "A bodhisattva can thus know the true characteristics of all dharmas, which are called ultimately empty, and teach them to sentient beings, causing them to reach nirvāṇa without remainder.\"",
+        "source": "T25n1509_088:0681c12_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「是一種希有。",
+        "translation": "The Buddha said, \"This is a rare thing.",
+        "source": "T25n1509_088:0681c14_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問欲更知菩薩希有法，一切聲聞、辟支佛不能報是菩薩，何況餘人！」",
+        "translation": "If you want to know more about the rare qualities of a bodhisattva, all śrāvakas and pratyekabuddhas can't repay this bodhisattva, so why wouldn't others?\"",
+        "source": "T25n1509_088:0681c14_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須菩提問：「何等是更有希有法？」",
+        "translation": "Subhūti asked, \"What is another rare dharma?\"",
+        "source": "T25n1509_088:0681c16_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛答，如經中說。",
+        "translation": "The Buddha answered, \"As it's taught in the sūtras.",
+        "source": "T25n1509_088:0681c16_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：經中教令布施、持戒、禪定，今復更說，有何等異？",
+        "translation": "He asked, \"What's the difference between the sūtras that teach generosity, observance of precepts, and meditation and the present one that teaches them again?",
+        "source": "T25n1509_088:0681c17_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：先說生身菩薩，今說變化身。",
+        "translation": "Answer: First, we talked about a bodhisattva in his birth body, and now we're talking about a transformation body.",
+        "source": "T25n1509_088:0681c18_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先說一國土，今說無量世界。",
+        "translation": "First, it was described as a single land, but now it's described as an infinite number of worlds.",
+        "source": "T25n1509_088:0681c19_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等差別。",
+        "translation": "Such is the difference.",
+        "source": "T25n1509_088:0681c19_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：若菩薩知佛是福田、眾生非福田，是非菩薩法，菩薩以何力故能令佛與畜生等？",
+        "translation": "Q: If a bodhisattva knows that the Buddha is a field of merit and sentient beings are not fields of merit or non-bodhisattva dharmas, by what power can a bodhisattva cause the Buddha and animals to be equal?",
+        "source": "T25n1509_088:0681c20_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：菩薩以般若波羅蜜力故，一切法中修畢竟空心，是故於一切法無分別。",
+        "translation": "Answer: \"Because of the power of the perfection of wisdom, a bodhisattva cultivates the mind of ultimate emptiness in all things, and therefore has no discrimination among all things.",
+        "source": "T25n1509_088:0681c22_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如畜生，五眾、十二入、十八界和合生，名為畜生；佛亦如是，從諸善法和合，假名為佛。",
+        "translation": "Like an animal, which is called an animal when the five aggregates, 12 sense-fields, and 18 elements combine to produce it, so too is a Buddha, which is nominally called a Buddha when good qualities combine.",
+        "source": "T25n1509_088:0681c24_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若人憐愍眾生，得無量福德；於佛著心，起諸惡因緣，得無量罪。",
+        "translation": "If someone takes pity on sentient beings, they'll attain measureless merit, but if they become attached to the Buddha and give rise to bad causes and conditions, they'll commit measureless crimes.",
+        "source": "T25n1509_088:0681c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故知一切法畢竟空故，不輕畜生，不著心貴佛。",
+        "translation": "Therefore, knowing that all things are ultimately empty, they don't despise animals and don't cling to the mind to honor buddhas.",
+        "source": "T25n1509_088:0681c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，諸法實相，是一切法無相，是無相中不分別是佛、是畜生；若分別即是取相，是故等觀。",
+        "translation": "Furthermore, the true characteristics of dharmas are that all dharmas are without characteristics, and within this lack of characteristics, they don't discriminate between being a buddha and being an animal; to discriminate would be to grasp characteristics; therefore, they are equally contemplated.",
+        "source": "T25n1509_088:0681c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，菩薩有二法門：一者、畢竟空法門，二者、分別好惡法門。",
+        "translation": "Furthermore, bodhisattvas have two approaches: one is the approach of ultimate emptiness, and the other is the approach of discriminating good and evil.",
+        "source": "T25n1509_088:0682a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入空法門，則得等觀；入分別法門，諸阿羅漢、辟支佛尚不及佛，何況畜生！",
+        "translation": "Entering the dharma-gate of emptiness, one attains equal contemplation; entering the dharma-gate of discrimination, arhats and pratyekabuddhas are not yet as good as buddhas, let alone animals!",
+        "source": "T25n1509_088:0682a03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為其輕眾生不憐愍布施故，教不分別。",
+        "translation": "It's because they despise sentient beings and don't have compassion for generosity that they're taught not to discriminate.",
+        "source": "T25n1509_088:0682a04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：菩薩身非木石，云何眾生來割截而不生異心？",
+        "translation": "He asked, \"The body of a bodhisattva is not made of wood or stone, so why don't sentient beings come to cut it up and not become dissimilar?",
+        "source": "T25n1509_088:0682a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：有人言：菩薩久修羼提波羅蜜故，能不愁惱；如羼提仙人被截手足，血皆為乳。",
+        "translation": "Answer: Some people say, \"Because a bodhisattva has long cultivated the perfection of kṣatriya, he's able to avoid grief; it's like the sage Kṣatriya whose blood is turned into milk when his hands and feet are cut off.",
+        "source": "T25n1509_088:0682a07_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有人言：菩薩無量世來深修大慈悲心故，雖有割截，亦不愁憂；譬如草木無有瞋心。",
+        "translation": "Some people say, \"Because the bodhisattva has deeply cultivated the mind of great compassion for measureless ages, even though it's been cut off, he isn't sad; it's like a grass or tree that has no anger.",
+        "source": "T25n1509_088:0682a09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有人言：菩薩深修般若波羅蜜，轉身得般若波羅蜜果報空心故，了了知空，割截身時心亦不動；如外物不動，內亦如是。",
+        "translation": "Some people say, \"Because the bodhisattva has deeply cultivated the perfection of wisdom and has transformed his body to attain the fruit of the perfection of wisdom in an empty mind, he fully understands emptiness, and when he cuts off his body, his mind doesn't move; just as external things don't move, so does the inside.",
+        "source": "T25n1509_088:0682a11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得般若果報故，於諸法中無所分別。",
+        "translation": "As a result of realizing the fruit of prajñā, they have no discrimination among dharmas.",
+        "source": "T25n1509_088:0682a14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有人言：是菩薩非生死身，是出三界法性生身，住無漏聖心果報中故，身如木石，而能慈念割截者；是菩薩能生如是心故，割截劫奪內外法時，其心不動。",
+        "translation": "Some people say, \"This is a bodhisattva who isn't the body of birth-and-death, but the body that arises from the Dharma nature of the three realms and abides in the fruit of an untainted noble mind, so he has a body like wood and stone and is able to compassionately consider cutting it up; it's because a bodhisattva can produce such a mind that when he cuts up internal and external things that are taken away during an eon, his mind doesn't move.",
+        "source": "T25n1509_088:0682a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為菩薩希有法。",
+        "translation": "This is a rare thing for a bodhisattva.",
+        "source": "T25n1509_088:0682a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，希有法者，如經中說：「我以佛眼見十方如恒河沙等世界中菩薩，入地獄中，令火滅湯冷，以三事教化眾生。」",
+        "translation": "Furthermore, for someone with rare qualities, as the sūtras say, \"With the Buddha's eye, I've seen bodhisattvas in worlds as vast as the Ganges River Sands in ten directions enter hell, make the fire go out and the hot water cool, and teach sentient beings three things.\"",
+        "source": "T25n1509_088:0682a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如經中說。",
+        "translation": "It's like the sūtra says.",
+        "source": "T25n1509_088:0682a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：若爾者，不應有三惡道！",
+        "translation": "He asked, \"If that's the case, then there shouldn't be three evil destinies!",
+        "source": "T25n1509_088:0682a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：三惡道眾生無邊無量；菩薩雖無邊無量，眾生倍多無量。",
+        "translation": "Answer: The sentient beings in the three evil destinies are limitless and immeasurable; although bodhisattvas are limitless and immeasurable, sentient beings are twice as numerous and immeasurable.",
+        "source": "T25n1509_088:0682a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩隨眾生可度因緣，若於三惡道中有餘功德者，菩薩則度；重罪者則不見菩薩。",
+        "translation": "The bodhisattva follows the causes and conditions of the sentient beings he can save, and if there's any remaining merit in the three evil destinies, the bodhisattva will save it; a serious offender won't see the bodhisattva.",
+        "source": "T25n1509_088:0682a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩一相見無分別心故，不一一求覓眾生；譬如大赦，及者得脫，不及者則不蒙。",
+        "translation": "Because the bodhisattva sees one characteristic and has no discriminating mind, he doesn't seek out sentient beings one by one; it's like a great pardon, in which those who get it are freed, but those who don't get it aren't blessed.",
+        "source": "T25n1509_088:0682a26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：若眾生割截菩薩、或食其肉，應當有罪，云何得度？",
+        "translation": "Q: If a sentient being cuts off a bodhisattva or eats his flesh, they should be guilty, so how can they be saved?",
+        "source": "T25n1509_088:0682a28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：此菩薩本願：「若有眾生噉我肉者，當令得度。」",
+        "translation": "Answer: The bodhisattva's original vow was, \"If sentient beings devour my flesh, they will be saved.\"",
+        "source": "T25n1509_088:0682a29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如經中說：「眾生食菩薩肉者，則生慈心。」",
+        "translation": "As the sūtra says, \"When sentient beings eat the bodhisattva's flesh, they'll become compassionate.\"",
+        "source": "T25n1509_088:0682b01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如有色、聲、香、觸，人聞見則喜，復有聞見則瞋；味亦如是，有瞋者、有起慈心者。",
+        "translation": "It's like a person who hears and sees sound, smell, and touch, and is delighted, or another person who hears and sees it and becomes angry; likewise with taste, there are those who become angry and those who become compassionate.",
+        "source": "T25n1509_088:0682b02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如《毘摩羅鞊經》說：「服食香飯，七日得道者，有不得者。」",
+        "translation": "As the Vimalakīrti-nirdeśa-sūtra says, \"It takes seven days of eating fragrant rice to attain enlightenment, but there are those who don't.\"",
+        "source": "T25n1509_088:0682b04_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非以噉肉故得度，以起發慈心故，得免畜生，生善處，值佛得度。",
+        "translation": "It's not because they devour meat that they're saved, but because they arouse compassionate hearts that they're freed from animals and born in a good place, where they'll be saved by the Buddha.",
+        "source": "T25n1509_088:0682b05_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有菩薩於無量阿僧祇劫深行慈心，外物給施眾生，意猶不滿，并自以身布施，爾乃足滿。",
+        "translation": "For measureless incalculably long eons, a bodhisattva has practiced deep compassion and given external goods to sentient beings, but he's still dissatisfied with the idea and gives it to them with his own body.",
+        "source": "T25n1509_088:0682b07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如《法華經》中，藥王菩薩外物珍寶供養佛，意猶不滿；以身為燈供養於佛，爾乃足滿。",
+        "translation": "For example, in the Lotus Sutra, the Medicine King Bodhisattva offered external goods and treasures to the Buddha, but his intention was still dissatisfied; he offered his body as a lamp to the Buddha, and it was then fulfilled.",
+        "source": "T25n1509_088:0682b09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，人得外物，雖多，不以為恩。",
+        "translation": "Furthermore, even though a person obtains a lot of external goods, they don't consider it a gift.",
+        "source": "T25n1509_088:0682b11_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0682b12_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非所愛重故。",
+        "translation": "\"It's not because it's valued.",
+        "source": "T25n1509_088:0682b12_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得其身時，乃能驚感，是故以身布施。",
+        "translation": "When he obtains his body, he'll be able to be surprised and moved, so he gives alms with his body.",
+        "source": "T25n1509_088:0682b13_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩又為天上諸天說法，如經中廣說。",
+        "translation": "The bodhisattva also speaks Dharma for the gods in the heavens, as explained in detail in the sūtras.",
+        "source": "T25n1509_088:0682b13_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人以四事攝之：布施、愛語、利益、同事。",
+        "translation": "People are subsumed by four things: generosity, loving words, benefits, and coworkers.",
+        "source": "T25n1509_088:0682b14_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "布施有二事，如經中廣說。",
+        "translation": "There are two things that are included in generosity, as explained in detail in the sūtras.",
+        "source": "T25n1509_088:0682b15_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：何以略說餘四道，而廣說人道中法？",
+        "translation": "Q: Why do you explain the other four paths in brief but explain the Dharma in broad terms for humans?",
+        "source": "T25n1509_088:0682b16_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：三惡道中苦多故，眾生少疑，若見菩薩大神通希有事，則直信愛著得度。",
+        "translation": "Answer: \"Because suffering is abundant in the three evil destinies, sentient beings have few doubts, and if they see the bodhisattva's great superknowledge and rare abilities, they'll directly believe, love, and attach to them and be liberated.",
+        "source": "T25n1509_088:0682b17_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸天有天眼故，自見罪福因緣；菩薩少現神足則解。",
+        "translation": "Because gods have the divine eye, they see for themselves the causes and conditions of sins and merits, but bodhisattvas rarely show their spiritual abilities and then understand them.",
+        "source": "T25n1509_088:0682b19_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人以肉眼不見罪福因緣果報，又多著外道邪師及邪見經書。",
+        "translation": "With the naked eye, humans don't see the causes and conditions of sins and merits as rewards, and they often become attached to mistaken masters and scriptures of non-Buddhist views.",
+        "source": "T25n1509_088:0682b20_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸煩惱有二分：一者、屬見，二者、屬愛。",
+        "translation": "There are two kinds of afflictions: those that are part of views and those that are part of emotions.",
+        "source": "T25n1509_088:0682b21_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若但有一事，則不能成大罪。",
+        "translation": "If there's just one, it won't cause a great sin.",
+        "source": "T25n1509_088:0682b22_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三毒人得邪見力，能盡作重惡；邪見人得貪欲、瞋恚，能大作罪事。",
+        "translation": "A person with the three poisons who has the power of wrong views can do all serious evil, and a person with wrong views who has craving and anger can do great misdeeds.",
+        "source": "T25n1509_088:0682b23_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如須陀洹雖有三毒，無邪見故，不作墮三惡道重罪。",
+        "translation": "Although a stream entrant has the three poisons, he doesn't commit the serious misdeed of falling into the three evil destinies because he doesn't have wrong views.",
+        "source": "T25n1509_088:0682b24_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故人中多有三毒、邪見。",
+        "translation": "Therefore, the three poisons and wrong views are often present in people.",
+        "source": "T25n1509_088:0682b26_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又眼不見罪福因緣故難度，難度故多說。",
+        "translation": "Also, because the eye doesn't see the causes and conditions of sins and merits, it's difficult to save them, and because it's difficult to save them, it's often explained.",
+        "source": "T25n1509_088:0682b26_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：若爾者，於四事中何以多說布施，餘三略說？",
+        "translation": "Q: If that's the case, then why is generosity mentioned so often among the four things and the other three mentioned briefly?",
+        "source": "T25n1509_088:0682b27_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：布施中攝三事故，以財施、法施教化眾生，則無所不攝。",
+        "translation": "Answer: \"Among almsgiving, there are three things that are included, and there's nothing that isn't included when you use almsgiving of goods and dharmas to teach sentient beings.",
+        "source": "T25n1509_088:0682b29_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，四事中初廣開布施，則知餘三亦如是。",
+        "translation": "Furthermore, since the first of these four things broadly describes generosity, it follows that the other three are likewise.",
+        "source": "T25n1509_088:0682c01_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：若爾者，何以略說財施而廣說法施？",
+        "translation": "Q: If that's the case, then why is it that you explain wealthy generosity in brief and Dharma generosity in detail?",
+        "source": "T25n1509_088:0682c02_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：財施少，法施廣故。",
+        "translation": "Answer: It's because giving material goods is small and giving Dharma is large.",
+        "source": "T25n1509_088:0682c03_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0682c04_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "財施，有量果報；法施，無量果報。",
+        "translation": "Giving financially has measureable rewards, and giving dharmas has measureless rewards.",
+        "source": "T25n1509_088:0682c04_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "財施，欲界繫果報；法施，亦三界繫果報，亦是出三界果報。",
+        "translation": "Giving goods is the result of being tied to the desire realm; giving the Dharma is also the result of being tied to the three realms and the result of escaping from the three realms.",
+        "source": "T25n1509_088:0682c05_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "財施，能與三界富樂；法施，能與涅槃常樂。",
+        "translation": "Giving financially can lead to the prosperity and happiness of the three realms, and giving dharma-giving can lead to the eternal happiness of nirvāṇa.",
+        "source": "T25n1509_088:0682c06_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又財施從法施生，聞法則能施故。",
+        "translation": "Furthermore, giving financially arises from giving dharmas, and hearing the Dharma makes it possible to give.",
+        "source": "T25n1509_088:0682c07_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，財施果報，但富樂，無種種；法施亦有富樂，亦有餘事，乃至佛道涅槃果報。",
+        "translation": "Furthermore, the fruit of giving financially is only prosperity and happiness, but nothing of various kinds; giving Dharma also has prosperity and happiness, and there are other things, up to the fruit of the Buddha Way and nirvāṇa.",
+        "source": "T25n1509_088:0682c08_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是等因緣故，廣說法施。",
+        "translation": "Because of these causes and conditions, we'll talk extensively about giving dharma.",
+        "source": "T25n1509_088:0682c10_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二施義，如經中佛自廣說。",
+        "translation": "The meaning of these two kinds of generosity is as the Buddha himself explains in detail in the sutra.",
+        "source": "T25n1509_088:0682c10_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：經中，須菩提何以故言「菩薩得一切種智不」？",
+        "translation": "Q: Why does Subhūti say, \"Has the bodhisattva attained omniscience\" in the sūtra?",
+        "source": "T25n1509_088:0682c11_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：須菩提意：若菩薩時得一切種智，則不名菩薩，云何未得佛而能得一切種智？",
+        "translation": "Answer: What does Subhūti think: If a bodhisattva attains omniscience at the time, then he is not called a bodhisattva, so how can he attain omniscience before becoming a buddha?",
+        "source": "T25n1509_088:0682c12_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得一切種智故名為佛；若先作佛，何用一切種智為？",
+        "translation": "Attaining all-inclusive cognition is called being a buddha; if one has first become a buddha, why is there a need for all-inclusive cognition?",
+        "source": "T25n1509_088:0682c14_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛答：今得一切種智，名為菩薩；已得一切種智，名為佛。",
+        "translation": "The Buddha answered, \"Now, someone who has attained all-inclusive cognition is called a bodhisattva, and someone who has attained all-inclusive cognition is called a Buddha.",
+        "source": "T25n1509_088:0682c15_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩時具足佛因緣，生心欲得一切種智；得已，名為佛。",
+        "translation": "When a bodhisattva fulfills the Buddha's causes and conditions, he gives rise to the desire to attain omniscience; after attaining it, he's called a Buddha.",
+        "source": "T25n1509_088:0682c17_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "真實之言：菩薩不得，佛亦不得。",
+        "translation": "The truth says, \"If a bodhisattva can't attain it, then a Buddha can't attain it either.",
+        "source": "T25n1509_088:0682c18_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0682c19_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩未得；佛得已竟，更不復得。",
+        "translation": "The bodhisattva hasn't attained it; after the Buddha has attained it, he won't attain it again.",
+        "source": "T25n1509_088:0682c19_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世俗法故，說「菩薩今得，佛得已竟」；第一義中，則無一切法，何況佛及菩薩！",
+        "translation": "Conventional dharmas therefore say, 'The bodhisattva has attained it now, and the Buddha has attained it'; in the ultimate truth, there are not all dharmas, let alone buddhas and bodhisattvas!",
+        "source": "T25n1509_088:0682c20_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又經中言：「佛心不異菩薩，菩薩不異佛心。」",
+        "translation": "It's also said in the sutra, \"A Buddha's mind doesn't differ from a bodhisattva's, and a bodhisattva's doesn't differ from a Buddha's mind.\"",
+        "source": "T25n1509_088:0682c21_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次第相續不斷故，有二心如，無異、無分別故。",
+        "translation": "It's because continuity in order doesn't stop and there are two minds as such, which are not different and not discriminated.",
+        "source": "T25n1509_088:0682c22_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：九次第定、三十二相、八十隨形好，此是世間共有法，何以故名為「出世間不共法？」",
+        "translation": "Q: The nine graduated concentrations, the thirty-two marks, and the eighty minor marks are common to the world, so why are they called \"distinctive supramundane qualities?\"",
+        "source": "T25n1509_088:0682c23_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：四禪、四無色定、滅受想，名九次第。",
+        "translation": "Answer: The four meditations, the four formless concentrations, and the cessation of sensation and perception are called the nine progressions.",
+        "source": "T25n1509_088:0682c25_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅受定，但聖人能得。",
+        "translation": "The concentration of cessation of sensation is attainable only by sages.",
+        "source": "T25n1509_088:0682c26_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四禪、四無色定——從初禪起更不雜餘心而入二禪；從二禪乃至滅受定，念念中受，不雜餘心，名為次第。",
+        "translation": "The fourth meditation and the four formless concentrations - from the first meditation onward, without distracting other minds, they enter the second meditation; from the second meditation up to the concentration of cessation of feeling, the mindfulness of feeling in the midst of thought, without distracting other minds, is called the progression.",
+        "source": "T25n1509_088:0682c27_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡夫是罪人鈍根，云何能得三十二相？",
+        "translation": "How can a worldling with the dull faculties of a sinner attain the thirty-two marks?",
+        "source": "T25n1509_088:0682c29_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如轉輪聖王、提婆達、難陀所得相，名字雖同，而威德、具足、淨潔、得處則不同於佛。",
+        "translation": "Although the Wheel-Turning Sage King, Devadatta, and Nandanavana all have the same name, their authority, adequacy, purity, and place of attainment are different from those of the Buddha.",
+        "source": "T25n1509_088:0683a01_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如先分別轉輪聖王、佛相不同中說。",
+        "translation": "As explained earlier in this article, the characteristics of the wheel-turning sage king and the Buddha are different.",
+        "source": "T25n1509_088:0683a03_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又是相，聖無漏法果報，故自在隨意，無量無邊；轉輪聖王等相，是福德業因緣，不能自在，有量有限。",
+        "translation": "Also, these characteristics are the results of noble, uncontaminated qualities, which make them freely attainable and limitless, whereas the characteristics of wheel-turning sage kings and others are the causes and conditions of meritorious actions, which are incapable of being freely attained and limited in number.",
+        "source": "T25n1509_088:0683a04_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，提婆達、難陀有三十相，無三十二相；轉輪聖王，雖有三十二相，無威德、不具足、不得處，與愛等煩惱俱。",
+        "translation": "Furthermore, although Devadatta and Nandanavana have thirty marks but not thirty-two marks, the wheel-turning sage king has thirty-two marks but lacks authoritative qualities, isn't fully endowed, doesn't obtain a position, and is accompanied by such afflictions as craving.",
+        "source": "T25n1509_088:0683a06_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八十隨形好具足，唯佛菩薩有之；餘人正可有少許，或指纖長，或失腹，有如是等無威德之好，不足言。",
+        "translation": "Only buddhas and bodhisattvas have the full set of the eighty minor physical attributes, and it's not enough to say that other people may have a few, or they may have long, slender fingers or lose their bellies, or they may have such things as lack of authoritative attributes.",
+        "source": "T25n1509_088:0683a09_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說言「出世間不共凡夫法」，無咎。",
+        "translation": "Therefore, it's blameless to say, \"Out-of-this-world, uncommon worldly possessions of ordinary people.\"",
+        "source": "T25n1509_088:0683a11_67",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：從初來處處說諸法五眾乃至一切種智，不說是三十二相、八十隨形好；今經欲竟，何以品品中說？",
+        "translation": "Q: From the beginning, the five categories of dharmas and even the cognition of all types were explained at various points, not the thirty-two marks and eighty minor marks.",
+        "source": "T25n1509_088:0683a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：佛有二種身：法身、生身。",
+        "translation": "Answer: \"The Buddha has two kinds of bodies: the Dharma body and the birth body.",
+        "source": "T25n1509_088:0683a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於二身中，法身為大；法身大，所益多故，上來廣說。",
+        "translation": "Of the two bodies, the Dharma body is the greatest, and because the Dharma body is great and has so many benefits, it was explained in detail above.",
+        "source": "T25n1509_088:0683a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今經欲訖故，生身義應當說，是故今說。",
+        "translation": "Now, because the sūtra wants to finish, the meaning of the born body should be explained, so I'll explain it now.",
+        "source": "T25n1509_088:0683a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，是生身相好莊嚴是聖無漏法果報，今次第說；上雜諸波羅蜜說。",
+        "translation": "Furthermore, the birth body's attractive appearance and adornment are the results of noble and uncontaminated qualities, which are explained in order here and mixed with the above explanation by the pāramitā.",
+        "source": "T25n1509_088:0683a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四念處等諸法義，如先說。",
+        "translation": "The meanings of the four abodes of mindfulness and other things are explained as before.",
+        "source": "T25n1509_088:0683a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十力等是佛法甚深義，今當更略說。",
+        "translation": "The ten powers and so forth are the profound meaning of the Buddha's teaching, which we'll now explain more briefly.",
+        "source": "T25n1509_088:0683a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：佛十力者，若總相說則一力，所謂一切種智力；若別相說則千萬億種力，隨法為名，今何以但說十力？",
+        "translation": "Q: The Buddha's ten powers are described in a general way as a single power, which is called the power of all kinds of cognition, and in a specific way as a thousand trillion kinds of power, which are named according to the teaching, so why are the ten powers only described now?",
+        "source": "T25n1509_088:0683a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：佛實有無量智力，但以眾生不能得、不能行故不說。",
+        "translation": "Answer: The Buddha really has immeasurable wisdom, but he doesn't explain it because it's not accessible to sentient beings and can't be done.",
+        "source": "T25n1509_088:0683a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是十力，可度眾生事辦。",
+        "translation": "These are the ten powers that can liberate sentient beings and cause them to accomplish their work.",
+        "source": "T25n1509_088:0683a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何？",
+        "translation": "Why is that?",
+        "source": "T25n1509_088:0683a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛用是處非處力，定知一切法中因果，所謂行惡業，墮惡道，有是處；行惡業，生天上，無是處。",
+        "translation": "With the power to know right from wrong, the Buddha definitely knows the cause and effect in all things, which is to say that there's a place where someone who does bad actions will fall into a bad destiny and a place where someone who does bad actions will be born in heaven.",
+        "source": "T25n1509_088:0683a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善亦如是。",
+        "translation": "So it is with goodness.",
+        "source": "T25n1509_088:0683a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不離五蓋、不修七覺得道者，無有是處；離五蓋、修七覺得道者，有是處。",
+        "translation": "There's no such place for someone who doesn't part with the five hindrances and doesn't cultivate the seven awakenings to attain the path, and there is a place for someone who part with the five hindrances and cultivates the seven awakenings to attain the path.",
+        "source": "T25n1509_088:0683a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘九力盡入此力中。",
+        "translation": "The other nine powers are all included in this power.",
+        "source": "T25n1509_088:0683b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛以此力籌量十方六道中眾生可度者、不可度者——可度者，以種種因緣、神通變化而度脫之；不可度者，於此人中修捨心。",
+        "translation": "With this power, the Buddha measures the sentient beings in the six destinies in the ten directions who can be saved and those who can't be saved - those who can be saved and liberated by various causes and miraculous changes, and those who can't be saved and cultivate a detached mind among those people.",
+        "source": "T25n1509_088:0683b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如良醫，觀其病相，審定知其可活則治之，不可活者則捨之。",
+        "translation": "They're like a good doctor who observes the signs of a disease, determines it, and knows that it's livable and then treats it, and those who aren't livable then abandon it.",
+        "source": "T25n1509_088:0683b05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "度眾生方便者，所謂二力：業力、定力。",
+        "translation": "The skillful means for liberating sentient beings are called the two powers: the power of karma and the power of concentration.",
+        "source": "T25n1509_088:0683b07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "求其業因緣、生處。",
+        "translation": "They seek the causes and conditions of their actions and their place of birth.",
+        "source": "T25n1509_088:0683b08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人以業因緣故受身、縛著世間，禪定因緣故得解脫。",
+        "translation": "It's because of the causes and conditions of karma that people are subject to physical and binding attachments to the world, but it's because of the causes and conditions of meditation that they attain liberation.",
+        "source": "T25n1509_088:0683b08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行者必應求苦從何而生、由何而滅。",
+        "translation": "Practitioners should definitely seek where suffering arises and where it ceases.",
+        "source": "T25n1509_088:0683b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故用二力。",
+        "translation": "Therefore, he uses two powers.",
+        "source": "T25n1509_088:0683b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "業力有二分：一者、淨業，能斷惡業；二者、垢業。",
+        "translation": "There are two kinds of karmic power: first, pure karma, which stops bad karma, and second, defiled karma.",
+        "source": "T25n1509_088:0683b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨業名禪定、解脫、諸三昧；不淨業者，能於三界中受身。",
+        "translation": "Pure actions are called meditation, liberation, and the samādhis; impure actions are capable of feeling the body in the three realms.",
+        "source": "T25n1509_088:0683b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人有二種：鈍根，為受身故作業；利根，為滅身故作業。",
+        "translation": "There are two kinds of people: those with dull faculties who do actions for the sake of receiving the body and those with sharp faculties who do actions for the sake of ending the body.",
+        "source": "T25n1509_088:0683b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：若爾者，何以不皆令作淨業？",
+        "translation": "Q: If that's the case, why don't they all create pure actions?",
+        "source": "T25n1509_088:0683b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：以眾生根有利鈍故。",
+        "translation": "Answer: It's because the faculties of sentient beings are dull and beneficial.",
+        "source": "T25n1509_088:0683b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：眾生何因緣故有利鈍？",
+        "translation": "Q: What causes and conditions do sentient beings have that make them favorably dull?",
+        "source": "T25n1509_088:0683b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：以有種種欲力故。",
+        "translation": "Answer: \"It's because there are various kinds of desire power.",
+        "source": "T25n1509_088:0683b16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡欲眾生常入惡故鈍。",
+        "translation": "Sentient beings with bad desires are always led into badness, which is why they're dull.",
+        "source": "T25n1509_088:0683b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲名嗜好，嗜好罪事、生惡業故鈍。",
+        "translation": "Desires are called hobbies, and hobbies for sinful things produce bad actions, which makes them dull.",
+        "source": "T25n1509_088:0683b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善欲者樂道、修助道法故利。",
+        "translation": "Those with good desires enjoy the path and cultivate the factors that aid the path, so they're benefited.",
+        "source": "T25n1509_088:0683b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：眾生何以不皆作善欲？",
+        "translation": "Q: Why don't all sentient beings pursue good desires?",
+        "source": "T25n1509_088:0683b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：是故佛說世間種種性，惡性、善性。",
+        "translation": "Answer: That's why the Buddha teaches that there are various natures in the world, bad natures and good natures.",
+        "source": "T25n1509_088:0683b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡性者惡欲，惡欲故根鈍。",
+        "translation": "A bad nature has bad desires, and bad desires make their faculties dull.",
+        "source": "T25n1509_088:0683b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如火熱性、水濕性，不應責其所以。",
+        "translation": "Like the nature of fire and heat and the nature of water and moisture, you shouldn't blame them for that.",
+        "source": "T25n1509_088:0683b21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：惡欲即是惡性，有何差別而作二力？",
+        "translation": "Q: Evil desires are evil natures, so what difference does it make between the two powers?",
+        "source": "T25n1509_088:0683b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：性先有，欲得因緣而生。",
+        "translation": "Answer: \"The nature first exists, and when it wants to get a cause and condition, it arises.",
+        "source": "T25n1509_088:0683b23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如先有瘡，得觸因緣則血出。",
+        "translation": "It's like a sore that first exists and then gets a cause to touch it, and then blood comes out.",
+        "source": "T25n1509_088:0683b24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性在內，欲在外。",
+        "translation": "The nature is internal, and desire is external.",
+        "source": "T25n1509_088:0683b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性重，欲輕。",
+        "translation": "The nature is heavy, and the desire is light.",
+        "source": "T25n1509_088:0683b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性難除，欲易捨。",
+        "translation": "The nature is difficult to remove, but desires are easy to abandon.",
+        "source": "T25n1509_088:0683b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性深，欲淺。",
+        "translation": "The nature is deep, and the desire is shallow.",
+        "source": "T25n1509_088:0683b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用性作業必當受報，用欲作業不必受報。",
+        "translation": "Acting with nature will definitely bring retribution, but acting with desire doesn't have to bring retribution.",
+        "source": "T25n1509_088:0683b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有如是等差別。",
+        "translation": "There are such and such distinctions.",
+        "source": "T25n1509_088:0683b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有人言：欲常習增長，遂成為性；性亦能生欲。",
+        "translation": "Another person says, \"When desire's constant habituation grows, it becomes nature, and nature can also give rise to desire.",
+        "source": "T25n1509_088:0683b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人若今世、若後世常習是欲，則成為性；住是性中，作惡、作善；若住善性則可度，若住惡性則不可度。",
+        "translation": "If a person always cultivates these desires in this life or in the next life, then they become nature; in that nature they do evil and good; if they abide in a good nature, they can be saved; if they abide in an evil nature, they can't be saved.",
+        "source": "T25n1509_088:0683b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛既知眾生二種性已，知其果報善道、惡道種種差別。",
+        "translation": "After the Buddha knew the two kinds of natures of sentient beings, he knew the various ways their results would be different, good destinies and bad destinies.",
+        "source": "T25n1509_088:0683c02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡性者墮三惡道，善性者有四種道：人、天、阿修羅、涅槃道。",
+        "translation": "Those of a bad nature fall into the three evil destinies, while those of a good nature have four kinds of destinies: the human, heavenly, asura, and nirvāṇa paths.",
+        "source": "T25n1509_088:0683c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：一切到處道力與天眼力有何差別？",
+        "translation": "Q: What's the difference between the power of the path to all arrivals and the power of the divine eye?",
+        "source": "T25n1509_088:0683c04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：天眼但見生死時；此中未死時知，見因知果。",
+        "translation": "Answer: The divine eye sees only when there's birth and death; in this case, it knows when there's death yet to come and sees the cause and knows the effect.",
+        "source": "T25n1509_088:0683c05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天眼，見現前罪福果報。",
+        "translation": "With the divine eye, they see the results of present sins and merits.",
+        "source": "T25n1509_088:0683c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名一切到處道力。",
+        "translation": "This is called the power of the path to all arrivals.",
+        "source": "T25n1509_088:0683c07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：聲聞、辟支佛亦得涅槃、亦能化眾生，何以無是力？",
+        "translation": "Q: śrāvakas and pratyekabuddhas also attain nirvāṇa and can transform sentient beings, but why don't they have this power?",
+        "source": "T25n1509_088:0683c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：是故說後三力。",
+        "translation": "Answer: \"That's why we say the last three powers.",
+        "source": "T25n1509_088:0683c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三世中眾生事盡能通達遍知：以宿命力，一切眾生過去事本末悉知。",
+        "translation": "They are able to fully comprehend and pervade the affairs of all sentient beings in the three worlds: By virtue of their power of past lives, they fully know the past and future affairs of all sentient beings.",
+        "source": "T25n1509_088:0683c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以天眼生死智力故，一切眾生未來世中無量事盡能遍知。",
+        "translation": "Because of the power of the divine eye's knowledge of birth and death, it's possible to fully comprehend the measureless affairs of all sentient beings in future lives.",
+        "source": "T25n1509_088:0683c11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是知已，知現世中眾生可度者為說漏盡法。",
+        "translation": "After this knowledge, he knows that sentient beings in the present life can be saved in order to explain the end of the contaminants.",
+        "source": "T25n1509_088:0683c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是故，但佛有此力，二乘所無。",
+        "translation": "Because of this, only buddhas have this power, and the two vehicles don't.",
+        "source": "T25n1509_088:0683c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有一人即日應得阿羅漢，舍利弗日中時語言：「汝無得道因緣。」",
+        "translation": "Suppose there's a person who will become an arhat in the near future, and Śāriputra says in the middle of the day, \"You don't have the causes and conditions for attaining the path.\"",
+        "source": "T25n1509_088:0683c14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨而不度。",
+        "translation": "He abandoned them and didn't save them.",
+        "source": "T25n1509_088:0683c16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "晡時，佛以宿命神通見過去八萬劫前得道因緣，今應成就，晡時說法，即得阿羅漢道。",
+        "translation": "In the afternoon, the Buddha, with his superknowledge of past lives, sees the causes and conditions for attaining the path 80,000 eons in the past that should now be fulfilled, and in the afternoon he preaches the Dharma, and he attains the path of the arhat.",
+        "source": "T25n1509_088:0683c16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，佛以初力知眾生可度、不可度相；以第二力知眾生為三障所覆、無覆者；以第三力知眾生禪定、解脫淨不淨者；以第四力知眾生根有利、有鈍，能通法性、不通者；以第五力知眾生利鈍根因緣——善、惡欲；以第六力知二欲因緣——種種性；以第七力知眾生利鈍根善惡果報處七種道；以第八力知眾生宿世善惡業障、不障；以第九力知眾生今世未可度、未來世生處可度；以第十力知是人以空解脫門入涅槃，無相、無作門入涅槃；知是人於見諦道、思惟道中念念中斷若干結使。",
+        "translation": "復次，佛以初力知眾生可度、不可度相；以第二力知眾生為三障所覆、無覆者；以第三力知眾生禪定、解脫淨不淨者；以第四力知眾生根有利、有鈍，能通法性、不通者；以第五力知眾生利鈍根因緣——善、惡欲；以第六力知二欲因緣——種種性；以第七力知眾生利鈍根善惡果報處七種道；以第八力知眾生宿世善惡業障、不障；以第九力知眾生今世未可度、未來世生處可度；以第十力知是人以空解脫門入涅槃，無相、無作門入涅槃；知是人於見諦道、思惟道中念念中斷若干結使。",
+        "source": "T25n1509_088:0683c18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是十力籌量眾生所應度緣而為說法。",
+        "translation": "Because of these ten powers, he assesses the conditions that sentient beings should meet and then delivers the teaching.",
+        "source": "T25n1509_088:0683c29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說法，初無空言。",
+        "translation": "Therefore, at the outset, there's no empty talk when he teaches the Dharma.",
+        "source": "T25n1509_088:0684a01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰：佛智慧無量，身相亦應無量！",
+        "translation": "He asked, \"Since the Buddha's wisdom is measureless, his body image should also be measureless!",
+        "source": "T25n1509_088:0684a02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又佛身勝諸天王，何以正與轉輪聖王同有三十二相？",
+        "translation": "Furthermore, why does the Buddha's body surpass all the heavenly kings, and why does he have the same thirty-two marks as the wheel-turning sage king?",
+        "source": "T25n1509_088:0684a03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：三十二相不多不少，義如先說。",
+        "translation": "Answer: \"The thirty-two marks are no more, no less, and their meanings are as explained earlier.",
+        "source": "T25n1509_088:0684a04_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次，有人言：佛、菩薩相不定，如此中說；隨眾生所好，可以引導其心者為現。",
+        "translation": "Furthermore, some people say, \"The characteristics of buddhas and bodhisattvas are indeterminate, as explained here; whatever sentient beings like, that's what guides their minds.",
+        "source": "T25n1509_088:0684a05_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又眾生不貴金而貴餘色——琉璃、頗梨、金剛等，如是世界人，佛則不現金色，觀其所好則為現色。",
+        "translation": "Also, sentient beings don't value gold but other forms-lapis lazuli, pāri, vajra, and so forth-that are like people in this world, but the Buddha doesn't show gold; he observes their preferences and then shows form.",
+        "source": "T25n1509_088:0684a07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又眾生不貴纖長指及網縵，以長指利爪為羅剎相，以網縵為水鳥相，造事不便，如著手衣，何用是為？",
+        "translation": "Also, sentient beings don't value long, slender fingers and webbed fingers, and they use long fingers and sharp claws as the characteristic of a rāṣṇa and webbed fingers as the characteristic of a water bird, which makes things difficult, like putting on a hand-robe.",
+        "source": "T25n1509_088:0684a09_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如罽賓國彌帝隸力利菩薩手網縵，其父惡以為怪，以刀割之，言：「我子何緣如鳥？」",
+        "translation": "For example, when the Bodhisattva Maitreya of Kāśmīra had a webbed hand, his father thought it was strange and cut it with a knife, saying, \"Why is my son like a bird?\"",
+        "source": "T25n1509_088:0684a11_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有人不好肩圓大，以為似腫；有以腹不現，無腹如餓相；亦有人以青眼為不好，但好白黑分明。",
+        "translation": "Some people don't like big, round shoulders because they think they're swollen; some think their belly doesn't show, and their absence of a belly looks like hunger; and some think their blue eyes are bad but their preferences are clear white and black.",
+        "source": "T25n1509_088:0684a13_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故佛隨眾生所好而為現相好。",
+        "translation": "Therefore, the Buddha follows the preferences of sentient beings and gives them marks of beauty.",
+        "source": "T25n1509_088:0684a16_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等，無有常定。",
+        "translation": "Thus, there's no permanence in such things.",
+        "source": "T25n1509_088:0684a16_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有人言：此三十二相實定，以神通力變化身，隨眾生所好而為現相。",
+        "translation": "Some people say, \"These thirty-two marks are really concentrations that transform bodies by the power of supernormal cognition and make manifest forms according to the preferences of sentient beings.",
+        "source": "T25n1509_088:0684a17_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有人言：佛有時神通變化，有時隨世界處生，當生處不得言神通變化。",
+        "translation": "Some people say that there are times when a Buddha's powers change and times when he's born according to the place in the world, and they can't say that his powers change when he's born there.",
+        "source": "T25n1509_088:0684a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於三千大千世界中隨可度眾生處生，則為現相。",
+        "translation": "Where there's a place in the 3,000 great one-thousand worlds where sentient beings can be saved, that's the manifestation.",
+        "source": "T25n1509_088:0684a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如《密迹經》中說：「或現金色、或現銀色、或日月星宿色，或長、或短，隨可引導眾生則為現相。」",
+        "translation": "As the Sutra on the Secret Teachings says, \"Whether they appear golden, silver, or the colors of the sun, moon, stars, or constellations, or whether they're long or short, it's a manifestation when they can guide sentient beings accordingly.\"",
+        "source": "T25n1509_088:0684a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨此間閻浮提中天竺國人所好，則為現三十二相。",
+        "translation": "Whatever the people of the India country in Jambudvīpa like, those people will show thirty-two marks.",
+        "source": "T25n1509_088:0684a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天竺國人于今故治肩[骨*專]令厚大、頭上皆以有髻為好。",
+        "translation": "Because of this, the people of India make their shoulders [bones*special] thick and large, and they prefer to have a topknot on their heads.",
+        "source": "T25n1509_088:0684a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如人相中說五處長為好。",
+        "translation": "As in the case of the human features, the five heads are said to be desirable.",
+        "source": "T25n1509_088:0684a26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼、鼻、舌、臂、指、髀、手足相，若輪、若蓮華、若貝、若日月，是故佛手足有千輻輪、纖長指、鼻高好、舌廣長而薄。",
+        "translation": "The eyes, nose, tongue, arms, fingers, thighs, and the features of the hands and feet can be like a wheel, a lotus, a conch, or the sun and moon, so the Buddha's hands and feet have a thousand-spoked wheel, long, slender fingers, a high, well-balanced nose, and a broad, long, and thin tongue.",
+        "source": "T25n1509_088:0684a27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等皆勝於先所貴者故，起恭敬心。",
+        "translation": "All of these things are superior to those who were valued before them, so they arouse respect.",
+        "source": "T25n1509_088:0684a29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有國土佛為現千萬相，或無量阿僧祇相，或五、六、三、四相。",
+        "translation": "There are lands where the Buddha shows a thousand million forms, or measureless incalculable forms, or five, six, three, or four forms.",
+        "source": "T25n1509_088:0684b01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨天竺所好故，現三十二相、八十種隨形好。",
+        "translation": "They show thirty-two marks and eighty kinds of minor marks according to the desires of the Indo-Scythians.",
+        "source": "T25n1509_088:0684b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "◎大智度論卷第八十八",
+        "translation": "Dazhiduolun, vol. 88",
+        "source": "T25n1509_088:0684b04_1",
+        "is_bad_quality": false
+    }
+]

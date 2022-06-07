@@ -1,0 +1,662 @@
+[
+    {
+        "source_sentence": "佛說鴦掘摩經",
+        "translation": "Aṅgulimālīya-sūtra",
+        "source": "T02n0118_001:0508b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西晉月氏國三藏竺法護譯",
+        "translation": "Translated by Zhu Fahou, Tripiṭaka of the Yuezhi State, Western Jin Dynasty",
+        "source": "T02n0118_001:0508b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聞如是：一時，佛遊舍衛國祇樹給孤獨園，與大比丘五百眾俱。",
+        "translation": "Thus I have heard: One time, the Buddha traveled to Anāthapiṇḍada Park in Jeta Grove in Śrāvastī and was accompanied by a large assembly of five hundred monks.",
+        "source": "T02n0118_001:0508b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍衛城中有異梵志，博綜三經無所疑滯，具暢五典所問即對，精生講肆莫不稟仰，國老諮諏群儒宗焉，門徒濟濟有五百人。",
+        "translation": "There was a priest in Śrāvastī who had compiled three scriptures without any doubts, had mastered five texts, and had answered all of his questions.",
+        "source": "T02n0118_001:0508b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上首弟子名鴦掘摩(晉曰指鬘)，儀幹剛猛力超壯士，手能接飛走先奔馬，聰慧才辯志性和雅，安詳敏達一無疑礙，色像第一師所嘉異。",
+        "translation": "The head disciple was named Aṅgulimāla (Jin: Finger Garland), whose manner was strong and vigorous, whose strength surpassed that of strong men, whose hands could catch a flying horse, whose intelligence was eloquent, whose aspirations were harmonious, and whose serenity and sensitivity were unimpeded by doubt, and whose appearance was praised by the best teachers.",
+        "source": "T02n0118_001:0508b24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "室主欽敬候夫出處，往造指鬘而謂之曰：「觀爾顏彩有堂堂之容，推步年齒相覺不殊，寧可同歡接所娛乎！」",
+        "translation": "The master of the house respectfully awaited his husband's departure and went to make him a finger garland, saying, \"Your face is resplendent, your appearance is dignified, and your age and teeth are not different from each other; how could you be so joyous as to share the same enjoyment?\"",
+        "source": "T02n0118_001:0508b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘聞之慞惶怖懼，毛衣起竪跪而答曰：「夫人比母師則當父，猥垂斯教儀不敢許，心所不甘甚非法也。」",
+        "translation": "Perplexed and frightened, he got up from his robe and knelt down, replying, \"Your wife is like a father to your mother's teacher, and I wouldn't dare to approve of such a ritual.",
+        "source": "T02n0118_001:0508b29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師婦又曰：「飢者與食、渴給水漿，有何非法？",
+        "translation": "The master and wife also said, \"What's wrong with feeding a hungry person and giving a thirsty person water and drink?",
+        "source": "T02n0118_001:0508c02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寒施溫衣、熱惠清涼，有何非法？",
+        "translation": "What is wrong with bestowing warm clothing in the cold and coolness in the heat?",
+        "source": "T02n0118_001:0508c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "裸露覆之、危厄救之，有何非法？」",
+        "translation": "What is wrong with covering up nakedness and saving people from danger and trouble?\"",
+        "source": "T02n0118_001:0508c04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘答曰：「赴趣患急寬濟窮頓，實無非法。",
+        "translation": "The preceptor answered, \"It's really not wrong to go to a place of urgent need and relieve someone in desperation.",
+        "source": "T02n0118_001:0508c05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夫人母也，師之所重，隨婬著色慢犯非宜，如蛇蝘體服毒褒。」",
+        "translation": "Mistress and mother, the teacher's valued ones, are proud to violate the rules by lustfully attaching themselves to form, just like a snake that has its body in a poisonous bath.\"",
+        "source": "T02n0118_001:0508c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師室聞之即懷愧恨，歸自總滅裂衣裳，欝金黃面佯愁委臥。",
+        "translation": "When the master's wife heard this, she was so ashamed and resentful that she returned, tore off her robes, pretended to be sad and lay down with a golden face.",
+        "source": "T02n0118_001:0508c07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，夫行還，問曰：「何故，有何不善？",
+        "translation": "When the man returned from his journey, he asked, \"Why is that not good?",
+        "source": "T02n0118_001:0508c09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誰相嬲觸？」",
+        "translation": "Who is angry with each other?\"",
+        "source": "T02n0118_001:0508c09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "室人譖曰：「君常所歎聰慧弟子，柔仁貞潔履行無闕，君旦不在來見牽掣，欲肆逆慢妾不順從，而被陵侮摧捽委頓，是以受辱不能自起。」",
+        "translation": "The householder said, \"The wise disciple whom you always praise as being gentle, kind, chaste, and unblemished in his performance was not absent when he came to see and constrain him, and he wanted to act contrary and arrogantly, but his concubine didn't obey, so he was lambasted and rubbed out, and was unable to rise from his humiliation.\"",
+        "source": "T02n0118_001:0508c10_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師聞悵然意懷盛怒，欲加楚罰掠治姦暴，慮之雄霸非力所伏，退欲靜默深惟不道，穢染閨閤上下失序，進退沈吟將如之何？",
+        "translation": "When he heard this, the teacher was moved to anger, wanting to punish Chu and plunder him for his adultery, considering that he was overbearing and had no power to subdue him, and wanting to retire in silence, he profoundly hoped that it was not the right thing to do, that it would defile the retreat and defile the halls, that it would be out of order up and down, and that he would be unable to advance or retreat in silence.",
+        "source": "T02n0118_001:0508c13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃咿悒歎曰：「當微改常倒教而教，教使殺人限至于百，各貫一指以鬘其額。",
+        "translation": "He then praised them with an expression of regret, \"They should teach a slight change from the usual perverse teaching and teach that the number of people killed should be limited to a hundred, and each should be given a finger to carve his forehead.",
+        "source": "T02n0118_001:0508c16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "殺人之罪罪莫大焉！",
+        "translation": "There's no greater crime than killing a human being!",
+        "source": "T02n0118_001:0508c17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不加楚酷必就辜戮，現受危沒，沒墮地獄，不可釋置縱使滋甚也。」",
+        "translation": "If they don't add Chuku, they'll be killed, and now they'll be in danger of being confiscated and sent down to hell, which will cause even more trouble if they don't let go of it.\"",
+        "source": "T02n0118_001:0508c18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是，師命指鬘而告曰：「卿之聰慧所學周密，升堂入室精生無首，唯之一藝未施行耳。」",
+        "translation": "Thereupon, the master instructed Fai-māṇa to tell him, \"Your intelligence is so thorough and well-trained that you've risen into the hall and entered the abbot's quarters and produced no leader, except for one art that you haven't yet performed.\"",
+        "source": "T02n0118_001:0508c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘進曰：「願聞所告。」",
+        "translation": "The lady-in-waiting then advanced, saying, \"I'd like to hear what you've told me.\"",
+        "source": "T02n0118_001:0508c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師曰：「欲速成者宜執利劍，晨於四衢躬殺百人，人取一指以為傅飾，至于日中使百指滿。",
+        "translation": "The master said, \"Those who want to achieve it quickly should carry a sharp sword, kill a hundred people in the morning in four thoroughfares, and take one finger from each person to decorate it until midday, when the hundred fingers will be full.",
+        "source": "T02n0118_001:0508c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設勤奉遵，則道德備矣。」",
+        "translation": "If you diligently follow it, then your morality will be complete.\"",
+        "source": "T02n0118_001:0508c24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便以劒授。",
+        "translation": "He then gave it to her with his sword.",
+        "source": "T02n0118_001:0508c25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘受劍聞告愕懼，心懷愁慼：「設違教旨非孝弟子，順而行之畏陷失理。」",
+        "translation": "Finger garlands accepting the sword are shocked and frightened when they hear about it, and their hearts are troubled, \"Supposing it's contrary to the teaching's wishes is not filial disciples, and acting in accordance with it makes them afraid of losing the principle.\"",
+        "source": "T02n0118_001:0508c25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "奉劍而退垂淚言曰：「淨修梵行則梵志法，孝養父母則梵志法，修為眾善則梵志法，不邪正歸則梵志法，柔和仁惠則梵志法，弘慈四等則梵志法，得五神通則梵志法，超上梵天則梵志法。",
+        "translation": "Presenting the sword, she withdrew and said with tears, \"It's the way of Brahmā to purify the religious practice, the way of Brahmā to be filial to one's parents, the way of Brahmā to cultivate goodness, the way of Brahmā to not be wrong or rightly guided, the way of Brahmā to be gentle and kind, the way of Brahmā to spread kindness in four ways, the way of Brahmā to attain the five supernormal powers, and the way of Brahmā to transcend the Brahma heavens.",
+        "source": "T02n0118_001:0508c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今暴伐殺非法失理，躊躇懊惱當如之何？」",
+        "translation": "Now, when violence and killing are unlawful and out of line, what should be your hesitation and distress?\"",
+        "source": "T02n0118_001:0509a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即詣前樹四衢路側，悲怒激憤。",
+        "translation": "They immediately went to the side of the four roads in front of the tree and were anguished and riled up.",
+        "source": "T02n0118_001:0509a03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡鬼助禍，耗亂其心，瞋目噴吒四顧遠視，如鬼師子，如虎狼獸，跳騰馳踊，色貌可畏。",
+        "translation": "A malevolent spirit aids in causing trouble and disturbs their minds, and it looks angrily at them and looks away like a ghost, a lion, or a tiger or wolf, jumping and chasing after them with frightening appearances.",
+        "source": "T02n0118_001:0509a04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行者四集，悉當趣城，即奮長劍多所殺害，莫不迸怖值無遺脫，去來往返而無覺者。",
+        "translation": "The four groups of renunciant practitioners will all head for the city, where they will then rouse their long swords to kill and injure many of them, and none of them will be terrified or left behind, going back and forth without realizing it.",
+        "source": "T02n0118_001:0509a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無數之眾稱怨悲叫，入趣王宮告：「有逆賊，遮截要路害人不少，唯願天王，為民除患。」",
+        "translation": "Countless crowds of people shouted with discontent and pity as they entered the king's palace and said, \"There's a thief blocking the main road and causing harm to many people; may the god king remove the trouble for the people.\"",
+        "source": "T02n0118_001:0509a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時諸比丘入城分衛，見諸告者恐怖如是。",
+        "translation": "The monks then entered the city as partisan guards and were terrified to see those who had told them.",
+        "source": "T02n0118_001:0509a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "分衛還出飯食畢訖，往詣佛所稽首足下白世尊曰：「見國人眾詣王宮門，告大逆賊名曰指鬘，手執利劍多所危害，體掌污血路無行人。」",
+        "translation": "When the partisans had finished eating, they went to the Buddha, bowed their heads at their feet, and said to the Bhagavān, \"They saw a crowd of people from their country approach the king's palace and tell them about a great bandit named Fingernail, who wields a sharp sword and does a lot of harm, and whose palms are soiled with blood that there are no pedestrians on the road.\"",
+        "source": "T02n0118_001:0509a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，世尊告諸比丘：「汝等且止，吾往救之。」",
+        "translation": "The Bhagavān then addressed the monks, \"Stop right there, for I'm going to save you.\"",
+        "source": "T02n0118_001:0509a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛從坐起尋到其所，道逢蒭牧荷負載乘。",
+        "translation": "The Buddha got up from his seat and went to his place, where he met a bushel of shepherds carrying loads of food.",
+        "source": "T02n0118_001:0509a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佃居民眾白世尊曰：「大聖所湊勿由斯路，前有逆賊四徼道斷，取殺狼藉，唯改所從，又且獨步無侍衛故也。」",
+        "translation": "The crowd of tenants said to the Bhagavān, \"Don't go this way, for the noble one has cut off the road in four directions, taking and killing wolves, and only changing which way they follow, and walking alone without an attendant.\"",
+        "source": "T02n0118_001:0509a15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊告曰：「設使三界盡為寇虜，吾不省錄，況一賊乎？」",
+        "translation": "The Bhagavān told them, \"If the three realms were completely invaded, I wouldn't have thought to record them, so why wouldn't I have thought of a single thief?\"",
+        "source": "T02n0118_001:0509a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘之母怪子不歸，時至不食，懼必當飢。",
+        "translation": "The mother of the finger-brush blamed her son for not returning, and she hadn't eaten since then, fearing that she might become hungry.",
+        "source": "T02n0118_001:0509a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "齎餉出城，就而餉之。",
+        "translation": "She took provisions out of the city and fed him there.",
+        "source": "T02n0118_001:0509a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "日欲向中百指未滿，恐日移昳，道業不具，欲還害母以充其數。",
+        "translation": "When the sun was about to set, he wanted to return to his mother to make up for the loss of a hundred fingers, fearing that the sun would set and his work on the path would be incomplete.",
+        "source": "T02n0118_001:0509a20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛念：「指鬘若害母者，在不中止罪不可救。」",
+        "translation": "The Buddha thought, \"If a finger garland harms its mother, it's an unsalvageable offense if it isn't stopped.\"",
+        "source": "T02n0118_001:0509a22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛便怱然住立其前，時，鴦掘摩見佛捨母，如師子步往迎世尊，心自念言：「十人百人見我馳迸，不敢當也，吾常奮威縱橫自恣，況此沙門獨身而至？",
+        "translation": "When the Buddha hurriedly stood in front of him, Aṅgulimā saw the Buddha abandon his mother and went to meet the Bhagavān like a lion walking, thinking to himself, \"Ten or a hundred people who see me rushing about wouldn't dare to take it, and I'm always arrogant and unrestrained, so why would this ascetic come alone?",
+        "source": "T02n0118_001:0509a23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今我規圖必勦其命。」",
+        "translation": "Now, I'll plan to kill him.\"",
+        "source": "T02n0118_001:0509a26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即執劍趣佛，不能自前，竭力奔走亦不能到，則心念曰：「我跳度江河解諸繫縛，投捭勇猛曾無匹敵，重關固塞無不開闔。",
+        "translation": "He then took his sword and headed for the Buddha, unable to proceed on his own and unable to reach him even though he was running as hard as he could, and then he thought to himself, \"I've jumped across rivers and freed myself from bonds, cast myself into openings and fronts like no other, and opened and closed heavy barriers.",
+        "source": "T02n0118_001:0509a27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而此沙門徐步裁動，我走不及，殫盡威勢永不摩近。」",
+        "translation": "But this ascetic moves so slowly and cautiously that I can't make it, and at the end of my tethered strength, I'll never be able to reach him.\"",
+        "source": "T02n0118_001:0509a29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘謂佛：「沙門且止。」",
+        "translation": "The Śākyamuni said to the Buddha, \"Stop, monks!\"",
+        "source": "T02n0118_001:0509b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告逆賊：「吾止已來其日久矣，但汝未止。」",
+        "translation": "The Buddha told the rebel, \"It's been a long time since I stopped, but you haven't stopped yet.\"",
+        "source": "T02n0118_001:0509b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，鴦掘摩遙以偈頌曰：「寂志語何謂，　　自云已停跱？",
+        "translation": "Aṅgulimālya then spoke in verse, \"What's the meaning of Quiescent's words, saying that he has stopped and is standing still?",
+        "source": "T02n0118_001:0509b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　斯言何所趣，　　以我為不止。",
+        "translation": "What's the point of this talk, that it's not just about me?",
+        "source": "T02n0118_001:0509b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　今佛云何立，　　謂身行不住，　反以我若茲，　　願說解此義。」",
+        "translation": "What does the Buddha say when he states that his actions don't stop, but rather that he wants to explain and understand their meaning because he thinks I am here?\"",
+        "source": "T02n0118_001:0509b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是世尊為指鬘頌偈，而告之曰：「指鬘聽佛住，　　世尊除君過，　汝走無智想，　　吾定爾不止。",
+        "translation": "The Bhagavān then spoke a verse for Fingernail and told her, \"Fingernail, listen to the Buddha's abiding, the Bhagavān has removed your faults, you've gone without intellectual conceptions, and I'm certain I won't stop there.",
+        "source": "T02n0118_001:0509b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　吾安住三脫，　　樂法修梵行，　汝獨驅癡想，　　懷害今未止。",
+        "translation": "I've abided in the three liberations and enjoyed the religious practice, but you alone have driven away deluded thoughts, and your harmful thoughts have yet to end.",
+        "source": "T02n0118_001:0509b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　大聖無極慧，　　讚寂於四衢，　尋聞所說罪，　　聽采詠法義。」",
+        "translation": "The great sage of infinite wisdom praises the four quarters of quiescence, investigates the sins he's taught, and listens to the meaning of the chanting of the Dharma.\"",
+        "source": "T02n0118_001:0509b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是，指鬘心即開悟，棄劍稽首自投于地：「唯願世尊，恕我迷謬，興害集指，念欲見道。",
+        "translation": "Thereupon, Fingernail's mind was immediately enlightened, and he threw down his sword and threw himself to the ground, \"Please, Bhagavān, forgive me for being so deluded, for raising my finger to gather harm, and for wanting to see the way.",
+        "source": "T02n0118_001:0509b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "僥賴慈化，乞原罪舋，垂哀接濟，得使出家受成就戒。」",
+        "translation": "Please rely on your kindness and guidance, beg for the original punishment, extend compassion and help, and allow me to leave home and receive the accomplished precepts.\"",
+        "source": "T02n0118_001:0509b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛則授之即為沙門。",
+        "translation": "The Buddha then conferred them as ascetics.",
+        "source": "T02n0118_001:0509b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，世尊威神巍巍，智慧光明結加趺坐，賢者指鬘翼從左右，還至祇樹給孤獨園。",
+        "translation": "At the time, the Bhagavān was majestic and dignified, his wisdom shining brightly as he sat cross-legged, and the good Fingernail was accompanied by his left and right hand as he returned to Anāthapiṇḍada's Park in Jeta's Grove.",
+        "source": "T02n0118_001:0509b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘蒙化眾祐所信，諸尊弟子亦共攝持。",
+        "translation": "The Finger Mālā was made to believe in all the blessings of the Buddha, and the disciples of the Bhagavān shared in his disciples' support.",
+        "source": "T02n0118_001:0509b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其族姓子，下鬚髮者則被法服，以家之信捨家為道，具足究竟無上梵行，得六通證生死已斷。",
+        "translation": "Those of his clan who had bearded hair and hair on their heads were clothed in the Dharma robe, renounced their families with faith, entered the path, perfected the ultimate unsurpassed religious practice, and attained the six supernormal powers to realize that birth-and-death had been ended.",
+        "source": "T02n0118_001:0509b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "稱舉淨德，所作已辦，解名色本，即得應真。",
+        "translation": "He praises his pure virtue, has accomplished what he has done, understands the basis of names and forms, and has attained the truth.",
+        "source": "T02n0118_001:0509b24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時，王波私匿(晉號和悅)，與四部眾象馬步騎，嚴駕出征欲討穢逆，其身疲弊而被塵土，過詣佛所稽首足下。",
+        "translation": "At the time, King Prasenajit (known in Jin as Hōetsu) and his four troops, consisting of elephants, horses, and foot soldiers, marched out in full force to fight a defiled enemy, and became so exhausted that they were covered in dust.",
+        "source": "T02n0118_001:0509b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛問王曰：「從何所來身被塵土？」",
+        "translation": "The Buddha asked the king, \"Where did this body come from that was covered in dust?\"",
+        "source": "T02n0118_001:0509b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王白佛言：「唯然，世尊！",
+        "translation": "The king said to the Buddha, \"Yes, Bhagavān!",
+        "source": "T02n0118_001:0509b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有大逆賊名鴦掘摩，兇暴懷害斷四徼道，手執嚴刃傷殺人民，今故匡勒四部之眾，欲出討捕。」",
+        "translation": "There's a great bandit named Aṅgulimā, who's fierce and harmful, cuts off the four circuits, wields a harsh sword, and wounds and kills people.",
+        "source": "T02n0118_001:0509b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時，指鬘在於會中，去佛不遠，佛告王曰：「指鬘在此，已除鬚髮今為比丘，本與云何？」",
+        "translation": "At the time, Fingernail was present in the assembly, not far from the Buddha, and the Buddha told the king, \"Here's Fingernail, she's removed her hair and is now a monk.",
+        "source": "T02n0118_001:0509c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王白佛言：「已志于道無如之何，當盡形壽給其衣食、臥起床坐、病瘦醫藥。」",
+        "translation": "The king said to the Buddha, \"There's nothing like having set your heart on the path, so you will spend your whole life giving them food and clothing, lying down and sitting up, and medicine for illness and weakness.\"",
+        "source": "T02n0118_001:0509c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又問世尊：「唯然大聖，凶害逆人焉得至道履行寂義乎！",
+        "translation": "He also asked the Bhagavān, \"Only so, great sage, how could a vicious, harmful, and rebellious person attain the fulfillment of the tranquil meaning of the path?",
+        "source": "T02n0118_001:0509c06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今為安在？」",
+        "translation": "Where are we now?\"",
+        "source": "T02n0118_001:0509c07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告王曰：「近在斯坐。」",
+        "translation": "The Buddha told the king, \"Sit here close by.\"",
+        "source": "T02n0118_001:0509c07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王遙見之，心即懷懼衣毛為竪。",
+        "translation": "When the king saw him from a distance, his heart was filled with fear, and his coat stood on end.",
+        "source": "T02n0118_001:0509c08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「大王！",
+        "translation": "The Buddha said, \"Great king!",
+        "source": "T02n0118_001:0509c08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫恐莫懅！",
+        "translation": "Don't be afraid, don't be bashful!",
+        "source": "T02n0118_001:0509c09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今以仁賢無復逆意。」",
+        "translation": "Now, because of your kindness and goodness, you won't again oppose my wishes.\"",
+        "source": "T02n0118_001:0509c09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王造禮之謂曰：「賢者！",
+        "translation": "The king paid homage to him, saying, \"Good man!",
+        "source": "T02n0118_001:0509c09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是指鬘乎？」",
+        "translation": "Does this mean a garland?\"",
+        "source": "T02n0118_001:0509c10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰：「是也。」",
+        "translation": "He answered, \"Yes.\"",
+        "source": "T02n0118_001:0509c10_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王又問曰：「仁姓為何？」",
+        "translation": "The king also asked, \"What's the family name of Ren?\"",
+        "source": "T02n0118_001:0509c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曰：「奇角氏。」",
+        "translation": "He said, \"The Qijiao family.\"",
+        "source": "T02n0118_001:0509c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又問：「何謂奇角氏？」",
+        "translation": "Again, he asked, \"What's the meaning of the Qijiao family?\"",
+        "source": "T02n0118_001:0509c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曰：「父本姓。」",
+        "translation": "He said, \"My father's original family name.\"",
+        "source": "T02n0118_001:0509c12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王曰：「唯奇角子受吾供養，衣食、床臥、病瘦醫藥各盡形壽。」",
+        "translation": "The king said, \"Only the son of Kijago will accept my offerings of food and clothing, bed and bedding, and medicines for sickness and weakness, each for the rest of his life.\"",
+        "source": "T02n0118_001:0509c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即然所供，王以獲許稽首辭還，歎世尊曰：「能調諸不調，能成諸未成，安住垂大慈，無所不開道，消伏患逆使充法會，亦令黎庶逮斯調定，我國多事意欲請退。」",
+        "translation": "Having thus made these offerings, the king bowed his head with approval and returned, praising the Bhagavān, saying, \"He can tame what's disordered, accomplish what's unachieved, abide in great kindness, there's nothing that doesn't reveal the way, subdue troubles and adversity, fill the Dharma assembly, and cause the common people to attain this kind of stability, and my country is beset with problems that make me want to retire.\"",
+        "source": "T02n0118_001:0509c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告：「便去，從志所奉。」",
+        "translation": "The Buddha told him, \"Go ahead and follow your heart's desire.\"",
+        "source": "T02n0118_001:0509c17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王禮佛足稽首而歸。",
+        "translation": "The king bowed his head at the Buddha's feet and returned.",
+        "source": "T02n0118_001:0509c17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，賢者指鬘，處於閑居服五納衣，明旦持鉢入舍衛城普行分衛，見有諸家懷妊女人，月滿產難心歸怙之。",
+        "translation": "At the time, the good Faiḍūrya, who was living in seclusion and wearing the five patch robe, took his bowl into Śrāvastī at sunrise and went into the city to conduct a general outreach.",
+        "source": "T02n0118_001:0509c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問指鬘曰：「欲何至趣唯蒙救濟。」",
+        "translation": "She asked the lady, \"What do you want to accomplish, only to be rescued?\"",
+        "source": "T02n0118_001:0509c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘得供出城食畢，澡竟去器獨坐加敬，詣佛稽首白世尊曰：「我朝晨旦著衣持鉢入城分衛，見有女人臨月欲產，產難恐懼求見救護。」",
+        "translation": "After she had finished eating and leaving the city with the offerings, she went to sit alone with her vessel, paid homage, and bowed her head to the Buddha and said to the Bhagavān, \"In the early morning, I put on my robe and took my bowl into that part of town and saw a woman who was about to give birth when the moon was due and was in trouble and fearful, asking for help.\"",
+        "source": "T02n0118_001:0509c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛告指鬘：「汝便速往謂女人曰：『如指鬘言至誠不虛，從生已來未嘗殺生，審如是者，姊當尋生安隱無患。』」",
+        "translation": "The Buddha told Fai Māra, \"Go quickly and tell the woman, 'As Fai Māra said, 'Your words are sincere and not false; you have never killed anyone since you were born; if you examine them this way, you will find birth in peace and without danger.'\"",
+        "source": "T02n0118_001:0509c25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指鬘白佛：「我作眾罪不可稱計，殺九十九人一不滿百，而發此言，豈非兩舌乎？」",
+        "translation": "The Fingernail said to the Buddha, \"I've committed numerous sins that cannot be counted, and I've killed 99 people, one not 100, and yet I say this, isn't that duplicitous?\"",
+        "source": "T02n0118_001:0509c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊告曰：「前生異世今生不同，是則至誠不為妄語，如斯用時救彼女厄。」",
+        "translation": "The Bhagavān told her, \"Past lives were different from this one, but this is the time when utmost sincerity isn't used as a lie; thus, it's used to save her from trouble.\"",
+        "source": "T02n0118_001:0509c29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即奉聖旨往到女所，如佛言曰：「如我至誠所言不虛，從生以來未曾殺生，審如是者，當令大姊安隱在產。」",
+        "translation": "He went to the woman's place by order of the noble ones and told her as the Buddha had said, \"As I have sincerely said, it's true that I have never killed a living being since birth; if you examine it this way, you will make your eldest sister comfortable in childbirth.\"",
+        "source": "T02n0118_001:0510a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言未竟，女尋娩軀兒亦獲安。",
+        "translation": "Before he finished speaking, the woman gave birth to her child, who was also made comfortable.",
+        "source": "T02n0118_001:0510a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時，指鬘入舍衛城，群小童黻見之分衛，或瓦石擲、或以箭射、或刀斫刺、或杖捶擊。",
+        "translation": "It was then that the Finger Garland entered the city of Śrāvastī, and a group of young boys who saw it were defended by tiles and stones, arrows, swords, knives, and blows with sticks.",
+        "source": "T02n0118_001:0510a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賢者指鬘，破頭傷體衣服破裂，還詣佛所，稽首足下起於佛前頌曰：「我前本為賊，　　指鬘名普聞，　大淵以枯竭，　　則歸命正覺。",
+        "translation": "The good Fingernail, with her head broken and her clothes torn, returned to the Buddha, bowed her head at her feet, got up in front of him, and sang, \"I was once a thief, and the Fingernail was called Pūrṇaśaila.",
+        "source": "T02n0118_001:0510a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　斯以成忍辱，　　逮佛開化眾，　聽經常以時，　　是故無躓礙。",
+        "translation": "Because of this, I accomplished patience, gained the Buddha's enlightenment of the multitude, and listened to him often enough to be unhindered by many people.",
+        "source": "T02n0118_001:0510a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　今已歸命佛，　　受真諦法戒，　逮得三通達，　　則順諸佛教。",
+        "translation": "Now, having returned to the Buddha, I've accepted the precepts of the true truth of the Dharma, acquired the three comprehensions, and then I've followed the Buddhas.",
+        "source": "T02n0118_001:0510a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　昔暴懷兇毒，　　多傷眾類命，　雖古多所危，　　吾今名無害。",
+        "translation": "In the past, violence and poisonous intent often harmed the lives of sentient beings, but even though they were often endangered in the past, I now call them harmless.",
+        "source": "T02n0118_001:0510a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　身口所犯過，　　志懷殺害心，　其不危他餘，　　未曾遭諸厄。",
+        "translation": "The transgressions of body and speech, and the intention to kill, didn't endanger others, nor did they ever suffer any hardships.",
+        "source": "T02n0118_001:0510a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　又復無過去，　　持其法寂然，　應受凶暴名，　　自調成仁賢。",
+        "translation": "Again, without fault, he maintains the tranquility of his teaching, deserves a reputation for violence, and has trained himself to be kind and virtuous.",
+        "source": "T02n0118_001:0510a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　以才一調定，　　如鉤調諸象，　如來成就我，　　無劍亦無杖。",
+        "translation": "With a single regulating concentration, like a hook regulating elephants, the Tathāgata completes me without a sword or a staff.",
+        "source": "T02n0118_001:0510a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　其前為放逸，　　然後能自制，　彼明炤於世，　　由日出於雲。",
+        "translation": "He was careless before, then he was able to control himself, and his light shines in the world because it rises above the clouds.",
+        "source": "T02n0118_001:0510a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　假使犯眾惡，　　不斷眾善德，　彼明炤於世，　　由雲消日出。",
+        "translation": "If he commits many evils and doesn't cut off many good virtues, his light shines in the world as the clouds disappear and the sun rises.",
+        "source": "T02n0118_001:0510a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若新學比丘，　　勤修於佛教，　其明炤於世，　　如月盛滿時。",
+        "translation": "If a novice monk diligently cultivates Buddhism, his light shines in the world like the moon when it's full.",
+        "source": "T02n0118_001:0510a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　其有犯眾罪，　　當歸於惡道，　不復難諸患，　　服食無所著。",
+        "translation": "If he commits many sins, he'll be returned to a bad path, won't face further hardships, and won't be attached to anything to eat.",
+        "source": "T02n0118_001:0510b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　亦不求於生，　　未曾會德死，　唯須待時日，　　心常志於定。",
+        "translation": "They don't seek birth, never attain virtue in death, but only wait for the right time, and their minds are always focused on concentration.",
+        "source": "T02n0118_001:0510b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如是鴦掘摩，　　已得成羅漢，　在佛世尊前，　　口自頌斯偈。」",
+        "translation": "Thus, Aṅgulimāla, having become a arhat, appeared before the Bhagavān and verbally praised this verse.\"",
+        "source": "T02n0118_001:0510b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說如是。",
+        "translation": "Thus did the Buddha speak.",
+        "source": "T02n0118_001:0510b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賢者指鬘及諸比丘眾，聞經歡喜奉行。",
+        "translation": "The good Faiḍūrya and the monks who heard the sūtra rejoiced and handed it down.",
+        "source": "T02n0118_001:0510b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說鴦掘摩經",
+        "translation": "The Buddha spoke the Aṅgulimāla Sutra.",
+        "source": "T02n0118_001:0510b09_0",
+        "is_bad_quality": false
+    }
+]

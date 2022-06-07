@@ -1,0 +1,4088 @@
+[
+    {
+        "source_sentence": "四教義卷第七",
+        "translation": "The Doctrine of the Four Teachings, Volume 7",
+        "source": "T46n1929_007:0743c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天台山修禪寺智顗禪師撰",
+        "translation": "By Zhiyi Chanshi of Tiantai Shan Xiu Chan Temple",
+        "source": "T46n1929_007:0743c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三約三藏教明菩薩位以釋淨無垢稱義者。",
+        "translation": "\"Third, we'll explain the meaning of the pure and undefiled title in terms of the tripiṭaka teaching and the bodhisattva stage.",
+        "source": "T46n1929_007:0743c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏教詮因緣生滅之理。",
+        "translation": "The Tripiṭaka teaching explains the principle of arising and ceasing based on causes and conditions.",
+        "source": "T46n1929_007:0743c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明菩薩藏義。",
+        "translation": "It clarifies the meaning of the bodhisattva canon.",
+        "source": "T46n1929_007:0743c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦應具有四門。",
+        "translation": "It should also have four aspects.",
+        "source": "T46n1929_007:0743c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今約毘曇有門。",
+        "translation": "Now, we'll look at the gate of vidyāna.",
+        "source": "T46n1929_007:0743c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明大乘菩薩位。",
+        "translation": "It's to explain the great vehicle bodhisattva position.",
+        "source": "T46n1929_007:0743c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即為四意。",
+        "translation": "These are the four meanings.",
+        "source": "T46n1929_007:0743c20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一翻譯。",
+        "translation": "First, it's translation.",
+        "source": "T46n1929_007:0743c20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二辨位。",
+        "translation": "Two, to discern the stages.",
+        "source": "T46n1929_007:0743c20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三料簡。",
+        "translation": "Three, it's summarized.",
+        "source": "T46n1929_007:0743c20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四釋淨無垢稱義。",
+        "translation": "Four, it explains the meaning of the term pure and undefiled.",
+        "source": "T46n1929_007:0743c20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一翻譯。",
+        "translation": "The first translation.",
+        "source": "T46n1929_007:0743c21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言菩薩摩訶薩者。",
+        "translation": "\"The person who says bodhisattva-mahāsattva ...",
+        "source": "T46n1929_007:0743c21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是天竺語。",
+        "translation": "It's a language from India.",
+        "source": "T46n1929_007:0743c22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若具依彼語。",
+        "translation": "If we were to rely solely on that language, it would be called bodhisattva mahāsattva.",
+        "source": "T46n1929_007:0743c22_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應云菩提薩埵摩訶薩埵。",
+        "translation": "It should be called bodhisattva mahāsattva.",
+        "source": "T46n1929_007:0743c22_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但諸師翻譯不同。",
+        "translation": "However, the translations by various masters differ.",
+        "source": "T46n1929_007:0743c23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今不具述。",
+        "translation": "I won't explain it in detail here.",
+        "source": "T46n1929_007:0743c23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而智度論翻云。",
+        "translation": "Instead, the Zhidu lun translates it as.",
+        "source": "T46n1929_007:0743c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩提名佛道。",
+        "translation": "\"Bodhi is called the Buddha path.",
+        "source": "T46n1929_007:0743c24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "薩埵名成眾生。",
+        "translation": "Sattva is called the formation of sentient beings.",
+        "source": "T46n1929_007:0743c24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "摩訶言大。",
+        "translation": "Mahāsattva says great.",
+        "source": "T46n1929_007:0743c24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此人用諸佛大道成眾生也。",
+        "translation": "This person uses the great path of the buddhas to create sentient beings.'",
+        "source": "T46n1929_007:0743c25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又有師翻云。",
+        "translation": "Also, some masters say.",
+        "source": "T46n1929_007:0743c25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩提名道。",
+        "translation": "\"Bodhi is called the path.",
+        "source": "T46n1929_007:0743c26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "薩埵名心。",
+        "translation": "Sattva is called mind.",
+        "source": "T46n1929_007:0743c26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "摩訶名大道是以為道心大道心。",
+        "translation": "Mahāsa is called the great way. This is called the mind of the path and the mind of the great way.",
+        "source": "T46n1929_007:0743c26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而諸經論多云菩薩摩訶薩者。",
+        "translation": "Many sūtras and treatises say \"bodhisattva-mahāsattva.",
+        "source": "T46n1929_007:0743c27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "什師以天竺語繁。",
+        "translation": "The Shishu master uses the elaborate language of the Indo-Germanic world.",
+        "source": "T46n1929_007:0743c28_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "兩句八字標名。",
+        "translation": "He used eight words in two sentences to label the name.",
+        "source": "T46n1929_007:0743c28_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故除三字留五字。",
+        "translation": "Therefore, he removed three words and left five words.",
+        "source": "T46n1929_007:0743c28_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "合為一句。",
+        "translation": "It's combined into one sentence.",
+        "source": "T46n1929_007:0743c29_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名菩薩摩訶薩也。",
+        "translation": "It's called bodhisattva-mahāsattva.",
+        "source": "T46n1929_007:0743c29_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但三乘菩提通名為道。",
+        "translation": "However, the enlightenment of the three vehicles is generally called the path.",
+        "source": "T46n1929_007:0744a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而菩薩獨受大名者。",
+        "translation": "The bodhisattva alone is given the great name.",
+        "source": "T46n1929_007:0744a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以其緣四諦起慈悲四弘誓願。",
+        "translation": "It's because he takes the four truths as refuge and gives rise to the four great vows of compassion.",
+        "source": "T46n1929_007:0744a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上求佛果下化眾生。",
+        "translation": "He seeks the Buddhahood above and transforms sentient beings below.",
+        "source": "T46n1929_007:0744a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此心矌大故別受摩訶薩埵之稱也。",
+        "translation": "Because this mind is so focused and large, it's individually recognized as the great name of Mahāsattva.",
+        "source": "T46n1929_007:0744a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二辨菩薩位。",
+        "translation": "The second discernment of the bodhisattva's position.",
+        "source": "T46n1929_007:0744a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "略為七意。",
+        "translation": "There are seven brief meanings.",
+        "source": "T46n1929_007:0744a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一發菩提心。",
+        "translation": "1. arouses the aspiration for bodhi.",
+        "source": "T46n1929_007:0744a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二行菩薩道。",
+        "translation": "Two, he practices the bodhisattva path.",
+        "source": "T46n1929_007:0744a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三種三十二相業。",
+        "translation": "Three are the thirty-two characteristics of karma.",
+        "source": "T46n1929_007:0744a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四六度成滿。",
+        "translation": "Four accomplish the fulfillment of the six perfections.",
+        "source": "T46n1929_007:0744a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五一生補處。",
+        "translation": "Five is born in a complementary place.",
+        "source": "T46n1929_007:0744a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六生兜率天。",
+        "translation": "Six are born in the Tuṣita Heaven.",
+        "source": "T46n1929_007:0744a06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七八相成道。",
+        "translation": "Seven, the eight phases of the path are accomplished.",
+        "source": "T46n1929_007:0744a06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一發菩提心者。",
+        "translation": "\"One arouses the mind of enlightenment.",
+        "source": "T46n1929_007:0744a06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如釋迦牟尼菩薩。",
+        "translation": "Suppose the bodhisattva Śākyamuni.",
+        "source": "T46n1929_007:0744a07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於過去世為陶師。",
+        "translation": "In a past life, he was a potter.",
+        "source": "T46n1929_007:0744a07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "值釋迦牟尼佛供養彼佛。",
+        "translation": "He met Śākyamuni and made offerings to that Buddha.",
+        "source": "T46n1929_007:0744a08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又見彼佛智慧第一弟子。",
+        "translation": "He also saw the first disciple of that Buddha's wisdom.",
+        "source": "T46n1929_007:0744a08_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名舍利弗。",
+        "translation": "His name was Śāriputra.",
+        "source": "T46n1929_007:0744a09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神通第一弟子。",
+        "translation": "The most powerful disciple was named Maudgalyāyana.",
+        "source": "T46n1929_007:0744a09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名目揵連。",
+        "translation": "His name was Maudgalyāyana.",
+        "source": "T46n1929_007:0744a09_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多聞侍者名曰阿難。",
+        "translation": "His well-versed attendant was named Ānanda.",
+        "source": "T46n1929_007:0744a10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時陶師供養佛已。",
+        "translation": "After the potter made his offerings to the Buddha, he then aroused the aspiration for enlightenment.",
+        "source": "T46n1929_007:0744a10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即便發菩提心。",
+        "translation": "He then aroused the aspiration for enlightenment.",
+        "source": "T46n1929_007:0744a11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是誓願。",
+        "translation": "He made this vow.",
+        "source": "T46n1929_007:0744a11_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願未來世我得作佛。",
+        "translation": "'May I become a buddha in the future!'",
+        "source": "T46n1929_007:0744a11_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "還號釋迦牟尼。",
+        "translation": "He was then called Śākyamuni.",
+        "source": "T46n1929_007:0744a12_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智慧弟子名舍利弗。",
+        "translation": "The disciple of wisdom was named Śāriputra.",
+        "source": "T46n1929_007:0744a12_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神足弟子名目揵連。",
+        "translation": "The disciple of supernormal powers is named Maudgalyāyana.",
+        "source": "T46n1929_007:0744a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多聞侍者名阿難。",
+        "translation": "The well-versed attendant's name is Ānanda.",
+        "source": "T46n1929_007:0744a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可悅其願。",
+        "translation": "That's pleasing to him and his vow.",
+        "source": "T46n1929_007:0744a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從是初發菩提心。",
+        "translation": "From this, he first arouses the aspiration for enlightenment.",
+        "source": "T46n1929_007:0744a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即慈悲四弘誓願發也。",
+        "translation": "That's when the four great vows of compassion are arisen.",
+        "source": "T46n1929_007:0744a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但三藏教慈悲四弘誓願。",
+        "translation": "But the tripiṭaka teaches that the four great vows of compassion arise from the four truths of birth and extinction.",
+        "source": "T46n1929_007:0744a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆緣生滅四諦而起。",
+        "translation": "They all arise in connection with the four truths of arising and ceasing.",
+        "source": "T46n1929_007:0744a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言慈悲心者。",
+        "translation": "The mind that's referred to as compassionate is.",
+        "source": "T46n1929_007:0744a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一大慈心。",
+        "translation": "It's a mind of great compassion.",
+        "source": "T46n1929_007:0744a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲與愛見二種眾生道滅之樂也。",
+        "translation": "It's the desire and the joy of the cessation of the path for two kinds of sentient beings: those who love and those who see.",
+        "source": "T46n1929_007:0744a16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二大悲心。",
+        "translation": "The second great compassionate mental attitude is this.",
+        "source": "T46n1929_007:0744a17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲拔愛見二種眾生苦集之苦也。",
+        "translation": "It's the desire to remove the suffering of the two kinds of sentient beings who have craving and views and the suffering of the truth of suffering's accumulation.",
+        "source": "T46n1929_007:0744a17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四弘誓願者。",
+        "translation": "The four great vows are.",
+        "source": "T46n1929_007:0744a18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一未度者令度者。",
+        "translation": "One is to save those who haven't been saved and cause them to be saved.",
+        "source": "T46n1929_007:0744a18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是天魔外道愛見二種。",
+        "translation": "That's the two kinds of craving and views of gods, Māra, and non-Buddhists.",
+        "source": "T46n1929_007:0744a19_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六道眾生未度三界火宅之苦諦。",
+        "translation": "Sentient beings in the six destinies have yet to cross over the suffering of the three realms and the burning abode.",
+        "source": "T46n1929_007:0744a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令得度也。",
+        "translation": "He causes them to be liberated.",
+        "source": "T46n1929_007:0744a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二未解者令解者。",
+        "translation": "The second is to cause those who haven't understood to understand.",
+        "source": "T46n1929_007:0744a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是愛見二種眾生。",
+        "translation": "This refers to the two kinds of sentient beings who have a view of what's attractive.",
+        "source": "T46n1929_007:0744a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未解愛見二十五有業。",
+        "translation": "Those who haven't understood the view of love for the twenty-five existent karmas.",
+        "source": "T46n1929_007:0744a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "集令得解也。",
+        "translation": "He will gather them and cause them to be liberated.",
+        "source": "T46n1929_007:0744a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三未安者令安者。",
+        "translation": "Third, he causes those who aren't yet at peace to become at peace.",
+        "source": "T46n1929_007:0744a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是愛見二種眾生。",
+        "translation": "That's a view of craving for two kinds of sentient beings.",
+        "source": "T46n1929_007:0744a23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未安三十七品一切諸道令安道諦也。",
+        "translation": "He's not yet at peace with the thirty-seven classes of all paths and causes them to attain peace with the truth of the path.",
+        "source": "T46n1929_007:0744a23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四未涅槃者令得涅槃者。",
+        "translation": "The fourth is someone who causes those who aren't yet in nirvāṇa to attain nirvāṇa.",
+        "source": "T46n1929_007:0744a24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此愛見二種眾生。",
+        "translation": "This is the love that sees two kinds of sentient beings.",
+        "source": "T46n1929_007:0744a25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未滅二十五有生死因果。",
+        "translation": "They haven't yet ceased the causes and effects of the 25 forms of birth and death.",
+        "source": "T46n1929_007:0744a25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆令得滅諦涅槃也。",
+        "translation": "They all will attain nirvāṇa in the aspect of cessation.",
+        "source": "T46n1929_007:0744a26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若緣愛見二種眾生。",
+        "translation": "If he sees two kinds of sentient beings for reasons of craving, then he'll give rise to compassion.",
+        "source": "T46n1929_007:0744a26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生滅四諦而起慈悲四弘誓願者。",
+        "translation": "He arouses the four vast vows of compassion based on his love of the four truths of birth and cessation.",
+        "source": "T46n1929_007:0744a27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是菩薩初發菩提心也。",
+        "translation": "That's when the bodhisattva first arouses the aspiration for enlightenment.",
+        "source": "T46n1929_007:0744a28_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知愛見四諦故。",
+        "translation": "Because they know and see the four noble truths, their wisdom is superior to that of gods, Māra, and all external beings.",
+        "source": "T46n1929_007:0744a28_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智慧勝諸天魔一切外道。",
+        "translation": "That wisdom surpasses gods, Māra, and all non-Buddhists.",
+        "source": "T46n1929_007:0744a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有慈悲誓願功德故勝一切聲聞緣覺。",
+        "translation": "Because of the merit of the vow of compassion, he's superior to all śrāvakas and pratyekbuddhas.",
+        "source": "T46n1929_007:0744a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故大智度論云。",
+        "translation": "That's why the Mahāprajñāpāramitā-śāstra says.",
+        "source": "T46n1929_007:0744b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初發心以為天人師。",
+        "translation": "\"When he first arouses the intention to be a teacher of gods and humans, he's superior to all śrāvakas and pratyekbuddhas.",
+        "source": "T46n1929_007:0744b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勝出一切聲聞緣覺。",
+        "translation": "That's superior to all śrāvakas and pratyekbuddhas.",
+        "source": "T46n1929_007:0744b02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二行菩薩道者。",
+        "translation": "Second, he practices the bodhisattva path.",
+        "source": "T46n1929_007:0744b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是三阿僧祇劫行六度也。",
+        "translation": "This refers to the three incalculable eons spent practicing the six perfections.",
+        "source": "T46n1929_007:0744b03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從過去釋迦牟尼佛至罽那尸棄佛時。",
+        "translation": "From the time of Śākyamuni Buddha in the distant past until Kāṇḍinagara Buddha.",
+        "source": "T46n1929_007:0744b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名一阿僧祇劫。",
+        "translation": "It's called one incalculably long eon.",
+        "source": "T46n1929_007:0744b04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此常離女人身。",
+        "translation": "From then on, he was always free of the body of a woman.",
+        "source": "T46n1929_007:0744b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時不自知我當作佛不作佛。",
+        "translation": "At the time, he didn't know on his own that he would become a buddha and not act as a buddha.",
+        "source": "T46n1929_007:0744b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此初阿僧祇劫。",
+        "translation": "This first incalculably long eon.",
+        "source": "T46n1929_007:0744b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是得五停心別想總想念處之位。",
+        "translation": "It's the time when he attains the stage of the five meditation states of mindfulness of the distinctive ideas and the general mindfulness state.",
+        "source": "T46n1929_007:0744b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用性念處共念處緣念處。",
+        "translation": "He uses the mindfulness of nature, the shared mindfulness, and the mindfulness of conditions.",
+        "source": "T46n1929_007:0744b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行六度也。",
+        "translation": "He's also practicing the six perfections.",
+        "source": "T46n1929_007:0744b07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三種念處義略如前說。",
+        "translation": "The three abodes of mindfulness are briefly explained as before.",
+        "source": "T46n1929_007:0744b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T46n1929_007:0744b08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修性念處為壞屬愛魔業。",
+        "translation": "Cultivating the mindfulness of nature destroys the demonic karma that's part of craving.",
+        "source": "T46n1929_007:0744b08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "破屬見一切智六師修共念處。",
+        "translation": "It destroys the six teachers who belong to omniscience and cultivate the shared mindfulness state.",
+        "source": "T46n1929_007:0744b09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲壞愛結破神通六師修緣念處為一切愛見眾生說法。",
+        "translation": "They want to destroy the bonds of craving, destroy the psychic abilities, and cultivate the mindfulness of conditions for the six teachers to teach all sentient beings who have craving and views.",
+        "source": "T46n1929_007:0744b10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "屬愛壞故一切天魔眷屬壞。",
+        "translation": "Because craving is destroyed, all the gods' demonic retinues are destroyed.",
+        "source": "T46n1929_007:0744b11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "愛見壞故三六十八種六師。",
+        "translation": "Because craving and views have been destroyed, the three, sixty-eight kinds of the six teachers will be destroyed.",
+        "source": "T46n1929_007:0744b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及一切外道眷屬壞也。",
+        "translation": "and all the followers of non-Buddhists will be destroyed.",
+        "source": "T46n1929_007:0744b12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故用三種念處行六波羅蜜。",
+        "translation": "Therefore, he uses the three abodes of mindfulness to practice the six perfections.",
+        "source": "T46n1929_007:0744b13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意欲降伏天魔制諸外道。",
+        "translation": "The intention is to subdue the heavenly demons and restrain the non-Buddhists.",
+        "source": "T46n1929_007:0744b14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩用三種念處行六度時。",
+        "translation": "When bodhisattvas practice the six perfections with the three abodes of mindfulness, they cultivate the mindfulness of nature but don't stop forming bonds.",
+        "source": "T46n1929_007:0744b14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖修性念處而不斷結。",
+        "translation": "Although they cultivate the mindfulness of nature, they don't break the bonds.",
+        "source": "T46n1929_007:0744b15_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為生三界度眾生故。",
+        "translation": "It's for the sake of being born in the three realms and liberating sentient beings.",
+        "source": "T46n1929_007:0744b15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常欲多修共念處觀為得神通。",
+        "translation": "He always wants to cultivate the contemplation of the shared mindfulness of abodes in order to attain supernormal powers.",
+        "source": "T46n1929_007:0744b16_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成四攝法同事。",
+        "translation": "He accomplishes the four methods of collecting co-workers.",
+        "source": "T46n1929_007:0744b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "調伏愛見眾生。",
+        "translation": "He tames sentient beings who have mistaken views.",
+        "source": "T46n1929_007:0744b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又常多修緣念處觀。",
+        "translation": "He also always cultivates the contemplation of the mindfulness of conditions.",
+        "source": "T46n1929_007:0744b17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲成四辨說三乘法。",
+        "translation": "He wants to accomplish the four abilities and explain the teachings of the three vehicles.",
+        "source": "T46n1929_007:0744b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "化一切愛見眾生。",
+        "translation": "He'll convert all sentient beings with craving and views.",
+        "source": "T46n1929_007:0744b18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共出三界火宅也。",
+        "translation": "They'll all escape the burning abode of the three realms.",
+        "source": "T46n1929_007:0744b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為初阿僧祇劫修行六度。",
+        "translation": "This is the first incalculable eon when he cultivates the six perfections.",
+        "source": "T46n1929_007:0744b19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用四弘誓願安撫生死心無怯弱根壞女人之業。",
+        "translation": "With the four great vows, he pacifies sentient beings and death with a mind lacking the faculty of timidity to destroy a woman's karma.",
+        "source": "T46n1929_007:0744b20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常受丈夫之身也。",
+        "translation": "He'll always accept the body of a husband.",
+        "source": "T46n1929_007:0744b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時未發煗解位在外凡。",
+        "translation": "At the time, he hadn't yet developed the stage of religious understanding and was an outer worldling.",
+        "source": "T46n1929_007:0744b21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故不自知己身當得作佛不得作佛也。",
+        "translation": "Therefore, they didn't know for themselves that they would become buddhas or wouldn't become buddhas.",
+        "source": "T46n1929_007:0744b22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次明從罽那尸棄佛至燃燈佛。",
+        "translation": "Next, it's explained that from Kāṇḍinagara to the Burning Lamp Buddha.",
+        "source": "T46n1929_007:0744b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為第二阿僧祇劫。",
+        "translation": "It's the second incalculably long eon.",
+        "source": "T46n1929_007:0744b24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時菩薩用七莖青蓮華。",
+        "translation": "The bodhisattva then used seven stalks of blue lotus flowers to make offerings to the Kālādanīya Buddha.",
+        "source": "T46n1929_007:0744b24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "供養燃燈佛。",
+        "translation": "They made offerings to the Burning Lamp Buddha.",
+        "source": "T46n1929_007:0744b25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "敷鹿皮衣布髮掩泥。",
+        "translation": "He spread out his deerskin robe and covered his hair with mud.",
+        "source": "T46n1929_007:0744b25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時燃燈佛便授其記。",
+        "translation": "The Dīpaṃkara Buddha then gave him this prediction.",
+        "source": "T46n1929_007:0744b25_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝當來世必得作佛。",
+        "translation": "\"In a future life, you will surely become a buddha.",
+        "source": "T46n1929_007:0744b26_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名釋迦牟尼。",
+        "translation": "You'll be called Śākyamuni.",
+        "source": "T46n1929_007:0744b26_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時菩薩雖能自知我必作佛。",
+        "translation": "At the time, even though the bodhisattva could tell for himself that I would surely become a buddha.",
+        "source": "T46n1929_007:0744b27_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而口不稱我當作佛。",
+        "translation": "But he didn't say, \"I'll become a buddha.",
+        "source": "T46n1929_007:0744b27_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此是用煗法智慧修六度也。",
+        "translation": "This is called cultivating the six perfections with the wisdom of the Dharma of dharmas.",
+        "source": "T46n1929_007:0744b28_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T46n1929_007:0744b29_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因總想四念處。",
+        "translation": "It's because of the four abodes of mindfulness of general perception.",
+        "source": "T46n1929_007:0744b29_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初得善有漏五陰。",
+        "translation": "At first, he attains the five contaminated aggregates of goodness.",
+        "source": "T46n1929_007:0744b29_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是性地順忍初心之位。",
+        "translation": "That's the stage of the first state of mind in which the nature ground is followed by forbearance.",
+        "source": "T46n1929_007:0744c01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既有證法之信。",
+        "translation": "Since he has faith in the realization of the teaching, he must know that he's becoming a buddha.",
+        "source": "T46n1929_007:0744c01_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故必知作佛。",
+        "translation": "Therefore, he must know that he's becoming a buddha.",
+        "source": "T46n1929_007:0744c02_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而用煗解修行六度。",
+        "translation": "He cultivates the six perfections with diligence and understanding.",
+        "source": "T46n1929_007:0744c02_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心未分明故不向他說。",
+        "translation": "Because his mind isn't clearly delineated, he doesn't explain it to others.",
+        "source": "T46n1929_007:0744c02_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次明從燃燈佛。",
+        "translation": "Next, he explains that he went from the Burning Lamp Buddha ...",
+        "source": "T46n1929_007:0744c03_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至毘婆尸佛。",
+        "translation": "That's from the Burning Lamp Buddha to Vipaśyin Buddha.",
+        "source": "T46n1929_007:0744c03_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為第三阿僧祇劫滿。",
+        "translation": "That's the completion of the third incalculable eon.",
+        "source": "T46n1929_007:0744c04_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時菩薩內心了了自知作佛。",
+        "translation": "At that point, the bodhisattva has internal clarity of mind and knows for himself that he's become a buddha.",
+        "source": "T46n1929_007:0744c04_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "口自發言無所畏難。",
+        "translation": "He speaks orally, without any fear or difficulty.",
+        "source": "T46n1929_007:0744c05_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於來世當得作佛。",
+        "translation": "'I will become a buddha in a future life.'",
+        "source": "T46n1929_007:0744c05_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今謂此是頂法之位。",
+        "translation": "Now, this is called the peak dharma stage.",
+        "source": "T46n1929_007:0744c06_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行六波羅蜜四諦觀解分明。",
+        "translation": "He practices the six perfections and clearly understands the four truths.",
+        "source": "T46n1929_007:0744c06_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如登山頂四方顧分明。",
+        "translation": "He rises like a man on the peak of a mountain, clearly observing the four sides.",
+        "source": "T46n1929_007:0744c07_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "了了自知作佛。",
+        "translation": "He clearly knows for himself that he'll become a buddha.",
+        "source": "T46n1929_007:0744c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦向他人說也。",
+        "translation": "He also explains it to others.",
+        "source": "T46n1929_007:0744c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三明過三阿僧祇劫。",
+        "translation": "Three things are clear: After three incalculable eons, he'll plant thirty-two actions.",
+        "source": "T46n1929_007:0744c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種三十二相業。",
+        "translation": "He plants thirty-two kinds of activity.",
+        "source": "T46n1929_007:0744c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今謂此是入下忍之位。",
+        "translation": "This is called the stage of entering lower patience.",
+        "source": "T46n1929_007:0744c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用此忍智修行六度。",
+        "translation": "With this knowledge of forbearance, he cultivates the six perfections.",
+        "source": "T46n1929_007:0744c10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成百福德。",
+        "translation": "He'll achieve a hundred merits.",
+        "source": "T46n1929_007:0744c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用百福德成一相。",
+        "translation": "Using those hundred merits, they'll achieve one characteristic.",
+        "source": "T46n1929_007:0744c10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以為三十二相之業因也。",
+        "translation": "This is the cause of the karma of the thirty-two marks.",
+        "source": "T46n1929_007:0744c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種三十二相業因。",
+        "translation": "Planting the causes of karma for the thirty-two marks.",
+        "source": "T46n1929_007:0744c11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於下忍之位。",
+        "translation": "At the lower stage of forbearance.",
+        "source": "T46n1929_007:0744c12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修六波羅蜜成百福之相。",
+        "translation": "He cultivates the six perfections to achieve the marks of a hundred merits.",
+        "source": "T46n1929_007:0744c12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以為三十二相業因也。",
+        "translation": "This is the cause of the thirty-two marks of activity.",
+        "source": "T46n1929_007:0744c13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是三十二相。",
+        "translation": "These are the thirty-two marks.",
+        "source": "T46n1929_007:0744c13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於欲界閻浮提人中。",
+        "translation": "Among the people of Jambudvīpa in the desire realm.",
+        "source": "T46n1929_007:0744c13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受男子身。",
+        "translation": "They're endowed with the body of a man.",
+        "source": "T46n1929_007:0744c14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛出世時緣佛身相故得種也。",
+        "translation": "It's because of the Buddha's body image that he attains seeds when the Buddha appears in the world.",
+        "source": "T46n1929_007:0744c14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "He asked.",
+        "source": "T46n1929_007:0744c15_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言百福德成一相者。",
+        "translation": "\"Whoever said that a hundred virtues make up one characteristic?",
+        "source": "T46n1929_007:0744c15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "幾功德成一相福德耶。",
+        "translation": "How many virtues make up the merit of one characteristic?",
+        "source": "T46n1929_007:0744c16_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "Answer: Different interpretations.",
+        "source": "T46n1929_007:0744c16_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "異解不同。",
+        "translation": "Different interpretations differ.",
+        "source": "T46n1929_007:0744c16_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "難可定判。",
+        "translation": "It's difficult to make a definite judgment.",
+        "source": "T46n1929_007:0744c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有人言。",
+        "translation": "Some people say.",
+        "source": "T46n1929_007:0744c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是福不可稱量不可譬喻是菩薩入三阿僧祇劫。",
+        "translation": "\"This merit is immeasurable and inexplicable. It's the result of the bodhisattva's entry into three incalculable eons.",
+        "source": "T46n1929_007:0744c17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心修大行種是三十二相因緣。",
+        "translation": "Their minds cultivate the seeds of great practice that are the causes and conditions of the thirty-two phases.",
+        "source": "T46n1929_007:0744c18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是故福無能量。",
+        "translation": "Therefore, merit is incalculable.",
+        "source": "T46n1929_007:0744c19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯佛能知。",
+        "translation": "Only the Buddha can know it.",
+        "source": "T46n1929_007:0744c19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0744c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩幾時種三十二相。",
+        "translation": "\"When does a bodhisattva plant the thirty-two marks?",
+        "source": "T46n1929_007:0744c20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "He answered.",
+        "source": "T46n1929_007:0744c20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極遲百劫。",
+        "translation": "It's extremely late for a hundred eons.",
+        "source": "T46n1929_007:0744c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極疾九十一劫。",
+        "translation": "It's 91 eons too soon.",
+        "source": "T46n1929_007:0744c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "弗沙佛觀釋迦菩薩自身生弟子熟。",
+        "translation": "Pūrṇa Buddha observed that the Śākyamuni Bodhisattva himself gives birth to disciples who are ripe.",
+        "source": "T46n1929_007:0744c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彌勒菩薩自熟弟子生。",
+        "translation": "The Maitreya Bodhisattva's own disciples are ripened and born.",
+        "source": "T46n1929_007:0744c22_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多人難度一人易化。",
+        "translation": "It's difficult to save many people and easy to teach one.",
+        "source": "T46n1929_007:0744c22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故弗沙佛於寶窟中。",
+        "translation": "That's why Pūrṇa Buddha was in the jeweled cave.",
+        "source": "T46n1929_007:0744c23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "放光照釋迦。",
+        "translation": "He radiated his light to illuminate Śākyamuni.",
+        "source": "T46n1929_007:0744c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩釋迦菩薩尋光至弗沙佛所。",
+        "translation": "The bodhisattva Śākyamuni looked for the light and went to Pūrṇa Buddha.",
+        "source": "T46n1929_007:0744c23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於七日七夜一心觀佛。",
+        "translation": "For seven days and nights, he single-mindedly observed the Buddha.",
+        "source": "T46n1929_007:0744c24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "目不暫眴。",
+        "translation": "His eyes didn't dazzle for a moment.",
+        "source": "T46n1929_007:0744c25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但用一偈稱歎云。",
+        "translation": "He simply praised him with a single verse, saying.",
+        "source": "T46n1929_007:0744c25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天地此界多門室。",
+        "translation": "'This realm of heaven and earth has many entrances and rooms.",
+        "source": "T46n1929_007:0744c25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "逝宮天處十方無。",
+        "translation": "The departed palace and heavenly abodes are nonexistent in ten directions.",
+        "source": "T46n1929_007:0744c26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "丈夫牛王大沙門。",
+        "translation": "The great ascetic, the husband of the ox king.",
+        "source": "T46n1929_007:0744c26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尋地山林遍無等。",
+        "translation": "His search of the earth, mountains, and forests is countless.",
+        "source": "T46n1929_007:0744c27_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以苦行力超越九劫。",
+        "translation": "With the power of ascetic practices, he transcends nine eons.",
+        "source": "T46n1929_007:0744c27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在彌勒菩薩前成正覺也。",
+        "translation": "He'll become perfectly enlightened before Maitreya Buddha.",
+        "source": "T46n1929_007:0744c28_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明六波羅蜜滿者。",
+        "translation": "Fourth, he explains the fulfillment of the six perfections.",
+        "source": "T46n1929_007:0744c28_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question is.",
+        "source": "T46n1929_007:0744c29_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "檀波羅蜜云何滿。",
+        "translation": "\"What is the fulfillment of the perfection of giving?",
+        "source": "T46n1929_007:0744c29_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer is.",
+        "source": "T46n1929_007:0744c29_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切能施無所遮礙。",
+        "translation": "It's the ability to give generously without any obstructions.",
+        "source": "T46n1929_007:0744c29_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至以身施時心無所惜。",
+        "translation": "Even when he gives with his body, his mind has no qualms.",
+        "source": "T46n1929_007:0745a01_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如尸毘王。",
+        "translation": "He's like King Śibi.",
+        "source": "T46n1929_007:0745a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以身施鴿解剔皮肉。",
+        "translation": "He gives his body to a dove and picks its skin and flesh.",
+        "source": "T46n1929_007:0745a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖受痛苦。",
+        "translation": "Even though it's painful, he lifts a scale off his body to ransom the pigeon's life.",
+        "source": "T46n1929_007:0745a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉身上秤以贖鴿命心不悔恨。",
+        "translation": "He lifts the scales off his body to ransom the pigeon's life, and his mind doesn't regret it.",
+        "source": "T46n1929_007:0745a02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立誓自證我心無悔者。",
+        "translation": "He makes a vow to realize for himself that his mind has no remorse.",
+        "source": "T46n1929_007:0745a03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身可平復。",
+        "translation": "My body will then be rehabilitated.",
+        "source": "T46n1929_007:0745a04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既立誓已。",
+        "translation": "After he makes that vow.",
+        "source": "T46n1929_007:0745a04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天地震動身還如故。",
+        "translation": "\"When earthquakes occur in heaven, my body returns as before.",
+        "source": "T46n1929_007:0745a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等菩薩本生捨身命施。",
+        "translation": "Thus, the bodhisattva in his past life gave up his body and life as alms.",
+        "source": "T46n1929_007:0745a05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心不退悔。",
+        "translation": "Their minds don't regress and repent.",
+        "source": "T46n1929_007:0745a05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是檀波羅蜜滿也。",
+        "translation": "This is the fulfillment of the perfection of giving.",
+        "source": "T46n1929_007:0745a06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "He asked.",
+        "source": "T46n1929_007:0745a06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何尸羅波羅蜜滿。",
+        "translation": "\"What is the perfection of Śīlabhadra?",
+        "source": "T46n1929_007:0745a06_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer is.",
+        "source": "T46n1929_007:0745a07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不惜身命護持淨戒。",
+        "translation": "It's not sparing his life to uphold the pure precepts.",
+        "source": "T46n1929_007:0745a07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如須陀摩王。",
+        "translation": "He's like King Sudharmarāja.",
+        "source": "T46n1929_007:0745a07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是王精進持戒常依實語。",
+        "translation": "That king diligently observes the precepts, always relying on the true words.",
+        "source": "T46n1929_007:0745a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與劫磨沙波陀大王共期。",
+        "translation": "He shared a date with the great king Kāmasapodā.",
+        "source": "T46n1929_007:0745a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乞暇還國七日供養沙門竟。",
+        "translation": "He asked for a moment to return to his country for seven days to make offerings to the ascetics.",
+        "source": "T46n1929_007:0745a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即來就終。",
+        "translation": "He then came to meet his end.",
+        "source": "T46n1929_007:0745a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是王期滿。",
+        "translation": "That king completed his term.",
+        "source": "T46n1929_007:0745a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為持實語戒故。",
+        "translation": "It was because he upheld the precepts based on true speech.",
+        "source": "T46n1929_007:0745a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "趣期就死。",
+        "translation": "He retired at the end of his journey.",
+        "source": "T46n1929_007:0745a10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則為持一戒不惜身命。",
+        "translation": "This is the kind of person who wouldn't spare his life to uphold a single precept.",
+        "source": "T46n1929_007:0745a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等處處因緣經說本生。",
+        "translation": "Thus, the sutra explains that there are causes and conditions for each of these things in the past life.",
+        "source": "T46n1929_007:0745a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩因地。",
+        "translation": "It's the bodhisattva's causal stage.",
+        "source": "T46n1929_007:0745a12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持戒捨身命心不悔恨。",
+        "translation": "When he upholds the precepts and sacrifices his body and life, his mind doesn't regret it.",
+        "source": "T46n1929_007:0745a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是尸羅波羅蜜滿相。",
+        "translation": "This is the mark of the completion of the śīla-pāramitā.",
+        "source": "T46n1929_007:0745a13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0745a13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "羼提波羅蜜云何滿。",
+        "translation": "\"How is the perfection of śrāvaka perfected?",
+        "source": "T46n1929_007:0745a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "He answered.",
+        "source": "T46n1929_007:0745a14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若人來罵。",
+        "translation": "Suppose someone comes along and scolds you.",
+        "source": "T46n1929_007:0745a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撾捶割剝支解奪命。",
+        "translation": "They beat them, cut them off, chop them off, and take their lives.",
+        "source": "T46n1929_007:0745a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心不起瞋。",
+        "translation": "Their minds don't get angry.",
+        "source": "T46n1929_007:0745a15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如羼提比丘常修慈忍。",
+        "translation": "Suppose a monk named Kauṇḍinya always cultivates forbearance with kindness.",
+        "source": "T46n1929_007:0745a15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在林樹下入禪三昧。",
+        "translation": "He was sitting under a tree in a forest, entering meditation and concentration.",
+        "source": "T46n1929_007:0745a15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時迦梨王。",
+        "translation": "It was then that the king of Kali decided to meditate.",
+        "source": "T46n1929_007:0745a16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為女色故生愛弊。",
+        "translation": "He became attracted to the female form for its own sake.",
+        "source": "T46n1929_007:0745a16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "垢截其手足耳鼻。",
+        "translation": "He cut off his hands, feet, ears, and nose with filth.",
+        "source": "T46n1929_007:0745a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心忍不動。",
+        "translation": "His mind tolerated it and didn't budge.",
+        "source": "T46n1929_007:0745a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時王問言。",
+        "translation": "The king then asked him.",
+        "source": "T46n1929_007:0745a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今截解身定。",
+        "translation": "\"Now, he's cutting off his body and concentrating on liberation.",
+        "source": "T46n1929_007:0745a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能忍否。",
+        "translation": "\"Can you tolerate it?",
+        "source": "T46n1929_007:0745a18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘答言。",
+        "translation": "The monk replied.",
+        "source": "T46n1929_007:0745a18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意實不瞋恨。",
+        "translation": "\"My mind really isn't angry.",
+        "source": "T46n1929_007:0745a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王言。",
+        "translation": "The king said.",
+        "source": "T46n1929_007:0745a19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今誰信汝耶。",
+        "translation": "\"Who's going to believe you now?",
+        "source": "T46n1929_007:0745a19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘答曰。",
+        "translation": "The monk answered.",
+        "source": "T46n1929_007:0745a19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若實忍心不瞋恨。",
+        "translation": "\"If you really tolerate mind and don't hate, then I'll find peace in my body.",
+        "source": "T46n1929_007:0745a19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當令我身即尋平復。",
+        "translation": "That will cause my body to immediately find peace.'",
+        "source": "T46n1929_007:0745a20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說是語時身即如故。",
+        "translation": "When he says this, his body will be as it was before.",
+        "source": "T46n1929_007:0745a20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等不惜身命修行忍辱。",
+        "translation": "Such is the cultivation of forbearance without sparing body and life.",
+        "source": "T46n1929_007:0745a21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名羼提波羅蜜滿相。",
+        "translation": "This is called the full extent of kṣanti-pāramitā.",
+        "source": "T46n1929_007:0745a21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "He asked.",
+        "source": "T46n1929_007:0745a22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "毘梨耶波羅蜜云何滿。",
+        "translation": "\"How is the perfection of the perfection of vīrya?",
+        "source": "T46n1929_007:0745a22_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer is.",
+        "source": "T46n1929_007:0745a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有大心。",
+        "translation": "\"Suppose there's a great mind.",
+        "source": "T46n1929_007:0745a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如大施太子。",
+        "translation": "They're like the great prince Almsgiver.",
+        "source": "T46n1929_007:0745a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為一切眾生入海採寶。",
+        "translation": "He goes into the ocean to gather treasure for all sentient beings.",
+        "source": "T46n1929_007:0745a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從龍王得如意珠。",
+        "translation": "He obtains the wish-granting pearl from the dragon king.",
+        "source": "T46n1929_007:0745a24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲將還閻浮提。",
+        "translation": "He wants to return it to Jambudvīpa.",
+        "source": "T46n1929_007:0745a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雨衣服寶物布施眾生。",
+        "translation": "He'll rain down clothing and treasures to give to sentient beings.",
+        "source": "T46n1929_007:0745a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "海神惜珠。",
+        "translation": "The sea god prizes the pearl.",
+        "source": "T46n1929_007:0745a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因其睡臥即盜取其珠。",
+        "translation": "Because he was sleeping, he stole the pearl.",
+        "source": "T46n1929_007:0745a25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "將還海宮。",
+        "translation": "He was about to return it to the ocean palace.",
+        "source": "T46n1929_007:0745a26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "太子覺已為此珠故。",
+        "translation": "The prince realized it was because of the pearl.",
+        "source": "T46n1929_007:0745a26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誓以此身抒大海水令海乾盡。",
+        "translation": "He vowed to lend this body to the ocean so that it would dry up.",
+        "source": "T46n1929_007:0745a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從海神索珠心定不懈。",
+        "translation": "He asked the sea god for the pearl, and his mind didn't waver.",
+        "source": "T46n1929_007:0745a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "帝釋諸天感太子心。",
+        "translation": "The gods of Indra felt the prince's resolve.",
+        "source": "T46n1929_007:0745a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為物精進不惜身命。",
+        "translation": "He was so diligent about this object that he didn't spare his own life.",
+        "source": "T46n1929_007:0745a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即將諸天助抒海水。",
+        "translation": "He then sent the gods to help him pour out the ocean water.",
+        "source": "T46n1929_007:0745a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "水遂減半。",
+        "translation": "The water was then reduced by half.",
+        "source": "T46n1929_007:0745a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "海神怖故慚愧還珠。",
+        "translation": "Afraid, the sea god was ashamed and returned the pearl.",
+        "source": "T46n1929_007:0745a29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦如釋迦菩薩值弗沙佛。",
+        "translation": "It's like Śākyamuni Bodhisattva when he met Pūrṇa Buddha.",
+        "source": "T46n1929_007:0745b01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七日七夜翹一脚目不暫眴。",
+        "translation": "For seven days and nights, he would stand on one leg and not dazzle his eyes for a moment.",
+        "source": "T46n1929_007:0745b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等不惜身命。",
+        "translation": "Such people don't spare their own lives.",
+        "source": "T46n1929_007:0745b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為物精進。",
+        "translation": "They exert themselves for the sake of things.",
+        "source": "T46n1929_007:0745b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名毘梨耶波羅蜜滿相。",
+        "translation": "This is called the full extent of vīrya-pāramitā.",
+        "source": "T46n1929_007:0745b03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "He asked.",
+        "source": "T46n1929_007:0745b03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何名為禪波羅蜜滿相。",
+        "translation": "\"What's called the consummation of the perfection of meditation?",
+        "source": "T46n1929_007:0745b04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer is.",
+        "source": "T46n1929_007:0745b04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如一切禪定自在。",
+        "translation": "It's like when all meditations are unimpeded.",
+        "source": "T46n1929_007:0745b04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如尚闍梨仙人坐禪時。",
+        "translation": "It's also like when the recluse Shangjari sage is sitting in meditation.",
+        "source": "T46n1929_007:0745b05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無入出息。",
+        "translation": "There's no in-and-out breathing.",
+        "source": "T46n1929_007:0745b05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "鳥於螺髮中生子。",
+        "translation": "A bird in a conch's hair gives birth to a child.",
+        "source": "T46n1929_007:0745b06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不搖動乃至鳥子飛去。",
+        "translation": "It doesn't shake, and the bird's seed flies away.",
+        "source": "T46n1929_007:0745b06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名禪波羅蜜滿相。",
+        "translation": "This is called the perfection of meditation pāramitā.",
+        "source": "T46n1929_007:0745b07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "He asked.",
+        "source": "T46n1929_007:0745b07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "般若波羅蜜云何滿。",
+        "translation": "\"How is the perfection of prajñā perfection?",
+        "source": "T46n1929_007:0745b07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "He answered.",
+        "source": "T46n1929_007:0745b08_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩大心分別。",
+        "translation": "\"A bodhisattva's great mind discerns.",
+        "source": "T46n1929_007:0745b08_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如劬嬪婆羅門大臣。",
+        "translation": "He's like Minister Kapphiṇa Brāhmaṇa.",
+        "source": "T46n1929_007:0745b08_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "分閻浮大地作七分。",
+        "translation": "He divides the great land of Jambudvīpa into seven parts.",
+        "source": "T46n1929_007:0745b09_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若干大城小城聚落村民。",
+        "translation": "There are a number of large cities and small towns, villages, and townspeople.",
+        "source": "T46n1929_007:0745b09_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盡作七分。",
+        "translation": "They're all divided into seven parts.",
+        "source": "T46n1929_007:0745b10_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "般若波羅蜜亦如是。",
+        "translation": "*Prajñāpāramitā is likewise.",
+        "source": "T46n1929_007:0745b10_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩般若波羅蜜滿相。",
+        "translation": "This is the full range of the bodhisattva's prajñāpāramit.",
+        "source": "T46n1929_007:0745b10_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今謂此皆下忍智慧。",
+        "translation": "Now, this is called the wisdom of low tolerance.",
+        "source": "T46n1929_007:0745b11_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能調伏諸根滿足六度也。",
+        "translation": "They're able to tame the faculties and fulfill the six perfections.",
+        "source": "T46n1929_007:0745b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T46n1929_007:0745b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下忍智慧力強煩惱力弱。",
+        "translation": "The power of low-patience wisdom is strong, and the power of affliction is weak.",
+        "source": "T46n1929_007:0745b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用此智慧修行六度。",
+        "translation": "Using this wisdom, he cultivates the six perfections.",
+        "source": "T46n1929_007:0745b13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能忍六弊不惜身命成六度也。",
+        "translation": "He's able to tolerate the six disadvantages and doesn't spare his life to achieve the six perfections.",
+        "source": "T46n1929_007:0745b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四波羅蜜滿。",
+        "translation": "The four perfections are fulfilled.",
+        "source": "T46n1929_007:0745b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正是性念處力至下忍也。",
+        "translation": "It's the power of mindfulness of nature that reaches the lower level of forbearance.",
+        "source": "T46n1929_007:0745b14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "禪波羅蜜滿。",
+        "translation": "The perfection of the perfection of meditation ...",
+        "source": "T46n1929_007:0745b15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多是共念處力至下忍也。",
+        "translation": "It's mostly the power of the shared mindfulness of abodes that reaches the lower level of forbearance.",
+        "source": "T46n1929_007:0745b15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "般若波羅蜜滿。",
+        "translation": "The perfection of prajñā is the power of the mindfulness of conditions that reaches the lower level of patience.",
+        "source": "T46n1929_007:0745b16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正是緣念處力至下忍也。",
+        "translation": "It's the power of the mindfulness of conditions that reaches lower tolerance.'",
+        "source": "T46n1929_007:0745b16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "He asked.",
+        "source": "T46n1929_007:0745b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "羅漢尚不能不惜身命。",
+        "translation": "\"The arhat still can't practice the six perfections without sparing his own life.",
+        "source": "T46n1929_007:0745b17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修行六度。",
+        "translation": "He cultivates the six perfections.",
+        "source": "T46n1929_007:0745b17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下忍智慧之力。",
+        "translation": "The power of the wisdom of the lower tolerance.",
+        "source": "T46n1929_007:0745b18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何能成六度也。",
+        "translation": "How can he achieve the six perfections?'",
+        "source": "T46n1929_007:0745b18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "He answered.",
+        "source": "T46n1929_007:0745b18_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無慈悲誓願。",
+        "translation": "If there's no vow of compassion ...",
+        "source": "T46n1929_007:0745b19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "積劫修行之力羅漢智慧尚不能爾。",
+        "translation": "The power of accumulated eons of cultivation and the wisdom of the arhat wouldn't have enabled him to do so.",
+        "source": "T46n1929_007:0745b19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何況下忍。",
+        "translation": "How could it be possible to practice low tolerance?",
+        "source": "T46n1929_007:0745b20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今外緣慈悲誓願久積熏修。",
+        "translation": "Now, the external condition is the vow of compassion accumulated over time and cultivated.",
+        "source": "T46n1929_007:0745b20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內有忍法智慧。",
+        "translation": "On the inside, he has the wisdom of tolerating the Dharma.",
+        "source": "T46n1929_007:0745b21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "助破六弊之力也。",
+        "translation": "It's also the power that helps break the six disadvantages.",
+        "source": "T46n1929_007:0745b21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五住一生補處者。",
+        "translation": "\"The person who abides in the patchwork position for five lifetimes.",
+        "source": "T46n1929_007:0745b21_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是釋迦菩薩。",
+        "translation": "This is the Śākyamuni bodhisattva.",
+        "source": "T46n1929_007:0745b22_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在生迦葉佛所。",
+        "translation": "He was born to Kāśyapa Buddha.",
+        "source": "T46n1929_007:0745b22_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為補處弟子。",
+        "translation": "He's a disciple in the patchwork place.",
+        "source": "T46n1929_007:0745b23_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨持禁戒行諸功德。",
+        "translation": "He purified himself by observing the precepts and practicing virtues.",
+        "source": "T46n1929_007:0745b23_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "迦葉授記次當作佛。",
+        "translation": "Kāśyapa then granted him assurance of ordination and he became a buddha.",
+        "source": "T46n1929_007:0745b23_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恐此由在中忍之位也。",
+        "translation": "I'm afraid this is because he was at the stage of intermediate tolerance.",
+        "source": "T46n1929_007:0745b24_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六生兜率陀天者。",
+        "translation": "Sixth, he'll be born in the Tuṣita Heaven.",
+        "source": "T46n1929_007:0745b24_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨閻浮之報。",
+        "translation": "He forsakes the retribution of being born in Jambudvīpa.",
+        "source": "T46n1929_007:0745b25_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上生此天為諸天人師。",
+        "translation": "He'll be born up in this heaven and become a teacher of gods and humans.",
+        "source": "T46n1929_007:0745b25_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於在此天用三種念處。",
+        "translation": "While in this heaven, he uses the three abodes of mindfulness.",
+        "source": "T46n1929_007:0745b26_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修八勝處。",
+        "translation": "He cultivates the eight abodes of excellence.",
+        "source": "T46n1929_007:0745b26_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲伏結清淨。",
+        "translation": "In order to subdue bonds of desire, he purifies them.",
+        "source": "T46n1929_007:0745b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下閻浮提。",
+        "translation": "He descends to Jambudvīpa.",
+        "source": "T46n1929_007:0745b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神通變化降伏天魔。",
+        "translation": "He'll subdue celestial demons with his psychic powers and transformations.",
+        "source": "T46n1929_007:0745b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四辨說法破諸外道。",
+        "translation": "He explains the fourfold teaching of the Dharma to refute the non-Buddhists.",
+        "source": "T46n1929_007:0745b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及度一切眾生也。",
+        "translation": "He'll also liberate all sentient beings.",
+        "source": "T46n1929_007:0745b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此由屬中忍之位。",
+        "translation": "This is because they belong to the stage of intermediate tolerance.",
+        "source": "T46n1929_007:0745b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0745b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩何意。",
+        "translation": "\"What does the bodhisattva mean?",
+        "source": "T46n1929_007:0745b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從初發心伏結至此伏而不斷也。",
+        "translation": "From the first arousal of the intention to subdue the bonds up to this point, subduing them doesn't stop there.'",
+        "source": "T46n1929_007:0745b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer is.",
+        "source": "T46n1929_007:0745c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若斷結即不得受生化物。",
+        "translation": "If we cut the bonds, then we wouldn't be able to enjoy living things.",
+        "source": "T46n1929_007:0745c01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀無常伏結令諸煩惱脂消。",
+        "translation": "He observes impermanence and subdues the bonds, causing the fat of the afflictions to disappear.",
+        "source": "T46n1929_007:0745c02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用清淨心修行六度。",
+        "translation": "With a pure mind, he cultivates the six perfections.",
+        "source": "T46n1929_007:0745c02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令諸功德肥也　七下生成道者。",
+        "translation": "It will also fatten the virtues. The seventh person who goes down into the world to create the path.",
+        "source": "T46n1929_007:0745c03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是三藏教明八相成道菩提果。",
+        "translation": "This is the result of the Tripiṭaka teaching that explains the eight phases of the accomplishment of enlightenment.",
+        "source": "T46n1929_007:0745c04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言八相成道者。",
+        "translation": "The person who refers to the eight phases of the accomplishment of the path.",
+        "source": "T46n1929_007:0745c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一從兜率天下。",
+        "translation": "First, they descend from Tuṣita Heaven.",
+        "source": "T46n1929_007:0745c05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二託胎。",
+        "translation": "Two, he enters a womb.",
+        "source": "T46n1929_007:0745c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三出生。",
+        "translation": "3. is born.",
+        "source": "T46n1929_007:0745c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四出家。",
+        "translation": "4 leaving home ...",
+        "source": "T46n1929_007:0745c06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五降魔。",
+        "translation": "Five, he subdues Māra.",
+        "source": "T46n1929_007:0745c06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六成道。",
+        "translation": "Six accomplish the path.",
+        "source": "T46n1929_007:0745c06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七轉法輪。",
+        "translation": "7turns the wheel of the Dharma ...",
+        "source": "T46n1929_007:0745c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八入涅槃。",
+        "translation": "Eight enters nirvāṇa.",
+        "source": "T46n1929_007:0745c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一兜率天下者。",
+        "translation": "\"I. Those who descend from Tuṣita Heaven.",
+        "source": "T46n1929_007:0745c07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩將欲下生時。",
+        "translation": "When a bodhisattva is about to descend into the heavens, he uses four ways to contemplate the human condition.",
+        "source": "T46n1929_007:0745c07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用四種觀人間。",
+        "translation": "He uses four ways to contemplate the human condition.",
+        "source": "T46n1929_007:0745c07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一觀時。",
+        "translation": "One is when he's observing.",
+        "source": "T46n1929_007:0745c08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是人壽百歲時是佛出世之時。",
+        "translation": "That's when the life of a hundred years old is when the Buddha appears in the world.",
+        "source": "T46n1929_007:0745c08_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二觀土地。",
+        "translation": "Second, he observes the land.",
+        "source": "T46n1929_007:0745c09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸佛常依中國生迦維羅衛。",
+        "translation": "The buddhas always rely on China to be born in Kapilavastu.",
+        "source": "T46n1929_007:0745c09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是百億日月之中也。",
+        "translation": "That's among the 10 billion suns and moons.",
+        "source": "T46n1929_007:0745c10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三觀種姓。",
+        "translation": "Three, they contemplate family.",
+        "source": "T46n1929_007:0745c10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛生二種姓中。",
+        "translation": "Of the two castes born, the Buddha is born from one of them.",
+        "source": "T46n1929_007:0745c10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一剎利姓勢力大故。",
+        "translation": "The first family of the warriors is powerful because of their clan.",
+        "source": "T46n1929_007:0745c11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二婆羅門姓智慧大故。",
+        "translation": "The second family, the Brāhmaṇas, is born because their wisdom is great.",
+        "source": "T46n1929_007:0745c11_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋迦牟尼佛生剎利姓也。",
+        "translation": "Śakyamuni Buddha was born into the Śāriputra family.",
+        "source": "T46n1929_007:0745c12_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四觀生處。",
+        "translation": "Fourth, he observes the place of birth.",
+        "source": "T46n1929_007:0745c12_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等女人。",
+        "translation": "\"What kind of woman is she?",
+        "source": "T46n1929_007:0745c13_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能懷那羅延力菩薩。",
+        "translation": "Can she carry the bodhisattva Nārāyaṇa with power?",
+        "source": "T46n1929_007:0745c13_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯中國迦毘羅婆城淨飯王后。",
+        "translation": "Only the queen of the pure rice king in Kapilavastu in China.",
+        "source": "T46n1929_007:0745c13_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能懷後身菩薩。",
+        "translation": "She can carry the latter-body bodhisattva.",
+        "source": "T46n1929_007:0745c14_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是思惟已。",
+        "translation": "After he thought about it this way.",
+        "source": "T46n1929_007:0745c14_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後從兜率陀天下。",
+        "translation": "He then went down to Tuṣita Heaven.",
+        "source": "T46n1929_007:0745c15_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故作白象形非餘。",
+        "translation": "He asked why he took the form of a white elephant and not another.",
+        "source": "T46n1929_007:0745c15_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二明處胎。",
+        "translation": "Second, she explained that she was in the womb.",
+        "source": "T46n1929_007:0745c16_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是正慧入母胎。",
+        "translation": "That's when right wisdom enters the mother's womb.",
+        "source": "T46n1929_007:0745c16_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切眾生邪慧入母胎。",
+        "translation": "All sentient beings' wrong wisdom enters the mother's womb.",
+        "source": "T46n1929_007:0745c16_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩憶念不失。",
+        "translation": "The bodhisattva's recollection of it isn't lost.",
+        "source": "T46n1929_007:0745c17_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名正慧入母胎。",
+        "translation": "Therefore, it's called right wisdom entering the mother's womb.",
+        "source": "T46n1929_007:0745c17_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中陰住則知中陰。",
+        "translation": "When he abides in the intermediate aggregate, he knows the intermediate aggregate.",
+        "source": "T46n1929_007:0745c18_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入胎時。",
+        "translation": "When he enters the womb, he knows that he's entering the womb.",
+        "source": "T46n1929_007:0745c18_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知入胎。",
+        "translation": "He knows he's entering the womb.",
+        "source": "T46n1929_007:0745c18_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "歌羅邏時。",
+        "translation": "When he's in the kalala.",
+        "source": "T46n1929_007:0745c18_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知歌羅邏時。",
+        "translation": "He'll know when he's in kalala.",
+        "source": "T46n1929_007:0745c19_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七日赤白精血合。",
+        "translation": "For seven days, his red and white semen and blood are combined.",
+        "source": "T46n1929_007:0745c19_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "安浮陀時。",
+        "translation": "When he's arbuda, he knows.",
+        "source": "T46n1929_007:0745c19_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二七日如蠒狀。",
+        "translation": "For two or seven days, it's like a baby doll.",
+        "source": "T46n1929_007:0745c20_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "伽陀時。",
+        "translation": "When he's a gāthā, it's like curd.",
+        "source": "T46n1929_007:0745c20_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三七日如凝酪。",
+        "translation": "It's like curd for thirty-seven days.",
+        "source": "T46n1929_007:0745c20_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五胞時出生時。",
+        "translation": "When the five womb periods are born, he recollects them without losing them.",
+        "source": "T46n1929_007:0745c21_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆憶念不失。",
+        "translation": "They are all recollected without loss.",
+        "source": "T46n1929_007:0745c21_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名正慧入母胎。",
+        "translation": "This is called right wisdom entering a mother's womb.",
+        "source": "T46n1929_007:0745c21_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次餘人住中陰。",
+        "translation": "\"Furthermore, the rest of us abide in the intermediate aggregate.",
+        "source": "T46n1929_007:0745c22_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入母胎欲受生時。",
+        "translation": "When they enter their mother's womb and want to be born, they give rise to mistaken thoughts about their parents.",
+        "source": "T46n1929_007:0745c22_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於父母生顛倒心。",
+        "translation": "They give rise to a mistaken mind when they're with their parents.",
+        "source": "T46n1929_007:0745c23_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生不淨心。",
+        "translation": "They give rise to an impure mind.",
+        "source": "T46n1929_007:0745c23_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩不爾。",
+        "translation": "That's not the case for bodhisattvas.",
+        "source": "T46n1929_007:0745c23_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正慧明識父母相續入胎。",
+        "translation": "Correct wisdom clearly identifies the continuity of the parents' entry into the womb.",
+        "source": "T46n1929_007:0745c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名正慧也。",
+        "translation": "This is called right wisdom.",
+        "source": "T46n1929_007:0745c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三明出胎相者。",
+        "translation": "The third insight is about the aspect of emerging from the womb.",
+        "source": "T46n1929_007:0745c24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩滿足十月。",
+        "translation": "This is the bodhisattva's fulfillment of the tenth month.",
+        "source": "T46n1929_007:0745c25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正慧不失念。",
+        "translation": "He doesn't lose mindfulness of right wisdom.",
+        "source": "T46n1929_007:0745c25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從右腋而出胎生墮於地。",
+        "translation": "From his right armpit, he emerges from the womb and falls to the ground.",
+        "source": "T46n1929_007:0745c25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即行七步。",
+        "translation": "He immediately takes seven steps.",
+        "source": "T46n1929_007:0745c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "口自發言。",
+        "translation": "He speaks to himself.",
+        "source": "T46n1929_007:0745c26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天上天下唯我為尊。",
+        "translation": "'I alone am the honored one in heaven and on earth.'",
+        "source": "T46n1929_007:0745c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當初生時。",
+        "translation": "When I was first born, there were thirty-two auspicious events in the country.",
+        "source": "T46n1929_007:0745c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "國中即有三十二瑞事在。",
+        "translation": "There were thirty-two auspicious events immediately present in the kingdom.",
+        "source": "T46n1929_007:0745c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "瑞應經具明。",
+        "translation": "The Ruiying jing is fully explained in the sutra.",
+        "source": "T46n1929_007:0745c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至將示相師阿姨相太子。",
+        "translation": "Even the prince who will be shown the marks of an aunt, the lion of marks.",
+        "source": "T46n1929_007:0745c28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身具三十二相八十種好。",
+        "translation": "His body has thirty-two marks and eighty beauties.'",
+        "source": "T46n1929_007:0745c29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即便悲淚。",
+        "translation": "He was overcome with sorrow and tears.",
+        "source": "T46n1929_007:0745c29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王恐不祥。",
+        "translation": "The king was afraid it was ominous.",
+        "source": "T46n1929_007:0746a01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問阿姨曰。",
+        "translation": "He asked his aunt.",
+        "source": "T46n1929_007:0746a01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我子不祥故悲淚也。",
+        "translation": "\"My son is unlucky, so he's sad and tearful.",
+        "source": "T46n1929_007:0746a01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仙人答曰。",
+        "translation": "The sage replied.",
+        "source": "T46n1929_007:0746a02_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吉無不祥。",
+        "translation": "\"It's good and not unlucky.",
+        "source": "T46n1929_007:0746a02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "太子相好分明。",
+        "translation": "The prince's features are clearly defined.",
+        "source": "T46n1929_007:0746a02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其若在家當作轉輪聖王。",
+        "translation": "If he were at home, he'd be a wheel-turning sage king.",
+        "source": "T46n1929_007:0746a03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飛行皇帝王四天下。",
+        "translation": "He'd be a flying emperor who would rule the four worlds.",
+        "source": "T46n1929_007:0746a03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十善化世。",
+        "translation": "He'll convert the world to the ten good qualities.",
+        "source": "T46n1929_007:0746a04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其若出家。",
+        "translation": "If he leaves home, he'll become a natural Buddha and liberate ten thousand families.",
+        "source": "T46n1929_007:0746a04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必成自然之佛度脫萬姓。",
+        "translation": "He'll surely become a natural Buddha and liberate ten thousand families.",
+        "source": "T46n1929_007:0746a04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但太子相好分明。",
+        "translation": "But the prince's features are distinct.",
+        "source": "T46n1929_007:0746a05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必不在家作轉輪王。",
+        "translation": "He certainly won't stay home and become a wheel-turning king.",
+        "source": "T46n1929_007:0746a05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若其出家。",
+        "translation": "If he leaves home, he'll surely attain enlightenment and liberate gods and humans.",
+        "source": "T46n1929_007:0746a06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必得菩提度脫天人。",
+        "translation": "He will surely attain enlightenment and liberate gods and humans.",
+        "source": "T46n1929_007:0746a06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傷吾年老不覩佛興。",
+        "translation": "I'm sorry that I'm too old to see the Buddha arise.",
+        "source": "T46n1929_007:0746a06_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故悲淚耳。",
+        "translation": "That's why I grieve and weep.",
+        "source": "T46n1929_007:0746a07_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以用三十二相八十種好。",
+        "translation": "That's why I adorned my body with the thirty-two marks and eighty features.",
+        "source": "T46n1929_007:0746a07_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莊嚴其身故。",
+        "translation": "That's why he adorns his body.",
+        "source": "T46n1929_007:0746a08_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲為得三菩提之器也。",
+        "translation": "He wants to be a vessel for attaining the three bodhisattvas.''",
+        "source": "T46n1929_007:0746a08_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "He asked.",
+        "source": "T46n1929_007:0746a09_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故現相三十二好有八十。",
+        "translation": "\"Why are there eighty of the thirty-two major and minor features in the Buddha's body?",
+        "source": "T46n1929_007:0746a09_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer is.",
+        "source": "T46n1929_007:0746a09_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成佛莊嚴法如此故。",
+        "translation": "It's because the adorned Dharma of becoming a buddha is like this.",
+        "source": "T46n1929_007:0746a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明出家者。",
+        "translation": "Fourth, he explained that he had left home.",
+        "source": "T46n1929_007:0746a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時菩薩年漸長大。",
+        "translation": "It was then that the bodhisattva grew older.",
+        "source": "T46n1929_007:0746a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出四城門見老病死苦。",
+        "translation": "When he left the gate of the four cities, he saw the suffering of old age, illness, and death.",
+        "source": "T46n1929_007:0746a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "厭怖心生。",
+        "translation": "Disillusionment and fear arose.",
+        "source": "T46n1929_007:0746a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夜半踰城出家六年苦行。",
+        "translation": "In the middle of the night, he crossed the city and left home for six years of ascetic practices.",
+        "source": "T46n1929_007:0746a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "食難陀婆羅門石蜜乳糜益身十六功德。",
+        "translation": "Eating Nandopamāṇḍa's rock honey and milk concoction benefited his body by 16 virtues.",
+        "source": "T46n1929_007:0746a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五明降魔相者。",
+        "translation": "The fifth one shows the way to subdue Māra.",
+        "source": "T46n1929_007:0746a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於菩提樹下。",
+        "translation": "That's under the bodhi tree.",
+        "source": "T46n1929_007:0746a13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "破萬八千億鬼兵魔眾。",
+        "translation": "He defeated a hundred thousand, eight hundred billion demon soldiers and Māra hordes.",
+        "source": "T46n1929_007:0746a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "魔王敗勣鬼兵退散。",
+        "translation": "The demon king defeated them, and the demon army retreated.",
+        "source": "T46n1929_007:0746a14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六成道相者。",
+        "translation": "The sixth characteristic of accomplishing the path.",
+        "source": "T46n1929_007:0746a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "魔眾散已攝心端坐。",
+        "translation": "After the demons are scattered, he collects his mind and sits calmly.",
+        "source": "T46n1929_007:0746a15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於第四禪住中忍。",
+        "translation": "He abides in the fourth dhyāna with intermediate tolerance.",
+        "source": "T46n1929_007:0746a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修觀成中忍一剎那。",
+        "translation": "He cultivates the observation that he's accomplished the middle level of forbearance for a moment.",
+        "source": "T46n1929_007:0746a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上忍一剎那。",
+        "translation": "He attains superior forbearance for one moment.",
+        "source": "T46n1929_007:0746a16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世第一法一剎那。",
+        "translation": "The highest worldly truth is attained in one moment.",
+        "source": "T46n1929_007:0746a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "發真無漏。",
+        "translation": "He arouses true uncontaminatedness.",
+        "source": "T46n1929_007:0746a17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三十四心得阿耨多羅三藐三菩提。",
+        "translation": "These 34 states of mind attain supreme, perfect enlightenment.",
+        "source": "T46n1929_007:0746a17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三十四心者。",
+        "translation": "The thirty-four states of mind are.",
+        "source": "T46n1929_007:0746a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八忍八智九無礙九解脫也。",
+        "translation": "They are the eight tolerances, eight cognitions, nine unhindered forms of mindfulness, and nine liberations.",
+        "source": "T46n1929_007:0746a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具足佛十力四無所畏十八不共法三達無礙三意止大悲四無礙智一切諸法總想別想悉知。",
+        "translation": "They possess the Buddha's ten powers, four fearlessnesses, eighteen distinctive qualities, three penetrations, three intentions, great compassion, and four unhindered abilities to fully understand all things in their totality and separately conceived.",
+        "source": "T46n1929_007:0746a19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名為佛。",
+        "translation": "That's why they're called buddhas.",
+        "source": "T46n1929_007:0746a21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第九解脫具足一切種智並在未來。",
+        "translation": "The ninth [aspect of] liberation is the full possession of all kinds of cognition and lies in the future.",
+        "source": "T46n1929_007:0746a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名小乘佛。",
+        "translation": "Therefore, he's called a lesser vehicle Buddha.",
+        "source": "T46n1929_007:0746a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七明轉法輪相者。",
+        "translation": "Seventh, he explains the aspect of turning the wheel of the Dharma.",
+        "source": "T46n1929_007:0746a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於鹿野苑中為拘隣等五人。",
+        "translation": "In the Deer Preserve, he spoke to five people, including Kauṇḍinya.",
+        "source": "T46n1929_007:0746a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三轉生滅四諦法輪。",
+        "translation": "They turned the Dharma wheel of the four truths of birth and cessation three times.",
+        "source": "T46n1929_007:0746a24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天人得道。",
+        "translation": "The gods and humans attained the way.",
+        "source": "T46n1929_007:0746a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此為證三寶於是現世間。",
+        "translation": "This is to realize that the Three Treasures are here in the present world.",
+        "source": "T46n1929_007:0746a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次說十二因緣法輪。",
+        "translation": "Next, he teaches about the Dharma wheel of twelve causes and conditions.",
+        "source": "T46n1929_007:0746a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次為菩薩說六波羅蜜法輪。",
+        "translation": "Next, he teaches the bodhisattvas the dharma-wheel of the six perfections.",
+        "source": "T46n1929_007:0746a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則開三乘之教。",
+        "translation": "This then opens the teaching of the three vehicles.",
+        "source": "T46n1929_007:0746a26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名修多羅藏。",
+        "translation": "It's called the sūtra collection.",
+        "source": "T46n1929_007:0746a27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二年後。",
+        "translation": "Twelve years later.",
+        "source": "T46n1929_007:0746a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛在毘舍離國。",
+        "translation": "The Buddha was in Vaiśālī.",
+        "source": "T46n1929_007:0746a27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為須隣那迦陀長者子作婬欲。",
+        "translation": "He engaged in sexual misconduct for the elder son of Sutriṣṇakāda.",
+        "source": "T46n1929_007:0746a28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣結初大罪。",
+        "translation": "This was the cause and condition that created the first major offense.",
+        "source": "T46n1929_007:0746a28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二百五十戒。",
+        "translation": "Two hundred and fifty precepts.",
+        "source": "T46n1929_007:0746a29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次佛在舍婆提城。",
+        "translation": "Next, the Buddha was in the city of Śrāvastī.",
+        "source": "T46n1929_007:0746a29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "告諸比丘。",
+        "translation": "He told the monks.",
+        "source": "T46n1929_007:0746a29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有五怖五罪五怨。",
+        "translation": "\"There are five fears, five sins, and five enemies.",
+        "source": "T46n1929_007:0746b01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不除不滅。",
+        "translation": "They can't be removed or extinguished unless they are removed.",
+        "source": "T46n1929_007:0746b01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是因緣故。",
+        "translation": "This is the cause and condition.",
+        "source": "T46n1929_007:0746b01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此世未來受無量苦。",
+        "translation": "In this world, they'll experience measureless suffering in the future.'",
+        "source": "T46n1929_007:0746b02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名佛自說毘曇教。",
+        "translation": "This is called the Buddha's own explanation of the teaching of the vedas.",
+        "source": "T46n1929_007:0746b02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此轉三藏法輪。",
+        "translation": "From here, he turns the tripiṭaka wheel of the Dharma.",
+        "source": "T46n1929_007:0746b03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至涅槃。",
+        "translation": "...to nirvāṇa.",
+        "source": "T46n1929_007:0746b03_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教三乘弟子。",
+        "translation": "He teaches the disciples of the three vehicles.",
+        "source": "T46n1929_007:0746b03_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名轉法輪相。",
+        "translation": "This is called the phase of turning the wheel of the Dharma.",
+        "source": "T46n1929_007:0746b04_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八明入涅槃相者。",
+        "translation": "The eighth clarification is the phase of entering nirvāṇa.",
+        "source": "T46n1929_007:0746b04_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於拘尸那城沙羅雙樹間。",
+        "translation": "He was standing between the twin śāla trees in Kuśinagara.",
+        "source": "T46n1929_007:0746b04_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "逆順出入超越三昧。",
+        "translation": "He goes in and out of transcendent samādhi adversely and smoothly.",
+        "source": "T46n1929_007:0746b05_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於第四禪中。",
+        "translation": "In the fourth dhyāna, he enters the firelight concentration.",
+        "source": "T46n1929_007:0746b05_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入火光三昧。",
+        "translation": "He enters the firelight samādhi.",
+        "source": "T46n1929_007:0746b06_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燒身滅度唯留舍利。",
+        "translation": "He burns up his body and extinguishes it, leaving only the relics behind.",
+        "source": "T46n1929_007:0746b06_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為人天福田。",
+        "translation": "It's a field of merit for humans and gods.",
+        "source": "T46n1929_007:0746b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身智俱滅入無餘涅槃。",
+        "translation": "Both body and wisdom cease, and he enters nirvāṇa without remainder.",
+        "source": "T46n1929_007:0746b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為聲聞經中說大乘之位。",
+        "translation": "This is the stage of the great vehicle as described in the śrāvaka sūtras.",
+        "source": "T46n1929_007:0746b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次第三明料簡者。",
+        "translation": "The third one next is called 'Profile.'",
+        "source": "T46n1929_007:0746b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0746b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞經中開三乘。",
+        "translation": "\"In the śrāvaka sūtras, the three vehicles are explained.",
+        "source": "T46n1929_007:0746b09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故二乘即生斷結。",
+        "translation": "Why is it that the second vehicle immediately gives rise to the elimination of the fetters?",
+        "source": "T46n1929_007:0746b09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩從初發心。",
+        "translation": "From the first arousal of a bodhisattva's mind.",
+        "source": "T46n1929_007:0746b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至至降魔都不斷結。",
+        "translation": "... until they subdue Māra without breaking the fetters?",
+        "source": "T46n1929_007:0746b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "Answer.",
+        "source": "T46n1929_007:0746b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞緣覺。",
+        "translation": "śrāvakas and pratyekbuddhas.",
+        "source": "T46n1929_007:0746b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "厭患生死自求涅槃。",
+        "translation": "They're disillusioned with saṃsāra and seek nirvāṇa for themselves.",
+        "source": "T46n1929_007:0746b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不為利物。",
+        "translation": "They don't seek gain for material things.",
+        "source": "T46n1929_007:0746b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故貪取真斷結。",
+        "translation": "Therefore, the fetters of craving and grasping are truly ended.",
+        "source": "T46n1929_007:0746b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "結盡則不受生入涅槃也。",
+        "translation": "When these bonds are ended, they won't be subject to birth and will enter nirvāṇa.",
+        "source": "T46n1929_007:0746b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩大慈怜愍欲度一切。",
+        "translation": "The bodhisattva has great compassion and pity and wants to save all people.",
+        "source": "T46n1929_007:0746b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受生死苦教化眾生。",
+        "translation": "They suffer the suffering of birth-and-death and teach sentient beings.",
+        "source": "T46n1929_007:0746b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾生出世善根淳熟。",
+        "translation": "When sentient beings emerge from the world, their good roots are well matured.",
+        "source": "T46n1929_007:0746b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即便成道。",
+        "translation": "They then quickly become the way.",
+        "source": "T46n1929_007:0746b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說三乘教。",
+        "translation": "He teaches the teachings of the three vehicles.",
+        "source": "T46n1929_007:0746b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共三乘人同入涅槃。",
+        "translation": "Together with the people of the three vehicles, they'll enter nirvāṇa together.",
+        "source": "T46n1929_007:0746b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若因中斷結。",
+        "translation": "If a cause interrupts the bond ...",
+        "source": "T46n1929_007:0746b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即不得受生。",
+        "translation": "They wouldn't be able to take birth.",
+        "source": "T46n1929_007:0746b15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈能利物。",
+        "translation": "How could he benefit things?",
+        "source": "T46n1929_007:0746b16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故忍受生死不斷結使。",
+        "translation": "Therefore, enduring birth-and-death is a constant bond.",
+        "source": "T46n1929_007:0746b16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三阿僧祇處在生死。",
+        "translation": "He'll spend three incalculable years in birth-and-death.",
+        "source": "T46n1929_007:0746b16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "教化眾生。",
+        "translation": "They teach sentient beings.",
+        "source": "T46n1929_007:0746b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共出三界故不斷結使。",
+        "translation": "They all escape the three realms together, so they don't stop binding themselves to it.",
+        "source": "T46n1929_007:0746b17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意在於此。",
+        "translation": "Herein lies the meaning.",
+        "source": "T46n1929_007:0746b18_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0746b18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩斷結誓願神通應化利物。",
+        "translation": "\"A bodhisattva ends the bonds and vows to have the supernormal power to transform and benefit things.",
+        "source": "T46n1929_007:0746b18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何必須留結而受生耶。",
+        "translation": "Why is it necessary to stay in the bonds and be subject to birth?'",
+        "source": "T46n1929_007:0746b19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "Answer.",
+        "source": "T46n1929_007:0746b19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷結誓願神通應化受生。",
+        "translation": "The vow to sever the bonds and the supernormal power to transform and accept birth.",
+        "source": "T46n1929_007:0746b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此乃是摩訶衍之所說。",
+        "translation": "This is what the Mahāyāna teaches.",
+        "source": "T46n1929_007:0746b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非三藏之所明。",
+        "translation": "It's not explained by the Tripiṭaka.",
+        "source": "T46n1929_007:0746b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T46n1929_007:0746b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷結誓願受生。",
+        "translation": "It's a vow to sever the bonds and receive birth.",
+        "source": "T46n1929_007:0746b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "通教之所說。",
+        "translation": "It's explained by the Shared Teaching.",
+        "source": "T46n1929_007:0746b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法性身神通受生。",
+        "translation": "'The Dharma-nature body and supernormal abilities are born.'",
+        "source": "T46n1929_007:0746b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別教之所說。",
+        "translation": "It's explained in the separate teachings.",
+        "source": "T46n1929_007:0746b22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法身應生。",
+        "translation": "'The Dharma body should be reborn.'",
+        "source": "T46n1929_007:0746b23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "圓教所說。",
+        "translation": "It's explained in the perfect teaching.",
+        "source": "T46n1929_007:0746b23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0746b23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲聞經教為何意不得論斷結受生。",
+        "translation": "\"What is the purpose of the śrāvaka sūtras and teachings that don't allow for the discussion of cutting off the bonds and receiving birth?",
+        "source": "T46n1929_007:0746b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer was.",
+        "source": "T46n1929_007:0746b24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏之教。",
+        "translation": "The teaching of the Tripiṭaka.",
+        "source": "T46n1929_007:0746b24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正化小乘傍化菩薩。",
+        "translation": "It's correctly teaching the lesser vehicle and teaching the bodhisattva at the same time.",
+        "source": "T46n1929_007:0746b25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若說菩薩結盡受生。",
+        "translation": "If it says that bodhisattvas end the bonds and are subject to birth, then the two vehicles will doubt it.",
+        "source": "T46n1929_007:0746b25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二乘即疑。",
+        "translation": "The two vehicles would doubt it.",
+        "source": "T46n1929_007:0746b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若結盡而得受生者。",
+        "translation": "If they end the bonds and then attain birth, then the śrāvakas will attain the fruit of the arhat.",
+        "source": "T46n1929_007:0746b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸聲聞人得羅漢果。",
+        "translation": "Wouldn't śrāvakas attain the fruit of the arhat?",
+        "source": "T46n1929_007:0746b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "將不更受生耶。",
+        "translation": "Won't they be subject to birth again?",
+        "source": "T46n1929_007:0746b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不說菩薩斷結受生。",
+        "translation": "That's why it's not said that bodhisattvas end the bonds and receive birth.",
+        "source": "T46n1929_007:0746b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0746b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為二乘生疑。",
+        "translation": "\"If there's doubt about the two vehicles, then we won't say that the bodhisattvas cut off the bonds and receive birth.",
+        "source": "T46n1929_007:0746b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不說菩薩斷結受生者。",
+        "translation": "They don't say that bodhisattvas cut off the bonds and are reborn.",
+        "source": "T46n1929_007:0746b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大乘方等摩訶般若通教三乘。",
+        "translation": "The great vehicle, vaipulya, Mahāprajñāpāramitā, and the three vehicles of the Shared Teaching.",
+        "source": "T46n1929_007:0746b29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦應不得說菩薩斷結。",
+        "translation": "They also shouldn't say that the bodhisattva severed the bonds and received birth with the vow's supernormal powers.",
+        "source": "T46n1929_007:0746b29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "用誓願神通受生。",
+        "translation": "They use their vows and superknowledge to be reborn.",
+        "source": "T46n1929_007:0746c01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "They replied.",
+        "source": "T46n1929_007:0746c01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是生蘇熟蘇之教。",
+        "translation": "\"This is the teaching of birth, sufficiency, and maturation.",
+        "source": "T46n1929_007:0746c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二乘漸淳熟信解分明。",
+        "translation": "The two vehicles are gradually and thoroughly matured, and their faith and understanding are well-defined.",
+        "source": "T46n1929_007:0746c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聞菩薩事心不疑惑。",
+        "translation": "When they hear about the bodhisattva's works, their minds aren't in doubt.",
+        "source": "T46n1929_007:0746c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故法華經云。",
+        "translation": "That's why the Lotus Sutra says.",
+        "source": "T46n1929_007:0746c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "過是已後心相體信。",
+        "translation": "'After this, the mind's characteristics become substantial and faithful.'",
+        "source": "T46n1929_007:0746c03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入出無難。",
+        "translation": "There's no difficulty in entering or leaving.",
+        "source": "T46n1929_007:0746c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然其所止故在本處。",
+        "translation": "Still, where he stops, he's at the origin.",
+        "source": "T46n1929_007:0746c04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0746c05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所明聲聞經菩薩義。",
+        "translation": "\"What's the meaning of the śrāvaka sūtras for bodhisattvas?",
+        "source": "T46n1929_007:0746c05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為是佛說。",
+        "translation": "Is it taught by the Buddha?",
+        "source": "T46n1929_007:0746c05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為佛去世諸聲聞弟子說耶。",
+        "translation": "Is it for the disciples of śrāvakas who have heard it since the Buddha's death?",
+        "source": "T46n1929_007:0746c05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer was.",
+        "source": "T46n1929_007:0746c06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有是佛說。",
+        "translation": "It's been taught by the Buddha.",
+        "source": "T46n1929_007:0746c06_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有是諸羅漢作鞞婆沙阿毘曇中說。",
+        "translation": "There are also arhats who teach it in the Vaibhāṣika Abhidharma.",
+        "source": "T46n1929_007:0746c06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0746c07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何者是佛所說。",
+        "translation": "\"Which one was taught by the Buddha?",
+        "source": "T46n1929_007:0746c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何者是羅漢所說耶。",
+        "translation": "Which one is taught by a arhat?",
+        "source": "T46n1929_007:0746c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "Answer.",
+        "source": "T46n1929_007:0746c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說菩薩從初發心乃至不斷結使。",
+        "translation": "As it's said, a bodhisattva starts with the initial arousal of the intention and doesn't stop with the fetters.",
+        "source": "T46n1929_007:0746c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "坐道場時正習俱斷。",
+        "translation": "When they sit on the site of enlightenment, the correct habits are all cut off.",
+        "source": "T46n1929_007:0746c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是佛說。",
+        "translation": "This is what the Buddha said.",
+        "source": "T46n1929_007:0746c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以得知。",
+        "translation": "How can we know that?'",
+        "source": "T46n1929_007:0746c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "龍樹論主答數人言。",
+        "translation": "The author of the Nāgârjuna Abhidharma Treatise answered a few people, \"If a late-bodied bodhisattva doesn't break the bonds, then...",
+        "source": "T46n1929_007:0746c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若後身菩薩不斷結者。",
+        "translation": "\"If a later-born bodhisattva doesn't break the bonds, then...",
+        "source": "T46n1929_007:0746c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是佛方便所說也。",
+        "translation": "That's what the Buddha said in his teaching.",
+        "source": "T46n1929_007:0746c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有是諸羅漢佛去世後之所說者。",
+        "translation": "There are also those who say this after the arhats' buddhas have passed away.",
+        "source": "T46n1929_007:0746c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如言初阿僧祇不自知作佛。",
+        "translation": "As he said, 'The first incalculable period doesn't reveal itself to be a buddha.'",
+        "source": "T46n1929_007:0746c13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二阿僧祇自知作佛。",
+        "translation": "In the second incalculable time, he knew he was becoming a buddha.",
+        "source": "T46n1929_007:0746c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而口不宣說三阿僧祇劫。",
+        "translation": "He doesn't proclaim it orally for three incalculable eons.",
+        "source": "T46n1929_007:0746c14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "了了自知作佛。",
+        "translation": "He fully knows he's become a buddha.",
+        "source": "T46n1929_007:0746c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦發言向他說。",
+        "translation": "He also speaks and explains it to others.",
+        "source": "T46n1929_007:0746c15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此義者非佛三藏中所說。",
+        "translation": "This meaning is not explained in the Buddha's three collections.",
+        "source": "T46n1929_007:0746c15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至是諸羅漢作毘婆沙釋菩薩義。",
+        "translation": "It's even the meaning of the explanation of the bodhisattva by the arhats who make it Vibhāṣā.",
+        "source": "T46n1929_007:0746c16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0746c17_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若佛自說三藏教明菩薩義。",
+        "translation": "\"Suppose the Buddha himself explained the meaning of bodhisattva in the Tripiṭaka teachings.",
+        "source": "T46n1929_007:0746c17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此則可信。",
+        "translation": "Then this is believable.",
+        "source": "T46n1929_007:0746c17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸羅漢所說。",
+        "translation": "If it's taught by arhats, then how is it believable?",
+        "source": "T46n1929_007:0746c18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何可信。",
+        "translation": "How is it credible?'",
+        "source": "T46n1929_007:0746c18_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "They replied.",
+        "source": "T46n1929_007:0746c18_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸羅漢既是聖人。",
+        "translation": "As arhats, they are sages.",
+        "source": "T46n1929_007:0746c18_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共採佛三藏教意。",
+        "translation": "They all collectively grasp the meaning of the Buddha's tripiṭaka teachings.",
+        "source": "T46n1929_007:0746c19_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明菩薩義何容全失。",
+        "translation": "How could all of their explanations of the bodhisattva's meaning be lost?'",
+        "source": "T46n1929_007:0746c19_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0746c20_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾智度論何意。",
+        "translation": "\"If that's the case, what's the point of the Wisdom and Progress Treatise?",
+        "source": "T46n1929_007:0746c20_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從始至終一一彈破。",
+        "translation": "From beginning to end, they all refute it.",
+        "source": "T46n1929_007:0746c20_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "He answered.",
+        "source": "T46n1929_007:0746c21_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "龍樹為欲申摩訶衍。",
+        "translation": "\"Nāgârjuna wanted to explain Mahāyāna.",
+        "source": "T46n1929_007:0746c21_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明菩薩所行之道。",
+        "translation": "He wanted to explain the path practiced by the bodhisattvas.",
+        "source": "T46n1929_007:0746c21_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以大破小皆可破也。",
+        "translation": "By refuting the great, they can refute the lesser.",
+        "source": "T46n1929_007:0746c22_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若就小乘明三藏宗徒。",
+        "translation": "If we look at the lesser vehicle, we'll see the Tripiṭaka School's adherents.",
+        "source": "T46n1929_007:0746c22_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "羅漢聖人之所撰集。",
+        "translation": "It's a collection compiled by the sages of the arhat.",
+        "source": "T46n1929_007:0746c23_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何容頓乖僻也。",
+        "translation": "How could it be possible to suddenly misconstrue it?",
+        "source": "T46n1929_007:0746c23_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸羅漢明聲聞經。",
+        "translation": "If the arhats explain the śrāvaka sūtras, then the meaning of the bodhisattva as explained will be misconstrued.",
+        "source": "T46n1929_007:0746c24_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所釋菩薩義遂併乖僻。",
+        "translation": "The meaning of the bodhisattva as explained is then combined with misconceptions.",
+        "source": "T46n1929_007:0746c24_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "末世凡人法師。",
+        "translation": "Ordinary Dharma masters of the latter age should not have misinterpreted it.",
+        "source": "T46n1929_007:0746c25_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何可謬有申釋。",
+        "translation": "How could they mistakenly have explained it?",
+        "source": "T46n1929_007:0746c25_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡情解釋小乘。",
+        "translation": "Ordinary people interpret the lesser vehicle.",
+        "source": "T46n1929_007:0746c25_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既不可長承用。",
+        "translation": "Since it can't be used for a long time.",
+        "source": "T46n1929_007:0746c26_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大乘深經。",
+        "translation": "The profound scriptures of the great vehicle ...",
+        "source": "T46n1929_007:0746c26_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈可出在妄情而論。",
+        "translation": "How could they be discussed outside of deluded discourses?",
+        "source": "T46n1929_007:0746c26_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故知雖非佛說。",
+        "translation": "Therefore, it's clear that even though it's not a teaching by the Buddha.",
+        "source": "T46n1929_007:0746c27_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若是羅漢作論亦須信受。",
+        "translation": "If it's a treatise created by a arhat, it must also be accepted with confidence.'",
+        "source": "T46n1929_007:0746c27_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四約三藏教位釋淨無垢稱義者。",
+        "translation": "The fourth explanation of the meaning of the pure and undefiled syllable is based on the level of the tripiṭaka teaching.",
+        "source": "T46n1929_007:0746c28_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正是中忍補處之位也。",
+        "translation": "This is precisely the stage of the middle level of forbearance and the supplementary position.",
+        "source": "T46n1929_007:0746c29_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六度之道即是淨義。",
+        "translation": "The path of the six perfections is the meaning of purity.",
+        "source": "T46n1929_007:0746c29_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T46n1929_007:0747a01_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三種藥中無三種病。",
+        "translation": "There are no three kinds of illness in three kinds of medicine.",
+        "source": "T46n1929_007:0747a01_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六度是道諦。",
+        "translation": "The six perfections are the truths of the path.",
+        "source": "T46n1929_007:0747a01_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是淨義。",
+        "translation": "They are the meaning of purity.",
+        "source": "T46n1929_007:0747a02_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故法華經云。",
+        "translation": "That's why the Lotus Sutra says.",
+        "source": "T46n1929_007:0747a02_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又見佛子修種種行。",
+        "translation": "\"Also, I see the Buddha-child cultivating various practices.",
+        "source": "T46n1929_007:0747a02_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "求無上惠為說淨道也。",
+        "translation": "They seek unsurpassed wisdom in order to explain the pure path.",
+        "source": "T46n1929_007:0747a03_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "維摩大士成就六度即是淨義。",
+        "translation": "The Vimalakīrti accomplishes the six perfections, which is the meaning of purity.",
+        "source": "T46n1929_007:0747a03_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無六弊垢故言無垢。",
+        "translation": "Because he doesn't have the six corrupt defilements, he's called undefiled.",
+        "source": "T46n1929_007:0747a04_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以相似解。",
+        "translation": "He understands them similarly.",
+        "source": "T46n1929_007:0747a04_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內稱生滅四諦之理。",
+        "translation": "He internally refers to the principle of the four truths of arising and ceasing.",
+        "source": "T46n1929_007:0747a05_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "外稱根緣。",
+        "translation": "Externally, he calls them faculties and perceptual objects.",
+        "source": "T46n1929_007:0747a05_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "助釋迦如來。",
+        "translation": "It helps the Śākyamuni Tathāgata.",
+        "source": "T46n1929_007:0747a05_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯三乘之教。",
+        "translation": "It reveals the teaching of the three vehicles.",
+        "source": "T46n1929_007:0747a06_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故云淨無垢稱也。",
+        "translation": "That's why it's called the pure and undefiled title.",
+        "source": "T46n1929_007:0747a06_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是以方便品。",
+        "translation": "This is called the chapter on skillful means.",
+        "source": "T46n1929_007:0747a06_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現疾為國王長者。",
+        "translation": "He's a quick-witted elder of a kingdom.",
+        "source": "T46n1929_007:0747a07_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說無常苦空無我不淨之法。",
+        "translation": "He teaches the teaching of impermanence, suffering, emptiness, selflessness, and impurity.",
+        "source": "T46n1929_007:0747a07_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "呵責諸人勸求佛果。",
+        "translation": "He rebukes people and encourages them to seek the Buddhahood.",
+        "source": "T46n1929_007:0747a08_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意在於此也。",
+        "translation": "That's what he means.",
+        "source": "T46n1929_007:0747a08_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "He asked.",
+        "source": "T46n1929_007:0747a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "維摩折挫聲聞彈呵菩薩。",
+        "translation": "\"Vimalakīrti is a śrāvaka who rebukes a bodhisattva.",
+        "source": "T46n1929_007:0747a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是不思議之行位。",
+        "translation": "This is the inconceivable stage of practice.",
+        "source": "T46n1929_007:0747a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何得用聲聞經所明菩薩之位挍量。",
+        "translation": "How can it be measured against the bodhisattva's level as explained in the śrāvaka sūtras?",
+        "source": "T46n1929_007:0747a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "The answer is.",
+        "source": "T46n1929_007:0747a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住不可思議解脫菩薩。",
+        "translation": "The bodhisattva abides in inconceivable liberation.",
+        "source": "T46n1929_007:0747a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能種種示現。",
+        "translation": "They can manifest in various ways.",
+        "source": "T46n1929_007:0747a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不能現聲聞經所明菩薩之像輔釋迦而弘化乎。",
+        "translation": "How can he not present the image of the bodhisattva specified in the śrāvaka sūtras to assist Śākyamuni and spread the teaching?",
+        "source": "T46n1929_007:0747a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問曰。",
+        "translation": "The question was.",
+        "source": "T46n1929_007:0747a13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故化國王長者而示三藏菩薩之形說法。",
+        "translation": "\"Why did the king of the transformation countries show the image of the bodhisattva Tripiṭaka and preach the Dharma?",
+        "source": "T46n1929_007:0747a13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "訶聲聞菩薩即現摩訶衍不思議之言教。",
+        "translation": "Did he, the śrāvaka bodhisattva, then manifest the teachings of Mahāyāna's inconceivable words?",
+        "source": "T46n1929_007:0747a14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "He answered.",
+        "source": "T46n1929_007:0747a15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡俗界內結業未除故。",
+        "translation": "It's because the karmic bonds within the ordinary worldly realm haven't been removed.",
+        "source": "T46n1929_007:0747a15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說生滅四諦。",
+        "translation": "He teaches the four truths of arising and ceasing.",
+        "source": "T46n1929_007:0747a15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此正是對治。",
+        "translation": "This is exactly the correct remedy.",
+        "source": "T46n1929_007:0747a16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "羅漢菩薩界內因疾已除。",
+        "translation": "The arhat bodhisattva has removed the causes and illnesses within the realm.",
+        "source": "T46n1929_007:0747a16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但迷不思議三諦之理。",
+        "translation": "But they're confused and don't deliberate on the principle of the three truths.",
+        "source": "T46n1929_007:0747a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說三種四諦。",
+        "translation": "That's why they speak of the three kinds of the four truths.",
+        "source": "T46n1929_007:0747a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以折聲聞。",
+        "translation": "This is to counteract the śrāvakas.",
+        "source": "T46n1929_007:0747a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說無作四實諦。",
+        "translation": "He teaches the four real truths of unconstructedness.",
+        "source": "T46n1929_007:0747a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "訶菩薩也。",
+        "translation": "He also reprimanded the bodhisattva.",
+        "source": "T46n1929_007:0747a18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四教義卷第七",
+        "translation": "The Doctrine of the Four Teachings, Volume 7",
+        "source": "T46n1929_007:0747a19_0",
+        "is_bad_quality": false
+    }
+]

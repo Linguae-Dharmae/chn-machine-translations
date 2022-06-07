@@ -1,0 +1,956 @@
+[
+    {
+        "source_sentence": "佛說大乘菩薩藏正法經卷第二",
+        "translation": "Foshuo dasheng pusa zangzang zhengfa jing, vol. 2",
+        "source": "T11n0316_023:0837b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十三",
+        "translation": "thirteen",
+        "source": "T11n0316_023:0837b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫",
+        "translation": "Tripiṭaka of the Western Paradise Translation Sutra, Chaosan Dashi",
+        "source": "T11n0316_023:0837b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "試光祿卿傳梵大師賜紫",
+        "translation": "Guangluqing zhuanfan dashi gongsi",
+        "source": "T11n0316_023:0837b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙門臣法護等奉　詔譯",
+        "translation": "Translated by imperial order by the monks, ministers, and others, Fahou",
+        "source": "T11n0316_023:0837b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持戒波羅蜜多品第七之六",
+        "translation": "The Seventh Sixth Chapter of the Perfection of Morality in Observing the Precepts",
+        "source": "T11n0316_023:0837b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T11n0316_023:0837b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼菩薩摩訶薩說是偈已，而更前詣最上眾佛般涅盤所，頭面禮竟涕淚交流，遶百千匝却住一面，復說伽陀曰：「『如來於諸有情中，　　善說最上真實法，　　我今發起真實心，　　願求無上菩提果。",
+        "translation": "After speaking this verse, that bodhisattva Mahāsattva went further up to the parinirvāṇa of the most excellent buddhas, paid homage with his head and face, exchanged tears, circled a hundred thousand times, and withdrew to one side, then said to the gods, \"Among sentient beings, the Tathāgata well explains the most excellent true teaching, and now I've arisen a true mind that wishes to pursue the unsurpassed fruit of enlightenment.",
+        "source": "T11n0316_023:0837b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　佛具大智真實身，　　今滅度已我不見，　　志發誓願等如來，　　當獲殊妙諸相好。",
+        "translation": "The Buddha has the true body of great wisdom, but now that he's ceased and I haven't seen him, I vow to wait for the Tathāgata and attain marvelous appearances.",
+        "source": "T11n0316_023:0837c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　我昔曾於俗舍中，　　於如來法不恭敬，　　現招劣弱深鈍根，　　致諸魔障來嬈惱。",
+        "translation": "Once, in a secular home, I didn't respect the Tathāgata's teaching, which now brings about weak, deep, dull faculties and causes demonic hindrances to disturb me.",
+        "source": "T11n0316_023:0837c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　今我未得聞正法，　　無量苦惱常逼迫，　　願得親覩調御師，　　發起宿植善根本。",
+        "translation": "Now, before I've heard the right teaching, I'm constantly being oppressed by measureless suffering and distress, so I wish I could meet a master who would tame me and give rise to the roots of goodness I've planted in the past.",
+        "source": "T11n0316_023:0837c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　我今發是誠實語，　　對諸八部天龍眾，　　證明我此真實心，　　願獲當來真實果。",
+        "translation": "Now, I will make these sincere statements to the eight groups of gods and dragons, testifying to my true mind and hoping to attain the true fruit of the future.",
+        "source": "T11n0316_023:0837c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　願我當承善根力，　　得見最上人中尊，　　聞正法已獲神通，　　如大龍故注甘雨。",
+        "translation": "May I then inherit the power of good roots, attain a vision of the most honored among men, and obtain supernormal powers after hearing the right teaching, like a great dragon pouring sweet rain.",
+        "source": "T11n0316_023:0837c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　願我不墮八難中，　　遠離一切諸欲染，　　於佛常生諦仰心，　　惡魔重障無能縛。",
+        "translation": "May I not fall into the eight difficulties, be free of all defilement by desire, and always have respect for the Buddha, so that the heavy obstacles of evil demons can't bind me.",
+        "source": "T11n0316_023:0837c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　願我常於諸佛所，　　親得聞持正法藏，　　潔白之業速圓成，　　無邊佛慧皆通達。",
+        "translation": "May I always find myself in the presence of the buddhas, personally hearing and upholding the store of the true Dharma, quickly perfecting pure activities, and comprehending the infinite Buddha-wisdom.",
+        "source": "T11n0316_023:0837c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　願我速獲真實語，　　以真實故得成佛，　　當坐菩提大道場，　　說真實法利含識。",
+        "translation": "May I quickly acquire the true speech, become a buddha because it's true, and sit at the site of the great enlightenment path, speaking the true teaching to benefit the contained consciousness.",
+        "source": "T11n0316_023:0837c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　願我早同最上眾，　　振神通力大千界，　　俱胝天眾圍遶時，　　獲利益者心歡喜。",
+        "translation": "May I sooner join the greatest multitude, rousing them with the power of my supernormal faculties across a great chiliocosm, and when they're surrounded by a multitude of corpuscular gods, those who receive their benefits will rejoice.",
+        "source": "T11n0316_023:0837c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　佛神通力難思議，　　住虛空中復難見，　　願以讚歎功德因，　　放淨光明照我等。",
+        "translation": "The Buddha's miraculous powers are unfathomable, and they're difficult to see while standing in space, so may I praise their merits and shine their pure light on us.",
+        "source": "T11n0316_023:0837c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　佛神通力無有量，　　慜念有情常顯現，　　以上妙法令我聞，　　億千萬偈歎無盡。』",
+        "translation": "The Buddha's supernormal powers are limitless, his mindfulness of sentient beings is always evident, and I've heard these wonderful commands, which are praised in a hundred million verses without end.'",
+        "source": "T11n0316_023:0837c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次菩薩摩訶薩心生歡喜轉復增進，說伽陀曰：「『若我往昔承記別，　　現生當得成佛道，　　一切有情隨我心，　　所修供養皆圓滿。",
+        "translation": "\"Furthermore, rejoicing and intensifying, the bodhisattva Mahāsattva said to Gadha, 'If I had been marked out in the past, I would attain the Buddha Way in this life, and all sentient beings would follow my heart, and the offerings they cultivate would be perfected.'",
+        "source": "T11n0316_023:0837c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　真淨境界不思議，　　求菩提者當趣入，　　眾生若發如是心，　　無量如來常再見。』",
+        "translation": "The truly pure realm is inconceivable, and those who seek enlightenment will enter it. If sentient beings arouse such a mind, the Tathāgata of Immeasurable Light will always be seen again.'",
+        "source": "T11n0316_023:0837c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, once again, Śāriputra!",
+        "source": "T11n0316_023:0838a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩薩摩訶薩昔曾於諸佛所深種善根親近供養，皆悉成辦無量根力。",
+        "translation": "\"This is a bodhisattva who once made profound plantings of good roots in the buddhas and made offerings to them, all of which accomplished measureless root power.",
+        "source": "T11n0316_023:0838a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此沒已得生天界，二十俱胝劫不墮惡趣，二十俱胝劫不耽五欲之樂。",
+        "translation": "After submersing them here, he was born in the heavenly realm, didn't fall into a bad destiny for 20 koṭīs, and didn't linger in the pleasures of the five desires for 20 koṭīs.",
+        "source": "T11n0316_023:0838a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復於往昔親近供養七千如來，於一一如來所廣大成辦諸供養事，為求無上正等正覺，於一切時常修梵行。",
+        "translation": "In the past, he made close offerings to 7,000 tathāgatas, accomplished extensive offerings to each of them, and cultivated the religious practice at all times in order to pursue unsurpassed correct enlightenment.",
+        "source": "T11n0316_023:0838a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是往昔善根力故，得成阿耨多羅三藐三菩提，號曰娑羅樹王如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊，十號具足出現於世。",
+        "translation": "Because of the power of those past good roots, he attained supreme perfect enlightenment and was called Śālavana Tathāgata, Worthy of Offerings, Perfectly Omniscient, Perfect in Knowledge, Well Gone, Understander of the World, Unsurpassed Person, Trainer, Teacher of Gods and People, Buddha, and World Honored, ten names in full, which appeared in the world.",
+        "source": "T11n0316_023:0838a08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼佛會中有諸聲聞皆來集會，復有二十俱胝比丘，與大阿羅漢四萬人俱，諸漏已盡無復煩惱，逮得己利盡諸有結，心得自在到於彼岸。",
+        "translation": "In that Buddha's assembly, śrāvakas all came together, and there were another 20,000 arhats and 40,000 monks who had ended the contaminants and had no more afflictions, had acquired their own benefits and ended the bonds of existence, and had attained the perfection of their minds.",
+        "source": "T11n0316_023:0838a11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0838a14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼娑羅樹王如來壽命二十俱胝歲，般涅盤後正法住世滿一萬歲，像法住世亦復如是。",
+        "translation": "That Tathāgata Śāla Tree King has a life span of 20 years, and after he attains parinirvāṇa, the true teaching remains in the world for 10,000 years, and so does the image teaching remain in the world.",
+        "source": "T11n0316_023:0838a14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "全身舍利流布世間，普遍供養廣作佛事。」",
+        "translation": "The relics of his entire body are scattered throughout the world, and he makes universal offerings to Buddha-work.\"",
+        "source": "T11n0316_023:0838a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊說伽陀曰：「我於二十俱胝劫，　　不曾墮於諸惡趣，　二十俱胝劫數中，　　亦不耽著於五欲。",
+        "translation": "It was then that the Bhagavān said to Gadha, \"For 20 kalpas, I haven't fallen into the bad destinies, nor have I been addicted to the five desires during those 20 kalpas.",
+        "source": "T11n0316_023:0838a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　七千如來當住世，　　於彼時中般涅盤，　修梵行故得成就，　　常與有情獲法欲。",
+        "translation": "Seven thousand tathāgatas will live in the world, parinirvāṇa in the interim, attain accomplishment by cultivating the religious practice, and always share the desire for the Dharma with sentient beings.",
+        "source": "T11n0316_023:0838a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　今我得成菩提道，　　故號娑羅王如來，　二十俱胝劫數中，　　安立有情菩提果。",
+        "translation": "Now, I've achieved the path to bodhi, so I'm called the Sālêndra King Tathāgata, and over the course of 20 kalpas, I've established the fruit of bodhi for sentient beings.",
+        "source": "T11n0316_023:0838a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　覺悟菩提最上因，　　饒益一切有情故，　二十俱胝歲數中，　　當為有情常說法。",
+        "translation": "Because I've realized the supreme cause of enlightenment and benefited all sentient beings, I will always teach sentient beings throughout the twenty incalculable years.",
+        "source": "T11n0316_023:0838a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　常與四十俱胝眾，　　同坐道場宣正法，　諸漏已盡悉無餘，　　獲得涅盤殊妙果。",
+        "translation": "He'll always sit with a congregation of forty calluses, sharing the same seat on the path and proclaiming the right teaching, having ended all the contaminants and left nothing behind, and attaining the marvelous fruit of nirvāṇa.",
+        "source": "T11n0316_023:0838a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　三世如來身舍利，　　我甞建塔六十千，　復立俱胝數寶幢，　　於萬年中伸供養。",
+        "translation": "I've built 60,000 stūpas of the Tathāgata's relics in the three times, and I've erected a jeweled banner with a myriad of corpuscles to extend offerings throughout 10,000 years.",
+        "source": "T11n0316_023:0838a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　正法住世一萬歲，　　諸有智者獲利益，　清淨妙音宣演時，　　普獲聞者心歡喜。",
+        "translation": "When the true teaching remains in the world for 10,000 years, it benefits all those who have wisdom, and when it's proclaimed in a pure and wonderful voice, it delights everyone who hears it.",
+        "source": "T11n0316_023:0838b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T11n0316_023:0838b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩圓滿清淨戒行，於一切有情而生對治，於父母所不生貪愛；於諸有情發起對治，於諸欲境不生耽著。",
+        "translation": "When the bodhisattva-mahāsattva fulfills the pure precepts, he produces counteracts for all sentient beings, doesn't crave his father's and mother's places, and arouses counteracts for all sentient beings, so he doesn't become attached to objects of desire.",
+        "source": "T11n0316_023:0838b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩，云何是欲法？",
+        "translation": "What, then, is the bodhisattva-mahāsattva's method of desire?",
+        "source": "T11n0316_023:0838b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何對治法？",
+        "translation": "What are the antidotes?",
+        "source": "T11n0316_023:0838b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲法者，謂眼觀色欲、耳聽聲欲、鼻嗅香欲、舌了味欲、身著觸欲，而生和合，於此和合而生耽著，是名欲法。",
+        "translation": "\"Desired qualities are those things that arise when the eye observes the desire for form, the ear hears the desire for sound, the nose smells the desire for fragrance, the tongue tastes the desire for taste, and the body tastes the desire for touch, and they combine, and in that combination, addiction arises, which is called a desired quality.",
+        "source": "T11n0316_023:0838b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既生耽著而被纏縛，於諸纏縛生決定想；此纏縛法畢竟虛假，由貪迷故深樂纏縛。",
+        "translation": "Since they become addicted and are bound, they give rise to the idea of certainty in those bonds; these bonds are ultimately false, and because they are deluded by desire, they deeply enjoy being bound.",
+        "source": "T11n0316_023:0838b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此纏縛法總有三種，謂淺、深、極深，諸有情等應當遠離此纏縛法。",
+        "translation": "There are three general types of these fetters, which are shallow, deep, and extremely deep, and all sentient beings should avoid these fetters.",
+        "source": "T11n0316_023:0838b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又色是纏縛，聲、香、味、觸皆是纏縛。",
+        "translation": "Furthermore, form is a binding affair, and sound, odor, taste, and touch are all binding affair.",
+        "source": "T11n0316_023:0838b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何色是纏縛？",
+        "translation": "What is the form that's in bondage?",
+        "source": "T11n0316_023:0838b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂成就身命色故，生於我想、補特伽羅想、壽者想、常想、不壞想、決定不變想、塵境物想、薩伽羅想、五蘊想，此等皆是色法纏縛。",
+        "translation": "The thoughts of self, pudgala, lifespan, permanence, indestructibility, certainty, immutability, objects in the dusty realm, sarjala, and the five aggregates that arise because of the accomplishment of form in body and life are all tethers to form as form.",
+        "source": "T11n0316_023:0838b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又色是纏縛，成就身命色法故，所謂世間諸有欲法，愛著身命妻孥眷屬，是名色法纏縛。",
+        "translation": "Furthermore, form is a binding fetter, and it's because of the accomplishment of the form dharmas of body and life that the worldly beings who desire things like body, life, wives, children, and retinues are called fetters of form.",
+        "source": "T11n0316_023:0838b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至觸欲皆是纏縛，諸有染緣而漸成就，諸不善業而皆積集，耽著諸欲不能暫捨。",
+        "translation": "Even touch and desire are all fetters, which gradually bring about defiled conditions, accumulate unwholesome actions, and become addicted to desires that can't be abandoned for a while.",
+        "source": "T11n0316_023:0838b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0838b21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何是欲無過失？",
+        "translation": "\"What is desire without error?",
+        "source": "T11n0316_023:0838b21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂潔白清淨欲無過失，然於惡趣不生愛著。",
+        "translation": "\"A pure and clean desire is without fault, but it doesn't give rise to attachment in a negative rebirth.",
+        "source": "T11n0316_023:0838b22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何於惡趣中不生愛著？",
+        "translation": "How does not becoming attached to desire in a negative rebirth occur?",
+        "source": "T11n0316_023:0838b23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂欲無過失。",
+        "translation": "\"Desire is faultless.",
+        "source": "T11n0316_023:0838b23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0838b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有情等於諸欲事而常親近，無有少分不曾暫捨，由此業報遍受苦果。",
+        "translation": "There's no part of the world that sentient beings always associate with in terms of desires and never let go of for a moment, and the result of that karma is the universal painful outcome.",
+        "source": "T11n0316_023:0838b24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0838b25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於千世界次第伺察遍觀察已，諸惡朋友無有一人可比於妻。",
+        "translation": "After examining and thoroughly observing each of the thousand worlds, there's no one bad friend who compares to his wife.",
+        "source": "T11n0316_023:0838b25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T11n0316_023:0838b27_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0838b27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切有情由愚癡故，諸有智者而常毀棄，是故當知顯現正法。",
+        "translation": "All sentient beings are always discarded by those who have knowledge because of their foolishness, so you should know that the right teaching is being presented.",
+        "source": "T11n0316_023:0838b27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸無智者而常攝受，是故當知顯現非法諸有為法。",
+        "translation": "Those without wisdom are always taking them in, so you should know that the unrighteous and artificial dharmas are being manifested.",
+        "source": "T11n0316_023:0838b29_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "男女妻妾互相耽著而生愛樂，邪道攝受男女妻妾數數愛取，障難出離、障難持戒、障難修定、障難生天、障難涅盤、障難一切潔白之法，又復攝受奴婢眷屬，以要言之，又或攝受惡友，為地獄、餓鬼、畜生之所攝受。",
+        "translation": "When men and women's wives and concubines are attached to each other and become desirous, the wrong path takes in men and women's wives and concubines and repeatedly desires them, which hinders emancipation, prevents upholding precepts, hinders cultivation of concentration, hinders birth in heaven, hinders nirvāṇa, and hinders all pure dharmas.",
+        "source": "T11n0316_023:0838c01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復攝受男女妻妾，即彼攝受一切雜染諸不善根。",
+        "translation": "They also take in men, women, wives, and concubines, which are to be taken in by all the defiled and unwholesome roots.",
+        "source": "T11n0316_023:0838c06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復攝受男女妻妾乃至飲食，盡其邊際而為障礙：欲見如來而為障礙、欲聞正法而為障礙、欲近聖眾而為障礙。",
+        "translation": "They also take in men, women, wives, and concubines, and even food and drink, which at their limit are an obstruction: an obstruction when they want to see the Tathāgata, an obstruction when they want to hear the right teaching, and an obstruction when they want to be near noble people.",
+        "source": "T11n0316_023:0838c07_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛之知見清淨潔白之法，一切聖眾，由障礙故皆不能見。",
+        "translation": "The Buddha's knowledge and vision are pure and white, and all the noble people are unable to see them because of the obstruction.",
+        "source": "T11n0316_023:0838c09_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於時分中欲求成就而為障礙，求七聖財而為障礙，於不正信法返生攝受，乃至破戒慳吝惡慧無慚無愧皆悉攝受，於非七聖財返生攝受。",
+        "translation": "During that time, their desire for attainment is an obstruction, their desire for the seven noble possessions is an obstruction, and they are led to accept incorrect belief in the Dharma, even when they violate precepts, are stingy, have bad wisdom, lack conscience and modesty, and are all led to accept what's not the seven noble possessions.",
+        "source": "T11n0316_023:0838c11_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復攝受男女妻妾，即彼攝受疾病瘡疣疼痛猛火毒蛇諸苦。",
+        "translation": "They also take in men, women, wives, and concubines, which means they take in illness, sores, warts, pain, and fierce fire, venom, and snakes, and other suffering.",
+        "source": "T11n0316_023:0838c14_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復攝受男女妻妾所住舍宅，猶如塚間，於其塚間發悲號聲，無諸親友乃生聽受，增長癡迷。",
+        "translation": "They also take in a man's or woman's wife or concubine's house, which is like a tomb, and in that tomb they give rise to a sad cry, which is heard by no friend or relative and which increases delusion.",
+        "source": "T11n0316_023:0838c15_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是虛幻法，於諸善法而為障礙。",
+        "translation": "These illusory qualities are an obstruction to good qualities.",
+        "source": "T11n0316_023:0838c17_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以要言之，舍利子！",
+        "translation": "To summarize, Śāriputra!",
+        "source": "T11n0316_023:0838c18_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "破戒之人諸有惡法，如世霜雹毀一切物，破壞善法亦復如是。",
+        "translation": "A person who breaks the precepts has bad qualities, like the frost and hail of the world that destroys everything, and so does it destroy good qualities.",
+        "source": "T11n0316_023:0838c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復耽著男女妻妾，如貪味人舐於利劍，食熱鐵團諸不淨物。",
+        "translation": "He's also addicted to men, women, wives, and concubines, like a person with a craving for taste who laps at a sharp sword and eats hot iron pellets and other impure things.",
+        "source": "T11n0316_023:0838c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又身垢穢，以貪著故用香花燈塗而自供養，如地獄中極大苦器而自嚴飾。",
+        "translation": "His body is also filthy, and he makes offerings to himself with scents, flowers, and lanterns because of his desire for them, like a man adorning a vessel of great suffering in hell.",
+        "source": "T11n0316_023:0838c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復於諸奴婢攝受驅使，又復攝受黑瘦惡人種種毀棄，又復攝受駝驢猪狗種種畜類，即是攝受一切苦惱。",
+        "translation": "Also, he takes in slaves and servants to drive them around, takes in black and lean people to disregard in various ways, and takes in camels, asses, pigs, and dogs as animals, which means he's taking in all kinds of suffering and distress.",
+        "source": "T11n0316_023:0838c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復攝受男女妻妾者，舍利子！",
+        "translation": "He also takes in men and women as wives and concubines, Śāriputra!",
+        "source": "T11n0316_023:0838c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "決定寧入千踰繕那極大猛焰熱鐵城中，不應攝受父母男女妻妾。",
+        "translation": "They decide that they'd rather enter a thousand yojanas in a very large, fiery, iron city than take in their parents, men, women, and wives.",
+        "source": "T11n0316_023:0838c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常起如是染愛之心即便墮落，何況領受諸觸境事。",
+        "translation": "Even if he always gives rise to such a mind of defiled love, he'll fall, so why wouldn't he accept things that come into contact with the environment?",
+        "source": "T11n0316_023:0838c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T11n0316_023:0838c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸苦所因，以貪染法為諸根本，損害善法根本、憂悲苦惱根本、繫縛善法根本、穢惡根本、生盲根本，而非慧眼潔白根本。",
+        "translation": "The causes of suffering are defiled dharmas as the root of craving, which undermine the root of good qualities, the root of grief and sorrow, the root of binding good qualities, the root of defilement, and the root of blindness, rather than the pure and white root of the eye of wisdom.",
+        "source": "T11n0316_023:0838c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如常履踐熱鐵地上，悉令是人墮落邪道。",
+        "translation": "As they always tread on hot iron, they all cause this person to fall into a wrong path.",
+        "source": "T11n0316_023:0839a03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以何因緣說名為妻？",
+        "translation": "What are the causes and conditions for calling this person a wife?",
+        "source": "T11n0316_023:0839a04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "妻所作為，如負重擔而能忍受，又甘領納任持重擔，長時不捨受諸苦惱，逼迫身心為其損害；如是因緣說名為妻。",
+        "translation": "A wife who behaves as if she were carrying a heavy load and is able to bear it, willingly accepts and carries that heavy load, doesn't let go of it for a long time, and experiences suffering and distress that constrict body and mind; such is the cause and condition that's called a wife.",
+        "source": "T11n0316_023:0839a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是有情，由起愛故返為奴僕，由耽著故不得自在，被諸打縛皆悉信伏，倍生欽仰隨諸走使；如是因緣說名為妻。",
+        "translation": "Such a sentient being who becomes a slave because of craving, isn't allowed to be free because of addiction, is completely convinced when bound by various restraints, and doubly admires those who go along with them; such a cause and condition is said to be a wife.",
+        "source": "T11n0316_023:0839a07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若具足說廣大無量。",
+        "translation": "If it's complete, it's said to be vast and immeasurable.",
+        "source": "T11n0316_023:0839a09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839a10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又重擔者，所謂五蘊——色、受、想、行、識——而此五蘊名大重擔，不能棄捨。",
+        "translation": "\"Also, this is called the five aggregates - form, feeling, perception, volition, and consciousness - and these five aggregates are called a great weight that can't be discarded.",
+        "source": "T11n0316_023:0839a10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "男女妻妾宿因緣故而為眷屬。",
+        "translation": "Men, women, wives, and concubines are bound to each other by causes and conditions from previous lives.",
+        "source": "T11n0316_023:0839a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此為破戒緣、壞正行緣、不正見緣、樂飲食緣、地獄餓鬼畜生緣，作勝慧障、閉涅盤門，以是因緣集一切苦，說此名為宿因眷屬。",
+        "translation": "These are the conditions for violating precepts, the conditions for destroying right practice, the conditions for incorrect views, the conditions for enjoying food and drink, the conditions for going to hell, hungry ghosts, and animals, which create obstacles to excellent wisdom and close the gate to nirvāṇa, and these are the causes and conditions that create all suffering, which are called the family of former causes.",
+        "source": "T11n0316_023:0839a12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「又舍利子！",
+        "translation": "\"Again, Śāriputra!",
+        "source": "T11n0316_023:0839a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "母之種族亦多過失。",
+        "translation": "\"There are also many faults with a mother's lineage.",
+        "source": "T11n0316_023:0839a16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說此種族無量無邊幻化等事，有人隨順則生過失。",
+        "translation": "When someone follows such things as the countless and limitless illusory transformations of these races, faults arise.",
+        "source": "T11n0316_023:0839a16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有魔事如在掌中，波旬眷屬及諸魔女種種幻惑多種過失，以輕掉心、侮戲心、顛狂心、猿猴心，善能顯現如是幻惑。",
+        "translation": "There are demonic things like having Māra in the palm of your hand, and Pāpīyān's retinue and the demonesses are capable of manifesting such illusory deceptions in a variety of ways, with disdain, disrespect, confusion, and monkey-like states of mind.",
+        "source": "T11n0316_023:0839a17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣故，說名為母之種族。",
+        "translation": "Because of this, they're called the mother's family.",
+        "source": "T11n0316_023:0839a20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839a21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又此幻惑亦名聚落，而建王城四衢道陌，人民世界廣大無量不可思議。",
+        "translation": "This illusory mental disturbance is also called a colony, and it's a city of kings with four streets and a world of people that's unfathomably vast.",
+        "source": "T11n0316_023:0839a21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣故，說名為幻惑聚落。",
+        "translation": "Because of this reason, it's called a colony of illusory afflictions.",
+        "source": "T11n0316_023:0839a22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839a23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是幻惑諸欲過失應墮惡趣。",
+        "translation": "Such illusory, confusing desires and faults should lead to a bad destiny.",
+        "source": "T11n0316_023:0839a23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839a24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如幻師作幻惑事，而於眾中備諸幻具，廣能顯現種種幻事，女人幻惑亦復如是。",
+        "translation": "Just as an illusionist creates illusory afflictions and prepares illusory implements among many people that can broadly manifest various illusory things, so too does a woman's illusory afflictions.",
+        "source": "T11n0316_023:0839a24_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839a26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間有情見彼女人而被纏縛，或時聞聲、或時手觸、或時歌舞起心愛著、或時和合起諸幻惑、或時啼泣，行住坐臥於一切處悉被纏縛，供給走使返為奴僕。",
+        "translation": "When sentient beings in the world see that woman and are bound, sometimes they hear sounds, sometimes they touch their hands, sometimes they sing and dance and become attached, sometimes they combine and become illusory and confused, and sometimes they weep, and they are bound in every place they walk, sit, and lay, making offerings and escaping, and then they're returned to servitude.",
+        "source": "T11n0316_023:0839a26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Mahāśāriputra!",
+        "source": "T11n0316_023:0839b01_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如世間成熟苗稼，遭大雨雹之所損壞。",
+        "translation": "It's like a ripe harvest in the world that's damaged by a great hailstorm.",
+        "source": "T11n0316_023:0839b01_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Vairocana!",
+        "source": "T11n0316_023:0839b02_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "母之種族亦復如是，而能損壞夫之種族，亦能損壞一切潔白之法。",
+        "translation": "\"So is a mother's lineage capable of damaging a husband's lineage and of damaging all pure dharmas.",
+        "source": "T11n0316_023:0839b02_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839b04_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸欲過失應墮惡趣，一切愚夫不能了知，而返攝受妻妾眷屬。",
+        "translation": "All foolish people don't understand the faults of their desires and should fall into a bad destiny, but they go back to taking in wives and concubines as their dependents.",
+        "source": "T11n0316_023:0839b04_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839b05_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此諸菩薩於諸欲過失無義利事，以方便力而能遠離。",
+        "translation": "These bodhisattvas are able to avoid desirable faults and useless situations with the power of skillful means.",
+        "source": "T11n0316_023:0839b05_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何一切愚夫異生，棄背正法返生愚癡非丈夫想？",
+        "translation": "How do all foolish people and sentient beings who abandon the right teaching return to deluded and inhuman conceptions?",
+        "source": "T11n0316_023:0839b07_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應於一切佛菩薩摩訶薩所作大丈夫想，應當棄捨非丈夫想，不應生諸瞋恚之想，於諸善趣作大丈夫起諸正行，不於惡趣作非丈夫起諸邪行，不於地獄、餓鬼、畜生起諸趣向，不於破戒起諸趣向，不樂於破戒眾中而暫安住，唯樂於最上最勝一切無上正法無障無礙佛慧而起趣向，而樂對治諸不善法起諸趣向：『願我當來作師子吼，不樂隨順諸不善法作異獸吼。",
+        "translation": "They should conceive of great men as buddhas, bodhisattvas, and mahāsattvas, discard conceptions of what's not a great man, refrain from conceiving of anger, undertake right actions as great men in good destinies, refrain from undertaking wrong actions as what's not a great man in bad destinies, refrain from undertaking destinies in hell, hungry ghosts, and animals, refrain from undertaking destinies that violate the precepts, and don't enjoy temporarily abiding among those who violate the precepts, but only enjoy undertaking destinies based on the highest and most excellent of all unsurpassed right teachings, unobstructed by the Buddha's wisdom, and enjoy undertaking destinies that counteract unskillful qualities: 'May I be a lion roaring in the future and not enjoy following unskillful qualities as a different animal roaring.",
+        "source": "T11n0316_023:0839b08_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願我當來如佛顯現金色之身，不作異生凡夫之身。",
+        "translation": "May I in the future appear as a buddha in a golden body and not as a worldling or worldling.",
+        "source": "T11n0316_023:0839b16_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常為世間導善之首。",
+        "translation": "I'll always be the world's leading light of goodness.",
+        "source": "T11n0316_023:0839b17_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於人中無諸險難，安然寢饍無所乏少，常得清淨諸妙飲食皆悉豐足，亦不厭捨世間麁糲飲食。",
+        "translation": "Among humans, there are no difficulties, no lack of food and drink, and always have an abundance of pure, wonderful food and drink, and I don't tire of giving up worldly, coarse food and drink.",
+        "source": "T11n0316_023:0839b18_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常願於寂靜處修習禪定，速得成就最上最勝妙三摩地，專注一境遠離動亂諸惑障染，常得遊戲諸佛定門，亦復遠離聲聞緣覺諸有定門，不樂依止一切愚夫異生諸有定門。",
+        "translation": "He always wishes to cultivate meditation in a tranquil place, quickly attain the supreme and most excellent marvelous absorption, concentrate on one object, avoid turbulent afflictions and hindrances, and always attain the play of the concentration aspect of the buddhas, also avoid the concentration aspect of the śrāvakas and pratyekbuddhas, and doesn't delight in the concentration aspect of all foolish unenlightened people and worldlings.",
+        "source": "T11n0316_023:0839b20_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不樂著色、受、想行、識五蘊而住，不樂依止地、水、火、風、空、識而住，不樂依止欲界、色界、無色界而住，亦不樂於此界他界而住。",
+        "translation": "They also don't enjoy abiding attached to the five aggregates of form, feeling, perception, volition, and consciousness, don't enjoy abiding based on earth, water, fire, wind, air, and consciousness, don't enjoy abiding based on the desire realm, the form realm, and the formless realm, and don't enjoy abiding in this realm or any other realm.",
+        "source": "T11n0316_023:0839b24_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖復於彼見聞覺知妙觸境界及所證得寂靜思惟，亦復不樂依止而住。",
+        "translation": "Even though he sees, hears, perceives, and knows the subtle tactile objects and the tranquil contemplation that he has attained, he doesn't enjoy standing in reliance on them.",
+        "source": "T11n0316_023:0839b27_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願常依止如實靜慮之者，雖樂修定於自他身常無損害。",
+        "translation": "Those who wish to always rely on true meditation will always cultivate concentration that's always harmless to themselves and others, even though they're happy to do so.",
+        "source": "T11n0316_023:0839b29_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願常圓滿佛之智慧，所有欲界諸有為事悉不願樂。』",
+        "translation": "May he always perfect the Buddha's wisdom and not wish to do all the things that are inherent in the desire realm.'",
+        "source": "T11n0316_023:0839c01_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Vairocana!",
+        "source": "T11n0316_023:0839c02_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩智者有四種出離法。",
+        "translation": "\"Bodhisattva Mahāsattva knowers have four ways to escape from the Dharma.",
+        "source": "T11n0316_023:0839c02_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為四？",
+        "translation": "What are the four?",
+        "source": "T11n0316_023:0839c03_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者出離欲界，二者出離一切有情界，三者出離知恩不報而不親近，四者出離一切苦行；應當發起此之四種出離之法。",
+        "translation": "One, seclusion from the desire realm, two, seclusion from all the realms of sentient beings, three, seclusion from knowing and not being close to kindnesses, and four, seclusion from all ascetic practices; these four kinds of seclusion should be developed.",
+        "source": "T11n0316_023:0839c03_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839c06_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩住惡趣中，見諸殊妙母之種族亦不發起貪愛之心，應當發起四種之想。",
+        "translation": "When a bodhisattva Mahāsattva lives in a negative rebirth and sees the various wonderful mother races, he doesn't become desirous of them; instead, he should give rise to four kinds of thoughts.",
+        "source": "T11n0316_023:0839c06_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為四？",
+        "translation": "What are the four?",
+        "source": "T11n0316_023:0839c08_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者損減想，二者險難想，三者便利不淨想，四者膿血穢污想。",
+        "translation": "One is the perception of decrease, two is the perception of difficulty, three is the perception of convenience and impurity, and four is the perception of defilement by pus and blood.",
+        "source": "T11n0316_023:0839c08_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_023:0839c10_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩住惡趣中，又應發起三種之想。",
+        "translation": "When a bodhisattva Mahāsattva lives in a negative rebirth, he should also give rise to three kinds of conceptions.",
+        "source": "T11n0316_023:0839c10_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為三？",
+        "translation": "What are the three?",
+        "source": "T11n0316_023:0839c11_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者如母想，二者如妹想，三者親女想；應當發起此三種想。",
+        "translation": "One should conceive of himself as a mother, two as a sister, and three as a daughter; these three kinds of conceptions should arise.",
+        "source": "T11n0316_023:0839c11_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是舍利子！",
+        "translation": "Thus, Śāriputra!",
+        "source": "T11n0316_023:0839c13_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩摩訶薩而常善說修習思惟，及諸經典悉應信受。",
+        "translation": "\"The bodhisattvas, mahāsattvas always explain it well, cultivate its contemplation, and all the sūtras should be accepted with confidence.",
+        "source": "T11n0316_023:0839c13_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我觀世間無有一人，於無量劫來非母能生、非父能育。",
+        "translation": "I've observed that there's no person in the world who, throughout the countless eons, could be born by someone other than his mother and nurtured by someone other than his father.",
+        "source": "T11n0316_023:0839c14_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至於一切有情循環養育，一切有情亦悉曾為我之父母，或於往昔曾名為母，至於今生返名為婦。",
+        "translation": "As for all sentient beings who are reborn and nurtured, all sentient beings were once my parents, or they were once called mothers in the past and are now called wives in this life.",
+        "source": "T11n0316_023:0839c15_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸行人應當修學，與諸愚夫異生，我當住於不相違行。",
+        "translation": "Those practitioners should train, and I will abide in a practice that's not contradictory to that of foolish unenlightened people.",
+        "source": "T11n0316_023:0839c18_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是行相隨順於此。",
+        "translation": "Such conduct is consistent with this.",
+        "source": "T11n0316_023:0839c19_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貪愛為心，內心專注作是思惟。",
+        "translation": "With craving as mind, he focuses his inner mind and thinks this.",
+        "source": "T11n0316_023:0839c19_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂貪愛之心，彼云何見生與未生？",
+        "translation": "'What's called the mind of craving, and how does it see what's produced and what's not yet produced?'",
+        "source": "T11n0316_023:0839c20_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若或貪愛眼中諸色，彼諸行人內心堅固。",
+        "translation": "\"If someone desires the colors in their eyes, those practitioners' minds are hardened inside.",
+        "source": "T11n0316_023:0839c21_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應當伺察於自眼中而生愛著。",
+        "translation": "They should examine their own eyes and become attached to them.",
+        "source": "T11n0316_023:0839c22_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何眼中而生見見？",
+        "translation": "How does seeing in the eye give rise to views?",
+        "source": "T11n0316_023:0839c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何自性而見自性？",
+        "translation": "How do we see the own-nature and see the own-nature?",
+        "source": "T11n0316_023:0839c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何自眼而見自眼？",
+        "translation": "How do you see your own eyes and see your own eyes?",
+        "source": "T11n0316_023:0839c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是自眼四大所成，仗眾緣故而非自性，既非自性而生愛著，愛著之心亦非自性。",
+        "translation": "Thus, the four elements formed by the own eye are not self-nature depending on various conditions, and since they aren't self-nature and give rise to attachment, the mind that's attached to them isn't self-nature either.",
+        "source": "T11n0316_023:0839c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T11n0316_023:0839c26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼性非有、此心亦無，由差別故而生愛著。",
+        "translation": "\"Their nature is not existent, and this mind is not existent, but attachment arises because of distinctions.",
+        "source": "T11n0316_023:0839c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸愚夫異生由不了故住無分別，我今樂住有分別中而生進求。",
+        "translation": "Foolish sentient beings abide without discrimination because they don't understand, but now I'm happy to abide in existence with discrimination and give rise to pursuits.",
+        "source": "T11n0316_023:0839c27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T11n0316_023:0839c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是色相非功德法，是欲思惟。」",
+        "translation": "Such forms and characteristics are not meritorious qualities; they're desires and contemplations.\"",
+        "source": "T11n0316_023:0839c29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊說伽陀曰：「互相和合為一義，　　此中無有義差別，　亦非內心堅固生，　　由貪愛故名積聚。",
+        "translation": "It was then that the Bhagavān spoke to Gadha, \"They are combined into a single meaning, and there's no distinction in meaning here, nor is it produced by the hardness of the internal mind that's called accumulation because of craving.",
+        "source": "T11n0316_023:0839c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　云何真實中真實，　　而於四大生愛著，　此法猶如於瓦木，　　是中不生愛樂心。",
+        "translation": "How can it be true that what's real is real, yet attachment arises from the four elements, which are like tiles and wood, and in which the mind's desire for pleasure doesn't arise?",
+        "source": "T11n0316_023:0840a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　由我執故生遍計，　　從不真實為積聚，　不真實中貪愛生，　　真實貪愛不可得。",
+        "translation": "Pervasive imagination arises from attachment to self, and it's accumulated from what's not real, from which craving arises that's not real, and from which true craving cannot be obtained.",
+        "source": "T11n0316_023:0840a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　設於十方遍尋求，　　真實貪性不可得，　於不真實計執已，　　貪愛心生還積聚。",
+        "translation": "Suppose they were to pervasively search in ten directions, and the nature of true desire were unobtainable, and after they conceptualize what's not true, their desire for it arises and accumulates.",
+        "source": "T11n0316_023:0840a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　彼若如是生伺察，　　循環於此遍推窮，　隨諸增勝推窮時，　　真實貪愛不可得。」",
+        "translation": "If they thus scrutinize it, they'll continue to push it all the way around, and when they push it all the way around with increasing intensity, true craving won't be obtained.\"",
+        "source": "T11n0316_023:0840a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說大乘菩薩藏正法經卷第二十三",
+        "translation": "Foshuo dasheng pusa zangzang zhengfa jing, vol. 23",
+        "source": "T11n0316_023:0840a11_0",
+        "is_bad_quality": false
+    }
+]

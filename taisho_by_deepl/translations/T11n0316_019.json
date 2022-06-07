@@ -1,0 +1,902 @@
+[
+    {
+        "source_sentence": "佛說大乘菩薩藏正法經卷第十",
+        "translation": "Foshuo dasheng pusa zangzang zhengfa jing, vol. 10",
+        "source": "T11n0316_019:0825c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九",
+        "translation": "nine",
+        "source": "T11n0316_019:0825c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫",
+        "translation": "Tripiṭaka of the Western Paradise Translation Sutra, Chaosan Dashi",
+        "source": "T11n0316_019:0825c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "試光祿卿傳梵大師賜紫",
+        "translation": "Guangluqing zhuanfan dashi gongsi",
+        "source": "T11n0316_019:0825c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙門臣法護等奉　詔譯",
+        "translation": "Translated by imperial order by the monks, ministers, and others, Fahou",
+        "source": "T11n0316_019:0825c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持戒波羅蜜多品第七之二",
+        "translation": "The Seventh and Second Pāramitās for Observing the Precepts",
+        "source": "T11n0316_019:0825c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「舍利子！",
+        "translation": "The Buddha said, \"Śāriputra!",
+        "source": "T11n0316_019:0825c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何名為善法？",
+        "translation": "What is called a good dharma?",
+        "source": "T11n0316_019:0825c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知善法厥有三種，謂身、語、意善所行故。",
+        "translation": "You should know that there are three kinds of good qualities, which are well-acted upon in body, speech, and thought.",
+        "source": "T11n0316_019:0825c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸菩薩摩訶薩如是安住善所行者，能於菩薩藏正法勤求修習，即得菩提而常隨逐。」",
+        "translation": "When bodhisattvas and mahāsattvas thus abide in what's well practiced, they can diligently pursue the cultivation of the true teaching of the bodhisattva canon, which will lead to enlightenment and always follow it.\"",
+        "source": "T11n0316_019:0825c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重明斯義說伽陀曰：「身業常當善修作，　　此是諸佛所宣說，　隨處親近阿闍梨，　　即得多聞善境界。",
+        "translation": "It was then that the Bhagavān wanted to explain this meaning again, saying to the Gadhātu, \"This is what the buddhas have taught, and by following a preceptor anywhere, one attains the well-versed state of goodness.",
+        "source": "T11n0316_019:0825c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　補特伽羅勝義者，　　常起慈心利眾生，　語言妙樂無愛憎，　　所說聞者生樂欲。",
+        "translation": "The Pudgala, the most excellent one, always arouse compassion for the benefit of sentient beings, speaks with wondrous joy and without craving, and creates a pleasant desire for those who hear what he teaches.",
+        "source": "T11n0316_019:0825c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　隨諸相法無恚惡，　　極善意樂悉平等，　修習不生罪欲心，　　慈心觀察常尊重。",
+        "translation": "He follows all characteristics without anger or ill-will, has perfectly good intentions that are all equal, cultivates a mind free of sinful desires, and observes with kindness and constant respect.",
+        "source": "T11n0316_019:0825c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　得聞如來淨教已，　　應當尊重於正法，　由其尊重正法因，　　速得成證菩提果。",
+        "translation": "After hearing the Tathāgata's pure teaching, they should respect the right teaching, and as a result of that respect for the right teaching, they'll quickly attain the realization of the fruit of enlightenment.",
+        "source": "T11n0316_019:0825c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「如是十種善法，菩薩能安住已，即於菩薩藏正法勤求修習，親近承事諸阿闍梨，隨諸所作，總略乃至給奉水瓶。",
+        "translation": "\"After the bodhisattva is able to abide in these ten kinds of good qualities, he diligently cultivates the true teaching of the bodhisattva canon, becomes intimate with and serves the preceptors, and follows all the actions in general up to giving and offering bottles of water.",
+        "source": "T11n0316_019:0825c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T11n0316_019:0825c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩有十種發心。",
+        "translation": "There are ten kinds of arousal of mind for bodhisattvas.",
+        "source": "T11n0316_019:0825c24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為十？",
+        "translation": "What are the ten?",
+        "source": "T11n0316_019:0825c25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者菩薩發如是心：『痛哉！",
+        "translation": "One bodhisattva gives rise to the thought, 'Oh, this hurts!",
+        "source": "T11n0316_019:0825c25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間一切眾生疾惱之身，四蛇奮毒牙相違害，積集諸苦生多過失，癰疽瘡癬、風癀痰癊，起眾疾狀眼等諸病，歷多艱苦極增違害，速疾破壞是不堅實，羸劣衰朽速趣命終，棄於林中無一可樂。",
+        "translation": "The body of all sentient beings in the world that is afflicted, which is maligned by the fangs of four snakes, accumulates suffering and produces many faults, causes abscesses, sores, ringworm, phlegm, and phlegm, produces many ailments such as eye disease, experiences much suffering and hardship that increase their discomfort, quickly destroys this unsteady body, becomes weak and decrepit, quickly goes to the end of life, and is discarded in the forest where there's no one to be happy with.",
+        "source": "T11n0316_019:0825c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我當令一切眾生厭此不堅實身，悕取堅固真實之身。』",
+        "translation": "I will cause all sentient beings to grow weary of this unsteady body and long for a strong, real body.'",
+        "source": "T11n0316_019:0826a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「舍利子！",
+        "translation": "\"Śāriputra!",
+        "source": "T11n0316_019:0826a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第一發心。",
+        "translation": "This is the bodhisattva's first arousal of mind.",
+        "source": "T11n0316_019:0826a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由發心已，能於菩薩藏正法勤求修習，親近承事諸阿闍梨，隨諸所作，總略乃至給奉水瓶。」",
+        "translation": "Because of this arousal of mind, they can diligently pursue the cultivation of the true teaching of the bodhisattva canon, become intimate with and serve the preceptors, and follow various actions in general up to offering water bottles.\"",
+        "source": "T11n0316_019:0826a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重明斯義說伽陀曰：「諸界如蛇毒猛惡，　　四種互相為依止，　各各咸興恚害多，　　於身廣生大病惱。",
+        "translation": "It was then that the Bhagavān wanted to explain this meaning again, saying to the Gadhātu, \"The elements are like snakes that are venomous and fierce, and the four kinds of mutual support each other, each producing much anger and harm, which extensively produces great illness and distress in the body.",
+        "source": "T11n0316_019:0826a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　眼耳二處生諸病，　　鼻舌所生病亦然，　唇齒生病苦復深，　　及餘疾患徧身起，　癰疽初起生疼苦，　　瘡癬旋生痛劇增，　餘諸疾患起多門，　　由此於身遍纏繞。",
+        "translation": "Illnesses arise in the eyes and ears, the nose and tongue likewise, the lips and teeth are sick and painful, and other afflictions arise throughout the body, abscesses and gangrene cause pain at first, sores and ringworm continue to grow and become more painful, and many other afflictions arise, thus completely entangling the body.",
+        "source": "T11n0316_019:0826a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此身既生諸病惱，　　積集諸苦在其身，　無義無利損害多，　　速疾銷亡身謝滅，　一棄林中何所有，　　無常迅速不堅牢。",
+        "translation": "This body then produces illnesses and afflictions, accumulates suffering in it, causes meaningless and unprofitable harm, quickly extinguishes its body, and disappears, leaving nothing in the forest, which is impermanent, rapid, and not stable.",
+        "source": "T11n0316_019:0826a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　諦觀如是臭穢身，　　與諸病苦為依聚，　應修賢善諸事業，　　當來回作佛身因。",
+        "translation": "He observes such a smelly, filthy body, which is the foundation for many illnesses and sufferings, and cultivates good and virtuous works that will in the future become the cause of the Buddha's body.",
+        "source": "T11n0316_019:0826a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　捐棄如是眾惡身，　　破毀衰殘而迅速，　佛身成辦圓眾德，　　不可思議大法身。",
+        "translation": "Discarding such a multitude of bad bodies, which are broken and decayed quickly, the Buddha's body accomplishes the full range of virtues and the unfathomably great Dharma body.",
+        "source": "T11n0316_019:0826a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　回觀如是眾苦身，　　諸漏遍增不可樂，　當知別無諸漏法，　　即以此身為漏因。",
+        "translation": "Looking back at such a body of suffering, the contaminants pervasively increase and become unpleasant, so you should know that there are no other contaminants, which are the cause of the contaminants in this body.",
+        "source": "T11n0316_019:0826a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　暫居炎熱欲清涼，　　或處凝寒思庇覆，　痛哉此身何所樂？",
+        "translation": "Temporarily living in the heat, desiring coolness, or in the cold, contemplating shelter, what's so painful about this body and how can it be enjoyed?",
+        "source": "T11n0316_019:0826a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　老死常縈損害多。",
+        "translation": "Old age and death always linger and damage each other.",
+        "source": "T11n0316_019:0826a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　厭寒怖熱惱其心，　　一切墮落皆破壞。",
+        "translation": "Wearing cold and fear, they disturb their minds, and all their falls are destroyed.",
+        "source": "T11n0316_019:0826a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　智者應修士夫業，　　願得最上真實身，　堪任親近阿闍梨，　　厭棄此身虛幻體。",
+        "translation": "Wise men should cultivate the activities of men, vowing to attain the supreme true body, become capable of approaching a preceptor, and abandon the illusory body of this one.",
+        "source": "T11n0316_019:0826a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「舍利子！",
+        "translation": "\"Śāriputra!",
+        "source": "T11n0316_019:0826a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第一發心。",
+        "translation": "This is the bodhisattva's first arousal of mind.",
+        "source": "T11n0316_019:0826a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T11n0316_019:0826a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者菩薩發如是心：『痛哉！",
+        "translation": "Second, the bodhisattva arouses this thought: 'Oh, this hurts!",
+        "source": "T11n0316_019:0826a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間一切眾生不堅實身，斷滅摧毀破壞離散。』",
+        "translation": "All sentient beings in the world have insubstantial bodies that are destroyed, devastated, and scattered.'",
+        "source": "T11n0316_019:0826a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Vairocana!",
+        "source": "T11n0316_019:0826a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如世間工巧窯師，造諸瓶器隨量大小，雖有所成即歸破壞。",
+        "translation": "\"It's like the worldly artisan kiln maker who makes vases and vessels of various sizes but then destroys them despite having accomplished something.",
+        "source": "T11n0316_019:0826b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間眾生虛幻所成不堅實身，亦復如是。",
+        "translation": "So it is with sentient beings in the world who have illusory, insubstantial bodies.",
+        "source": "T11n0316_019:0826b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如大樹，枝葉扶踈花果茂盛，雖可愛樂即歸墮落。",
+        "translation": "It's like a large tree whose branches and leaves are lined up and whose flowers and fruits flourish, but even though it's enjoyable, it falls down.",
+        "source": "T11n0316_019:0826b03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間眾生不堅實身，如成熟果亦復如是。",
+        "translation": "So too is the body of worldly beings that's insubstantial, like ripened fruit.",
+        "source": "T11n0316_019:0826b04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如清夜露滴草頭，日光照觸旋有即無。",
+        "translation": "It's also like the dew that drips from the grass on a clear night, and when the sun shines and touches it, it's suddenly present and absent.",
+        "source": "T11n0316_019:0826b05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間眾生不堅實身，不久暫停亦復如是。",
+        "translation": "It's likewise when the body of a worldly being that's not substantial is suspended for a short time.",
+        "source": "T11n0316_019:0826b06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如世間大海江河流注不斷，水中聚沫旋有即無。",
+        "translation": "It's also like the great ocean and rivers of the world that flow continuously, and the foam in the water swirls into existence and disappearance.",
+        "source": "T11n0316_019:0826b07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間眾生身如聚沫不可撮摩亦復如是。",
+        "translation": "It's likewise when the bodies of sentient beings in the world are like clouds of foam that can't be gauged.",
+        "source": "T11n0316_019:0826b08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如天雨水滴成泡，旋滅旋生不能暫住。",
+        "translation": "It's also like the drops of rainwater in the sky that form a bubble that goes away and comes into being unexpectedly and can't be stopped for a while.",
+        "source": "T11n0316_019:0826b09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間眾生不堅實身，自性劣弱亦復如是。",
+        "translation": "So too is the body of worldly sentient beings that isn't substantial and has a weak self-nature.",
+        "source": "T11n0316_019:0826b10_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利子！",
+        "translation": "Śāriputra!",
+        "source": "T11n0316_019:0826b11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩欲令眾生厭棄如是不堅實身，悕取堅固真實之身。",
+        "translation": "The bodhisattva wants to cause sentient beings to discard such an insubstantial body and long for a solid, real body.",
+        "source": "T11n0316_019:0826b11_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第二發心。」",
+        "translation": "This is the second arousal of the bodhisattva's intention.\"",
+        "source": "T11n0316_019:0826b12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重明斯義說伽陀曰：「如世巧匠造瓶盆，　　杖輪埿等共成器，　一切同歸破壞門，　　眾生壽命亦如是。",
+        "translation": "It was then that the Bhagavān wanted to reintroduce this meaning and spoke to Gadha, \"Like the world's skilled craftsmen who make a pot or a bowl, a staff, a wheel, and so forth, all come together at the gate of destruction, and the life of sentient beings is likewise.",
+        "source": "T11n0316_019:0826b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　又如大樹盤根廣，　　枝葉扶踈花果繁，　一切同歸墮落門，　　眾生壽命亦如是。",
+        "translation": "Like a great tree with broad, coiled roots and branches that hold together flowers and fruit, they all fall together, and so does the lifespan of sentient beings.",
+        "source": "T11n0316_019:0826b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　又如草端承露水，　　日光照灼倏然無，　眼境不停須臾間，　　眾生壽命亦如是。",
+        "translation": "Also like the end of grass that bears dew and water, whose light from the sun shines and burns it suddenly disappears, and whose vision doesn't stop for a moment, so is the lifespan of sentient beings.",
+        "source": "T11n0316_019:0826b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　又如大海江河水，　　水中聚沫劣無堅，　眾生虛幻羸弱身，　　等彼聚沫皆無實。",
+        "translation": "It's like a great ocean or river, whose foam is weak and insubstantial, and sentient beings' illusory, weak bodies are all like that foam, which is insubstantial.",
+        "source": "T11n0316_019:0826b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　又如天雨廣流注，　　水中旋復起浮泡，　剎那觀境即空無，　　不堅實身亦如是。",
+        "translation": "It's like a heavenly rain that flows broadly, swirling and floating bubbles in the water, which momentarily observe the object as empty and nonexistent, and so is the insubstantial body.",
+        "source": "T11n0316_019:0826b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　不堅實身生實想，　　實中還起不實心，　彼人不入真實門，　　此邪思惟妄境界。",
+        "translation": "When the insubstantial body gives rise to real concepts and an insubstantial mind arises within the real, that person doesn't enter the gate of the true and real, which is a false deluded state of contemplation.",
+        "source": "T11n0316_019:0826b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　實中若作真實想，　　不實當生不實心，　彼人得入真實門，　　此正思惟真境界。",
+        "translation": "If a true perception arises in the real, and an untrue mind arises from the untrue, that person can enter the gate of the real, which is the realm of correct contemplation.",
+        "source": "T11n0316_019:0826b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若起真實心想已，　　承事師尊奉水鉼，　回此虛幻不實身，　　當得堅固真實體。",
+        "translation": "If he gives rise to a true mental image, he'll serve the teacher and honor him by offering him a dish of water, and then he'll return to this unreal and insubstantial body, which will then become solid and true.",
+        "source": "T11n0316_019:0826b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「舍利子！",
+        "translation": "\"Śāriputra!",
+        "source": "T11n0316_019:0826c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第二發心。",
+        "translation": "This is the second arousal of a bodhisattva's mind.",
+        "source": "T11n0316_019:0826c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T11n0316_019:0826c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者菩薩發如是心：『痛哉！",
+        "translation": "Three, the bodhisattva arouses this thought, 'Oh, this hurts!",
+        "source": "T11n0316_019:0826c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間一切眾生不能如是思念：「我於生死長夜之中，遠離善知識、親近惡知識，發起懈怠下劣精進，邪見所覆癡冥疲乏，無施無愛無諸善作，唯造惡業果報成熟，感諸不善當得身相，貪愛增劇羸瘦憔悴。",
+        "translation": "All sentient beings in the world can't thus think, \"During the long night of birth-and-death, I'm far from good teachers and close to bad teachers, become lazy and inefficient in my efforts, am hindered by wrong views, deluded and weary, lack generosity and love, and lack good works; I only create bad actions whose results ripen, which bring about the physical appearance of unwholesome things; my cravings intensify, and I become weak and emaciated.",
+        "source": "T11n0316_019:0826c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或生餓鬼趣中，不能活命以火為食，經多百歲多千歲多百千歲不聞水聲，何況得飲。」",
+        "translation": "They may be born in the destiny of hungry ghosts, unable to live, feeding on fire, and going hundreds or thousands or hundreds of thousands of years without hearing the sound of water, much less being able to drink.\"",
+        "source": "T11n0316_019:0826c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今回發是心，願當親近習行善法、近善知識，由如是故當得人身，善能活命行諸布施，乃至損棄軀命親近承事諸阿闍梨，於菩薩藏正法勤求修習隨諸所作，總略乃至給奉水瓶。』",
+        "translation": "Now, I've returned with this intention, vowing to become close to someone who cultivates good qualities and approaches good teachers, so that I'll attain personal possession, be able to live well and perform almsgiving, even to the point of sacrificing my body and life to become close to and serve the preceptors, diligently pursue and cultivate the true teaching of the bodhisattva canon, and do whatever's needed to summarize and even give offerings of water bottles.'",
+        "source": "T11n0316_019:0826c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第三發心。」",
+        "translation": "This is the third arousal of the bodhisattva's intention.\"",
+        "source": "T11n0316_019:0826c14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重明斯義說伽陀曰：「世間所有善知識，　　應當往彼常親近，　不能數數近善因，　　由是不生諸善行。",
+        "translation": "It was then that the Bhagavān wanted to explain this meaning again and said to Gadha, \"All the good teachers in the world should be approached often, but they can't repeatedly approach good causes, and as a result, good actions won't arise.",
+        "source": "T11n0316_019:0826c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　以其親近惡友故，　　即常遠離賢善人，　懈怠下劣精進心，　　慳疾諂誑生過失。",
+        "translation": "Because they're close to bad friends, they're always detached from good people, lazy, discouraged, and diligent, and they commit errors by being stingy and flattering.",
+        "source": "T11n0316_019:0826c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　不行布施無愛樂，　　一切善法不能行，　果熟當招瘦弱身。",
+        "translation": "Not practicing generosity or having cravings, they can't practice all good qualities, and their fruits will bring about a lean and weak body.",
+        "source": "T11n0316_019:0826c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　或生餓鬼諸境界，　長夜眠伏於生死，　　蘊報癡冥怖畏多，　飲食俱無饑渴增，　　備受廣多諸苦惱，　經歷多百千歲中，　　渴苦不聞水之聲，　布施善道不復觀，　　不得世間諸善相。",
+        "translation": "They may be born in the realms of hungry ghosts, spend long nights sleeping and subduing in birth-and-death, experience delusion in the aggregates, have many fears, lack food and drink, become hungry and thirsty, experience extensive suffering and distress, pass through hundreds of thousands of years, experience the pain of thirst, and never hear the sound of water, don't observe the good path of generosity anymore, and aren't allowed to partake of the world's good features.",
+        "source": "T11n0316_019:0826c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我今回發如是心，　　世間人身極難得，　誓願親近阿闍梨，　　速獲圓滿諸善行。",
+        "translation": "Now, I've returned with the intention that this worldly existence is extremely difficult to attain, and I vow to become intimate with a preceptor and quickly achieve the consummation of good actions.",
+        "source": "T11n0316_019:0826c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　常當遠離惡知識，　　常得親近賢善人，　捐棄身命不為難，　　願作菩提勝根本。",
+        "translation": "I'll always avoid bad associates, always get close to good people, give up my life and not make it difficult, and vow to be the root of excellence in bodhi.",
+        "source": "T11n0316_019:0826c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　於阿闍梨起尊重，　　恭信發生清淨心，　頂奉承事我所行，　　願作菩提勝根本。",
+        "translation": "Giving respect to the ācārya, respecting and believing in him produces a pure mind, paying homage to and serving my actions, and vowing to be the foundation of superior enlightenment.",
+        "source": "T11n0316_019:0827a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「舍利子！",
+        "translation": "\"Śāriputra!",
+        "source": "T11n0316_019:0827a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第三發心。",
+        "translation": "This is the bodhisattva's third arousal of intention.",
+        "source": "T11n0316_019:0827a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T11n0316_019:0827a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者菩薩發如是心：『世間眾生應如是念：「我於長夜中，遠離善知識、親近惡知識，發起懈怠下劣精進，癡冥疲乏、無忍無愛、無諸善相，心困身倦如被打擊，眾苦逼迫嬈亂眾生。",
+        "translation": "Fourth, the bodhisattva arouses this thought: 'Should sentient beings in the world think, \"During the long night, I was far from good teachers and close to bad teachers, developed laziness and poor effort, was deluded and weary, had no patience or love, and had no good characteristics, was mentally distressed and physically exhausted like being struck, and was forced by many sufferings to disturb sentient beings.",
+        "source": "T11n0316_019:0827a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無彼緣寧招罪至？",
+        "translation": "Without these causes, how could they incur the guilt?",
+        "source": "T11n0316_019:0827a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是廣造諸不善業，以其不善之業果報成熟，當墮牛畜駝驢趣中，不能活命。",
+        "translation": "As a result of this extensive creation of unskillful actions, the results of their unskillful actions will ripen, and they'll fall into the destinies of cattle, animals, camels, and donkeys, where they won't be able to live.",
+        "source": "T11n0316_019:0827a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼趣中以草為食，咀嚼[齒*齊]齧捶打怖畏負重困苦，遠離一切施等善相。」",
+        "translation": "In that destiny, they'll eat grass, chew [teeth*align], bruise, beat, fear, bear burdens, and suffer, and be free of all the good features of generosity.\"",
+        "source": "T11n0316_019:0827a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今回發是心，親近善友當得人身，不惜軀命廣行布施，作諸善業，親近承事諸阿闍梨，於菩薩藏正法，勤求修習隨諸所作，總略乃至給奉水瓶。』",
+        "translation": "Now, I'll give rise to this intention, become close to good friends who will attain my person, make extensive alms without sparing my life, perform good actions, become close to and serve the preceptors, diligently pursue and cultivate the true teaching of the bodhisattva canon, and do whatever's needed to give a general outline up to offering a water bottle.'",
+        "source": "T11n0316_019:0827a13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第四發心。」",
+        "translation": "This is the fourth arousal of the bodhisattva's intention.\"",
+        "source": "T11n0316_019:0827a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重明斯義說伽陀曰：「眾生長夜居險惡，　　於諸聖道不了知，　駝驢畜類趣中生，　　備受廣多諸苦惱。",
+        "translation": "It was then that the Bhagavān wanted to explain this meaning again and said to Gadha, \"All living beings live in danger at night, don't know the noble paths, are born among camels, asses, and animals, and are subject to a wide range of suffering and distress.",
+        "source": "T11n0316_019:0827a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　當來若得人身相，　　廣作賢善諸事業，　趣向菩提正道門，　　此是智者之勝相。",
+        "translation": "In the future, if they attain the characteristics of a human being, they'll perform a wide range of good deeds and head for the right path to enlightenment; this is the distinguishing characteristic of a wise person.",
+        "source": "T11n0316_019:0827a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我當發起尊重彼，　　已能善住佛法者，　奉阿闍梨教誨言，　　願作菩提勝根本。",
+        "translation": "I will arouse respect for him, for he has already abided well in the Buddha's teaching, and I've been taught by Ajari that he wants to be the root of victory in bodhi.",
+        "source": "T11n0316_019:0827a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　過去不思議劫中，　　於生死輪循環轉，　遍歷無義無利門，　　不能修作布施行。",
+        "translation": "In inconceivable eons past, I've been circulating in the wheel of birth-and-death, going through aimless and unprofitable paths, and unable to cultivate its performance.",
+        "source": "T11n0316_019:0827a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　處世不能自活命，　　懈墮遠離善知識，　常隨惡友教誨言，　　隨轉還歸惡趣地。",
+        "translation": "They couldn't save their own lives in this world, became lazy and detached from good friends, and always followed the teachings of bad friends, returning to the land of bad destinies as they went along.",
+        "source": "T11n0316_019:0827a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　相續駝驢中杻械，　　繫縛拘縶捶打身，　遠離善友果報成，　　牛畜趣中業不壞。",
+        "translation": "Continuously being handcuffed in a camel or donkey, he's bound, fettered, and beaten about the body, and the results of being far from good friends are accomplished, so his actions don't break down in the destinies of cattle and animals.",
+        "source": "T11n0316_019:0827a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　駝驢趣類受生已，　　連環執縛苦惡深，　杖木鞭笞負重多，　　善友爾時難親近。",
+        "translation": "After being born in a camel or ass, these rebirths are bound by a chain of fetters that are both painful and severe, and they're heavily beaten with sticks and wood.",
+        "source": "T11n0316_019:0827b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　人身最極為難得，　　善友親近亦復難，　剎那親近善功成，　　歷久能扳諸艱苦。",
+        "translation": "The human body is most extremely difficult to attain, and it's equally difficult to be close to a good friend who's accomplished good deeds and has been able to overcome hardships over time.",
+        "source": "T11n0316_019:0827b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若能善修身語業，　　精進遠離諸過失，　心安命活眾所行，　　我乃親近善知識。",
+        "translation": "If I can skillfully cultivate my physical and verbal actions, make effort to avoid faults, and live a peaceful life, then I'll become close to a good teacher.",
+        "source": "T11n0316_019:0827b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　奉阿闍梨無諂曲，　　從是我發菩提心，　菩提聖道廣宣揚，　　遵仰師尊常愛重。",
+        "translation": "With respect to the ācārya and without deceit, I've thus aroused the mind of enlightenment, proclaimed the noble path of enlightenment, and revered the venerable teacher with constant respect.",
+        "source": "T11n0316_019:0827b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　塗香種種妙香等，　　眾妙衣服及末香，　異品莊嚴寶花鬘，　　二足聖尊伸供養。",
+        "translation": "I applied various kinds of fine incense and so forth, many fine garments and secondary incense, a jeweled garland of various adornments, and two-legged noble ones who extended offerings.",
+        "source": "T11n0316_019:0827b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　十方現住一切佛，　　開示勝義利眾生，　普放金色大光明，　　無邊色相為供養。",
+        "translation": "All the buddhas who currently reside in the ten directions reveal the ultimate truth for the benefit of sentient beings, and they universally radiate a great golden light with limitless forms as an offering.",
+        "source": "T11n0316_019:0827b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如佛所放妙光已，　　廣供人中調御尊，　菩提正道清淨因，　　詣菩提場願證果。",
+        "translation": "After thus emitting his marvelous radiance, he makes a wide offering to the most revered among humans, purifies the causes of the right path to enlightenment, and arrives at the site of enlightenment with the hope of realizing its fruit.",
+        "source": "T11n0316_019:0827b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「舍利子！",
+        "translation": "\"Śāriputra!",
+        "source": "T11n0316_019:0827b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第四發心。",
+        "translation": "This is the fourth arousal of a bodhisattva's mind.",
+        "source": "T11n0316_019:0827b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T11n0316_019:0827b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者菩薩發如是心：『世間眾生應如是念：「我於長夜中，遠離善知識、親近惡知識，發起懈怠下劣精進，癡冥疲乏、無忍無愛、無諸善相，都無所念。",
+        "translation": "Five bodhisattvas give rise to this thought: 'Sentient beings in the world should thus think, \"During the long night, I was far from good friends and close to bad friends, became lazy and inefficient in my effort, was deluded and weary, had no patience and no craving, and had no good marks, none of which I was mindful of.",
+        "source": "T11n0316_019:0827b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "痛哉世間一切眾生不能思念，一切物命同一身肉，若存若壞其肉無異。",
+        "translation": "It's painful that all sentient beings in the world can't contemplate that all things and lives are the same as a single piece of flesh, and whether they survive or perish their flesh is no different.",
+        "source": "T11n0316_019:0827b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "食噉之者謂之無罪亦無罪相，謂之無福亦無福相，乃至海岸邊極遼敻之方，諸有眾生其見無異，無罪無福。",
+        "translation": "When they eat and chew it, it's said to be without sin or the mark of sin, and it's said to be without merit or the mark of merit, even to the extent that there are sentient beings on the coast and in vast distances who see nothing different, lacking sin or merit.",
+        "source": "T11n0316_019:0827b21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此緣故，若罪若福不能了知。",
+        "translation": "As a result, they can't know whether it's a sin or a blessing.",
+        "source": "T11n0316_019:0827b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以不知故，近惡見者增長癡暗，不知善道唯造罪業。",
+        "translation": "Because they don't know them, those who are near bad views grow in delusion and darkness, and they don't know the good path but only create sinful actions.",
+        "source": "T11n0316_019:0827b24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以其廣造不善業故，果報成熟得下劣身相，乃至墮在地獄趣中受地獄苦，吞熱鐵丸、考掠捶打、杻縛懸吊，將趣死邊業還令活。",
+        "translation": "As a result of their extensive unwholesome activity, they mature in retribution and attain a poor physical appearance, even falling into the hell-bound destinies and undergoing the pain of hell, swallowing hot iron pellets, being punched and beaten, and being hung up by handcuffs, which will lead them to return to the extreme of death and make them live.",
+        "source": "T11n0316_019:0827b25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經多千歲不聞樂聲，何況樂觸。",
+        "translation": "After many thousands of years, they don't hear the sound of pleasure, let alone the pleasant sensation of it.",
+        "source": "T11n0316_019:0827b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斯由不知罪福不造施因，智者應念。」",
+        "translation": "This is because he doesn't know the causes of sins and merits and doesn't create generosity, so you should be mindful, O wise one.\"",
+        "source": "T11n0316_019:0827b29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今回發是心，親近善友，當得人身，不惜軀命，廣行布施作諸善業，親近承事諸阿闍梨，於菩薩藏正法，勤求修習隨諸所作，總略乃至給奉水瓶。』",
+        "translation": "Now, I've returned to this intention, becoming intimate with good friends, and when I'm granted a human body, I won't spare my life, generously make alms and good actions, become intimate with and serve the preceptors, diligently pursue and cultivate the true teaching of the bodhisattva canon, and do whatever's needed to give a general outline up to offering a water bottle.'",
+        "source": "T11n0316_019:0827c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第五發心。」",
+        "translation": "This is the fifth arousal of the bodhisattva's intention.\"",
+        "source": "T11n0316_019:0827c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重明斯義說伽陀曰：「為由親近諸惡友，　　惡心欺誑於他人，　罪業邪見為所依，　　故我廣興於罪業。",
+        "translation": "It was then that the Bhagavān wanted to explain this meaning again and said to Gadha, \"Because I've become close to bad friends, deceived others with evil intentions, and based myself on sinful actions and mistaken views, I've created a wide range of sinful actions.",
+        "source": "T11n0316_019:0827c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　邊極遼敻眾生類，　　恣噉飲食無足心，　皆謂罪福悉無因，　　亦無苦楚諸報應。",
+        "translation": "Those sentient beings at the extreme of xiong, who devour food and drink without satisfaction, all believe that sins and merits have no cause and that there are no painful rewards.",
+        "source": "T11n0316_019:0827c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此等如是罪業見，　　數數親近於惡友，　一向艱惡罪殃深，　　由斯速墮於地獄。",
+        "translation": "Such a view of sinful activity brings us close to many bad friends, and once we've faced hardships and deep sins, we'll quickly fall into hell.",
+        "source": "T11n0316_019:0827c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　縱得人身經千轉，　　旋墮三種惡趣中，　不見正等正覺尊，　　出現世間堪歸向，　所有世間善知識，　　極善名稱悉不聞。",
+        "translation": "Even if I were to attain personal identity through a thousand turns, I'd fall into the three evil destinies, not see the honored one who's perfectly enlightened, appear in the world to which I could give refuge, and not hear the names of any worldly good teachers who are extremely good.",
+        "source": "T11n0316_019:0827c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我若當來得人身，　　廣修賢善諸事業，　世間人身最難得，　　眾生壽命亦復難。",
+        "translation": "If I were to attain personal status in the future and extensively cultivate good works, the worldly person would be the most difficult to attain, and the life of sentient beings would be equally difficult.",
+        "source": "T11n0316_019:0827c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如來正法極難聞，　　諸佛出世實難值，　縱得人身斯難者，　　速得聖道轉復難。",
+        "translation": "The Tathāgata's right teaching is extremely difficult to hear, and it's really difficult to meet the buddhas when they appear in the world. Even if it's difficult to obtain a human life, it's still difficult to quickly attain the noble path.",
+        "source": "T11n0316_019:0827c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我若值佛出興時，　　遵一切智清淨教，　所有身語意三業，　　發起一切諸過罪，　於不究竟苦果中，　　誓願不復還修作，　若復內心清淨故，　　罪業因果亦復然。",
+        "translation": "If I were to follow the pure teaching of omniscience when the buddhas arise, and I were to follow the three activities of body, speech, and thought that give rise to all the transgressions, I would vow not to return to them as painful results that don't end up being painful, and if my internal mind were purified, the causes and effects of my sins would likewise be the same.",
+        "source": "T11n0316_019:0827c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　於不究竟苦果中，　　如彼內心皆清淨，　所有極善身語意，　　世間無智誠難作，　唯除親近阿闍梨，　　願作菩提勝根本。",
+        "translation": "Among the painful results that don't end there, as their minds are purified internally, they possess excellent physical, verbal, and mental qualities that are honestly difficult to do without worldly cognition, except for their intimate association with a preceptor, who wishes to be the basis for the excellence of bodhi.",
+        "source": "T11n0316_019:0827c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　當知正道名聖道，　　如其意樂善宣說，　當入無誑精進門，　　作佛菩提勝根本。",
+        "translation": "You should know that the right path is called the noble path, and as he intends and explains it well, he'll enter the gate of undefiled effort and become the foundation of superior buddhahood and enlightenment.",
+        "source": "T11n0316_019:0827c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　菩薩如是發心已，　　頂重師尊給水瓶，　智慧方便悉圓成，　　是為菩薩廣大行。",
+        "translation": "After thus arousing the bodhisattva's intention, he gives the venerable teacher a water bottle, and this is the vast practice of the bodhisattva, which accomplishes all of his wisdom and skillful means.",
+        "source": "T11n0316_019:0827c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「舍利子！",
+        "translation": "\"Śāriputra!",
+        "source": "T11n0316_019:0828a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第五發心。",
+        "translation": "This is the bodhisattva's fifth arousal of intention.",
+        "source": "T11n0316_019:0828a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次舍利子！",
+        "translation": "\"Furthermore, Śāriputra!",
+        "source": "T11n0316_019:0828a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者菩薩發如是心：『世間眾生應如是念：「我於長夜中，遠離善知識、親近惡知識，無善樂欲，於師尊智者不能謙下恭信、百種稱讚、親近禮奉、誠諦合掌、作諸善業，但以慢心增長造多不善。",
+        "translation": "Sixth, the bodhisattva arouses this thought: 'Sentient beings in the world should thus think, \"During the long night, I was far from good teachers and close to bad teachers, had no desire for goodness, couldn't humble myself and respect teachers and wise ones, praised them in a hundred ways, paid close respects, bowed my palms with sincerity, and performed good actions, but instead created much unskillfulness by growing in conceit.",
+        "source": "T11n0316_019:0828a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由其所作不善業因果報成熟，縱得人身，羸瘦憔悴不能活命，不能行施。",
+        "translation": "As a result of the maturation of the results of their unwholesome actions, even though they've attained a human body, they're too weak and emaciated to live, and they're unable to give alms.",
+        "source": "T11n0316_019:0828a06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖生人中其性慳悋加復貧困，或作奴僕為他所使他所繫屬，如耽欲飛禽於空中行，隨所住處驚怖艱險。",
+        "translation": "Even though they're born among humans, their stingy nature is stingy and poor, or they may become a slave, a servant, or someone tied to another, like a bird with longing flying through the air, or they may be frightened and frightened wherever they live.",
+        "source": "T11n0316_019:0828a08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "邪見眾生亦復如是，破毀淨戒而常習行三不善根，在四趣中，五蓋所覆，常行六種不能尊重師長之法，於其七種善妙正法不能遵奉，起八邪法入邪定聚，於九惱處常起惱害，常行十種不善業道。",
+        "translation": "Similarly, sentient beings with wrong views always cultivate the three unwholesome roots by violating the pure precepts, remain in the four destinies, are covered by the five hindrances, always practice six ways of failing to respect teachers and elders, fail to follow the seventh good and wonderful right teaching, give rise to eight wrong teachings, enter the wrong class of concentration, always cause harm in the nine places of affliction, and always practice the ten paths of unwholesome activity.",
+        "source": "T11n0316_019:0828a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於非道中堅猛而入，向地獄門背生天道，遠善知識近惡知識，順魔意樂捨離善法行不善法，打擊怖畏艱苦隨生，施作種種不饒益事。",
+        "translation": "They are resolute in their wrong paths, head for the gates of hell and turn their backs on the path to heaven, distance themselves from good friends and approach bad friends, abandon good things and practice unskillful things according to the will of Māra, strike fears and hardships, and perform various unbeneficial acts.",
+        "source": "T11n0316_019:0828a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是緣故不能愛樂行布施等。」",
+        "translation": "For these reasons, they can't delight in practicing generosity and so forth.\"",
+        "source": "T11n0316_019:0828a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今回發是心，親近善友，當得人身，不惜軀命廣行布施作諸善業，於菩薩藏正法，勤求修習隨諸所作，總略乃至給奉水瓶。』",
+        "translation": "Now, I'll give rise to this intention, draw near to good friends, become a human being, perform good deeds of generosity without sparing my life, diligently pursue the cultivation of the true teaching of the bodhisattva canon, and do whatever is needed to give a general outline up to the serving of a water bottle.'",
+        "source": "T11n0316_019:0828a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第六發心。」",
+        "translation": "This is the sixth arousal of the bodhisattva's intention.\"",
+        "source": "T11n0316_019:0828a21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊欲重明斯義說伽陀曰：「近惡友故增憍慢，　　親近還經多劫海，　人中若受奴僕身，　　長夜輪回於三有。",
+        "translation": "It was then that the Bhagavān wanted to explain this meaning again and spoke to Gadha, \"Being close to a bad friend makes you more proud, and you'll go back through many eons and oceans to get close to one, and if you were to be subjected to the body of a slave among humans, you'd spend a long night reborn in the three realms.",
+        "source": "T11n0316_019:0828a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　難得人身歷艱苦，　　最上身相極難得，　善妙色相亦復難，　　諸佛出世極難值。",
+        "translation": "It's difficult to obtain a human being who goes through hardships, the highest physical attributes are extremely difficult to attain, and the appearance of good and marvelous forms is also difficult, making it extremely difficult to meet the buddhas who appear in the world.",
+        "source": "T11n0316_019:0828a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我當親近賢善友，　　顯示菩薩正行道，　菩提心寶廣大增，　　多俱胝劫願獲得。",
+        "translation": "I will become intimate with a good friend who will show the bodhisattva the correct path to follow, greatly increase the treasures of the bodhisattva mind, and vow to obtain them for many eons.",
+        "source": "T11n0316_019:0828a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　身不堅牢如泡沫，　　復如幻化歌戲等，　如其所見在夢中，　　覺了無實悉虛假。",
+        "translation": "Their bodies aren't solid like bubbles, and they're like illusory music and sports, just as they see in a dream, perceiving nothing real and all being false.",
+        "source": "T11n0316_019:0828b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　壽數將盡命促少，　　猶如雲電不久停，　剎那命盡轉蘊時，　　捨不實身求實體。",
+        "translation": "When his life expectancy is about to end and his life is short, he's like a cloud of lightning that doesn't stop for long. When his momentary life ends and he transforms into an aggregate, he discards the insubstantial body and seeks the real thing.",
+        "source": "T11n0316_019:0828b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　時分轉易迅速住，　　當須摧墮憍慢山，　虛假和合三世中，　　漂流不思議劫海。",
+        "translation": "As time changes and swiftly abides, he must destroy the mountain of conceit, falsely combine the three worlds, and drift through an ocean of inconceivable eons.",
+        "source": "T11n0316_019:0828b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　棄捨於身離諸愛，　　於其壽命亦無惜，　蠲除憍倨我慢心，　　頂重師尊常承事。",
+        "translation": "Abandoning his body and parting with craving, he has no qualms about his life span, frees his mind from arrogance and pride, and venerates the teacher and always serves him.",
+        "source": "T11n0316_019:0828b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　世間師尊極勝上，　　如其父母等無差，　息除憍倨我慢心，　　尊重精勤奉諸作。",
+        "translation": "The world's most honored teacher is most excellent, like his father and mother without distinction, who stops arrogance and self-consciousness and respects and diligently undertakes tasks.",
+        "source": "T11n0316_019:0828b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　菩薩無上菩提分，　　菩薩勝行同分者，　愛樂尊重堅固心，　　願諸所作皆勤勇。",
+        "translation": "The bodhisattva's portion of unsurpassed enlightenment is the same as the bodhisattva's portion of superior practice, his mind is resolute in loving and respecting them, and he's diligent in wishing for all his works.",
+        "source": "T11n0316_019:0828b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　慢愛行時慢增長，　　除斷慢法不能知，　由智金剛碎無餘，　　大憍慢山皆摧墮。",
+        "translation": "When he acts with pride, pride grows, the Dharma of stopping pride can't be known, and because the adamantine power of knowledge shatters without remainder, the great mountain of conceit is destroyed.",
+        "source": "T11n0316_019:0828b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　令他修勝菩提行，　　最勝安處菩提場，　正法摧伏諸魔軍，　　救度四生煩惱眾。",
+        "translation": "Causing others to cultivate superior enlightening practices, they are most certainly placed in the site of enlightenment, and the right teaching destroys the armies of Māra and saves the afflicted multitudes of the four sentient beings.",
+        "source": "T11n0316_019:0828b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　十方一切病苦者，　　不能自厭不淨身，　我當發起慈悲心，　　願作三世所歸趣。",
+        "translation": "For all those in the ten directions who suffer from illness and cannot detest an impure body, I will arouse a compassionate heart and will be the destination of the three worlds.",
+        "source": "T11n0316_019:0828b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　廣行布施波羅蜜，　　復能學佛戒功德，　諦觀忍辱行周圓，　　我發精進最上道。",
+        "translation": "Extensively practicing the perfection of generosity, I'll also be able to train in the virtues of the Buddha's precepts, truly observe the practice of forbearance and humility, and circumambulate it, and I'll initiate the highest path of effort.",
+        "source": "T11n0316_019:0828b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　圓具禪定波羅蜜，　　隨心所起善安住，　勝慧方便亦復然，　　願奉師尊修施行。",
+        "translation": "Perfectly endowed with the perfection of meditation, well-situated according to what arises in my mind, and similarly endowed with the skillful means of excellent wisdom, I want to serve the teacher and honorable one by cultivating its implementation.",
+        "source": "T11n0316_019:0828b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　增長此諸福威力，　　不可思議智慧善，　自他意樂悉尊高，　　修學圓成真法器。",
+        "translation": "Increasing the power of these merits, unfathomably good in wisdom, honoring the aims of self and others, I cultivate the true Dharma vessel of perfection.",
+        "source": "T11n0316_019:0828b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「舍利子！",
+        "translation": "\"Śāriputra!",
+        "source": "T11n0316_019:0828b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是菩薩第六發心。",
+        "translation": "This is the sixth arousal of a bodhisattva's mind.",
+        "source": "T11n0316_019:0828b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說大乘菩薩藏正法經卷第十九",
+        "translation": "Foshuo dasheng pusa zangzangzhengfa jing, vol. 19",
+        "source": "T11n0316_019:0828b26_0",
+        "is_bad_quality": false
+    }
+]

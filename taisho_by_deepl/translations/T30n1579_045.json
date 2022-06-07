@@ -1,0 +1,4364 @@
+[
+    {
+        "source_sentence": "瑜伽師地論卷第四十五",
+        "translation": "Yogâcārabhūmi-śāstra, vol. 45",
+        "source": "T30n1579_045:0539a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彌勒菩薩說",
+        "translation": "Maitreya Bodhisattva said",
+        "source": "T30n1579_045:0539a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Translated by imperial order by Xuanzang, the Tripiṭaka Master",
+        "source": "T30n1579_045:0539a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本地分中菩薩地第十五初持瑜伽處",
+        "translation": "The Fifteenth Chapter of the Bodhisattva Ground in the Local Āgamas, the First Place of the Yoga of Holding",
+        "source": "T30n1579_045:0539a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩提分品第十七之二",
+        "translation": "Chapter 17bis of the Bodhi Sutra",
+        "source": "T30n1579_045:0539a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩修正四依。",
+        "translation": "\"What are the four bases of correction for bodhisattvas?",
+        "source": "T30n1579_045:0539a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩為求義故從他聽法。",
+        "translation": "They are the bodhisattvas who listen to the teaching from others for the sake of seeking its meaning.",
+        "source": "T30n1579_045:0539a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不為求世藻飾文詞。",
+        "translation": "They don't seek worldly ornaments or words for the sake of seeking meaning.",
+        "source": "T30n1579_045:0539a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩求義不為求文。",
+        "translation": "A bodhisattva seeks meaning, not words.",
+        "source": "T30n1579_045:0539a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而聽法時雖遇常流言音說法。",
+        "translation": "When they listen to the teaching, even though they encounter a speaker who's a constant stream, they listen and accept it respectfully based on its meaning.",
+        "source": "T30n1579_045:0539a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但依於義恭敬聽受。",
+        "translation": "They simply listen and accept them respectfully based on their meaning.",
+        "source": "T30n1579_045:0539a11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩如實了知闇說大說。",
+        "translation": "Furthermore, bodhisattvas truly understand the great teaching that's explained in darkness.",
+        "source": "T30n1579_045:0539a11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實知已以理為依。",
+        "translation": "Once they truly know it, they take the principle as support.",
+        "source": "T30n1579_045:0539a12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不由耆長眾所知識補特伽羅。",
+        "translation": "They don't rely on the consciousnesses of the elder knowers, or on the tutelage of the consciousnesses.",
+        "source": "T30n1579_045:0539a12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若佛若僧所說法故即便信受。",
+        "translation": "If a buddha or a saṃgha teaches the Dharma, then he even believes and accepts it.",
+        "source": "T30n1579_045:0539a13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不依補特伽羅。",
+        "translation": "Therefore, it doesn't rely on the pudgala.",
+        "source": "T30n1579_045:0539a14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩以理為依。",
+        "translation": "Thus, the bodhisattva takes the principle as support.",
+        "source": "T30n1579_045:0539a14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "補特伽羅非所依故。",
+        "translation": "Potala therefore isn't something to rely on.",
+        "source": "T30n1579_045:0539a15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於真實義心不動搖。",
+        "translation": "Their mind isn't shaken by the true and real meaning.",
+        "source": "T30n1579_045:0539a15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於正法中他緣匪奪。",
+        "translation": "Other conditions don't steal it from them in the right teaching.",
+        "source": "T30n1579_045:0539a16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩於如來所。",
+        "translation": "Furthermore, in the Tathāgata's presence, bodhisattvas deeply cultivate right faith and deeply cultivate purity.",
+        "source": "T30n1579_045:0539a16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "深殖正信深殖清淨。",
+        "translation": "They deeply cultivate correct faith and deeply cultivate purity.",
+        "source": "T30n1579_045:0539a17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一向澄清唯依如來了義經典。",
+        "translation": "They rely solely on the Tathāgata's fully explained sūtras for one-pointed clarification.",
+        "source": "T30n1579_045:0539a17_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非不了義。",
+        "translation": "They don't rely on what's not the fully explained meaning.",
+        "source": "T30n1579_045:0539a18_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "了義經典為所依故。",
+        "translation": "It's because the scriptures that fully understand the meaning are the basis.",
+        "source": "T30n1579_045:0539a18_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛所說法毘奈耶不可引奪。",
+        "translation": "The Dharma taught by the Buddha and Vinaya can't be taken away.",
+        "source": "T30n1579_045:0539a19_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故。",
+        "translation": "Why is that?",
+        "source": "T30n1579_045:0539a20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以佛所說不了義經依種種門辯本性義。",
+        "translation": "It's because the scriptures that don't have the full meaning as explained by the Buddha rely on various approaches to explain the meaning of their original nature.",
+        "source": "T30n1579_045:0539a20_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶未決定尚生疑惑。",
+        "translation": "They're still uncertain and give rise to doubts.",
+        "source": "T30n1579_045:0539a21_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非了義故。",
+        "translation": "It's because it doesn't fully understand the meaning.",
+        "source": "T30n1579_045:0539a21_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩於了義經不決定者。",
+        "translation": "If bodhisattvas aren't certain about the fully explained meaning of the sūtras, then...",
+        "source": "T30n1579_045:0539a22_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛所說法毘奈耶猶可引奪。",
+        "translation": "They can still be seduced by the Buddha's teaching on the Dharma and morality.",
+        "source": "T30n1579_045:0539a22_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩於真證智見為真實。",
+        "translation": "Furthermore, in truly realized wisdom, bodhisattvas see what's real.",
+        "source": "T30n1579_045:0539a23_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非於聞思。",
+        "translation": "It's not from hearing and thinking.",
+        "source": "T30n1579_045:0539a24_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但識法義非真證智。",
+        "translation": "They only know the meaning of the teaching and not truly realized wisdom.",
+        "source": "T30n1579_045:0539a24_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸菩薩如實了知修所成智所應知者。",
+        "translation": "These bodhisattvas truly know what should be known as a result of cultivating wisdom.",
+        "source": "T30n1579_045:0539a25_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非唯聞思所成諸識所能了達。",
+        "translation": "They can't comprehend consciousnesses formed from hearing and contemplating alone.",
+        "source": "T30n1579_045:0539a26_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實知已聞如來說最極甚深所有法義。",
+        "translation": "After truly knowing this, they hear the Tathāgata explain the most extremely profound dharma and its meaning.",
+        "source": "T30n1579_045:0539a26_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "終不誹毀。",
+        "translation": "He will never denigrate them.",
+        "source": "T30n1579_045:0539a27_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩修正四依。",
+        "translation": "This is called a bodhisattva who correctly cultivates the four supports.",
+        "source": "T30n1579_045:0539a28_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依正四依善修習。",
+        "translation": "Relying on the right four supports, they well cultivate them.",
+        "source": "T30n1579_045:0539a28_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故略顯四量。",
+        "translation": "That's why they briefly describe the four authorities.",
+        "source": "T30n1579_045:0539a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂所說義。",
+        "translation": "They are the meaning that's explained.",
+        "source": "T30n1579_045:0539a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正理。",
+        "translation": "They are the right principle ...",
+        "source": "T30n1579_045:0539a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大師修所成慧。",
+        "translation": "The wisdom that's developed from the master's cultivation ...",
+        "source": "T30n1579_045:0539a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "真實證智。",
+        "translation": "It's true and actual wisdom that's realized.",
+        "source": "T30n1579_045:0539b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩一切四依為所依止。",
+        "translation": "Also, bodhisattvas rely on all four supports.",
+        "source": "T30n1579_045:0539b01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "精勤發起正加行。",
+        "translation": "They diligently initiate correct applied practices.",
+        "source": "T30n1579_045:0539b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故於出要道明了開示無有迷惑。",
+        "translation": "Therefore, they clearly understand and reveal the way out without confusion.",
+        "source": "T30n1579_045:0539b02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩所修菩薩四無礙解。",
+        "translation": "\"What are the four unhindered understandings cultivated by bodhisattvas?",
+        "source": "T30n1579_045:0539b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩於一切法一切異門。",
+        "translation": "It means that bodhisattvas approach all things differently.",
+        "source": "T30n1579_045:0539b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盡所有性如所有性。",
+        "translation": "They exhaust all natures as all natures.",
+        "source": "T30n1579_045:0539b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依修所成無所滯礙無退轉智。",
+        "translation": "Based on what's cultivated, there's nothing obstructing, and there's no knowledge of turning back.",
+        "source": "T30n1579_045:0539b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩法無礙解。",
+        "translation": "This is called the bodhisattva's unhindered understanding of principles.",
+        "source": "T30n1579_045:0539b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩於一切法一切異相。",
+        "translation": "Also, regarding all things and all differences in characteristics, the bodhisattvas exhaust their own nature as their own nature.",
+        "source": "T30n1579_045:0539b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盡所有性如所有性。",
+        "translation": "They exhaust their own natures as their own natures.",
+        "source": "T30n1579_045:0539b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依修所成無所滯礙無退轉智。",
+        "translation": "They rely on the cognition that's formed by cultivation, which is unimpeded and undiminished, and which doesn't lead to turning back.",
+        "source": "T30n1579_045:0539b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩義無礙解。",
+        "translation": "This is called the bodhisattva's unimpeded understanding of meaning.",
+        "source": "T30n1579_045:0539b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩於一切法一切釋詞。",
+        "translation": "Also, for all bodhisattvas, all explanations of words for all things are exhausted.",
+        "source": "T30n1579_045:0539b09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盡所有性如所有性。",
+        "translation": "'They exhaust their nature as their nature.'",
+        "source": "T30n1579_045:0539b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依修所成無所滯礙無退轉智。",
+        "translation": "They rely on the knowledge that's formed by cultivation, which is unimpeded and undiminished, and which doesn't lead to turning back.",
+        "source": "T30n1579_045:0539b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩詞無礙解。",
+        "translation": "This is called the bodhisattva's understanding of words without obstruction.",
+        "source": "T30n1579_045:0539b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩於一切法一切品別。",
+        "translation": "Also, in all things, the bodhisattvas understand all categories of dharmas.",
+        "source": "T30n1579_045:0539b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盡所有性如所有性。",
+        "translation": "They exhaust their own natures as their own natures.",
+        "source": "T30n1579_045:0539b13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依修所成無所滯礙無退轉智。",
+        "translation": "They rely on the knowledge that's formed by cultivation, which is unimpeded and undiminished, and which doesn't lead to turning back.",
+        "source": "T30n1579_045:0539b13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩辯無礙解。",
+        "translation": "This is called the bodhisattva's unhindered understanding of eloquence.",
+        "source": "T30n1579_045:0539b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩依是菩薩四無礙解。",
+        "translation": "If bodhisattvas rely on these four unhindered understandings of the bodhisattva, they should know that they've attained the measureless, most excellent fivefold understanding.",
+        "source": "T30n1579_045:0539b14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知獲得無量最勝五處善巧。",
+        "translation": "They should know that they've attained measureless and most excellent five skillful means.",
+        "source": "T30n1579_045:0539b15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一蘊善巧。",
+        "translation": "One is the skillfulness of the aggregates ...",
+        "source": "T30n1579_045:0539b16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二界善巧。",
+        "translation": "skillfulness in the two elements ...",
+        "source": "T30n1579_045:0539b16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三處善巧。",
+        "translation": "Three are the skillful means of locating.",
+        "source": "T30n1579_045:0539b16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四緣起善巧。",
+        "translation": "Four skillful means of dependent arising ...",
+        "source": "T30n1579_045:0539b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五處非處善巧。",
+        "translation": "five abodes and non-abodes are skillful.",
+        "source": "T30n1579_045:0539b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩由此四種行相。",
+        "translation": "Because of these four ways of doing things, the bodhisattva is able to skillfully perform them in all dharmas.",
+        "source": "T30n1579_045:0539b17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切法自能妙善現正等覺。",
+        "translation": "In all things, he's able to skillfully and accurately become equally enlightened.",
+        "source": "T30n1579_045:0539b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦善為他無倒開示。",
+        "translation": "They also skillfully reveal them for others without error.",
+        "source": "T30n1579_045:0539b18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此上無有自能妙善現正等覺。",
+        "translation": "There's nothing above this that's self-capable of being wonderfully well-perfectly now equally enlightened.",
+        "source": "T30n1579_045:0539b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況善為他無倒開示。",
+        "translation": "How much more so when they skillfully and faultlessly reveal them for others?",
+        "source": "T30n1579_045:0539b20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩菩提資糧。",
+        "translation": "\"What is the bodhisattva's necessary accumulation of enlightenment?",
+        "source": "T30n1579_045:0539b20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知如是菩提資糧略有二種。",
+        "translation": "You should know that there are slightly two kinds of such necessary accumulations of enlightenment.",
+        "source": "T30n1579_045:0539b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者福德資糧。",
+        "translation": "One is the accumulation of merit ...",
+        "source": "T30n1579_045:0539b21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者智慧資糧。",
+        "translation": "The second is the accumulation of wisdom.",
+        "source": "T30n1579_045:0539b22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此二資糧廣分別義。",
+        "translation": "These two kinds of accumulations are broadly distinguished.",
+        "source": "T30n1579_045:0539b22_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前所說自他利品。",
+        "translation": "It's like the previously described category of self-improvement and other-improvement.",
+        "source": "T30n1579_045:0539b23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知其相。",
+        "translation": "Their characteristics should be known.",
+        "source": "T30n1579_045:0539b23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又此福德智慧資糧。",
+        "translation": "\"Furthermore, this is the accumulation of merit and wisdom.",
+        "source": "T30n1579_045:0539b23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩於初無數大劫所修習者。",
+        "translation": "It's cultivated by the bodhisattva in the first incalculably long great eon.",
+        "source": "T30n1579_045:0539b24_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知名下。",
+        "translation": "It should be known below.",
+        "source": "T30n1579_045:0539b25_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於第二無數大劫所修習者。",
+        "translation": "If it's cultivated in the second incalculably long great eon, then it should be known below that.",
+        "source": "T30n1579_045:0539b25_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知名中。",
+        "translation": "He should be known in the middle.",
+        "source": "T30n1579_045:0539b26_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於第三無數大劫所修習者。",
+        "translation": "If someone cultivates it in the third incalculably long great eon, they should be known as above.",
+        "source": "T30n1579_045:0539b26_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知名上。",
+        "translation": "they should be known as high.",
+        "source": "T30n1579_045:0539b27_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩於三十七菩提分法精勤修習。",
+        "translation": "\"How do bodhisattvas diligently cultivate the thirty-seven factors of enlightenment?",
+        "source": "T30n1579_045:0539b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩依止菩薩四無礙解。",
+        "translation": "It means bodhisattvas rely on the bodhisattva's four unhindered understandings.",
+        "source": "T30n1579_045:0539b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由善方便所攝妙智。",
+        "translation": "It's the marvelous wisdom that's included in good skillful means.",
+        "source": "T30n1579_045:0539b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於三十七菩提分法。",
+        "translation": "In the thirty-seven factors of enlightenment, they truly comprehend and don't realize them.",
+        "source": "T30n1579_045:0539c01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實了知而不作證。",
+        "translation": "They truly understand them and don't realize them.",
+        "source": "T30n1579_045:0539c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸菩薩普於一切二乘理趣三十七種菩提分法。",
+        "translation": "These bodhisattvas see all 37 factors of enlightenment that are the two vehicles' principle destinies.",
+        "source": "T30n1579_045:0539c02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆如實知。",
+        "translation": "They all know them exactly as they are.",
+        "source": "T30n1579_045:0539c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於聲聞乘理趣。",
+        "translation": "These are the śrāvaka vehicle's principle and aim and the great vehicle's principle and aim of thirty-seven bodhisattvas.",
+        "source": "T30n1579_045:0539c03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及於大乘理趣三十七種菩提分法。",
+        "translation": "and the thirty-seven factors of enlightenment that are the principles and destinies of the great vehicle.",
+        "source": "T30n1579_045:0539c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆如實知。",
+        "translation": "They are all truly known.",
+        "source": "T30n1579_045:0539c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於聲聞乘理趣三十七種菩提分法。",
+        "translation": "They truly know the thirty-seven factors of enlightenment that are the principles and destinies of the śrāvaka vehicle and the thirty-seven factors of enlightenment that are the principles and destinies of the great vehicle.",
+        "source": "T30n1579_045:0539c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實了知。",
+        "translation": "They truly know them.",
+        "source": "T30n1579_045:0539c05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如聲聞地如前所說一切應知。",
+        "translation": "You should know them all as they've been explained in the śrāvaka stage.",
+        "source": "T30n1579_045:0539c06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩於大乘理趣三十七種菩提分法。",
+        "translation": "How do bodhisattvas truly know the thirty-seven factors of enlightenment that are the principles and destinies of the great vehicle?",
+        "source": "T30n1579_045:0539c06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實了知。",
+        "translation": "Do they truly comprehend them?",
+        "source": "T30n1579_045:0539c07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩能於其身住循身觀。",
+        "translation": "It means bodhisattvas can abide in their bodies and observe them as bodies.",
+        "source": "T30n1579_045:0539c08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不於其身分別有性。",
+        "translation": "They don't discriminate between the nature of existence in their bodies.",
+        "source": "T30n1579_045:0539c08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不分別一切種類都無有性。",
+        "translation": "Nor do they discriminate that all kinds are lacking in nature.",
+        "source": "T30n1579_045:0539c09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於其身遠離言說自性法性。",
+        "translation": "They also distance themselves from speaking of their own nature and Dharma nature in their bodies.",
+        "source": "T30n1579_045:0539c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實了知。",
+        "translation": "He understands it as it really is.",
+        "source": "T30n1579_045:0539c10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知名依勝義理趣能於其身住循身觀修習念住。",
+        "translation": "He should be known to rely on the ultimate truth to be able to cultivate mindfulness of abiding in his body and contemplating following his body.",
+        "source": "T30n1579_045:0539c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩隨順無量。",
+        "translation": "If bodhisattvas follow measurelessness.",
+        "source": "T30n1579_045:0539c12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "安立理趣妙智而轉。",
+        "translation": "They establish the principle's aim and wondrous knowledge and turn it around.",
+        "source": "T30n1579_045:0539c12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知名依世俗理趣能於其身住循身觀修習念住。",
+        "translation": "They should be known to rely on worldly principles and aims to be able to cultivate mindful abiding while abiding in their bodies and contemplating their bodies.",
+        "source": "T30n1579_045:0539c13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如於其身住循身觀修習念住。",
+        "translation": "Thus, they cultivate mindfulness of abiding in their bodies and contemplating mindfulness of their bodies.",
+        "source": "T30n1579_045:0539c14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是所餘一切念住。",
+        "translation": "Thus, these other bodhisattvas abide in mindfulness.",
+        "source": "T30n1579_045:0539c15_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所餘一切菩提分法當知亦爾。",
+        "translation": "All the other factors of enlightenment should be known to be the same.",
+        "source": "T30n1579_045:0539c15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩於身等法。",
+        "translation": "Thus, in such things as the body, the bodhisattva doesn't discriminate suffering and doesn't discriminate arising.",
+        "source": "T30n1579_045:0539c16_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不分別苦不分別集。",
+        "translation": "They don't discriminate suffering and don't discriminate arising.",
+        "source": "T30n1579_045:0539c17_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不分別此所作斷滅。",
+        "translation": "They don't discriminate between the cessation of this activity and the cessation of that activity.",
+        "source": "T30n1579_045:0539c17_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不分別此得滅因道。",
+        "translation": "They don't discriminate between the causes and paths to attaining cessation.",
+        "source": "T30n1579_045:0539c18_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又即於此遠離言說自性法性。",
+        "translation": "That is, they're free of speaking of the self-nature of dharmas.",
+        "source": "T30n1579_045:0539c18_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若苦法性若集法性。",
+        "translation": "Whether it's the nature of suffering or the nature of suffering's accumulation, the Dharma nature of suffering's accumulation or the Dharma nature of the path.",
+        "source": "T30n1579_045:0539c19_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若滅法性若道法性。",
+        "translation": "whether it's the Dharma nature of suffering, the Dharma nature of suffering, the Dharma nature of suffering's cessation, or the Dharma nature of the path.",
+        "source": "T30n1579_045:0539c19_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實了知。",
+        "translation": "He accurately understands it.",
+        "source": "T30n1579_045:0539c20_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知名依勝義理趣修菩提分為所依止緣諦修習。",
+        "translation": "He should well-knownly cultivate enlightenment based on the ultimate principle of destiny as the causal truth that's relied upon.",
+        "source": "T30n1579_045:0539c20_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩隨順無量。",
+        "translation": "If bodhisattvas follow measurelessness.",
+        "source": "T30n1579_045:0539c21_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "安立理趣妙智而轉。",
+        "translation": "They establish the principle's aim and wondrous wisdom and turn it around.",
+        "source": "T30n1579_045:0539c22_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知名依世俗理趣緣諦修習。",
+        "translation": "They should be known as cultivating the truth in accordance with the objective of worldly principles as a condition.",
+        "source": "T30n1579_045:0539c22_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中菩薩即於諸法無所分別。",
+        "translation": "In this way, the bodhisattva is making no discrimination among dharmas.",
+        "source": "T30n1579_045:0539c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知名止。",
+        "translation": "He should be known to stop them.",
+        "source": "T30n1579_045:0539c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於諸法勝義理趣如實真智。",
+        "translation": "Suppose he has true cognition of the ultimate truth of the aims of principles as they really are.",
+        "source": "T30n1579_045:0539c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及於無量安立理趣世俗妙智。",
+        "translation": "and subtle conventional wisdom that has an infinite number of well-established truths and objectives.",
+        "source": "T30n1579_045:0539c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知名觀。",
+        "translation": "He should be known as observing them.",
+        "source": "T30n1579_045:0539c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中菩薩略有四行。",
+        "translation": "Here, the bodhisattva has four minor ways of doing things.",
+        "source": "T30n1579_045:0539c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知名止。",
+        "translation": "They should be well-known and calming.",
+        "source": "T30n1579_045:0539c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一勝義世俗智前行。",
+        "translation": "1. the prior practice of knowledge of what's purposeful and worldly.",
+        "source": "T30n1579_045:0539c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二勝義世俗智果。",
+        "translation": "2. the fruit of knowledge of what's purposeful and worldly.",
+        "source": "T30n1579_045:0539c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三普於一切戲論想中無功用轉。",
+        "translation": "Three, it's the fruit of effortless activity in all conceptualizations of conceptualization of conceptualization of conceptualization of conceptualization of conceptualization of conceptualization of conceptualization of conceptualization of conceptualization.",
+        "source": "T30n1579_045:0539c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四即於如是離言唯事。",
+        "translation": "Four, it's thus free of language and only objects.",
+        "source": "T30n1579_045:0539c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由無有相無所分別。",
+        "translation": "Since there are no marks, there's no discrimination.",
+        "source": "T30n1579_045:0539c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其心寂靜趣向一切法平等性一味實性。",
+        "translation": "Their minds are quiescent and headed toward the equality of all things and their single flavor true nature.",
+        "source": "T30n1579_045:0540a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此四行。",
+        "translation": "These four practices are the basis for the movement of bodhisattvas on the path of tranquility.",
+        "source": "T30n1579_045:0540a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸菩薩止道運轉。",
+        "translation": "These are the bodhisattvas' activities of calming the path.",
+        "source": "T30n1579_045:0540a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "漸次乃至能證無上正等菩提。",
+        "translation": "They gradually progress to the point where they realize unsurpassed correct perfect enlightenment.",
+        "source": "T30n1579_045:0540a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智見圓滿。",
+        "translation": "Their wisdom and vision are perfectly complete.",
+        "source": "T30n1579_045:0540a03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中菩薩略有四行。",
+        "translation": "Here, the bodhisattva has four minor practices.",
+        "source": "T30n1579_045:0540a03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知名觀。",
+        "translation": "They should be well-known and observed.",
+        "source": "T30n1579_045:0540a04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂即四行止道前行。",
+        "translation": "These are the four practices that precede the calming of the path.",
+        "source": "T30n1579_045:0540a04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於一切法遠離增益不正執邊。",
+        "translation": "In all things, he's free of the extreme of improper attachment to gain ...",
+        "source": "T30n1579_045:0540a05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠離損減不正執邊。",
+        "translation": "He's free from the extreme of improper attachment to negation.",
+        "source": "T30n1579_045:0540a05_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及與隨順無量諸法差別。",
+        "translation": "And he follows measureless differences in dharmas.",
+        "source": "T30n1579_045:0540a06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "安立理趣妙觀。",
+        "translation": "He establishes a subtle contemplation of the principle's aim.",
+        "source": "T30n1579_045:0540a06_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此四行。",
+        "translation": "These are the four practices.",
+        "source": "T30n1579_045:0540a07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸菩薩觀道運轉。",
+        "translation": "These bodhisattvas observe the movement of the path.",
+        "source": "T30n1579_045:0540a07_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "漸次乃至能證無上正等菩提。",
+        "translation": "They gradually progress to the point where they realize unsurpassed correct perfect enlightenment.",
+        "source": "T30n1579_045:0540a07_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "智見圓滿。",
+        "translation": "Their wisdom and vision are perfectly complete.",
+        "source": "T30n1579_045:0540a08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名略說菩薩止觀。",
+        "translation": "This is called an abridged explanation of the bodhisattva's stillness and contemplation.",
+        "source": "T30n1579_045:0540a08_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩方便善巧。",
+        "translation": "\"What are the bodhisattva's skillful means?",
+        "source": "T30n1579_045:0540a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知略說有十二種。",
+        "translation": "You should know that there are 12 kinds of abbreviated explanation.",
+        "source": "T30n1579_045:0540a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依內修證一切佛法。",
+        "translation": "They rely on internal cultivation to realize all the Buddha's teachings.",
+        "source": "T30n1579_045:0540a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有其六種。",
+        "translation": "There are six of them.",
+        "source": "T30n1579_045:0540a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依外成熟一切有情。",
+        "translation": "Relying on the external ripening of all sentient beings.",
+        "source": "T30n1579_045:0540a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有六種。",
+        "translation": "There are also six kinds.",
+        "source": "T30n1579_045:0540a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何依內修證一切佛法六種方便善巧。",
+        "translation": "What are the six kinds of skillful means for cultivating all the Buddha's teachings internally?",
+        "source": "T30n1579_045:0540a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者菩薩於諸有情。",
+        "translation": "One is that the bodhisattva acts with compassion toward all sentient beings, looking after them and not abandoning them.",
+        "source": "T30n1579_045:0540a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悲心俱行顧戀不捨。",
+        "translation": "He acts with compassion and concern and doesn't abandon them.",
+        "source": "T30n1579_045:0540a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者菩薩於一切行。",
+        "translation": "Second, the bodhisattva perceives all conditioned things as they are.",
+        "source": "T30n1579_045:0540a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實遍知。",
+        "translation": "He accurately and thoroughly knows them.",
+        "source": "T30n1579_045:0540a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者菩薩恒於無上正等菩提所有妙智。",
+        "translation": "Third, the bodhisattva always has sublime knowledge of the unsurpassed correct enlightenment.",
+        "source": "T30n1579_045:0540a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "深心欣樂。",
+        "translation": "They are deeply delighted in their hearts.",
+        "source": "T30n1579_045:0540a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者菩薩顧戀有情為依止故。",
+        "translation": "Fourth, the bodhisattva cares for sentient beings as his support.",
+        "source": "T30n1579_045:0540a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不捨生死。",
+        "translation": "They don't abandon birth and death.",
+        "source": "T30n1579_045:0540a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者菩薩於一切行。",
+        "translation": "Fifth, the bodhisattva perceives all conditioned phenomena as they really are.",
+        "source": "T30n1579_045:0540a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實遍知為依止故。",
+        "translation": "As-it-is, they have full knowledge of them as a basis.",
+        "source": "T30n1579_045:0540a18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "輪轉生死而心不染。",
+        "translation": "transmigration through birth and death remains undefiled at heart.",
+        "source": "T30n1579_045:0540a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者菩薩欣樂佛智為依止故。",
+        "translation": "Sixth, the bodhisattva delights in Buddha's wisdom as his support.",
+        "source": "T30n1579_045:0540a19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "熾然精進。",
+        "translation": "He vigorously undertakes it.",
+        "source": "T30n1579_045:0540a20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名菩薩依內修證一切佛法六種方便善巧。",
+        "translation": "You should know that these are the six kinds of skillful means by which a bodhisattva cultivates the realization of all the Buddha's teachings from within.",
+        "source": "T30n1579_045:0540a20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何依外成熟一切有情六種方便善巧。",
+        "translation": "What are the six kinds of skillful means of relying on the outside to ripen all sentient beings?",
+        "source": "T30n1579_045:0540a21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者菩薩方便善巧。",
+        "translation": "One is a bodhisattva's skillful means.",
+        "source": "T30n1579_045:0540a22_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能令有情以少善根感無量果。",
+        "translation": "They can cause sentient beings to experience measureless results with few good roots.",
+        "source": "T30n1579_045:0540a22_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者菩薩方便善巧。",
+        "translation": "Two, a bodhisattva's skillful means ...",
+        "source": "T30n1579_045:0540a23_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能令有情少用功力引攝廣大無量善根。",
+        "translation": "They cause sentient beings to use a little effort to bring in a vast array of measureless good roots.",
+        "source": "T30n1579_045:0540a24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者菩薩方便善巧。",
+        "translation": "Third, the bodhisattva is skillful in his skillful means.",
+        "source": "T30n1579_045:0540a25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛聖教憎背有情除其恚惱。",
+        "translation": "In the Buddha's noble teaching, he abhors and rejects sentient beings and removes their anger and distress.",
+        "source": "T30n1579_045:0540a25_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者菩薩方便善巧。",
+        "translation": "Fourth, the bodhisattva is skillful in his skillful means.",
+        "source": "T30n1579_045:0540a26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛聖教處中有情令其趣入。",
+        "translation": "In the midst of the Buddha's noble teaching, he causes sentient beings to enter.",
+        "source": "T30n1579_045:0540a26_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者菩薩方便善巧。",
+        "translation": "Five, the bodhisattva is skillful in his skillful means.",
+        "source": "T30n1579_045:0540a27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛聖教已趣入者令其成熟。",
+        "translation": "He causes those who have already entered the Buddha's noble teaching to mature.",
+        "source": "T30n1579_045:0540a28_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者菩薩方便善巧。",
+        "translation": "Sixth, the bodhisattva is skillful in his skillful means.",
+        "source": "T30n1579_045:0540a28_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛聖教已成熟者令得解脫。",
+        "translation": "They cause those who have matured in the Buddha's noble teaching to attain liberation.",
+        "source": "T30n1579_045:0540a29_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩方便善巧令諸有情以少善根感無量果。",
+        "translation": "How do bodhisattvas skillfully and conveniently cause sentient beings to attain measureless results from few good roots?",
+        "source": "T30n1579_045:0540b01_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩方便善巧。",
+        "translation": "It means that bodhisattvas skillfully and conveniently do so.",
+        "source": "T30n1579_045:0540b02_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勸諸有情。",
+        "translation": "They encourage sentient beings to.",
+        "source": "T30n1579_045:0540b02_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨微劣物乃至最下唯一麨團。",
+        "translation": "They abandon poor things ... even the lowest lump of uncooked bread.",
+        "source": "T30n1579_045:0540b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "施鄙穢田乃至蠢動傍生之類。",
+        "translation": "They give to a vile and dirty land or even to a species of foolish animals.",
+        "source": "T30n1579_045:0540b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是施已迴求無上正等菩提。",
+        "translation": "After making this gift, they will then turn around and pursue unsurpassed correct enlightenment.",
+        "source": "T30n1579_045:0540b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是善根物田雖下。",
+        "translation": "Although this is a humble field of goods with good roots.",
+        "source": "T30n1579_045:0540b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由迴向力感無量果。",
+        "translation": "The power of dedication of merit brings about measureless results.",
+        "source": "T30n1579_045:0540b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩方便善巧。",
+        "translation": "How do bodhisattvas skillfully and conveniently do so?",
+        "source": "T30n1579_045:0540b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令諸有情以少功力引攝廣大無量善根。",
+        "translation": "Do they cause sentient beings to bring in a vast array of measureless good roots with a little effort?",
+        "source": "T30n1579_045:0540b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩方便善巧。",
+        "translation": "It means the skillful means of the bodhisattvas.",
+        "source": "T30n1579_045:0540b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有信解受邪齋戒乃至一月都不食等諸有情類。",
+        "translation": "Suppose there are believing sentient beings who accept the mistaken observance of the precepts, even if they don't eat for a month.",
+        "source": "T30n1579_045:0540b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為說八支聖齋戒法。",
+        "translation": "They teach them the eightfold noble observance of the precepts.",
+        "source": "T30n1579_045:0540b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令其棄捨最極艱辛感非愛果受邪齋戒。",
+        "translation": "They cause them to abandon the most extreme hardships, which bring about unattractive results, and accept the mistaken observance of the precepts.",
+        "source": "T30n1579_045:0540b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勸令修學無極艱辛感大愛果受正齋戒。",
+        "translation": "He encourages them to cultivate the right kind of fasting that's the fruit of great affection caused by the unsurpassed hardships.",
+        "source": "T30n1579_045:0540b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸有情修自苦行精勤無懈。",
+        "translation": "If sentient beings cultivate their own ascetic practices, they diligently work hard without laziness.",
+        "source": "T30n1579_045:0540b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起邪方便欲求解脫。",
+        "translation": "They then give rise to wrong methods and want to pursue liberation.",
+        "source": "T30n1579_045:0540b13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為說中道令離二邊使其趣入。",
+        "translation": "He teaches them the middle way, causing them to part with the two extremes and lead them to it.",
+        "source": "T30n1579_045:0540b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸有情求欲生天起邪方便。",
+        "translation": "If sentient beings wishing to be born in heaven give rise to wrong methods, they'll throw themselves into a rock or fire and cut off food and drink.",
+        "source": "T30n1579_045:0540b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "投巖赴火斷飲食等。",
+        "translation": "They plunge into a rock or fire, cut off food and drink, and so forth.",
+        "source": "T30n1579_045:0540b15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為其宣說無倒靜慮。",
+        "translation": "He teaches them undistorted meditation.",
+        "source": "T30n1579_045:0540b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼獲於現法樂住。",
+        "translation": "He causes them to attain a happy abiding in the present life.",
+        "source": "T30n1579_045:0540b16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "逮得當來無諸艱苦與喜樂俱生天勝果。",
+        "translation": "They'll attain the excellent result of future birth in the heavens with neither hardship nor joy.",
+        "source": "T30n1579_045:0540b17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸有情信婆羅門吠地迦呪妄計。",
+        "translation": "If sentient beings believe in the false imputation of the Brāhmaṇa Vṛttika Dhāraṇī, they'll diligently memorize and recite it and attain its ultimate realization.",
+        "source": "T30n1579_045:0540b18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "精勤受持讀誦得究竟。",
+        "translation": "They diligently memorize and recite it, and then they attain its ultimate realization.",
+        "source": "T30n1579_045:0540b18_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨方便勸令於佛聖教受持讀誦思惟其義。",
+        "translation": "They are encouraged by pure methods to accept, read, recite, and contemplate the meaning of the Buddha's noble teaching.",
+        "source": "T30n1579_045:0540b19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又正為他如是如是宣揚開示如來所說甚深空性相應妙法。",
+        "translation": "He also correctly proclaims and reveals for others the marvelous Dharma associated with the profound nature of emptiness as taught by the Tathāgata.",
+        "source": "T30n1579_045:0540b20_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼發生勇決厭離猛利淨信。",
+        "translation": "He causes them to give rise to a resolute, disillusioned, intense, pure faith.",
+        "source": "T30n1579_045:0540b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但由如是一剎那頃厭離淨信俱行善心。",
+        "translation": "But because of this, for a moment, he'll be disillusioned with pure faith and will be acting well together.",
+        "source": "T30n1579_045:0540b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尚能攝受不可稱數廣大善根。",
+        "translation": "It's still able to collect an incalculably large number of good roots.",
+        "source": "T30n1579_045:0540b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "況其相續。",
+        "translation": "It's even more so when it's continuous.",
+        "source": "T30n1579_045:0540b24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩世間所有種種上妙珍寶香鬘諸供養具。",
+        "translation": "Furthermore, the bodhisattvas have all the world's finest treasures, fragrances, and garlands, and other offerings.",
+        "source": "T30n1579_045:0540b24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "起淨信俱增上意樂。",
+        "translation": "They give rise to pure faith and the accompanying superior intent.",
+        "source": "T30n1579_045:0540b25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛法僧勝解供養。",
+        "translation": "They make offerings with superior understanding to the buddhas, Dharma, and saṃgha.",
+        "source": "T30n1579_045:0540b26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勸導他令行如是勝解供養。",
+        "translation": "They also encourage others to make such resolute offerings.",
+        "source": "T30n1579_045:0540b26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於十方一切世界一切供養佛法僧所。",
+        "translation": "They also make offerings to the Buddha, Dharma, and Saṃgha in all the worlds of the ten directions.",
+        "source": "T30n1579_045:0540b27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即以如是淨信俱行增上意樂。",
+        "translation": "They then make these offerings with the shared, superior intent of pure faith.",
+        "source": "T30n1579_045:0540b28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "周匝普緣深生隨喜。",
+        "translation": "He circumambulates them all and causes them to profoundly give rise to joy.",
+        "source": "T30n1579_045:0540b29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勸導他作是隨喜。",
+        "translation": "He also encourages others to give that kind of joy.",
+        "source": "T30n1579_045:0540b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩恒常修習念佛念法乃至念天。",
+        "translation": "Those bodhisattvas also constantly cultivate mindfulness of the Buddha and mindfulness of the Dharma, even up to mindfulness of the gods.",
+        "source": "T30n1579_045:0540c01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勸導他令修六念。",
+        "translation": "They also encourage others to cultivate the six kinds of mindfulness.",
+        "source": "T30n1579_045:0540c02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩意言分別禮佛法僧。",
+        "translation": "Those bodhisattvas also say with intention to pay distinct reverence to the Buddha, Dharma, and Saṃgha.",
+        "source": "T30n1579_045:0540c02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至命終時無虛度。",
+        "translation": "They don't waste time until the end of their lives.",
+        "source": "T30n1579_045:0540c03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勸導他行此禮業。",
+        "translation": "They also encourage others to perform this act of worship.",
+        "source": "T30n1579_045:0540c03_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩普於十方一切有情一切福業悉皆隨喜。",
+        "translation": "Those bodhisattvas also rejoice in all the meritorious actions of all sentient beings in the ten directions.",
+        "source": "T30n1579_045:0540c04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勸導他作是隨喜。",
+        "translation": "They also encourage others to rejoice in this way.",
+        "source": "T30n1579_045:0540c05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩普於十方一切有情。",
+        "translation": "\"Furthermore, the bodhisattvas reach out to all sentient beings in the ten directions.",
+        "source": "T30n1579_045:0540c06_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入廣大悲增上意樂。",
+        "translation": "They enter into the aspiration to increase their vast compassion.",
+        "source": "T30n1579_045:0540c06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願以自身皆代彼受一切憂苦。",
+        "translation": "They want to take their place in all their sorrow and suffering.",
+        "source": "T30n1579_045:0540c07_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勸導他興此悲願。",
+        "translation": "They also encourage others to give rise to this compassionate vow.",
+        "source": "T30n1579_045:0540c08_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩過去現在一切誤失一切違犯。",
+        "translation": "Also, those bodhisattvas committed all past and present errors and violations.",
+        "source": "T30n1579_045:0540c08_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以淨調柔愛樂。",
+        "translation": "They loved and enjoyed them with pure discipline.",
+        "source": "T30n1579_045:0540c09_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨順所學戒。",
+        "translation": "They conform to the precepts they've studied.",
+        "source": "T30n1579_045:0540c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心。",
+        "translation": "mind.",
+        "source": "T30n1579_045:0540c10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "想對十方佛世尊所。",
+        "translation": "He conceives of the buddhas and world-honored ones in the ten directions.",
+        "source": "T30n1579_045:0540c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至誠發露悔往修來。",
+        "translation": "They sincerely reveal their repentance and come back to them.",
+        "source": "T30n1579_045:0540c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勸導他令行是事。",
+        "translation": "He also encourages others to do these things.",
+        "source": "T30n1579_045:0540c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是數數發露所犯。",
+        "translation": "Thus, he repeatedly discloses what's been violated.",
+        "source": "T30n1579_045:0540c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少用功力一切業障皆得解脫。",
+        "translation": "With a little effort, all the karmic hindrances are freed.",
+        "source": "T30n1579_045:0540c12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩已具神通得心自在。",
+        "translation": "Furthermore, once they've acquired supernormal powers, bodhisattvas attain mental mastery.",
+        "source": "T30n1579_045:0540c13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "普於十方佛法僧所及有情處。",
+        "translation": "They can go to all the buddhas, dharmas, and saṃgha in the ten directions and to all places of sentient beings.",
+        "source": "T30n1579_045:0540c13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "化作眾多種種化事。",
+        "translation": "They create many different kinds of transformation services.",
+        "source": "T30n1579_045:0540c14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝受無量大福德聚。",
+        "translation": "They gather measureless clusters of great merit.",
+        "source": "T30n1579_045:0540c15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩恒常修習慈悲喜捨。",
+        "translation": "Those bodhisattvas also constantly cultivate kindness, pity, joy, and equanimity.",
+        "source": "T30n1579_045:0540c15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦勸導他作此修習。",
+        "translation": "They also encourage others to engage in that practice.",
+        "source": "T30n1579_045:0540c16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩以少功力引攝廣大無量善根諸勝妙果。",
+        "translation": "Thus, with a little effort, the bodhisattva brings about the vast, immeasurable good roots and excellent, wonderful results.",
+        "source": "T30n1579_045:0540c16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩方便善巧。",
+        "translation": "How are the bodhisattvas skillful in their means?",
+        "source": "T30n1579_045:0540c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛聖教憎背有情。",
+        "translation": "In the Buddha's noble teaching, he abhors sentient beings.",
+        "source": "T30n1579_045:0540c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除其恚惱。",
+        "translation": "He rids them of anger and distress.",
+        "source": "T30n1579_045:0540c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處中住者令其趣入。",
+        "translation": "He causes those who live in the midst of it to enter it.",
+        "source": "T30n1579_045:0540c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已趣入者令其成熟。",
+        "translation": "Those who have already entered cause them to mature.",
+        "source": "T30n1579_045:0540c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已成熟者令得解脫。",
+        "translation": "Those who have matured cause them to attain liberation.",
+        "source": "T30n1579_045:0540c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩為欲成辦如是四種有情義利。",
+        "translation": "It means that bodhisattvas want to fulfill these four kinds of benefits for sentient beings.",
+        "source": "T30n1579_045:0540c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知略說復有六種方便善巧。",
+        "translation": "You should know that there are six more kinds of skillful means, as briefly explained.",
+        "source": "T30n1579_045:0540c22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者隨順會通方便善巧。",
+        "translation": "One is the skillful means of according and communicating.",
+        "source": "T30n1579_045:0540c23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者共立要契方便善巧。",
+        "translation": "Two, the skillful means of establishing the essentials in common.",
+        "source": "T30n1579_045:0540c24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者異分意樂方便善巧。",
+        "translation": "Three are skillful means of accomplishing different kinds of intentions.",
+        "source": "T30n1579_045:0540c24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者逼迫所生方便善巧。",
+        "translation": "4. the skillful means of forcing something to arise.",
+        "source": "T30n1579_045:0540c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者施恩報恩方便善巧。",
+        "translation": "Five, the skillful means of bestowing kindness and repaying kindness.",
+        "source": "T30n1579_045:0540c25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六者究竟清淨方便善巧。",
+        "translation": "Sixth, the skillful means of ultimate purity.",
+        "source": "T30n1579_045:0540c26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩隨順會通方便善巧。",
+        "translation": "\"What is the bodhisattva's skillful means of according and communicating with others?",
+        "source": "T30n1579_045:0540c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩於彼有情將為說法。",
+        "translation": "It means that when a bodhisattva is about to teach a sentient being, he or she must first skillfully follow it.",
+        "source": "T30n1579_045:0540c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先當方便隨順。",
+        "translation": "First, they should skillfully follow them.",
+        "source": "T30n1579_045:0540c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現行軟美身語。",
+        "translation": "Their present softness and beauty are physical and verbal.",
+        "source": "T30n1579_045:0540c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦復現行近施隨轉。",
+        "translation": "They also presently follow them with an approaching gift.",
+        "source": "T30n1579_045:0540c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除彼於己所生恚惱。",
+        "translation": "It removes the anger and distress that they themselves harbor.",
+        "source": "T30n1579_045:0540c29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼恚惱除便生愛敬。",
+        "translation": "Once their anger and anxiety are removed, they then become loving and respectful.",
+        "source": "T30n1579_045:0541a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "愛敬生已於法起樂。",
+        "translation": "After that affection and respect arises, they become happy with the teaching.",
+        "source": "T30n1579_045:0541a01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然後為其宣說正法。",
+        "translation": "He then explains the right teaching for them.",
+        "source": "T30n1579_045:0541a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所說正法如其所宜易入易解。",
+        "translation": "That correct teaching is as easy to enter and easy to understand as is appropriate for that person.",
+        "source": "T30n1579_045:0541a02_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應時漸次無有顛倒。",
+        "translation": "It should be given in gradual succession without confusion.",
+        "source": "T30n1579_045:0541a03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能引義利堪任難擊。",
+        "translation": "It's capable of bringing about meaningfulness and adaptability to difficult blows.",
+        "source": "T30n1579_045:0541a03_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼有情調伏事中成就最勝欲作饒益哀愍之心。",
+        "translation": "In the task of bringing sentient beings under submission, he accomplishes the most excellent desire to work to improve and sympathize with them.",
+        "source": "T30n1579_045:0541a04_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為現神通記心顯說如理正法。",
+        "translation": "He demonstrates his mind with supernormal abilities and explains the correct teaching as it is.",
+        "source": "T30n1579_045:0541a05_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或勸請他。",
+        "translation": "He might encourage others.",
+        "source": "T30n1579_045:0541a06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或為化作種種眾多殊特化事。",
+        "translation": "He might create a variety of special works for them.",
+        "source": "T30n1579_045:0541a06_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼有情皆悉調伏。",
+        "translation": "They cause those sentient beings to be completely subdued.",
+        "source": "T30n1579_045:0541a07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若引義利。",
+        "translation": "If he draws in the truth, then he'll be able to explain it in detail.",
+        "source": "T30n1579_045:0541a07_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極略諸論能為廣辯。",
+        "translation": "Those who present the most abbreviated theories can explain them in detail.",
+        "source": "T30n1579_045:0541a08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若引義利。",
+        "translation": "If he draws on the benefits, the very broadest treatises can be abbreviated.",
+        "source": "T30n1579_045:0541a08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "極廣諸論能為略說。",
+        "translation": "Those extremely broad treatises can be explained in brief.",
+        "source": "T30n1579_045:0541a08_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令其受持為作憶念施其問難。",
+        "translation": "He causes them to accept and maintain them, recollecting them and giving them an answer to their questions.",
+        "source": "T30n1579_045:0541a09_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼既於法能受能持。",
+        "translation": "Now that he's able to accept and maintain the teaching, he'll go on to explain its correct meaning in detail for him.",
+        "source": "T30n1579_045:0541a10_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復進為其廣開正義。",
+        "translation": "He then furthermore explains the correct meaning in detail for them.",
+        "source": "T30n1579_045:0541a10_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於趣入遍緣一切三摩地門。",
+        "translation": "He's also able to enter all the samādhi aspects that have pervasive reference.",
+        "source": "T30n1579_045:0541a11_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能為隨順教授教誡。",
+        "translation": "He can teach and admonish them in a way that's appropriate for them.",
+        "source": "T30n1579_045:0541a11_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝益有情令修利行。",
+        "translation": "He brings benefit to sentient beings and causes them to cultivate beneficial practices.",
+        "source": "T30n1579_045:0541a12_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸有情於佛所說甚深空性相應經典。",
+        "translation": "If sentient beings listen to the sūtras associated with the profound nature of emptiness taught by the Buddha.",
+        "source": "T30n1579_045:0541a12_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不解如來密意義趣。",
+        "translation": "They don't understand the meaning and purpose of the Tathāgata's esoteric teachings.",
+        "source": "T30n1579_045:0541a13_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此經中說一切法皆無自性皆無有事無生無滅。",
+        "translation": "In this sutra, it's said that all things lack self-nature, are without substance, and have neither arising nor ceasing.",
+        "source": "T30n1579_045:0541a14_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說一切法皆等虛空皆如幻夢。",
+        "translation": "It teaches that all things are equal to space and are illusory and dreamlike.",
+        "source": "T30n1579_045:0541a15_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼聞是已如其義趣不能解了。",
+        "translation": "After hearing this, he understands nothing of its meaning.",
+        "source": "T30n1579_045:0541a16_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心生驚怖。",
+        "translation": "They become frightened.",
+        "source": "T30n1579_045:0541a17_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誹謗如是一切經典言非佛說。",
+        "translation": "They denigrate all these sūtras and say they aren't the Buddha's teaching.",
+        "source": "T30n1579_045:0541a17_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩為彼諸有情類。",
+        "translation": "For those kinds of sentient beings, the bodhisattva skillfully and conveniently understands as a matter of principle what the Buddha says.",
+        "source": "T30n1579_045:0541a18_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方便善巧如理會通如是經中如來密意甚深義趣。",
+        "translation": "They skillfully and conveniently comprehend the profound meaning and objectives of the Tathāgata's hidden thoughts in these sūtras according to reality.",
+        "source": "T30n1579_045:0541a18_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實和會攝彼有情。",
+        "translation": "They accurately and harmoniously gather those sentient beings.",
+        "source": "T30n1579_045:0541a19_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩如是正會通時。",
+        "translation": "When the bodhisattva correctly comprehends it this way.",
+        "source": "T30n1579_045:0541a20_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為彼說言。",
+        "translation": "He said for them.",
+        "source": "T30n1579_045:0541a20_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此經不說一切諸法都無所有。",
+        "translation": "\"This sūtra doesn't say that all dharmas are completely nonexistent.",
+        "source": "T30n1579_045:0541a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但說諸法所言自性都無所有。",
+        "translation": "It only says that the so-called own-natures of all dharmas are without existence.",
+        "source": "T30n1579_045:0541a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說言一切諸法皆無自性。",
+        "translation": "Therefore, it says that all dharmas are devoid of their own nature.",
+        "source": "T30n1579_045:0541a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有一切所言說事。",
+        "translation": "Even though there are all things that are spoken about, they're all things that are explained.",
+        "source": "T30n1579_045:0541a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依止彼故諸言說轉。",
+        "translation": "It's because they rely on that that what's said is transformed by what's said.",
+        "source": "T30n1579_045:0541a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然彼所說可說自性。",
+        "translation": "However, what's said there can be described as having an own-nature.",
+        "source": "T30n1579_045:0541a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "據第一義非其自性。",
+        "translation": "According to the ultimate truth, it's not their own nature.",
+        "source": "T30n1579_045:0541a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說言一切諸法皆無有事。",
+        "translation": "That's why it's said that all dharmas are devoid of anything.",
+        "source": "T30n1579_045:0541a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切諸法所言自性理既如是。",
+        "translation": "Since the self-nature of all things that are said to be true is thus the principle, they've all been without existence since the beginning.",
+        "source": "T30n1579_045:0541a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從本已來都無所有。",
+        "translation": "Since the distant past, they've all been without existence.",
+        "source": "T30n1579_045:0541a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當何所生當何所滅。",
+        "translation": "What will arise and what will cease?'",
+        "source": "T30n1579_045:0541a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說言一切諸法無生無滅。",
+        "translation": "Therefore, it's said that all dharmas lack birth and cease.",
+        "source": "T30n1579_045:0541a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如空中有眾多色色業可得容受一切諸色色業。",
+        "translation": "It's like when there's a multitude of forms and forms of activity in the sky that can accommodate all forms and forms of activity.",
+        "source": "T30n1579_045:0541a28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂虛空中現有種種若往若來若住起墮屈伸等事。",
+        "translation": "That is, there are various things in space that happen whether they're going, coming, standing, rising, falling, bending, or stretching.",
+        "source": "T30n1579_045:0541a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於爾時諸色色業皆悉除遣。",
+        "translation": "If at that point, all form and form of activity are completely removed, then there's nothing but form at that point.",
+        "source": "T30n1579_045:0541b01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於爾時唯無色性。",
+        "translation": "At that point, there's only no form nature.",
+        "source": "T30n1579_045:0541b02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨虛空其相顯現。",
+        "translation": "The characteristics of pure space are revealed.",
+        "source": "T30n1579_045:0541b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是即於相似虛空離言說事。",
+        "translation": "Thus, it's like space that's free of verbal expressions.",
+        "source": "T30n1579_045:0541b03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有其種種言說所作邪想分別隨戲論著。",
+        "translation": "There are various kinds of wrong conceptions, discriminations, and conceptual attachments based on language.",
+        "source": "T30n1579_045:0541b04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "似色業轉。",
+        "translation": "It's like the manifestation of form in karma.",
+        "source": "T30n1579_045:0541b05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又即如是一切言說邪想分別隨戲論著似眾色業。",
+        "translation": "It's also thus that all speech that's based on mistaken conceptions, discriminations, and conceptual attachments that resemble various forms of activity.",
+        "source": "T30n1579_045:0541b05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆是似空離言說事之所容受。",
+        "translation": "They all appear to be empty and free from the things that are tolerated in speech.",
+        "source": "T30n1579_045:0541b06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若時菩薩以妙聖智。",
+        "translation": "Suppose a bodhisattva then uses sublime noble cognition.",
+        "source": "T30n1579_045:0541b07_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遣除一切言說所起邪想分別隨戲論著。",
+        "translation": "They rid themselves of all mistaken conceptions, discriminations, and conceptual attachments that arise from language.",
+        "source": "T30n1579_045:0541b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時菩薩最勝聖者。",
+        "translation": "At that point, the bodhisattva is the most excellent and noble one.",
+        "source": "T30n1579_045:0541b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以妙聖智證得諸法離言說事。",
+        "translation": "With sublime noble cognition, he realizes that all things are free of verbal expressions and affairs.",
+        "source": "T30n1579_045:0541b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯有一切言說自性。",
+        "translation": "'There's only the own-nature of all language.'",
+        "source": "T30n1579_045:0541b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非性所顯。",
+        "translation": "They aren't of a nature that's expressed.",
+        "source": "T30n1579_045:0541b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如虛空清淨相現。",
+        "translation": "It's like the pure appearance of space.",
+        "source": "T30n1579_045:0541b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦非過此有餘自性應更尋求。",
+        "translation": "Nor is there any other self-nature beyond that that should be sought.",
+        "source": "T30n1579_045:0541b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故宣說一切諸法皆等虛空。",
+        "translation": "Therefore, it's declared that all dharmas are equal to space.",
+        "source": "T30n1579_045:0541b12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如幻夢非如顯現如實是有。",
+        "translation": "It's also like an illusion or dream that doesn't appear as it really is.",
+        "source": "T30n1579_045:0541b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦非一切幻夢形質都無所有。",
+        "translation": "Nor are all illusory dream forms and substances completely devoid of existence.",
+        "source": "T30n1579_045:0541b13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是諸法非如愚夫言說串習勢力所現如實是有。",
+        "translation": "Such dharmas aren't really existent as they appear due to the power of a foolish man's verbal concomitant.",
+        "source": "T30n1579_045:0541b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦非一切諸法勝義離言自性都無所有。",
+        "translation": "Nor are all dharmas that are excellent in meaning and free from verbal own-nature completely devoid of existence.",
+        "source": "T30n1579_045:0541b15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此方便悟入道理。",
+        "translation": "This is the method for realizing the principle.",
+        "source": "T30n1579_045:0541b16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切諸法非有非無。",
+        "translation": "'All dharmas are neither existent nor nonexistent.'",
+        "source": "T30n1579_045:0541b17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶如幻夢其性無二。",
+        "translation": "They're like illusory dreams whose nature is nondual.",
+        "source": "T30n1579_045:0541b17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故宣說一切諸法皆如幻夢。",
+        "translation": "Therefore, it's declared that all dharmas are like illusory dreams.",
+        "source": "T30n1579_045:0541b18_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩普於一切諸法法界。",
+        "translation": "Thus, the bodhisattva universally observes the Dharma realm of all dharmas.",
+        "source": "T30n1579_045:0541b18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不取少分不捨少分。",
+        "translation": "They don't grasp a small part and don't abandon a small part.",
+        "source": "T30n1579_045:0541b19_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不作損減不作增益。",
+        "translation": "They don't make decrease or gain.",
+        "source": "T30n1579_045:0541b20_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無所失壞。",
+        "translation": "Nothing is lost or destroyed.",
+        "source": "T30n1579_045:0541b20_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若法實有知為實有。",
+        "translation": "If a dharma is really existent, he knows it's really existent.",
+        "source": "T30n1579_045:0541b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若法實無知為實無。",
+        "translation": "If a dharma is really nonexistent, knowing it is really nonexistent.",
+        "source": "T30n1579_045:0541b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如其所知如是開示。",
+        "translation": "thus revealing what he knows.",
+        "source": "T30n1579_045:0541b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名菩薩隨順會通方便善巧。",
+        "translation": "You should know that this is called the bodhisattva's skillful means of cooperating with and communicating with.",
+        "source": "T30n1579_045:0541b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩共立要契方便善巧。",
+        "translation": "\"What is the skillful means by which bodhisattvas work together to establish the essentials?",
+        "source": "T30n1579_045:0541b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩若見有情求飲食等十資身具。",
+        "translation": "It means that if bodhisattvas see sentient beings seeking ten necessities such as food and drink, then they can work together with them to establish an essential agreement.",
+        "source": "T30n1579_045:0541b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即便共彼立要契言。",
+        "translation": "They can then work with them to establish an essential compact, saying.",
+        "source": "T30n1579_045:0541b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等若能知父母恩恭敬供養。",
+        "translation": "\"If you know the kindness of your parents, respect and make offerings to them.",
+        "source": "T30n1579_045:0541b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及諸沙門婆羅門等。",
+        "translation": "And the ascetics, priests, and so forth.",
+        "source": "T30n1579_045:0541b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說如前。",
+        "translation": "They've explained them in detail as before.",
+        "source": "T30n1579_045:0541b27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至若能受持淨戒。",
+        "translation": "... if you can observe the pure precepts.",
+        "source": "T30n1579_045:0541b27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我當隨汝所欲施飲食等諸資身具。",
+        "translation": "I will then follow your desires and give you food and drink and other necessities.",
+        "source": "T30n1579_045:0541b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如其不能我不施汝。",
+        "translation": "If they can't, I won't give them to you.",
+        "source": "T30n1579_045:0541b29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩若見有情來求種種田事宅事。",
+        "translation": "Thus, if a bodhisattva sees sentient beings coming to ask for various things in their fields and homes.",
+        "source": "T30n1579_045:0541b29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸闤闠事。",
+        "translation": "The affairs of the fields, the affairs of the palace, and the affairs of the people.",
+        "source": "T30n1579_045:0541c01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王事域事。",
+        "translation": "king's affairs and domains' affairs.",
+        "source": "T30n1579_045:0541c01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "財事穀事。",
+        "translation": "Wealthy things and grainy things.",
+        "source": "T30n1579_045:0541c02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有來求諸工業處及諸明處。",
+        "translation": "Some come seeking places of industry and places of knowledge.",
+        "source": "T30n1579_045:0541c02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有來求共為朋友。",
+        "translation": "Some come seeking to be friends together.",
+        "source": "T30n1579_045:0541c03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有來求共結婚媾。",
+        "translation": "Some may come seeking to be married together.",
+        "source": "T30n1579_045:0541c03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有來求共作邑會。",
+        "translation": "Some come seeking to work together as an assembly of eunuchs.",
+        "source": "T30n1579_045:0541c04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有來求助營事業。",
+        "translation": "Some may come seeking to build a business.",
+        "source": "T30n1579_045:0541c04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩共彼立要契言。",
+        "translation": "The bodhisattva makes a covenant with them, saying.",
+        "source": "T30n1579_045:0541c05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等若能知父母恩恭敬供養。",
+        "translation": "\"If you can know the kindness of your parents and respect and make offerings to them.",
+        "source": "T30n1579_045:0541c05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前廣說。",
+        "translation": "It's as explained in detail earlier.",
+        "source": "T30n1579_045:0541c06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我當施汝田宅廣說乃至助營事業。",
+        "translation": "Thus, I will give you a plot of land and a house and explain it in detail, even to the point of helping to build a business.",
+        "source": "T30n1579_045:0541c06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩若見有情有諸愆犯或被舉訟。",
+        "translation": "\"Furthermore, if bodhisattvas see that sentient beings commit crimes or are held up in litigation.",
+        "source": "T30n1579_045:0541c07_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或作種種不饒益事為他所拘。",
+        "translation": "Or they do various things that are unbeneficial and are held captive by others.",
+        "source": "T30n1579_045:0541c08_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "將欲刑縛斷截。",
+        "translation": "They want to bind them up, cut them off, and assault them.",
+        "source": "T30n1579_045:0541c09_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撾打毀辱。",
+        "translation": "They will beat, insult, and humiliate them.",
+        "source": "T30n1579_045:0541c09_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "迫脅驅擯流移。",
+        "translation": "They are forced, threatened, driven away, and expelled.",
+        "source": "T30n1579_045:0541c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或他所執欲捶縛賣。",
+        "translation": "Or another person might hold on to it and want to bind it up and sell it.",
+        "source": "T30n1579_045:0541c10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩爾時隨能隨力立要契言。",
+        "translation": "At that point, the bodhisattva follows his ability and strength to establish an essential agreement, saying.",
+        "source": "T30n1579_045:0541c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等若能知父母恩恭敬供養。",
+        "translation": "\"If you can know the kindness of your parents and respect and make offerings to them, then the bodhisattva will follow their strength and make an agreement, saying.",
+        "source": "T30n1579_045:0541c11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前廣說。",
+        "translation": "As was explained in detail earlier.",
+        "source": "T30n1579_045:0541c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我當方便救汝令脫斯難。",
+        "translation": "Thus, I will skillfully rescue you and free you from this difficulty.",
+        "source": "T30n1579_045:0541c12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩若見有情遭遇種種王賊水火人。",
+        "translation": "\"Furthermore, if bodhisattvas see sentient beings encountering various kings, thieves, floods, and fires, or people who aren't human and don't survive, they'll be given a bad reputation and escape.",
+        "source": "T30n1579_045:0541c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及非人不活惡名諸怖畏等。",
+        "translation": "They're also afraid of the bad names of inhumans who aren't alive.",
+        "source": "T30n1579_045:0541c14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時菩薩立要契言。",
+        "translation": "The bodhisattva then establishes the essential teaching and says.",
+        "source": "T30n1579_045:0541c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等若能知父母恩恭敬供養。",
+        "translation": "\"If you can know the kindness of your parents and respect and make offerings to them, then the bodhisattva establishes the essential teaching, saying.",
+        "source": "T30n1579_045:0541c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前廣說。",
+        "translation": "It's as explained in detail earlier.",
+        "source": "T30n1579_045:0541c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我當方便救汝令免斯畏。",
+        "translation": "Thus, I will skillfully rescue you from these fears.",
+        "source": "T30n1579_045:0541c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩若見有情欲所愛會求非愛離。",
+        "translation": "\"Furthermore, if bodhisattvas see sentient beings who desire what's loved, they'll seek what's not loved and part with it.",
+        "source": "T30n1579_045:0541c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時菩薩立要契言。",
+        "translation": "It was then that the bodhisattva established the essential teaching and said.",
+        "source": "T30n1579_045:0541c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等若能知父母恩恭敬供養。",
+        "translation": "\"If you can know the kindness of your parents and respect and make offerings to them, then the bodhisattva establishes the essential teaching, saying, 'If you can know the kindness of your parents, respect and make offerings to them.'",
+        "source": "T30n1579_045:0541c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前廣說。",
+        "translation": "It's as explained in detail earlier.",
+        "source": "T30n1579_045:0541c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我當遂汝所願。",
+        "translation": "Thus, I will grant you your wish.",
+        "source": "T30n1579_045:0541c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令所愛會及非愛離。",
+        "translation": "cause what's loved to be unloved and what's not loved to be parted with.",
+        "source": "T30n1579_045:0541c20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩若見有情為疾所苦。",
+        "translation": "\"Furthermore, if bodhisattvas see that sentient beings are suffering from illness, they establish an essential agreement.",
+        "source": "T30n1579_045:0541c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立要契言。",
+        "translation": "They establish an essential agreement and say.",
+        "source": "T30n1579_045:0541c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等若能知父母恩恭敬供養。",
+        "translation": "\"If you can know the kindness of your parents and respect and make offerings to them.",
+        "source": "T30n1579_045:0541c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前廣說。",
+        "translation": "As was explained in detail earlier.",
+        "source": "T30n1579_045:0541c22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我當救汝病苦令得安樂。",
+        "translation": "Thus, I will save you from illness and pain and bring you well-being.'",
+        "source": "T30n1579_045:0541c22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情既為菩薩如是立要。",
+        "translation": "Those sentient beings have thus established the bodhisattva's instructions.",
+        "source": "T30n1579_045:0541c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸善品速疾受學。",
+        "translation": "They will quickly accept and train in the good qualities.",
+        "source": "T30n1579_045:0541c24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸惡品速疾除斷。",
+        "translation": "He'll quickly remove the bad qualities.",
+        "source": "T30n1579_045:0541c24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩皆能遂其所願。",
+        "translation": "The bodhisattva will be able to fulfill their wishes.",
+        "source": "T30n1579_045:0541c25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名菩薩共立要契方便善巧。",
+        "translation": "This should be known as the bodhisattva's skillful means of establishing the common essentials.",
+        "source": "T30n1579_045:0541c25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩異分意樂方便善巧。",
+        "translation": "\"What is the skillful means by which bodhisattvas have different kinds of intentions?",
+        "source": "T30n1579_045:0541c26_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩與諸有情立要契已。",
+        "translation": "It means that after bodhisattvas establish an essential compact with sentient beings.",
+        "source": "T30n1579_045:0541c27_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情於上所說彼彼事中。",
+        "translation": "Those sentient beings don't quickly cultivate what's described above in one thing or another.",
+        "source": "T30n1579_045:0541c28_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不如所欲速疾修行。",
+        "translation": "They don't quickly cultivate what they want to do.",
+        "source": "T30n1579_045:0541c28_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩爾時於如上說彼所求事。",
+        "translation": "At that point, the bodhisattva explains what they're seeking from above.",
+        "source": "T30n1579_045:0541c29_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆不施與。",
+        "translation": "They don't give them away.",
+        "source": "T30n1579_045:0542a01_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯為利益彼有情故。",
+        "translation": "It's only for the benefit of those sentient beings.",
+        "source": "T30n1579_045:0542a01_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非餘意樂而不施彼。",
+        "translation": "He doesn't give them anything other than what they want.",
+        "source": "T30n1579_045:0542a01_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是於其諸厄難處。",
+        "translation": "Thus, it's in those places of trouble and difficulty.",
+        "source": "T30n1579_045:0542a02_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸怖畏處。",
+        "translation": "There are places of fear.",
+        "source": "T30n1579_045:0542a02_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲所愛會求非愛離。",
+        "translation": "They crave what they meet and don't crave what they seek to avoid.",
+        "source": "T30n1579_045:0542a03_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "病苦所惱諸有情類。",
+        "translation": "Sentient beings who are afflicted by illness and pain are abandoned at the right time.",
+        "source": "T30n1579_045:0542a03_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "權時棄捨。",
+        "translation": "They abandon them at the right time.",
+        "source": "T30n1579_045:0542a04_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯為利益彼有情故。",
+        "translation": "It's only for the benefit of those sentient beings.",
+        "source": "T30n1579_045:0542a04_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非異意樂而棄捨之。",
+        "translation": "He doesn't abandon them with different intentions.",
+        "source": "T30n1579_045:0542a04_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非異意樂而不救拔。",
+        "translation": "He doesn't rescue them unless he has a different intention.",
+        "source": "T30n1579_045:0542a05_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩於諸有情。",
+        "translation": "Thus, when a bodhisattva is skillfully performing resolute actions for sentient beings.",
+        "source": "T30n1579_045:0542a05_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方便現行剛捍業時。",
+        "translation": "When they are skillfully carrying out rigidly defended actions, they do so only for the benefit of sentient beings and not for other intentions.",
+        "source": "T30n1579_045:0542a06_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯為利益非餘意樂。",
+        "translation": "It's only for the benefit of those sentient beings and not for their other intentions.",
+        "source": "T30n1579_045:0542a06_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "漸令餘時如其所欲斷除諸惡。",
+        "translation": "Gradually, they cause others to end evils as they wish.",
+        "source": "T30n1579_045:0542a07_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修學諸善。",
+        "translation": "He cultivates goodness.",
+        "source": "T30n1579_045:0542a08_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故方便權時棄捨。",
+        "translation": "Therefore, when skillful means are applied, they abandon them at the appropriate time.",
+        "source": "T30n1579_045:0542a08_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸有情於菩薩所。",
+        "translation": "Suppose there are sentient beings in a bodhisattva's place.",
+        "source": "T30n1579_045:0542a08_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖無所求亦無眾難。",
+        "translation": "Even though they don't seek anything, there are no difficulties.",
+        "source": "T30n1579_045:0542a09_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至無諸病苦。",
+        "translation": "It's explained in detail up to the absence of illness and pain.",
+        "source": "T30n1579_045:0542a09_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而與菩薩先為親厚。",
+        "translation": "They've been close to the bodhisattva before.",
+        "source": "T30n1579_045:0542a10_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩於彼隨宜勸導。",
+        "translation": "The bodhisattva then encourages them as appropriate.",
+        "source": "T30n1579_045:0542a10_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斷諸惡法修諸善法。",
+        "translation": "He stops bad qualities and cultivates good qualities.",
+        "source": "T30n1579_045:0542a11_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂令彼知父母恩恭敬供養。",
+        "translation": "It's called causing them to know the kindness of their parents and to respect and support them.",
+        "source": "T30n1579_045:0542a11_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至於淨尸羅隨順受學。",
+        "translation": "It's explained in detail, up to the point where he trains in accordance with pure morality.",
+        "source": "T30n1579_045:0542a12_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼有情雖蒙菩薩如是勸導。",
+        "translation": "Suppose another sentient being is thus advised by a bodhisattva.",
+        "source": "T30n1579_045:0542a13_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故肆輕躁而不奉行。",
+        "translation": "They become reckless and impatient, and they don't approve of their actions.",
+        "source": "T30n1579_045:0542a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩爾時自現憤責。",
+        "translation": "At that point, the bodhisattva himself becomes angry and reproaches them.",
+        "source": "T30n1579_045:0542a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯欲利益非憤意樂。",
+        "translation": "He only wants to get benefits, not resentments and aspirations.",
+        "source": "T30n1579_045:0542a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸所作悉現乖背。",
+        "translation": "He shows deviation in all his undertakings.",
+        "source": "T30n1579_045:0542a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯為利益非背意樂。",
+        "translation": "They want only to benefit, not deviate from them.",
+        "source": "T30n1579_045:0542a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或於一類現與世間不饒益事。",
+        "translation": "Perhaps there's one type of conduct that's unbeneficial to the world.",
+        "source": "T30n1579_045:0542a16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯為利益非損意樂。",
+        "translation": "Their intention is only to benefit, not to harm.",
+        "source": "T30n1579_045:0542a17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩於諸有情現外所作。",
+        "translation": "Thus, the bodhisattva's external works for sentient beings are different from his internal intentions.",
+        "source": "T30n1579_045:0542a17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與內意樂相不同分。",
+        "translation": "Their intentions are distinct from their internal intentions.",
+        "source": "T30n1579_045:0542a18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是因緣方便安處。",
+        "translation": "This is the cause and condition for skillfully placing them in position.",
+        "source": "T30n1579_045:0542a18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼有情漸斷諸惡漸修諸善。",
+        "translation": "It causes those sentient beings to gradually end bad qualities and gradually cultivate good qualities.",
+        "source": "T30n1579_045:0542a19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故菩薩如是調伏有情方便。",
+        "translation": "Therefore, this is the bodhisattva's method of thus disciplining sentient beings.",
+        "source": "T30n1579_045:0542a20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名為菩薩異分意樂方便善巧。",
+        "translation": "This is called the skillful means of the bodhisattvas' different kinds of intentions and pleasures.",
+        "source": "T30n1579_045:0542a20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩逼迫所生方便善巧。",
+        "translation": "\"What's the skillful means by which a bodhisattva constrains what's produced?",
+        "source": "T30n1579_045:0542a21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩或為家主或作國王得增上力。",
+        "translation": "It means a bodhisattva who's either the head of a household or a king attains superior strength.",
+        "source": "T30n1579_045:0542a22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於自親屬於自臣民能正教誡。",
+        "translation": "They're able to correctly instruct their own subjects and relatives.",
+        "source": "T30n1579_045:0542a23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如應告言。",
+        "translation": "As they should, they say.",
+        "source": "T30n1579_045:0542a24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸我親屬諸我臣民。",
+        "translation": "\"My relatives, my subjects!",
+        "source": "T30n1579_045:0542a24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於父母不知恩報。",
+        "translation": "'If they don't know the rewards of kindness to their parents, then they'll talk about it and even violate the precepts.'",
+        "source": "T30n1579_045:0542a24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至毀犯戒者。",
+        "translation": "They speak eloquently about it, even to the point of violating the precepts.",
+        "source": "T30n1579_045:0542a25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我當斷其常所給賜衣服飲食。",
+        "translation": "I will cut off their usual gifts of clothing and food.",
+        "source": "T30n1579_045:0542a25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或當捶罰。",
+        "translation": "Perhaps they'll be beaten and punished.",
+        "source": "T30n1579_045:0542a26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或我親屬當與乖離。",
+        "translation": "Perhaps my relatives will be separated from me.",
+        "source": "T30n1579_045:0542a26_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或我臣民當永驅擯。",
+        "translation": "Or my subjects will be permanently expelled.",
+        "source": "T30n1579_045:0542a27_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立一善巧機捷士夫。",
+        "translation": "Establish a skillful, resourceful man.",
+        "source": "T30n1579_045:0542a27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼事業常令伺察。",
+        "translation": "He'll always make sure that he investigates their works.",
+        "source": "T30n1579_045:0542a28_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是因。",
+        "translation": "Because of this cause.",
+        "source": "T30n1579_045:0542a28_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故彼諸有情怖畏治罰。",
+        "translation": "Therefore, those sentient beings fear punishment.",
+        "source": "T30n1579_045:0542a29_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勤斷諸惡勤修諸善。",
+        "translation": "They diligently end bad qualities and diligently cultivate good qualities.",
+        "source": "T30n1579_045:0542a29_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於修善雖無樂欲。",
+        "translation": "Even though they have no desire to cultivate goodness, they're forced to cultivate it because of this method.",
+        "source": "T30n1579_045:0542b01_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是方便強逼令修。",
+        "translation": "This is the method of forcing them to cultivate it.",
+        "source": "T30n1579_045:0542b01_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故名為逼迫所生方便善巧。",
+        "translation": "This is called the skillful means of forcing someone to do good.",
+        "source": "T30n1579_045:0542b02_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩施恩報恩方便善巧。",
+        "translation": "\"What is the bodhisattva's skillful means of bestowing kindness in return for kindness?",
+        "source": "T30n1579_045:0542b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩先於有情。",
+        "translation": "It means that bodhisattvas first gave kindnesses to sentient beings according to their ability.",
+        "source": "T30n1579_045:0542b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨力多少施作恩惠。",
+        "translation": "They extend kindnesses in proportion to their abilities.",
+        "source": "T30n1579_045:0542b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或施所須或濟厄難。",
+        "translation": "Some may bestow what's needed, or they may relieve hardship.",
+        "source": "T30n1579_045:0542b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或除恐怖或會所愛。",
+        "translation": "They may remove what's feared or what's loved.",
+        "source": "T30n1579_045:0542b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或離非愛。",
+        "translation": "Or they may part with what's not loved.",
+        "source": "T30n1579_045:0542b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或療病苦令得安樂。",
+        "translation": "Perhaps they treat illness or pain and bring well-being.",
+        "source": "T30n1579_045:0542b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸有情深知恩惠欲報德者。",
+        "translation": "Those sentient beings deeply understand the need for kindness and want to repay the merit.",
+        "source": "T30n1579_045:0542b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩爾時勸令修善以受報恩。",
+        "translation": "At that point, the bodhisattva encourages them to cultivate goodness in order to receive the reward for their kindness.",
+        "source": "T30n1579_045:0542b07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "告言。",
+        "translation": "He tells them.",
+        "source": "T30n1579_045:0542b08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等非餘世財來相酬遺為大報恩。",
+        "translation": "\"It's not the reward of another world's possessions that will be a great reward for your kindness.",
+        "source": "T30n1579_045:0542b08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等若能知父母恩恭敬供養。",
+        "translation": "If you can know the kindness of your parents, respect and make offerings to them, then you can teach them extensively and even observe the pure precepts.",
+        "source": "T30n1579_045:0542b09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣說乃至受持淨戒。",
+        "translation": "They explain it in detail ... and even observe the pure precepts.",
+        "source": "T30n1579_045:0542b09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是乃名大報恩德。",
+        "translation": "Such is called the great virtue of repaying kindness.",
+        "source": "T30n1579_045:0542b10_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩如是於諸有情先施恩惠勸讚修善。",
+        "translation": "In this way, the bodhisattva first bestows kindness on sentient beings and encourages them to cultivate goodness.",
+        "source": "T30n1579_045:0542b10_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名大報恩。",
+        "translation": "This is called the great reward of kindness.",
+        "source": "T30n1579_045:0542b11_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此方便令他於善精勤修學。",
+        "translation": "This is the way he causes others to diligently cultivate goodness.",
+        "source": "T30n1579_045:0542b12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故名為施恩報恩方便善巧。",
+        "translation": "This is called the skillful method of bestowing kindness and repaying kindness.",
+        "source": "T30n1579_045:0542b12_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩究竟清淨方便善巧。",
+        "translation": "\"What is the skillful means by which bodhisattvas are ultimately purified?",
+        "source": "T30n1579_045:0542b13_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩安住菩薩到究竟地。",
+        "translation": "It means bodhisattvas are stably abiding in the bodhisattva stage up to the final stage.",
+        "source": "T30n1579_045:0542b14_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於菩薩道已善清淨。",
+        "translation": "They've been well-cleaned on the bodhisattva path.",
+        "source": "T30n1579_045:0542b14_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先現往生覩史多天眾同分中。",
+        "translation": "They are first reborn in the Tushita Heaven among the same group of gods.",
+        "source": "T30n1579_045:0542b15_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量有情如是念言。",
+        "translation": "Measureless sentient beings thus recall, saying.",
+        "source": "T30n1579_045:0542b16_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "某名菩薩今已生處覩史多天眾同分中。",
+        "translation": "'Now, a certain bodhisattva has been born in the same section of the Tusita Heaven as all the others.",
+        "source": "T30n1579_045:0542b16_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不久當下生贍部洲證得無上正等菩提。",
+        "translation": "Soon he'll be reborn on the Jambudvīpa continent and realize unsurpassed correct perfect enlightenment.",
+        "source": "T30n1579_045:0542b17_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願令我等當得值遇非不值遇。",
+        "translation": "May it be possible for us to meet and not meet someone who doesn't meet us.",
+        "source": "T30n1579_045:0542b18_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨是菩薩所生之處。",
+        "translation": "Whatever place this bodhisattva is born, may it be so that we'll also be born there.",
+        "source": "T30n1579_045:0542b19_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願令我等亦當往生。",
+        "translation": "May it cause us to be reborn there as well.",
+        "source": "T30n1579_045:0542b19_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是為令無量有情生正欲樂。",
+        "translation": "Thus, it's for the purpose of causing measureless sentient beings to give rise to right desires and pleasures.",
+        "source": "T30n1579_045:0542b20_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為多修習此欲樂故。",
+        "translation": "It's for the sake of often cultivating these desires and pleasures.",
+        "source": "T30n1579_045:0542b21_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又是菩薩從覩史多天眾中沒來下人間。",
+        "translation": "Also, this bodhisattva was taken from among the Tushita gods and returned down to the human realm.",
+        "source": "T30n1579_045:0542b21_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於高貴或族望家。",
+        "translation": "He's born into a noble or powerful family.",
+        "source": "T30n1579_045:0542b22_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂王家若國師家。",
+        "translation": "They're called a king's family or a state preceptor's family.",
+        "source": "T30n1579_045:0542b23_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "棄捨世間上妙欲樂無所顧戀清淨出家。",
+        "translation": "They abandoned the world's most sublime desires and pleasures, had no regard for them, and left home purely.",
+        "source": "T30n1579_045:0542b23_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令諸有情起尊敬故。",
+        "translation": "That's because it causes sentient beings to respect him.",
+        "source": "T30n1579_045:0542b24_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又現誓受難行苦行。",
+        "translation": "They also vow to undergo difficult and painful practices.",
+        "source": "T30n1579_045:0542b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為令信解苦行有情捨所樂故。",
+        "translation": "That's because it causes sentient beings who believe and understand the ascetic practices to abandon what they enjoy.",
+        "source": "T30n1579_045:0542b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又證無上正等菩提。",
+        "translation": "They also realize unsurpassed correct perfect enlightenment.",
+        "source": "T30n1579_045:0542b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令餘有情於所同趣菩提解脫欣殊勝故。",
+        "translation": "It causes other sentient beings to rejoice in the liberation of bodhi, which is their common destination.",
+        "source": "T30n1579_045:0542b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又證無上正等覺已。",
+        "translation": "Also, after realizing unsurpassed correct enlightenment, he'll explain the right teaching beforehand for sentient beings.",
+        "source": "T30n1579_045:0542b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未為有情即說正法。",
+        "translation": "He didn't explain the right teaching to sentient beings right away.",
+        "source": "T30n1579_045:0542b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "待梵天王躬來啟請。",
+        "translation": "He waits for the Brahma gods to personally invite him to do so.",
+        "source": "T30n1579_045:0542b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為諸有情於正法所起尊敬故。",
+        "translation": "That's because it will cause sentient beings to revere the right teaching.",
+        "source": "T30n1579_045:0542b29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是念言。",
+        "translation": "He had this thought, saying.",
+        "source": "T30n1579_045:0542c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當所說法定應殊妙故。",
+        "translation": "'This teaching will be explained in a way that makes it truly marvelous.'",
+        "source": "T30n1579_045:0542c01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今梵王悕望。",
+        "translation": "Now, the king of Brahmā wants it.",
+        "source": "T30n1579_045:0542c01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊說是法故躬自來請。",
+        "translation": "The Bhagavān explains this teaching and therefore personally comes to us with an invitation.",
+        "source": "T30n1579_045:0542c02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又以佛眼觀察世間。",
+        "translation": "He also observes the world with the Buddha's eye.",
+        "source": "T30n1579_045:0542c02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勿使有情作如是謗。",
+        "translation": "Don't cause sentient beings to criticize him in this way.",
+        "source": "T30n1579_045:0542c03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但由梵王躬來啟請。",
+        "translation": "Only the king of Brahmā personally invited him.",
+        "source": "T30n1579_045:0542c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "敬梵王故宣說正法。",
+        "translation": "Because he respects the king of Brahmā, he proclaims the right teaching.",
+        "source": "T30n1579_045:0542c04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非於有情自起悲心。",
+        "translation": "It's not that he himself arouses compassion for sentient beings.",
+        "source": "T30n1579_045:0542c04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃是為他之所激發。",
+        "translation": "It's because it's provoked by others.",
+        "source": "T30n1579_045:0542c05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非自能了機宜可否。",
+        "translation": "He's not able to understand for himself whether it's appropriate.",
+        "source": "T30n1579_045:0542c05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲壞彼一類有情如是邪執。",
+        "translation": "In order to destroy this kind of mistaken attachment of a certain type of sentient being, he first observed the world with the Buddha's eye.",
+        "source": "T30n1579_045:0542c06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先以佛眼觀察世間。",
+        "translation": "First, he'll observe the world with the Buddha's eye.",
+        "source": "T30n1579_045:0542c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然後為轉無上法輪。",
+        "translation": "Then, he'll turn the unsurpassed wheel of the Dharma for them.",
+        "source": "T30n1579_045:0542c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切世間所未曾轉。",
+        "translation": "Nothing in the world has ever turned it before.",
+        "source": "T30n1579_045:0542c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是更復宣說正法制立學處。",
+        "translation": "Thus, he further explains the right teaching and establishes the training ground.",
+        "source": "T30n1579_045:0542c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩究竟清淨方便善巧。",
+        "translation": "This is called the bodhisattva's skillful means of ultimate purity.",
+        "source": "T30n1579_045:0542c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此所說方便善巧。",
+        "translation": "This is called the bodhisattva's ultimately pure skillful means.",
+        "source": "T30n1579_045:0542c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更無有餘方便善巧在於此上若過若妙。",
+        "translation": "There's no other skillful means that's superior or more subtle than this.",
+        "source": "T30n1579_045:0542c10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說名究竟清淨。",
+        "translation": "Therefore, it's called ultimately pure.",
+        "source": "T30n1579_045:0542c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩所說六種若略若廣方便善巧。",
+        "translation": "Thus, the bodhisattva teaches six kinds of skillful means, whether brief or extensive.",
+        "source": "T30n1579_045:0542c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能除憎背聖教有情所有恚惱。",
+        "translation": "They remove all the anger and distress of sentient beings who hate and reject the noble teaching.",
+        "source": "T30n1579_045:0542c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處中住者令其趣入。",
+        "translation": "They cause those who abide in the midst of it to enter it.",
+        "source": "T30n1579_045:0542c13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已趣入者令其成熟。",
+        "translation": "Those who have already entered will cause them to mature.",
+        "source": "T30n1579_045:0542c14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已成熟者令得解脫。",
+        "translation": "Those who have matured are made to attain liberation.",
+        "source": "T30n1579_045:0542c14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除此無有若過若增。",
+        "translation": "Beyond that, there's nothing superfluous and nothing to be added.",
+        "source": "T30n1579_045:0542c15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩方便善巧。",
+        "translation": "This is called the bodhisattva's skillful means.",
+        "source": "T30n1579_045:0542c15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩妙陀羅尼。",
+        "translation": "\"What's a bodhisattva's marvelous dhāraṇī?",
+        "source": "T30n1579_045:0542c16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知如是妙陀羅尼略有四種。",
+        "translation": "You should know that there are four kinds of such marvelous dhāraṇī.",
+        "source": "T30n1579_045:0542c16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者法陀羅尼。",
+        "translation": "One is a dhāraṇī of the Dharma.",
+        "source": "T30n1579_045:0542c17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者義陀羅尼。",
+        "translation": "Second, there's the meaning dhāraṇī.",
+        "source": "T30n1579_045:0542c17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者呪陀羅尼。",
+        "translation": "Third, it's a dhāraṇī of a spell.",
+        "source": "T30n1579_045:0542c18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者能得菩薩忍陀羅尼。",
+        "translation": "The fourth is a dhāraṇī that enables the bodhisattva to tolerate.",
+        "source": "T30n1579_045:0542c18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩法陀羅尼。",
+        "translation": "\"What's a bodhisattva's dhāraṇī of the Dharma?",
+        "source": "T30n1579_045:0542c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩獲得如是念慧力持。",
+        "translation": "It refers to bodhisattvas who attain the power of such mindfulness and wisdom.",
+        "source": "T30n1579_045:0542c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此力持聞未曾聞言。",
+        "translation": "This is the power of hearing words that have never been heard before.",
+        "source": "T30n1579_045:0542c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未溫習未善通利。",
+        "translation": "They haven't yet studied them and haven't yet skillfully understood them.",
+        "source": "T30n1579_045:0542c20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名句文身之所攝錄次第錯綜。",
+        "translation": "The records of words, phrases, and syllables are arranged in a series of inconsistencies.",
+        "source": "T30n1579_045:0542c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次第結集無量經典。",
+        "translation": "It's a collection of measureless sūtras that are gathered in sequence.",
+        "source": "T30n1579_045:0542c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經無量時能持不忘。",
+        "translation": "After passing through measureless hours, he's able to maintain them and not forget them.",
+        "source": "T30n1579_045:0542c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩法陀羅尼。",
+        "translation": "This is called a bodhisattva's dhāraṇī of the Dharma.",
+        "source": "T30n1579_045:0542c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩義陀羅尼。",
+        "translation": "\"What's a bodhisattva's meaning dhāraṇī?",
+        "source": "T30n1579_045:0542c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂如前說。",
+        "translation": "It's as explained above.",
+        "source": "T30n1579_045:0542c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此差別者。",
+        "translation": "'This is a distinction.'",
+        "source": "T30n1579_045:0542c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於彼法無量義趣。",
+        "translation": "It's the immeasurable meanings and destinies of that Dharma.",
+        "source": "T30n1579_045:0542c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心未溫習未善通利。",
+        "translation": "He hasn't yet cultivated it in his mind and doesn't yet have good understanding of it.",
+        "source": "T30n1579_045:0542c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經無量時能持不忘。",
+        "translation": "He's been through it for measureless hours and can maintain it without forgetting it.",
+        "source": "T30n1579_045:0542c25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩義陀羅尼。",
+        "translation": "This is called a bodhisattva's meaning dhāraṇī.",
+        "source": "T30n1579_045:0542c25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩呪陀羅尼。",
+        "translation": "\"What's a bodhisattva dhāraṇī?",
+        "source": "T30n1579_045:0542c26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩獲得如是等持自在。",
+        "translation": "It means that bodhisattvas attain such mastery of equipoise.",
+        "source": "T30n1579_045:0542c26_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此自在加被。",
+        "translation": "They are thus entrusted with this sovereignty.",
+        "source": "T30n1579_045:0542c27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能除有情災患。",
+        "translation": "They are able to remove the calamities of sentient beings.",
+        "source": "T30n1579_045:0542c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸呪章句。",
+        "translation": "The words and phrases of these spells.",
+        "source": "T30n1579_045:0542c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼章句悉皆神驗。",
+        "translation": "They cause their phrases and stanzas to be completely and miraculously effective.",
+        "source": "T30n1579_045:0542c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一神驗無所唐捐。",
+        "translation": "The first miraculous accomplishment is nothing less than miraculous.",
+        "source": "T30n1579_045:0542c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能除非一種種災患。",
+        "translation": "It's able to prevent a variety of disasters and hardships.",
+        "source": "T30n1579_045:0542c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩呪陀羅尼。",
+        "translation": "This is called the dhāraṇī of a bodhisattva's spell.",
+        "source": "T30n1579_045:0543a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩能得菩薩忍陀羅尼。",
+        "translation": "\"What is the dhāraṇī for a bodhisattva who attains bodhisattva forbearance?",
+        "source": "T30n1579_045:0543a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩成就自然堅固因行。",
+        "translation": "It means bodhisattvas accomplish naturally resolute causal practices.",
+        "source": "T30n1579_045:0543a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具足妙慧。",
+        "translation": "They possess sublime wisdom.",
+        "source": "T30n1579_045:0543a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "獨處空閑寂無言說。",
+        "translation": "They're alone in an empty forest, silent, and without language.",
+        "source": "T30n1579_045:0543a03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曾無有物見路而行。",
+        "translation": "There's never anything that sees the road and walks on it.",
+        "source": "T30n1579_045:0543a03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知量而食不雜穢食一類而食。",
+        "translation": "They eat with knowledge of measurement and don't mix defiled food with one type of food.",
+        "source": "T30n1579_045:0543a04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常極靜慮於夜分中少眠多寤。",
+        "translation": "He always meditates intensely and spends the night with little sleep and lots of waking.",
+        "source": "T30n1579_045:0543a04_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於佛所說得菩薩忍諸呪章句。",
+        "translation": "In the Buddha's teachings, he attains the bodhisattva's tolerance of the various incantations and rules.",
+        "source": "T30n1579_045:0543a05_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能諦思惟。",
+        "translation": "He can truly contemplate them.",
+        "source": "T30n1579_045:0543a06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其呪詞曰。",
+        "translation": "The words of the spell are.",
+        "source": "T30n1579_045:0543a06_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "壹胝　蜜胝　吉胝　毘羼底(丁里反)　鉢陀膩　莎訶即於如是呪章句義。",
+        "translation": "\"Aṭṭamitra, Maitreya, Jṭṭamitra, Vikrates, Bhadanīputra, and Sahā are the words of this spell.",
+        "source": "T30n1579_045:0543a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "審諦思惟籌量觀察。",
+        "translation": "He carefully reflects on it, investigates it, and observes it.",
+        "source": "T30n1579_045:0543a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於如是呪章句義。",
+        "translation": "He investigates the meaning of the words and phrases of such a spell.",
+        "source": "T30n1579_045:0543a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是正行。",
+        "translation": "He thus correctly practices it.",
+        "source": "T30n1579_045:0543a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不從他聞自然通達。",
+        "translation": "He naturally comprehends them without hearing them from others.",
+        "source": "T30n1579_045:0543a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "了知如是諸呪章句都無有義是圓成實。",
+        "translation": "He fully understands that the words and phrases of such a spell have no meaning and are perfectly real.",
+        "source": "T30n1579_045:0543a11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但唯無義。",
+        "translation": "They have only no meaning.",
+        "source": "T30n1579_045:0543a12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實了知此章句義。",
+        "translation": "He truly understands the meaning of these phrases and sentences.",
+        "source": "T30n1579_045:0543a12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂無義。",
+        "translation": "It's called meaningless.",
+        "source": "T30n1579_045:0543a12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故過此不求餘義。",
+        "translation": "Therefore, beyond this, they don't seek other meanings.",
+        "source": "T30n1579_045:0543a13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "齊此名為妙善通達呪章句義。",
+        "translation": "This is called the marvelous, well-understood meaning of the verses and stanzas of a spell.",
+        "source": "T30n1579_045:0543a13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於如是呪章句義正通達已。",
+        "translation": "After he correctly comprehends the meaning of such a spell in chapter and verse, he follows its meaning and doesn't hear it from others.",
+        "source": "T30n1579_045:0543a14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即隨此義不從他聞。",
+        "translation": "He then follows this meaning and doesn't hear it from others.",
+        "source": "T30n1579_045:0543a15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自正通達一切法義。",
+        "translation": "He himself correctly comprehends the meaning of all dharmas.",
+        "source": "T30n1579_045:0543a15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於此義如是通達。",
+        "translation": "This is called such a comprehension of the meaning.",
+        "source": "T30n1579_045:0543a16_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切言說所說諸法自性之義皆不成實。",
+        "translation": "The meaning of the self-nature of all dharmas that are explained in language doesn't really exist.",
+        "source": "T30n1579_045:0543a16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯有諸法離言自性。",
+        "translation": "Only dharmas are free from language about their own nature.",
+        "source": "T30n1579_045:0543a17_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是自性義彼於諸法此自性義正通達已。",
+        "translation": "Once he correctly comprehends the meaning of the self-nature of these things, there's no other meaning he can seek beyond that.",
+        "source": "T30n1579_045:0543a18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "過此更無餘義可求。",
+        "translation": "Beyond that, there's no other meaning to be sought.",
+        "source": "T30n1579_045:0543a19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由於此義善通達故。",
+        "translation": "Because he well comprehends this meaning, he attains the most excellent and vast happiness.",
+        "source": "T30n1579_045:0543a19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "獲得最勝廣大歡喜。",
+        "translation": "He attains the most excellent and vast joy.",
+        "source": "T30n1579_045:0543a20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是菩薩得陀羅尼。",
+        "translation": "Thus, the bodhisattva attains the dhāraṇī.",
+        "source": "T30n1579_045:0543a20_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當言已得此陀羅尼章句所立菩薩勝忍。",
+        "translation": "He should say that he has attained the bodhisattva's superior tolerance as defined by the phrases and words of this dhāraṇī.",
+        "source": "T30n1579_045:0543a21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得此忍故。",
+        "translation": "It's because they've attained this forbearance that they'll soon attain purity.",
+        "source": "T30n1579_045:0543a22_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸菩薩不久當得淨勝意樂已依上品勝解行地勝忍而轉。",
+        "translation": "It won't be long before these bodhisattvas will attain pure superior aspiration and will be transformed by the superior tolerance of the higher level of superior understanding and practice.",
+        "source": "T30n1579_045:0543a22_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名菩薩所有能得菩薩忍陀羅尼。",
+        "translation": "This should be known as the dhāraṇī for the bodhisattva's attainment of forbearance.",
+        "source": "T30n1579_045:0543a23_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中菩薩法陀羅尼義陀羅尼。",
+        "translation": "Among these dhāraṇīs, there's the dhāraṇī of the meaning of the bodhisattva's dharma.",
+        "source": "T30n1579_045:0543a24_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過第一無數大劫。",
+        "translation": "Suppose you pass the first incalculably long great eon.",
+        "source": "T30n1579_045:0543a25_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已入清淨勝意樂地。",
+        "translation": "He's entered the stage of pure superior intent.",
+        "source": "T30n1579_045:0543a25_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所得決定堅住廣大。",
+        "translation": "What he has attained is resolute, resolute, and vast.",
+        "source": "T30n1579_045:0543a26_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此以下或以願力或依靜慮。",
+        "translation": "From here on, it's either by the power of a vow or by relying on meditation.",
+        "source": "T30n1579_045:0543a26_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖有獲得而不決定。",
+        "translation": "Even though they attain it, it's not certain.",
+        "source": "T30n1579_045:0543a27_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦不堅住亦不廣大。",
+        "translation": "Nor is it firmly abiding, nor is it vast.",
+        "source": "T30n1579_045:0543a28_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說法義二陀羅尼。",
+        "translation": "Thus, he explains the two dhāraṇīs of the meaning of the Dharma.",
+        "source": "T30n1579_045:0543a28_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "呪陀羅尼當知亦爾。",
+        "translation": "The dhāraṇī of the mantra should be understood to be the same.",
+        "source": "T30n1579_045:0543a29_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能得菩薩忍陀羅尼。",
+        "translation": "\"The dhāraṇī that attains bodhisattva patience.",
+        "source": "T30n1579_045:0543a29_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前所釋。",
+        "translation": "As explained above, it's thus attained.",
+        "source": "T30n1579_045:0543b01_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即如是得。",
+        "translation": "That's how it's attained.",
+        "source": "T30n1579_045:0543b01_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩具四功德。",
+        "translation": "If bodhisattvas possess the four virtues, then they'll attain these dhāraṇīs.",
+        "source": "T30n1579_045:0543b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方獲如是諸陀羅尼。",
+        "translation": "then they'll attain these dhāraṇīs.",
+        "source": "T30n1579_045:0543b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非隨闕一。",
+        "translation": "There's not one that's missing.",
+        "source": "T30n1579_045:0543b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等名為四種功德。",
+        "translation": "What are these four virtues?",
+        "source": "T30n1579_045:0543b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者於諸欲中無所貪著。",
+        "translation": "One, there's no craving for anything among desires.",
+        "source": "T30n1579_045:0543b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者於他勝事不生姤忌不嫉他榮。",
+        "translation": "Two, they don't become jealous of the superiority of others and don't envy the prosperity of others.",
+        "source": "T30n1579_045:0543b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者一切所求等施無悔。",
+        "translation": "Third, he gives equally to all that he seeks without regret.",
+        "source": "T30n1579_045:0543b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者於正法中深生忻樂。",
+        "translation": "Four, in the right teaching, he deeply desires the teaching.",
+        "source": "T30n1579_045:0543b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "忻樂法者。",
+        "translation": "Someone who's delighted with the Dharma.",
+        "source": "T30n1579_045:0543b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於菩薩藏及菩薩藏摩怛理迦深心愛樂。",
+        "translation": "He's deeply delighted with the bodhisattva canon and the bodhisattva canon of mātṛkā.",
+        "source": "T30n1579_045:0543b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩所修正願。",
+        "translation": "\"What is the correct vow of the bodhisattva?",
+        "source": "T30n1579_045:0543b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知此願略有五種。",
+        "translation": "You should know that there are five basic kinds of this vow.",
+        "source": "T30n1579_045:0543b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者發心願。",
+        "translation": "One is the vow to arouse the mind.",
+        "source": "T30n1579_045:0543b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者受生願。",
+        "translation": "Two, the vow to be born.",
+        "source": "T30n1579_045:0543b09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者所行願。",
+        "translation": "Three, the vow that's carried out.",
+        "source": "T30n1579_045:0543b09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四者正願。",
+        "translation": "The fourth is the right vow.",
+        "source": "T30n1579_045:0543b09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五者大願。",
+        "translation": "The fifth is the great vow.",
+        "source": "T30n1579_045:0543b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩於其無上正等菩提最初發心。",
+        "translation": "If bodhisattvas initially arouse the intention for their unsurpassed correct enlightenment, this is called the vow to arouse the intention.",
+        "source": "T30n1579_045:0543b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名發心願。",
+        "translation": "This is called the vow to arouse the mind.",
+        "source": "T30n1579_045:0543b11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來往生隨順饒益有情諸善趣中。",
+        "translation": "If bodhisattvas wish to be reborn in the future among the good destinies that will follow and benefit sentient beings, this is called the vow to be born.",
+        "source": "T30n1579_045:0543b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名受生願。",
+        "translation": "This is called the vow to be born.",
+        "source": "T30n1579_045:0543b12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願能無倒思擇諸法。",
+        "translation": "If bodhisattvas vow to be able to contemplate things without error.",
+        "source": "T30n1579_045:0543b13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願於境界修無量等殊勝善法。",
+        "translation": "They want to cultivate measureless and excellent good qualities in the objective realm.",
+        "source": "T30n1579_045:0543b13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名所行願。",
+        "translation": "This is called the vow that's practiced.",
+        "source": "T30n1579_045:0543b14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來攝受一切菩薩善法。",
+        "translation": "If bodhisattvas wish to collect all bodhisattva good qualities in the future.",
+        "source": "T30n1579_045:0543b14_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝受一切所有功德。",
+        "translation": "They want to collect all merits.",
+        "source": "T30n1579_045:0543b15_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若總若別所有正願。",
+        "translation": "Whether it's a general or specific right vow, this is called the right vow.",
+        "source": "T30n1579_045:0543b16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名正願。",
+        "translation": "This is called the right vow.",
+        "source": "T30n1579_045:0543b16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩大願當知即從正願所出。",
+        "translation": "The bodhisattvas' great vow should be known to arise from the right vow.",
+        "source": "T30n1579_045:0543b17_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此復十種。",
+        "translation": "These are ten more.",
+        "source": "T30n1579_045:0543b17_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "Suppose bodhisattvas vow the future.",
+        "source": "T30n1579_045:0543b18_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以一切種上妙供具。",
+        "translation": "With all kinds of excellent offerings, they'll make offerings to the Tathāgata.",
+        "source": "T30n1579_045:0543b18_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "供養無量無邊如來。",
+        "translation": "They should make offerings to the Tathāgata, who has unlimited and infinite abilities.",
+        "source": "T30n1579_045:0543b19_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第一大願。",
+        "translation": "This should be known as the first great vow.",
+        "source": "T30n1579_045:0543b19_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "Suppose bodhisattvas vow that in the future.",
+        "source": "T30n1579_045:0543b20_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "攝受防護諸佛世尊所有正法。",
+        "translation": "To gather in and protect all the true teachings of the buddhas and world-honored ones.",
+        "source": "T30n1579_045:0543b20_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傳持法眼令無斷壞。",
+        "translation": "They want to transmit the eye of the Dharma so that it won't be cut off.",
+        "source": "T30n1579_045:0543b21_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第二正願。",
+        "translation": "You should know that this is called the second right vow.",
+        "source": "T30n1579_045:0543b21_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "Suppose bodhisattvas wish that in the future.",
+        "source": "T30n1579_045:0543b22_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從覩史多天宮降下如前乃至入大涅槃。",
+        "translation": "descend from the palace of Tuṣita Heaven as before and enter great nirvāṇa.",
+        "source": "T30n1579_045:0543b22_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第三大願。",
+        "translation": "You should know that this is called the third great vow.",
+        "source": "T30n1579_045:0543b23_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "Suppose bodhisattvas wish that in the future they'll perform all kinds of correct bodhisattva actions.",
+        "source": "T30n1579_045:0543b24_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行一切種菩薩正行。",
+        "translation": "Perform all kinds of correct bodhisattva actions.",
+        "source": "T30n1579_045:0543b24_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第四大願。",
+        "translation": "You should know that this is called the fourth great vow.",
+        "source": "T30n1579_045:0543b25_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "If bodhisattvas vow that in the future.",
+        "source": "T30n1579_045:0543b25_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "普能成熟一切有情。",
+        "translation": "They'll be able to thoroughly ripen all sentient beings.",
+        "source": "T30n1579_045:0543b26_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第五大願。",
+        "translation": "You should know that this is called the fifth great vow.",
+        "source": "T30n1579_045:0543b26_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "If bodhisattvas vow that in the future.",
+        "source": "T30n1579_045:0543b27_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切世界皆能示現。",
+        "translation": "All the worlds can be revealed.",
+        "source": "T30n1579_045:0543b27_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第六大願。",
+        "translation": "You should know that this is called the sixth great vow.",
+        "source": "T30n1579_045:0543b28_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "If bodhisattvas vow that in the future.",
+        "source": "T30n1579_045:0543b28_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "普能淨修一切佛土。",
+        "translation": "They'll be able to thoroughly purify all the buddha lands.",
+        "source": "T30n1579_045:0543b29_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第七大願。",
+        "translation": "You should know that this is called the seventh great vow.",
+        "source": "T30n1579_045:0543b29_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "If bodhisattvas vow that in the future.",
+        "source": "T30n1579_045:0543c01_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切菩薩皆同一種意樂加行趣入大乘。",
+        "translation": "All bodhisattvas will share the same intention, apply themselves, and enter the great vehicle.",
+        "source": "T30n1579_045:0543c01_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第八大願。",
+        "translation": "You should know that this is called the eighth great vow.",
+        "source": "T30n1579_045:0543c02_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "Suppose bodhisattvas vow that in the future.",
+        "source": "T30n1579_045:0543c03_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有一切無倒加行皆不唐捐。",
+        "translation": "\"All without fail, their applied practices will not be indifferent.",
+        "source": "T30n1579_045:0543c03_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第九大願。",
+        "translation": "You should know that this is called the ninth great vow.",
+        "source": "T30n1579_045:0543c04_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩願於當來。",
+        "translation": "If bodhisattvas vow that in the future.",
+        "source": "T30n1579_045:0543c04_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "速證無上正等菩提。",
+        "translation": "They will quickly realize unsurpassed perfect enlightenment.",
+        "source": "T30n1579_045:0543c05_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知是名第十大願。",
+        "translation": "You should know that this is called the tenth great vow.",
+        "source": "T30n1579_045:0543c05_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩空三摩地。",
+        "translation": "\"What is the bodhisattva emptiness samādhi?",
+        "source": "T30n1579_045:0543c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩觀一切事遠離一切言說自性唯有諸法離言自性。",
+        "translation": "It means that bodhisattvas observe that all things are free of the own-nature of all speech, and only things are free of the own-nature of speech.",
+        "source": "T30n1579_045:0543c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心正安住。",
+        "translation": "The mind is correctly stabilized.",
+        "source": "T30n1579_045:0543c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩空三摩地。",
+        "translation": "This is called the bodhisattva emptiness samādhi.",
+        "source": "T30n1579_045:0543c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩無願三摩地。",
+        "translation": "\"What's the bodhisattva's wishlessness samādhi?",
+        "source": "T30n1579_045:0543c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩即等隨觀離言自性所有諸事。",
+        "translation": "It means that bodhisattvas immediately and equally observe all things that are free from their own nature in words.",
+        "source": "T30n1579_045:0543c10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由邪分別所起煩惱及以眾苦所攝受故。",
+        "translation": "It's because of the afflictions caused by wrong discrimination and because of the many sufferings that they're subject to.",
+        "source": "T30n1579_045:0543c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆為無量過失所污。",
+        "translation": "They are all stained by measureless faults and errors.",
+        "source": "T30n1579_045:0543c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於當來世不願為先心正安住。",
+        "translation": "In the future, they won't wish to be the first to correctly abide in mind.",
+        "source": "T30n1579_045:0543c12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩無願三摩地。",
+        "translation": "This is called the bodhisattva's wishless samādhi.",
+        "source": "T30n1579_045:0543c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩無相三摩地。",
+        "translation": "\"What is the bodhisattva's signless samādhi?",
+        "source": "T30n1579_045:0543c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸菩薩即正思惟離言自性所有諸事一切分別戲論眾相。",
+        "translation": "It's when bodhisattvas correctly contemplate that they're free of the conceptual appearances of all the things in their own nature that are discriminated.",
+        "source": "T30n1579_045:0543c14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "永滅寂靜。",
+        "translation": "They permanently cease and become quiescent.",
+        "source": "T30n1579_045:0543c15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實了知。",
+        "translation": "They accurately comprehend them.",
+        "source": "T30n1579_045:0543c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "心正安住。",
+        "translation": "The mind is correctly stabilized.",
+        "source": "T30n1579_045:0543c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名菩薩無相三摩地。",
+        "translation": "This is called the bodhisattva's signless samādhi.",
+        "source": "T30n1579_045:0543c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問何故唯立三三摩地。",
+        "translation": "Why is the only concentration that's established as the concentration of samādhi?",
+        "source": "T30n1579_045:0543c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無過無增。",
+        "translation": "Nothing is wrong, and nothing is added.'",
+        "source": "T30n1579_045:0543c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答法有二種。",
+        "translation": "A There are two kinds of dharmas.",
+        "source": "T30n1579_045:0543c17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有非有。",
+        "translation": "They are existent and nonexistent.",
+        "source": "T30n1579_045:0543c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有為無為名之為有。",
+        "translation": "What's existent and what's not existent are called existent.",
+        "source": "T30n1579_045:0543c18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我及我所名為非有。",
+        "translation": "I and what belongs to me are called not existent.",
+        "source": "T30n1579_045:0543c18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於有為中有無願故可厭逆故。",
+        "translation": "Within existent beings, there's wishlessness, which is why it's disagreeable.",
+        "source": "T30n1579_045:0543c19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知依此建立無願三摩地。",
+        "translation": "You should know that this is the basis for establishing the wishless samādhi.",
+        "source": "T30n1579_045:0543c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於無為中願涅槃故正樂攝故。",
+        "translation": "In nonexistence, there's the wish for nirvāṇa and therefore right joy is included.",
+        "source": "T30n1579_045:0543c20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當知依此建立無相三摩地。",
+        "translation": "You should know that this establishes the formless samādhi.",
+        "source": "T30n1579_045:0543c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於非有事菩薩不願亦無無願。",
+        "translation": "A bodhisattva who doesn't have anything doesn't wish for it, and he doesn't wish for it.",
+        "source": "T30n1579_045:0543c22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然於非有菩薩如實見為非有。",
+        "translation": "Still, in what's not existent, the bodhisattva truly sees that it's not existent.",
+        "source": "T30n1579_045:0543c23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依此見故當知建立空三摩地。",
+        "translation": "Based on this view, you should know that this establishes the samādhi of emptiness.",
+        "source": "T30n1579_045:0543c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩於此三種三摩地中。",
+        "translation": "Thus, in these three kinds of samādhi, the bodhisattva diligently cultivates them.",
+        "source": "T30n1579_045:0543c24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "精勤修學。",
+        "translation": "They diligently cultivate them.",
+        "source": "T30n1579_045:0543c25_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是建立如實了知。",
+        "translation": "In this way, he establishes true comprehension.",
+        "source": "T30n1579_045:0543c25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘行相三三摩地。",
+        "translation": "In the other three samādhis of practice and characteristics, he truly understands them.",
+        "source": "T30n1579_045:0543c26_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實悟入。",
+        "translation": "He truly understands and enters them.",
+        "source": "T30n1579_045:0543c26_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "安立理趣。",
+        "translation": "He establishes the principle and objective.",
+        "source": "T30n1579_045:0543c26_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如實悟入。",
+        "translation": "He truly awakens and enters them.",
+        "source": "T30n1579_045:0543c27_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修習理趣如實了知。",
+        "translation": "He cultivates the principles and objectives as they really are and knows them as they are.",
+        "source": "T30n1579_045:0543c27_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於其中諸聲聞眾。",
+        "translation": "This refers to the śrāvakas among them.",
+        "source": "T30n1579_045:0543c27_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "精勤修學及圓滿證。",
+        "translation": "They diligently cultivate and fully realize them.",
+        "source": "T30n1579_045:0543c28_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "瑜伽師地論卷第四十五",
+        "translation": "Yogâcārabhūmi-śāstra, vol. 45",
+        "source": "T30n1579_045:0543c29_0",
+        "is_bad_quality": false
+    }
+]

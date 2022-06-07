@@ -1,0 +1,830 @@
+[
+    {
+        "source_sentence": "佛說如來不思議祕密大乘經卷",
+        "translation": "Foshuo rulai busiyi mimi dasheng jing roll",
+        "source": "T11n0312_013:0733b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第十三",
+        "translation": "thirteenth",
+        "source": "T11n0312_013:0733b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫",
+        "translation": "Tripiṭaka of the Western Paradise Translation Sutra, Chaosan Dashi",
+        "source": "T11n0312_013:0733b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "試光祿卿傳梵大師賜紫",
+        "translation": "Guangluqing zhuanfan dashi gongsi",
+        "source": "T11n0312_013:0733b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙門臣法護等奉　詔譯",
+        "translation": "Translated by imperial order by the monks, ministers, and others, Fahou",
+        "source": "T11n0312_013:0733b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所緣品第十五之二",
+        "translation": "Fifteenth and Twoteenth Sections of the Object of Cognition",
+        "source": "T11n0312_013:0733b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次寂慧！",
+        "translation": "\"Furthermore, Jiji-hye!",
+        "source": "T11n0312_013:0733b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸菩薩為欲對治慳吝過失所緣法者，即起能捨己之所有心住。",
+        "translation": "\"If bodhisattvas want to counteract the disabling condition of the faults of parsimony, they then give rise to the abode of mind that's capable of abandoning what they have.",
+        "source": "T11n0312_013:0733b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為對治破戒過失所緣，即起持戒心住。",
+        "translation": "If it's to counteract the disabling condition of breaking the precepts, then they will arise and abide with the mind of maintaining precepts.",
+        "source": "T11n0312_013:0733b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為對治瞋恚過失所緣，即起堅固忍辱心住。",
+        "translation": "If it's to counteract the provocation of the fault of anger, then he arouses the abode of the mind that's resolute and patient.",
+        "source": "T11n0312_013:0733b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為對治懈怠過失所緣，即起精進成辦如來勝力心住。",
+        "translation": "If it's to counteract the condition of a fault of laziness, it's to give rise to the mental abiding of accomplishing the Tathāgata's surpassing power with effort.",
+        "source": "T11n0312_013:0733b29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為對治散亂過失所緣，即起獲得如來禪定心住。",
+        "translation": "If it's to counteract the perceived object of the faults and errors of distraction, that's when the abode of mind attaining the Tathāgata's meditative concentration arises.",
+        "source": "T11n0312_013:0733c02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為對治染慧過失所緣，即起圓滿無礙智心住。",
+        "translation": "If it's a condition for counteracting the faults and failures of defiled wisdom, it gives rise to the mental abode of perfect unimpeded cognition.",
+        "source": "T11n0312_013:0733c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為聲聞作意所緣，即起積集大乘心住。",
+        "translation": "If it's a condition for the contemplation of direct disciples, that's when the mind abiding in the accumulation of the great vehicle arises.",
+        "source": "T11n0312_013:0733c04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為厭離所緣，即起不作諸罪心住。",
+        "translation": "If it's a condition for becoming disillusioned, that's when he arises and abides with the mind of not committing sins.",
+        "source": "T11n0312_013:0733c05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為惡趣所緣，即起剎那所生諸惡趣中救度心住。",
+        "translation": "If it's an object of concern for a bad destiny, it's the abode of the mind that arises from saving people in the bad destinies that arise in a single moment.",
+        "source": "T11n0312_013:0733c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為天趣作意所緣，即起若成若壞後邊心住。",
+        "translation": "If it's an object of contemplation for a heavenly destiny, it gives rise to the mental abiding of whether something is formed or destroyed in the latter end.",
+        "source": "T11n0312_013:0733c07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為人趣作意所緣，即起不堅固心住。",
+        "translation": "If it's for the purpose of contemplating a human destiny, it gives rise to a mind that's not resolute in its abiding.",
+        "source": "T11n0312_013:0733c08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為念佛作意所緣，即起諸佛攝受心住。",
+        "translation": "If he focuses his mind on the mindfulness of the buddhas, it gives rise to the abiding mind of taking in the buddhas.",
+        "source": "T11n0312_013:0733c09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為念法作意所緣，即起於法不吝心住。",
+        "translation": "If he focuses his mind on the mindfulness of the teaching, it gives rise to a mind that abides unstinting in the teaching.",
+        "source": "T11n0312_013:0733c10_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為念僧作意所緣，即起獲得不退轉於法輪心住。",
+        "translation": "If it's the object of mindfulness of the concentration on the saṃgha, that's when the mind abiding in the Dharma wheel of attaining irreversibility arises.",
+        "source": "T11n0312_013:0733c11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為念捨作意所緣，即起一切能捨心住。",
+        "translation": "If it's for the purpose of mindfulness of the contemplation of equanimity, that's when the abode of mindfulness of equanimity arises.",
+        "source": "T11n0312_013:0733c12_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為念戒作意所緣，即起圓滿求願勝定覺支心住。",
+        "translation": "If it's for the purpose of mindfulness of the contemplation of morality, that's when the mind abiding in the awakening limb of superior concentration that is the result of perfect aspiration arises.",
+        "source": "T11n0312_013:0733c13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為念天作意所緣，即起諸天稱讚佛智加持心住。",
+        "translation": "If it's for the mental object of mindfulness of the gods, it gives rise to the mental abode of praising the Buddha's wisdom and empowerment.",
+        "source": "T11n0312_013:0733c14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為身作意所緣，即起獲得佛身清淨心住。",
+        "translation": "If it's for the purpose of contemplating the body, that gives rise to the mental abode of attaining the purity of the Buddha's body.",
+        "source": "T11n0312_013:0733c15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為語作意所緣，即起獲得諸佛語言清淨心住。",
+        "translation": "If it's for the purpose of contemplating speech, it gives rise to the mental abode of attaining the purity of the Buddha's speech.",
+        "source": "T11n0312_013:0733c16_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為心作意所緣，即起獲得佛平等心清淨心住。",
+        "translation": "If it's for the mental contemplation of the mind, it arises to attain the pure mental abiding of the Buddha's equal mind.",
+        "source": "T11n0312_013:0733c17_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為有為法所緣，即起圓滿如來智心住。",
+        "translation": "If it's for the perception of existent phenomena, that's when the abode of the mind of perfect tathāgata knowledge arises.",
+        "source": "T11n0312_013:0733c18_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若為無為法所緣，即起圓滿佛智心住。",
+        "translation": "If it's a condition for the condition of the nonproducts, that's when the mind abiding in perfect Buddha-wisdom arises.",
+        "source": "T11n0312_013:0733c19_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「寂慧當知，此如是等或有所緣，而諸菩薩無有不於一切智智現前法門中住。",
+        "translation": "\"Stillness and wisdom should tell you that there are no bodhisattvas who don't abide in the present dharma-gate of omniscience, whether it's for these or other reasons.",
+        "source": "T11n0312_013:0733c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又諸菩薩於一切所緣法中皆悉迴向菩提，此即是名菩薩善巧方便覺了一切法通達觀察。",
+        "translation": "Furthermore, when bodhisattvas completely transfer to enlightenment in all perceived things, this is called a bodhisattva's skillful method of perceiving all things and comprehending and observing them.",
+        "source": "T11n0312_013:0733c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寂慧！",
+        "translation": "Silent wisdom!",
+        "source": "T11n0312_013:0733c24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬如所有三千大千世界一切大地隨諸所生，無有不是一切眾生受用之所。",
+        "translation": "\"It's like the whole world of the 3,000 great one-thousand worlds and all the earth that arises from it, and there's nothing that isn't used by all sentient beings.",
+        "source": "T11n0312_013:0733c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸菩薩亦復如是，所有一切所緣境界，無有不是善巧方便菩薩共所受用菩提道分，無不成熟菩提道法。",
+        "translation": "So it is with those bodhisattvas, for there's no object that's not the portion of the path to enlightenment that's shared by bodhisattvas who skillfully and skillfully use it, and there's nothing that doesn't ripen the teaching of the path to enlightenment.",
+        "source": "T11n0312_013:0733c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如色法，一切皆是四大所造。",
+        "translation": "Also, just as with form, all things are created by the four elements.",
+        "source": "T11n0312_013:0733c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善巧方便菩薩亦復如是，或有所緣，一切皆以菩提勝相和合相應。",
+        "translation": "So it is with the bodhisattvas of skillful means, for whatever causes and conditions there are, they are all associated with the excellent characteristics of enlightenment.",
+        "source": "T11n0312_013:0733c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次寂慧！",
+        "translation": "\"Furthermore, Silent Wisdom!",
+        "source": "T11n0312_013:0734a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有眾生慳吝惡作者，菩薩即為圓滿布施波羅蜜多、持戒波羅蜜多。",
+        "translation": "\"If sentient beings are stingy and evil, the bodhisattva is the perfection of the perfection of generosity and the perfection of observing precepts.",
+        "source": "T11n0312_013:0734a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸眾生起瞋恚行及懈怠者，菩薩即為圓滿忍辱波羅蜜多、精進波羅蜜多。",
+        "translation": "If sentient beings behave angrily and are lazy, the bodhisattva is the perfection of the perfection of forbearance and the perfection of effort.",
+        "source": "T11n0312_013:0734a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸眾生起散亂心及愚癡行者，菩薩即為圓滿禪定波羅蜜多、勝慧波羅蜜多。",
+        "translation": "If sentient beings develop distracted states of mind and foolish behavior, the bodhisattva is the perfect pāramitā of meditation and the perfect pāramitā of superior wisdom.",
+        "source": "T11n0312_013:0734a06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸眾生不可悲愍者，菩薩於彼無違害心。",
+        "translation": "If sentient beings are not to be pitied, the bodhisattva has no harmful thoughts toward them.",
+        "source": "T11n0312_013:0734a08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸眾生所應饒益者，菩薩於彼無隨順心。",
+        "translation": "If it's desirable for sentient beings to benefit, the bodhisattva has no desire to follow them.",
+        "source": "T11n0312_013:0734a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸眾生常稱讚者，菩薩於彼而無高心。",
+        "translation": "If sentient beings always praise them, the bodhisattva doesn't have a high attitude toward them.",
+        "source": "T11n0312_013:0734a10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若諸眾生不稱讚者，菩薩於彼亦無下心。",
+        "translation": "If sentient beings don't praise them, the bodhisattva doesn't have a low attitude toward them.",
+        "source": "T11n0312_013:0734a11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見一切苦惱眾生，菩薩即起大悲之心。",
+        "translation": "If he sees all suffering and distressed sentient beings, the bodhisattva arouses a mind of great compassion.",
+        "source": "T11n0312_013:0734a12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見一切快樂眾生，菩薩即起歡喜之心。",
+        "translation": "If he sees all joyous sentient beings, the bodhisattva becomes joyous.",
+        "source": "T11n0312_013:0734a13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見一切麁獷眾生，菩薩即起調伏之心。",
+        "translation": "If he sees all debilitating sentient beings, the bodhisattva arouses a mind of submission.",
+        "source": "T11n0312_013:0734a14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見一切調順眾生，菩薩即起慈愛之心。",
+        "translation": "If he sees all compliant sentient beings, the bodhisattva arouses a mind of compassion.",
+        "source": "T11n0312_013:0734a15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見具有緣力眾生，菩薩即起衛護之心。",
+        "translation": "If he sees sentient beings with the power of conditions, the bodhisattva becomes mindful of guarding them.",
+        "source": "T11n0312_013:0734a16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見具有因力眾生，菩薩即起攝化之心，隨攝化已乃為教授。",
+        "translation": "If he sees sentient beings with the power of causes, the bodhisattva arouses the mind of collecting and teaching them, and then he teaches them after collecting and teaching them.",
+        "source": "T11n0312_013:0734a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見智慧開明眾生，菩薩即為宣說甚深之法。",
+        "translation": "If he sees a sentient being with awakened wisdom, the bodhisattva then explains the profound Dharma for them.",
+        "source": "T11n0312_013:0734a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見具演說智眾生，菩薩即為廣大說法。",
+        "translation": "If he sees a sentient being with expository wisdom, the bodhisattva then gives a wide-ranging explanation of the teaching.",
+        "source": "T11n0312_013:0734a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見如理眾生，菩薩即為次第說法。",
+        "translation": "If he sees sentient beings who accurately understand the principle, the bodhisattva teaches them in sequence.",
+        "source": "T11n0312_013:0734a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂著文句者，菩薩即以少略文句而為說法。",
+        "translation": "If he sees sentient beings who are comfortable attaching to texts and phrases, the bodhisattva then explains the teaching with a limited set of texts and phrases.",
+        "source": "T11n0312_013:0734a21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以奢摩他為先導者，菩薩即為宣說毘鉢舍那。",
+        "translation": "If he sees that sentient beings are comfortable using calming meditation as a guide, the bodhisattva then preaches Vipaśyanā.",
+        "source": "T11n0312_013:0734a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以毘鉢舍那為先導者，菩薩即為宣說趣入三摩地法。",
+        "translation": "If he sees that sentient beings are comfortable using vipaśyanā as a guide, the bodhisattva then teaches the way to enter samādhi.",
+        "source": "T11n0312_013:0734a23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂持戒者，菩薩先為宣說不究竟法，後復為說地獄等事。",
+        "translation": "If he sees that sentient beings are comfortable observing precepts, the bodhisattva first explains the incomplete teaching and then explains such things as hell.",
+        "source": "T11n0312_013:0734a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂多聞者，即為宣說無疑惑法。",
+        "translation": "If he sees sentient beings who are comfortable being well-versed, the bodhisattva then explains the teaching of no doubt.",
+        "source": "T11n0312_013:0734a26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂三摩地者，即為宣說趣入慧法。",
+        "translation": "If he sees sentient beings who are comfortable with samādhi, he then teaches them the way to enter wisdom.",
+        "source": "T11n0312_013:0734a27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂曠野住者，即為宣說心寂靜法。",
+        "translation": "If he sees sentient beings who are comfortable living in the wilderness, he'll explain the teaching of quiescence of mind.",
+        "source": "T11n0312_013:0734a28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂修頭陀行者，即為宣說聖慧根法。",
+        "translation": "If he sees sentient beings who are comfortable cultivating the ascetic practices, he then explains the teaching of the noble faculty of wisdom.",
+        "source": "T11n0312_013:0734a29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見鈍根眾生，即為宣說聞隨順法。",
+        "translation": "If he sees sentient beings with dull faculties, he'll explain the teaching of following what's heard.",
+        "source": "T11n0312_013:0734b01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見堅著貪法眾生，即為宣說不淨之法。",
+        "translation": "If he sees sentient beings firmly attached to the dharma of greed, he will explain the teaching of impurity.",
+        "source": "T11n0312_013:0734b02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見堅著瞋法眾生，即為宣說慈心之法。",
+        "translation": "If he sees sentient beings firmly attached to the dharmas of anger, he will explain the teaching of compassion.",
+        "source": "T11n0312_013:0734b03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見堅著癡法眾生，即為宣說緣生之法。",
+        "translation": "If he sees sentient beings firmly attached to the dharmas of delusion, he then explains the teaching on the teaching of conditional arising.",
+        "source": "T11n0312_013:0734b04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見等分行眾生，即從中入中廣為說法，所謂不淨法、慈心法、緣生法。",
+        "translation": "If he sees sentient beings equally divided, he then explains in detail the teaching of the teaching of impurity, the teaching of kindness, and the teaching of conditioned arising from the middle and the middle.",
+        "source": "T11n0312_013:0734b05_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若隨順諸法所應度者，菩薩即為宣說增上戒法、增上心法、增上慧法。",
+        "translation": "If he follows the principles that should be crossed, the bodhisattva then teaches the principles of superior morality, superior mind, and superior wisdom.",
+        "source": "T11n0312_013:0734b07_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生以佛勝相所應度者，即為宣說真實隨順菩提分法。",
+        "translation": "If he sees sentient beings whom he should deliver because of the Buddha's excellent characteristics, he then proclaims the true principles of the factors of enlightenment that accord with them.",
+        "source": "T11n0312_013:0734b08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見輕慢眾生所應度者，先為杜止輕慢之門，後為說法。",
+        "translation": "If he sees sentient beings who are arrogant and should be saved, he'll first stop the gate of arrogance and then preach the Dharma.",
+        "source": "T11n0312_013:0734b10_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生相續樂觀菩薩聖相者，菩薩即為常現其身，然根未熟者不為說法。",
+        "translation": "If he sees sentient beings who are continuously optimistic about the bodhisattva's noble attributes, the bodhisattva will then always present his body, but he won't preach to those whose faculties aren't yet ripe.",
+        "source": "T11n0312_013:0734b11_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂巧說法所應度者，即以緣起譬喻解釋說法。",
+        "translation": "If he sees that sentient beings are delighted with the skillful explanation of what should be taught, he then explains the teaching using parables of dependent arising.",
+        "source": "T11n0312_013:0734b13_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂甚深法所應度者，即為宣說緣生無我無人無眾生法。",
+        "translation": "If he sees that sentient beings delight in the profound Dharma that should be liberated, he then explains that conditioned beings lack self, lack persons, and lack the Dharma of sentient beings.",
+        "source": "T11n0312_013:0734b14_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有眾生著諸見者，為說空法。",
+        "translation": "If there are sentient beings attached to views, he explains the teaching of emptiness.",
+        "source": "T11n0312_013:0734b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生起尋求行者，即為宣說無相之法。",
+        "translation": "If he sees sentient beings who develop practices that seek, he teaches the teaching of signlessness.",
+        "source": "T11n0312_013:0734b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生起求願者，即為宣說無願之法。",
+        "translation": "If you see sentient beings arisen seeking vows, you'll proclaim the teaching of wishlessness.",
+        "source": "T11n0312_013:0734b17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生著諸蘊者，即為宣說如幻之法。",
+        "translation": "If he sees sentient beings clinging to the aggregates, he teaches the teaching of illusory dharmas.",
+        "source": "T11n0312_013:0734b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生著諸界者，即為宣說善決擇法。",
+        "translation": "If he sees sentient beings clinging to the elements, he teaches the teaching of skillful discernment.",
+        "source": "T11n0312_013:0734b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生著諸處者，即為宣說如夢之法。",
+        "translation": "If he sees sentient beings attached to the sense-fields, he teaches the teaching that it's like a dream.",
+        "source": "T11n0312_013:0734b20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生著欲界者，即為宣說逼惱之法。",
+        "translation": "If he sees sentient beings attached to the desire realm, he teaches the teaching of persecution.",
+        "source": "T11n0312_013:0734b21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生著色界者，即為宣說諸行苦法。",
+        "translation": "If he sees sentient beings attached to the form realm, he'll explain the principles of the suffering of conditioned phenomena.",
+        "source": "T11n0312_013:0734b22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生著無色界者，即為宣說彼一切行無常之法。",
+        "translation": "If he sees sentient beings attached to the formless realm, he teaches them the teaching that all formations are impermanent.",
+        "source": "T11n0312_013:0734b23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以苦法所應度者，即為宣說，令於聖種生歡喜法。",
+        "translation": "If he sees that sentient beings are delighted by the principles of suffering that should be liberated, he then teaches them, causing the holy types to become delighted with the principles.",
+        "source": "T11n0312_013:0734b24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以樂法所應度者，為說無量禪定之法。",
+        "translation": "If he sees that sentient beings are delighted by what should be liberated by the pleasant Dharma, he teaches the Dharma of measureless meditation.",
+        "source": "T11n0312_013:0734b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂天趣法所應度者，即為宣說純一樂法。",
+        "translation": "If he sees that sentient beings are delighted by the teachings of the heavenly destinies that they should be saved from, he then explains the teaching of pure joy.",
+        "source": "T11n0312_013:0734b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂著諸相所應度者，為說無我無取之法。",
+        "translation": "If he sees that sentient beings are delighted with attachment to characteristics and should be liberated, he teaches the teaching of no-self and no-acquisition.",
+        "source": "T11n0312_013:0734b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以聲聞法所應度者，即為教授取證之法。",
+        "translation": "If he sees that sentient beings are delighted with the teachings of the śrāvakas and should be liberated, he teaches the teaching of grasping and realizing.",
+        "source": "T11n0312_013:0734b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以緣覺法所應度者，即為宣說於事於義少略之法。",
+        "translation": "If he sees that sentient beings are delighted with the teachings of the pratyekabuddhas and should be liberated, he teaches the teaching that's both brief in terms of things and brief in terms of meaning.",
+        "source": "T11n0312_013:0734c01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以初發心菩薩法所應度者，即為宣說深心發起大悲之法。",
+        "translation": "If he sees sentient beings who are delighted to be liberated by the teachings of first-aspiration bodhisattvas, he teaches the teaching of generating great compassion with a deep heart.",
+        "source": "T11n0312_013:0734c03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以久修道行菩薩之法所應度者，即為宣說於輪迴中無懈倦法。",
+        "translation": "If he sees sentient beings who are delighted to be liberated by the bodhisattva's teaching of long-standing practice, he teaches the teaching of no laziness in the cycle of transmigration.",
+        "source": "T11n0312_013:0734c04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以不退轉菩薩之法所應度者，即為宣說嚴淨佛土之法。",
+        "translation": "If he sees that sentient beings are delighted to be liberated by the teaching of the nonretrogressing bodhisattva, he teaches the teaching of the adornment and purification of the Buddha's land.",
+        "source": "T11n0312_013:0734c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以一生補處菩薩之法所應度者，即為宣說大菩提場莊嚴之法。",
+        "translation": "If he sees that sentient beings are delighted to be saved by the teaching of the bodhisattva who will make up for a lifetime, he then proclaims the teaching of the adornment of the site of great enlightenment.",
+        "source": "T11n0312_013:0734c08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見眾生樂以佛身所應度者，為說菩薩勝行相續不空之法。",
+        "translation": "If he sees that sentient beings are delighted to be saved by the Buddha's body, he's teaching the Dharma of the continuity and nonemptyness of the bodhisattva's superior practice.",
+        "source": "T11n0312_013:0734c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寂慧當知，如是等法皆是具足智慧方便諸大菩薩，於彼清淨所緣法中而得自在，是故廣說不空之法；其所說法，為令一切眾生歡喜故說。」",
+        "translation": "Silent wisdom should know that such things are all great bodhisattvas who possess the wisdom and skill to attain mastery in those pure perceptual objects; therefore, they explain the nonempty dharma in detail and speak it for the joy of all sentient beings.\"",
+        "source": "T11n0312_013:0734c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說是法時，會中有十千人發阿耨多羅三藐三菩提心，五千菩薩得無生法忍。",
+        "translation": "When this teaching was given, 10,000 people in the assembly aroused the mind of unsurpassed, correct enlightenment, and 5,000 bodhisattvas attained the forbearance of the nonarising dharma.",
+        "source": "T11n0312_013:0734c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛手菩薩大祕密主授記品第十六之一爾時會中有諸菩薩咸起是念：「此金剛手菩薩大祕密主，其何久近當得成就阿耨多羅三藐三菩提果邪？",
+        "translation": "During that time, some bodhisattvas in the 16th chapter of the Vajrapāṇi Bodhisattva's Great Secret Master's Record, they all had this thought, \"How could this Vajrapāṇi Bodhisattva, the Great Secret Master, have accomplished the fruit of unsurpassed, correct enlightenment in the near future?",
+        "source": "T11n0312_013:0734c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所居佛土當何名字？",
+        "translation": "What is the name of the Buddha land where he lives?",
+        "source": "T11n0312_013:0734c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩成佛復名何等？",
+        "translation": "What is the name given to the bodhisattva who becomes a buddha again?",
+        "source": "T11n0312_013:0734c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眷屬圓滿其數幾何？」",
+        "translation": "What is the number of those whose dependents are perfectly complete?\"",
+        "source": "T11n0312_013:0734c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊知諸菩薩心所念已，即時微笑，法爾諸佛現微笑時必有因緣。",
+        "translation": "After the Bhagavān knew what the bodhisattvas were thinking, he immediately smiled, for there must be a reason when the buddhas of the Dharma appear to smile.",
+        "source": "T11n0312_013:0734c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊從其面門放種種色廣大光明，所謂青黃赤白紅紫碧綠，其眾色光普遍照曜無邊世界乃至梵世，其光盤旋還來佛所，右繞三匝，從佛世尊頂門而入。",
+        "translation": "At the time, the Bhagavān radiated a vast radiance of various colors from the entrance of his face, called blue, yellow, red, white, red, purple, and turquoise, and the light of those various colors universally illuminated the infinite world and even the Brahma world, and it circled back to the Buddha, circled him three times to his right, and entered through the Bhagavān's top door.",
+        "source": "T11n0312_013:0734c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時寂慧菩薩摩訶薩即於佛前合掌虔恭，以妙伽陀而伸請問：「如金色光妙無垢，　　寂靜月面體凝然，　破暗最上日光明，　　人仙微笑今何為？",
+        "translation": "At that point, the Bodhisattva Mahāsattva of Silent Wisdom joined his palms in reverence before the Buddha and asked him with a wonderful gesture, \"Such a golden light is marvelous and unsullied, the still face of the moon is solid, the darkness is broken, the sun is the brightest, and the sages smile.",
+        "source": "T11n0312_013:0734c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　安處寂定蓮花相，　　大悲震吼進力增，　念智功德妙香薰，　　善逝蓮花笑何為？",
+        "translation": "\"What is the lotus blossom that smiles when it stands calm and collected, when its great compassionate roar increases its power of effort, when it is perfumed by the wonderful fragrance of the merit of mindfulness and knowledge, and when it well passes away?",
+        "source": "T11n0312_013:0735a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　念如淨器定如油，　　悲炷然燈破三垢，　妙慧光明息暗冥，　　善逝智光笑何為？",
+        "translation": "Mindfulness is like a pure vessel, concentration is like oil, the burning lamp of compassion refutes the three defilements, the light of marvelous wisdom quells darkness, and the light of well-excluded wisdom laughs.",
+        "source": "T11n0312_013:0735a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　悲輪光明慧觀察，　　息除三垢滅諸冥，　淨開智眼利世間，　　佛日妙光笑何為？",
+        "translation": "\"What is the smile of the Buddha's marvelous sun, which shines brightly and perspicaciously, calms the three defilements and extinguishes ignorance, and purifies and opens the eye of wisdom for the benefit of the world?",
+        "source": "T11n0312_013:0735a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　佛知三有世間意，　　遍照一切天人心，　大仙慈眼視眾生，　　今何大仙現微笑？」",
+        "translation": "The Buddha knows the worldly aspirations of the three existences, he illuminates the hearts of all gods, and he looks at sentient beings with the compassionate eyes of a great sage.",
+        "source": "T11n0312_013:0735a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寂慧菩薩說伽陀已。",
+        "translation": "After Śīlabhadra Bodhisattva spoke about the jāti.",
+        "source": "T11n0312_013:0735a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊即告寂慧菩薩摩訶薩言：「今此金剛手菩薩大祕密主，於此賢劫諸佛、如來、應供、正等正覺所，持金剛杵作供養事，以利益心守護正法。",
+        "translation": "It was then that the Bhagavān addressed the Bodhisattva Śivi Mahāsattva, saying, \"Now, this Vajrapāṇi Bodhisattva, the great mystic master, has been making offerings with a vajra hammer to the buddhas, tathāgatas, worshipful offerings, and guarding the right Dharma with a mind for the benefit of others.",
+        "source": "T11n0312_013:0735a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今於我此祕密法中廣大施作，普為無量一切眾生成熟最上菩提善根。",
+        "translation": "Now, I make vast offerings in this esoteric dharma to ripen the highest good roots of bodhi for measureless sentient beings.",
+        "source": "T11n0312_013:0735a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此賢劫乃至最後樓至如來法中隱沒，即於極樂世界阿閦如來佛剎中生。",
+        "translation": "From this good eon until the final ascending tathāgata disappears from the Dharma, he'll be born in the Akṣobhya Tathāgata's buddha-blaze in the paradise world.",
+        "source": "T11n0312_013:0735a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而彼世界阿閦如來為彼諸菩薩宣說祕密一百八印，時金剛手菩薩大祕密主聞其所說，不假加行解入義趣，如理如實隨順所行。",
+        "translation": "When the Akṣobhya Tathāgata of that world taught the one hundred and eight seals of the esoteric for those bodhisattvas, the Vajrapāṇi Bodhisattva, the great esoteric master, heard what he taught, understood the meaning without relying on applied practices, and complied with what was practiced according to principle and reality.",
+        "source": "T11n0312_013:0735a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其後復於無量無數諸如來所，親近恭敬尊重供養，彼彼佛所皆修梵行護持正法，廣為無量俱胝那庾多百千眾生成熟阿耨多羅三藐三菩提法。",
+        "translation": "Subsequently, he also visited measureless and countless tathāgatas, paid close attention, respected, venerated, and made offerings to them, cultivated the religious practice of those buddhas, upheld the right principles, and extensively ripened the unsurpassed, correct, and complete enlightenment for measureless hundreds of thousands of sentient beings.",
+        "source": "T11n0312_013:0735a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而後復過殑伽沙數劫中圓滿菩提分法，而乃得成阿耨多羅三藐三菩提果，號金剛步如來、應供、正等正覺出現於世，明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。",
+        "translation": "After completing the factors of enlightenment over sands of eons, he then attains the unsurpassed, correct, and complete fruit of enlightenment and appears in the world as a Vajrapāṇi Tathāgata, Worthy of Offerings, and Completely Awakened One, Complete in Knowledge and Conduct, Well Gone, Understander of the World, Unsurpassed Person, Tamer of Beings, Teacher of Gods and People, Buddha, and World Honored One.",
+        "source": "T11n0312_013:0735a25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世界名普淨，劫名清淨。",
+        "translation": "The world is called universally pure, and the eons are called pure.",
+        "source": "T11n0312_013:0735a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寂慧！",
+        "translation": "Silent wisdom!",
+        "source": "T11n0312_013:0735a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而彼普淨世界金剛步如來剎土之中，安隱豐樂嚴淨可觀，天人熾盛菩薩廣多，七寶具足殊妙莊嚴。",
+        "translation": "\"In the Vajrapāṇi Tathāgata's buddha-lands of that universally pure world, there's peace and plenty of happiness, splendor and purity, a wealth of gods and humans, and a wealth of bodhisattvas, and an abundance of the seven treasures that make for marvelous adornment.",
+        "source": "T11n0312_013:0735a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七寶所謂金、銀、瑠璃、硨磲、碼瑙、珊瑚、琥珀及赤珠寶，彼世界中周遍盈積。",
+        "translation": "The seven treasures, which are called gold, silver, beryl, coral, onyx, coral, amber, and ruby, are abundant throughout that world.",
+        "source": "T11n0312_013:0735b02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可八步量地平如掌，柔軟復如迦左隣尼具諸樂觸。",
+        "translation": "It can be measured in eight steps, has a ground as flat as a palm, and is soft and supple like a kazaraṇa with pleasant sensations.",
+        "source": "T11n0312_013:0735b04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "建妙幡幢寶繩交絡，天妙寶花處處垂下，最上精妙眾香氛馥，空中自然奏諸音樂，無諸惡趣及眾險難，如兜率天最勝受用。",
+        "translation": "It's built with marvelous banners and banners, intertwined with jeweled ropes, with wonderful jeweled flowers dropping everywhere in the sky, perfumed with the most sublime fragrances, and with music naturally playing in the air, it's free of bad destinies and numerous difficulties like the most excellent experience in Tuṣita Heaven.",
+        "source": "T11n0312_013:0735b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼世界隨意所思，宮殿舍宇園林樓閣、飲食衣服眾莊嚴具，皆悉具足隨諸所用，皆與天人受用無異。",
+        "translation": "According to their wishes, that world is supplied with palaces, mansions, gardens, forests, and shrines, food, clothing, and other adornments, all of which are used as desired, and are no different from what celestials enjoy.",
+        "source": "T11n0312_013:0735b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受諸天人，具大信解深信佛智。",
+        "translation": "Those gods and humans who receive them have great faith and understanding, and they deeply believe in the Buddha's wisdom.",
+        "source": "T11n0312_013:0735b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼世界亦復不聞聲聞、緣覺二乘名字，彼佛所說純一清淨大菩薩法。",
+        "translation": "That world also doesn't hear the names of the two vehicles, śrāvakas and pratyekbuddhas, but that Buddha's teaching is pure and unified, pure, and the great bodhisattva dharma.",
+        "source": "T11n0312_013:0735b11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼金剛步如來廣多百千菩薩眷屬。",
+        "translation": "That Vajrapāṇi Tathāgata has a vast retinue of hundreds of thousands of bodhisattva followers.",
+        "source": "T11n0312_013:0735b13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼世界不壞律儀、不減壽命、不破戒行、不失正見，亦無顛狂聾瘂跛傴謇吃、獷惡鬪競缺減諸根等者，一切皆具二十八種天人勝相而為莊嚴。",
+        "translation": "That world doesn't break discipline, doesn't lose longevity, doesn't break moral discipline, doesn't lose right view, and doesn't have people who are deluded, deaf, lame, or have flat tables, who are tough, fight, and who lack the faculties to fight, and so forth, all of whom are adorned with the 28 excellent characteristics of gods and humans.",
+        "source": "T11n0312_013:0735b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼佛如來壽八中劫，亦無天人中間夭逝。",
+        "translation": "That Buddha-tathāgata has a lifespan of eight medium-length eons, and there are no gods or humans who die young in between.",
+        "source": "T11n0312_013:0735b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寂慧當知，彼金剛步如來其如是等及餘無量勝功德事。",
+        "translation": "Stillness and wisdom should tell you that that Vajrapāṇi Tathāgata has this and countless other things of great merit.",
+        "source": "T11n0312_013:0735b18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼佛世尊隨欲說法即放光明，彼諸眾生見是光已，即知如來宣說妙法。",
+        "translation": "Whenever the Bhagavān wishes to preach, he radiates a bright light, and when sentient beings see that light, they know that the Tathāgata is preaching the wonderful Dharma.",
+        "source": "T11n0312_013:0735b19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有眾生互起思念，欲詣佛所瞻仰聽法，即以彼佛神通智力所加持故尋至佛所，或有以自神力至佛所者，即時天人大眾咸來集會。",
+        "translation": "If there are sentient beings who mutually contemplate going to the Buddha to look up and listen to the teaching, they either find their way to the Buddha because of the blessing of his supernormal powers or they reach the Buddha with their own supernormal powers, and thereupon a great multitude of gods and goddesses come to assemble there.",
+        "source": "T11n0312_013:0735b21_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼世尊踊身空中高百千多羅樹，時四大洲悉見如來廣大身相，又十方世界悉聞震發，顯示如來清淨妙音，一切眾生聞者適悅。",
+        "translation": "The Bhagavān then rises up in the air and rises up in a hundred thousand palm trees, and the Tathāgata's vast body shape is seen on all four continents, and the world in ten directions hears an echo that demonstrates the Tathāgata's pure, wonderful voice, which pleases all sentient beings who hear it.",
+        "source": "T11n0312_013:0735b24_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復如來為諸菩薩說正法時，無一眾生於其如來宣說之法有所違背，彼諸眾生皆悉利根開明知解。",
+        "translation": "Furthermore, when the Tathāgata teaches the correct Dharma to bodhisattvas, there isn't a single sentient being who contradicts the Dharma that the Tathāgata teaches, and all of those sentient beings have sharp faculties that reveal their understanding.",
+        "source": "T11n0312_013:0735b27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼世界而無王者，唯佛世尊金剛步如來最上法王。",
+        "translation": "There's no king in that world but the Bhagavān, the Vajrapāṇi Tathāgata, who is the supreme king of the Dharma.",
+        "source": "T11n0312_013:0735b29_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼世界一切眾生無我無執。",
+        "translation": "Also, in that world, all sentient beings lack self and have no attachment.",
+        "source": "T11n0312_013:0735c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「復次寂慧！",
+        "translation": "\"Furthermore, Silent Wisdom!",
+        "source": "T11n0312_013:0735c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又彼金剛步如來，於彼剎中諸天人所欲行乞食，彼時若天若人即見如來聖像住在其前執持應器。",
+        "translation": "\"When the Vajrapaw Tathāgata is in that bhava and the gods and humans there want to solicit alms, then some god or human being sees the Tathāgata's image of the sage standing in front of him, holding a suitable container.",
+        "source": "T11n0312_013:0735c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼諸天人見聖像已，各欲奉上如來清淨飲食，及隨意樂所欲方處座臥之具，百味食等皆悉嚴備。",
+        "translation": "After they see the image of the Tathāgata, the gods and humans each want to offer the Tathāgata pure food and drink, as well as seating and sleeping arrangements in whatever place they want, and a hundred flavors of food and so forth, all of which are well-prepared.",
+        "source": "T11n0312_013:0735c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼佛知時，隨受所施。",
+        "translation": "When the Buddha knew this, he accepted the offerings as they came.",
+        "source": "T11n0312_013:0735c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛受施已即出其舍，還復如來所止僧坊，諸菩薩眾亦復隨應入三摩地。",
+        "translation": "After accepting the gift, the Buddha left his abode and returned to the monastery where the Tathāgata had stayed, and the bodhisattvas likewise entered samādhi accordingly.",
+        "source": "T11n0312_013:0735c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「寂慧當知，彼佛如來所住世界，具如是等及餘無量勝功德事，是故名為普淨世界。」",
+        "translation": "\"Silent wisdom should tell you that the world in which that Buddha Tathāgata lives is filled with these and countless other things of great merit, which is why it's called a universally pure world.\"",
+        "source": "T11n0312_013:0735c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說如來不思議祕密大乘經卷第十三",
+        "translation": "Foshuo rulai busiyi mimi dasheng jing, vol. 13",
+        "source": "T11n0312_013:0735c12_0",
+        "is_bad_quality": false
+    }
+]

@@ -1,0 +1,3458 @@
+[
+    {
+        "source_sentence": "四分僧戒本(曇無德出)",
+        "translation": "Dharmaguptaka-bhikṣu-prātimokṣa-sūtra (Dharmaguptaka-bhikṣu-prātimokṣa-sūtra)",
+        "source": "T22n1430_001:1023a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後秦世罽賓三藏佛陀耶舍譯",
+        "translation": "Latter-Qin Dynasty Translation of the Tripiṭaka of Kāśmīra Buddhayaśas",
+        "source": "T22n1430_001:1023a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　稽首禮諸佛，　　及法比丘僧，　今演毘尼法，　　令正法久住。",
+        "translation": "I bow my head in homage to the buddhas and the monks and nuns of the Dharma, and now I present the vinaya teachings so that the right teaching will be long-lasting.",
+        "source": "T22n1430_001:1023a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　戒如海無崖，　　如寶求無厭，　欲護聖法財，　　眾集聽我說。",
+        "translation": "Like an ocean with no cliffs, the precepts are like treasures sought without tire, and they want to protect the wealth of the noble teaching, so gather here to hear me teach them.",
+        "source": "T22n1430_001:1023a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　欲除四棄法，　　及滅僧殘法，　障三十捨墮，　　眾集聽我說。",
+        "translation": "They want to remove the four rules of renunciation, extinguish the residue of the saṃgha, and obstruct the 30 prohibitions, so they gather to hear my teaching.",
+        "source": "T22n1430_001:1023a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　毘婆尸式棄，　　毘舍拘留孫，　拘那含牟尼，　　迦葉釋迦文，　諸世尊大德，　　為我說是事，　我今欲善說，　　諸賢咸共聽。",
+        "translation": "Vipaśyin Kiṃśuka, Vaiśravaṇa, Kanakamuni, Kāśyapa Śākyamuni, and other world-honored greats have explained these things for me, and now I want to explain them well, so all the good people will listen.",
+        "source": "T22n1430_001:1023a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　譬如人毀足，　　不堪有所涉，　毀戒亦如是，　　不得生天人。",
+        "translation": "Like a person who disfigures his feet and can't get involved, so too does he disregard the precepts, for he can't be born among gods or humans.",
+        "source": "T22n1430_001:1023a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　欲得生天上，　　若生人間者，　常當護戒足，　　勿令有毀損。",
+        "translation": "Those who want to be born in heaven or who wish to live among humans should always guard the feet of the precepts and not allow them to be disrupted.",
+        "source": "T22n1430_001:1023b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如御入險道，　　失轄折軸憂，　毀戒亦如是，　　死時懷恐懼。",
+        "translation": "Like a man who rides into a dangerous path and loses his control, he's worried about losing his axle, and so is he who disparages the precepts and becomes fearful when he dies.",
+        "source": "T22n1430_001:1023b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如人自照鏡，　　好醜生欣慼，　說戒亦如是，　　全毀生憂喜。",
+        "translation": "Like a person who looks at himself in a mirror and becomes delighted with what's attractive and ugly, and likewise when he speaks of the precepts, he becomes sad and joyous when they are all destroyed.",
+        "source": "T22n1430_001:1023b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如兩陣共戰，　　勇怯有進退，　說戒亦如是，　　淨穢生安畏。",
+        "translation": "Like two men fighting in battle, their courage and fear are matched by advance and retreat, so is the statement of the precepts, and purity produces peace and fear.",
+        "source": "T22n1430_001:1023b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　世間王為最，　　眾流海為最，　眾星月為最，　　眾聖佛為最。",
+        "translation": "The world's kings are the greatest, the ocean of many currents is the greatest, the stars and moon are the greatest, and the sages and buddhas are the greatest.",
+        "source": "T22n1430_001:1023b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　一切眾律中，　　戒經為上最，　如來立禁戒，　　半月半月說。",
+        "translation": "Of all the vinaya texts, the precepts sūtra is the best, and the Tathāgata establishes precepts that are forbidden half a month and half a month apart.",
+        "source": "T22n1430_001:1023b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「和合僧集會？",
+        "translation": "\"What's the assembly of the harmonized saṃgha?",
+        "source": "T22n1430_001:1023b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未受大戒者出？",
+        "translation": "What happens to those who have not received the great precepts?",
+        "source": "T22n1430_001:1023b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不來諸比丘說欲及清淨？",
+        "translation": "Do the bhikṣus not come to speak of desire and purity?",
+        "source": "T22n1430_001:1023b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誰遣比丘尼來受教誡？",
+        "translation": "Who sent the bhikṣuṇīs to be instructed?",
+        "source": "T22n1430_001:1023b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "僧今和合何所作為？」",
+        "translation": "What have the saṃgha done now in combination?\"",
+        "source": "T22n1430_001:1023b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(答言：「說戒羯磨。」",
+        "translation": "(They replied, \"Explain the karma of the precepts.\")",
+        "source": "T22n1430_001:1023b15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": ")「大德僧聽！",
+        "translation": ") \"Listen, great virtuous monks!",
+        "source": "T22n1430_001:1023b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今僧十五日布薩說戒。",
+        "translation": "Today, the saṃgha preaches the precepts on the fifteenth day of the puṣya.",
+        "source": "T22n1430_001:1023b15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若僧時到僧忍聽，和合說戒。",
+        "translation": "If the saṃgha is present at the time, the saṃgha tolerates listening and unites to expound the precepts.",
+        "source": "T22n1430_001:1023b16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白如是。",
+        "translation": "I explain it this way.",
+        "source": "T22n1430_001:1023b16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸大德！",
+        "translation": "\"Great masters!",
+        "source": "T22n1430_001:1023b17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今欲說戒，眾集現前，默然聽，善思念之。",
+        "translation": "Now, when I want to preach the precepts, gather a crowd of people in front of me, listen quietly, and consider it well.",
+        "source": "T22n1430_001:1023b17_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有犯者當發露，無犯者默然；默然故，當知僧清淨。",
+        "translation": "If there's a transgressor, you must disclose it, and if there's no transgressor, you must be silent; because of this silence, you should know that the saṃgha is pure.",
+        "source": "T22n1430_001:1023b18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有他舉者，即應如實答。",
+        "translation": "If someone else raises the issue, they should answer it truthfully.",
+        "source": "T22n1430_001:1023b19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是諸比丘在於眾中，乃至三唱，憶念有罪，當發露；不發露者，得故妄語罪；佛說故妄語是障道法，彼比丘自憶念知有罪，欲求清淨，當發露；發露則安隱；不發露罪益深。",
+        "translation": "Thus, when a monk is among the people, even when he's singing three times, he recollects that he's guilty and will reveal it; if he doesn't reveal it, he'll be guilty of speaking falsehoods; the Buddha teaches that speaking falsehoods is a hindrance to the path, so that monk recollects that he's guilty and wants to purify himself, so he'll reveal it; if he reveals it, he'll be comfortable; if he doesn't reveal it, his crimes will become deeper.",
+        "source": "T22n1430_001:1023b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸大德！",
+        "translation": "Great masters!",
+        "source": "T22n1430_001:1023b23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說戒經序。",
+        "translation": "I've already explained the introduction to the Precepts Sutra.",
+        "source": "T22n1430_001:1023b24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德！",
+        "translation": "Now, I'd like to ask the great masters!",
+        "source": "T22n1430_001:1023b24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨不？",
+        "translation": "Is it medium-clean?",
+        "source": "T22n1430_001:1023b24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)諸大德！",
+        "translation": "(Thus three explanations) Great masters!",
+        "source": "T22n1430_001:1023b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事如是持。",
+        "translation": "This is purified, and because of its silence, this matter is thus maintained.",
+        "source": "T22n1430_001:1023b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1023b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是四棄法，半月半月，戒經中說。",
+        "translation": "\"These are the four rules of renunciation, which are explained in the precepts sūtra half a month and half a month.",
+        "source": "T22n1430_001:1023b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，與比丘共戒同戒，不捨戒，戒羸不自悔，犯不淨行，行淫欲法；乃至共畜生。",
+        "translation": "\"Suppose a monk shares the precepts with a monk, doesn't renounce the precepts, doesn't repent of his own weakness in the precepts, commits an impure act, engages in lustful sexual behavior, or even lives together with an animal.",
+        "source": "T22n1430_001:1023b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘波羅夷，不共住。",
+        "translation": "This monk, Pārājika, won't live together.",
+        "source": "T22n1430_001:1023b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，在聚落中，若閑靜處，不與物，懷盜心取；隨不與取法，若為王、王大臣所捉，若殺、若縛、若驅出國：『汝是賊！",
+        "translation": "\"Suppose a monk goes into a quiet place in a village and doesn't take anything with him, intending to steal it; following the method of taking what's not given, he'll be caught by the king or his ministers, killed, bound, or driven out of the country: 'You're a thief!'",
+        "source": "T22n1430_001:1023c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝癡！",
+        "translation": "You fool!",
+        "source": "T22n1430_001:1023c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝無所知。』",
+        "translation": "You don't know anything about it.'",
+        "source": "T22n1430_001:1023c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比丘如是盜者，波羅夷，不共住。",
+        "translation": "A monk who steals like this, Pārājika, doesn't live together.",
+        "source": "T22n1430_001:1023c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，故自手斷人命，持刀授與人，歎譽死、快勸死：『咄！",
+        "translation": "\"Suppose a monk therefore cuts off a person's life with his own hand, gives it to someone with a sword, praises his death, and quickly encourages death: 'Duh!",
+        "source": "T22n1430_001:1023c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "男子，用此惡活為？",
+        "translation": "Men, what is the purpose of this unwholesome activity?",
+        "source": "T22n1430_001:1023c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寧死不生。』",
+        "translation": "I'd rather die than be born.'",
+        "source": "T22n1430_001:1023c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作如是心，思惟種種方便，歎譽死、快勸死。",
+        "translation": "With this kind of mind, he contemplates various ways to praise death and quickly encourage death.",
+        "source": "T22n1430_001:1023c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘波羅夷，不共住。",
+        "translation": "This monk, Pārājika, doesn't live together.",
+        "source": "T22n1430_001:1023c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，實無所知，自稱言：『我得上人法，我已入聖智勝法，我知是，我見是。』",
+        "translation": "\"Suppose a monk who really doesn't know anything says to himself, 'I've attained the state of a superior person, I've entered the excellent state of noble knowledge, I know this, and I see this.'",
+        "source": "T22n1430_001:1023c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於異時，若問、若不問，欲自清淨故，作如是說：『我實不知不見，言知言見，虛誑妄語。』",
+        "translation": "At another time, if he asks or doesn't ask, he wants to purify himself and says, 'I really don't know and don't see, and I say I know and say I see, which is a false and vacuous statement.'",
+        "source": "T22n1430_001:1023c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除增上慢。",
+        "translation": "He rids himself of overweening pride.",
+        "source": "T22n1430_001:1023c13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘波羅夷，不共住。",
+        "translation": "This monk, Pārājika, doesn't live together.",
+        "source": "T22n1430_001:1023c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1023c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說四波羅夷法。",
+        "translation": "\"I've explained the four grave offenses.",
+        "source": "T22n1430_001:1023c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘犯一一波羅夷法，不得與諸比丘共住如前，後亦如是。",
+        "translation": "If a monk violates each of these pārājikas, he mustn't dwell with other monks as before, and so it will be afterward.",
+        "source": "T22n1430_001:1023c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘得波羅夷罪，不應共住。",
+        "translation": "That monk has committed a pārājika and shouldn't dwell together.",
+        "source": "T22n1430_001:1023c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德：是中清淨不？",
+        "translation": "Now, I'd like to ask the great masters, \"Is this place pure?",
+        "source": "T22n1430_001:1023c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)「諸大德！",
+        "translation": "(Thus it was said three times), \"Great masters!",
+        "source": "T22n1430_001:1023c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事如是持。",
+        "translation": "This is purified, and because of its silence, this matter is thus maintained.",
+        "source": "T22n1430_001:1023c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1023c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是十三僧伽婆尸沙法，半月半月，戒經中說。",
+        "translation": "\"These are the 13 rules of saṃghâvaśeṣa, which are explained in the precepts sūtra as half a month and half a month.",
+        "source": "T22n1430_001:1023c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，故弄陰出精，除夢中，僧伽婆尸沙。",
+        "translation": "\"If a monk thus plays with the aggregates and emits semen, except in a dream, that's crimes against the saṃgha.",
+        "source": "T22n1430_001:1023c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，婬欲意，與女人身相觸，若捉手、若捉髮、若觸一一身分者，僧伽婆尸沙。",
+        "translation": "If a monk with lustful desires touches a woman's body, or if he grasps her hand, grasps her hair, or touches one of her bodies, that's crimes against the saṃghâvaśeṣa.",
+        "source": "T22n1430_001:1023c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，婬欲意，與女人，婬欲麁惡語，隨所說婬欲麁惡語者，僧伽婆尸沙。",
+        "translation": "\"If a monk with a lustful mind talks coarse and harsh words of sexual desire to a woman, and he speaks coarse and harsh words of sexual desire accordingly, that's a monk's grave offense.",
+        "source": "T22n1430_001:1023c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，婬欲意，於女人前，自歎身言：『大姊！",
+        "translation": "\"Suppose a monk with a sexual desire goes up to a woman and praises himself, saying, 'Big sister!",
+        "source": "T22n1430_001:1023c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我修梵行，持戒精進，修善法，可持此婬欲法供養我，如是供養第一最。』",
+        "translation": "I cultivate the religious practice, observe precepts, and cultivate good qualities, so I can make offerings to this sexual desire, which is the best and most important of such offerings.'",
+        "source": "T22n1430_001:1023c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是語者，僧伽婆尸沙。",
+        "translation": "Such a person says, 'Saṃghabhisheka.'",
+        "source": "T22n1430_001:1023c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，往來彼此媒嫁，持男意語女，持女意語男，若為成婦事，若為私通，乃至須臾頃，僧伽婆尸沙。",
+        "translation": "\"If monks go to each other's wives, holding men's intentions for women and women's intentions for men, and holding men's intentions for the purpose of forming a couple or fornicating with each other, even for a short while, that's Saṃghabhisheṣa.",
+        "source": "T22n1430_001:1024a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，自乞作屋，無主，自為己，當應量作。",
+        "translation": "\"If a monk asks to build a house for himself and there's no owner, he should build it for himself, given the amount.",
+        "source": "T22n1430_001:1024a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中量者，長佛十二磔手，內廣七磔手。",
+        "translation": "This is the right amount, which is 12 limbs long for a buddha and seven limbs wide on the inside.",
+        "source": "T22n1430_001:1024a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應將餘比丘往看處所，彼比丘當指示處所，無難處無妨處。",
+        "translation": "The other monks should be shown the place, and that monk will show them the place, which is neither difficult nor obstructing.",
+        "source": "T22n1430_001:1024a05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘有難處妨處，自乞作屋，無主，自為己，不將餘比丘往看處所，若過量作者，僧伽婆尸沙。",
+        "translation": "If a monk with a difficult or obstructing place begs to build a house for himself and has no owner and makes it his own, and doesn't show the other monks the place, then if he goes beyond that, it's crimes against Saṃghabhisattva.",
+        "source": "T22n1430_001:1024a07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，欲作大房，有主，為己作，應將餘比丘往看處所，彼比丘應看處所，無難處無妨處。",
+        "translation": "\"If a monk desires to build a large house and has a master who builds it for himself, he should send the other monks to look at the premises, and they should look at the premises, which are neither difficult nor obstructing.",
+        "source": "T22n1430_001:1024a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，難處妨處作大房，有主為己作，不將餘比丘往看處所者，僧伽婆尸沙。",
+        "translation": "If a monk wants to build a large dwelling that's a difficult place and a hindrance, and he has a master who builds it for him, and he doesn't send the other monks to look at the place, that monk is a monk who's a priest.",
+        "source": "T22n1430_001:1024a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，以瞋恚所覆故，非波羅夷比丘，以無根波羅夷法謗，欲壞彼比丘淨行。",
+        "translation": "\"Suppose a monk who's hindered by anger and isn't a monk from Pārājika wants to disrupt that monk's pure conduct by denigrating him with the faceless Pārājika Dharma.",
+        "source": "T22n1430_001:1024a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於異時，若問、若不問，知此事無根說。",
+        "translation": "At another time, if he asks or doesn't ask, he knows that this is a teaching without faculties.",
+        "source": "T22n1430_001:1024a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "『我瞋恚故，作是語。』",
+        "translation": "'Because I'm angry, I say this.'",
+        "source": "T22n1430_001:1024a16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘作是語者，僧伽婆尸沙。",
+        "translation": "If a monk says that, it's Saṃghâvaśeṣa.",
+        "source": "T22n1430_001:1024a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，以瞋恚所覆故，於異分事中取片，非波羅夷比丘，以無根波羅夷法謗，欲壞彼比丘淨行。",
+        "translation": "\"Suppose a monk, who is hindered by anger, takes a piece of a different matter that's not a monk from Pārājika and denigrates it with the faceless Pārājika teaching, intending to undermine that monk's pure conduct.",
+        "source": "T22n1430_001:1024a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼於異時，若問、若不問，知是異分事中取片，是比丘自言：『我瞋恚故作是語』者，僧伽婆尸沙。",
+        "translation": "If he asks or doesn't ask about it at another time, knowing that it's a piece taken from a different situation, that monk says to himself, 'I'm saying this because of my anger,' and it's Saṃghâvaśeṣa.",
+        "source": "T22n1430_001:1024a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，欲壞和合僧，方便受壞和合僧法，堅持不捨。",
+        "translation": "\"If a monk wants to disrupt the harmony of the saṃgha, he will accept the disruption of the harmony of the saṃgha with skill and insist on not abandoning it.",
+        "source": "T22n1430_001:1024a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘應諫是比丘言：『大德！",
+        "translation": "That monk should remonstrate with that monk, saying, 'Mañjuśrī!",
+        "source": "T22n1430_001:1024a24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫壞和合僧，莫方便壞和合僧，莫受破僧法，堅持不捨。",
+        "translation": "Don't destroy the harmony of the saṃgha, don't facilitate the destruction of the harmony of the saṃgha, don't accept the violation of the saṃgha's principles, and insist on not abandoning them.",
+        "source": "T22n1430_001:1024a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德！",
+        "translation": "Great virtue!",
+        "source": "T22n1430_001:1024a26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應與僧和合，歡喜不諍，同一師學，如水乳合，於佛法中有增益安樂住。』",
+        "translation": "He should harmonize with the saṃgha, rejoice without disputing, and train under the same teacher as water and milk combine, so that in the Buddha's teaching there's gain and happiness.'",
+        "source": "T22n1430_001:1024a26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘如是諫時，堅持不捨；彼比丘應三諫，捨是事故，乃至三諫。",
+        "translation": "When this monk thus remonstrates, he insists on not abandoning it; that monk should remonstrate three times and abandon this matter, even up to three times.",
+        "source": "T22n1430_001:1024a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨者善；若不捨者，僧伽婆尸沙。",
+        "translation": "It's good to give up; if he doesn't give up, it's crimes against the saṃghâvaśeṣa.",
+        "source": "T22n1430_001:1024a29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，有餘群黨，若一、若二、若三，乃至無數。",
+        "translation": "\"Suppose a monk has another group, whether one, two, three, or countless.",
+        "source": "T22n1430_001:1024b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘語彼比丘言：『大德！",
+        "translation": "That monk says to that monk, 'Mañjuśrī!",
+        "source": "T22n1430_001:1024b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫諫此比丘，此比丘是法語比丘、律語比丘，此比丘所說，我等心喜樂，此比丘所說，我等心忍可。』",
+        "translation": "Don't remonstrate with that monk; this monk is a monk who speaks the Dharma and a monk who speaks the Vinaya; we rejoice in what he says; and we tolerate what he says.'",
+        "source": "T22n1430_001:1024b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘應諫是比丘言：『大德！",
+        "translation": "That monk responded by remonstrating with that monk, saying, 'Mañjuśrī!",
+        "source": "T22n1430_001:1024b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫作是說，言此比丘是法語比丘、律語比丘，此比丘所說，我等心喜樂，此比丘所說，我等心忍可。",
+        "translation": "Don't say this, saying, 'This monk is a monk who speaks the Dharma and a monk who speaks the vinaya, and we rejoice at what this monk says, and we tolerate what this monk says.'",
+        "source": "T22n1430_001:1024b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故！",
+        "translation": "Why is that?",
+        "source": "T22n1430_001:1024b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此比丘非法語比丘、非律語比丘。",
+        "translation": "This monk is not a monk who speaks according to the rules or a monk who doesn't speak according to the precepts.",
+        "source": "T22n1430_001:1024b07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德！",
+        "translation": "Great Teacher!",
+        "source": "T22n1430_001:1024b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫欲壞和合僧，汝等當樂欲和合僧。",
+        "translation": "Don't want to disrupt the harmony of the saṃgha, for you must delight in the harmony of the saṃgha.",
+        "source": "T22n1430_001:1024b08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德！",
+        "translation": "Great virtue!",
+        "source": "T22n1430_001:1024b09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與僧和合，歡喜不諍，同一師學，如水乳合，於佛法中者增益安樂住。』",
+        "translation": "Being in harmony with the saṃgha, rejoicing and not disputing, and studying under the same teacher as water and milk combine, those who abide in the Buddha's teaching gain well-being.'",
+        "source": "T22n1430_001:1024b09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘如是諫時，堅持不捨；彼比丘應三諫，捨是事故，乃至三諫。",
+        "translation": "When this monk thus remonstrates, he insists on not abandoning it; that monk should remonstrate three times and abandon this matter, even up to three times.",
+        "source": "T22n1430_001:1024b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨者善；若不捨者，僧伽婆尸沙。",
+        "translation": "It's good to give up; if he doesn't give up, it's crimes against the saṃghâvaśeṣa.",
+        "source": "T22n1430_001:1024b12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，依聚落，若城邑住，行惡行，污他家。",
+        "translation": "\"Suppose a monk living in a village or a town does bad actions that defile other people's homes.",
+        "source": "T22n1430_001:1024b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行惡行，亦見亦聞；污他家，亦見亦聞。",
+        "translation": "When he engages in bad behavior, he also sees and hears it, and when he defiles another's home, he also sees and hears it.",
+        "source": "T22n1430_001:1024b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸比丘語是比丘言：『大德！",
+        "translation": "The monks said to this monk, 'Mañjuśrī!",
+        "source": "T22n1430_001:1024b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝行惡行，污他家。",
+        "translation": "You engage in bad behavior and defile other homes.",
+        "source": "T22n1430_001:1024b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行惡行，亦見亦聞；污他家，亦見亦聞。",
+        "translation": "Doing bad deeds, you also see and hear them, and defiling another's home, you also see and hear them.",
+        "source": "T22n1430_001:1024b16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德！",
+        "translation": "Mañjuśrī!",
+        "source": "T22n1430_001:1024b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝行惡行，污他家，今可遠此村落去，不須住此。』",
+        "translation": "You've committed a bad act and defiled another family's home; now you can go away from this village and not stay here.'",
+        "source": "T22n1430_001:1024b17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘語彼比丘言：『大德！",
+        "translation": "That monk said to the other monk, 'Mañjuśrī!",
+        "source": "T22n1430_001:1024b18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸比丘有愛、有恚、有怖、有癡，有如是同罪比丘，有驅者、有不驅者。』",
+        "translation": "Monks who have craving, anger, fear, and delusion, there are monks who commit the same offense as these, and there are those who drive them away and those who don't.'",
+        "source": "T22n1430_001:1024b19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸比丘報言：『大德！",
+        "translation": "The monks replied, 'Mañjuśrī!",
+        "source": "T22n1430_001:1024b20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫作是語！",
+        "translation": "Don't say that!",
+        "source": "T22n1430_001:1024b21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言：「諸比丘有愛、有恚、有怖、有癡，有如是同罪比丘，有驅者、有不驅者。」",
+        "translation": "They say, \"Monks with craving, anger, fear, and delusion, there are such monks who commit the same offense, and there are those who drive and those who don't drive.\"",
+        "source": "T22n1430_001:1024b21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T22n1430_001:1024b23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸比丘不愛、不恚、不怖、不癡。",
+        "translation": "\"Monks, don't love, don't hate, don't fear, and don't be fooled.",
+        "source": "T22n1430_001:1024b23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德！",
+        "translation": "Mañjuśrī!",
+        "source": "T22n1430_001:1024b23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝行惡行，污他家。",
+        "translation": "You engage in bad behavior and defile other homes.",
+        "source": "T22n1430_001:1024b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行惡行，亦見亦聞；污他家，亦見亦聞。』",
+        "translation": "Doing bad deeds, you also see and hear them; defiling another's home, you also see and hear them.'",
+        "source": "T22n1430_001:1024b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘如是諫時，堅持不捨；彼比丘應三諫，捨是事故，乃至三諫。",
+        "translation": "When this monk thus remonstrates, he insists on not abandoning it; that monk should remonstrate three times and abandon this matter, even up to three times.",
+        "source": "T22n1430_001:1024b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨者善；若不捨者，僧伽婆尸沙。",
+        "translation": "It's good to give up; if he doesn't give up, it's crimes against the saṃghâvaśeṣa.",
+        "source": "T22n1430_001:1024b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，惡性不受人諫語，於戒法中，諸比丘如法諫已，自身不受諫語，言：『諸大德！",
+        "translation": "\"Suppose monks who are ill-natured enough not to accept someone's advice and, after being advised according to the rules of discipline, don't themselves accept the advice, saying, 'Great men!",
+        "source": "T22n1430_001:1024b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫向我說若好、若惡，我亦不向諸大德說若好、若惡。",
+        "translation": "Don't tell me whether it's good or bad, and I won't tell the great virtues whether it's good or bad.",
+        "source": "T22n1430_001:1024b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸大德止！",
+        "translation": "Stop, great virtues!",
+        "source": "T22n1430_001:1024c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫諫我。』",
+        "translation": "Don't remonstrate with me.'",
+        "source": "T22n1430_001:1024c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘諫是比丘言：『大德！",
+        "translation": "That monk remonstrated with that monk, saying, 'Mañjuśrī!",
+        "source": "T22n1430_001:1024c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫自身不受諫語，大德自身當受諫語。",
+        "translation": "Don't accept a word of advice yourself; the great virtuous one will accept a word of advice himself.",
+        "source": "T22n1430_001:1024c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德如法諫諸比丘，諸比丘亦如法諫大德。",
+        "translation": "The great virtuous monk remonstrates with the monks according to the teaching, and the monks remonstrate with the great virtuous monk according to the teaching.",
+        "source": "T22n1430_001:1024c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是佛弟子眾得增益，展轉相諫，展轉相教，展轉懺悔。』",
+        "translation": "Thus, the Buddha's disciples will gain in number, continually remonstrate with each other, continually teach each other, and continually repent.'",
+        "source": "T22n1430_001:1024c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘如是諫時，堅持不捨；彼比丘應三諫，捨是事故，乃至三諫。",
+        "translation": "When that monk thus remonstrates, he insists on not giving up; that monk should remonstrate three times, giving up this incident, up to three remonstrances.",
+        "source": "T22n1430_001:1024c06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨者善；若不捨者，僧伽婆尸沙。",
+        "translation": "It's good to give up; if he doesn't give up, it's crimes against the saṃghâvaśeṣa.",
+        "source": "T22n1430_001:1024c07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1024c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說十三僧伽婆尸沙法，九初犯罪，四乃至三諫。",
+        "translation": "I've explained 13 rules of saṃghâvaśeṣa, nine for the first offense and four up to three for remonstrance.",
+        "source": "T22n1430_001:1024c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘犯一一法，知而覆藏，應強與波利婆沙；行波利婆沙竟，僧應與六夜摩那埵；行摩那埵已，餘有出罪。",
+        "translation": "If a monk violates each of these things and knows it but conceals it, he should be forcibly given a parivāsa; after performing a parivāsa, the saṃgha should give him a six-night manasattva; after performing a manasattva, the rest of the monks will be excommunicated.",
+        "source": "T22n1430_001:1024c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應二十僧中出是比丘罪，若少一人，不滿二十眾出是比丘罪，是比丘罪不得除，諸比丘亦可呵，此是時。",
+        "translation": "If one person less than 20 saṃgha members produces this monk's offense, and if that monk's offense isn't removed, the monks may criticize him.",
+        "source": "T22n1430_001:1024c12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德！",
+        "translation": "Now, I'd like to ask the great masters!",
+        "source": "T22n1430_001:1024c15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨不？",
+        "translation": "Is it medium-clean?",
+        "source": "T22n1430_001:1024c15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)「諸大德！",
+        "translation": "(Thus it was said three times), \"Great masters!",
+        "source": "T22n1430_001:1024c15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事如是持。",
+        "translation": "This is purified, and because of its silence, this matter is thus maintained.",
+        "source": "T22n1430_001:1024c16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1024c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是二不定法，半月半月，戒經中說。",
+        "translation": "These are the two indeterminate dharmas, half a month and half a month, as explained in the precepts sūtra.",
+        "source": "T22n1430_001:1024c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，共女人獨在靜處覆處，可作婬處坐，說非法語。",
+        "translation": "\"Suppose a monk and a woman sit alone together in a quiet place, covered with debauchery, and speak unlawfully.",
+        "source": "T22n1430_001:1024c17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有住信優婆夷，於三法中一一法說：若波羅夷、若僧伽婆尸沙、若波逸提；是坐比丘自言：『我犯是罪。』",
+        "translation": "If there's an Upāsikā who abides in faith and teaches each of the three things, whether it's bālohi, saṃghabhāṣika, or pratyekabuddha, the sitting monk says to himself, 'I've committed this sin.'",
+        "source": "T22n1430_001:1024c19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於三法中應一一治：若波羅夷、若僧伽婆尸沙、若波逸提，如住信優婆夷所說，應如法治是比丘，是名不定法。",
+        "translation": "One of the three things that should be corrected one by one: if it's borājī, if it's saṃghabhāṣika, and if it's pratyekabuddha, as the abiding faithful Upāsikāya explains, this monk should be corrected according to that, which is called an uncertain teaching.",
+        "source": "T22n1430_001:1024c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，共女人，在不覆處，不可作婬處坐，作麁惡語，說婬欲事。",
+        "translation": "\"If a monk and a woman are together, they mustn't sit in a place that's not covered by debauchery, engage in harsh speech, or speak about sexual desires.",
+        "source": "T22n1430_001:1024c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有住信優婆夷，於二法中一一法說：若僧伽婆尸沙、若波逸提；是坐比丘自言：『我犯是罪。』",
+        "translation": "If there's an Upāsikā who abides in faith and teaches each of the two things, whether it's Saṃghabhisheṣa or pratyekabuddha, the sitting monk says to himself, 'I've committed this sin.'",
+        "source": "T22n1430_001:1024c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於二法中應一一治：若僧伽婆尸沙、若波逸提，如住信優婆夷所說，應如法治是比丘，是名不定法。",
+        "translation": "One of these two things should be corrected one by one: if it's Saṃghâvaśeṣa or Pāyatti, as the abiding faithful Upāsikā said, this monk should be corrected according to that, which is called an indeterminate dharma.",
+        "source": "T22n1430_001:1024c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great masters!",
+        "source": "T22n1430_001:1025a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說二不定法。",
+        "translation": "I've already explained the two indeterminate qualities.",
+        "source": "T22n1430_001:1025a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德！",
+        "translation": "Now, I'd like to ask the great masters!",
+        "source": "T22n1430_001:1025a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨不？",
+        "translation": "Is it medium-clean?",
+        "source": "T22n1430_001:1025a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)「諸大德！",
+        "translation": "(Thus it was said three times), \"Great masters!",
+        "source": "T22n1430_001:1025a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事如是持。",
+        "translation": "This is purified, and because of its silence, this matter is thus maintained.",
+        "source": "T22n1430_001:1025a03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1025a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是三十尼薩耆波逸提法。",
+        "translation": "\"These are the thirty rules of forfeiture of the things that a nisaji might do.",
+        "source": "T22n1430_001:1025a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "半月半月，戒經中說。",
+        "translation": "It's half a month and half a month, as explained in the precepts sūtra.",
+        "source": "T22n1430_001:1025a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，衣已竟，迦絺那衣已出，畜長衣，經十日，不淨施得持。",
+        "translation": "\"Suppose a monk finishes his robe, puts away his kaṭhina robe, and stores his long robe for ten days after it's been given, then he'll be able to maintain it as an impure gift.",
+        "source": "T22n1430_001:1025a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過者，尼薩耆波逸提。",
+        "translation": "If it's more than that, it's rules of forfeiture of the rules of forfeiture of the things that a monk possesses.",
+        "source": "T22n1430_001:1025a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，衣已竟，迦絺那衣已出，比丘於三衣中，若離一一衣異處宿，經一夜，除僧羯磨，尼薩耆波逸提。",
+        "translation": "\"If a monk leaves his kaṭhina robe after he's finished wearing it and it's gone, and if he stays in a different place from one of the three robes for a night, he'll be excused from the saṃgha's karma, rules Nisargipānti.",
+        "source": "T22n1430_001:1025a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，衣已竟，迦絺那衣已出，若比丘得非時衣，欲須便受，受已疾疾成衣。",
+        "translation": "\"If a monk has finished wearing the robe and the kaṭhina robe has been removed, then if he obtains the robe at an inopportune time, he can accept it when he wants it and quickly complete the robe after accepting it.",
+        "source": "T22n1430_001:1025a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若足者善；若不足者，得畜經一月，為滿足故。",
+        "translation": "If it's sufficient, it's good; if it's insufficient, he may store it for a month in order to fulfill it.",
+        "source": "T22n1430_001:1025a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過者，尼薩耆波逸提。",
+        "translation": "If it's wrong, it's rules for rules of forfeiture of the things that a monk wants to wear, rules of forfeiture of the things that a monk wants to wear, and rules of forfeiture of the things that a monk wants to wear.",
+        "source": "T22n1430_001:1025a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，從非親里比丘尼邊取衣，除貿易，尼薩耆波逸提。",
+        "translation": "\"If a monk takes clothing from the side of a monk or nun who isn't his relative, except for trade, that's rules for rules of conduct for monks and nuns, rules for monks and nuns.",
+        "source": "T22n1430_001:1025a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，使非親里比丘尼，浣故衣，若染、若打，尼薩耆波逸提。",
+        "translation": "\"If a monk causes a non-relative monk or nun to wash his robe, or if it's dyed or beaten, that's rules for rules for monks and nuns, rules for monks and nuns.",
+        "source": "T22n1430_001:1025a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，從非親里居士、若居士婦乞衣，除餘時，尼薩耆波逸提。",
+        "translation": "\"If a monk begs for clothing from a householder or householder woman not related to him or her, except for the other time, that's rules of forfeiture of the things that a monk buys, rules of forfeiture of the things that a monk buys, rules of forfeiture of the things that a monk buys, rules of forfeiture of the things that a monk buys, rules of forfeiture of the things that a monk buys, rules of forfeiture of the things that a monk buys, rules of forfeiture of the things that a monk buys.",
+        "source": "T22n1430_001:1025a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘時者，若比丘奪衣、失衣、燒衣、漂衣，此是時。",
+        "translation": "For the rest of the time, this is when a monk robs, loses his robe, burns his robe, or bleaches his robe.",
+        "source": "T22n1430_001:1025a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，奪衣、失衣、燒衣、漂衣，是非親里居士、若居士婦，自恣請多與衣，是比丘當知足受衣。",
+        "translation": "\"If a monk who robs, loses, burns, or floats his robe is asked by a householder who's not from his own neighborhood or by a householder's wife to give him more clothing at his own request, that monk will accept the clothing knowingly and adequately.",
+        "source": "T22n1430_001:1025a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過受者，尼薩耆波逸提。",
+        "translation": "If he accepts it more than necessary, that monk is a nisaji pratyekabuddha.",
+        "source": "T22n1430_001:1025a24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，居士、居士婦，為比丘辦衣價：『持如是衣價與某甲比丘。』",
+        "translation": "\"Suppose a monk, householder, or householder's wife offers a monk a price for his robe: 'Give this price for a certain monk's robe.'",
+        "source": "T22n1430_001:1025a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘先不受自恣請，便到居士家，作如是說：『善哉，居士！",
+        "translation": "That monk first didn't accept the invitation to donate his own clothes, then he went to the house of the householder and said, 'Good, householder!'",
+        "source": "T22n1430_001:1025a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為我辦如是衣價與我。』",
+        "translation": "Do this for me, and give me the price of a garment.'",
+        "source": "T22n1430_001:1025a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為好故，若得衣者，尼薩耆波逸提。",
+        "translation": "If someone obtains clothing for a good cause, that person is a nisaji pratyekabuddha.",
+        "source": "T22n1430_001:1025a28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，二居士、居士婦，與比丘辦如是衣價：『我曹辦如是衣價與某甲比丘。』",
+        "translation": "\"Suppose a monk or two householders or a householder's wife gives a monk this price for clothing: 'I will give this price for clothing to a certain monk.'",
+        "source": "T22n1430_001:1025b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘先不受自恣請，到二居士家，作如是說：『善哉，居士！",
+        "translation": "That monk first didn't accept the invitation to self-commit and went to the house of the two householders and said, 'Good, householder!'",
+        "source": "T22n1430_001:1025b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "辦如是衣與我，共作一衣。』",
+        "translation": "'Make this kind of robe with me, and we'll make it into one robe together.'",
+        "source": "T22n1430_001:1025b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為好故，若得者，尼薩耆波逸提。",
+        "translation": "If he obtains it for good, that's rules for rules of forfeiture of the things that a monk wants to wear, rules of forfeiture of the things that a monk wants to wear.",
+        "source": "T22n1430_001:1025b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，若王、王大臣、若婆羅門、若居士、居士婦，遣使為比丘送衣價：『持如是衣價，與某甲比丘。』",
+        "translation": "\"Suppose a monk, a king, a minister of a king, a brāhmaṇa, or a householder or householder woman sends an envoy to deliver a monk's robe valued at 'This is the price of a certain monk's robe.'",
+        "source": "T22n1430_001:1025b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼使至比丘所，語比丘言：『大德！",
+        "translation": "When that messenger comes to the monk, he says to him, 'Mañjuśrī!",
+        "source": "T22n1430_001:1025b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今為汝故送是衣價，受取。』",
+        "translation": "Now, for your sake, accept the price of this garment.'",
+        "source": "T22n1430_001:1025b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘語彼使如是言：『我今不應受此衣價，若我須衣，合時、清淨當受。』",
+        "translation": "The monk said to the messenger, 'I shouldn't accept the price of this garment now; if I need a garment, I'll accept it when it's appropriate and pure.'",
+        "source": "T22n1430_001:1025b09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼使語是比丘言：『大德！",
+        "translation": "The messenger said to the monk, 'Mañjuśrī!",
+        "source": "T22n1430_001:1025b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有執事人不？』",
+        "translation": "Are there any officials?'",
+        "source": "T22n1430_001:1025b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須衣比丘應言：『有！",
+        "translation": "The monks in charge of the monks responded, 'Yes!",
+        "source": "T22n1430_001:1025b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若守僧伽藍民，若優婆塞，此是比丘執事人，常為諸比丘執事。』",
+        "translation": "If you are a monk guard or an upāsaka, these are the monks' attendants who always attend to the monks.'",
+        "source": "T22n1430_001:1025b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼使詣執事人所，與衣價已，還到比丘所，作如是言：『大德！",
+        "translation": "After he went to the supervisor and gave him the price of his robe, his envoy returned to the monks and said, 'Mañjuśrī!",
+        "source": "T22n1430_001:1025b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所示某甲執事人，我已與衣價竟。",
+        "translation": "\"I've already given the price of the robe to the person shown to be in charge.",
+        "source": "T22n1430_001:1025b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大德！",
+        "translation": "Mañjuśrī!",
+        "source": "T22n1430_001:1025b15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "知時，往彼當得衣。』",
+        "translation": "When he knows this, he'll go there and get his robe.'",
+        "source": "T22n1430_001:1025b15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須衣比丘，當往執事人所，若二反、三反語言：『我須衣。』",
+        "translation": "A monk who needs robes should go to the person in charge, and if he says, 'I need robes,' in two or three responses, he'll ask them, 'Yes, I need robes.'",
+        "source": "T22n1430_001:1025b16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若二反、三反為作憶念，得衣者善；若不得衣，四反、五反、六反在前默然住，令彼憶念。",
+        "translation": "If two or three objections are made for remembrance, it's good if he gets the robe; if he doesn't get the robe, he'll stand silently in front of them with four, five, or six objections and cause them to remember it.",
+        "source": "T22n1430_001:1025b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若四反、五反、六反在前默然住，若得衣者善。",
+        "translation": "If he stands silently in front of them for four, five, or six times, it's good if he obtains the robe.",
+        "source": "T22n1430_001:1025b19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不得衣，過是求得衣者，尼薩耆波逸提。",
+        "translation": "If he doesn't obtain a robe and goes beyond this search to obtain a robe, that's what happened to rules of forfeiture of clothing, rules of forfeiture of clothing, and rules of forfeiture of clothing.",
+        "source": "T22n1430_001:1025b20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不得衣，從彼所來處，若自往，若遣使往，語言：『汝先遣使送衣價與某甲比丘，是比丘竟不得衣。",
+        "translation": "If he doesn't obtain a robe, then he comes from that place, either by himself or by an envoy, and says, 'You first sent an envoy to give a certain monk a price for a robe, but that monk didn't obtain a robe after all.",
+        "source": "T22n1430_001:1025b21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝還取，莫使失，此是時。』",
+        "translation": "Take it back, and don't let it go, for this is the time.'",
+        "source": "T22n1430_001:1025b23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(十事)",
+        "translation": "(Ten Things)",
+        "source": "T22n1430_001:1025b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，雜野蠶綿，作臥具者，尼薩耆波逸提。",
+        "translation": "\"Suppose a monk makes a bedding of mixed silkworm cotton, rules rules Nisargis pratyekabuddha.",
+        "source": "T22n1430_001:1025b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，新純黑羺羊毛，作臥具者，尼薩耆波逸提。",
+        "translation": "\"If a monk makes a new bedding of pure black goat hair, that's rules for rules for monks of the rules.",
+        "source": "T22n1430_001:1025b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，作新臥具，應用二分純黑羊毛，三分白，四分牻。",
+        "translation": "\"Suppose a monk making a new bedding applies two parts pure black wool, three parts white, and four parts geranium.",
+        "source": "T22n1430_001:1025b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘作新臥具，不用二分純黑羊毛，三分白，四分牻，作新臥具者，尼薩耆波逸提。",
+        "translation": "If a monk making a new bedding doesn't use two parts pure black wool, three parts white, and four parts geranium to make a new bedding, that's rules for rules for monks and nuns, rules for monks and nuns.",
+        "source": "T22n1430_001:1025b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，作新臥具，應六年持。",
+        "translation": "\"If a monk makes a new bedding, he should keep it for six years.",
+        "source": "T22n1430_001:1025c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若減六年不捨故，更作新者，除僧羯磨，尼薩耆波逸提。",
+        "translation": "If he makes new ones after subtracting six years and not abandoning them, he'll be excommunicated and given the monastic ritual, rules of forfeiture of the saṃgha.",
+        "source": "T22n1430_001:1025c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，作新坐具，當取故者，縱廣一磔手，帖新者上，為壞色故。",
+        "translation": "\"If a monk makes a new sitting cloth, he'll take the old one, even if it's a handful wide, and put it on top of the new one for the sake of spoiling its appearance.",
+        "source": "T22n1430_001:1025c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘作新坐具，不取故者，縱廣一磔手，帖新者上壞色者，尼薩耆波逸提。",
+        "translation": "If a monk makes new sitting cloth and doesn't take the old one, even though it's a broad handful, and puts it on the new one to spoil the color, that's rules of forbearance for rules of forbearance for monks, rules of forbearance for monks.",
+        "source": "T22n1430_001:1025c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，行道中得羊毛，比丘須者應取。",
+        "translation": "\"If a monk obtains wool while walking on the path, that monk should take it if he needs it.",
+        "source": "T22n1430_001:1025c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無人持，得自持，行至三由旬。",
+        "translation": "If no one else carries it, he can carry it himself for three leagues.",
+        "source": "T22n1430_001:1025c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無人持，自持過者，尼薩耆波逸提。",
+        "translation": "If he has no one to carry it and carries it more than that on his own, that's rules for rules of conduct, rules of conduct for monks of the rules of conduct, rules of conduct for monks of the rules of conduct, rules of conduct for monks of the rules of conduct, rules of conduct for monks of the rules of conduct.",
+        "source": "T22n1430_001:1025c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，使非親里比丘尼，浣、染、擘羊毛者，尼薩耆波逸提。",
+        "translation": "\"If a monk causes a monk or nun not related to him or her to wash, dye, or break wool, that's rules for rules for monks and nuns, rules for monks and nuns.",
+        "source": "T22n1430_001:1025c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，自手取金、銀、若錢，若教人取，若口可受者，尼薩耆波逸提。",
+        "translation": "\"If a monk takes gold, silver, or money with his own hands, or if he teaches others to take it, or if he accepts it orally, that's rules of thumb, rules of thumb.",
+        "source": "T22n1430_001:1025c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，種種賣買金、銀、寶物者，尼薩耆波逸提。",
+        "translation": "\"If monks sell and buy gold, silver, or jewelry of various kinds, that's rules for rules of conduct for monks, rules for rules of conduct for monks.",
+        "source": "T22n1430_001:1025c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，種種販賣者，尼薩耆波逸提。",
+        "translation": "\"If monks sell them in various ways, that's rules of forfeiture of the things that a monk buys and sells, rules of forfeiture of the things that a monk buys and sells.",
+        "source": "T22n1430_001:1025c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(二十事)「若比丘，畜長鉢不淨施，得齊十日。",
+        "translation": "(20 things) \"If a monk stores a long bowl and gives it impurely, he'll receive a total of ten days.",
+        "source": "T22n1430_001:1025c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過者，尼薩耆波逸提。",
+        "translation": "If he does so, that's rules for rules of conduct for monks.",
+        "source": "T22n1430_001:1025c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，破鉢減五綴不漏，更求新鉢，為好故。",
+        "translation": "\"Suppose a monk breaks his bowl minus five patchwork items that aren't contaminated and asks for a new bowl for good reasons.",
+        "source": "T22n1430_001:1025c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若得者，尼薩耆波逸提。",
+        "translation": "If he obtains it, rules of forfeiture of the bowl, rules of forfeiture of the bowl will be given, rules of forfeiture of the bowl.",
+        "source": "T22n1430_001:1025c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘應往僧中捨，展轉取最下鉢，與之令持，乃至破。",
+        "translation": "That monk should go to the saṃgha, take the lowest bowl in turn, and give it to him to hold, even if it's broken.",
+        "source": "T22n1430_001:1025c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，自乞縷，使非親里織師織作衣者，尼薩耆波逸提。",
+        "translation": "\"If a monk begs for thread himself and has it woven into a garment by a weaver not related to him, that's a rules statement, rules Nisargipatti.",
+        "source": "T22n1430_001:1025c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，居士、居士婦，使織師為比丘織作衣。",
+        "translation": "\"Suppose a monk, householder, or householder's wife asks a weaver to weave a monk's robe.",
+        "source": "T22n1430_001:1025c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘先不受自恣請，便到彼所語織師言：『此衣為我織，極好織，令廣、長、堅、緻，齊整好，我少多與汝價。』",
+        "translation": "That monk first doesn't accept the invitation to do it himself, and then he goes to the weaver and says, 'Weave this garment for me, making it very nice and wide, long, strong, refined, and well-arranged, and I'll give you a small amount for it.'",
+        "source": "T22n1430_001:1025c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘與價，乃至一食直，若得衣者，尼薩耆波逸提。",
+        "translation": "If a monk gives you the price, even for a straight meal, and if he obtains the robe, that's rules for rules for monks.",
+        "source": "T22n1430_001:1025c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，先與比丘衣，後瞋恚，若自奪，若使人奪取：『還我衣來，不與汝。』",
+        "translation": "\"Suppose a monk first gives a monk robes and then becomes angry and either takes them himself or causes someone else to take them, saying, 'Give me back my robe; I won't give it to you.'",
+        "source": "T22n1430_001:1026a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘應還衣；取衣者，尼薩耆波逸提。",
+        "translation": "That monk should return the robe; the one who takes it is rules of forfeiture of the robe, rules of forfeiture of the rules of forfeiture of the robe.",
+        "source": "T22n1430_001:1026a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，病畜酥、油、生酥、蜜、石蜜，齊七日得服。",
+        "translation": "\"Suppose a monk who is sick and has an animal that contains butter, oil, butter, honey, or rock honey is given seven days in all to take it.",
+        "source": "T22n1430_001:1026a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過者，尼薩耆波逸提。",
+        "translation": "If it's more than that, rules of forfeiture of the robe will be given to rules of forfeiture of the monk's robe, rules of forfeiture of the monk's robe.",
+        "source": "T22n1430_001:1026a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，春殘一月在，應求雨浴衣，半月用浴。",
+        "translation": "\"If a monk stays for the first month of spring, he should request a bathing robe for the rain and a bath for half a month.",
+        "source": "T22n1430_001:1026a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，春一月前求雨浴衣，半月前用浴者，尼薩耆波逸提。",
+        "translation": "If a monk asks for a bathing robe before the first day of spring and uses the bath before the half-month mark, that's rules for rules of forfeiture of the things that a monk needs.",
+        "source": "T22n1430_001:1026a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，十日未滿夏三月，若有急施衣，應受。",
+        "translation": "\"If a monk gives a robe urgently before the tenth day of summer and the third day of summer, he should accept it.",
+        "source": "T22n1430_001:1026a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受已乃至衣時，應畜。",
+        "translation": "After accepting it, he should store the robe up to the time it's given.",
+        "source": "T22n1430_001:1026a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過畜者，尼薩耆波逸提。",
+        "translation": "If he does so more than that, that's rules for rules of thrift, rules for rules of restraint, rules for discipline, rules for discipline, and rules for discipline.",
+        "source": "T22n1430_001:1026a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，夏三月安居竟，至八月十五日滿已，若逈遠有疑恐怖畏難處，比丘在如是處住，於三衣中，若留一一衣置村舍內，及有因緣離衣宿，乃至六夜。",
+        "translation": "\"If a monk remains in such a place after he finishes his summer retreat in March and completes it on the fifteenth day of the eighth month, and if he's far away and has doubts or fears, that monk may put aside one of his three garments in his village dwelling or have cause to leave his garment for six nights.",
+        "source": "T22n1430_001:1026a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過者，尼薩耆波逸提。",
+        "translation": "If he does, that's rules for rules of forfeiture of the things that a monk wants to wear, rules of forfeiture of the things that a monk wants to wear, and rules of forfeiture of the things that a monk wants to wear.",
+        "source": "T22n1430_001:1026a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知他欲與僧物，自迴入已者，尼薩耆波逸提。",
+        "translation": "\"If a monk knows that another person wants to give the saṃgha's property and turns it in himself, that's rules of forfeiture of the things that a monk owns, rules of forfeiture of the things that a monk owns, and rules of forfeiture of the things that a monk owns.",
+        "source": "T22n1430_001:1026a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(三十事)「諸大德！",
+        "translation": "(30 events) \"Great masters!",
+        "source": "T22n1430_001:1026a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說三十尼薩耆波逸提法。",
+        "translation": "I've already explained 30 rules for rules of forfeiture of the things that a monk or nun possesses.",
+        "source": "T22n1430_001:1026a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德！",
+        "translation": "Now, I'd like to ask the great masters!",
+        "source": "T22n1430_001:1026a19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨不？",
+        "translation": "Is it medium-clean?",
+        "source": "T22n1430_001:1026a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)「諸大德！",
+        "translation": "(Thus it was said three times), \"Great masters!",
+        "source": "T22n1430_001:1026a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事如是持。",
+        "translation": "This is purified, and because of its silence, this matter is thus maintained.",
+        "source": "T22n1430_001:1026a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1026a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是九十波逸提法，半月半月戒經中說。",
+        "translation": "\"This is the ninety-part code of prātimokṣa, which is explained in the half-moon and half-moon precepts sūtras.",
+        "source": "T22n1430_001:1026a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，故妄語者，波逸提。",
+        "translation": "\"If a monk thus speaks falsely, that's pratyekabuddha.",
+        "source": "T22n1430_001:1026a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，種類毀訾比丘者，波逸提。",
+        "translation": "\"If a monk variously disparages a monk, that's pāyattika.",
+        "source": "T22n1430_001:1026a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，兩舌語者，波逸提。",
+        "translation": "\"If a monk speaks duplicitously, that's pāyattika.",
+        "source": "T22n1430_001:1026a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與女人同室宿者，波逸提。",
+        "translation": "\"If a monk sleeps with a woman in the same room, it's pāyattika.",
+        "source": "T22n1430_001:1026a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與未受大戒人共宿，過二夜至三夜曉者，波逸提。",
+        "translation": "\"If a monk stays overnight with someone who hasn't received the great precepts for more than two nights or three nights after sunrise, that's what happened, Bhāviveka.",
+        "source": "T22n1430_001:1026a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與未受具戒人同誦者，波逸提。",
+        "translation": "\"If a monk chants with someone who hasn't received the full set of precepts, that's pāyattika.",
+        "source": "T22n1430_001:1026a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知他比丘有麁惡罪，向未受大戒人說，除僧羯磨，波逸提。",
+        "translation": "\"If a monk knows that another monk has a debilitating sin and tells a person who hasn't received the great precepts to remove him from the monk's karma, it's a pāyattika.",
+        "source": "T22n1430_001:1026b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，向未受大戒人說過人法，言：『我知是，我見是。』",
+        "translation": "\"Suppose a monk teaches a person who hasn't received the great precepts a transgression, saying, 'I know this, and I've seen this.'",
+        "source": "T22n1430_001:1026b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見知實者，波逸提。",
+        "translation": "He who sees and knows it to be true, pratyekabuddha.",
+        "source": "T22n1430_001:1026b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與女人說法過五、六語者，波逸提。",
+        "translation": "\"Suppose a monk teaches the Dharma to a woman in excess of five or six words, it's so called, Bhāviveka.",
+        "source": "T22n1430_001:1026b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除有知男子。",
+        "translation": "Except for men who know it.",
+        "source": "T22n1430_001:1026b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，自手掘地，教人掘者，波逸提。",
+        "translation": "\"Suppose a monk digs his own hand into the ground and teaches others to dig, that's a pāyattika.",
+        "source": "T22n1430_001:1026b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(一十)「若比丘，壞鬼神村者，波逸提。",
+        "translation": "(10) \"If a monk destroys a village of ghosts and spirits, that's pratyekabuddha.",
+        "source": "T22n1430_001:1026b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，妄作異語，惱他者，波逸提。",
+        "translation": "\"If a monk speaks false words and distresses others, that's what happened, pratyekabuddha.",
+        "source": "T22n1430_001:1026b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，嫌罵者，波逸提。",
+        "translation": "\"If a monk resents cursing, that's what happened, pratyekabuddha.",
+        "source": "T22n1430_001:1026b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，取僧繩床、木床、臥具、坐褥，露地自敷，教人敷；捨去，不自舉，不教人舉者，波逸提。",
+        "translation": "\"If a monk takes a monk's rope bed, wooden bed, bedding, or seat mats and lays them out on the ground by himself or teaches others to lay them out, or leaves them unattended and doesn't lift them up by himself or teach others to lift them up, that's what happened, Bhāviveka.",
+        "source": "T22n1430_001:1026b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，僧房舍內，敷僧臥具、坐褥，若自敷，教人敷，在中若坐、若臥；從彼捨去，不自舉，不教人舉者，波逸提。",
+        "translation": "\"If a monk spreads out a monk's bedding and seating mat in a monk's dormitory, spreads it out by himself or teaches others to spread it out, and sits or lies down in it; if he leaves it there and doesn't lift it up by himself or teach others to lift it up, that's what happened, Bhāviveka.",
+        "source": "T22n1430_001:1026b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，先知比丘住處，後來於其中間強敷臥具止宿，念言：『彼若嫌迮者，當自避我去。』",
+        "translation": "\"Suppose a monk who has foreknowledge of a monk's dwelling place and then goes to lay down bedding for a night in it, thinking, 'If they dislike it, they'll avoid me.'",
+        "source": "T22n1430_001:1026b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是因緣，非餘威儀者，波逸提。",
+        "translation": "A monk who does this for no other reason than restraint is a pratyekabuddha.",
+        "source": "T22n1430_001:1026b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，瞋他比丘不喜，僧房舍內，若自牽出，若教人牽出，波逸提。",
+        "translation": "\"If a monk who's angry with another monk and dislikes him goes into the monk's dormitory and pulls himself out or teaches someone to pull him out, that's what happened, Bhāviveka.",
+        "source": "T22n1430_001:1026b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，房重閣上，脫脚繩床、木床，若坐、若臥，波逸提。",
+        "translation": "\"If a monk takes off his foot and ropes up a bed or a wooden bed in a heavy loft, and if he sits or lies down on it, that monk is pratyekabuddha.",
+        "source": "T22n1430_001:1026b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知水有蟲，自用澆泥、澆草，教人澆者，波逸提。",
+        "translation": "\"If a monk knows that there are worms in the water and waters the mud or grass himself, or teaches someone else to water it, that's pratyekabuddha.",
+        "source": "T22n1430_001:1026b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，欲作大房，戶扉窓牖及諸莊飾具，指授覆苫齊二、三節，若過者，波逸提。",
+        "translation": "\"If a monk desires to build a large dwelling with a door, windows, windows, and other ornamental furnishings and instructs someone to make two or three equal sections of thatch, and if he goes beyond that, that's pāyattika.",
+        "source": "T22n1430_001:1026b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(二十)「若比丘，僧不差，教授比丘尼者，波逸提。",
+        "translation": "(20) \"If a monk teaches the monks and nuns without being instructed by the saṃgha, that's what happened, pāyattika.",
+        "source": "T22n1430_001:1026b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，為僧差，教授比丘尼，乃至日沒，波逸提。",
+        "translation": "\"If a monk teaches the monks and nuns for the sake of the saṃgha, even after the sun disappears, it's a pāyattika.",
+        "source": "T22n1430_001:1026b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，語諸比丘如是言：『諸比丘為飲食故，教授比丘尼』者，波逸提。",
+        "translation": "\"If a monk says to the monks, 'Thus do the monks teach the monks and nuns for the sake of food and drink,' that's what he says, Bhāviveka.",
+        "source": "T22n1430_001:1026c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與非親里比丘尼衣，除貿易，波逸提。",
+        "translation": "\"If a monk gives robes to a non-relative monk and nun, except for trade, that's what he does, pratyekabuddha.",
+        "source": "T22n1430_001:1026c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與非親里比丘尼作衣者，波逸提。",
+        "translation": "\"If a monk makes robes for nuns who aren't related to him, it's a pāyattika.",
+        "source": "T22n1430_001:1026c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與比丘尼在屏處坐者，波逸提。",
+        "translation": "\"If a monk sits with a bhikṣuṇī in a secluded place, it's pāyattika.",
+        "source": "T22n1430_001:1026c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與比丘尼期同道行，乃至聚落，除餘時，波逸提。",
+        "translation": "\"If a monk and a monk and nun travel together on the same path up to the village, it's a pāyattika except for the other times.",
+        "source": "T22n1430_001:1026c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘時者，若伴行，有疑恐怖處，此是時。",
+        "translation": "At other times, if he's traveling with a companion and there's a place of doubt and fear, this is the time.",
+        "source": "T22n1430_001:1026c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與比丘尼，期乘船，若上水，若下水，除直渡者，波逸提。",
+        "translation": "\"Suppose a monk and a monk and nun agree to ride in a boat, whether up or down in the water, except when they are directly across, pratyekabuddha.",
+        "source": "T22n1430_001:1026c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知比丘尼讚歎因緣得食食，除施主先有意者，波逸提。",
+        "translation": "\"Suppose a monk knows that the monks and nuns praise the cause and conditions for obtaining food, except when the donor first intends it, pratyekabuddha.",
+        "source": "T22n1430_001:1026c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與婦人期同道行，乃至聚落者，波逸提。",
+        "translation": "\"If a monk travels with a woman on the same path up to the village, that's pratyekabuddha.",
+        "source": "T22n1430_001:1026c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(三十)「若比丘，施一食處，無病比丘應受一食，若過者，波逸提。",
+        "translation": "(30) \"If a monk gives a meal to a monk without a disease, and if he gives more than one meal, that's what he gets, pratyekabuddha.",
+        "source": "T22n1430_001:1026c13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，展轉食，除餘時，波逸提。",
+        "translation": "\"If a monk takes a meal in turn, except for the other times, it's a pāyattika.",
+        "source": "T22n1430_001:1026c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘時者，病時、施衣時，此是時。",
+        "translation": "The other times are when he's ill and when he's giving clothes, and these are the times.",
+        "source": "T22n1430_001:1026c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，別眾食，除餘時，波逸提。",
+        "translation": "\"Suppose a monk takes food from other people except at other times, pratyekabuddha.",
+        "source": "T22n1430_001:1026c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘時者，病時、施衣時、作衣時、道行時、船行時、大會時、沙門施食時，此是時。",
+        "translation": "These are the other times when he's ill, when he's giving clothes, when he's making clothes, when he's traveling on the road, when he's traveling on a boat, when he's at a large assembly, and when he's giving food to ascetics.",
+        "source": "T22n1430_001:1026c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，至檀越家，殷勤請與餅、麨、飯，比丘須者，應兩、三鉢受，持至寺內，應分與餘比丘食。",
+        "translation": "\"If a monk goes to a donor's house and asks earnestly for bread, flour, or rice, he should accept two or three bowls if he needs them, take them to the monastery, and share them with the other monks for food.",
+        "source": "T22n1430_001:1026c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘無病，過兩、三鉢受，持至寺內，不分與餘比丘食者，波逸提。",
+        "translation": "If a monk who is not ill accepts more than two or three bowls, takes them to the monastery, and doesn't share them with the other monks for food, that's what Bhāviveka said.",
+        "source": "T22n1430_001:1026c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，足食竟，或時受請，不作餘食法更食者，波逸提。",
+        "translation": "\"If a monk who has had enough to eat is invited at some point to eat again without making another meal, that's what he does, pratyekabuddha.",
+        "source": "T22n1430_001:1026c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知他比丘足食竟，若受請，不作餘食法，殷勤請與食：『大德！",
+        "translation": "\"Suppose a monk knows that another monk has finished eating and, if he accepts the invitation and doesn't do anything else to eat, diligently asks to be fed: 'Mañjuśrī!",
+        "source": "T22n1430_001:1026c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "取是食。』",
+        "translation": "'Take this food.'",
+        "source": "T22n1430_001:1026c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣，非餘，欲使他犯者，波逸提。",
+        "translation": "A monk who wants to cause others to violate it for this reason and for no other reason is a monk, pāyattika.",
+        "source": "T22n1430_001:1026c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，非時食者，波逸提。",
+        "translation": "\"If a monk eats food at an inappropriate time, it's a pāyattika.",
+        "source": "T22n1430_001:1027a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，食殘宿食者，波逸提。",
+        "translation": "\"If a monk takes leftover food, that's what he gets, pratyekabuddha.",
+        "source": "T22n1430_001:1027a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，不受食食，若藥舉著口中，除水及楊枝，波逸提。",
+        "translation": "\"If a monk takes food that's not to be eaten, or if medicine is lifted from his mouth, except for water and poplar sticks, that's pāyattika.",
+        "source": "T22n1430_001:1027a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，得好美食，乳、酪、魚、肉，無病，自為己索者，波逸提。",
+        "translation": "\"If a monk obtains good food, such as milk, cheese, fish, or meat, and has no illness, and asks for it himself, that's what he gets, pāyattika.",
+        "source": "T22n1430_001:1027a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(四十)「若比丘，外道男、外道女，自手與食者，波逸提。",
+        "translation": "(40) \"If a monk who is a layman or laywoman gives food with his own hands, that's pratyekabuddha.",
+        "source": "T22n1430_001:1027a06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，先受請已，若前食、後食，行詣餘家，不囑餘比丘。",
+        "translation": "\"Suppose a monk, after accepting the invitation first, goes to another house for food before or afterward and doesn't ask another monk for food.",
+        "source": "T22n1430_001:1027a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除餘時，波逸提。",
+        "translation": "Except at other times, pratyekabuddha.",
+        "source": "T22n1430_001:1027a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘時者，病時、作衣時、施衣時，此是時。",
+        "translation": "The other times are when he's ill, when he's making clothes, and when he's giving clothes.",
+        "source": "T22n1430_001:1027a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，食家中有寶，強安坐者，波逸提。",
+        "translation": "\"Suppose a monk who eats at home has jewelry and is sitting quietly, pratyekabuddha.",
+        "source": "T22n1430_001:1027a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，食家中有寶，屏處坐者，波逸提。",
+        "translation": "\"Suppose a monk who eats from home and has treasure in his house sits in a quiet place, pratyekabuddha.",
+        "source": "T22n1430_001:1027a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，獨與女人露地坐者，波逸提。",
+        "translation": "\"Suppose a monk sits alone with a woman in the open ground, pratyekabuddha.",
+        "source": "T22n1430_001:1027a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，語諸比丘如是語：『大德！",
+        "translation": "\"Suppose a monk tells the monks this, 'Mañjuśrī!",
+        "source": "T22n1430_001:1027a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共至聚落，當與汝食。』",
+        "translation": "When we arrive at the village together, we'll give you something to eat.'",
+        "source": "T22n1430_001:1027a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘乃至聚落竟，不教與是比丘食，語言：『汝去！",
+        "translation": "When he had finished going to the village, he didn't teach that monk to eat and said, 'Go away!'",
+        "source": "T22n1430_001:1027a15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我與汝共坐、共語不樂，我獨坐、獨語樂。』",
+        "translation": "It's not pleasant for me to sit with you and speak together, but it's pleasant for me to sit alone and speak alone.'",
+        "source": "T22n1430_001:1027a16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以是因緣，非餘，方便遣去者，波逸提。",
+        "translation": "It's for this reason, and no other, that he is skillfully dismissed, Pāyatti.",
+        "source": "T22n1430_001:1027a17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，請四月與藥，無病比丘應受。",
+        "translation": "\"If a monk asks for medicine for four months, a monk without a disease should accept it.",
+        "source": "T22n1430_001:1027a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過受，除常請、更請、分請、盡形請者，波逸提。",
+        "translation": "If he should accept it in excess, except for a standing invitation, a further invitation, a partial invitation, or an invitation in full form, that's what happened, Bhāviveka.",
+        "source": "T22n1430_001:1027a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，往觀軍陣，除時因緣，波逸提。",
+        "translation": "\"Suppose a monk goes to observe an army formation except for seasonal reasons, pratyekabuddha.",
+        "source": "T22n1430_001:1027a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，有因緣至軍中，若過二宿，至三宿者，波逸提。",
+        "translation": "\"If a monk has a reason to go to the army, whether for two or three nights, that's what he does, pāyattika.",
+        "source": "T22n1430_001:1027a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，軍中住，若二宿、三宿，或時觀軍陣鬪戰，或觀遊軍、象、馬勢力者，波逸提。",
+        "translation": "\"If a monk stays in the army for two or three nights and sometimes observes a battle in the army formation or observes the strength of a wandering army, elephants, or horses, that's what he does, pāyattika.",
+        "source": "T22n1430_001:1027a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(五十)「若比丘，飲酒者，波逸提。",
+        "translation": "(50) \"Suppose a monk drinks alcohol, pratyekabuddha.",
+        "source": "T22n1430_001:1027a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，水中戲者，波逸提。",
+        "translation": "\"If a monk plays in the water, that's pāyattika.",
+        "source": "T22n1430_001:1027a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，以指擊攊他比丘者，波逸提。",
+        "translation": "\"If a monk strikes another monk with his finger, that's pratyekabuddha.",
+        "source": "T22n1430_001:1027a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，不受諫者，波逸提。",
+        "translation": "\"If a monk doesn't accept advice, it's pāyattika.",
+        "source": "T22n1430_001:1027a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，恐怖他比丘者，波逸提。",
+        "translation": "\"If a monk terrorizes another monk, it's pāyattika.",
+        "source": "T22n1430_001:1027b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，半月洗浴，無病比丘應受。",
+        "translation": "\"If a monk washes himself for half a month, a monk without illness should accept it.",
+        "source": "T22n1430_001:1027b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過受，除餘時，波逸提。",
+        "translation": "If he receives it more than half the time, he'll accept it except for the other times, pratyekabuddha.",
+        "source": "T22n1430_001:1027b02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘時者，熱時、病時、作時、風時、雨時、遠行來時，此是時。",
+        "translation": "The other times are when it's hot, when he's sick, when he's acting up, when it's windy, when it's raining, and when he's traveling from afar.",
+        "source": "T22n1430_001:1027b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，無病，為炙身故，露地然火，若教人然，除餘時，波逸提。",
+        "translation": "\"If a monk who's not ill makes a fire in the open ground to burn himself, and if he teaches others to do so, that's except for the other times, pāyattika.",
+        "source": "T22n1430_001:1027b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，藏他比丘衣、鉢、坐具、鍼筒，若自藏，若教人藏，下至戲笑者，波逸提。",
+        "translation": "\"If a monk conceals another monk's robe, bowl, sitting cloth, or needle, either by himself or by teaching others to conceal it, down to the point of ridicule, that's what he does, pratyekabuddha.",
+        "source": "T22n1430_001:1027b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，淨施比丘、比丘尼、式叉摩那、沙彌、沙彌尼衣，不問主輒著者，波逸提。",
+        "translation": "\"If a monk gives purely to a monk, a bhikṣuṇī, a Śikṣamāṇā, a novice, or a novice robe, and wears it without asking the owner, that's what he does, pāyattika.",
+        "source": "T22n1430_001:1027b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，得新衣，當作三種染壞色，青、黑、木蘭。",
+        "translation": "\"Suppose a monk obtains new robes and makes them three dyed and damaged colors, blue, black, and magnolia.",
+        "source": "T22n1430_001:1027b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，得新衣，不作三種染壞色，青、黑、木蘭，新衣持者，波逸提。",
+        "translation": "If a monk acquires new robes and doesn't make them three tarnished colors, blue, black, or magnolia, and keeps them, that's what he does, pratyekabuddha.",
+        "source": "T22n1430_001:1027b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(六十)「若比丘，故斷畜生命者，波逸提。",
+        "translation": "(60) \"If a monk thus ends the life of an animal, that's a pratyekabuddha.",
+        "source": "T22n1430_001:1027b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知水有蟲，飲用者，波逸提。",
+        "translation": "\"If a monk knows that water has worms and drinks it, that's a pratyekabuddha.",
+        "source": "T22n1430_001:1027b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，故惱他比丘，乃至少時不樂者，波逸提。",
+        "translation": "\"If a monk thus distresses another monk and is at least unhappy at the time, that's pāyattika.",
+        "source": "T22n1430_001:1027b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知他比丘有麁惡罪，而覆藏者，波逸提。",
+        "translation": "\"If a monk knows that another monk has a debilitating sin and hides it, that's pāyattika.",
+        "source": "T22n1430_001:1027b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，年滿二十，當與受具足戒。",
+        "translation": "\"Suppose a monk who has reached the age of 20 is given the full set of precepts.",
+        "source": "T22n1430_001:1027b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，知年未滿二十，與受具足戒，此人不得戒；諸比丘亦可呵，彼愚癡故，波逸提。",
+        "translation": "If a monk knows that he's under 20 years old and has been given the full precepts, that person won't be given the precepts; the monks can also criticize him for being foolish, Bhāviveka.",
+        "source": "T22n1430_001:1027b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知僧諍事起如法滅已，後更發舉者，波逸提。",
+        "translation": "\"If a monk knows that a dispute over the saṃgha has arisen and ceased according to the teaching, and then he raises it again, that's pāyattika.",
+        "source": "T22n1430_001:1027b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知是賊伴，期共一道行，乃至聚落者，波逸提。",
+        "translation": "\"If a monk knows that he's the companion of a thief and expects to travel together, even to a village, that's pāyattika.",
+        "source": "T22n1430_001:1027b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，作如是語：『我知佛所說法，行婬欲，非障道法。』",
+        "translation": "\"Suppose a monk says, 'I know that the Buddha's teaching that sexual misconduct is not an obstruction to the path.'",
+        "source": "T22n1430_001:1027b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘應諫是比丘言：『大德！",
+        "translation": "That monk should remonstrate with that monk, saying, 'Mañjuśrī!",
+        "source": "T22n1430_001:1027b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "莫作是語，莫謗世尊，謗世尊者不善，世尊不作是語。",
+        "translation": "Don't say that; don't denigrate the Bhagavān; denigrating the Bhagavān is not good, and the Bhagavān doesn't make that statement.",
+        "source": "T22n1430_001:1027b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊無數方便，說行婬欲是障道法。』",
+        "translation": "The Bhagavān has explained in countless ways that practicing sexual misconduct is a hindrance to the path.'",
+        "source": "T22n1430_001:1027c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘如是諫時，堅持不捨。",
+        "translation": "When that monk thus remonstrates, he persists and doesn't abandon it.",
+        "source": "T22n1430_001:1027c01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘應三諫，捨是事故，乃至三諫，捨者善。",
+        "translation": "That monk should remonstrate three times and abandon this situation, up to the point where he remonstrates three times, and it's good to abandon it.",
+        "source": "T22n1430_001:1027c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不捨者，波逸提。",
+        "translation": "If he doesn't abandon it, pratyekabuddha.",
+        "source": "T22n1430_001:1027c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知如是語人未作法，如是惡見不捨，若畜，同止宿，同一羯磨者，波逸提。",
+        "translation": "\"If a monk knows that such a speaker hasn't done the Dharma or such a bad view and doesn't abandon it, or if he lives with them, stays overnight, or goes through the same ritual, that monk is a pratibhāna.",
+        "source": "T22n1430_001:1027c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知沙彌作如是語：『我知佛所說法，行婬欲，非障道法。』",
+        "translation": "\"Suppose a monk knows that a novice teacher says, 'I know that the sexual misconduct of the Buddha's teaching is not an obstruction to the path.'",
+        "source": "T22n1430_001:1027c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘諫此沙彌言：『汝莫作是語，莫謗世尊，謗世尊者不善，世尊不作是語。",
+        "translation": "That monk remonstrates with the novice, saying, 'Don't say that; don't denigrate the Bhagavān; it's not good to denigrate the Bhagavān; the Bhagavān doesn't say that.",
+        "source": "T22n1430_001:1027c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "沙彌！",
+        "translation": "śrāmaṇeras!",
+        "source": "T22n1430_001:1027c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊無數方便，說行婬欲是障道法。』",
+        "translation": "The Bhagavān has explained in countless ways that practicing sexual lust is a hindrance to the path.'",
+        "source": "T22n1430_001:1027c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘如是諫時，堅持不捨，彼比丘應三諫，捨此事故。",
+        "translation": "When that monk thus remonstrates, he insists on not relinquishing it; that monk should remonstrate three times and relinquish the matter.",
+        "source": "T22n1430_001:1027c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至三諫，捨者善。",
+        "translation": "Even if he gives three admonitions, it's good to give up.",
+        "source": "T22n1430_001:1027c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不捨者，彼比丘應語此沙彌言：『汝自今已後非佛弟子，不得隨餘比丘行，如諸餘沙彌得與大比丘二宿、三宿。",
+        "translation": "If he doesn't abandon it, the monk should say to the monk, 'From now on, you're not a disciple of the Buddha and mustn't follow the actions of other monks, just as other monks can stay with a great monk for two or three nights.",
+        "source": "T22n1430_001:1027c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝今無此事，汝出去！",
+        "translation": "Now, you have nothing to do with this, so go away!",
+        "source": "T22n1430_001:1027c14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滅去！",
+        "translation": "to go away!",
+        "source": "T22n1430_001:1027c14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不須此中住。』",
+        "translation": "It's not necessary to stay here.'",
+        "source": "T22n1430_001:1027c14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘，知如是被擯沙彌，若畜，同一止宿，波逸提。",
+        "translation": "If a monk knows that he's been rejected as a novice or if he's been given an animal, he'll stay overnight in the same place, Pāyatti.",
+        "source": "T22n1430_001:1027c15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(七十)「若比丘，餘比丘如法諫時，作如是語：『我不學此戒，乃至問有智慧持戒律者，我當難問。』",
+        "translation": "(70) \"Suppose a monk, when another monk remonstrates according to the teaching, says, 'I won't study this precept, and I'll even ask a question of someone who's wise enough to uphold the precepts, and I'll have a hard time asking that question.'",
+        "source": "T22n1430_001:1027c16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "波逸提。",
+        "translation": "(Skt. prāyattika).",
+        "source": "T22n1430_001:1027c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲求解者，應當難問。",
+        "translation": "Those who want to understand it should ask difficult questions.",
+        "source": "T22n1430_001:1027c19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，說戒時，作如是語：『大德！",
+        "translation": "\"Suppose a monk, when he teaches the precepts, says this, 'Mañjuśrī!",
+        "source": "T22n1430_001:1027c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何用此雜碎戒為？",
+        "translation": "Why do we use this mixed precept?",
+        "source": "T22n1430_001:1027c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說是戒時，令人惱愧懷疑。』",
+        "translation": "When these precepts are taught, they cause people to be embarrassed and doubtful.'",
+        "source": "T22n1430_001:1027c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "輕呵戒故，波逸提。",
+        "translation": "That's why he ridicules the precepts, Pāyatti.",
+        "source": "T22n1430_001:1027c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，說戒時，作如是語：『大德！",
+        "translation": "\"Suppose a monk, when expounding the precepts, says something like this, 'Mañjuśrī!",
+        "source": "T22n1430_001:1027c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今始知是法是戒經，半月半月，戒經中說。』",
+        "translation": "Now, I've just come to know this teaching as a scripture on the precepts, which is explained in the scripture on the precepts for half a month and a half.'",
+        "source": "T22n1430_001:1027c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若餘比丘知是比丘，若二、若三說戒中坐，何況多。",
+        "translation": "If another monk knew this was a monk, how much more so if he sat within the precepts as explained twice or thrice?",
+        "source": "T22n1430_001:1027c24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼比丘無知無解，若犯罪，應如法治，更增無知罪。",
+        "translation": "If that monk lacks knowledge and understanding, then he should rule accordingly if he commits a crime, which would be an additional crime of ignorance.",
+        "source": "T22n1430_001:1027c25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "『大德！",
+        "translation": "'Great virtue!",
+        "source": "T22n1430_001:1027c26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝無利，得不善。",
+        "translation": "You're useless, and you've attained badness.",
+        "source": "T22n1430_001:1027c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝說戒時，不一心念攝耳聽法。』",
+        "translation": "When you preach the precepts, you don't concentrate your mind and gather your ears to hear the teaching.'",
+        "source": "T22n1430_001:1027c27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼無知故，波逸提。",
+        "translation": "That ignorance is the reason, Pāyatti.",
+        "source": "T22n1430_001:1027c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，共同羯磨已，後如是語：『諸比丘隨親厚，以僧物與』者。",
+        "translation": "\"Suppose a monk who has shared a karma assembly says, 'Suppose you follow the monks' affection and give them the saṃgha's goods.'",
+        "source": "T22n1430_001:1027c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "波逸提。",
+        "translation": "*Bhāṣṭrapāla.",
+        "source": "T22n1430_001:1028a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，僧斷事時，不與欲而起去者，波逸提。",
+        "translation": "\"Suppose a monk, when the saṃgha stops his business, doesn't give in to his desires and gets up and leaves, prāyattika.",
+        "source": "T22n1430_001:1028a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，與欲已，後更呵者，波逸提。",
+        "translation": "\"If a monk who has given in to his desires later rebuffs them, that's pāyattika.",
+        "source": "T22n1430_001:1028a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，知他比丘共鬪諍，聽此語已，向彼說者，波逸提。",
+        "translation": "\"If a monk knows that another monk is fighting with him and, after listening to him, tells him off, that's what he does, pāyattika.",
+        "source": "T22n1430_001:1028a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，瞋故不喜，打他比丘者，波逸提。",
+        "translation": "\"If a monk who's displeased because of anger strikes another monk, that's what happened, Bhāviveka.",
+        "source": "T22n1430_001:1028a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，瞋故不喜，以手搏比丘者，波逸提。",
+        "translation": "\"If a monk, displeased because of his anger, strikes a monk with his hand, that's a pāyattika.",
+        "source": "T22n1430_001:1028a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，瞋故不喜，以無根僧伽婆尸沙法謗者，波逸提。",
+        "translation": "\"If a monk, displeased because of his anger, denigrates a monk with the faceless Saṃghâvaśeṣa façade, that's Pāyatti.",
+        "source": "T22n1430_001:1028a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(八十)「若比丘，剎利水澆頭王，王未出，未藏寶，若入過宮門閾者，波逸提。",
+        "translation": "(80) \"If a monk pours water on the head of a king before he emerges from the water and hides treasure, and if he enters the palace gate and goes beyond the threshold, that monk is a Bhagavān.",
+        "source": "T22n1430_001:1028a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，若寶及寶莊飾具，若自捉，教人捉，除僧伽藍中及寄宿處，波逸提。",
+        "translation": "\"If a monk catches or teaches others to catch jewelry and ornaments except in the monastery or boarding place, it's a pārājika.",
+        "source": "T22n1430_001:1028a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若在僧伽藍中，若寄宿處，若寶及寶莊飾具，若自捉，若教人捉，識者當取，如是因緣非餘。",
+        "translation": "If he were in the Saṃghârāma or in a boarding place, if he were to catch the treasure and its ornaments himself or teach others to catch them, a conscious person would take them, and this would be the cause and condition for not getting rid of them.",
+        "source": "T22n1430_001:1028a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，非時入聚落，不囑餘比丘者，波逸提。",
+        "translation": "\"Suppose a monk enters a village at an ungodly hour and doesn't tell another monk to take it, pratyekabuddha.",
+        "source": "T22n1430_001:1028a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，作繩床、木床，足應高如來八指，除入梐孔上截竟，過者，波逸提。",
+        "translation": "\"If a monk makes a rope bed or a wooden bed, his feet should be as high as the Tathāgata's eight fingers, except for the hole in the stockade where they are cut off, and he goes beyond that, that's Bhāviveka.",
+        "source": "T22n1430_001:1028a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，持兜羅綿貯，作繩床、木床、臥具、坐褥者，波逸提。",
+        "translation": "\"Suppose a monk makes a rope bed or a wooden bed, bedding, or a seat and mats while holding a stockade of cotton, that's what he does, pratyekabuddha.",
+        "source": "T22n1430_001:1028a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，用骨、牙、角作鍼筒，成者，波逸提。",
+        "translation": "\"If a monk makes a cylinder of bones, teeth, or horns, and it's finished, that's a pratyekabuddha.",
+        "source": "T22n1430_001:1028a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，作尼師檀，當應量作。",
+        "translation": "\"If a monk makes a niṣīdana, he should measure its completion.",
+        "source": "T22n1430_001:1028a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中量者，長佛二磔手，廣一磔手半，更增廣長，各半磔手。",
+        "translation": "This is the middle measure, which is two limbs long as a buddha, one and a half limbs wide, and half a limb each that's even wider and longer.",
+        "source": "T22n1430_001:1028a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過者，波逸提。",
+        "translation": "If that's more than that, pratyekabuddha.",
+        "source": "T22n1430_001:1028a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，作覆瘡衣，當應量作。",
+        "translation": "\"If a monk makes a sore-covering robe, he should make it according to measure.",
+        "source": "T22n1430_001:1028a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中量者，長佛四磔手，廣二磔手。",
+        "translation": "This is the medium amount, which is four limbs long as a buddha and two limbs wide as a buddha.",
+        "source": "T22n1430_001:1028a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過成者，波逸提。",
+        "translation": "If that's more than what's needed, pratyekabuddha.",
+        "source": "T22n1430_001:1028a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，作雨浴衣，當應量作。",
+        "translation": "\"Suppose a monk makes a raincoat, which should be made according to measure.",
+        "source": "T22n1430_001:1028a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中量者，長佛六磔手，廣二磔手半。",
+        "translation": "This is the medium amount, which is six limbs long for the Buddha and two and a half limbs wide.",
+        "source": "T22n1430_001:1028a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過成者，波逸提。",
+        "translation": "If it's more than that, pratyekabuddha.",
+        "source": "T22n1430_001:1028a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，佛衣等量作衣。",
+        "translation": "\"Suppose a monk makes robes equal to the amount of the Buddha's robe.",
+        "source": "T22n1430_001:1028a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中量者，長佛十磔手，廣六磔手，是佛衣量。",
+        "translation": "This is the medium measure, which is 10 limbs long and six limbs wide of the Buddha's hand, and this is the measure of the Buddha's robe.",
+        "source": "T22n1430_001:1028a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若過成者，波逸提。",
+        "translation": "If it's more than that, it's pratyekabuddha.",
+        "source": "T22n1430_001:1028b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(九十)",
+        "translation": "(90)",
+        "source": "T22n1430_001:1028b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great virtues!",
+        "source": "T22n1430_001:1028b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說九十波逸提法。",
+        "translation": "I've explained the ninety rules of pratyekabuddha.",
+        "source": "T22n1430_001:1028b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德！",
+        "translation": "Now, I'd like to ask the great masters!",
+        "source": "T22n1430_001:1028b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨不？",
+        "translation": "Is it medium-clean?",
+        "source": "T22n1430_001:1028b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)「諸大德！",
+        "translation": "(Thus it was said three times), \"Great masters!",
+        "source": "T22n1430_001:1028b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事如是持。",
+        "translation": "This is purified, and because of its silence, this matter is thus maintained.",
+        "source": "T22n1430_001:1028b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1028b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是四波羅提提舍尼法，半月半月，戒經中說。",
+        "translation": "These are the four (half-)month and half- month rules of the four (half-)month bhikṣuṇīs, as explained in the precepts sūtra.",
+        "source": "T22n1430_001:1028b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，入村中，無病，從非親里比丘尼邊，自手受食食，是比丘應向餘比丘悔過言：『大德！",
+        "translation": "\"If a monk goes into a village, has no illness, and takes food with his own hands from a monk and nun not close to him, that monk should repent to the other monks, saying, 'Mañjuśrī!",
+        "source": "T22n1430_001:1028b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我犯可呵法，所不應為，我今向大德悔過。』",
+        "translation": "I've violated a reprehensible law that shouldn't have been done, and I now repent to the great virtuous one.'",
+        "source": "T22n1430_001:1028b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名悔過法。",
+        "translation": "This is called the method of repenting a transgression.",
+        "source": "T22n1430_001:1028b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘，在白衣家食，是中有比丘尼指示，與某甲羹，與某甲飯。",
+        "translation": "\"Suppose a monk is eating at a white-clothed house and is instructed by a monk or nun to serve someone soup or rice.",
+        "source": "T22n1430_001:1028b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸比丘應語彼比丘尼如是言：『大姊！",
+        "translation": "Those monks should say to that particular monk or nun, 'Great sister!",
+        "source": "T22n1430_001:1028b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且止，須諸比丘食竟。』",
+        "translation": "Stop right there, you must finish feeding the monks.'",
+        "source": "T22n1430_001:1028b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無一比丘語彼比丘尼如是言：『大姊！",
+        "translation": "Suppose no monk says to another monk or nun, 'Great sister!",
+        "source": "T22n1430_001:1028b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且止，須諸比丘食竟。』",
+        "translation": "Stop right there; it's necessary for the monks to finish eating.'",
+        "source": "T22n1430_001:1028b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是比丘應向餘比丘悔過言：『大德！",
+        "translation": "That monk should repent to the other monks, saying, 'Mañjuśrī!",
+        "source": "T22n1430_001:1028b16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我犯可呵法，所不應為，我今向大德悔過。』",
+        "translation": "I've violated a reprehensible law that shouldn't have been done, and I now repent to the great virtuous one.'",
+        "source": "T22n1430_001:1028b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名悔過法。",
+        "translation": "This is called the method of repenting a transgression.",
+        "source": "T22n1430_001:1028b17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「有諸學家，僧作學家羯磨。",
+        "translation": "\"There are scholars whom the saṃgha prepares for the scholars' karma.",
+        "source": "T22n1430_001:1028b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘知是學家，先不受請，無病，自手受食食，是比丘應向餘比丘悔過言：『大德！",
+        "translation": "If a monk knows that this is a scholar who first didn't accept an invitation and isn't ill and takes food with his own hands, that monk should repent to the other monks, saying, 'Mañjuśrī!",
+        "source": "T22n1430_001:1028b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我犯可呵法，所不應為，我今向大德悔過。』",
+        "translation": "I've violated a reprehensible law that shouldn't have been done, and I now repent to the great virtuous one.'",
+        "source": "T22n1430_001:1028b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名悔過法。",
+        "translation": "This is called the method of repenting a transgression.",
+        "source": "T22n1430_001:1028b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若阿練若，逈遠，有疑恐怖處。",
+        "translation": "\"Suppose there's an araṇya that's remote and a place of doubt and fear.",
+        "source": "T22n1430_001:1028b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若比丘在如是阿練若處住，先不語檀越，僧伽藍外不受食。",
+        "translation": "If a monk staying at such a forest does not speak to the donor first and doesn't receive food outside the monastery's kalaviṅka, then he'll go to the monastery.",
+        "source": "T22n1430_001:1028b23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在僧伽藍內，無病，自手受食食，是比丘應向餘比丘悔過言：『大德！",
+        "translation": "If he's inside the monastery and isn't ill and takes food with his own hands, that monk should repent to the other monks and say, 'Mañjuśrī!",
+        "source": "T22n1430_001:1028b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我犯可呵法，所不應為，我今向大德悔過。』",
+        "translation": "I've violated a reprehensible law that shouldn't have been done, and I now repent to the great virtuous one.'",
+        "source": "T22n1430_001:1028b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名悔過法。",
+        "translation": "This is called the method of repenting a transgression.",
+        "source": "T22n1430_001:1028b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great masters!",
+        "source": "T22n1430_001:1028b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說四波羅提提舍尼法。",
+        "translation": "I've already explained the four (non-Buddhist) teachings.",
+        "source": "T22n1430_001:1028b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德！",
+        "translation": "Now, I'd like to ask the great masters!",
+        "source": "T22n1430_001:1028b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨不？",
+        "translation": "Is it medium-clean?",
+        "source": "T22n1430_001:1028b29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)「諸大德！",
+        "translation": "(Thus it was said three times), \"Great masters!",
+        "source": "T22n1430_001:1028b29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事如是持。",
+        "translation": "It's pure in this, and because of its silence, it's maintained in this way.",
+        "source": "T22n1430_001:1028b29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1028c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是眾多學法，半月半月，戒經中說。",
+        "translation": "\"These are the many ways to train, half a month and half a month, as explained in the precepts sūtra.",
+        "source": "T22n1430_001:1028c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「齊整著內衣，應當學。",
+        "translation": "\"Wearing your undergarments neatly should be a good practice.",
+        "source": "T22n1430_001:1028c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「齊整著三衣，應當學。",
+        "translation": "\"Wearing the three garments in an orderly fashion should be studied.",
+        "source": "T22n1430_001:1028c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得反抄衣入白衣舍，應當學。",
+        "translation": "\"You mustn't turn inside out your robes and enter the white-robed dwelling; you must train.",
+        "source": "T22n1430_001:1028c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得反抄衣入白衣舍坐，應當學。",
+        "translation": "\"You mustn't turn inside the white robed abode to sit with your robes on back, and you must train.",
+        "source": "T22n1430_001:1028c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得衣纏頸入白衣舍，應當學。",
+        "translation": "\"You mustn't enter the white-robed dwelling with your clothes tied around your neck, and you must train.",
+        "source": "T22n1430_001:1028c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得衣纏頸入白衣舍坐，應當學。",
+        "translation": "\"You must train not to enter the white-robed abode with your clothes tied around your neck and sit in it.",
+        "source": "T22n1430_001:1028c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得覆頭入白衣舍，應當學。",
+        "translation": "\"You must train not to cover your head and enter the white-robed dwelling.",
+        "source": "T22n1430_001:1028c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得覆頭入白衣舍坐，應當學。",
+        "translation": "\"You must train not to cover your head and enter the white-robed dwelling to sit there.",
+        "source": "T22n1430_001:1028c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得跳行入白衣舍，應當學。",
+        "translation": "\"You must learn not to jump into the white-robed abode with your head tied up in a rope.",
+        "source": "T22n1430_001:1028c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得跳行入白衣舍坐，應當學。",
+        "translation": "\"You must learn not to jump or walk into the white-robed dwelling to sit there.",
+        "source": "T22n1430_001:1028c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(一十)「不得蹲坐白衣舍，應當學。",
+        "translation": "(10) \"You mustn't squat in the white-robed abode, and you should train.",
+        "source": "T22n1430_001:1028c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得扠腰入白衣舍，應當學。",
+        "translation": "\"You mustn't enter the white-robed abode with your hips prostrated, and you must train.",
+        "source": "T22n1430_001:1028c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得扠腰入白衣舍坐，應當學。",
+        "translation": "\"You mustn't enter the white-robed abode with your waist tucked in and sit there, and you must learn how to do so.",
+        "source": "T22n1430_001:1028c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得搖身入白衣舍，應當學。",
+        "translation": "\"You mustn't shake your body and enter the white-robed dwelling, and you must train.",
+        "source": "T22n1430_001:1028c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得搖身入白衣舍坐，應當學。",
+        "translation": "\"You must learn not to shake your body and enter the white-robed abode to sit there.",
+        "source": "T22n1430_001:1028c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得掉臂入白衣舍，應當學。",
+        "translation": "\"You mustn't enter the white-robed abode with your arms folded, and you must train.",
+        "source": "T22n1430_001:1028c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得掉臂入白衣舍坐，應當學。",
+        "translation": "\"You must learn not to drop your arms and enter the white-robed abode to sit there.",
+        "source": "T22n1430_001:1028c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「好覆身入白衣舍，應當學。",
+        "translation": "\"Those who prefer to cover their bodies and enter the white-robed dwelling should train.",
+        "source": "T22n1430_001:1028c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「好覆身入白衣舍坐，應當學。",
+        "translation": "\"Those who prefer to cover their bodies and enter the white-robed dwelling to sit should train.",
+        "source": "T22n1430_001:1028c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得左右顧視入白衣舍，應當學。",
+        "translation": "\"You mustn't look from side to side when entering the white-robed abode, and you must train.",
+        "source": "T22n1430_001:1028c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(二十)「不得左右顧視入白衣舍坐，應當學。",
+        "translation": "(20) \"You mustn't look from side to side when entering or sitting in the white-robed dwelling, and you should train.",
+        "source": "T22n1430_001:1028c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「靜默入白衣舍，應當學。",
+        "translation": "\"Entering the white-robed abode in silence should be a lesson to be learned.",
+        "source": "T22n1430_001:1028c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「靜默入白衣舍坐，應當學。",
+        "translation": "\"Entering the white-robed abode to sit quietly should be a lesson to be learned.",
+        "source": "T22n1430_001:1028c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得戲笑入白衣舍，應當學。",
+        "translation": "\"You mustn't enter the white-robed abode laughing and playing, and you must train.",
+        "source": "T22n1430_001:1028c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得戲笑入白衣舍坐，應當學。",
+        "translation": "\"You mustn't play or laugh while sitting in the white-robed abode, and you should train.",
+        "source": "T22n1430_001:1028c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「正意受食，應當學。",
+        "translation": "\"Accepting food with correct intent should be learned.",
+        "source": "T22n1430_001:1028c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「平鉢受飯，應當學。",
+        "translation": "\"Accepting a meal from a plain bowl should be done for study.",
+        "source": "T22n1430_001:1028c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「平鉢受羹，應當學。",
+        "translation": "\"Accepting a plain bowl with soup should be done.",
+        "source": "T22n1430_001:1029a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「羹飯俱食，應當學。",
+        "translation": "\"Eating both food and soup should be learned.",
+        "source": "T22n1430_001:1029a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「以次食，應當學。",
+        "translation": "\"Eat in order, and you should learn.",
+        "source": "T22n1430_001:1029a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(三十)「不得挑鉢中央食，應當學。",
+        "translation": "(30) \"You mustn't pick a bowl and eat from the center, and you should learn.",
+        "source": "T22n1430_001:1029a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「無病，不得為己索羹飯，應當學。",
+        "translation": "\"You mustn't ask for rice and soup for yourself when you're not ill, and you should learn how to do so.",
+        "source": "T22n1430_001:1029a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得以飯覆羹上，更望得，應當學。",
+        "translation": "\"You mustn't cover the bowl with rice and then hope to get it again, so you should learn.",
+        "source": "T22n1430_001:1029a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得視比坐鉢中起慊心，應當學。",
+        "translation": "\"You mustn't become dissatisfied while looking at a monk sitting in a bowl, and you should learn.",
+        "source": "T22n1430_001:1029a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「當繫鉢想食，應當學。",
+        "translation": "\"You must tie up your bowl and contemplate food, and you should learn it.",
+        "source": "T22n1430_001:1029a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得大揣飯食，應當學。",
+        "translation": "\"You mustn't carry food in your mouth too much, and you should learn how to do so.",
+        "source": "T22n1430_001:1029a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得大張口待飯食，應當學。",
+        "translation": "\"You mustn't open your mouth wide to expect food, and you should learn it.",
+        "source": "T22n1430_001:1029a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得含食語，應當學。",
+        "translation": "\"You mustn't speak with food in your mouth, and you should learn it.",
+        "source": "T22n1430_001:1029a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得揣飯搖擲口中食，應當學。",
+        "translation": "\"You mustn't carry food in your mouth and shake it, and you must learn it.",
+        "source": "T22n1430_001:1029a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得遺落飯食，應當學。",
+        "translation": "\"You mustn't leave food behind, and you should learn it.",
+        "source": "T22n1430_001:1029a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(四十)「不得頰飯食，應當學。",
+        "translation": "(40) \"You mustn't chew food and eat it, and you should learn how to do so.",
+        "source": "T22n1430_001:1029a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得故嚼飯作聲食，應當學。",
+        "translation": "\"You mustn't chew rice and make noises with it, and you should learn how to do so.",
+        "source": "T22n1430_001:1029a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得噏飯食，應當學。",
+        "translation": "\"You mustn't talk about food and eat it, and you should learn how to do so.",
+        "source": "T22n1430_001:1029a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得舌舐食，應當學。",
+        "translation": "\"You mustn't lick your food with your tongue, and you should learn it.",
+        "source": "T22n1430_001:1029a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得振手食，應當學。",
+        "translation": "\"You mustn't eat with your hands vibrating, and you must learn how to do so.",
+        "source": "T22n1430_001:1029a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得手把散飯食，應當學。",
+        "translation": "\"You mustn't eat with your hands spreading food, and you should learn how to do so.",
+        "source": "T22n1430_001:1029a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得污手捉食器，應當學。",
+        "translation": "\"You mustn't grasp a food container with soiled hands, and you must learn it.",
+        "source": "T22n1430_001:1029a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得洗鉢水棄白衣舍內，應當學。",
+        "translation": "\"You mustn't wash your bowl or throw water into the white-robed house, and you must learn to do so.",
+        "source": "T22n1430_001:1029a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得生草上大小便、涕唾，除病，應當學。",
+        "translation": "\"You mustn't urinate, defecate, or spit on raw grass to remove illnesses, and you should learn how to do so.",
+        "source": "T22n1430_001:1029a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得淨水中大小便、涕唾，除病，應當學。",
+        "translation": "\"You mustn't urinate or defecate in clean water, remove tears and spittle, or remove illness, and you should learn.",
+        "source": "T22n1430_001:1029a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(五十)「不得立大小便，除病，應當學。",
+        "translation": "(50) \"You mustn't urinate or defecate standing up, which removes illness and should be studied.",
+        "source": "T22n1430_001:1029a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得與反抄衣人說法，除病，應當學。",
+        "translation": "\"You must learn not to preach to a person wearing robes that are torn back, and you must remove illness.",
+        "source": "T22n1430_001:1029a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得為衣纏頸人說法，除病，應當學。",
+        "translation": "\"You mustn't preach to a person whose clothes are tied around their neck, and you should learn to remove illness.",
+        "source": "T22n1430_001:1029a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得為覆頭人說法，除病，應當學。",
+        "translation": "\"You mustn't preach to a person wearing a head covering, which removes illness and should be studied.",
+        "source": "T22n1430_001:1029a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得為裹頭人說法，除病，應當學。",
+        "translation": "\"You mustn't preach to a person wearing a headscarf to remove illness; you should learn how to do so.",
+        "source": "T22n1430_001:1029a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得為叉腰人說法，除病，應當學。",
+        "translation": "\"You mustn't preach to a person with his arms folded, and you should learn to remove illness.",
+        "source": "T22n1430_001:1029a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得為著革屣人說法，除病，應當學。",
+        "translation": "\"You mustn't preach for a person wearing leather sandals to remove illness; you should learn how to do so.",
+        "source": "T22n1430_001:1029b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得為著木屐人說法，除病，應當學。",
+        "translation": "\"You mustn't preach for someone wearing wooden sandals to remove illnesses; you should learn how to do so.",
+        "source": "T22n1430_001:1029b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得為騎乘人說法，除病，應當學。",
+        "translation": "\"You mustn't preach to a person riding a horse, and you must remove illnesses and learn.",
+        "source": "T22n1430_001:1029b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得佛塔內宿，除為守視，應當學。",
+        "translation": "\"You mustn't stay overnight in a stūpa unless you're guarding it, and you should train.",
+        "source": "T22n1430_001:1029b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(六十)「不得佛塔內藏財物，除為堅牢故，應當學。",
+        "translation": "(60) \"You mustn't store property in a stūpa except for the purpose of making it sturdy, and you should learn it.",
+        "source": "T22n1430_001:1029b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得著革屣入佛塔中，應當學。",
+        "translation": "\"You mustn't put on leather sandals and enter a stūpa, and you must train.",
+        "source": "T22n1430_001:1029b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得捉革屣入佛塔中，應當學。",
+        "translation": "\"You mustn't carry leather sandals into a stūpa, and you should train.",
+        "source": "T22n1430_001:1029b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得著革屣遶佛塔行，應當學。",
+        "translation": "\"You mustn't walk around a stūpa with leather sandals on, and you should train.",
+        "source": "T22n1430_001:1029b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得著富羅入佛塔中，應當學。",
+        "translation": "\"You mustn't wear a furoshiki into a stūpa, and you must learn it.",
+        "source": "T22n1430_001:1029b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得捉富羅入佛塔中，應當學。",
+        "translation": "\"You mustn't grab a pula and enter a stūpa, and you should train.",
+        "source": "T22n1430_001:1029b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得佛塔下食，留草及食污地捨去，應當學。",
+        "translation": "\"You mustn't eat under a stūpa, leaving grass and food on the ground to defile it.",
+        "source": "T22n1430_001:1029b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得擔死屍從佛塔下過，應當學。",
+        "translation": "\"You mustn't carry a dead corpse under a stūpa, and you should learn to do so.",
+        "source": "T22n1430_001:1029b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得塔下埋死屍，應當學。",
+        "translation": "\"You mustn't bury a dead corpse under a stūpa, and you should learn how to do so.",
+        "source": "T22n1430_001:1029b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得塔下燒死屍，應當學。",
+        "translation": "\"You mustn't burn a dead corpse under a stūpa, and you must learn how to do so.",
+        "source": "T22n1430_001:1029b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(七十)。",
+        "translation": "(70).",
+        "source": "T22n1430_001:1029b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得向塔燒死屍，應當學。",
+        "translation": "\"You mustn't burn a dead corpse at a stūpa, and you should learn to do so.",
+        "source": "T22n1430_001:1029b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得遶塔四邊燒死屍，使臭氣來入，應當學。",
+        "translation": "\"You mustn't burn a dead corpse on all sides of a stūpa so that a stench enters it; you must learn.",
+        "source": "T22n1430_001:1029b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得持死人衣，從塔下過，除為浣染香薰，應當學。",
+        "translation": "\"You mustn't carry a dead person's robe under the stūpa and pass under it, except to wash it and perfume it.",
+        "source": "T22n1430_001:1029b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得塔下大小便，應當學。",
+        "translation": "\"You mustn't urinate or defecate under the stūpa, and you should learn how to do so.",
+        "source": "T22n1430_001:1029b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得向塔大小便，應當學。",
+        "translation": "\"You mustn't urinate or defecate in front of the stūpa, and you should learn to do so.",
+        "source": "T22n1430_001:1029b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得遶佛塔四邊大小便，使臭氣來入，應當學。",
+        "translation": "\"You mustn't urinate or defecate around the four sides of a stūpa, causing a foul odor to enter.",
+        "source": "T22n1430_001:1029b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得持佛像至大小便處，應當學。",
+        "translation": "\"You mustn't carry an image of the Buddha to a place where he relieves himself, and you must learn how to do so.",
+        "source": "T22n1430_001:1029b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得塔下嚼楊枝，應當學。",
+        "translation": "\"You mustn't chew on poplar sticks underneath the stūpa, and you must learn how to do so.",
+        "source": "T22n1430_001:1029b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得向塔嚼楊枝，應當學。",
+        "translation": "\"You mustn't chew on poplar sticks while standing at the stūpa, and you must learn to do so.",
+        "source": "T22n1430_001:1029b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得遶塔四邊嚼楊枝，應當學。",
+        "translation": "\"You mustn't go around the four sides of the stūpa and chew on poplar sticks.",
+        "source": "T22n1430_001:1029b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(八十)「不得塔下涕唾，應當學。",
+        "translation": "(80) \"You mustn't snivel under a stūpa, and you should learn how to do so.",
+        "source": "T22n1430_001:1029b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得向塔涕唾，應當學。",
+        "translation": "\"You mustn't salivate or spit at the stūpa, and you should learn how to do so.",
+        "source": "T22n1430_001:1029b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得遶塔四邊涕唾，應當學。",
+        "translation": "\"You mustn't go around a stūpa and chew saliva on all sides; you should learn how to do so.",
+        "source": "T22n1430_001:1029b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得向佛塔舒脚坐，應當學。",
+        "translation": "\"You mustn't sit with your feet stretched out toward the stūpa, and you should learn how to do so.",
+        "source": "T22n1430_001:1029b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得安佛像在下房，己在上房住，應當學。",
+        "translation": "\"You mustn't place a statue of the Buddha in the lower room and live in the upper room yourself.",
+        "source": "T22n1430_001:1029c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人坐己立，不得為說法，除病，應當學。",
+        "translation": "\"A person who sits and stands up mustn't teach a Dharma lesson or remove an illness, so he must learn.",
+        "source": "T22n1430_001:1029c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人臥己坐，不得為說法，除病，應當學。",
+        "translation": "\"A person lying down and sitting by himself mustn't teach a Dharma lesson or remove an illness, and he must learn it.",
+        "source": "T22n1430_001:1029c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人在座，己在非座，不得為說法，除病，應當學。",
+        "translation": "\"A person who's sitting and is not sitting should not expound the teaching or remove illness, and he should learn.",
+        "source": "T22n1430_001:1029c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人在高座，己在下座，不得為說法，除病，應當學。",
+        "translation": "\"When a person is on a high seat and he's on a low seat, he mustn't expound the teaching and must be rid of illness; he must learn.",
+        "source": "T22n1430_001:1029c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人在前，己在後，不得為說法，除病，應當學。",
+        "translation": "\"A person who's in front and behind should not expound the Dharma and remove illnesses; they should learn.",
+        "source": "T22n1430_001:1029c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(九十)「人在高經行處，己在下經行處，不得為說法，除病，應當學。",
+        "translation": "(A person who's in a high place of practice and who's in a low place of practice mustn't expound the Dharma or remove illness; they must learn.",
+        "source": "T22n1430_001:1029c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人在道，己在非道，不得為說法，除病，應當學。",
+        "translation": "\"A person on the path and himself on a path that's not the path mustn't expound the teaching and remove illnesses; he should train.",
+        "source": "T22n1430_001:1029c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得携手在道行，應當學。",
+        "translation": "\"They mustn't walk hand in hand on the path; they should train.",
+        "source": "T22n1430_001:1029c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得上樹過人頭，除時因緣，應當學。",
+        "translation": "\"You mustn't climb a tree and pass over someone's head to remove timely causes and conditions, and you should learn.",
+        "source": "T22n1430_001:1029c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不得絡囊盛鉢，貫杖頭，置肩上行，應當學。",
+        "translation": "\"A person mustn't carry a bowl in a bag, thread it through the head of a staff, or carry it on their shoulder, and they should learn.",
+        "source": "T22n1430_001:1029c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人持杖，不應為說法，除病，應當學。",
+        "translation": "\"A person carrying a staff shouldn't teach a lesson to remove illness, but they should learn it.",
+        "source": "T22n1430_001:1029c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人持劍，不應為說法，除病，應當學。",
+        "translation": "\"A person carrying a sword should not expound the Dharma or remove illness; they should learn it.",
+        "source": "T22n1430_001:1029c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人持鉾，不應為說法，除病，應當學。",
+        "translation": "\"A person carrying a spear should not expound the Dharma to remove illness; they should learn.",
+        "source": "T22n1430_001:1029c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人持刀，不應為說法，除病，應當學。",
+        "translation": "\"A person carrying a sword shouldn't preach a sermon to remove illness; they should learn.",
+        "source": "T22n1430_001:1029c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人持蓋，不應為說法，除病，應當學。",
+        "translation": "\"A person carrying a spear should not preach a Dharma lesson to remove illness; they should learn it.",
+        "source": "T22n1430_001:1029c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(一百)「諸大德！",
+        "translation": "(100) \"Great masters!",
+        "source": "T22n1430_001:1029c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說眾學法。",
+        "translation": "\"I've already explained the teaching to many who are training.",
+        "source": "T22n1430_001:1029c19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德！",
+        "translation": "Now, I'd like to ask the great masters!",
+        "source": "T22n1430_001:1029c19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨不？",
+        "translation": "Is it medium-clean?",
+        "source": "T22n1430_001:1029c19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)「諸大德！",
+        "translation": "(Thus it was said three times), \"Great masters!",
+        "source": "T22n1430_001:1029c20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事是持。",
+        "translation": "This is purified, and because of its silence, this thing is maintained.",
+        "source": "T22n1430_001:1029c20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great masters!",
+        "source": "T22n1430_001:1029c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是七滅諍法，半月半月，戒經中說。",
+        "translation": "These are the seven rules for ending a dispute, half a month and half a month, as explained in the precepts sūtra.",
+        "source": "T22n1430_001:1029c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「若比丘有諍事起，即應除滅。",
+        "translation": "\"If a monk has a dispute that arises, he should remove it.",
+        "source": "T22n1430_001:1029c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「應與現前毘尼，當與現前毘尼。",
+        "translation": "\"He should give present-tense vini and should give present-tense vini.",
+        "source": "T22n1430_001:1029c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「應與憶念毘尼，當與憶念毘尼。",
+        "translation": "\"He should give recollection vini and should give recollection vini.",
+        "source": "T22n1430_001:1029c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「應與不癡毘尼，當與不癡毘尼。",
+        "translation": "\"He should be given the vini of not being deluded and should be given the vini of not being deluded.",
+        "source": "T22n1430_001:1029c25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「應與自言治，當與自言治。",
+        "translation": "\"Self-medication should be given, and self-mandating should be given.",
+        "source": "T22n1430_001:1029c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「應與覓罪相，當與覓罪相。",
+        "translation": "\"You should seek out the mark of a sin and should give it to him.",
+        "source": "T22n1430_001:1029c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「應與多覓罪相，「當與多覓罪相。",
+        "translation": "\"You should seek out the marks of many sins, and you should seek out the marks of many sins.",
+        "source": "T22n1430_001:1029c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「應與如草布地，當與如草布地。",
+        "translation": "\"You should spread the ground like grass, and you will spread it like grass.",
+        "source": "T22n1430_001:1029c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great masters!",
+        "source": "T22n1430_001:1030a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說七滅諍法。",
+        "translation": "I've explained seven ways to end a dispute.",
+        "source": "T22n1430_001:1030a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今問諸大德！",
+        "translation": "Now, I'd like to ask the great masters!",
+        "source": "T22n1430_001:1030a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨不？",
+        "translation": "Is it medium-clean?",
+        "source": "T22n1430_001:1030a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(如是三說)「諸大德！",
+        "translation": "(Thus it was said three times), \"Great masters!",
+        "source": "T22n1430_001:1030a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中清淨，默然故，是事如是持。",
+        "translation": "It's pure in this, and because of its silence, it's maintained in this way.",
+        "source": "T22n1430_001:1030a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「諸大德！",
+        "translation": "\"Great men!",
+        "source": "T22n1430_001:1030a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我已說戒經序，已說四波羅夷法，已說十三僧伽婆尸沙法，已說二不定法，已說三十尼薩耆波逸提法，已說九十波逸提法，已說四波羅提提舍尼法，已說眾學法，已說七滅諍法，此是佛所說戒經，半月半月說，戒經中來。",
+        "translation": "I've explained the introduction to the precepts sūtra, explained the four grave rules, explained the thirteen crimes against humanity rule, explained the two uncertain rules, explained the thirty crimes against humanity rule, explained the ninety crimes against humanity rule, explained the four crimes against humanity rule, explained the many disciplines rule, and explained the seven rules for ending disputes; these are the precepts sūtras that the Buddha teaches, which are taught half a month and half a month, and which come from the precepts sūtra.",
+        "source": "T22n1430_001:1030a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若更有餘佛法，是中皆共和合，應當學。",
+        "translation": "If there are other Buddha-teachings that fit together here, they should be studied.",
+        "source": "T22n1430_001:1030a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「『忍辱第一道，　　佛說無為最，　　出家惱他人，　　不名為沙門。』",
+        "translation": "\"'Forbearance is the highest path, which the Buddha teaches is most unobtainable, and leaving home and vexing others is not called being an ascetic.'",
+        "source": "T22n1430_001:1030a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「此是毘婆尸如來、無所著、等正覺，說是戒經。",
+        "translation": "\"This is the sutra on the precepts taught by the Tathāgata Vipaśyin, Arhat, and Completely Awakened One.",
+        "source": "T22n1430_001:1030a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「『譬如明眼人，　　能避險惡道，　　世有聰明人，　　能遠離諸惡。』",
+        "translation": "\"'It's like a man of discernment who can avoid dangerous and evil paths, or there are wise people in the world who can avoid evil.'",
+        "source": "T22n1430_001:1030a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「此是尸棄如來、無所著、等正覺，說是戒經。",
+        "translation": "\"This is the sutra on the precepts taught by the Śikhin Tathāgata, the Arhat, and the Completely Awakened One.",
+        "source": "T22n1430_001:1030a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「『不謗亦不嫉，　　常奉於戒行，　　飲食知止足，　　常樂在空閑，　　心定樂精進，　　是名諸佛教。』",
+        "translation": "\"'Not criticizing or being jealous, always adhering to the practice of precepts, knowing the adequacy of food and drink, always delighting in seclusion, and concentrating the mind and delighting in effort are called the teachings of the Buddhas.'",
+        "source": "T22n1430_001:1030a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「此是毘葉羅如來、無所著、等正覺，說是戒經。",
+        "translation": "\"This is the sutra on the precepts taught by the Tathāgata Vipaela, Arhat, and Completely Awakened One.",
+        "source": "T22n1430_001:1030a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「『譬如蜂採華，　　不壞色與香，　　但取其味去；　　比丘入聚落，　　不違戾他事，　　不觀作不作，　　但自觀身行，　　若正若不正。』",
+        "translation": "\"'It's like a bee picking flowers that doesn't spoil the color or fragrance but simply takes its taste and leaves; a monk entering a village doesn't act contrary to others, doesn't observe what's done or not done, but observes his own conduct, whether correct or incorrect.'",
+        "source": "T22n1430_001:1030a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「此是拘留孫如來、無所著、等正覺，說是戒經。",
+        "translation": "\"This is the sūtra on the precepts taught by the Tathāgata Kauśāmbī, the unattached, perfectly enlightened one.",
+        "source": "T22n1430_001:1030a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「『心莫作放逸，　　聖法當勤學，　　如是無憂愁，　　心定入涅槃。』",
+        "translation": "\"Do not let your mind wander, but study the noble teaching diligently; thus, without grief, your mind will surely enter nirvāṇa.",
+        "source": "T22n1430_001:1030a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「此是拘那含牟尼如來、無所著、等正覺，說是戒經。",
+        "translation": "\"This is the sutra on the precepts taught by Kanakamuni, the Tathāgata, the Arhat, and the Completely Enlightened One.",
+        "source": "T22n1430_001:1030a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「『一切惡莫作，　　當奉行諸善，　　自淨其志意，　　是則諸佛教。』",
+        "translation": "''Don't do all evil; consecrate yourself to the practice of good; purify your intentions; and then the Buddhas will follow.''",
+        "source": "T22n1430_001:1030b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「此是迦葉如來、無所著、等正覺，說是戒經。",
+        "translation": "\"This is the sutra on the precepts taught by the Tathāgata Kāśyapa, the unattached, and perfectly enlightened one.",
+        "source": "T22n1430_001:1030b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「『善護於口言，　　自淨其志意，　　身莫作諸惡，　　此三業道淨，　　能得如是行，　　是大仙人道。』",
+        "translation": "\"'Guard well what you say, purify your intentions, and refrain from doing evil with your body; these three activities and paths are purified, and to be able to do them this way is the great immortal path.'",
+        "source": "T22n1430_001:1030b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「此是釋迦牟尼如來、無所著、等正覺，於十二年中，為無事僧說是戒經。",
+        "translation": "\"This is the sūtra on the precepts that the Tathāgata Śākyamuni, Arhat, and Completely Awakened One taught for 12 years to monks with no business.",
+        "source": "T22n1430_001:1030b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從是已後，廣分別說。",
+        "translation": "Since then, he's explained it in detail.",
+        "source": "T22n1430_001:1030b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸比丘，自為樂法、樂沙門者，有慚、有愧，樂學戒者，當於中學。",
+        "translation": "Monks, those who consider themselves happy with the teaching and happy ascetics, who have conscience and modesty, and who are happy to train in the precepts should go to secondary school.",
+        "source": "T22n1430_001:1030b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「明人能護戒，　　能得三種樂，　名譽及利養，　　死得生天上。",
+        "translation": "\"A learned person who protects the precepts can attain three kinds of happiness, renown, and profit, and be born in heaven at death.",
+        "source": "T22n1430_001:1030b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　當觀如是處，　　有智勤護戒，　戒淨有智慧，　　便得第一道。",
+        "translation": "You should observe such a place, where there's wisdom and diligence in guarding the precepts, and when the precepts are purified and there's wisdom, you'll attain the first path.",
+        "source": "T22n1430_001:1030b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如過去諸佛，　　及以未來者，　現在諸世尊，　　能勝一切憂，　皆共尊敬戒，　　此是諸佛法。",
+        "translation": "Like the buddhas of the past, those of the future, and the world-honored ones of the present, who are able to overcome all sorrow and all share respect for the precepts, these are the buddhas' teachings.",
+        "source": "T22n1430_001:1030b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若有自為身，　　欲求於佛道，　當尊重正法，　　此是諸佛教。",
+        "translation": "If there's a self-made body that wants to pursue the buddha path, it should respect the right teaching, which is the teachings of the buddhas.",
+        "source": "T22n1430_001:1030b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　七佛為世尊，　　滅除諸結使，　說是七戒經，　　諸縛得解脫，　已入於涅槃，　　諸戲永滅盡。",
+        "translation": "Seven buddhas were honored as world-honored ones who ended the bonds and tendencies, taught these seven precepts, freed themselves from their fetters, entered nirvāṇa, and permanently extinguished their play.",
+        "source": "T22n1430_001:1030b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　尊行大仙說，　　聖賢稱譽戒，　弟子之所行，　　入寂滅涅槃。",
+        "translation": "The venerable practitioner, the great sage, teaches the precepts, which are praised by noble men and practiced by their disciples, and enters nirvāṇa of tranquility and extinction.",
+        "source": "T22n1430_001:1030b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　世尊涅槃時，　　興起於大悲，　集諸比丘眾，　　與如是教誡：『莫謂我涅槃，　　淨行者無護。",
+        "translation": "When the Bhagavān was in nirvāṇa, he aroused great compassion, gathered a crowd of monks, and gave this instruction, 'Don't say that I'm in nirvāṇa and that those who practice purity aren't protected.",
+        "source": "T22n1430_001:1030b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我今說戒經，　　亦善說毘尼，　我雖般涅槃，　　當視如世尊。",
+        "translation": "Now, I've explained the precepts sūtra and also well-explained the vinaya, and even though I'm in nirvāṇa, I'll be regarded as the Bhagavān.",
+        "source": "T22n1430_001:1030b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此經久住世，　　佛法得熾盛，　以是熾盛故，　　得入於涅槃。",
+        "translation": "When this sūtra remains in the world for a long time, the Buddha-dharma becomes flourishing, and because it's flourishing, I'll be able to enter nirvāṇa.",
+        "source": "T22n1430_001:1030c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若不持此戒，　　如所應布薩，　喻如日沒時，　　世界皆闇冥。",
+        "translation": "If someone doesn't uphold this precept, they'll be like the one who should preach, which is like when the sun goes down and the world goes dark.",
+        "source": "T22n1430_001:1030c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　當護持是戒，　　如犛牛愛尾，　和合一處坐，　　如佛之所說。』",
+        "translation": "You must guard these precepts like a yak that loves its tail and sits in unity, just as the Buddha taught.'",
+        "source": "T22n1430_001:1030c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　我已說戒經，　　眾僧布薩竟，　我今說戒經，　　所說諸功德，　施一切眾生，　　皆共成佛道。」",
+        "translation": "After I taught the precepts sūtra and the saṃgha had distributed them, I'll now teach the precepts sūtra, explaining the merits of what I've taught and bestowing them on all sentient beings, so that they may all attain the Buddha Way together.\"",
+        "source": "T22n1430_001:1030c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四分僧戒本",
+        "translation": "Dharmaguptaka-bhikṣu-prātimokṣa-sūtra",
+        "source": "T22n1430_001:1030c10_0",
+        "is_bad_quality": false
+    }
+]

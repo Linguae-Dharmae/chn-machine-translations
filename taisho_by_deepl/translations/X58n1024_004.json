@@ -1,0 +1,590 @@
+[
+    {
+        "source_sentence": "賢首五教儀卷第四",
+        "translation": "Xianshou wujiaoyi roll 4",
+        "source": "X58n1024_004:0659a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清浙水慈雲沙門　灌頂續法　集錄",
+        "translation": "Qing Zheshui Ciyun shaman Consecration of Continued Practices Jilu",
+        "source": "X58n1024_004:0659a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言六宗者一隨相法執宗二唯識法相宗三真空無相宗四藏心緣起宗五真性寂滅宗六法界圓融宗。",
+        "translation": "The six schools are the following: the first follows the marks and adheres to phenomena; the second is the consciousness-only teaching on phenomena; the third is the vacuum and signless teaching; the fourth is the tripiṭaka school on dependent arising; the fifth is the school on the cessation of true nature; and the sixth is the school on the interpenetration of the Dharma realm.",
+        "source": "X58n1024_004:0659a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一隨相法執宗者謂一切我法中起有無執故即小乘諸師依阿含緣生等經造婆沙俱舍諸部論等。",
+        "translation": "The first school of attachment to phenomena according to characteristics refers to the attachment to existence and nonexistence that arises in all self and phenomena, which is why lesser-vehicle teachers rely on scriptures like the Āgamas' conditional births to create the Vibhāṣā council's treatises and so forth.",
+        "source": "X58n1024_004:0659a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中又六。",
+        "translation": "There are six of them.",
+        "source": "X58n1024_004:0659a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一我法俱有宗此中有二一人天乘二小乘謂犢子法上賢胄正量密林山部等。",
+        "translation": "One is the doctrine that the self and dharmas are both existent, of which there are two: the one-person celestial vehicle and the two lesser vehicles, which are the Vātsīputrīya and the Correctly Qualified, Densely Wooded, and Mountain Sects.",
+        "source": "X58n1024_004:0659a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼立三聚法一有為聚法二無為聚法三非二聚法初二是法後一是我。",
+        "translation": "They posit three categories of dharmas: one is the category of existent dharmas, two are the category of nonexistent dharmas, and three are not two categories of dharmas.",
+        "source": "X58n1024_004:0659a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又立五法藏一過去二現在三未來四無為五不可說藏此即是我以不可說是有為無為故。",
+        "translation": "They also posit five categories of dharmas: one past, two present, three future, four inactive, and five ineffable. This is the self because it's ineffable as existent and inactive.",
+        "source": "X58n1024_004:0659a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此一部諸部論師共推不受呼為附佛法外道以諸外道所計雖殊皆立我故。",
+        "translation": "However, this is a school where the masters of various schools commonly reject the idea that it's a non-Buddhist attached to the Dharma because even though the non-Buddhists differ in their assumptions, they all posit a self.",
+        "source": "X58n1024_004:0659a16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二法有我無宗謂薩婆多上座多聞等彼說諸法二種所攝一名二色或四種所攝謂三世及無為。",
+        "translation": "The two kinds of things that are self and nothing are those that are included in the sarvâstivāda, the superior seats, the well-versed, and so forth, which are described as two kinds of things, namely, the three worlds and nothingness.",
+        "source": "X58n1024_004:0659a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或五種所攝謂一心二心所三色四不相應五無為。",
+        "translation": "Or the five kinds of things that are included are one mind, two minds, three forms, four unassociative forms, and five nonexistent forms.",
+        "source": "X58n1024_004:0659a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故一切法皆悉實有。",
+        "translation": "Therefore, all dharmas really exist.",
+        "source": "X58n1024_004:0659a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸法中並不立我以無我故異外道計。",
+        "translation": "They don't posit a self among dharmas because they're without self, which is why they differ from non-Buddhist assumptions.",
+        "source": "X58n1024_004:0659a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於有為之中立正因緣以破外道邪因無因。",
+        "translation": "Furthermore, among the existent things, it establishes right causes and conditions to refute the mistaken causes and lack of causes of the non-Buddhists.",
+        "source": "X58n1024_004:0659a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然外道見雖有九十五種或計二十五諦從冥生等或計六句和合生等或謂自在梵天等生或謂微塵宿作等生或執時方虗空等而為世間及涅槃本統收所計不出四見謂數論計一勝論計異勒沙婆計亦一亦異若提子計非一非異若計一者則謂因中有果若計異者則謂因中無果三則因中亦有無果四則因中非有無果餘諸異計皆不出此雖多不同就其結過不出二種從虗空生即是無因餘皆邪因然無因邪因乃成大過謂自然虗空等生應常生故以不知三界由乎我心從癡有愛流轉無極迷正因緣故異計紛然安知因緣性空真如妙有耶廣明異計如瑜伽顯揚婆沙中百金七十論等。",
+        "translation": "Although there are ninety-five kinds of non-Buddhist beliefs, some speculate that the twenty-five truths arise from darkness, some speculate that the six conjugations arise, some say that the ubiquitous Brahmā gods and so forth arise, some say that the minutest particles are created by constellations and so forth, and some attach to the primacy of space in time as the world and nirvāṇa, there are no four non-Buddhist beliefs: the numerology belief that the one is superior, the dissimilarity belief that the Leśvabhū belief is both the same and the dissimilarity belief that the Tissa belief is neither the same nor different.",
+        "source": "X58n1024_004:0659a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三法無去來宗謂大眾說轉鷄胤制多西山北山法藏飲光部等唯說現在諸有為法及無為法耳以過未之法體用俱無故。",
+        "translation": "The Third Doctrine of the Absence of Past and Future states that the masses preach that the turning of Kukkuṭapāda, the Western and Northern Mountains, the Dharma Canon, and the Yankuangbu School only preach that the present is composed of existent and inactive dharmas because the past and future dharmas are neither existent nor functional.",
+        "source": "X58n1024_004:0659b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四現通假實宗謂說假部就前現在有為法中在五蘊為實在界處為假隨應諸法假實不定其成實論末經部師即是此類。",
+        "translation": "The fourth school of the manifestation of the provisional and the real means that the nominal school teaches that the former manifestation of the existent dharmas in the five aggregates is real, the realms and fields are provisional, and that the provisional and real of these dharmas are indeterminate according to the masters of the Sutra at the end of the Chengzhi lunar calendar.",
+        "source": "X58n1024_004:0659b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五俗妄真實宗即說出世部等謂世俗法皆假以虗妄故出世法皆實非虗妄故。",
+        "translation": "The fifth school of the mundane and the false, the true and the real, which is the school that says the supramundane dharmas are all false because they're false, and the supramundane dharmas are all real because they're not false.",
+        "source": "X58n1024_004:0659b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六諸法但名宗即一說部等謂一切我法但有假名無實體故。",
+        "translation": "The sixth doctrine that dharmas are only names refers to the I-Teaching school, which states that all self and phenomena only have nominal names and no substance.",
+        "source": "X58n1024_004:0659b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二唯識法相宗者謂一切諸法皆唯識現故即無著天親依方廣深密等經造瑜伽唯識論等。",
+        "translation": "Second, the consciousness-only aspect of phenomena school states that all things are nothing but the manifestation of consciousness, which is why Wuzhe Tenzin relied on such scriptures as the vast and profound Yogâcārabhūmi school to create the Yogâcārabhūmi school.",
+        "source": "X58n1024_004:0659b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三真空無相宗者謂一切諸法皆空無相故即提婆清辯依般若妙智等經造百論掌珍論等。",
+        "translation": "The third doctrine of vacuum and marklessness refers to the idea that all things are empty and markless, which is why Deva Qingshan relies on sutras like Prajñāparinirvāṇa-dhvaja-jñānôttara-śāstra to create the Hundred Treatises on Palmistry and Preciousness.",
+        "source": "X58n1024_004:0659b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四藏心緣起宗者謂一切諸法唯是真如隨緣具恒沙性德故即堅慧馬鳴依勝鬘涅槃等經造寶性起信論等。",
+        "translation": "The fourth school of the dependent arising of the store mind states that all dharmas are only truly existent and have the innate virtue of constancy according to their conditions, namely, the Jeweled Nature Awakening Treatise and so forth created by Gyangshen Ma Ming relying on the Śrīmālādevīsi and other sūtras.",
+        "source": "X58n1024_004:0659c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五真性寂滅宗者謂相想俱絕直顯性體故即馬鳴龍樹依楞伽般若等經造真如三昧智度論等。",
+        "translation": "The fifth school of the cessation of true nature refers to the cessation of both marks and perceptions and the direct disclosure of the nature itself, which is why Ma Ming Long Shu relies on sutras like Laṅkâvatāra to create the Treatise on the Samādhi and Wisdom of True Reality.",
+        "source": "X58n1024_004:0659c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六法界圓融宗者謂無盡法界如因陀羅網主伴重重圓融無礙故即龍樹天親依華嚴等經造不思議十地論等。",
+        "translation": "The sixth school of the perfect interpenetration of the realm of reality refers to the inexhaustible realm of reality as Indra's Net, which is composed of numerous subjects and partners that are perfect and unobstructed, namely, the Discourse on the Ten Stages of Inconceivability based on the Huayan Sutra and other scriptures by Nāgârjuna Tenzin.",
+        "source": "X58n1024_004:0659c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此六宗後後深於前前初一唯小乘後五唯大乘次即相宗三即空宗四五六即性宗初即小教二三即始教四即終教五即頓教六即圓教又第二亦名二諦俱有宗謂勝義諦理真實故不無世俗因果不失故是有如深密瑜伽等第三亦名二諦俱空宗謂無為勝義離相故非有有為緣生如幻故是無如掌珍頌云真性有為空如幻緣生故無為無有實不起似空華等即般若三論中一分之義。",
+        "translation": "However, these six schools are later and deeper than the first. First, the lesser vehicle school, then the five greater vehicles school, second, the characteristics school, third, the emptiness school, fourth, fifth, and sixth, the nature school, first, the lesser teaching, second, third, the initial teaching, fourth, the final teaching, fifth, the sudden teaching, and sixth, the perfect teaching.",
+        "source": "X58n1024_004:0659c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四亦名二諦無礙宗謂真是即俗之真俗是即真之俗如仁王等第五亦名二諦泯絕宗謂語真必攝俗故真絕言俗必攝真故俗絕如維摩等第六亦名二諦無盡宗謂真即俗而真空重重無際俗即真而俗有歷歷不窮如華嚴經等。",
+        "translation": "The fourth is also called the no-hindrance school of the two truths, which states that what's real is real that's conventional and what's conventional is real that's conventional, such as the Renwang school. The fifth is also called the no-elimination school of the two truths, which states that what's true must include the conventional, so the real is cut off and what's said is conventional must include the real, so the conventional is cut off, such as the Vimalakīrti Sutra. The sixth is also called the no-ending school of the two truths, which states that what's true is conventional and the vacuum is repeated and endless, and what's conventional is true and the conventional exists forever, such as the Huayan Sutra.",
+        "source": "X58n1024_004:0659c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若恐混濫逐為對揀略開八重。",
+        "translation": "If there's a fear of confusion, we'll briefly delimit the eight categories in order to match them.",
+        "source": "X58n1024_004:0660a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先料揀性相兩宗濫中又五義初唯識半分具分別相宗八識唯約生滅即半分也性宗生滅與不生滅和合而成阿梨耶識是具分也又相宗云影外有質為半頭唯識質影俱影為全頭唯識若望性宗如來藏心則彼全頭生滅八識亦名為半頭也二真如隨緣凝然別相宗唯識論釋真如云真無虗妄如無變易若隨緣變豈稱真如凝然義也性宗勝鬘經云依如來藏有生死依如來藏有涅槃隨緣義也三緣境斷惑即離別相宗謂根本智雙觀真俗能斷迷理迷事隨眠後得智唯觀事境但斷迷事一種隨眠離也性宗謂智體惑體無二體故涅槃云明與無明其性無二故能一斷一切斷即也四證理能所即離別相宗謂能證根本智是有為所證真如理是無為就能所證心境相對是不即也性宗謂理智不分能所混融華嚴云無有智外如為智所證亦無如外智能證於如二既不存一亦奚立故能一證一切證是不離也五轉智不轉智別相宗謂出世四智心品依生滅識種轉成故為四相所遷性宗謂世出世智依如來藏性始本不二何待轉成即體之智非相所遷。",
+        "translation": "First, there are five meanings in the confusion between the two schools of sorting nature and characteristics. First, the half-part of consciousness-only is fully discriminated, and the eight consciousnesses of the Xiangzong school are only about arising and ceasing, which is the half-part. The Xiangzong school says that there's a substance outside of shadow that's half-headed consciousness-only, and if one looks at the mind of the Tathāgatagarbha of the Nature school, then the whole head of the eight consciousnesses of arising and ceasing is also called half-headed.",
+        "source": "X58n1024_004:0660a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次料揀空性兩宗濫中亦五義一我法有無別空宗有我為妄無我為真般若云如來說有我者即非有我而凡夫之人以為有我性宗無我為妄有我為真涅槃云無我者名為生死有我者名為如來二法義真俗別空宗俗諦為法真諦為義如智論說性宗真諦為法俗諦為義華嚴云法者知真諦義者知俗諦三心性二名別空宗一向目諸法本源為性智度論云色色性空掌珍論云有為性空緣生如幻楞嚴云識性虗妄猶如空華性宗多分目諸法本源為心勝鬘云自性清淨心起信云一切法唯是一心楞嚴云諸所緣法唯心所現四真智真知別空宗以有分別為知無分別為智真智了空故智深知淺性宗以證聖理為智徹聖凡為知靈知本有故知通智局起信云真如自體真實識知五佛德空有別空宗說佛以空為德般若云離一切相即名諸佛色見聲求皆為邪道性宗明諸佛富有萬德相好身智神通光明常樂我淨真實功德於佛體中一一無盡性自本有不待機緣如起信涅槃中說。",
+        "translation": "Second, the two schools of sorting out emptiness and abstraction also have five meanings. 1. the self and dharmas have and don't have distinct emptiness, and the Tathāgata says that when there's a self, it's not a self, but worldlings think it's a self. 2. the meaning of dharmas is true and secular, and the emptiness school says that the conventional truth is the Dharma and the true truth is the meaning. 2. the meaning of dharmas is true and secular, as explained in the Wisdom Treatise. 3. the Dharma knows the true truth and the meaning knows the conventional truth. 4. the nature of mind and the two names are distinct emptiness, and the first is the origin of dharmas as nature. 5. the nature of Buddha virtues is empty, and the distinct emptiness school says that the Buddha uses emptiness as virtue.",
+        "source": "X58n1024_004:0660b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三料揀空相兩宗與性宗濫亦五義別一三乘一乘別空相二宗明有三乘以深密第三時中具說三乘普為發趣一切乘者第二時諸部般若亦同此說性宗明唯一乘法華云十方佛土中唯有一乘法妙智經及梁攝論皆同此說二五性一性別空相兩宗明有五性大般若云於聲聞乘性決定者聞此法已速能證得自無漏地於獨覺乘性決定者聞此法已速依自乘而得出離於無上乘性決定者聞此法已速證無上正等菩提於彼三乘性不定者聞此法已皆發無上正等覺心深密有性者成無性不成意亦同此性宗明唯一性涅槃云一切眾生同有佛性皆同一乘三生佛不增減別空相二宗皆云五種性中無種性人決不成佛守眾生界名不增減十輪云三乘各定差別皆以性定五故善戒地持說二種性無種性人終不能得菩提但以人天善根而成熟之性宗謂一理齊平名不增減是故不增不減經云愚癡凡夫不如實知一法界故不能實見一法界故起邪見心謂眾生界增眾生界減四成佛不成佛別空相二宗明有不成佛深密云一切趣寂聲聞種性雖蒙諸佛種種方便終不能令證佛菩提大般若五百九十三中說有五性大意同此性宗謂決定盡得成佛密嚴云二乘必無灰斷涅槃涅槃云一切眾生皆有佛性凡是有心定當作佛五同位不同位別空相二宗為引愚法二乘漸向大故故位相與彼同大品明三乘共十地立乾慧等唯識亦許三乘斷證階位大同即資糧等性宗約自教論深勝於彼故斷證位相與彼懸隔故彌勒所問經論云一切聲聞辟支佛不能如實修四無量不能究竟斷諸煩惱但能折伏一切煩惱等斷證既爾地位準知。",
+        "translation": "The three categories of emptiness and the two schools and the nature school abound in the five meanings of distinct, one-three-vehicle, one-vehicle, and distinct emptiness. The two schools explain that there are three vehicles, and in the third period of profound and mysterious teaching, the three vehicles are universally developed for those who are headed for all vehicles.",
+        "source": "X58n1024_004:0660b19_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "四料揀空性兩宗與相宗濫亦五義別一立相顯性別相宗多談法相縱少說性亦法相數如無為有六種等是立相也空性二宗多明法性縱少說相亦會歸性但空宗空性無性性宗真性實性如金剛三昧及起信中說六度行即一法性等是顯性也二唯心真妄別相宗依生滅八識建立染淨根本唯識云等流習氣為因緣故八識體相差別而生名等流果果似因故異熟習氣為增上緣感第八識酬引業力恒相續故立異熟名感前六識酬滿業者有間斷故名異熟生從異熟起不名異熟即前異熟及異熟生名異熟果果異因故攝論云無始時來界一切法等依由此有諸趣及涅槃證得即唯心中妄也空宗般若云色不異空空不異色受想行識亦復如是楞嚴云如來藏中性色真空性空真色水火風識亦復如是性宗起信云依如來藏有生滅心楞伽云藏識海常住既言常住即藏心也明非唯生滅矣故通唯心中真也三二諦即離別相宗明離瑜伽四重二諦中初一世俗唯局世俗後一勝義唯局勝義中間六諦各通世俗勝義何者望前為勝義望後為世俗一一差別區分不同故不即也空性二宗明即中論云定有則著常定無則著斷掌珍論云真性有為空無為無起滅有與有為俗諦也無與無為真諦也仁王云於解常自一於諦常自二通達此無二真入第一義涅槃云世諦者即第一義諦故不離也四四相一時前後別相宗明前後謂前生住異三相屬現在後一滅相屬過去先有後無相差別故空性二宗顯同時般若云過去不可得現在不可得未來不可得既三世皆空何有不即起信云四相俱時而有皆無自立本來平等同一覺故五佛身有為無為別相宗說佛身有為佛地論云大覺地中無邊功德略有二種一者無為功德淨法界攝二者有為功德四智所攝唯識云四智心品總攝佛地一切有為功德皆盡空性二宗明無為般若云如來說三十二相即是非相須菩提言如我解佛所說義無有定法名阿耨菩提亦無有定法如來可說所以者何一切賢聖皆以無為法而有差別淨名云佛身無為不墮諸數涅槃云如來真實是無為法。",
+        "translation": "The four kinds of discrimination of emptiness and the two schools and the Xiang School conflate and have five distinct meanings: first, positing characteristics and revealing gender; second, the Xiang School talks a lot about the characteristics of dharmas even though it says little about their nature and the number of characteristics of dharmas such as the six kinds of nonbeing; third, the two schools of emptiness explain the nature of dharmas even though it says little about their nature; third, the nature of emptiness and the nature of the true nature and the real nature of dharmas such as the Jingang Sanmei and the Awakening of Faith in which it's said that the six practices of the perfections are the nature of the one dharma; second, the true delusion of only the mind is revealed.",
+        "source": "X58n1024_004:0660c24_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "五料揀性相空三宗濫亦五差異一遮揀表顯異相宗唯表如深密等三種時教五重觀法斷二障證二空轉八識成四智五位百法皆依法相而示唯識乃名方便密意依性說相教也空宗唯遮如般若等破五蘊非四諦空業空報無證無修生死涅槃猶昨夢凡夫諸佛等空華八十一科皆約破相而示空理乃名方便密意破相顯空教也性宗有遮有表說一切眾生皆有寂滅靈知之心以此一真心性對彼染淨諸法全揀全收全揀之非生非佛非性非相但尅體直指寂滅靈知即是心性餘皆虗妄故華嚴云非識所識亦非心境知性本淨開悟羣生楞伽云寂滅者名為一心全收之染淨諸法無不是心如鏡現影影影皆鏡故華嚴云知一切法即心自性起信云三界虗偽唯心所作全揀門攝前破相全收門攝前立相如是收揀一切並皆直指自心即是真性不約事相而示亦不約破相而談又非方便隱密之意故此乃是正直顯示真心即性教也二諦理多少異相宗明八諦瑜伽謂世俗有四一世間二道理三證得四安立即假名無實隨事差別方便安立假名非安立四諦也勝義有四一世間二道理三證得四勝義即體用顯現因果差別依真顯實廢詮談旨四諦也空宗所說世出世間一切諸法不出二諦仁王般若云有無本自二譬如牛二角照解見無二二諦常不即餘如掌珍中論等說性宗明三諦以緣起色等諸法為俗諦緣無自性即空為真諦一真心實相體非空非色能空能色為中道第一義諦仁王云以三諦攝一切法空諦色諦心諦故我說一切法不出三諦餘如纓絡大品本業等經所說或明一諦如楞嚴云故我今時為汝開示第一義諦又云大威德世尊善為眾生敷演如來第一義諦仁王云初住一心足德行於第一義而不動第一義諦常安隱窮源盡性妙智存金剛三昧云大慈滿足尊智慧通無礙廣度眾生故說於一諦義皆以一味道終不以小乘餘如涅槃等說三真妄空有異相宗真有妄空謂八諦中初俗則空遍計執故後三世俗及四真諦皆有依圓有故空宗真空妄有仁王云法性本無性第一義空如諸有本有法三假集假有性宗真妄俱空第一義空該通真妄故涅槃云第一義空者不見空與不空仁王云般若無相二諦虗空或空有無礙真非俗外即俗而真故仁王云解心見不二求二不可得非謂二諦一非二何可得梁論亦云智障甚盲瞑為真俗別執中論云因緣生法即空假中四三性空有即離異相宗遍計是空依圓是有唯識頌云遍計所執自性無有依他起性分別緣生圓成於彼常離前性故此與依非異不異又明三法皆有性也空宗遍依是有圓成是空密嚴頌云名為遍計性相是依他起名相二俱遣是為第一義又明三法皆無性也性宗謂遍計性情有理無依他性相有性無圓成性情無理有相無性有則三法中皆具空有也教義云三性各有二義真中二義者一不變義二隨緣義依他二義者一似有義二無性義所執中二義者一情有義二理無義約真中不變依他無性所執理無由此三義故三性一際同無異也此則不壞末而常本也經云眾生即涅槃不復更滅又約真如隨緣依他似有所執情有由此三義亦無異也此則不動本而常末也經云法身流轉五道名曰眾生又相宗明依他外別有圓成是所顯理離也空性二宗依他無性即是圓成即也又相宗有空宗無離也性宗空有無礙即也五心境存泯異相宗唯遮境有識揀心空解深密云諸識所緣唯識所現瑜伽論云菩薩於定位觀境唯是心空宗心境俱泯中邊論云以塵無有故本識即不生般若謂五蘊皆空三心不得性宗明存泯無礙密嚴云如來清淨藏世間阿賴耶如金與指鐶展轉無差別華嚴云法性不違法相法相不違法性楞嚴云即一切法離一切相唯即與離二無所著。",
+        "translation": "The five categories of nature, characteristics, and emptiness are also five differences. The nature school has a statement that all sentient beings have a mind of tranquil extinction and spiritual awareness.",
+        "source": "X58n1024_004:0661b13_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "六料揀空宗始教與性宗頓教濫亦五差異一直指曲顯異空宗始教密意破相顯性故揀却諸餘是曲顯也如般若等所說真妙理性每云不生不滅非性非相等是遮揀也無我相無法相亦無非法相等是專意破相也性宗頓教顯說自心即性故的示當體是直指也如圓覺等所說真妙理性每云知見靈覺寂空澄湛等是表示也自性清淨真實識知等是專意顯性也。",
+        "translation": "The six kinds of discrimination between the initial teaching of the Emptiness School and the sudden teaching of the Nature School are also five kinds of distinctions that are pointed out, twisted, and revealed. The initial teaching of the Emptiness School's dense intention to reveal the nature by refuting characteristics and thus selecting away the rest is twisted and revealed.",
+        "source": "X58n1024_004:0662b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說醎云不淡是曲明云鹹是直顯說水云不乾是巧示云濕是的指也二談空顯性異空宗始教不說諸法相唯談但空理般若云是諸法空相空中無色仁王云以眾生空故得置菩提空以菩提空故得置眾生空以一切法空故空空性宗頓教總不說空相唯辨真性理圓覺云知幻即離離幻即覺非作故無本性無故起信云當知真如非有相非無相非一相非異相三遣顯存泯異空宗遣相明空空存相泯金剛云凡所有相皆是虗妄若見諸相非相即見如來又云應離一切相發菩提心大品云諸法畢竟空即是涅槃故又云以何義故名為菩提空義故是菩提頓教遣迹顯性空相俱泯淨名云得是平等無有餘病唯有空病空病亦空楞嚴云了知味性非空非有圓覺云有無俱遣是則名為淨覺隨順楞伽云智者不分別空及與不空自性無自性但唯是心量五法二無我自性心意識於佛種性中皆悉不可得四性體本無異空宗以一切諸法無性為體智論云從因緣生即無自性無自性故即畢竟空中論云以有空義故一切法得成涅槃云因緣故有無性故空頓教以寂滅靈知本性為體楞嚴云真淨妙心本來遍圓如是乃至大地草木蝡動含靈本元真如楞伽云云何本住法謂法本性如金等在鑛若佛出世若不出世法界法性皆悉常住圓覺云眾幻滅無處成道亦無得本性圓滿故故知性字雖同而其體各異也五認名認體異謂一切法皆有名體智度論云地水火風是四物名堅濕煖動是四物體今且以水言之水名也濕體也清濁凝流氷波功能也心性亦爾心名也知體也善惡止修迷悟功能也然濕一字貫彼清等萬義之處此之知體亦貫善等萬用之中。",
+        "translation": "For example, it's said that the cloud of pliancy isn't light, it's twisted, it's clear, it's salty, it's direct, it's said that the cloud of water isn't dry, it's clever, it's shown, and it's wet, it's a direct reference. The two talks about emptiness reveal nature differ from the emptiness school.",
+        "source": "X58n1024_004:0662b13_1",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "空宗為對初學及淺機恐隨言生執故但標心性之名而遮其非或廣以善等義用而引其意如舉水名或說清濁等用不指濕體彼愚鈍者亦但認名而迷其體例同楞嚴七處破心是也楞伽云如來應正等覺以性空實際涅槃不生無相無願等諸句義說如來藏如來以種種智慧方便善巧或說如來藏或說為無我種種名字各各差別金剛三昧云非義語者皆悉空無空無之言無言於義不言義者皆是妄語如義語者實空不空空實不實頓教乃對久學及上根令忘言認體故以一言直指當人現前見聞覺知之體令其認得體已方於體上照察真妄染淨義用一旦豁然莫不貫通如指濕體不舉水名及清等用彼利智者亦但認體而捨名用例同楞嚴十番顯見是也彼經須菩提言初在母胎即知空寂蒙如來發性覺真空頓入如來寶明空海同佛知見楞伽云大慧空無生無二離自性相普入一切修多羅凡所有經悉說此義諸修多羅悉隨眾生希望心故為分別說顯示其義而非真實在於言說如鹿渴想誑惑羣鹿鹿於彼相計著水性而彼無水如是一切修多羅所說諸法為令愚夫發歡喜故非實聖智在於言說法華云唯有一乘法無二亦無三除佛方便說但以假名字引導於眾生說佛智慧故。",
+        "translation": "The emptiness school is for beginners and the shallow fearing attachment to language, so it only labels the name of mind-nature and obscures what's wrong with it or extensively uses goodness and other functions to guide their thinking.",
+        "source": "X58n1024_004:0662c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七料揀性宗實教與一乘同教濫亦五差異一但即不但即異終教談理事相即頓教談理事相泯圓教不唯理事即泯自在而且事事即泯無礙法華云如來如實知見三界之相非實非虗非如非異故知實教但即無泯頓教但泯無即圓教泯即全具也二普融不普融異終則空有相即名為圓融頓則空有相泯亦名圓融然融處狹小猶未普遍圓則不唯具前二融亦且圓具即泯雙存即泯互奪存奪無礙三種圓融則此融處方名為普遍也故法華云此經甚深微妙諸經中寶是法華經藏深固幽遠無人能到涅槃云若苦非苦若有若無若實不實若真不真若滅不滅若二不二如是等種種法中有所疑者今應[言*恣]問我當隨順為汝斷之三真中非真中異空宗無相宗有終教存頓教絕皆偏於邊而非中也縱雙存兩絕名中亦非究竟後之圓教即空即有即存即絕非空非有非存非絕如是遮照同時方為純真第一圓融中道如楞嚴云即以此心中中流入圓妙開敷從真妙圓重發真妙一切妄想滅盡無餘中道純真法華云疑悔永已盡安住實智中於諸佛所受持佛智開示眾生令入其中涅槃云非虗非實斷一切實而亦是實非生非滅永斷生滅而亦是滅非相非非相斷一切相而亦是相四漸歷非漸歷異終教雖依如來藏性本覺大智名為相即而有斷證初後階降是漸歷非圓超也圓教依於諸法實相一切種智一攝一切一切入一因該果海果徹因源是圓超非漸歷也楞嚴云如是乃超信住行向加地等覺圓滿菩提歸無所得頌云銷我億劫顛倒想不歷僧祇獲法身如龍女於須臾頃便成正覺五攝末不攝末異終教依自一教義立為圓教末圓教攝前四教義立為終教本法華云如佛為諸法王此經亦復如是諸經中王涅槃云譬如眾流皆歸於海一切契經諸定三昧皆歸大乘大涅槃經何以故究竟善說有佛性故。",
+        "translation": "The seven categories of the nature of the true teaching and the One Vehicle teaching of the same conflation also have five differences: one, namely, not only is the principle different from the ultimate teaching, but the characteristic of the principle discussed in the sudden teaching is extinguished, and the characteristic of the principle is extinguished in the perfect teaching.",
+        "source": "X58n1024_004:0663a16_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "八料揀性宗一乘同教與一乘別教濫亦五差異一開顯直顯異同教開顯開前三乘之權顯今一乘之實法華云開方便門示真實相涅槃云譬如耕田秋耕為勝此經亦爾諸經中勝如諸藥中醍醐第一善治眾生熱惱亂心是大涅槃於諸經中為最第一別教直顯直顯一乘根本實義無有昔權可對說故華嚴云此法門名為演說如來根本實性不思議究竟法此法門唯為趣向大乘菩薩說唯為乘不思義乘菩薩說如日初出先照須彌山等諸大山王是則合共為同不共名別也二會歸流出異同教是會歸謂三乘咸會一乘九界同歸佛界法華云本聲聞人在虗空中說聲聞行今皆修行大乘空義涅槃云迦葉白言我今始知差別無差別義何以故一切菩薩聲聞緣覺皆當歸於大般涅槃譬如眾流歸於大海別教是流出謂若無一乘本法何有三乘末教如無海本不能流末華嚴云譬如大海潛流四天下地有穿鑿者無不得水攝論云無不從此法界流涅槃云譬如從牛出乳從乳出酪是則全收為同普揀為別也三廢立普容異同教廢立者廢昔轉照二三之麤味成立還照純一之妙味猶百川水入海皆醎法華云正直捨方便但說無上道十方佛土中唯有一乘法無二亦無三涅槃云迦葉是大涅槃即是諸佛甚深禪定如是禪定非是聲聞緣覺行處善男子是諸大乘方等經典雖復成就無量功德欲比是經不得為喻別教普容者謂一乘義量無不含容如海深廣包含無外故隨一滴具百川味如大乘同性經云所有聲聞法辟支法菩薩法諸佛法如是一切諸法皆悉流入毗盧遮那智藏大海華嚴普賢三昧品云能令一切國土所有微塵普能容受無邊法界妙嚴品云譬如虗空具含眾像此喻佛身遍含諸法頌云或有國土說一乘或二或三或四五如是乃至無有量此約說教該攝無盡是則泯二為同非泯為別也四圓融無盡異同教明圓融無常即常無我即我三一同源權實不二法華云觀一切法空如實相又復不行上中下法有為無為實不實法是法住位世相常住涅槃云譬如一火因所然故得種種名所謂木火草火糠火䴬火牛馬糞火善男子佛道亦爾一而無二為眾生故種種分別頌云諸佛常輭語為眾故說麤麤語及輭語皆歸第一義如來今所說種種無量法男女大小聞同獲第一義別教明無盡一一事義各各攝入十十法門重重主伴華嚴云若有無上心決定樂大事為示於佛身說無盡佛法欲具演說一句法阿僧祇劫無有盡而令文義各不同等是則類似名同不類名別也五性具性起異同教顯性具謂一切諸法即是性中本具非由外來若色若香無非中道或佛或生同一乘性如盤中百味藏內七寶暗室什物名園華果法華云無漏不思議甚深微妙法我今已具得十方佛亦然楞嚴云我與如來寶覺圓明真妙淨心無二圓滿而我昔遭無始妄想久在輪迴今得聖乘猶未究竟世尊諸妄一切圓滅獨妙真常佛告富樓那汝與眾生亦復如是寶覺真心各各圓滿涅槃經云一切眾生即是佛如窮子衣珠貧女舍寶等別教顯性起謂一切諸法全是性之所起法界性外更無別法故得塵塵交徹剎剎融通法法[牙-(必-心)+?]收事事即入如彼水之變波金之作器風竅為響彩畫成像圓覺云圓覺自性非性性有循諸性起善男子由彼妙覺性遍滿故根性塵性無壞無雜根塵無壞故如是乃至陀羅尼門無壞無雜如百千燈光照一室其光遍滿無壞無雜華嚴云百千億那由它不可說先住兜率宮諸菩薩眾以從超過三界法所生離諸煩惱行所生周遍無礙心所生甚深方便法所生無量廣大智所生堅固清淨信所增長不思議善根所生起阿僧祇善巧變化所成就供養佛心之所現無作法門之所印出過諸天諸供養具供養於佛以從波羅蜜所生一切寶葢於一切佛境界清淨解所生一切華帳無生法忍所生一切衣入金剛法無礙心所生一切鈴綱解一切法如幻心所生一切堅固香周遍一切佛境界如來座心所生一切佛眾寶妙座供養佛不懈心所生一切寶幢解諸法如夢歡喜心所生佛所住一切寶宮殿無著善根無生善根所生一切寶蓮華雲一切堅固香雲一切無邊色華雲一切種種色妙衣雲一切無邊清淨栴檀香雲一切妙莊嚴寶葢雲一切燒香雲一切妙鬘雲一切清淨莊嚴具雲皆遍法界出過諸天供養之具供養於佛頌云心如工畫師能畫諸世間五蘊悉從生無法而不造如心佛亦爾如佛眾生然應知佛與心體性皆無盡若人知心行普造諸世間是人則見佛了佛真實性若人欲了知三世一切佛應觀法界性一切唯心造如金色世界即是本性彌勒樓閣即是法門勝熱火聚即是妙智等前性具中猶通理事相本性具性相融通故後之性起唯局事事全性成相相如性融故具是事法即理事皆理具故起是事事攝入理隨事變故又具中無起葢內雖全具外猶未起故起必含具以外既全起內豈不具故則此三義初二稱理名同稱事名別次一一性名同異性名別統則共具名同性本同有唯一理故異起名別性自繁興成事事故餘如別說。",
+        "translation": "八料揀性宗一乘同教與一乘別教濫亦五差異一開顯直顯異同教開顯開前三乘之權顯今一乘之實法華云開方便門示真實相涅槃云譬如耕田秋耕為勝此經亦爾諸經中勝如諸藥中醍醐第一善治眾生熱惱亂心是大涅槃於諸經中為最第一別教直顯直顯一乘根本實義無有昔權可對說故華嚴云此法門名為演說如來根本實性不思議究竟法此法門唯為趣向大乘菩薩說唯為乘不思義乘菩薩說如日初出先照須彌山等諸大山王是則合共為同不共名別也二會歸流出異同教是會歸謂三乘咸會一乘九界同歸佛界法華云本聲聞人在虗空中說聲聞行今皆修行大乘空義涅槃云迦葉白言我今始知差別無差別義何以故一切菩薩聲聞緣覺皆當歸於大般涅槃譬如眾流歸於大海別教是流出謂若無一乘本法何有三乘末教如無海本不能流末華嚴云譬如大海潛流四天下地有穿鑿者無不得水攝論云無不從此法界流涅槃云譬如從牛出乳從乳出酪是則全收為同普揀為別也三廢立普容異同教廢立者廢昔轉照二三之麤味成立還照純一之妙味猶百川水入海皆醎法華云正直捨方便但說無上道十方佛土中唯有一乘法無二亦無三涅槃云迦葉是大涅槃即是諸佛甚深禪定如是禪定非是聲聞緣覺行處善男子是諸大乘方等經典雖復成就無量功德欲比是經不得為喻別教普容者謂一乘義量無不含容如海深廣包含無外故隨一滴具百川味如大乘同性經云所有聲聞法辟支法菩薩法諸佛法如是一切諸法皆悉流入毗盧遮那智藏大海華嚴普賢三昧品云能令一切國土所有微塵普能容受無邊法界妙嚴品云譬如虗空具含眾像此喻佛身遍含諸法頌云或有國土說一乘或二或三或四五如是乃至無有量此約說教該攝無盡是則泯二為同非泯為別也四圓融無盡異同教明圓融無常即常無我即我三一同源權實不二法華云觀一切法空如實相又復不行上中下法有為無為實不實法是法住位世相常住涅槃云譬如一火因所然故得種種名所謂木火草火糠火䴬火牛馬糞火善男子佛道亦爾一而無二為眾生故種種分別頌云諸佛常輭語為眾故說麤麤語及輭語皆歸第一義如來今所說種種無量法男女大小聞同獲第一義別教明無盡一一事義各各攝入十十法門重重主伴華嚴云若有無上心決定樂大事為示於佛身說無盡佛法欲具演說一句法阿僧祇劫無有盡而令文義各不同等是則類似名同不類名別也五性具性起異同教顯性具謂一切諸法即是性中本具非由外來若色若香無非中道或佛或生同一乘性如盤中百味藏內七寶暗室什物名園華果法華云無漏不思議甚深微妙法我今已具得十方佛亦然楞嚴云我與如來寶覺圓明真妙淨心無二圓滿而我昔遭無始妄想久在輪迴今得聖乘猶未究竟世尊諸妄一切圓滅獨妙真常佛告富樓那汝與眾生亦復如是寶覺真心各各圓滿涅槃經云一切眾生即是佛如窮子衣珠貧女舍寶等別教顯性起謂一切諸法全是性之所起法界性外更無別法故得塵塵交徹剎剎融通法法[牙-(必-心)+?]收事事即入如彼水之變波金之作器風竅為響彩畫成像圓覺云圓覺自性非性性有循諸性起善男子由彼妙覺性遍滿故根性塵性無壞無雜根塵無壞故如是乃至陀羅尼門無壞無雜如百千燈光照一室其光遍滿無壞無雜華嚴云百千億那由它不可說先住兜率宮諸菩薩眾以從超過三界法所生離諸煩惱行所生周遍無礙心所生甚深方便法所生無量廣大智所生堅固清淨信所增長不思議善根所生起阿僧祇善巧變化所成就供養佛心之所現無作法門之所印出過諸天諸供養具供養於佛以從波羅蜜所生一切寶葢於一切佛境界清淨解所生一切華帳無生法忍所生一切衣入金剛法無礙心所生一切鈴綱解一切法如幻心所生一切堅固香周遍一切佛境界如來座心所生一切佛眾寶妙座供養佛不懈心所生一切寶幢解諸法如夢歡喜心所生佛所住一切寶宮殿無著善根無生善根所生一切寶蓮華雲一切堅固香雲一切無邊色華雲一切種種色妙衣雲一切無邊清淨栴檀香雲一切妙莊嚴寶葢雲一切燒香雲一切妙鬘雲一切清淨莊嚴具雲皆遍法界出過諸天供養之具供養於佛頌云心如工畫師能畫諸世間五蘊悉從生無法而不造如心佛亦爾如佛眾生然應知佛與心體性皆無盡若人知心行普造諸世間是人則見佛了佛真實性若人欲了知三世一切佛應觀法界性一切唯心造如金色世界即是本性彌勒樓閣即是法門勝熱火聚即是妙智等前性具中猶通理事相本性具性相融通故後之性起唯局事事全性成相相如性融故具是事法即理事皆理具故起是事事攝入理隨事變故又具中無起葢內雖全具外猶未起故起必含具以外既全起內豈不具故則此三義初二稱理名同稱事名別次一一性名同異性名別統則共具名同性本同有唯一理故異起名別性自繁興成事事故餘如別說。",
+        "source": "X58n1024_004:0663c01_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "上約諸宗各別所據則互相違反若會釋者亦不相違謂一切諸法既皆真心緣起會緣無性還即凝然真心始不異本知外無智就機則三約法則一新薰成五本有無二若入理雙拂則三一兩亡若依佛化儀則能三能一教有偏圓同別之殊法無始終淺深之異是故競執是非違無違諍。",
+        "translation": "If the above-mentioned schools are based on distinct principles, then they are contradictory to each other, and if they are interpreted, they are not contradictory, meaning that all things are genuine, conditioned, arisen, conditioned, and non-natured, yet they are solid, genuine, and beginning, not different from the original knowing that there's no wisdom outside of the three that deals with the function, and the Dharma that's newly perfumed into five that has originally existed without duality.",
+        "source": "X58n1024_004:0664c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又此六宗可開可合合唯二門。",
+        "translation": "Furthermore, these six schools can be opened or combined, and there are only two ways to combine them.",
+        "source": "X58n1024_004:0664c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一合成五宗又四初義中一隨相法執二真空無相三唯識法相四藏心緣起五圓融具德此如起信圓覺疏說。",
+        "translation": "The first synthesis of the five schools is composed of four meanings: first, attachment to phenomena according to their characteristics, second, vacuum without characteristics, third, consciousness-only, characteristics of phenomena, fourth, the store-mind dependent arising, and fifth, perfect interpenetration with virtue, as explained in the Awakening of Faith and Perfect Enlightenment Commentary.",
+        "source": "X58n1024_004:0664c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二中一小乘法執二法相差別三相想俱絕四性相無礙五圓融具德此如華玄鈔說三義一小乘法執二空相差別三空相寂滅四緣起無礙五圓融無盡此則不違護身法師立五宗矣四中一隨相法執二空有差別三空有無礙四相想俱絕五法界圓融第二合成四宗亦二初義一小乘因緣二大乘法相三大乘無相四一乘法性則不違大衍立四宗矣二中一隨相法執二空有差別三性相無礙四圓融無盡開有六門第一開成七宗一隨相法執宗阿含緣生經者即小乘諸師二唯識法相宗方廣深密經者即此方慈恩教等三真空無相宗般若妙智經者如此方肇論師等四藏心緣起宗勝鬘瓔珞經者如此方南北諸師五真性寂滅宗楞伽圓覺經者如此方禪教六會歸圓融宗法華涅槃經者即此方天台教等七普融無盡宗華嚴經者如此方光統教等此亦不違耆闍立六宗矣第二開成八宗一我法俱有二無我因緣三因緣但名四唯識法相五真空無相六藏心緣起七真性寂滅八圓融無盡此亦如圓覺疏鈔說第三開成九宗又二初義前七如上八會歸圓融九法界無盡二義一我法俱有二法有我無三法無去來四現通假實五俗妄真實六諸法但名七真空無相八唯識法相九法性真實此則不違慈恩立八宗矣第四開成十宗亦三初中前六如上七一切皆空八真德不空九相想俱絕十圓明具德此如教義章說二中前六亦如上七三性空有八真空絕相九空有無礙十圓融具德此如華玄疏說。",
+        "translation": "In the second, the lesser vehicle adheres to two distinctions in the characteristics of things, three distinctions in the perceptions of things, three extinction of the perceptions of things, four lack of obstruction in the nature and five perfect interpenetration, as explained in the Huaxuan shou shu. In the fourth, the lesser vehicle adheres to two distinctions in the characteristics of things, three lack of obstruction in the perceptions of things, four lack of obstruction in the perceptions of things, and five perfect interpenetration in the Dharma realm.",
+        "source": "X58n1024_004:0664c24_2",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "三中前六亦如上七空有差別八性相無礙九相想俱絕十圓融無盡第五開成十一宗前六如上七唯識法相八真空無相九藏心緣起十真性寂滅十一法界圓融第六開成十二宗前十如上十一會歸圓融十二重重無盡今取其中故分為六宗也。",
+        "translation": "The first six of the three are also like the seven above, emptiness and existence are differentiated, the eight natures and characteristics are unobstructed, the nine characteristics and perceptions are all cut off, and the ten perfections are inexhaustible. The fifth initiates the Eleventh School, the first six are like the seven above, consciousness-only, Dharma-character, the eight vacuums and characteristics are formless, the nine store-mind conditional arising, the ten true natures are tranquil and extinct, and the eleven Dharma realms are perfected. The sixth initiates the Twelve School, the first ten are like the eleven above, and the twelve are collected and perfected.",
+        "source": "X58n1024_004:0665b02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問此之六宗何異五教而重辯耶。",
+        "translation": "Q: How are these six schools different from the five teachings and more debatable?",
+        "source": "X58n1024_004:0665b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答今此六宗對前五教[牙-(必-心)+?]有寬狹一宗容有多教一教容具多宗又宗則一宗容具多經隨何經中皆此宗故教則一經容有多教若局判一經以為一教則抑諸大乘矣。",
+        "translation": "A Now, these six schools are [tooth-(must-heart)+?] broad and narrow in comparison to the previous five teachings, in which one teaching accommodates multiple teachings and one teaching accommodates multiple teachings.",
+        "source": "X58n1024_004:0665b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問若各有通局何不得以宗為教以教為宗耶。",
+        "translation": "Q. If there are generalities, why can't we have a teaching that's the doctrine and a doctrine that's the doctrine?",
+        "source": "X58n1024_004:0665b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答立教分宗各有體式教約佛在世時說意權實有殊宗就佛滅度後人心崇重各別又立教必須斷證階位等異分宗但明所尚旨趣不同第二第三執法有異故開為二宗斷證位次不離三道故合為一教又初宗內二十部別宗可為六而斷證位不離八輩教則為一餘諸宗義如立教明故宗與教其旨自有別焉。",
+        "translation": "A. The tenets of the established teachings each have their own essence and style. The tenets were taught about the Buddha's time in the world, and their intentions were really differentiated.",
+        "source": "X58n1024_004:0665b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言三觀者一真空絕相觀二理事無礙觀三周遍含容觀。",
+        "translation": "The three contemplations are: first, the contemplation of vacuum and severing of characteristics, second, the contemplation of nonobstruction between principle and phenomena, and third, the contemplation of pervasive inclusion.",
+        "source": "X58n1024_004:0665b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中先方便開為十門。",
+        "translation": "In this first approach, ten aspects are opened.",
+        "source": "X58n1024_004:0665b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一具足外緣謂衣食處衣則蔽形食則支命處則捿身三緣不闕修道無難衣如糞掃三衣或畜百一及畜餘長食如頭陀行乞檀那送供處如蘭若空閑清淨伽藍等。",
+        "translation": "The first is the fulfillment of external conditions, which are clothing and food, clothing to cover one's form, food to support one's life, and food to support the body, the three conditions of cultivation without loss, such as the three garments of dung and sweat, or the one hundred and one animals and the remaining long food of animals, such as the ascetic practice of begging, the place where he sends offerings to the donor, such as the vacant, pure Kālāma of Ranjan.",
+        "source": "X58n1024_004:0665b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二懺除內障欲修觀行先當如法懺悔宿障宿障若除法界觀行從是安立如淨器中以諸湯水并雜灰香除去毒蜜後貯甘露又如淨衣汙諸垢膩必須浣淨方可染色然懺有二種一事二理事如方等佛名經等通於萬行理如淨名觀罪性空不在內外等普賢觀經及隨好品具二種懺觀經中明晝夜精勤禮十方佛即是事懺觀心無心從顛倒想起若欲懺悔者端坐念實相即是理懺隨好品中等眾生界數善身語意業悔除諸障即是事懺觀諸業性非十方來止住於心從顛倒生無有住處等即是理懺事懺除末理懺拔根。",
+        "translation": "Second, repentance removes internal hindrances. If you want to cultivate contemplation and practice, you must first repent of past hindrances and past obstacles in accordance with the Dharma.",
+        "source": "X58n1024_004:0665c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三發大心願經云於佛法中有二徤兒一者不作諸惡二者作已能悔又有二種白法滅除眾障一者慚自不作惡二者愧不令他作今既於三寶前生重慚愧發露先罪斷相續心已作者消除未起者不造障心若滅道心自發故懺障後次明發心發何等心所謂不發人天心聲聞辟支心權乘菩薩心唯依最上佛乘發阿耨菩提心願與法界眾生一時同得菩提此菩提心即是佛心若能發者定成種智若不發者終不能成譬如耕田不下種子既無其芽何處求實然發此心非止一遇應當數發令續不斷或因慈心或因恚心或因施心或因慳心或因歡喜或因煩惱或因恩愛別離或因怨憎會合或因善知識或因惡親友或因見佛或因聞法或由供養眾僧或以大悲救苦或佛菩薩教令發心或二乘人教令發心或學他發心或常自發心是故發心名根名枝名葉名花亦名果亦名子若依經論明發心相廣有多種起信明三心四便報恩明四心五事梵網十願十三誓華嚴十七明十種發心十八有十種清淨願四十發十種無邊心五十三發十種普賢心及十種發心因緣行願品十大願王淨行品百四十願皆顯發心相也若發此心疾成佛道故賢首品云若有菩薩初發心誓求當證佛菩提彼之功德無邊際不可稱量無與等等。",
+        "translation": "Third, he gives rise to the great vow. The sūtras say that in the Buddhist teaching there are two kinds of worthies: those who don't do evil and those who repent after doing evil. There are also two kinds of white dharmas that remove the many hindrances: those who conscientiously refrain from doing evil and those who conscientiously refrain from causing others to do evil.",
+        "source": "X58n1024_004:0665c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四受持佛戒謂既發大心須修勝行若不修行願為虗設故願之與行如鳥翼車輪具足方能翔空致遠然萬行中戒禁居先成就定慧律儀當首經云依因此戒律得生諸定慧尸羅不清淨三昧不現前是故願後應先淨戒戒有在家出家在家則三歸五戒八關十善出家則聲聞小戒菩薩大戒更有薩婆多說三戒大智度列十戒涅槃明五支地持出三聚華嚴顯十無盡戒藏廣則三千威儀八萬細行略唯行止二門故戒經云一切惡莫作當奉行諸善自淨其志意是則諸佛教能敬此者佛法熾盛結使滅除能信此者心地清淨法身顯現能受持者即入佛位能聽誦者福慧頓足故四分云有智勤護戒便得第一道華嚴云戒是無上菩提本梵網云微塵菩薩眾由是成正覺。",
+        "translation": "The fourth aspect of accepting the Buddha's precepts is that having aroused the great intention, one must cultivate resolute practice. If one doesn't cultivate practice, the vow is empty; therefore, the vow and its practice are like the wings of a bird, the wheels of a chariot are complete before one can fly through the sky and reach far away.",
+        "source": "X58n1024_004:0666a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五造修勝行修行有二一始二終先始有三門。",
+        "translation": "There are two ways to cultivate the five excellent practices, one at the beginning and two at the end.",
+        "source": "X58n1024_004:0666b02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初捨緣門義開為六一捨惡業五根緣塵生五欲身作惡業也意識亂想起五葢心作惡業也今則外訶五欲內棄五葢名為捨作惡業二捨親友在家者親戚朋友出家者門徒知識皆不追尋往還斷絕眷屬尚爾況於惡律邪見人等樂親近耶三捨名利貪名聞則習學詩文問答今古貪利養則資治生業工巧技能今也息學問事棄生活緣屏技術務即名為捨名利事也四捨身命大患莫若於有身是故身為苦本況此身中一切皆是不淨之物口出唾鼻出涕眼出眵淚耳出垢膩大小便出屎尿身臭如死尸袋惟盛膿血赤白痰癊甚可厭惡生熟二藏雜穢充滿脾腎心肺肝膽膓胃一一皆有微細諸蟲所謂黑蟲毛蟲熱蟲臭蟲乃至八萬四千戶蟲更有大蟯蛔蟲窟穴身中誰有智慧者而樂著此身愚人不知猶如廁蟲樂糞無異是故當忘身以求道莫為身而結業五捨心念由汝念慮使汝色身種種取像與念相應故捨外身不捨內念未為捨也昔來所有自他人法是非好惡種種亂識雜思邪計妄想皆悉遣除以念遣念念不可得以心除心心亦不生無念無心名捨心念六捨此捨上五緣所治妄病也此捨法能治真藥也五緣既絕此捨亦忘其猶病起藥興病差藥廢能所無寄名捨捨也。",
+        "translation": "First, the meaning of the gate of equanimity is opened up into six: first, equanimity from bad karma, the five sense faculties, the five desires that arise from the condition of dust, bad karma created by the body, and bad karma created by the mind when the five desires are distracted by the mind, and bad karma created by the mind. Second, equanimity from friends and relatives, friends, renunciants, disciples, and friends who don't pursue return, sever dependents, and so forth, how could it be that people who follow bad laws and mistaken views are happy to be close to them? Third, equanimity from fame and profit, greed for fame and learning, study, poetry, literature, questions, answers, present and ancient, greed for profit and nurturing, and the cultivation of skills and dexterity.",
+        "source": "X58n1024_004:0666b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二隨緣門義開為四一隨捨緣謂還隨前六事而守心不染著。",
+        "translation": "The second aspect of following conditions is delineated into four. 1. Following the condition of equanimity means to return to the six previous conditions and guard the mind from defiled attachment.",
+        "source": "X58n1024_004:0666c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二隨作緣謂凡所作所行遠離巧偽虗乏乃至一念亦不令有對彼捨門此作亦有六重。",
+        "translation": "Second, the condition of following actions means that whatever is done and performed is free of skillful, counterfeit, and empty ... even a single thought doesn't cause it to exist.",
+        "source": "X58n1024_004:0666c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一具五法門謂欲進念定慧身口樂慕精勤誦念決志善得於法界止觀身行善業也意識欣習匪懈想念一心巧便於法界止觀心行善業也二近善知識有三一外護善知識經營供養善能將護不相惱亂。",
+        "translation": "The first is the fivefold approach of wanting to advance mindfulness, concentration, wisdom, body, speech, enjoyment, diligence, recitation, determination, and good intentions, as well as the mind's desire to cultivate good behavior in the Dharma realm, stopping and observing body and mind, and the mind's desire to cultivate good behavior without laxity and single-mindedly skillfully facilitating the stopping and observing of the Dharma realm and the mind's good behavior.",
+        "source": "X58n1024_004:0666c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二同行善知識共修一道互相勸發增進無退三教授善知識能以禪觀正助法門示教利喜三求學佛法求佛有七一恭敬求三業虔懇也二無相求離能所相也三起用求身心遍求也四內觀求內求自佛也五實相求內外一相也六大悲求普為眾生也七無盡求帝網重重也學法有五一讀二誦三持四念五解也若不求佛多諸魔障善根不發若不學法不明止觀道亦不進四調和身息未坐禪前先調食睡調食不饑不飽調睡不節不恣既坐禪後應調身息調身不急不寬調息不澁不滑身息若調次當閉口唇齒相拄舌向上齶眼斷外光無令全開正直端坐切勿搖動五攝伏心意有二一者不令心意馳散若馳散者即當攝來住於正念是正念者當知唯心無外境界心散不正得定無由是故令觀與理相應二者調令浮沉得所若心沈時舉心向上繫念鼻端若心浮時安心放下繫緣臍中若能調適心自安靜障患不生定道可尅六作此作上五門所起行影也此作法能起心鏡也五門既開此作亦立其猶鏡去影藏鏡懸影現能所全彰名作作也三隨順緣謂凡於順情境下至微少順處皆應覺知不可染受設有利譽稱樂境來當觀法本無生唯心所現自然忍而不喜若此輭賊不離三昧亦不現前四隨違緣謂一切違情境乃至斷命等怨皆應守心歡喜忍受設有衰毀譏苦境來當觀三輪體空唯一法界自然忍而不瞋若此強賊不離聖智何以現前。",
+        "translation": "Second, they walk with good friends who cultivate the same path and encourage each other to advance and not retreat. Third, they teach good friends who can show and teach the benefits and joys of correctly assisting the Dharma through meditation and contemplation.",
+        "source": "X58n1024_004:0666c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三成行門謂得前二門成萬行也一成普賢十大願行諸未起者策發令起已起行者持令不退二成六度四無量行以前二門自度度他至無上覺也。",
+        "translation": "The three approaches to accomplishing practice are to attain the first two approaches to accomplishing myriad practices, one to accomplish the ten great vows of Samantabhadra, to motivate those who haven't yet arisen to undertake them, and to maintain those who have already undertaken them so that they don't retreat, and the second to accomplish the six perfections and four immeasurable practices.",
+        "source": "X58n1024_004:0667a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後終亦三門初捨緣門即止行唯觀諸法平等一相諸緣皆絕也二隨緣門即觀行還就事中起諸大悲大願等行也三成行門即止觀俱行雙融無礙成無住行真俗境不殊悲智心不別以法界門內無二相故平等性中唯一味故起信云雖念諸法自性不生而即復念因緣和合業報不失雖念因緣善惡業報而復即念性不可得以是義故是止觀門共相助成不相捨離若不雙具則無能入菩提之道。",
+        "translation": "The last are also three approaches. The first is the approach of detachment from conditions, which is to stop and practice only observing the equality of all things in their single aspect and the severance of all conditions. The second is the approach of following conditions, which is to observe and practice and return to the things that give rise to such practices as the great compassion and great vows. The third is the approach of accomplishing practices, which is to stop and observe both practices and become unobstructed in the practice of nonabidingness, true and secular realms are not distinct, and the mind of compassion and wisdom are not separate because there are no two characteristics within the aspect of the Dharma realm, so equality is the only taste in it.",
+        "source": "X58n1024_004:0667a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六詳明心境方便助行既成應須揀正修中若境若智若止若觀若正若邪若因若果設不預知修時錯亂砂饌金器事可徵也今先明境即以一真法界心為境但在纏時名性淨法界為所信境出纏時名最淨法界為所證境體即現前知見雖非心非境非佛非生而心境佛生一以貫之法界究竟是故此法界心能攝一切世間出世間法。",
+        "translation": "Sixth, we will explain in detail the mind and its objects, which are the auxiliary practices that have been accomplished and should be correctly cultivated, including whether it's object, knowledge, cessation, contemplation, correct, wrong, cause, or effect, if we don't know in advance when we're cultivating them, and the confusion in the sand, food, and gold vessels that can be identified.",
+        "source": "X58n1024_004:0667a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以義開有三法界一事二理三無礙華嚴疏云統唯一真法界謂寂寥虗曠冲深包博總該萬有即是一心體絕有無相非生滅莫尋其始寧見中邊迷之則生死無窮解之則廓爾大悟諸佛證此妙覺圓明現成菩提為物開示不知何以名目強分理事二門而理事渾融無有障礙略為三門第一事法界第二理法界第三無障礙法界第一事法界者不出色心萬象森羅依正境智相用顯然皆曰事也第二理法界者體性空寂頓絕百非略有二門一性淨門在纏不染性恒清淨雖遍一切不同一切如濕之性遍於動靜凝流不易清淨恒常二離垢門謂由對治障盡淨顯隨位淺深分十真如體雖湛然隨緣有異如陶冶塵滓鍊磨真金第三無障礙法界者略有三門。",
+        "translation": "If the meaning discloses that there are three realms, one is one-pointed, two are principle-based, and three are unobstructed, Huayan's Commentary says that the unified whole true Dharma realm is the quiescent, vast, deep, inclusive, and comprehensive one that includes all things, which is the essence of the one mind, which is absolutely free from existence and nonexistence, not arising and ceasing, and whose beginning cannot be traced.",
+        "source": "X58n1024_004:0667b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一相即無礙門二形奪無寄門三雙融俱離性相渾然門。",
+        "translation": "The first is the aspect of unobstructed characteristics, the second is the aspect of unassociated form, and the third is the approach of both fused and free nature and characteristics being perfectly natural.",
+        "source": "X58n1024_004:0667b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今初相即無礙門者一法界心含真如生滅二門[牙-(必-心)+?]相交徹不壞性相其猶攝水之波非靜攝波之水非動故二形奪無寄門者謂無事非理故事非事也無理非事故理非理也三融離渾然門者曲有十門。",
+        "translation": "The first is the unobstructed gate of characteristics, which is the two gates of arising and ceasing in one realm of reality and mind containing true reality [tooth-(must-heart)+?] intersecting and indestructible nature and characteristics, which is like the wave that collects water that isn't still and the water that collects waves that aren't moving.",
+        "source": "X58n1024_004:0667b17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一由離相故事壞而即理二由離性故理泯而即事。",
+        "translation": "One is by avoiding the decay of the story of characteristics, which is the principle; two is by avoiding the nature, which is why the principle disappears and which is the matter.",
+        "source": "X58n1024_004:0667b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三由離相不壞相故事即理而事存以非事為事也。",
+        "translation": "Three, by avoiding characteristics and not destroying characteristics, stories are the principle, and things remain as things that aren't things.",
+        "source": "X58n1024_004:0667b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四由離性不泯性故理即事而理存以非理為理也。",
+        "translation": "Four, because the nature of seclusion doesn't disappear, the principle is the matter and the principle exists because it's not the principle.",
+        "source": "X58n1024_004:0667b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五由離相不異離性故事理雙奪逈超言念六由不壞不異不泯故有初事理二界俱存現前爛然可見七由不壞不泯不異離相離性故為一事理無礙法界使超視聽之妙法無不恒通於見聞絕思議之深義未曾礙於言念八由以理融事令無分齊如理之遍一入一切如理之包一切入一故緣起之法一一各攝法界無盡九由因果法界各全攝故令普賢身中佛佛無盡佛毛孔內菩薩重重十由因本法界差別之法無不恒攝法界無遺故隨一一門一一行位各攝重重故廣剎大身輕塵毛孔皆無有盡以其後一總融前九為第三渾融門也亦融前二不離此門眾生稟教者根性有利鈍悟入有淺深致令一心開為五種一人天二乘教中假說一心實有外境二始教有二初相宗以異熟賴耶為一心遮無外境然有三類一相見俱存名一心二攝相歸見名一心三攝所歸王名一心此宗與前教俱唯事法界也次空宗以無相為一心不唯境空內心亦空以其照見五蘊皆空無有界處入等法故此則唯明理法界也三終教即以如來藏藏識名為一心此亦有二一攝七識浪歸藏識海故說一心二總攝染淨歸如來藏故說一心此則兼通無障礙法界中相即門及渾然門內二三六門并七分也四頓教以泯絕染淨寂滅無寄性為一心此則兼通無障礙法界中形奪門及渾然門內一四五門并七分也五圓教總該萬有事事無礙故說一心即是無障礙法界心也亦有三類一融事相入故說一心二融事相即故說一心三帝網無盡故說一心此即全通無障礙法界渾然中後三門也。",
+        "translation": "Because it's not destroyed, not lost, and not different from the nature of things, the story and principle are both seized and transcended by language and mindfulness.",
+        "source": "X58n1024_004:0667b24_0",
+        "is_bad_quality": true
+    },
+    {
+        "source_sentence": "△將此五心略為二境一倒境謂凡愚情計之境空有二相相違等即人天二乘教事識心也二真境謂聖智所得之境有二一三乘境謂空有不二融通等即三乘始終頓教藏識心也二一乘境謂無盡緣起具德圓融等即一乘圓教法界心也。",
+        "translation": "△These five states of mind are briefly divided into two realms: a mistaken realm that refers to the realm of ordinary foolish conceptualization, which is the contradiction between the two aspects of emptiness and existence, and so forth, which is the consciousness mind of the two-vehicle teaching of humans and gods; a true realm that refers to the realm obtained by noble cognition, which has two; a three-vehicle realm that refers to the nondual interpenetration of emptiness and existence, and so forth, which is the consciousness mind of the sudden teaching of the beginning and end of the three-vehicle; and a two one-vehicle realm that refers to the inexhaustible conditioned arising, the full integration of virtues, and so forth, which is the mind of the Dharma realm of the perfect teaching of the one-vehicle.",
+        "source": "X58n1024_004:0668a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "△若捨末取本唯觀後境若攝末歸本二境全觀若本末圓融二三境中隨一即得全收法界具足無礙楞伽云真如空實際涅槃及法界種種意成身我說是心量。",
+        "translation": "If he discards the derivative and takes the original, he'll only observe the latter object, or if he collects the derivative and returns it to the original, he'll observe both objects in full, or if he integrates the derivative and the two or three objects, then he'll attain the full inclusion of the Dharma realm in one, complete and unobstructed as described by Laṅkâvatāra, the true thusness, emptiness, actuality, nirvāṇa, and the Dharma realm in all its forms.",
+        "source": "X58n1024_004:0668a07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以現前一念知見心中當體具足百萬性相即空即即即遍非一非多而多而一今依性有觀境起彼緣修觀境故即立此法界心以為所緣境華嚴七十一云我以饒益一切眾生集諸善根助道法時作十種觀察法界所謂我知法界無量獲得廣大智光明故我知法界無邊見一切佛所知見故我知法界無限普入一切諸佛國土恭敬供養諸如來故我知法界無畔普於一切法界海中示現修行菩薩行故我知法界無斷入於如來不斷智故我知法界一性如來一音一切眾生無不了故我知法界性淨了如來願普度一切諸眾生故我知法界遍眾生普賢妙行悉周遍故我知法界一莊嚴普賢妙行普莊嚴故我知法界不可壞一切智善根充滿法界不可壞故善男子我作此十種觀察法界時了知諸佛廣大威德深入如來難思境界五十九云菩薩摩訶薩坐道場時入三昧名觀察法界此三昧力能令菩薩一切諸行悉得圓滿則知因地果位皆用法界性也。",
+        "translation": "Therefore, when I presently know and see with a single thought in mind that the essence of the mind is fully proportioned to millions of natures, that is, emptiness, that is, and pervasiveness, not one, not many, but many and one, now I rely on the fact that the nature has an observing object to give rise to that object as a condition for cultivating the observing object, so I establish this mind of the Dharma realm as the object of that condition. Huayan 71 says that when I gather all sentient beings with good roots to aid in the path, I make ten kinds of observations of the Dharma realm.",
+        "source": "X58n1024_004:0668a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賢首五教儀卷第四",
+        "translation": "Xianshou wujiaoyi roll 4",
+        "source": "X58n1024_004:0668b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "音釋",
+        "translation": "interpretation of sounds",
+        "source": "X58n1024_004:0668b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "婆沙(此云廣解亦云種種說分分說)。",
+        "translation": "\"Vibhāṣā (this is called the extensive explanation and also the various explanations in parts).",
+        "source": "X58n1024_004:0668b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俱舍(此翻藏即包含攝持義)。",
+        "translation": "kuśa (this transliteration of the term tripiṭaka includes the meaning of taking in and maintaining).",
+        "source": "X58n1024_004:0668b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "犢(音讀小牛也)。",
+        "translation": "Vātsī (pronounced calf).",
+        "source": "X58n1024_004:0668b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "薩婆多(此云說一切有)。",
+        "translation": "*Sarvâstivāda (here it's called explaining everything that exists).",
+        "source": "X58n1024_004:0668b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勒沙婆(此云苦行或翻無慚)。",
+        "translation": "Rāṣṭrapāla (here translated as austerities or shamelessness).",
+        "source": "X58n1024_004:0668b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若提子(此翻邪命亦云親友又云邪見)。",
+        "translation": "Jñātīputrīya (this translates as wrong livelihood, also called friend or relative, and wrong view).",
+        "source": "X58n1024_004:0668b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "提婆(此云天龍樹弟子也)。",
+        "translation": "Deva (here, it's called the disciple of the divine dragon tree).",
+        "source": "X58n1024_004:0668b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蝡(音輭虫動貌)。",
+        "translation": "He stands (sounds like insects moving).",
+        "source": "X58n1024_004:0668b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "䴬(音弋麥䴬)。",
+        "translation": "䴬 (sounds like wheat).",
+        "source": "X58n1024_004:0668b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "富樓那(此云滿願)。",
+        "translation": "Pūrṇa (here called \"fulfillment of a vow\").",
+        "source": "X58n1024_004:0668b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "[牙-(必-心)+?](音護與互同交互也)。",
+        "translation": "[tooth-(must-heart)+?] (sounding like guard and mutual interaction).",
+        "source": "X58n1024_004:0668b11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "肇(音紹僧肇論也)。",
+        "translation": "Zhao (also known as the Saṃsāṃghâvaśeṣa-śāstra treatise).",
+        "source": "X58n1024_004:0668b11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頭陀(此云抖擻抖擻煩惱故)。",
+        "translation": "Daṇḍa (here it's called \"shake off\" and \"shake off\" the afflictions).",
+        "source": "X58n1024_004:0668b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蘭若(翻閑靜處又云遠離處)。",
+        "translation": "Lanruo (also called a place of quietude and a place of detachment).",
+        "source": "X58n1024_004:0668b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "伽藍(譯為眾園)。",
+        "translation": "Kālāma (translated as the garden of the many).",
+        "source": "X58n1024_004:0668b12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "浣(音緩洗也)。",
+        "translation": "Rinsing (also called slow washing).",
+        "source": "X58n1024_004:0668b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "技(音忌藝也)。",
+        "translation": "Skill (also called jealousy).",
+        "source": "X58n1024_004:0668b12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眵(音侈目汁凝也)。",
+        "translation": "Mucous (also called lazy eye juice).",
+        "source": "X58n1024_004:0668b12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蟯(音饒腹中短虫)。",
+        "translation": "Rang (pronounced rao, a short worm in the belly).",
+        "source": "X58n1024_004:0668b13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "拄(音主牚也支也)。",
+        "translation": "The palate (pronounced crocodile-like).",
+        "source": "X58n1024_004:0668b13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "齶(音鱷寉齗也齒內上下肉也)。",
+        "translation": "Palate (pronounced crocodile, also known as the flesh above and below the teeth).",
+        "source": "X58n1024_004:0668b13_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "滓(音子澱也濁也)。",
+        "translation": "Dredge (pronounced \"starch\"; also, turbidity).",
+        "source": "X58n1024_004:0668b13_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(賢首五教儀第四卷伏願",
+        "translation": "(Good Shepherd's Fivefold Teachings, Vol. 4, the Vow of Alleviation",
+        "source": "X58n1024_004:0668b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "開六宗不盡之教乘融通二諦鑒三觀無邊之理事會入一真現世之內福壽齊增他報之中定慧均足)。",
+        "translation": "Opening the six schools, the inexhaustible vehicle of the teaching, the interpenetration of the two truths, the three contemplations, the limitless principle, and the convergence into the one true present life, the equal increase in merit and longevity, the equal fulfillment of concentration and wisdom in the midst of other rewards.'')",
+        "source": "X58n1024_004:0668b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "(慈雲觀堂識)",
+        "translation": "(Ciyun guantang shi)",
+        "source": "X58n1024_004:0668b19_0",
+        "is_bad_quality": false
+    }
+]

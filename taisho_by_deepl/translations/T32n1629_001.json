@@ -1,0 +1,4946 @@
+[
+    {
+        "source_sentence": "因明正理門論一卷",
+        "translation": "Nyāyamukha",
+        "source": "T32n1629_001:0006a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大域龍菩薩造",
+        "translation": "Dignāga-nyūga-bodhisattva",
+        "source": "T32n1629_001:0006a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大唐三藏法師義淨奉　制譯",
+        "translation": "Translated by the Tripiṭaka Master Yijing of the Great Tang",
+        "source": "T32n1629_001:0006a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The treatise says.",
+        "source": "T32n1629_001:0006a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲簡持能立能破義中真實故造斯論。",
+        "translation": "\"I created this treatise in order to explain the truth in terms of what can be posited and what can be refuted.",
+        "source": "T32n1629_001:0006a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0006a16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　宗等多言說能立　　是中唯隨自意樂　為所成立說名宗　　非彼相違義能遣論曰。",
+        "translation": "'A tenet and so forth that many things are said to be capable of being posited which are only based on one's own intention is called a tenet for the purpose of positing a meaning that's not contradictory to that which can be rejected.'",
+        "source": "T32n1629_001:0006a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能立過義印真實義。",
+        "translation": "'A false meaning that can be posited implies a true and real meaning.'",
+        "source": "T32n1629_001:0006a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此論今作宗等多言說能立。",
+        "translation": "This is a treatise that now makes a doctrine and so forth that many things are said to be capable of being posited.",
+        "source": "T32n1629_001:0006a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等此言為顯由緒所詮所為。",
+        "translation": "Such statements are indicative of what's explained and what's done by readiness.",
+        "source": "T32n1629_001:0006a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言由緒者。",
+        "translation": "\"By being ready, it's for the benefit of sentient beings and so forth.",
+        "source": "T32n1629_001:0006a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為由利益諸有情等。",
+        "translation": "It's for the benefit of sentient beings and so forth.",
+        "source": "T32n1629_001:0006a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為緣緒故。",
+        "translation": "It's because of the readiness of the condition.",
+        "source": "T32n1629_001:0006a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言所詮者。",
+        "translation": "\"Explained\" means that the meaning of what's explained is the doctrine and so forth.",
+        "source": "T32n1629_001:0006a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂所詮義即宗等也。",
+        "translation": "It means that the meaning of what's being explained is the doctrine and so forth.",
+        "source": "T32n1629_001:0006a22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所為事者。",
+        "translation": "\"The thing that's done is this.",
+        "source": "T32n1629_001:0006a22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲印定實義故也。",
+        "translation": "It's for the purpose of confirming the true meaning.",
+        "source": "T32n1629_001:0006a22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若其為顯由緒等果。",
+        "translation": "If it's for the purpose of showing the result of readings and so forth.",
+        "source": "T32n1629_001:0006a23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此論初置斯言者。",
+        "translation": "This is what was said at the beginning of this discourse.",
+        "source": "T32n1629_001:0006a23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由於餘處已顯此義故。",
+        "translation": "It's because this meaning has already been revealed elsewhere.",
+        "source": "T32n1629_001:0006a24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶如現量。",
+        "translation": "It's just like the present reckoning.",
+        "source": "T32n1629_001:0006a24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何謂餘顯解論後時由此於初不應說故。",
+        "translation": "Why is it that when the rest of the explanation is expressed later in the treatise, it shouldn't be explained at the beginning?",
+        "source": "T32n1629_001:0006a25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾非論分故。",
+        "translation": "If that's the case, it's not part of the treatise.",
+        "source": "T32n1629_001:0006a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶若餘言由於餘處已顯此義。",
+        "translation": "It's like saying that this meaning has already been revealed in other places.",
+        "source": "T32n1629_001:0006a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此因不成。",
+        "translation": "This cause is not valid.",
+        "source": "T32n1629_001:0006a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "解論後時方曉義者。",
+        "translation": "Those who understand the meaning only when it's revealed later in the explanation of the treatise.",
+        "source": "T32n1629_001:0006a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "覺慧先聞於由緒等。",
+        "translation": "It's because awareness and wisdom are first heard, such as in the beginning.",
+        "source": "T32n1629_001:0006a27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不了知初便不轉。",
+        "translation": "If he doesn't understand it at first, then he won't change it.",
+        "source": "T32n1629_001:0006a28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由斯解故方契後時非論分故。",
+        "translation": "Because of this understanding, it's then possible to understand the later part of the treatise that's not the treatise.",
+        "source": "T32n1629_001:0006a28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦不成。",
+        "translation": "This is also unproved.",
+        "source": "T32n1629_001:0006a29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "設如斯意既非經故復非其釋必非支分。",
+        "translation": "Suppose this means that since it's not a sūtra, then it's not an interpretation that must not be a part of the interpretation.",
+        "source": "T32n1629_001:0006a29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誰釋此經誰經此釋。",
+        "translation": "Who's interpreting this sūtra and who's interpreting this sūtra?",
+        "source": "T32n1629_001:0006b01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故當知。",
+        "translation": "Therefore, you should know this.",
+        "source": "T32n1629_001:0006b02_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如天授語非其支分。",
+        "translation": "'As the teaching from heaven is not a part of it, so the explanation from the treatise is not a part of it.'",
+        "source": "T32n1629_001:0006b02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸論由緒亦成分故。",
+        "translation": "It's because the treatises are based on the threads and components.",
+        "source": "T32n1629_001:0006b02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此因有故遠離非成。",
+        "translation": "Because this cause exists, it's remote from non-accomplishment.",
+        "source": "T32n1629_001:0006b03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘復難言勿造斯論無由緒等故。",
+        "translation": "It's difficult for others to say don't create such a treatise because it doesn't have a thread.",
+        "source": "T32n1629_001:0006b03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如狂人言為顯此因不成。",
+        "translation": "As a madman would say, it's to show that this cause isn't established.",
+        "source": "T32n1629_001:0006b04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "答曰。",
+        "translation": "They replied.",
+        "source": "T32n1629_001:0006b05_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂能立能過義等。",
+        "translation": "It's called something that establishes the meaning of [something] being able to escape.'",
+        "source": "T32n1629_001:0006b05_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言如是勿造斯論。",
+        "translation": "If you say 'thus, don't create this argument,' then the explanation has already revealed its meaning.",
+        "source": "T32n1629_001:0006b05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "述已顯義故。",
+        "translation": "It's because the explanation has already revealed the meaning.",
+        "source": "T32n1629_001:0006b06_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如第二理門惡叉波拕已說宗等相。",
+        "translation": "As in the second gate of principle, Aśvakarṇa has already explained the doctrine and other aspects.",
+        "source": "T32n1629_001:0006b06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此因彼言顯不成故。",
+        "translation": "This is because their words don't make it clear.",
+        "source": "T32n1629_001:0006b07_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈非能立等有印實義。",
+        "translation": "Isn't it true that such things as the formulation of a subject have a meaning that's implied?",
+        "source": "T32n1629_001:0006b07_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此論等不印實義故不成過。",
+        "translation": "However, this treatise and others don't seal the real meaning and therefore aren't valid.",
+        "source": "T32n1629_001:0006b08_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上來已辯論主標宗。",
+        "translation": "We've already discussed the subject's labeling of the tenets.",
+        "source": "T32n1629_001:0006b08_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自下本文隨次當釋。",
+        "translation": "From here on, this article will explain it in turn.",
+        "source": "T32n1629_001:0006b09_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "宗等多言說能立者。",
+        "translation": "\"A tenet and so forth are explained in many words as being capable of being posited.",
+        "source": "T32n1629_001:0006b09_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由宗因喻多言辯說。",
+        "translation": "It's because the thesis is based on a metaphor that's eloquent in many words.",
+        "source": "T32n1629_001:0006b10_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "他未了義為開示故。",
+        "translation": "It's because it's an explanation of a meaning that hasn't been fully understood by others.",
+        "source": "T32n1629_001:0006b10_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此之多言於論式等說名能立。",
+        "translation": "These many statements are called tenable when they're explained in terms of a syllogism or formula.",
+        "source": "T32n1629_001:0006b11_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又以一言說能立者。",
+        "translation": "\"Also, those who say it's capable of being posited in a single word.",
+        "source": "T32n1629_001:0006b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為顯總成一能立性。",
+        "translation": "It's to show that the totality of things is formed by the single opposability of words.",
+        "source": "T32n1629_001:0006b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此應知。",
+        "translation": "This should explain why.",
+        "source": "T32n1629_001:0006b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨有所闕名能立過。",
+        "translation": "Whatever is missing, it's called a fallacy that can be posited.",
+        "source": "T32n1629_001:0006b13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言是中者起論端義或簡持義。",
+        "translation": "When someone says this is the middle, it gives rise to the sense of the end of the treatise or the sense of a brief statement.",
+        "source": "T32n1629_001:0006b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是宗等中故名是中。",
+        "translation": "It's the middle of a school and so forth, so it's called the middle.",
+        "source": "T32n1629_001:0006b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言唯者。",
+        "translation": "The only thing that's said is ...",
+        "source": "T32n1629_001:0006b14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是簡別義。",
+        "translation": "It's a simple and specific meaning.",
+        "source": "T32n1629_001:0006b15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨自意顯。",
+        "translation": "It's expressed according to one's own mind.",
+        "source": "T32n1629_001:0006b15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不顧論宗隨自意立。",
+        "translation": "It's established according to one's own mind regardless of the thesis.",
+        "source": "T32n1629_001:0006b15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂為所立。",
+        "translation": "It's posited by delighting in it.",
+        "source": "T32n1629_001:0006b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂不樂為能成立性。",
+        "translation": "It means that displeasure is the nature of what can be posited.",
+        "source": "T32n1629_001:0006b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若異此者。",
+        "translation": "If it's different from this, then...",
+        "source": "T32n1629_001:0006b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說所成立。",
+        "translation": "It's said to be established.",
+        "source": "T32n1629_001:0006b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "似因似喻應亦名宗。",
+        "translation": "Pseudo-cause and pseudo-parable should also be called a proposition.",
+        "source": "T32n1629_001:0006b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為顯離餘立宗過失故。",
+        "translation": "That's because it shows that it's free from the faults of the other propositions.",
+        "source": "T32n1629_001:0006b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言非彼相違義能遣。",
+        "translation": "It's not that the contradictory meaning of the term can be rejected.",
+        "source": "T32n1629_001:0006b18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若非違義言聲所遣。",
+        "translation": "If it's not repelled by words and sounds that contradict their meaning, then it's a false statement.",
+        "source": "T32n1629_001:0006b18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如立一切言皆是妄。",
+        "translation": "As it is, all the words that are posited are false.",
+        "source": "T32n1629_001:0006b19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或先所立宗義相違。",
+        "translation": "Perhaps the meaning of a previously established doctrine is contradictory.",
+        "source": "T32n1629_001:0006b19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如獯狐子立聲為常。",
+        "translation": "It's like when a fox-like child posits that sound is permanent.",
+        "source": "T32n1629_001:0006b20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又若於中由不共故無有比量為極成言相違義遣。",
+        "translation": "Furthermore, if there's no contradiction in the meaning of the ultimate truth because it's not shared, then it's repelled by contradictory speech.",
+        "source": "T32n1629_001:0006b20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說懷兔非月有故。",
+        "translation": "It's like saying that the rabbit in his arms isn't possessed by the moon.",
+        "source": "T32n1629_001:0006b21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於有法即彼所立為此極成現量比量相違義遣。",
+        "translation": "Furthermore, in the case where there's a dharma that's established there, it's a rejection of the meaning of contradicting the ultimate accomplishment of direct perception and inference.",
+        "source": "T32n1629_001:0006b22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有成立聲非所聞瓶是常等。",
+        "translation": "For example, there's the claim that a sound that's not heard is permanent, and so forth.",
+        "source": "T32n1629_001:0006b23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有說言。",
+        "translation": "There are explanations that say.",
+        "source": "T32n1629_001:0006b24_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "宗因相違名宗違者。",
+        "translation": "'The difference between the proposition and the cause is called a contradiction of the proposition.'",
+        "source": "T32n1629_001:0006b24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此非宗過。",
+        "translation": "This is not a fallacy of the proposition.",
+        "source": "T32n1629_001:0006b24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以於此中立聲為常。",
+        "translation": "It's because here neutrality establishes that sound is permanent.",
+        "source": "T32n1629_001:0006b25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切皆是無常故者。",
+        "translation": "It's because everything is impermanent.",
+        "source": "T32n1629_001:0006b25_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是喻方便惡立異法由合喻顯非一切故。",
+        "translation": "This is a metaphor that uses skillful means to misconstrue different things and shows that they aren't all by combining metaphors.",
+        "source": "T32n1629_001:0006b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此因非有。",
+        "translation": "This cause isn't existent.",
+        "source": "T32n1629_001:0006b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以聲攝在一切中故。",
+        "translation": "It's because sound is included in everything.",
+        "source": "T32n1629_001:0006b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或是所立一分義故。",
+        "translation": "It's also because it's a part of the meaning that's being posited.",
+        "source": "T32n1629_001:0006b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此義不成。",
+        "translation": "This meaning isn't formulated.",
+        "source": "T32n1629_001:0006b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名因過失。",
+        "translation": "This is called a fault of the cause.",
+        "source": "T32n1629_001:0006b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喻亦有過。",
+        "translation": "The metaphors also have faults.",
+        "source": "T32n1629_001:0006b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由異法喻先顯宗無後說因無。",
+        "translation": "Since the parable of the different dharmas first shows that the subject is absent and then explains that the cause is absent, it should thus be said that all are impermanent.",
+        "source": "T32n1629_001:0006b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應如是言無常一切。",
+        "translation": "It should thus be said that they are impermanent and omnipresent.",
+        "source": "T32n1629_001:0006b29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是謂非非一切故義。",
+        "translation": "This is the meaning of not being neither permanent nor impermanent.",
+        "source": "T32n1629_001:0006c01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此倒說一切無常。",
+        "translation": "Yet this is a mistaken way of saying that all is impermanent.",
+        "source": "T32n1629_001:0006c01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故此中喻亦有過。",
+        "translation": "Therefore, this is also a fallacy of the metaphor.",
+        "source": "T32n1629_001:0006c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是已說宗及似宗因與似因多是宗法。",
+        "translation": "Thus, it's been said that the thesis, pseudo-thesis, and pseudo-cause are mostly the subject matter of the teaching.",
+        "source": "T32n1629_001:0006c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此差別相今當顯示。",
+        "translation": "This distinguishing aspect will now be revealed.",
+        "source": "T32n1629_001:0006c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0006c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　宗法於同品　　謂有非有俱",
+        "translation": "\"A tenet is the same in both categories, meaning both existent and nonexistent.",
+        "source": "T32n1629_001:0006c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　於異品各三　　有非有及二",
+        "translation": "in each of the three different categories there are and are not two",
+        "source": "T32n1629_001:0006c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0006c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈不總以樂所成立合說為宗。",
+        "translation": "\"Isn't the doctrine that what's established by pleasure is always combined and explained?",
+        "source": "T32n1629_001:0006c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何此中乃言宗者唯取有法。",
+        "translation": "How could it be that the only thing said to be a thesis is that it's based on the grasping of existing things?",
+        "source": "T32n1629_001:0006c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此無有失。",
+        "translation": "There's nothing wrong with that.",
+        "source": "T32n1629_001:0006c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以其總聲於別亦轉。",
+        "translation": "It's because its general sound is also transformed by the particulars.",
+        "source": "T32n1629_001:0006c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如言燒衣。",
+        "translation": "It's like saying 'burning clothes.'",
+        "source": "T32n1629_001:0006c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有宗聲唯詮於法。",
+        "translation": "Perhaps there's a tenet that sounds like a teaching only about things.",
+        "source": "T32n1629_001:0006c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中宗法。",
+        "translation": "Here, the subject matter is the teaching.",
+        "source": "T32n1629_001:0006c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯取立論及敵論者決定同許。",
+        "translation": "Only those who posit a thesis and those who oppose it are determined to approve of it.",
+        "source": "T32n1629_001:0006c10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於同品中有非有等亦復如是。",
+        "translation": "It's also true that what's present and what's not present in the same class.",
+        "source": "T32n1629_001:0006c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故。",
+        "translation": "Why is that?",
+        "source": "T32n1629_001:0006c11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今此唯依證了因故。",
+        "translation": "Here, we're relying solely on the realization of a cause.",
+        "source": "T32n1629_001:0006c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但由智力了所說義。",
+        "translation": "It's only because the intellect understands the meaning that's being explained.",
+        "source": "T32n1629_001:0006c12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非如生因由能起用。",
+        "translation": "It's not like producing a cause that's produced by an agent.",
+        "source": "T32n1629_001:0006c12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾既取智為了因。",
+        "translation": "If that's the case, then knowledge is taken to be the cause that comprehends.",
+        "source": "T32n1629_001:0006c13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是言便失能成立義。",
+        "translation": "This statement then misses the point of being able to establish.",
+        "source": "T32n1629_001:0006c13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此亦不然。",
+        "translation": "This is also not the case.",
+        "source": "T32n1629_001:0006c14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令彼憶念本極成故。",
+        "translation": "It's because it causes their recollection to be originally quite formed.",
+        "source": "T32n1629_001:0006c14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故此中唯取彼此俱定許義。",
+        "translation": "Therefore, the only thing that's taken from this is the sense that both are mutually determined. That's a good teaching.",
+        "source": "T32n1629_001:0006c14_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即為善說。",
+        "translation": "That's a good explanation.",
+        "source": "T32n1629_001:0006c15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是若有彼此不同許。",
+        "translation": "Therefore, if there's a mutual difference in assent, it's definitely not the teaching.",
+        "source": "T32n1629_001:0006c15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "定非宗法。",
+        "translation": "They certainly aren't the true teaching.",
+        "source": "T32n1629_001:0006c16_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有成立聲是無常眼所見故。",
+        "translation": "It's because there's an established sound that's seen by the impermanent eye.",
+        "source": "T32n1629_001:0006c16_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又若敵論不同許者。",
+        "translation": "Furthermore, if the opposing theories don't approve of each other, then it's like opposing the nature of what's being done in the manifestation theory.",
+        "source": "T32n1629_001:0006c17_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如對顯論所作性故。",
+        "translation": "It's because they oppose the nature of what's being done in the manifestation theory.",
+        "source": "T32n1629_001:0006c17_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又若猶豫。",
+        "translation": "\"Furthermore, if there's hesitation.",
+        "source": "T32n1629_001:0006c18_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如依烟等起疑惑時。",
+        "translation": "It's like when you have doubts based on smoke and so forth.",
+        "source": "T32n1629_001:0006c18_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成立大種和合火有。",
+        "translation": "He establishes that the great kind of conflagration exists.",
+        "source": "T32n1629_001:0006c18_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以現烟故。",
+        "translation": "It's because of the visible smoke.",
+        "source": "T32n1629_001:0006c19_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或於是處有法不成。",
+        "translation": "Perhaps there's a place where the existence of a dharma isn't established.",
+        "source": "T32n1629_001:0006c19_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如成立我其體周遍於一切處。",
+        "translation": "He establishes that his essence pervades all places.",
+        "source": "T32n1629_001:0006c20_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生樂等故。",
+        "translation": "It's because of that which gives rise to happiness and so forth.",
+        "source": "T32n1629_001:0006c20_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是所說。",
+        "translation": "Thus, it's explained.",
+        "source": "T32n1629_001:0006c21_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切品類所有言詞皆非能立。",
+        "translation": "'All kinds of words and expressions are not capable of being posited.'",
+        "source": "T32n1629_001:0006c21_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於其同品有非有等。",
+        "translation": "In their same class, there's something that isn't there, and so forth.",
+        "source": "T32n1629_001:0006c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦隨所應當如是說。",
+        "translation": "They should be explained in this way according to what's appropriate.",
+        "source": "T32n1629_001:0006c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於當所說因與相違及不定中。",
+        "translation": "Among the causes and contradictions that should be explained, and the indeterminate, there are only words that are mutually agreed upon as definitive.",
+        "source": "T32n1629_001:0006c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯有共許決定言詞。",
+        "translation": "Only words that are mutually agreed upon as definite are said to be capable of being posited.",
+        "source": "T32n1629_001:0006c23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說名能立。",
+        "translation": "It's called something that establishes.",
+        "source": "T32n1629_001:0006c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或名能破。",
+        "translation": "Some names can be contradicted.",
+        "source": "T32n1629_001:0006c24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非互不成。",
+        "translation": "They don't mutually fail to establish.",
+        "source": "T32n1629_001:0006c24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶豫言詞復待成故。",
+        "translation": "It's because words that are hesitant are still waiting to be formed.",
+        "source": "T32n1629_001:0006c24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夫立宗法。",
+        "translation": "A person who establishes a tenet should establish this teaching.",
+        "source": "T32n1629_001:0006c25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理應更以餘法為因成立此法。",
+        "translation": "It's logical to establish this dharma using another dharma as the cause.",
+        "source": "T32n1629_001:0006c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若即成立有法為有。",
+        "translation": "If he were to posit that there's a dharma that exists ...",
+        "source": "T32n1629_001:0006c26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立為無。",
+        "translation": "It might be posited as nonexistent.",
+        "source": "T32n1629_001:0006c26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有成立最勝為有。",
+        "translation": "Just as there's a principle that establishes the most excellent as existent, so there's a principle that establishes the most excellent as existent.",
+        "source": "T32n1629_001:0006c26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現見別物有總類故。",
+        "translation": "It's because the present view is that some other thing has a general type.",
+        "source": "T32n1629_001:0006c27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立為無。",
+        "translation": "It might be posited as nonexistent.",
+        "source": "T32n1629_001:0006c27_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不可得故。",
+        "translation": "It's therefore unobtainable.",
+        "source": "T32n1629_001:0006c28_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其義云何。",
+        "translation": "What does that mean?",
+        "source": "T32n1629_001:0006c28_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中但立別物定有。",
+        "translation": "Here, it's simply posited that specific things definitely exist.",
+        "source": "T32n1629_001:0006c28_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一因為宗不立最勝。",
+        "translation": "The doctrine of one cause doesn't posit a supreme one.",
+        "source": "T32n1629_001:0006c29_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故無此失。",
+        "translation": "Therefore, there's no such mistake.",
+        "source": "T32n1629_001:0006c29_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若立為無。",
+        "translation": "If it's posited as nonexistent, then it's also a false imputation of an unobtainable thing.",
+        "source": "T32n1629_001:0006c29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦假安立不可得法。",
+        "translation": "It's also a false imputation of an unobtainable dharma.",
+        "source": "T32n1629_001:0007a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故亦無有有法過。",
+        "translation": "Therefore, there's also no mistake that there are existent dharmas.",
+        "source": "T32n1629_001:0007a01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以有法立餘有法。",
+        "translation": "If he were to posit another existent dharma based on the existence of a dharma, then he might posit that dharma.",
+        "source": "T32n1629_001:0007a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立其法。",
+        "translation": "Perhaps it establishes some other dharmas.",
+        "source": "T32n1629_001:0007a02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如以烟立火。",
+        "translation": "It's like setting fire on fire with smoke.",
+        "source": "T32n1629_001:0007a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或以火立觸。",
+        "translation": "Or, it might establish contact by fire.",
+        "source": "T32n1629_001:0007a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其義云何。",
+        "translation": "What does that mean?",
+        "source": "T32n1629_001:0007a03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今於此中非以成立火觸為宗。",
+        "translation": "Here, we're not establishing fire and contact as the subject.",
+        "source": "T32n1629_001:0007a03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但為成立此相應物。",
+        "translation": "It's simply to establish what's associated with it.",
+        "source": "T32n1629_001:0007a04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不爾者。",
+        "translation": "If that's not the case, then...",
+        "source": "T32n1629_001:0007a04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依烟立火依火立觸。",
+        "translation": "Establishing fire based on smoke and establishing contact based on fire.",
+        "source": "T32n1629_001:0007a04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應成宗義一分為因。",
+        "translation": "It should constitute a part of the doctrine as cause.",
+        "source": "T32n1629_001:0007a05_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於此中非欲成立。",
+        "translation": "Furthermore, it's not intended to establish this here.",
+        "source": "T32n1629_001:0007a05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "火觸有性共知有故。",
+        "translation": "It's because the nature of fire contact is known to exist in common.",
+        "source": "T32n1629_001:0007a06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於此中觀所成故。",
+        "translation": "It's also because it's formed from contemplating here.",
+        "source": "T32n1629_001:0007a06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立法有法非德有德故無有過。",
+        "translation": "It's legally established that there are things that are not virtues and there are virtues, so there's no mistake.'",
+        "source": "T32n1629_001:0007a07_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "重說頌言。",
+        "translation": "Again, he explains the verse, saying.",
+        "source": "T32n1629_001:0007a07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　有法非成於有法　　及法此非成有法　但由法故成其法　　如是成立於有法論曰。",
+        "translation": "\"This is not a property that becomes a property, and this is not a property that becomes a property but a property that becomes a property because of a property. Thus, it's established in the existence of a property,\" the treatise says.",
+        "source": "T32n1629_001:0007a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有成立聲非是常。",
+        "translation": "\"If there were a principle established, sound wouldn't be permanent.",
+        "source": "T32n1629_001:0007a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "業等應常故。",
+        "translation": "It's because karma and so forth should be permanent.",
+        "source": "T32n1629_001:0007a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常應可得故如是云何名為宗法。",
+        "translation": "Since permanence should be obtainable, how is it called a dharma?",
+        "source": "T32n1629_001:0007a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此說彼過由因宗門。",
+        "translation": "It's said that this is a fallacy of the causal aspect of the proposition.",
+        "source": "T32n1629_001:0007a12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以有所立說應言故。",
+        "translation": "It's because it's established and explained as appropriate.",
+        "source": "T32n1629_001:0007a13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以先立常無形礙故。",
+        "translation": "It's because they first posited that permanence is without physical obstruction.",
+        "source": "T32n1629_001:0007a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後但立宗斥彼因過。",
+        "translation": "Later, it simply posits a thesis that rejects that as a causal fallacy.",
+        "source": "T32n1629_001:0007a14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若如是立聲是無常。",
+        "translation": "If he thus posits that sound is impermanent, then what he does is not permanent.",
+        "source": "T32n1629_001:0007a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所作非常故。",
+        "translation": "It's because what's made is impermanent.",
+        "source": "T32n1629_001:0007a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常非所作故。",
+        "translation": "It's because what's permanent is not what's done.'",
+        "source": "T32n1629_001:0007a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此復云何。",
+        "translation": "What does this furthermore mean?",
+        "source": "T32n1629_001:0007a15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是喻方便同法異法如其次第宣說其因。",
+        "translation": "This is a metaphor that skillfully explains the causes of similarities and differences in teaching as they are in their sequence.",
+        "source": "T32n1629_001:0007a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "宗定隨逐及宗無處定無因故。",
+        "translation": "It's because the proposition is determined to follow and the proposition has nowhere to be determined to have no cause.",
+        "source": "T32n1629_001:0007a16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以於此中由合顯示所作性因。",
+        "translation": "Here, this is the cause that cooperates to reveal the nature of doing.",
+        "source": "T32n1629_001:0007a17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是此聲定是所作。",
+        "translation": "Thus, this sound is definitely an action.",
+        "source": "T32n1629_001:0007a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非非所作。",
+        "translation": "It's not what's not done.",
+        "source": "T32n1629_001:0007a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此所作性定是宗法。",
+        "translation": "This active nature is definitely a subjective dharma.",
+        "source": "T32n1629_001:0007a18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "重說頌言。",
+        "translation": "He repeats the verse, saying.",
+        "source": "T32n1629_001:0007a19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　說因宗所隨　　宗無因不有",
+        "translation": "'It's said that the cause follows the tenet, and the tenet doesn't exist without a cause.'",
+        "source": "T32n1629_001:0007a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　依第五顯喻　　由合故知因",
+        "translation": "relying on the fifth manifestation, the cause is known by virtue of its conjunction",
+        "source": "T32n1629_001:0007a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0007a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此已釋反破方便以所作性於無常見故。",
+        "translation": "\"This explanation already refutes the method because the nature of what's done is not commonly seen.",
+        "source": "T32n1629_001:0007a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於常不見故。",
+        "translation": "It's because it doesn't see the permanent.",
+        "source": "T32n1629_001:0007a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是成立聲非是常。",
+        "translation": "Thus, it's established that sound isn't permanent.",
+        "source": "T32n1629_001:0007a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應非作故。",
+        "translation": "It shouldn't be made because it's made.",
+        "source": "T32n1629_001:0007a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故順成反破方便非別解因。",
+        "translation": "Therefore, it follows that the method of refuting is not a cause of specific understanding.",
+        "source": "T32n1629_001:0007a24_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如破數論我已廣辯。",
+        "translation": "As I've explained extensively in the Treatise on the Refutation of Numbers, we should stop arguing extensively about the side effects.",
+        "source": "T32n1629_001:0007a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故應且止廣諍傍論。",
+        "translation": "Therefore, we should stop the extensive debate and discuss the side issues.",
+        "source": "T32n1629_001:0007a25_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是宗法三種差別謂同品。",
+        "translation": "Thus, these three kinds of distinctions in doctrine are the same in kind.",
+        "source": "T32n1629_001:0007a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有非有及俱先除及字此中若品與所立法隣近均等說名同品以一切義皆名品故若所立無說立異品。",
+        "translation": "If these qualities and the established laws are close and equal, it's called the same quality because all meanings are called qualities.",
+        "source": "T32n1629_001:0007a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非與同品相違。",
+        "translation": "It's not a contradiction with the same class.",
+        "source": "T32n1629_001:0007a29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或異若相違者。",
+        "translation": "If it's different or contradictory, then it should be simply distinguished.",
+        "source": "T32n1629_001:0007a29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應唯簡別。",
+        "translation": "They should be only briefly distinguished.",
+        "source": "T32n1629_001:0007a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若別異者應無有因。",
+        "translation": "If it's different, then it shouldn't have a cause.",
+        "source": "T32n1629_001:0007a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此道理所作性故能成無常及無我等不相違故。",
+        "translation": "It's because of this principle that the nature of what's done can become impermanent and without self, and so forth, that there's no contradiction.",
+        "source": "T32n1629_001:0007b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若法能成相違所立。",
+        "translation": "If a thing can be formed that's contradicted by what's established, then it's a contradiction.",
+        "source": "T32n1629_001:0007b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是相違過即名似因。",
+        "translation": "This is a fallacy of contradiction that's called a seeming cause.",
+        "source": "T32n1629_001:0007b03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如無違法相違亦爾。",
+        "translation": "So is the contradiction of a noncontradictory dharma.",
+        "source": "T32n1629_001:0007b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所成法無定無有故。",
+        "translation": "The thing that's formed is indeterminate and nonexistent.",
+        "source": "T32n1629_001:0007b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非如瓶等因成猶豫於彼展轉無中有故。",
+        "translation": "It's not like a vial or the like that's formed by a cause and hesitates about its continuance without intermediate existence.",
+        "source": "T32n1629_001:0007b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以所作性現見離瓶於衣等有非離無常於無我等此因有故。",
+        "translation": "It's because the active nature of the present sees that what's free of the vial and such things as clothing exist, not that what's free of impermanence and such things as selflessness have caused them to exist.",
+        "source": "T32n1629_001:0007b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何別法於別處轉。",
+        "translation": "How do specific things develop in specific places?",
+        "source": "T32n1629_001:0007b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼相似不說異名言即是此故無有失。",
+        "translation": "Because it's similar and doesn't say different things, that's why there's no mistake.",
+        "source": "T32n1629_001:0007b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若不說異云何此因說名宗法。",
+        "translation": "If they don't say different, then how can this cause be said to be a conventional dharma?",
+        "source": "T32n1629_001:0007b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中但說定是宗法。",
+        "translation": "Here, it's only said that it's definitely a doctrine.",
+        "source": "T32n1629_001:0007b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不欲說言唯是宗法。",
+        "translation": "It's not intended to say that it's only a doctrine.",
+        "source": "T32n1629_001:0007b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾同品應亦名宗。",
+        "translation": "If that's the case, the same class should also be called a school.",
+        "source": "T32n1629_001:0007b09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不然別處說所成故因必無異方成比量故不相似。",
+        "translation": "Otherwise, it's said elsewhere that it's formed because the cause must not be different in order to be comparable.",
+        "source": "T32n1629_001:0007b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又此一一各有三種。",
+        "translation": "Furthermore, there are three kinds of each of these.",
+        "source": "T32n1629_001:0007b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於一切同品有中。",
+        "translation": "They are: 'Among all the similar-partial existences, there's one that's not similar.'",
+        "source": "T32n1629_001:0007b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於其異品或有非有及有非有。",
+        "translation": "In their negative example, they may be both existent and nonexistent, and both existent and nonexistent.",
+        "source": "T32n1629_001:0007b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於其同品非有及俱。",
+        "translation": "In the same kind, there's neither presence nor absence.",
+        "source": "T32n1629_001:0007b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有如是三種差別。",
+        "translation": "Each has these three kinds of distinctions.",
+        "source": "T32n1629_001:0007b13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若無常宗全無異品對不立有虛空等論。",
+        "translation": "If the doctrine of impermanence completely lacks a different kind, then it doesn't establish that there's a theory of space and so forth.",
+        "source": "T32n1629_001:0007b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何得說彼處此無。",
+        "translation": "How can it be said that there's nothing there and nothing here?",
+        "source": "T32n1629_001:0007b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若彼無有於彼不轉全無有疑故無此過。",
+        "translation": "If there's nothing there, then there's no doubt that it doesn't exist at all.",
+        "source": "T32n1629_001:0007b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是合成九種宗法。",
+        "translation": "Thus, the nine categories of doctrines are combined.",
+        "source": "T32n1629_001:0007b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨其次第略辯其相。",
+        "translation": "They are defined in their order by briefly explaining their characteristics.",
+        "source": "T32n1629_001:0007b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂立聲常所量性故。",
+        "translation": "It's because they posit the permanence of sound and its measured nature.",
+        "source": "T32n1629_001:0007b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立無常所作性故。",
+        "translation": "Some posit the nature of impermanence and activity.",
+        "source": "T32n1629_001:0007b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立勤勇無間所發無常性故。",
+        "translation": "Some posit that it's impermanent because it's produced by diligence and courage without interruption.",
+        "source": "T32n1629_001:0007b18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立為常所作性故。",
+        "translation": "Some posit that it's the nature of what's done because it's permanent.",
+        "source": "T32n1629_001:0007b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立為常所聞性故。",
+        "translation": "It might be posited as the nature of what's heard that's permanent.",
+        "source": "T32n1629_001:0007b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立為常勤勇無間所發性故。",
+        "translation": "It might be posited as the nature of something that's always done, diligently and courageously done, and which is indirectly produced.",
+        "source": "T32n1629_001:0007b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或非勤勇無間所發無常性故。",
+        "translation": "Or it might not be impermanent in nature because it's produced by diligence and courage without interruption.",
+        "source": "T32n1629_001:0007b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立無常勤勇無間所發性故。",
+        "translation": "It might be posited as impermanent because it's diligent and courageous, and has no nature arising from time to time.",
+        "source": "T32n1629_001:0007b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或立為常無觸對故。",
+        "translation": "Some posit that it's permanent and lacks tactile opposition.",
+        "source": "T32n1629_001:0007b22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是九種二頌所攝。",
+        "translation": "These are the nine ways they're included in the two verses.",
+        "source": "T32n1629_001:0007b22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0007b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　常無常勤勇　　恒住堅牢性",
+        "translation": "\"Constancy, impermanence, diligence, and courage are constantly abiding and resolute.",
+        "source": "T32n1629_001:0007b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　非勤遷不變　　由所量等九",
+        "translation": "nine ways of not changing without effort, such as by measuring",
+        "source": "T32n1629_001:0007b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　所量作無常　　作性聞勇發",
+        "translation": "that which is measured is made impermanent, and the nature of that which is made is heard with courage.",
+        "source": "T32n1629_001:0007b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　無常勇無觸　　依常性等九",
+        "translation": "impermanence, courage, and lack of contact, and so forth",
+        "source": "T32n1629_001:0007b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0007b28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是分別。",
+        "translation": "\"Thus is it discriminated.",
+        "source": "T32n1629_001:0007b28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說名為因。",
+        "translation": "It's called a cause.",
+        "source": "T32n1629_001:0007b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相違不定。",
+        "translation": "They are contradictory and indeterminate.",
+        "source": "T32n1629_001:0007b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故本頌言。",
+        "translation": "That's why the main verse says.",
+        "source": "T32n1629_001:0007b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　於同有及二　　在異無是因",
+        "translation": "\"In the same being, there are two; in difference, there's no such cause.",
+        "source": "T32n1629_001:0007c01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　翻此名相違　　所餘皆不定",
+        "translation": "the names here are contradictory, and the rest are indeterminate",
+        "source": "T32n1629_001:0007c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中唯有二種名因。",
+        "translation": "\"Here there are only two kinds of names for causes.",
+        "source": "T32n1629_001:0007c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於同品一切遍有異品遍無。",
+        "translation": "They are that in the same class everything is pervasively existent and in different classes pervasively nonexistent.",
+        "source": "T32n1629_001:0007c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及於同品通有非有。",
+        "translation": "In the same class, both are pervasively existent and nonexistent.",
+        "source": "T32n1629_001:0007c04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "異品遍無。",
+        "translation": "In the negative example, they are both pervasive and nonexistent.",
+        "source": "T32n1629_001:0007c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於初後三各取中一。",
+        "translation": "Of the first three, the second and last are each taken to be one in between.",
+        "source": "T32n1629_001:0007c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復唯二種說名相違。",
+        "translation": "Again, there are only two ways of saying the names are contradictory.",
+        "source": "T32n1629_001:0007c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能倒立故。",
+        "translation": "This is because they can be posited incorrectly.",
+        "source": "T32n1629_001:0007c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於異品有及二種。",
+        "translation": "It means that in the negative example there's both presence and absence.",
+        "source": "T32n1629_001:0007c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於其同品一切遍無。",
+        "translation": "In the same class, they are both pervasive and nonexistent.",
+        "source": "T32n1629_001:0007c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二三中取初後二。",
+        "translation": "Of the second three, the first and last are taken.",
+        "source": "T32n1629_001:0007c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所餘五種因及相違皆不決定。",
+        "translation": "The other five kinds of cause and contradiction are not determined.",
+        "source": "T32n1629_001:0007c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是疑因義。",
+        "translation": "This is the meaning of doubtful cause.",
+        "source": "T32n1629_001:0007c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於一切因等相中。",
+        "translation": "Furthermore, in all causes and characteristics, it's said that there's a single number of the same thing that's being explained.",
+        "source": "T32n1629_001:0007c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆說所說一數同類勿說二相。",
+        "translation": "They all say that they're the same in number and don't discuss two aspects.",
+        "source": "T32n1629_001:0007c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更互相違共集一處猶為因等。",
+        "translation": "They may contradict each other and collect together in one place just as causes.",
+        "source": "T32n1629_001:0007c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或於一相同作事故成不遍因。",
+        "translation": "Perhaps a single, similarly created event becomes a non-omnipresent cause.",
+        "source": "T32n1629_001:0007c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理應四種。",
+        "translation": "There are four kinds of principle.",
+        "source": "T32n1629_001:0007c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名不定因二俱有故。",
+        "translation": "They're called indeterminate causes because both are present.",
+        "source": "T32n1629_001:0007c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所聞云何由不共故。",
+        "translation": "How is it that what's heard is due to being uncommon?",
+        "source": "T32n1629_001:0007c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以若不共所成立法。",
+        "translation": "It's because if there's a principle established by what's not shared, then it's not shared at all.",
+        "source": "T32n1629_001:0007c12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有差別遍攝一切。",
+        "translation": "All distinctions pervade everything.",
+        "source": "T32n1629_001:0007c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆是疑因。",
+        "translation": "They are all causes of doubt.",
+        "source": "T32n1629_001:0007c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯彼有性彼所攝故。",
+        "translation": "Only that has a nature that's included in that.",
+        "source": "T32n1629_001:0007c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一向離故。",
+        "translation": "Because they are united, they're free.",
+        "source": "T32n1629_001:0007c13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸有皆共無簡別因。",
+        "translation": "All existences have a common, uncommon, and undifferentiated cause.",
+        "source": "T32n1629_001:0007c14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此唯於彼俱不相違是疑因性。",
+        "translation": "Only in that is the nature of the doubtful cause that's not contradicted by both.",
+        "source": "T32n1629_001:0007c14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於其中俱分是有亦是定因。",
+        "translation": "If both of them are partly existent, they're also definite causes.",
+        "source": "T32n1629_001:0007c15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "簡別餘故。",
+        "translation": "It's because it's simply distinguished from the others.",
+        "source": "T32n1629_001:0007c15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名差別。",
+        "translation": "This is called a distinction.",
+        "source": "T32n1629_001:0007c16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若對許有聲性是常此應成因。",
+        "translation": "If we were to accept that the nature of sound is permanent, this would be the cause.",
+        "source": "T32n1629_001:0007c16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於爾時無有顯示。",
+        "translation": "If there's nothing to show at that point, then it's a cause.",
+        "source": "T32n1629_001:0007c17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所作性等是無常因。",
+        "translation": "'The nature of what's created and so forth is an impermanent cause.'",
+        "source": "T32n1629_001:0007c17_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "容有此義。",
+        "translation": "It's possible to have this meaning.",
+        "source": "T32n1629_001:0007c18_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然俱可得一義相違不容有故是猶豫因。",
+        "translation": "However, both can be obtained, and contradicting one meaning doesn't allow for it to exist; therefore, it's a cause of hesitation.",
+        "source": "T32n1629_001:0007c18_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於此中現教力勝故。",
+        "translation": "Furthermore, because of the strength of the present teaching here, it's a cause.",
+        "source": "T32n1629_001:0007c19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應依此思求決定攝上。",
+        "translation": "You should rely on this reflection to determine the best way to include them.'",
+        "source": "T32n1629_001:0007c19_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌言。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0007c20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若法是不共　　共決定相違",
+        "translation": "'If this is a reason that's not shared, then the reason is definitely contradictory.'",
+        "source": "T32n1629_001:0007c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　遍一切於彼　　皆是疑因性",
+        "translation": "pervading all of them, they are all causes of doubt",
+        "source": "T32n1629_001:0007c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　邪證法有法　　自性或差別",
+        "translation": "mistakenly realized dharmas and existent dharmas are either distinct or self-nature",
+        "source": "T32n1629_001:0007c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此成相違因　　若無所違害",
+        "translation": "this becomes a contradictory cause, if there is no harm in contradicting it",
+        "source": "T32n1629_001:0007c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　觀宗法審察　　若所樂違害",
+        "translation": "to scrutinize the doctrine and examine if there is any violation of that which is pleasing",
+        "source": "T32n1629_001:0007c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　成躊躇顛倒　　異此無似因",
+        "translation": "to become hesitant and mistaken, while not having a similar cause",
+        "source": "T32n1629_001:0007c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諭曰。",
+        "translation": "The teaching says.",
+        "source": "T32n1629_001:0007c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是已辯因及似因。",
+        "translation": "\"Thus, we've explained the causes and seeming causes.",
+        "source": "T32n1629_001:0007c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喻及似喻我今當說。",
+        "translation": "I will now explain the parables and pseudo-parables.",
+        "source": "T32n1629_001:0007c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0007c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　說因宗所隨　　宗無因不有",
+        "translation": "'The doctrine that explains causes follow from the proposition that there's no cause that doesn't exist.'",
+        "source": "T32n1629_001:0007c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此二名譬喻　　餘皆此相似",
+        "translation": "these two names are metaphors, and the rest are similar to this.",
+        "source": "T32n1629_001:0008a01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0008a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喻有二種。",
+        "translation": "\"There are two kinds of metaphors.",
+        "source": "T32n1629_001:0008a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同法異法。",
+        "translation": "Those that are the same thing and those that are different.",
+        "source": "T32n1629_001:0008a02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同法者。",
+        "translation": "That's the same dharma.",
+        "source": "T32n1629_001:0008a02_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂立聲無常勤勇無間所發性故。",
+        "translation": "It's because it posits that sound is impermanent, diligent, and uninterruptedly arisen.",
+        "source": "T32n1629_001:0008a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以諸勤勇無間所發皆見無常猶如瓶等。",
+        "translation": "It's because all diligent and courageous things that are produced indirectly are viewed as impermanent like a vase.'",
+        "source": "T32n1629_001:0008a03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "異法者。",
+        "translation": "Whatever the teaching, it means that there's a view of permanence.",
+        "source": "T32n1629_001:0008a04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸有常住見。",
+        "translation": "It means that there's a view of permanence.",
+        "source": "T32n1629_001:0008a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非勤勇無間所發。",
+        "translation": "They aren't produced by diligence and courage without interruption.",
+        "source": "T32n1629_001:0008a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如虛空等。",
+        "translation": "They're like space and so forth.",
+        "source": "T32n1629_001:0008a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前是遮詮後唯止濫。",
+        "translation": "The former is a statement of refutation, but the latter is only a statement of cessation.",
+        "source": "T32n1629_001:0008a05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由合及離比度義故。",
+        "translation": "It's because of the inference that it's compatible with and free from.",
+        "source": "T32n1629_001:0008a06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是雖對不立實有。",
+        "translation": "Thus, although it doesn't establish true existence, it's revealed by such things as space.",
+        "source": "T32n1629_001:0008a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "太虛空等而得顯示。",
+        "translation": "It's because of space and so forth that it's revealed.",
+        "source": "T32n1629_001:0008a07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有宗處無因義成。",
+        "translation": "There's no place where the doctrine of cause becomes reality.",
+        "source": "T32n1629_001:0008a07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復以何緣第一說因宗所隨逐。",
+        "translation": "What further reason does the first say that a cause follows a doctrine?",
+        "source": "T32n1629_001:0008a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二說宗無因不有。",
+        "translation": "The second says that the proposition doesn't exist without a cause.",
+        "source": "T32n1629_001:0008a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不說因無宗不有耶。",
+        "translation": "What's the reason it's not said that a cause doesn't exist without a principle?",
+        "source": "T32n1629_001:0008a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由如是說。",
+        "translation": "It's because of this explanation.",
+        "source": "T32n1629_001:0008a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能顯示因同品定有異品遍無非顛倒說。",
+        "translation": "It's a mistaken statement that shows that a cause that's the same in type must exist in a different type is completely absent.",
+        "source": "T32n1629_001:0008a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又說頌言。",
+        "translation": "A verse is also said, \"A verse says.",
+        "source": "T32n1629_001:0008a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　應以非作證其常　　或以無常成所作　若爾應成非所說　　不遍非樂等合離論曰。",
+        "translation": "\"It's necessary to realize what's permanent because of what's not done, or it might be possible to realize what's done because of what's impermanent, and then it would be possible to say that what's not done isn't pervasive or pleasant,\" and so forth.",
+        "source": "T32n1629_001:0008a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是已說。",
+        "translation": "'It's been explained like this.",
+        "source": "T32n1629_001:0008a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二法合離順反兩喻。",
+        "translation": "'The confluence of two things is free from the two metaphors of agreeing and disagreeing.'",
+        "source": "T32n1629_001:0008a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘此相似是似喻義。",
+        "translation": "The remaining similarity is the meaning of a seeming metaphor.",
+        "source": "T32n1629_001:0008a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何謂此餘。",
+        "translation": "What does this mean by the other?",
+        "source": "T32n1629_001:0008a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於是處所立能立及不同品雖有合離而顛倒說。",
+        "translation": "It means that in this place, although there's a conjunction and separation of what's posited, what's posited, and what's of a different category, it's mistakenly explained.",
+        "source": "T32n1629_001:0008a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或於是處不作合離。",
+        "translation": "Perhaps this is a place where there's no such conjunction.",
+        "source": "T32n1629_001:0008a16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯現所立能立俱有異品俱無。",
+        "translation": "Only the manifestation is that both the posited and the established are present, and the dissimilarities are absent.",
+        "source": "T32n1629_001:0008a17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是二法。",
+        "translation": "These two things are thus.",
+        "source": "T32n1629_001:0008a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有隨一不成不遣。",
+        "translation": "There may be either one that's unproved or undispelled.",
+        "source": "T32n1629_001:0008a18_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有二俱不成不遣。",
+        "translation": "Or, there may be both that aren't formulated and aren't rejected.",
+        "source": "T32n1629_001:0008a18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如立聲常無觸對故。",
+        "translation": "For example, it's because sound is established as permanent and has no tactile counterpart.",
+        "source": "T32n1629_001:0008a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同法喻言。",
+        "translation": "The same thing is said metaphorically.",
+        "source": "T32n1629_001:0008a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸無觸對見彼皆常。",
+        "translation": "'The absence of tactile objects sees that they're all permanent.'",
+        "source": "T32n1629_001:0008a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如業如極微如瓶等。",
+        "translation": "It's like karma that's as subtle as a vial.'",
+        "source": "T32n1629_001:0008a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "異法喻言。",
+        "translation": "A metaphor for a different dharma says.",
+        "source": "T32n1629_001:0008a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂諸無常見有觸對。",
+        "translation": "'There are touch opposites that are uncommon.'",
+        "source": "T32n1629_001:0008a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如極微如業如虛空等。",
+        "translation": "They're like extremely subtle things like actions, like space, and so forth.",
+        "source": "T32n1629_001:0008a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此已說同法喻中有法不成。",
+        "translation": "Thus, it's been explained that in the same-dharma metaphor, there's a dharma that's not formulated.",
+        "source": "T32n1629_001:0008a21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂對不許常虛空等為要具二。",
+        "translation": "It means the pairs impermissibly constant, empty, and so forth are essential and complete.",
+        "source": "T32n1629_001:0008a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "譬喻言詞方成能立。",
+        "translation": "It's only when metaphors are spoken that they can be established.",
+        "source": "T32n1629_001:0008a23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為如其因但隨說一。",
+        "translation": "For this reason, it's only one that's explained casually.",
+        "source": "T32n1629_001:0008a23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若就正理應具說二。",
+        "translation": "If we were to explain both in terms of the correct principle, we would have to explain them fully.",
+        "source": "T32n1629_001:0008a24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是具足顯示所立不離其因。",
+        "translation": "Being complete in this way shows that what's established is not separate from its cause.",
+        "source": "T32n1629_001:0008a24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以具顯示同品定有異品遍無。",
+        "translation": "It's complete in that it shows that similar-partial qualities are definitely present and dissimilar qualities are completely absent.",
+        "source": "T32n1629_001:0008a25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能正對治相違不定。",
+        "translation": "It's a correct antidote to contradictions and uncertainties.",
+        "source": "T32n1629_001:0008a26_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有於此一分已成。",
+        "translation": "If there's one part that's been accomplished here, then the other part is also said to be established.",
+        "source": "T32n1629_001:0008a26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨說一分亦成能立。",
+        "translation": "the consequential part is also said to be capable of being posited.",
+        "source": "T32n1629_001:0008a27_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若如其聲兩義同許俱不須說。",
+        "translation": "If, for example, their sounds and meanings are the same, then there's no need to explain either one.",
+        "source": "T32n1629_001:0008a27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或由義准一能顯二。",
+        "translation": "Perhaps this is because the meaning refers to one that reveals both.",
+        "source": "T32n1629_001:0008a28_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又比量中唯見此理。",
+        "translation": "This principle is the only one seen in inference.",
+        "source": "T32n1629_001:0008a28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若所比處此相審定。",
+        "translation": "If this is the place where the comparison is made, this aspect is examined.",
+        "source": "T32n1629_001:0008a29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於餘同類念此定有。",
+        "translation": "In other contexts, he's mindful that this is definitely present.",
+        "source": "T32n1629_001:0008a29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼無處念此遍無。",
+        "translation": "Where there's nothing, he's mindful that this is completely absent.",
+        "source": "T32n1629_001:0008b01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故由此生決定解。",
+        "translation": "Therefore, this gives rise to a definite understanding.",
+        "source": "T32n1629_001:0008b01_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故本頌言。",
+        "translation": "That's why the original verse says.",
+        "source": "T32n1629_001:0008b02_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如自決定已　　悕他決定生",
+        "translation": "'After I have made up my mind, I expect others to make up their minds.'",
+        "source": "T32n1629_001:0008b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　說宗法相應　　所立餘遠離",
+        "translation": "the teaching is associated with the doctrine, and the remainder is established apart from it",
+        "source": "T32n1629_001:0008b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0008b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為於所比顯宗法性故說因言。",
+        "translation": "\"It's because the inference reveals the nature of the tenets of the teaching that we're talking about as cause.",
+        "source": "T32n1629_001:0008b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為顯於此不相離性故說喻言。",
+        "translation": "It's called a metaphor in order to reveal that it's not separate from this nature.",
+        "source": "T32n1629_001:0008b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為顯所比故說宗言。",
+        "translation": "It's called a thesis in order to reveal what's being compared.",
+        "source": "T32n1629_001:0008b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所比中除此更無其餘支分。",
+        "translation": "There's nothing else in the comparison that's being made that's derivative.",
+        "source": "T32n1629_001:0008b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是遮遣餘審察等及與合結。",
+        "translation": "This is the reason that the rest of the investigation and so forth and the conjunction are excluded.",
+        "source": "T32n1629_001:0008b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾喻言應非異分。",
+        "translation": "If this is the case, the metaphor should not be a different part.",
+        "source": "T32n1629_001:0008b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯因義故。",
+        "translation": "It's because it shows the meaning of cause.",
+        "source": "T32n1629_001:0008b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "事雖實爾。",
+        "translation": "Even though this is true, the cause is only expressed in terms that reveal the meaning of the cause.",
+        "source": "T32n1629_001:0008b09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然此因言唯為顯了是宗法性。",
+        "translation": "However, this statement of cause only serves to reveal the nature of this school as a reality.",
+        "source": "T32n1629_001:0008b09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非為顯了同品異品有性無性。",
+        "translation": "It's not to reveal the existence or nonexistence of similar and dissimilar qualities.",
+        "source": "T32n1629_001:0008b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故須別說同異喻言。",
+        "translation": "Therefore, it's necessary to explain the words of both positive and negative metaphors separately.",
+        "source": "T32n1629_001:0008b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若唯因言所詮表義說名為因。",
+        "translation": "If the only thing that's explained is the meaning of the expression in the causal language, then it's called a cause.",
+        "source": "T32n1629_001:0008b11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斯有何失。",
+        "translation": "What's wrong with that?",
+        "source": "T32n1629_001:0008b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有何得。",
+        "translation": "What further gain is there?",
+        "source": "T32n1629_001:0008b12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別說喻分是名為得。",
+        "translation": "To explain the metaphorical aspect separately is to be called attainment.",
+        "source": "T32n1629_001:0008b12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應如世間所說方便。",
+        "translation": "It should be like what's explained in the world as a method.",
+        "source": "T32n1629_001:0008b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與其因義都不相應。",
+        "translation": "It doesn't correspond to any of its causal meanings.",
+        "source": "T32n1629_001:0008b13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若爾何失。",
+        "translation": "If that's the case, what's the loss?",
+        "source": "T32n1629_001:0008b13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此說但應類所立義無有功能非能立義。",
+        "translation": "This teaching only refers to the meaning established by the type, which has no function and no capable meaning.",
+        "source": "T32n1629_001:0008b14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼但說所作性故。",
+        "translation": "It's because they only speak of the nature of what's created.",
+        "source": "T32n1629_001:0008b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所類同法不說能立所成立義。",
+        "translation": "What's similar to the teaching doesn't explain what can be posited and what's posited.",
+        "source": "T32n1629_001:0008b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又因喻別此有所立。",
+        "translation": "Furthermore, this is a designation that's established by a specific metaphor.",
+        "source": "T32n1629_001:0008b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同法異法終不能顯。",
+        "translation": "What's the same as and what's different from the Dharma can never be revealed.",
+        "source": "T32n1629_001:0008b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因與所立不相離性。",
+        "translation": "The cause and the posited aren't separate in nature.",
+        "source": "T32n1629_001:0008b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故但有類所立義然無功能。",
+        "translation": "Therefore, there are only categories of what's posited, but there's no function.",
+        "source": "T32n1629_001:0008b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故無能。",
+        "translation": "Why is it nonfunctional?",
+        "source": "T32n1629_001:0008b18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以同喻中不必宗法宗義相類。",
+        "translation": "It's because there's no need for the doctrine to be similar to the meaning of the doctrine in the same metaphor.",
+        "source": "T32n1629_001:0008b18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此復餘譬所成立故。",
+        "translation": "It's because it's established by other metaphors.",
+        "source": "T32n1629_001:0008b19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應成無窮。",
+        "translation": "They should become inexhaustible.",
+        "source": "T32n1629_001:0008b19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又不必定有諸品類。",
+        "translation": "Furthermore, there aren't necessarily categories.",
+        "source": "T32n1629_001:0008b19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非異品中不顯無性。",
+        "translation": "It's not that the absence of nature isn't apparent in different kinds.",
+        "source": "T32n1629_001:0008b20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有所簡別能為譬喻。",
+        "translation": "There are specific metaphors that can be used to describe them.",
+        "source": "T32n1629_001:0008b20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故說頌言。",
+        "translation": "That's why the verse says.",
+        "source": "T32n1629_001:0008b21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若因唯所立　　或差別相類",
+        "translation": "'If causes are established only by what they are, they may differ in kind.'",
+        "source": "T32n1629_001:0008b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　譬喻應無窮　　及遮遣異品",
+        "translation": "the parables should be endless and the negative example should be rejected",
+        "source": "T32n1629_001:0008b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0008b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世間但顯宗因異品。",
+        "translation": "\"The world only shows that the doctrine is based on a different category of causes.",
+        "source": "T32n1629_001:0008b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同處有性為異法喻。",
+        "translation": "Being in the same place has the nature of a different metaphor for a different thing.",
+        "source": "T32n1629_001:0008b24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非宗無處因不有性故定無能。",
+        "translation": "It's not a thesis that there's no place where the cause doesn't have a nature, so it's definitely not possible.",
+        "source": "T32n1629_001:0008b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若唯宗法是因性者。",
+        "translation": "If the only thing that's a cause is the nature of the subject matter, then it should also become a cause if it's uncertain.",
+        "source": "T32n1629_001:0008b25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其有不定應亦成因。",
+        "translation": "If it's indeterminate, then it should also be a cause.",
+        "source": "T32n1629_001:0008b26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何具有所立能立及異品法二種譬喻而有此失。",
+        "translation": "How could there be two kinds of metaphors, one that establishes and the other that establishes, and yet there's this mistake?",
+        "source": "T32n1629_001:0008b26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於爾時所立異品非一種類便有此失。",
+        "translation": "If the dissimilarity established at that point wasn't a type, then there would be this mistake.",
+        "source": "T32n1629_001:0008b27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如初後三各最後喻故定三相唯為顯因。",
+        "translation": "Because the first three and the last three are each final metaphors, the three definite characteristics are only the apparent cause.",
+        "source": "T32n1629_001:0008b28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是道理雖一切分皆能為因顯了所立。",
+        "translation": "For this reason, even though all the factors can be causes, they reveal what's being posited.",
+        "source": "T32n1629_001:0008b29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然唯一分且說為因。",
+        "translation": "However, the only part is said to be the cause.",
+        "source": "T32n1629_001:0008c01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是略說宗等及似。",
+        "translation": "Thus, we'll briefly explain the doctrine and so forth, as well as the seeming.",
+        "source": "T32n1629_001:0008c02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此多言說名能立及似能立。",
+        "translation": "That's a lot of language that names what can be posited and what seems to be posited.",
+        "source": "T32n1629_001:0008c02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨其所應為開悟他。",
+        "translation": "They enlighten others as they see fit.",
+        "source": "T32n1629_001:0008c03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說此能立及似能立。",
+        "translation": "It's said to be capable of being posited and seeming to be posited.",
+        "source": "T32n1629_001:0008c03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為自開悟唯有現量及與比量。",
+        "translation": "The only things that he'll enlighten himself about are direct perception and inference.",
+        "source": "T32n1629_001:0008c04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼聲喻等攝在此中故唯二量由此能了自共相故。",
+        "translation": "Because they're subsumed in this, such as sound and metaphors, there are only two ways to understand their own common characteristics.",
+        "source": "T32n1629_001:0008c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非離此二別有所量為了知彼更立餘量。",
+        "translation": "It's not because there are two separate ways of knowing them that other ways of knowing them are established.",
+        "source": "T32n1629_001:0008c06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故本頌言。",
+        "translation": "That's why the main verse says.",
+        "source": "T32n1629_001:0008c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　現量除分別　　餘所說因生",
+        "translation": "'The direct measure excludes discrimination, and the rest of the explained cause arises.'",
+        "source": "T32n1629_001:0008c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0008c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中現量除分別者。",
+        "translation": "\"Here, direct perception is free of discrimination.",
+        "source": "T32n1629_001:0008c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂若有智於色等境。",
+        "translation": "It means that if there's knowledge of form and other objects.",
+        "source": "T32n1629_001:0008c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠離一切種類名言。",
+        "translation": "He's free of all kinds of names and words.",
+        "source": "T32n1629_001:0008c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "假立無異諸門分別。",
+        "translation": "It's assumed that there's no difference between the various ways of discriminating.",
+        "source": "T32n1629_001:0008c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由不共緣現現別轉故名現量。",
+        "translation": "It's called direct perception because it doesn't share common conditions and manifests itself separately.",
+        "source": "T32n1629_001:0008c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故說頌言。",
+        "translation": "That's why the verse says.",
+        "source": "T32n1629_001:0008c11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　有法非一相　　根非一切行",
+        "translation": "\"There's a principle that's not a single characteristic, and the faculties are not all conditioned.",
+        "source": "T32n1629_001:0008c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　唯內證離言　　是色根境界",
+        "translation": "only realizes internally that this is the form-generating realm",
+        "source": "T32n1629_001:0008c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0008c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意地亦有離諸分別唯證行轉。",
+        "translation": "\"The mind ground is also free of discrimination and only realizes the activity of transformation.",
+        "source": "T32n1629_001:0008c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於貪等諸自證分。",
+        "translation": "Furthermore, in the self-witnessing aspect of craving and so forth.",
+        "source": "T32n1629_001:0008c14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸修定者離教分別。",
+        "translation": "Those who cultivate concentration are free of discriminations based on the teachings.",
+        "source": "T32n1629_001:0008c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆是現量。",
+        "translation": "They are all direct perceptions.",
+        "source": "T32n1629_001:0008c15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於此中無別量果。",
+        "translation": "Furthermore, there's no separately measured result in this.",
+        "source": "T32n1629_001:0008c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以即此體似義生故。",
+        "translation": "It's because this essence appears to be meaningful and arises.",
+        "source": "T32n1629_001:0008c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "似有用故。",
+        "translation": "It's seemingly useful.",
+        "source": "T32n1629_001:0008c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "假說為量。",
+        "translation": "It's presumably called a measure.",
+        "source": "T32n1629_001:0008c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於貪等諸自證分亦是現量。",
+        "translation": "If the self-witnessing aspects of craving and so forth are also present in the present, then they're measured.",
+        "source": "T32n1629_001:0008c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故此中除分別智。",
+        "translation": "Why is it excluded from discriminative knowledge?",
+        "source": "T32n1629_001:0008c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不遮此中自證現量。",
+        "translation": "It doesn't obscure the fact that they are self-witnessed in this present measure.",
+        "source": "T32n1629_001:0008c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無分別故。",
+        "translation": "It's because there's no discrimination.",
+        "source": "T32n1629_001:0008c19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但於此中了餘境分不名現量。",
+        "translation": "But the knowledge of the other objective factors in this doesn't qualify as direct perception.",
+        "source": "T32n1629_001:0008c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此即說憶念比度悕求疑智惑亂智等。",
+        "translation": "This explains why it's called recollection, inference, knowledge of doubt, delusion, and so forth.",
+        "source": "T32n1629_001:0008c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於鹿愛等皆非現量。",
+        "translation": "Such things as craving for deer are not immeasurable.",
+        "source": "T32n1629_001:0008c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨先所受分別轉故。",
+        "translation": "It's because they change according to the discrimination they previously experienced.",
+        "source": "T32n1629_001:0008c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是一切世俗有中瓶等數等舉等有性瓶性等智。",
+        "translation": "Thus, in all secular existences, there's the knowledge of bottles, numbers, and so forth, such as the nature of bottles and so forth.",
+        "source": "T32n1629_001:0008c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆似現量。",
+        "translation": "They all seem to be in direct perception.",
+        "source": "T32n1629_001:0008c23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於實有中作餘行相。",
+        "translation": "In their real existence, they create other defining activities.",
+        "source": "T32n1629_001:0008c23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "假合餘義分別轉故。",
+        "translation": "It's because they are falsely combined with other meanings and are discriminated and transformed.",
+        "source": "T32n1629_001:0008c23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已說現量。",
+        "translation": "We've already explained direct perception.",
+        "source": "T32n1629_001:0008c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當說比量。",
+        "translation": "He'll explain inference.",
+        "source": "T32n1629_001:0008c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘所說因生者。",
+        "translation": "The rest of them are said to arise from causes.",
+        "source": "T32n1629_001:0008c25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂智是前智。",
+        "translation": "This refers to cognition that's prior to cognition.",
+        "source": "T32n1629_001:0008c25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘從如所說能立因生。",
+        "translation": "The rest arises from the causes that can be posited as described.",
+        "source": "T32n1629_001:0008c26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是緣彼義。",
+        "translation": "This is the meaning of conditioned.",
+        "source": "T32n1629_001:0008c26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此有二種。",
+        "translation": "There are two kinds of cognition here.",
+        "source": "T32n1629_001:0008c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於所比審觀察智。",
+        "translation": "It's the knowledge of examining what's being compared.",
+        "source": "T32n1629_001:0008c27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從現量生或比量生。",
+        "translation": "It arises from present perception or inference.",
+        "source": "T32n1629_001:0008c27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及憶此因與所立宗不相離念。",
+        "translation": "It's also the recollection that this cause is not separate from the mindfulness of the proposition that's being established.",
+        "source": "T32n1629_001:0008c28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是成前舉所說力念因同品定有等故。",
+        "translation": "Thus, it's because the power of mindfulness of the causes mentioned in the previous example is the same in kind and definitely exists.",
+        "source": "T32n1629_001:0008c28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是近及遠比度因故俱名比量。",
+        "translation": "Because these are near and distant inference causes, they're both called inference.",
+        "source": "T32n1629_001:0008c29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此依作具作者而說。",
+        "translation": "This is explained in light of the author of the making complete.",
+        "source": "T32n1629_001:0009a01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是應知。",
+        "translation": "You should know it this way.",
+        "source": "T32n1629_001:0009a01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悟他比量亦不離此得成能立。",
+        "translation": "Understanding the inference of others isn't separate from this, either, in that it can be accomplished and established.",
+        "source": "T32n1629_001:0009a02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故說頌言。",
+        "translation": "That's why he explains the verse, saying.",
+        "source": "T32n1629_001:0009a02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　一事有多法　　相非一切行",
+        "translation": "\"A single thing that has many qualities has characteristics that are not all conditioned.",
+        "source": "T32n1629_001:0009a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　唯由簡別餘　　表定能隨逐",
+        "translation": "only by simply specifying the remainder, the manifestation is definitely able to follow",
+        "source": "T32n1629_001:0009a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　如是能相者　　亦有眾多法",
+        "translation": "\"Thus, there are many things that characterize [a person].",
+        "source": "T32n1629_001:0009a06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　唯不越所相　　能表示非餘",
+        "translation": "only those who do not transcend the markings of the object and are able to express it without remainder",
+        "source": "T32n1629_001:0009a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The debate said.",
+        "source": "T32n1629_001:0009a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何故此中與前現量。",
+        "translation": "\"Why is this and the prior knowledge of manifestation?",
+        "source": "T32n1629_001:0009a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別異建立為現二門。",
+        "translation": "It's established differently as two aspects of the present.",
+        "source": "T32n1629_001:0009a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此處亦應於其比果說為比量。",
+        "translation": "Here, too, the inference should be explained as an inference in terms of its inference from the result.",
+        "source": "T32n1629_001:0009a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼處亦應於其現因說為現量。",
+        "translation": "There, too, it should be explained as a present measure in terms of its present cause.",
+        "source": "T32n1629_001:0009a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俱不遮止。",
+        "translation": "Neither is refrained from.",
+        "source": "T32n1629_001:0009a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已說能立及似能立。",
+        "translation": "It's been said that it can be posited and seems to be posited.",
+        "source": "T32n1629_001:0009a10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當說能破及似能破。",
+        "translation": "It will be said that it refutes and seems to refute.",
+        "source": "T32n1629_001:0009a11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0009a11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　能破闕等言　　似破謂諸類",
+        "translation": "'Ability to refute deficiencies and so forth, pseudo-refutation refers to various types.'",
+        "source": "T32n1629_001:0009a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0009a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中能破闕等言者。",
+        "translation": "\"This is the kind of thing that refutes words like missing.",
+        "source": "T32n1629_001:0009a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂前所說闕等言詞諸分過失。",
+        "translation": "These are the faults and errors of the previously mentioned words that are lacking.",
+        "source": "T32n1629_001:0009a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼一一言皆名能破。",
+        "translation": "Each of those words is called capable of refuting them.",
+        "source": "T32n1629_001:0009a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼一一能顯前宗非善說故。",
+        "translation": "It's because each of them can show that the prior doctrine wasn't well explained.",
+        "source": "T32n1629_001:0009a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所言似破謂諸類者。",
+        "translation": "What's called seeming to refute are various things.",
+        "source": "T32n1629_001:0009a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸同法等相似過類名似能破。",
+        "translation": "Similar faults such as those in the same teaching are called seemingly refutable.",
+        "source": "T32n1629_001:0009a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼多分於善比量。",
+        "translation": "It's because they're often well-computed.",
+        "source": "T32n1629_001:0009a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為迷惑他而施設故。",
+        "translation": "They define them for the purpose of confusing others.",
+        "source": "T32n1629_001:0009a17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不能顯示前宗不善。",
+        "translation": "They can't show that the prior proposition is unwholesome.",
+        "source": "T32n1629_001:0009a17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由彼非理而破斥故。",
+        "translation": "It's because they reject what's not true and deny it.",
+        "source": "T32n1629_001:0009a18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及能破處而施設故。",
+        "translation": "It's because they define a place that's refutable.",
+        "source": "T32n1629_001:0009a18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是彼類故說名過類。",
+        "translation": "This is the type that's explained as a fallacy.",
+        "source": "T32n1629_001:0009a19_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於非理立比量中如是施設。",
+        "translation": "If they thus define a reason in a way that's not the truth, then they won't understand the fallacy of the reason.",
+        "source": "T32n1629_001:0009a19_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或不了知比量過失。",
+        "translation": "Perhaps they don't understand the fallacy of the inference.",
+        "source": "T32n1629_001:0009a20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或即為顯彼過失門。",
+        "translation": "Perhaps it's the way to show those faults.",
+        "source": "T32n1629_001:0009a20_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不名過類。",
+        "translation": "It's not called a category of error.",
+        "source": "T32n1629_001:0009a21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0009a21_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　示現異品故　　由同法異立",
+        "translation": "\"It's because of the presentation of different qualities that the same things are established differently.",
+        "source": "T32n1629_001:0009a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　同法相似餘　　由異法分別",
+        "translation": "the residue of similarities in similar dharmas is due to the discrimination of dissimilar dharmas",
+        "source": "T32n1629_001:0009a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　差別名分別　　應一成無異",
+        "translation": "differentiation by name should be uniformly established without distinction",
+        "source": "T32n1629_001:0009a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　顯所立餘因　　名可得相似",
+        "translation": "the other causes that are posited are called opposable similarities",
+        "source": "T32n1629_001:0009a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　難義別疑因　　故說名猶豫",
+        "translation": "the meaning of the term is called hesitation because it is difficult to distinguish the cause of doubt",
+        "source": "T32n1629_001:0009a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　說異品義故　　非愛名義准",
+        "translation": "it is because of the explanation of the meaning of different categories that the meaning of non-favored names is accurate",
+        "source": "T32n1629_001:0009a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0009a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中示現異品故由同法異立同法相似者。",
+        "translation": "'Here, the manifestation of different qualities is therefore caused by the fact that the same things are established differently and the same things are similar.'",
+        "source": "T32n1629_001:0009a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顛倒成立故名異立。",
+        "translation": "It's called dissimilarity because it's mistakenly established.",
+        "source": "T32n1629_001:0009a29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此依作具作者而說。",
+        "translation": "It's explained in light of its author.",
+        "source": "T32n1629_001:0009a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同法即是相似故名同法相似。",
+        "translation": "'The same thing is similar, so it's called similarity to the same thing.'",
+        "source": "T32n1629_001:0009b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切攝立中相似過類故。",
+        "translation": "It's because similarity is more than a type in all compositional categories.",
+        "source": "T32n1629_001:0009b01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言相似者是不男聲。",
+        "translation": "This is called similarity because it's not a male sound.",
+        "source": "T32n1629_001:0009b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能破相應故。",
+        "translation": "It's because it refutes concomitance.",
+        "source": "T32n1629_001:0009b02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或隨結頌故。",
+        "translation": "It may follow a verse.",
+        "source": "T32n1629_001:0009b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何同法相似。",
+        "translation": "\"What's similarity to the same dharma?",
+        "source": "T32n1629_001:0009b03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能破於所作中說能作故。",
+        "translation": "It's because it refutes what's said to be able to be done within what's done.",
+        "source": "T32n1629_001:0009b03_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傳生起故。",
+        "translation": "It's because it's transmitted into being.",
+        "source": "T32n1629_001:0009b04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作如是說。",
+        "translation": "It's explained in this way.",
+        "source": "T32n1629_001:0009b04_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後隨所應亦如是說。",
+        "translation": "Whatever follows, it's also said in this way.",
+        "source": "T32n1629_001:0009b04_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今於此中由同法喻顛倒成立。",
+        "translation": "Here, it's because the similitude metaphor is mistakenly established.",
+        "source": "T32n1629_001:0009b05_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說名同法相似。",
+        "translation": "It's therefore called similar to the same thing.",
+        "source": "T32n1629_001:0009b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有成立聲是無常勤勇無間所發性故。",
+        "translation": "Just as there's an established sound, it's impermanent, diligent, and uninterruptedly arisen.",
+        "source": "T32n1629_001:0009b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此以虛空為異法喻。",
+        "translation": "This is a metaphor that takes space to be a different dharma.",
+        "source": "T32n1629_001:0009b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有顯虛空為同法喻。",
+        "translation": "There's a metaphor that shows that space is the same dharma.",
+        "source": "T32n1629_001:0009b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無質等故立聲為常。",
+        "translation": "Because there's no substance and so forth, it's established that sound is permanent.",
+        "source": "T32n1629_001:0009b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是即此所說因中瓶應為同法。",
+        "translation": "Thus, the vial in this explained cause should be the same dharma.",
+        "source": "T32n1629_001:0009b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而異品虛空說為同法。",
+        "translation": "The dissimilar nature of space is said to be the same dharma.",
+        "source": "T32n1629_001:0009b09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是說為同法相似。",
+        "translation": "Therefore, it's said to be similar to the same dharma.",
+        "source": "T32n1629_001:0009b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘由異法者。",
+        "translation": "The other reason is that it's dissimilar to a dharma.",
+        "source": "T32n1629_001:0009b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂異法相似。",
+        "translation": "This refers to the similarity of dissimilar dharmas.",
+        "source": "T32n1629_001:0009b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是前同法相似之餘。",
+        "translation": "This is in addition to the similarity of the former same-dharmas.",
+        "source": "T32n1629_001:0009b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "示現異品由異法喻顛倒而立。",
+        "translation": "It shows that the negative example is established by a mistaken metaphor of a different dharma.",
+        "source": "T32n1629_001:0009b11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二種喻中如前安立瓶為異法。",
+        "translation": "Of the two kinds of metaphors, the vase is established as a different dharma as before.",
+        "source": "T32n1629_001:0009b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說為異法相似。",
+        "translation": "It's therefore said to be similar to a different thing.",
+        "source": "T32n1629_001:0009b13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "分別差別名分別者。",
+        "translation": "Those who distinguish differences and call them differentiations.",
+        "source": "T32n1629_001:0009b13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前說示現等故。",
+        "translation": "It's because the previous explanation showed such things.",
+        "source": "T32n1629_001:0009b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今說分別差別故。",
+        "translation": "Now, it's said to discriminate differences.",
+        "source": "T32n1629_001:0009b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知分別同法差別。",
+        "translation": "You should know that there's a distinction between discriminating the same thing and distinguishing it from another.",
+        "source": "T32n1629_001:0009b14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂如前說瓶為同法。",
+        "translation": "That is, as was said before, a vial is the same dharma.",
+        "source": "T32n1629_001:0009b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於彼同法有可燒等差別義故。",
+        "translation": "In that same dharma, there's a discriminating meaning such as burnable.",
+        "source": "T32n1629_001:0009b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則瓶應無常非聲。",
+        "translation": "The vial then should be impermanent and not sound.",
+        "source": "T32n1629_001:0009b16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲應是常不可燒等有差別故。",
+        "translation": "sound should be permanent and not burnable, and so on, because there are distinctions.",
+        "source": "T32n1629_001:0009b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此分別顛倒所立。",
+        "translation": "This is established by mistaken discrimination.",
+        "source": "T32n1629_001:0009b17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說名分別相似所言應一成無異者。",
+        "translation": "Therefore, he says the names are distinguished and similar, and what's said should be the same, formed, and not different.",
+        "source": "T32n1629_001:0009b18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "示現同法前已說故。",
+        "translation": "It's because it's been explained before that it's the same thing in terms of its manifestation.",
+        "source": "T32n1629_001:0009b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此與彼應成一故。",
+        "translation": "It's because this and that should become one.",
+        "source": "T32n1629_001:0009b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼者是誰。",
+        "translation": "Who is that?",
+        "source": "T32n1629_001:0009b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以更不聞異方便故。",
+        "translation": "It's because they don't hear of different methods anymore.",
+        "source": "T32n1629_001:0009b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相隣近故。",
+        "translation": "It's because they're close to each other.",
+        "source": "T32n1629_001:0009b20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知是宗成無異者成無異過。",
+        "translation": "You should know that this is a proposition that's become non-different and has no error in becoming non-different.",
+        "source": "T32n1629_001:0009b20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即由此言義可知故不說其名。",
+        "translation": "That's because the meaning of this statement is knowable; therefore, it's not called that.",
+        "source": "T32n1629_001:0009b21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是誰與誰共成無異不別說故。",
+        "translation": "It's because they're both formed without difference and aren't spoken of separately.",
+        "source": "T32n1629_001:0009b22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此一切與彼一切。",
+        "translation": "That is, all of them and all of that.",
+        "source": "T32n1629_001:0009b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有說言。",
+        "translation": "As has been said, it's said.",
+        "source": "T32n1629_001:0009b23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若見瓶等有同法故。",
+        "translation": "'If we see that vases and so forth have the same thing, then we'll combine them with the other things, which are not different.'",
+        "source": "T32n1629_001:0009b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即合餘法亦無別異。",
+        "translation": "That means combining the other things is also not different.",
+        "source": "T32n1629_001:0009b24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切瓶法聲應皆有。",
+        "translation": "All vases and things that sound should exist together.",
+        "source": "T32n1629_001:0009b24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則一切更互法同應成一性。",
+        "translation": "Then, the sameness of all further dharmas should become unity.",
+        "source": "T32n1629_001:0009b25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼中抑成無別異過。",
+        "translation": "They suppress the fallacy of being without distinctions.",
+        "source": "T32n1629_001:0009b25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦為顯示瓶聲差別。",
+        "translation": "It's also to show the distinction between the sound of the vials.",
+        "source": "T32n1629_001:0009b26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不甚異前分別相似故應別說。",
+        "translation": "Because they aren't very different from the previous discriminating similarities, they should be explained separately.",
+        "source": "T32n1629_001:0009b26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以勤勇無間所發成立無常。",
+        "translation": "If impermanence is established by diligence and courage without interruption, then it should be explained separately.",
+        "source": "T32n1629_001:0009b27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲顯俱是非畢竟性。",
+        "translation": "They want to reveal that both are non-terminal in nature.",
+        "source": "T32n1629_001:0009b28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則成宗因無別異過。",
+        "translation": "Then it would be a fallacy of the thesis that there's no specific difference between the causes.",
+        "source": "T32n1629_001:0009b28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "抑此令成無別異性。",
+        "translation": "Suppressing this causes it to become without a distinct different nature.",
+        "source": "T32n1629_001:0009b29_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說名無異。",
+        "translation": "Therefore, it's called not-different.",
+        "source": "T32n1629_001:0009b29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "相似有說此因如能成立。",
+        "translation": "Similarly, there's the claim that this cause can be established if it's established.",
+        "source": "T32n1629_001:0009b29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所成立法亦能成立。",
+        "translation": "The principle that's established can also be established.",
+        "source": "T32n1629_001:0009c01_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此相違法由無別異。",
+        "translation": "This characteristic is contrary to the law because there's no specific difference.",
+        "source": "T32n1629_001:0009c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說名無異相似。",
+        "translation": "Therefore, it's called a resemblance without distinctions.",
+        "source": "T32n1629_001:0009c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顯所立餘因名可得相似者。",
+        "translation": "\"Similarity is possible when the names of the other causes that are posited are revealed.",
+        "source": "T32n1629_001:0009c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂若顯示所立宗法餘因可得。",
+        "translation": "It means that if it shows that the remaining causes of the established doctrine are obtainable.",
+        "source": "T32n1629_001:0009c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是則說名可得相似。",
+        "translation": "Then it's said that the names can be likened.",
+        "source": "T32n1629_001:0009c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有說言。",
+        "translation": "It means there's an explanation that says.",
+        "source": "T32n1629_001:0009c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前成立聲是無常。",
+        "translation": "'As previously established, sound is impermanent.'",
+        "source": "T32n1629_001:0009c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此非正因。",
+        "translation": "This is not a correct cause.",
+        "source": "T32n1629_001:0009c05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於電光等由現見等餘因可得無常成故。",
+        "translation": "It's because other causes such as the flash of lightning and so forth can be obtained as impermanent by present views.",
+        "source": "T32n1629_001:0009c05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以若離此而得有彼此非彼因。",
+        "translation": "If we were to avoid this, we'd have one another as not their cause.",
+        "source": "T32n1629_001:0009c06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有餘於此別作方便。",
+        "translation": "There are other ways of doing things differently here.",
+        "source": "T32n1629_001:0009c07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂此非彼無常正因由不遍故。",
+        "translation": "It means that this is not the correct cause of that impermanence because it's not pervasive.",
+        "source": "T32n1629_001:0009c07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如說叢林。",
+        "translation": "It's like saying that there's a forest.",
+        "source": "T32n1629_001:0009c08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆有思慮有睡眠故。",
+        "translation": "They all have deliberation and drowsiness.",
+        "source": "T32n1629_001:0009c08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "難義別疑因故說名猶豫者。",
+        "translation": "Those who have doubts about the meaning of the term hesitation because it's a specific cause are said to have doubts.",
+        "source": "T32n1629_001:0009c09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "過類相應故女聲說。",
+        "translation": "It's called hesitation because it's associated with a type of error and therefore is spoken by a female voice.",
+        "source": "T32n1629_001:0009c09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中分別宗義別異因成不定。",
+        "translation": "Here, the doctrinal meaning of discrimination is distinct, and the cause is indeterminate.",
+        "source": "T32n1629_001:0009c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故說名猶豫相似。",
+        "translation": "Therefore, it's called being hesitant and similar.",
+        "source": "T32n1629_001:0009c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復分別因義別異故。",
+        "translation": "It's also because the meaning of the reason for the discernment differs.",
+        "source": "T32n1629_001:0009c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名猶豫相似過類。",
+        "translation": "It's called a hesitant similarity in a negative category.",
+        "source": "T32n1629_001:0009c12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有說言。",
+        "translation": "It means there's an explanation that says.",
+        "source": "T32n1629_001:0009c12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前成立聲是無常。",
+        "translation": "'As previously established, sound is impermanent.'",
+        "source": "T32n1629_001:0009c12_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勤勇無間所發性故。",
+        "translation": "It's because of the nature of what's produced by diligence and courage without interruption.",
+        "source": "T32n1629_001:0009c13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "現見勤勇無間所發。",
+        "translation": "The present view is that it's diligent and courageous, and it's produced indirectly.",
+        "source": "T32n1629_001:0009c13_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或顯或生故成猶豫。",
+        "translation": "Whether it's manifested or arisen, it becomes hesitant.",
+        "source": "T32n1629_001:0009c14_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今所成立為顯為生。",
+        "translation": "What's being established now is manifested and arisen.",
+        "source": "T32n1629_001:0009c14_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不應以如是因證無常義。",
+        "translation": "Therefore, this shouldn't be the cause for realizing the meaning of impermanence.",
+        "source": "T32n1629_001:0009c15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說異品義故非愛名義准者。",
+        "translation": "He who explains that it's a different class of meaning and therefore not a preferred terminology is accurate.",
+        "source": "T32n1629_001:0009c15_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有說言。",
+        "translation": "It means there's a teaching that says.",
+        "source": "T32n1629_001:0009c16_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以勤勇無間所發說無常者。",
+        "translation": "'If impermanence is explained based on diligence and courage that arise without interruption, then the meaning should be accurate if it's not based on diligence and courage.'",
+        "source": "T32n1629_001:0009c16_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義准則應若非勤勇無間所發。",
+        "translation": "If the meaning is accurate, then it should be something other than diligent and uninterrupted arising.",
+        "source": "T32n1629_001:0009c17_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸電光等皆應是常。",
+        "translation": "All the rays of lightning and so forth should be permanent.",
+        "source": "T32n1629_001:0009c18_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名為義准相似。",
+        "translation": "This is called a referential similarity.",
+        "source": "T32n1629_001:0009c18_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知此中略去後句是故但名猶豫義准。",
+        "translation": "You should know that the latter phrase has been omitted here, so it's simply called a meaningful standard of hesitation.",
+        "source": "T32n1629_001:0009c19_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復由何義。",
+        "translation": "\"What else does it mean?",
+        "source": "T32n1629_001:0009c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此同法等相似過類。",
+        "translation": "This is a fallacy of similarities with things like this.",
+        "source": "T32n1629_001:0009c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "異因明師所說次第。",
+        "translation": "It's a sequence explained by a master of differing causation.",
+        "source": "T32n1629_001:0009c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "似破同故。",
+        "translation": "It's because it seems to refute the same thing.",
+        "source": "T32n1629_001:0009c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0009c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　由此同法等　　多疑故似彼",
+        "translation": "'This is the same thing and so forth. It's because of many doubts that it seems to be like that.'",
+        "source": "T32n1629_001:0009c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0009c23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多言為顯或有異難。",
+        "translation": "'It's difficult to say that it's manifest or to suggest otherwise.'",
+        "source": "T32n1629_001:0009c23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及為顯似不成因過。",
+        "translation": "and the fallacy of making it seem like a non-causation in order to reveal it.",
+        "source": "T32n1629_001:0009c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中前四與我所說譬喻方便都不相應。",
+        "translation": "The first four of these don't correspond to the metaphorical skillful means I've described.",
+        "source": "T32n1629_001:0009c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "且隨世間譬喻方便。",
+        "translation": "They also follow conventional metaphorical skill.",
+        "source": "T32n1629_001:0009c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖不顯因是決定性。",
+        "translation": "Even though it doesn't reveal that the cause is definite, it's collected within its essence and therefore explained this way.",
+        "source": "T32n1629_001:0009c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "然攝其體故作是說。",
+        "translation": "Nevertheless, it's included in its essence and therefore explained this way.",
+        "source": "T32n1629_001:0009c25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由用不定同法等因。",
+        "translation": "By using indeterminate and homogeneous causes, they establish their own thesis and explain it to others.",
+        "source": "T32n1629_001:0009c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成立自宗方便說他。",
+        "translation": "It establishes its own thesis and explains it to others.",
+        "source": "T32n1629_001:0009c26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有此法。",
+        "translation": "'This teaching also exists.'",
+        "source": "T32n1629_001:0009c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是便成似共不定。",
+        "translation": "As a result, it then appears to be a shared indeterminate [reason].",
+        "source": "T32n1629_001:0009c27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復成似相違決定。",
+        "translation": "It might also seem to be a contradiction in terms of certainty.",
+        "source": "T32n1629_001:0009c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言唯為成立自宗。",
+        "translation": "If it's said that it's only for establishing one's own thesis, then why isn't it definitely called refutable?",
+        "source": "T32n1629_001:0009c28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何不定得名能破。",
+        "translation": "How can it not definitely be called refutable?",
+        "source": "T32n1629_001:0009c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非即說此以為能破。",
+        "translation": "It's not just to say that this is what makes it refutable.",
+        "source": "T32n1629_001:0009c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "難不定言說名不定。",
+        "translation": "It's difficult to say indeterminate and call it indeterminate.",
+        "source": "T32n1629_001:0009c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於能詮中說所詮故。",
+        "translation": "It's because they say what's being explained is being explained within what's being explained.",
+        "source": "T32n1629_001:0010a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有此過。",
+        "translation": "There's no such error.",
+        "source": "T32n1629_001:0010a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘處亦應如是安立。",
+        "translation": "The rest of the world should also be established in this way.",
+        "source": "T32n1629_001:0010a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若所立量有不定過。",
+        "translation": "If there's an error of indeterminate validity in the way it's posited, then it's possible that it's determined to have a cause like the same thing.",
+        "source": "T32n1629_001:0010a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或復決定同法等因有所成立。",
+        "translation": "It might also determine that the same thing or other causes are established.",
+        "source": "T32n1629_001:0010a03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即名能破。",
+        "translation": "That's called being able to refute.",
+        "source": "T32n1629_001:0010a03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是等難故。",
+        "translation": "This is why it's so difficult.",
+        "source": "T32n1629_001:0010a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若現見力比量不能遮遣其性。",
+        "translation": "If the power of direct insight is incomparable, it can't obviate its nature.",
+        "source": "T32n1629_001:0010a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如有成立聲非所聞猶如瓶等。",
+        "translation": "It's like establishing that sound is not what's heard like a vial.",
+        "source": "T32n1629_001:0010a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以現見聲是所聞故。",
+        "translation": "It's because the sound of the present view is what's heard.",
+        "source": "T32n1629_001:0010a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應以其是所聞性遮遣無常。",
+        "translation": "It shouldn't be able to overrule impermanence on the basis that it's the nature of what's heard.",
+        "source": "T32n1629_001:0010a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非唯不見能遮遣故若不爾者亦應遣常。",
+        "translation": "It's not just that it can be overruled by not seeing; if that's not the case, then it should also be overruled as impermanent.",
+        "source": "T32n1629_001:0010a06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二無異相似。",
+        "translation": "Second, it's not different from similarity.",
+        "source": "T32n1629_001:0010a07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是似不成因過。",
+        "translation": "This is the fallacy of seeming to be a non-causation.",
+        "source": "T32n1629_001:0010a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼以本無而生增益所立。",
+        "translation": "It's based on the fact that it's originally nonexistent but is created by gain.",
+        "source": "T32n1629_001:0010a08_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為作宗因成一過故。",
+        "translation": "It's a fallacy because it's the cause of a proposition.",
+        "source": "T32n1629_001:0010a09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此以本無而生極成因法證滅後無。",
+        "translation": "By virtue of this originally being nonexistent, it creates a perfectly valid cause that realizes the cessation of subsequent nonexistence.",
+        "source": "T32n1629_001:0010a09_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若即立彼可成能破。",
+        "translation": "If this is established, it's possible that it's formed and refuted.",
+        "source": "T32n1629_001:0010a10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三無異相似。",
+        "translation": "The third is not different from the similar.",
+        "source": "T32n1629_001:0010a10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成立違害所立難故。",
+        "translation": "It's because it's difficult to establish what's contrary to what's established.",
+        "source": "T32n1629_001:0010a11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成似由可燒等不決定故。",
+        "translation": "It's because it's seemingly caused by something that can be burned and so forth that's indeterminate.",
+        "source": "T32n1629_001:0010a11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若是決定可成相違可得相似。",
+        "translation": "If it's determined, it can become contradictory to what's likewise possible.",
+        "source": "T32n1629_001:0010a12_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所立不定故成其似。",
+        "translation": "It becomes seeming because what's established is indeterminate.",
+        "source": "T32n1629_001:0010a12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若所立因於常亦有可成能破第二可得。",
+        "translation": "If the cause that's established is permanent, it's also plausible that it can refute the second plausible possibility.",
+        "source": "T32n1629_001:0010a13_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖是不遍餘類無故似不成過。",
+        "translation": "Even though it doesn't pervade the other kinds, it doesn't seem to be an error because it doesn't exist.",
+        "source": "T32n1629_001:0010a14_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若所立無可名能破。",
+        "translation": "If there's nothing established, then it can be called refutation.",
+        "source": "T32n1629_001:0010a15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非於此中欲立一切皆是無常。",
+        "translation": "It's not here that they want to posit that everything is impermanent.",
+        "source": "T32n1629_001:0010a15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "猶豫相似。",
+        "translation": "It's similar to hesitation.",
+        "source": "T32n1629_001:0010a16_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂以勤勇無間所發。",
+        "translation": "It's based on diligence and courage that's produced without interruption.",
+        "source": "T32n1629_001:0010a16_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得成立滅壞。",
+        "translation": "It's possible to establish cessation and destruction.",
+        "source": "T32n1629_001:0010a16_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以生起增益所立。",
+        "translation": "If something is posited by arising, gaining, or establishing, then it's an indeterminate error.",
+        "source": "T32n1629_001:0010a17_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作不定過。",
+        "translation": "It's an error of being indeterminate.",
+        "source": "T32n1629_001:0010a17_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此似不定。",
+        "translation": "This seems to be indeterminate.",
+        "source": "T32n1629_001:0010a17_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於所立不起分別。",
+        "translation": "If there's no discrimination of what's established, then it's difficult to simply distinguish between causes that arise and those that are established.",
+        "source": "T32n1629_001:0010a18_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但簡別因生起為難。",
+        "translation": "He simply states that it's difficult to cause separately what arises.",
+        "source": "T32n1629_001:0010a18_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此似不成。",
+        "translation": "This seems to be undemonstrated.",
+        "source": "T32n1629_001:0010a19_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由於此中不欲唯生。",
+        "translation": "Because he doesn't want only birth here, he establishes cessation and destruction.",
+        "source": "T32n1629_001:0010a19_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "成立滅壞。",
+        "translation": "It's established as cessation and destruction.",
+        "source": "T32n1629_001:0010a19_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若生若顯悉皆滅壞。",
+        "translation": "Whether it arises or manifests, they all cease and despoil.",
+        "source": "T32n1629_001:0010a20_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非不定故。",
+        "translation": "It's not indeterminate.",
+        "source": "T32n1629_001:0010a20_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "義准相似。",
+        "translation": "The meaning is similar.",
+        "source": "T32n1629_001:0010a20_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂以顛倒不定為難故似不定。",
+        "translation": "It's because it's mistakenly indeterminate and difficult to establish, so it seems indeterminate.",
+        "source": "T32n1629_001:0010a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若非勤勇無間所發立常無常。",
+        "translation": "If it's not established as permanent and impermanent by diligence and courage without interruption, then it's impermanent.",
+        "source": "T32n1629_001:0010a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或唯勤勇無間所發無常。",
+        "translation": "Perhaps it's only impermanence that arises from diligence and courage without interruption.",
+        "source": "T32n1629_001:0010a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非餘可成能破。",
+        "translation": "Nothing else can be formed or refuted.",
+        "source": "T32n1629_001:0010a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0010a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　若因至不至　　三時非愛言",
+        "translation": "\"If a cause arrives or doesn't arrive, the three times are not words of attachment.",
+        "source": "T32n1629_001:0010a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　至非至無因　　是名似因闕",
+        "translation": "to have neither an immediate nor an instantaneous cause is called a seeming lack of cause",
+        "source": "T32n1629_001:0010a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0010a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若因至不至三時非愛言至非至無因者。",
+        "translation": "\"If a cause that arrives and doesn't arrive at three times is not loved, then he says that it arrives and doesn't arrive without a cause.",
+        "source": "T32n1629_001:0010a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於至不至作非愛言。",
+        "translation": "At the point of arrival and non-arrival, they say they don't like it.",
+        "source": "T32n1629_001:0010a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若能立因至所立宗而成立者。",
+        "translation": "If it's established from the proposition that it's a cause to the proposition that it's established, then there's no difference.",
+        "source": "T32n1629_001:0010a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無差別故應非所立。",
+        "translation": "Because there's no difference, it shouldn't be posited.",
+        "source": "T32n1629_001:0010a28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如池海水相合無異。",
+        "translation": "It's like a lake and a body of water that come together without difference.",
+        "source": "T32n1629_001:0010a28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又若不成應非相至。",
+        "translation": "If it's not formulated, it shouldn't be mutual in attainment.",
+        "source": "T32n1629_001:0010a29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所立若成此是誰因。",
+        "translation": "If this is the cause that's established, then who is the cause that's established?",
+        "source": "T32n1629_001:0010a29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若能立因不至所立不至非因。",
+        "translation": "If the cause that's established doesn't reach that which's established doesn't reach what's not the cause, then there's no difference.",
+        "source": "T32n1629_001:0010b01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無差別故應不成因。",
+        "translation": "Because there's no difference, it shouldn't be a cause.",
+        "source": "T32n1629_001:0010b01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名為至非至相似。",
+        "translation": "This is called the likeness of arriving and not arriving.",
+        "source": "T32n1629_001:0010b02_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於三時作非愛言。",
+        "translation": "At three times, he also said, \"What's not loved?",
+        "source": "T32n1629_001:0010b02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若能立因在所立前未有所立。",
+        "translation": "'Is there a cause that's established that hasn't been established before the one that's established?'",
+        "source": "T32n1629_001:0010b03_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此是誰因。",
+        "translation": "Who is this cause?",
+        "source": "T32n1629_001:0010b03_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若言在後。",
+        "translation": "If it's said to be after ...",
+        "source": "T32n1629_001:0010b04_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所立已成復何須因。",
+        "translation": "What's the need for a cause when what's being posited has already been posited?'",
+        "source": "T32n1629_001:0010b04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若俱時者。",
+        "translation": "If it's at the same time, then...",
+        "source": "T32n1629_001:0010b04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因與有因皆不成就。",
+        "translation": "Neither the cause nor the existent cause will be accomplished.",
+        "source": "T32n1629_001:0010b05_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如牛兩角。",
+        "translation": "They're like an ox with two horns.",
+        "source": "T32n1629_001:0010b05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名為無因相似。",
+        "translation": "This is called similarity without cause.",
+        "source": "T32n1629_001:0010b05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中如前次第異者。",
+        "translation": "This is different in order as before.",
+        "source": "T32n1629_001:0010b06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由俱說名似因闕故。",
+        "translation": "It's because both are said to be lacking in seeming cause.",
+        "source": "T32n1629_001:0010b06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is that?",
+        "source": "T32n1629_001:0010b07_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非理誹撥一切因故。",
+        "translation": "It's because it doesn't contradict the principle and denies all causes.",
+        "source": "T32n1629_001:0010b07_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此中何理唯不至同。",
+        "translation": "What principle here is only the absence of identity?",
+        "source": "T32n1629_001:0010b07_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故雖因相相應亦不名因。",
+        "translation": "Therefore, even though the causes are concomitant, they aren't called causes.",
+        "source": "T32n1629_001:0010b08_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是何理唯在所立前不得因名故即非能立。",
+        "translation": "Thus, what principle only precedes what's posited and doesn't get to be called a cause, which means it's not capable of being posited?",
+        "source": "T32n1629_001:0010b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於此中有自害過。",
+        "translation": "Here again, there's a self-harm error.",
+        "source": "T32n1629_001:0010b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遮遣同故。",
+        "translation": "It's because it's the same in terms of refutation.",
+        "source": "T32n1629_001:0010b10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是且於言因及慧所成立中有似因闕。",
+        "translation": "Thus, in addition, there's a seeming lack of cause in verbal causes and in what's established by wisdom.",
+        "source": "T32n1629_001:0010b10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於義因中有似不成。",
+        "translation": "In a purposive cause, there's a seeming lack of cause.",
+        "source": "T32n1629_001:0010b11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非理誹撥諸法因故。",
+        "translation": "It's because they don't correctly deny the causes of things.",
+        "source": "T32n1629_001:0010b12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前二因。",
+        "translation": "It's like the two previous causes.",
+        "source": "T32n1629_001:0010b12_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於義所立俱非所作。",
+        "translation": "What's posited in the sense is not an action.",
+        "source": "T32n1629_001:0010b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能作性故。",
+        "translation": "They are therefore capable of being done.",
+        "source": "T32n1629_001:0010b13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應正理。",
+        "translation": "They shouldn't be the correct principle.",
+        "source": "T32n1629_001:0010b13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以正理而誹撥時。",
+        "translation": "When they denigrate the correct principle, it's called being able to refute it.",
+        "source": "T32n1629_001:0010b13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可名能破。",
+        "translation": "They can be called refuting it.",
+        "source": "T32n1629_001:0010b14_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0010b14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　　　說前無因故　　應無有所立",
+        "translation": "'It's because the prior explanation has no cause that there should be nothing to posit.'",
+        "source": "T32n1629_001:0010b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　名無說相似　　生無生亦然",
+        "translation": "the same goes for names and unexplained similarities, birth and non-birth",
+        "source": "T32n1629_001:0010b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　所作異少分　　顯所立不成",
+        "translation": "the lesser part of what is done is manifestly unproved",
+        "source": "T32n1629_001:0010b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　名所作相似　　多如似宗說",
+        "translation": "the doctrine that names are similar, and many are like",
+        "source": "T32n1629_001:0010b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0010b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說前因無故應無有所立名無說相似者。",
+        "translation": "'It's because the prior cause is absent that there should be no such thing as a resemblance without explanation.'",
+        "source": "T32n1629_001:0010b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有說言。",
+        "translation": "It means there's an explanation that says.",
+        "source": "T32n1629_001:0010b20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前所立若由此因證無常性此未說前都無所有。",
+        "translation": "'As previously established, if this is the cause that realizes impermanence, then nothing existed before it was explained.'",
+        "source": "T32n1629_001:0010b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因無有故。",
+        "translation": "It's because the cause doesn't exist.",
+        "source": "T32n1629_001:0010b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應非無常。",
+        "translation": "It therefore shouldn't be impermanent.",
+        "source": "T32n1629_001:0010b21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名為無說相似。",
+        "translation": "This is called the similarity of absence of explanation.",
+        "source": "T32n1629_001:0010b21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生無生亦然者。",
+        "translation": "It's also true that birth and nonproduction are the same.",
+        "source": "T32n1629_001:0010b22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生前無因故無所立。",
+        "translation": "There's nothing established before birth because there's no cause.",
+        "source": "T32n1629_001:0010b22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦即說名無生相似。",
+        "translation": "That's also called the resemblance of nonproduction.",
+        "source": "T32n1629_001:0010b23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "言亦然者。",
+        "translation": "It's also the case.",
+        "source": "T32n1629_001:0010b23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "類例聲前因無有故應無所立。",
+        "translation": "It's a case in point that because the cause before the sound didn't exist, it probably didn't have anything to establish.",
+        "source": "T32n1629_001:0010b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今於此中如無所立。",
+        "translation": "Now, if there's nothing established here, then it should be understood that there's also a contradiction with what's established.",
+        "source": "T32n1629_001:0010b24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應知亦有所立相違。",
+        "translation": "It should be understood that there's also a contradiction with what's established.",
+        "source": "T32n1629_001:0010b25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有說言。",
+        "translation": "That is, there's an explanation that says.",
+        "source": "T32n1629_001:0010b25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前所立若如是聲未生已前。",
+        "translation": "'As previously established, if this were the case, it would have been established before sound was produced.'",
+        "source": "T32n1629_001:0010b25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有勤勇無間所發。",
+        "translation": "It didn't have diligence or courage, and it was produced indirectly.",
+        "source": "T32n1629_001:0010b26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應非無常。",
+        "translation": "It shouldn't be impermanent.",
+        "source": "T32n1629_001:0010b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又非勤勇無間所發故應是常。",
+        "translation": "It's not diligent and courageous, and it arises indirectly; therefore, it should be permanent.",
+        "source": "T32n1629_001:0010b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名為無生相似。",
+        "translation": "Thus, it's called similar to nonarising.",
+        "source": "T32n1629_001:0010b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所作異少分顯所立不成名所作相似者。",
+        "translation": "The lesser-known manifestation of the established and unestablished is called the similarity of the established.",
+        "source": "T32n1629_001:0010b28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂所成立所作性故猶如瓶等。",
+        "translation": "It's established because of its active nature, like a vial.",
+        "source": "T32n1629_001:0010b29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲無常者若瓶有異所作性故可是無常何豫聲事。",
+        "translation": "If the sound is impermanent, then the nature of the action that's created is different from that of the vase, but it's impermanent, so why would it be a matter of sound?",
+        "source": "T32n1629_001:0010c01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是名為所作相似。",
+        "translation": "Thus, it's called a resemblance in terms of what's done.",
+        "source": "T32n1629_001:0010c02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多如似宗說者。",
+        "translation": "It's mostly like what the school says.",
+        "source": "T32n1629_001:0010c02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是無說相似等多分如似所立說。",
+        "translation": "Thus, there's no such thing as a seeming resemblance that's established in many ways.",
+        "source": "T32n1629_001:0010c03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂如不成因過多言為顯。",
+        "translation": "It's such as the fallacy of not forming a cause and saying it's manifest.",
+        "source": "T32n1629_001:0010c03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或如似餘。",
+        "translation": "It might seem like something else.",
+        "source": "T32n1629_001:0010c04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今於此中無說相似增益比量。",
+        "translation": "Here, there's no such thing as a likeness that's added to the reasoning.",
+        "source": "T32n1629_001:0010c04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂於論者所說言詞立無常性。",
+        "translation": "It means that the words used by the commentator establish impermanence.",
+        "source": "T32n1629_001:0010c05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "難未說前因無有故。",
+        "translation": "It's difficult not to say that the prior cause is nonexistent.",
+        "source": "T32n1629_001:0010c06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此似不成。",
+        "translation": "This doesn't seem to be the case.",
+        "source": "T32n1629_001:0010c06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或似因闕。",
+        "translation": "It might seem like the cause is missing.",
+        "source": "T32n1629_001:0010c06_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂未說前益能立故。",
+        "translation": "It means that the prior benefit can be established before it's explained.",
+        "source": "T32n1629_001:0010c07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若於此中顯義無有。",
+        "translation": "If this is the case, it's clear that the meaning is nonexistent.",
+        "source": "T32n1629_001:0010c07_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又立量時若無言說可成能破。",
+        "translation": "Furthermore, when it's formulated, if there's no language, it can be formed and refuted.",
+        "source": "T32n1629_001:0010c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無生相似。",
+        "translation": "The absence of birth is similar.",
+        "source": "T32n1629_001:0010c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聲未生前。",
+        "translation": "Before sound arises, it's a difficult cause that's established by gain.",
+        "source": "T32n1629_001:0010c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增益所立難因無故。",
+        "translation": "It's because the cause of the difficulty posited by the benefit doesn't exist.",
+        "source": "T32n1629_001:0010c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即名似破。",
+        "translation": "That's called seeming to refute.",
+        "source": "T32n1629_001:0010c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若成立時顯此是無可成能破。",
+        "translation": "When it's established, it's clear that there's nothing to be accomplished and something to be refuted.",
+        "source": "T32n1629_001:0010c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若未生前以非勤勇無間所發。",
+        "translation": "If it wasn't produced beforehand because it wasn't produced by diligence and courage, then it wouldn't be possible to make it a partially permanent meaning.",
+        "source": "T32n1629_001:0010c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "難令是常義准分故。",
+        "translation": "It's difficult to make this a partially permanent meaning.",
+        "source": "T32n1629_001:0010c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦似不定所作相似乃有三種。",
+        "translation": "It also seems like there are three kinds of similarities between what's created and what's not created.",
+        "source": "T32n1629_001:0010c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若難瓶等所作性於聲上無。",
+        "translation": "If it's difficult for a bottle or something of that sort to be formed, then it's not present in sound.",
+        "source": "T32n1629_001:0010c12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此似不成。",
+        "translation": "This doesn't seem to be the case.",
+        "source": "T32n1629_001:0010c13_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若難聲所作性於瓶等無。",
+        "translation": "If it's difficult for the nature of what's produced by sound to be absent in a vial or so forth, this seems to be a contradiction.",
+        "source": "T32n1629_001:0010c13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此似相違。",
+        "translation": "This seems to be a contradiction.",
+        "source": "T32n1629_001:0010c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若難即此常上亦無是不共故。",
+        "translation": "If it's difficult, then this is not shared with the absence of the eternal.",
+        "source": "T32n1629_001:0010c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便似不定。",
+        "translation": "It then seems indeterminate.",
+        "source": "T32n1629_001:0010c14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或似喻過引同法故。",
+        "translation": "It might seem like a metaphor that goes beyond the same thing.",
+        "source": "T32n1629_001:0010c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故。",
+        "translation": "Why is that?",
+        "source": "T32n1629_001:0010c15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯取總法建立比量。",
+        "translation": "Only the general dharma is taken to establish a comparison.",
+        "source": "T32n1629_001:0010c15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不取別故。",
+        "translation": "It's because it doesn't take a specific meaning.",
+        "source": "T32n1629_001:0010c16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若取別義決定異故。",
+        "translation": "If we were to take the meaning of specific, we would definitely differ.",
+        "source": "T32n1629_001:0010c16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比量應無。",
+        "translation": "the inference should be nonexistent.'",
+        "source": "T32n1629_001:0010c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頌曰。",
+        "translation": "The verse says.",
+        "source": "T32n1629_001:0010c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　俱許而求因　　名生過相似",
+        "translation": "'The mutual acceptance of a cause and its investigation is called the likeness of error that arises.'",
+        "source": "T32n1629_001:0010c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此於喻設難　　名如似喻說",
+        "translation": "this poses a problem in terms of a metaphor, which is called a seeming metaphor",
+        "source": "T32n1629_001:0010c19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0010c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俱許而求因名生過相似者。",
+        "translation": "\"It's similar to both permitting and seeking the names of causes that give rise to errors.",
+        "source": "T32n1629_001:0010c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有難言。",
+        "translation": "It means it's difficult to say.",
+        "source": "T32n1629_001:0010c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前所立瓶等無常。",
+        "translation": "'As previously posited, vases and the like are impermanent.'",
+        "source": "T32n1629_001:0010c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復何因證。",
+        "translation": "What cause does it have to prove it?",
+        "source": "T32n1629_001:0010c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此於喻設難名如似喻說者。",
+        "translation": "It's a metaphor that poses a difficulty in naming it as a seeming metaphor.",
+        "source": "T32n1629_001:0010c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂瓶等無常俱許成就。",
+        "translation": "It means that the impermanence of vials and so forth is accomplished together with permission.",
+        "source": "T32n1629_001:0010c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而言不成似喻難故。",
+        "translation": "It's because they say it's difficult to formulate a seeming metaphor that it's not true.",
+        "source": "T32n1629_001:0010c22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如似喻說頌曰。",
+        "translation": "The verse explains this as a seeming metaphor, saying.",
+        "source": "T32n1629_001:0010c23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　無常性恒隨　　名常住相似",
+        "translation": "'Impermanent nature is always followed by what's called an eternally abiding resemblance.'",
+        "source": "T32n1629_001:0010c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　此成常性過　　名如宗過說",
+        "translation": "this fallacy of the nature of permanence is called the fallacy of the proposition",
+        "source": "T32n1629_001:0010c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論曰。",
+        "translation": "The thesis says.",
+        "source": "T32n1629_001:0010c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂有難言。",
+        "translation": "\"It's difficult to say.",
+        "source": "T32n1629_001:0010c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前所立聲是無常。",
+        "translation": "'As previously posited, sound is impermanent.'",
+        "source": "T32n1629_001:0010c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此應常與無常性合。",
+        "translation": "It should be the combination of permanence and impermanence.",
+        "source": "T32n1629_001:0010c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸法自性恒不捨故。",
+        "translation": "It's because the own-natures of things are always unconditional.",
+        "source": "T32n1629_001:0010c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦應是常。",
+        "translation": "It should also be permanent.",
+        "source": "T32n1629_001:0010c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即名為常住相似。",
+        "translation": "This is called the resemblance of permanence.",
+        "source": "T32n1629_001:0010c28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是似宗過。",
+        "translation": "This is a fallacy of the seeming proposition.",
+        "source": "T32n1629_001:0010c28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增益所立無常住故。",
+        "translation": "It's because what's posited by the augmentation is impermanent and abiding.",
+        "source": "T32n1629_001:0010c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以於此中都無有別。",
+        "translation": "It's because there's no distinction between the two here.",
+        "source": "T32n1629_001:0010c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "實無常性依此常轉。",
+        "translation": "There's really no eternal nature that depends on this permanence.",
+        "source": "T32n1629_001:0010c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此自性本無今有暫有還無。",
+        "translation": "That is, this self-nature was originally nonexistent, but now it's momentarily existent and yet nonexistent.",
+        "source": "T32n1629_001:0011a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故名無常。",
+        "translation": "That's why it's called impermanent.",
+        "source": "T32n1629_001:0011a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此分位由自性緣名無常性。",
+        "translation": "That is, this aspect of the condition of self-nature is called impermanent.",
+        "source": "T32n1629_001:0011a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如果性等如是過類足目所說多分說為似能破。",
+        "translation": "If the nature and so forth are such that they're explained by a variety of superfluous eyes, then many of them are explained as seemingly refutable.",
+        "source": "T32n1629_001:0011a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性最極成故。",
+        "translation": "It's because the nature is most ultimate.",
+        "source": "T32n1629_001:0011a03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘論所說亦應如是分別成立。",
+        "translation": "What's explained in the other treatises should also be established in this way by discrimination.",
+        "source": "T32n1629_001:0011a04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即此過類但由少分方便異故。",
+        "translation": "That is, these kinds of fallacies are only due to a few differences in approach.",
+        "source": "T32n1629_001:0011a04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "建立無邊差別過類。",
+        "translation": "It creates an infinite number of distinct categories of error.",
+        "source": "T32n1629_001:0011a05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是故不說。",
+        "translation": "Therefore, it's not explained.",
+        "source": "T32n1629_001:0011a06_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如即此中諸有所說。",
+        "translation": "It's just like what's being explained here.",
+        "source": "T32n1629_001:0011a06_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "增益損減有顯無顯。",
+        "translation": "'Increase and decrease, manifest and unmanifest.'",
+        "source": "T32n1629_001:0011a06_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生理別喻品類相似等。",
+        "translation": "Physiological, philosophical, and metaphorical similarities in type and so forth.",
+        "source": "T32n1629_001:0011a07_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此方隅皆應諦察。",
+        "translation": "These four aspects and four corners should all be carefully examined.",
+        "source": "T32n1629_001:0011a07_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及應遮遣諸有不善。",
+        "translation": "They should be checked and rejected as being unwholesome.",
+        "source": "T32n1629_001:0011a08_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "比量方便作如是說展轉流漫。",
+        "translation": "This is how they are explained in terms of the method of comparison, which continues to flow.",
+        "source": "T32n1629_001:0011a08_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此於餘論所說無窮故不更說。",
+        "translation": "Because what's explained in the other treatises is endless, it won't be explained further.",
+        "source": "T32n1629_001:0011a09_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又於負處。",
+        "translation": "It's also in the negative place.",
+        "source": "T32n1629_001:0011a10_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舊因明師諸有所說。",
+        "translation": "There are various explanations from old masters of causation.",
+        "source": "T32n1629_001:0011a10_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有墮在能破中攝。",
+        "translation": "Some of them fall into the category of those who refute.",
+        "source": "T32n1629_001:0011a10_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有極麁。",
+        "translation": "Some of them were extremely crude.",
+        "source": "T32n1629_001:0011a11_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或有非理。",
+        "translation": "Some of them are not true.",
+        "source": "T32n1629_001:0011a11_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如詭語類故此不錄。",
+        "translation": "Because of this type of deceptive speech, it's not recorded.",
+        "source": "T32n1629_001:0011a11_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘師宗等所有句義。",
+        "translation": "All the sentences and meanings of the doctrines of other masters should be established in this way.",
+        "source": "T32n1629_001:0011a12_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦應如是分別建立。",
+        "translation": "They should also be established in this way by discrimination.",
+        "source": "T32n1629_001:0011a12_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是遍計所執分等皆不應理。",
+        "translation": "Such pervasively discriminated attachments and so forth are all inappropriate.",
+        "source": "T32n1629_001:0011a13_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "違所說相皆名無智。",
+        "translation": "To contradict the characteristics explained is to be called having no knowledge.",
+        "source": "T32n1629_001:0011a13_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理極遠故。",
+        "translation": "This is because the principle is extremely remote.",
+        "source": "T32n1629_001:0011a14_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復此類過失言詞。",
+        "translation": "Again, these kinds of fallacies are expressed in language.",
+        "source": "T32n1629_001:0011a14_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我自朋屬論式等中多已制伏。",
+        "translation": "I've suppressed many of them in my own group of friends, discussions, and so forth.",
+        "source": "T32n1629_001:0011a15_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又此方隅。",
+        "translation": "Here's another example.",
+        "source": "T32n1629_001:0011a15_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我於破古因明論中已具分別。",
+        "translation": "I've already discerned it in the Treatise on the Refutation of Ancient Logic.",
+        "source": "T32n1629_001:0011a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故應且止頌曰。",
+        "translation": "Therefore, we should stop here and say this verse.",
+        "source": "T32n1629_001:0011a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "　為開智人慧毒藥　　啟斯妙義正理門　諸有外量所迷者　　令越邪途契真義因明正理門論一卷",
+        "translation": "\"In order to open the poison of wisdom for wise people and to reveal the gate of correct principles of this marvelous meaning, those who are deluded by external assessments will be led beyond the mistaken path to the true meaning of the Nyāyamukha-mahāyāna-śāstra.",
+        "source": "T32n1629_001:0011a18_0",
+        "is_bad_quality": false
+    }
+]

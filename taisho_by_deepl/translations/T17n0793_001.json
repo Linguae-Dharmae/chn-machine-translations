@@ -1,0 +1,536 @@
+[
+    {
+        "source_sentence": "佛說佛醫經",
+        "translation": "Foshuo foshei jing",
+        "source": "T17n0793_001:0737a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吳天竺沙門竺律炎共支越譯",
+        "translation": "Translated by the Indian monk Zhu Luyan, a member of the Zhi Yue community",
+        "source": "T17n0793_001:0737a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人身中本有四病：一者、地；二者、水；三者、火；四者、風。",
+        "translation": "There are four illnesses inherent in the human body: one, earth; two, water; three, fire; and four, wind.",
+        "source": "T17n0793_001:0737a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "風增，氣起；火增，熱起；水增，寒起；土增，力盛。",
+        "translation": "When wind increases, energy arises; when fire increases, heat arises; when water increases, cold arises; and when earth increases, strength flourishes.",
+        "source": "T17n0793_001:0737a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本從是四病，起四百四病。",
+        "translation": "From these four illnesses, four hundred and four illnesses arise in the first place.",
+        "source": "T17n0793_001:0737a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "土屬身，水屬口，火屬眼，風屬耳。",
+        "translation": "Earth belongs to the body, water to the mouth, fire to the eyes, and wind to the ears.",
+        "source": "T17n0793_001:0737a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "火少寒多，目冥。",
+        "translation": "When fire is scarce and cold is abundant, the eyes are dark.",
+        "source": "T17n0793_001:0737a28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "春正月、二月、三月寒多，夏四月、五月、六月風多，秋七月、八月、九月熱多，冬十月、十一月、十二月有風有寒。",
+        "translation": "There's lots of cold in the first month of spring, February, and March; lots of wind in April, May, and June of summer; lots of heat in July, August, and September of autumn; and wind and cold in October, November, and December of winter.",
+        "source": "T17n0793_001:0737a28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故春寒多？",
+        "translation": "Why is it that there's much cold in spring?",
+        "source": "T17n0793_001:0737b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以萬物皆生，為寒出，故寒多。",
+        "translation": "It's because everything is born, and cold escapes, so there's lots of cold.",
+        "source": "T17n0793_001:0737b02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故夏風多？",
+        "translation": "Why is there so much summer wind?",
+        "source": "T17n0793_001:0737b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以萬物榮華、陰陽合聚，故風多。",
+        "translation": "It's because everything prospers and flowers, and yin and yang converge that there's much wind.",
+        "source": "T17n0793_001:0737b03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故秋熱多？",
+        "translation": "Why is there so much heat in autumn?",
+        "source": "T17n0793_001:0737b04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以萬物成熟，故熱多。",
+        "translation": "It's because everything is ripe that there's lots of heat.",
+        "source": "T17n0793_001:0737b04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故冬有風有寒？",
+        "translation": "Why is it that winter has wind and cold?",
+        "source": "T17n0793_001:0737b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以萬物終亡熱去，故有風寒。",
+        "translation": "It's because everything dies and heat goes away at the end of the day, so there's wind and cold.",
+        "source": "T17n0793_001:0737b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三月、四月、五月、六月、七月得臥。",
+        "translation": "In the months of March, April, May, June, and July, they'll be able to sleep.",
+        "source": "T17n0793_001:0737b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T17n0793_001:0737b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "風多故身放。",
+        "translation": "Because of the abundance of wind, his body is released.",
+        "source": "T17n0793_001:0737b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八月、九月、十月、十一月、十二月、正月、二月不得臥。",
+        "translation": "They can't lie down in August, September, October, November, December, the first month, or February.",
+        "source": "T17n0793_001:0737b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T17n0793_001:0737b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寒多故身縮。",
+        "translation": "Because there's a lot of cold, his body shrinks.",
+        "source": "T17n0793_001:0737b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "春三月有寒，不得食麥、豆，宜食粳米、醍醐諸熱物。",
+        "translation": "When there's cold in the spring and March, they mustn't eat wheat or beans; instead, they should eat millet, rice, and hot ghee.",
+        "source": "T17n0793_001:0737b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夏三月有風，不得食芋、豆、麥，宜食粳米、乳、酪。",
+        "translation": "In the summer and March when there's wind, they mustn't eat taro, beans, or wheat; instead, they should eat millet, milk, and cheese.",
+        "source": "T17n0793_001:0737b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "秋三月有熱，不得食粳米、醍醐，宜食細米、麨、蜜、稻、黍。",
+        "translation": "In the three months of autumn, when there's heat, he mustn't eat millet or ghee; instead, he should eat millet, rice, honey, rice, and millet.",
+        "source": "T17n0793_001:0737b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "冬三月有風寒，陽興陰合，宜食粳米、胡豆、羹、醍醐。",
+        "translation": "In the three months of winter, when there's a cold wind and a combination of yang and yin, it's better to eat millet, kidney beans, soup, and ghee.",
+        "source": "T17n0793_001:0737b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有時臥風起，有時滅；有時臥火起有時滅。",
+        "translation": "There are times when the wind arises while lying down and times when it goes out, and times when a fire arises while lying down and times when it goes out.",
+        "source": "T17n0793_001:0737b13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有寒起有時滅。",
+        "translation": "There's a time when cold arises and a time when it goes away.",
+        "source": "T17n0793_001:0737b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人得病有十因緣：一者、久坐不飯；二者、食無貸；三者、憂愁；四者、疲極；五者、婬泆；六者、瞋恚；七者、忍大便；八者、忍小便；九者、制上風；十者、制下風。",
+        "translation": "There are ten causes of illness: 1. prolonged sitting without food; 2. lack of food; 3. sadness; 4. exhaustion; 5. sexual misconduct; 6. anger; 7. tolerating bowel movements; 8. tolerating urination; 9. controlling an upper wind; and 10. controlling a lower wind.",
+        "source": "T17n0793_001:0737b14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從是十因緣生病。",
+        "translation": "From these ten causes and conditions, they become ill.",
+        "source": "T17n0793_001:0737b17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「有九因緣，命未當盡為橫盡：一、不應飯為飯，二、為不量飯，三、為不習飯，四、為不出生，五、為止熟，六、為不持戒，七、為近惡知識，八、為入里不時不如法行，九、為可避不避。",
+        "translation": "The Buddha said, \"There are nine causes that make a person's life untimely: 1. not rice for rice, 2. not measuring rice, 3. not cultivating rice, 4. not being born, 5. not ripening, 6. not observing precepts, 7. being near bad friends, 8. not practicing the Dharma from time to time in a neighborhood, and 9. not taking refuge when it's possible to do so.",
+        "source": "T17n0793_001:0737b18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是九因緣，人命為橫盡。",
+        "translation": "Thus, these nine causes and conditions will lead to the arbitrary ending of human life.",
+        "source": "T17n0793_001:0737b22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「不應飯為飯，謂不可意飯，亦謂不隨四時食，亦為以飯復飯，是為不應飯為飯。",
+        "translation": "\"Not rice for rice, which is defined as unattractive rice, not eating according to the four seasons, and taking rice and returning it to rice are considered not rice for rice.",
+        "source": "T17n0793_001:0737b22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不量飯者，謂不知節度，多食過足，是為不量飯。",
+        "translation": "Someone who doesn't measure food means they don't know moderation and eat too much and too much, which is called not measuring food.",
+        "source": "T17n0793_001:0737b24_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不習飯者，謂不時食。",
+        "translation": "Someone who doesn't practice eating is someone who doesn't eat at the right time.",
+        "source": "T17n0793_001:0737b25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若至他郡國，不知俗宜飯食未習，不稍稍飯，是為不習飯。",
+        "translation": "If someone goes to another country and doesn't know the customary food and hasn't yet gotten used to it, and doesn't eat a little bit, this is called not getting used to food.",
+        "source": "T17n0793_001:0737b26_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不出生者，謂飯物未消復上飯，若服藥吐下不盡便食來，是為不出生。",
+        "translation": "Someone who doesn't produce refers to serving rice before it's gone, or if they take medicine and vomit it down before eating it all, this is called not producing.",
+        "source": "T17n0793_001:0737b27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "止熟者，謂大便、小便來時不即時行，噫吐、下風來時，制是為止熟。",
+        "translation": "Stopping maturation means not doing so immediately when a bowel movement or urination comes, or stopping maturation when yawning or vomiting and catching a breeze come.",
+        "source": "T17n0793_001:0737b29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不持戒者，謂犯五戒，現世間盜，犯他人婦女者，便入縣官，或刻、或死、或得棓榜壓死、若餓死、或得脫外從怨家得首死、或驚怖憂愁死，是為不持戒。",
+        "translation": "Someone who doesn't observe the precepts, meaning they violate the five precepts, steal in the present world, or violate another person's wife, and then they'll be put before a magistrate, or they'll be carved up, die, be crushed to death by a gallows post, die of hunger, escape from a rival and get their head killed, or die of fear and sorrow.",
+        "source": "T17n0793_001:0737c01_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "近惡知識者，謂他人作惡便來及人。",
+        "translation": "Someone who's close to a bad friend means that someone else who does evil will then come and do it to others.",
+        "source": "T17n0793_001:0737c04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T17n0793_001:0737c05_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不離惡知識故。",
+        "translation": "It's because they don't part with bad associates.",
+        "source": "T17n0793_001:0737c05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惡人不計當坐之，是為近惡知識。",
+        "translation": "Not counting evil people who will sit there, this is considered being near a bad friend.",
+        "source": "T17n0793_001:0737c06_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入里不知時不如法行者，謂晨暮行，亦有魍魎諍鬪者，若有長吏追捕而不避，若入他家舍，妄視不可視、妄聽不可聽、妄犯不可犯、妄念不可念，是為入不知時不如法行。",
+        "translation": "Someone who doesn't know when they're inside and doesn't conduct themselves according to the teaching refers to those who walk in the morning and evening, those who fight with monsters, those who aren't avoided when pursued by an officer, and those who enter another house and falsely look but don't look, falsely listen but don't listen, falsely violate but don't violate, and falsely think but don't think, this is not conducting themselves according to the teaching when they don't know when they're inside.",
+        "source": "T17n0793_001:0737c06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "可避不避者，謂弊牛、馬、狾、狗、蚖、蛇、虫，水、火、坑、穽、犇車、馳馬，拔刀醉人、惡人。",
+        "translation": "Those who can be avoided but aren't avoided are cattle, horses, men, dogs, newts, snakes, insects, water, fire, pits, ï¿½, chariots, horses, drunkards with drawn swords, and evil people.",
+        "source": "T17n0793_001:0737c10_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦若干，是為可避不避。",
+        "translation": "There are also a number of these that can be avoided and not avoided.",
+        "source": "T17n0793_001:0737c12_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「如是九因緣，人命未盡為盡。",
+        "translation": "\"Thus, these nine causes and conditions are considered to be the end of human life before it's exhausted.",
+        "source": "T17n0793_001:0737c13_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "黠人當識是，當避是，已避得兩福：一者得長壽，及得聞道好語，亦得久行道。」",
+        "translation": "A wise person should recognize them and avoid them, and once they've avoided them, they'll attain two merits: one is a long life, and they'll hear the good words of the Way and practice the Way for a long time.\"",
+        "source": "T17n0793_001:0737c13_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「有四飯：一、為子飯，二、為三百矛斫飯，三、為皮革虫生出飯，四、為災飯。",
+        "translation": "The Buddha said, \"There are four kinds of rice: 1. rice for children, 2. rice for the 300 spears that chop off rice, 3. rice for leather worms that grow out of rice, and 4. rice for disasters.",
+        "source": "T17n0793_001:0737c15_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "子飯者，謂人貪味食肉時，便自校計念：『是肉皆我前世時父母、兄弟、妻子親屬，亦從是不得脫生死！』",
+        "translation": "Son's rice means that when a person craves meat, he or she then calibrates it and thinks, 'This meat belonged to my parents, brothers, wife, and relatives in a previous life, and from this they couldn't escape birth-and-death!'",
+        "source": "T17n0793_001:0737c17_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已得是意便止貪，是為子飯。",
+        "translation": "Once he has attained this intention, he then stops craving, which is called \"rice for children.",
+        "source": "T17n0793_001:0737c19_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三百矛斫飯者，謂飯隨味念復念其殃，無有數能不念味便得脫。",
+        "translation": "The 300 spears that chop up rice means that rice is mindful of its taste and also mindful of its suffering, and there aren't many people who can escape without being mindful of its taste.",
+        "source": "T17n0793_001:0737c20_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又矛斫人為亡身，已生念復念有若干受苦，為三百矛斫飯。",
+        "translation": "Another spear strikes a person's body to kill him, and once mindfulness arises, it's also mindful of how much suffering there is, which is 300 spears striking rice.",
+        "source": "T17n0793_001:0737c21_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皮革虫生出飯者，謂人念味，亦一切萬物憂家中事，便穿人意，意作萬端為出去，是為皮革虫生飯。",
+        "translation": "A person's mindfulness of taste and all the things that concern them at home will penetrate their thoughts, and their thoughts will create myriad ways to escape, which is called a meal made of leather worms.",
+        "source": "T17n0793_001:0737c22_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "災飯者，謂一生死行皆為災飯，如火燒萬物，人所行皆當來惱身，劇火焚萬物故言災。",
+        "translation": "\"Disastrous rice\" means that a single act of birth and death is disastrous rice, like when fire burns everything, and what a person does will come to disturb his body and burn everything, so it's called disastrous.",
+        "source": "T17n0793_001:0737c25_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所以言飯者，謂人所可意念人，故言飯也。",
+        "translation": "That's why it's called food, because it's something people can think about, and that's why it's called food.",
+        "source": "T17n0793_001:0737c27_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "「人食肉譬如食其子，諸畜生皆為我作父母、兄弟、妻子，不可數。",
+        "translation": "\"A person who eats meat is like eating his son, and all the animals that make parents, brothers, and wives for me are incalculable.",
+        "source": "T17n0793_001:0737c28_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有六因緣不得食肉：一者、莫自殺；二者、莫教殺；三者、莫與殺同心；四者、見殺；五者、聞殺；六者、疑為我故殺。",
+        "translation": "There are also six reasons why eating meat isn't allowed: first, don't kill yourself; second, don't teach to kill; third, don't be in agreement with someone who kills; fourth, killing because of what you see; fifth, killing because of what you hear; and sixth, killing because of a doubt about me.",
+        "source": "T17n0793_001:0737c29_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無是六意得食肉，不食者有六疑。",
+        "translation": "Without these six intentions, it's possible to eat meat, and those who don't eat it have six doubts.",
+        "source": "T17n0793_001:0738a03_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人能不食肉者，得不驚怖福。」",
+        "translation": "A person who doesn't eat meat will attain the virtue of not being frightened.\"",
+        "source": "T17n0793_001:0738a03_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「食多有五罪：一者、多睡眠；二者、多病；三者、多婬；四者、不能諷誦經；五者、多著世間。",
+        "translation": "The Buddha said, \"Eating a lot of food has five sins: one, much drowsiness; two, much illness; three, much sexual misconduct; four, being unable to recite sūtras; and five, much attachment to the world.",
+        "source": "T17n0793_001:0738a04_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故？",
+        "translation": "Why is that?",
+        "source": "T17n0793_001:0738a06_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人貪婬、人知色味，瞋恚知橫至味，癡人知飯食味。",
+        "translation": "A person craves lust, a person knows the taste of form, an angry person knows the taste of the cross, and a deluded person knows the taste of food.",
+        "source": "T17n0793_001:0738a06_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "《律經》說：『人貪味，味復味得生不得美味。』」",
+        "translation": "The Vinaya says, 'A person craves taste, and taste after taste obtains birth and doesn't taste good.'\"",
+        "source": "T17n0793_001:0738a07_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「一食者為欲斷生死，亦隨貪不能行道，為得天眼自知所從來生去至何所。",
+        "translation": "The Buddha said, 'A monk who eats because he wants to stop birth and death and follows craving can't practice the path, and he wants to attain the divine eye to know for himself where he's been born and where he's gone.'",
+        "source": "T17n0793_001:0738a08_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人不念死，多食，常念婦人，皆墮百四十惡，中天皆用飯故。",
+        "translation": "People who aren't mindful of death and eat a lot, and who are always mindful of women, will fall into the 140 evils, for which the middle gods all use food.",
+        "source": "T17n0793_001:0738a10_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "犯十惡後生便失人形，墮畜生中。",
+        "translation": "After committing the ten evils, they'll lose their human form and fall into the animal kingdom.",
+        "source": "T17n0793_001:0738a11_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既得作人，飢渴血出，瞋恚傍生，於愛內生於貪。",
+        "translation": "Once they become human, their hunger and thirst bleeds, and anger arises in the company of others, creating craving within craving.",
+        "source": "T17n0793_001:0738a12_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說有大福，自飢以飯與人，令人得命，是為大福。",
+        "translation": "The Buddha teaches that there's great merit in giving someone food when you're hungry, so they can live.",
+        "source": "T17n0793_001:0738a13_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後生饒飲食，乏瞋恚，亦無所施，施亦不得，但意恣貪婬，亦無所施，但得意恣，非我所有。",
+        "translation": "Later sentient beings who are generous with food and drink and lack anger don't have anything to give, and they can't even give, except for wanton greed and lust, which also don't have anything to give but wantonness, which is not owned by me.",
+        "source": "T17n0793_001:0738a14_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一錢以上，不得取故，作貪欲空，自苦作罪。",
+        "translation": "Because he can't take more than a coin, he creates craving for emptiness and commits a self-inflicted sin.",
+        "source": "T17n0793_001:0738a16_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "道人不有憂愁，憂隨怒，愁隨貪。",
+        "translation": "A practitioner of the Way doesn't have grief, but grief follows anger, and grief follows craving.",
+        "source": "T17n0793_001:0738a17_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我輩有死歲、有死月、有死日、有死時，亦不知、亦不畏、亦不行道、亦不持戒，東走西走，憂銅憂鐵，憂田宅、奴婢，但益人惱、增人苦，為種畜生習。」",
+        "translation": "When there's a year of death, a month of death, a day of death, or a time of death, we don't know, don't fear, don't practice the path, and don't observe precepts; we walk east and west; we worry about copper and iron; we worry about our homes and our slaves; and we only contribute to people's misery and increase their suffering, which is the habit of planting animals.\"",
+        "source": "T17n0793_001:0738a18_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言：「人治生，譬如蜂作蜜。",
+        "translation": "The Buddha said, \"A person's rule over birth is like a bee making honey.",
+        "source": "T17n0793_001:0738a21_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "採取眾華，勤苦積日已成，人便攻取去。",
+        "translation": "After taking many flowers and accumulating them with diligent effort over many days, a person then attacks them and takes them away.",
+        "source": "T17n0793_001:0738a22_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唐自苦，不得自給。",
+        "translation": "Don't make it painful for yourself; you can't give it to yourself.",
+        "source": "T17n0793_001:0738a22_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人求是念，是憂有憂，無飢渴勤苦。",
+        "translation": "When a person seeks this mindfulness, it's sadness and sorrow, and there's no hunger, thirst, hard work, or suffering.",
+        "source": "T17n0793_001:0738a23_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "合聚財物，未死，憂五家分，或水、火、盜賊、縣官、病痛，多不如意。",
+        "translation": "Before they combine their wealth and possessions and die, they worry about the division of their five families, or about water, fire, thieves, magistrates, illness, and many other things that are not to their liking.",
+        "source": "T17n0793_001:0738a24_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "己死，他人得之。",
+        "translation": "When they die, someone else will get them.",
+        "source": "T17n0793_001:0738a25_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身當得其罪，毒痛不可言。",
+        "translation": "He'll be guilty of such crimes, and the pain will be unspeakable.",
+        "source": "T17n0793_001:0738a25_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五分者：一者、火分；二者、水分；三者、盜賊分；四者、縣官分；五者、貧昆弟分。",
+        "translation": "The five parts are: 1. fire; 2. water; 3. thieves and robbers; 4. magistrates; and 5. the poor and the young.",
+        "source": "T17n0793_001:0738a26_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何為無憂所有？",
+        "translation": "What's the property of having no sorrow?",
+        "source": "T17n0793_001:0738a28_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人不計是五分憂，苦劇不棄，是憂苦有萬端，結在腹中，離道遠法。",
+        "translation": "\"A person doesn't count these five kinds of grief and doesn't abandon suffering, because grief and suffering have myriad ends, are bound up in the belly, and are far removed from the path.",
+        "source": "T17n0793_001:0738a28_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人法生賈作，得利，不當喜；不得利，亦不當憂；是皆前世宿命所致。",
+        "translation": "When people are born in the world of creation, they won't rejoice when they get profit; they won't be sad when they don't get profit; it's all the result of a prior life's fate.",
+        "source": "T17n0793_001:0738a29_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人有貪，貪便不得利。",
+        "translation": "When people are greedy, they won't get any profit from greed.",
+        "source": "T17n0793_001:0738b02_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "正使得一天下財物，亦不能猛自用之，亦不隨人去，但益人結、但有苦惱、但種後世緣因。",
+        "translation": "It's precisely because of greed that a world's wealth and property can't be used vigorously by itself and doesn't go with others, but only benefits the bonds of others, causes suffering and distress, and plant causes for conditions in later lives.",
+        "source": "T17n0793_001:0738b02_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緣因如火，如火無所不燒。",
+        "translation": "A conditional cause is like fire, and there's nothing that fire doesn't burn.",
+        "source": "T17n0793_001:0738b04_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我輩不覺，是黠不敢妄搖，知為增苦種罪。」",
+        "translation": "We don't realize it, so we craftily don't dare to waver, knowing that it will increase suffering and plant sins.\"",
+        "source": "T17n0793_001:0738b05_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說佛醫經",
+        "translation": "Foshuo foshe jing",
+        "source": "T17n0793_001:0738b07_0",
+        "is_bad_quality": false
+    }
+]

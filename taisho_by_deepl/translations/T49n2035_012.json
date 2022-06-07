@@ -1,0 +1,3428 @@
+[
+    {
+        "source_sentence": "佛祖統紀卷第十二",
+        "translation": "Complete Chronicle of the Buddha and Patriarchs, Volume XII",
+        "source": "T49n2035_012:0213c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "宋景定四明東湖沙門志磐撰",
+        "translation": "Song Jingding Siming Donghu shaman Zhipan zu",
+        "source": "T49n2035_012:0213c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸師列傳第六之二",
+        "translation": "Sixth and Second Legends of the Teachers",
+        "source": "T49n2035_012:0213c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明法智法師法嗣(第一世)",
+        "translation": "Dharma heir of Siming Fazhi Fashi (1st generation)",
+        "source": "T49n2035_012:0213c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣智尚賢法師神照本如法師南屏梵",
+        "translation": "Guangzhi Shangxian Fashi Shenzhao Benru Fashi Nanping Fan",
+        "source": "T49n2035_012:0213c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臻法師三學則全法師浮石崇矩法師",
+        "translation": "Zhenye Fashi Sanxue Zechuan Fashi Fushi Chongku Fashi",
+        "source": "T49n2035_012:0213c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣慈慧才法師廣嚴含瑩法師慧因",
+        "translation": "Guangci Huicai Fashi Guangyanhangying Fashi Huiyin",
+        "source": "T49n2035_012:0213c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "擇交法師圓智覺琮法師崇法嗣端法",
+        "translation": "Chos kyi dharma masters Enzhi Jue cong dharma masters Chong Fazi Tuan fa",
+        "source": "T49n2035_012:0213c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師四明文粲法師丹丘嗣謙法師四",
+        "translation": "Si Ming Wenchuan Fashi Danqiu Xiqian Fashi Si",
+        "source": "T49n2035_012:0213c11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明願彬法師廣印智環法師祥符文智",
+        "translation": "Mingyanbin Fashi guang yinzhihuan fashi xiangfu wenzhi",
+        "source": "T49n2035_012:0213c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師三衢文炳法師四明用卿法師",
+        "translation": "Fashi Sanqu Wenbing Fashi Siming Youqing Fashi",
+        "source": "T49n2035_012:0213c13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明居永法師四明自仁法師崇慶本",
+        "translation": "Siming Juyong Fashi Siming Ziren Fashi Chongqing ben",
+        "source": "T49n2035_012:0213c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "圓法師天台慧舟法師三衢懷襲法師",
+        "translation": "Master Yuan Fashi Tiantai Hui Zhou Fashi Sanqu Huaiqun Fashi",
+        "source": "T49n2035_012:0213c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "圓智志豪法師日本源信法師",
+        "translation": "Yuanzhi Zhihao Fashi Japanese Genshin Fashi",
+        "source": "T49n2035_012:0213c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "內侍俞源清嗣法二十七人(塔銘)入室四百七十八人(實錄)升堂一千人(塔銘)法智法師法嗣法師尚賢。",
+        "translation": "House-attendant Yu Yuanqing had 27 Dharma successors (memorial on the stūpa), 478 entered the room (actual record), and 1,000 ascended to the hall (memorial on the stūpa).",
+        "source": "T49n2035_012:0213c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明人。",
+        "translation": "He was a native of Siming.",
+        "source": "T49n2035_012:0213c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賜號廣智。",
+        "translation": "He was given the name Guangzhi.",
+        "source": "T49n2035_012:0213c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依法智學教觀。",
+        "translation": "He relied on Dharmajñāna to train in didactic contemplation.",
+        "source": "T49n2035_012:0213c20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聞講淨名頓悟性相之旨。",
+        "translation": "He heard the lecture on the pure name and suddenly realized the essence of nature and characteristics.",
+        "source": "T49n2035_012:0213c21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "歷事既久遂居高第。",
+        "translation": "After a long career, he was then promoted to a high rank.",
+        "source": "T49n2035_012:0213c21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天聖六年(仁宗)繼法智主延慶。",
+        "translation": "In the sixth year of Tianshō's reign (Renzong's reign), he succeeded Fazhi as head of Yanqing.",
+        "source": "T49n2035_012:0213c22_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "道化盛行。",
+        "translation": "The Daocheng era was in full swing.",
+        "source": "T49n2035_012:0213c22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雪竇顯禪師聞其名。",
+        "translation": "The Chan Master Xuedou Xian heard of his reputation.",
+        "source": "T49n2035_012:0213c23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "出山來訪。",
+        "translation": "He came out of the mountains to visit.",
+        "source": "T49n2035_012:0213c23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "標榜煎茶以申賀禮。",
+        "translation": "He announced that he would make tea to celebrate the occasion.",
+        "source": "T49n2035_012:0213c23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人傳以為盛事。",
+        "translation": "It was rumored to be a great event.",
+        "source": "T49n2035_012:0213c24_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗晨入懺堂。",
+        "translation": "He once entered the confessional in the morning.",
+        "source": "T49n2035_012:0213c24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見一虎伏几前。",
+        "translation": "He saw a tiger crouching in front of a couple of seats.",
+        "source": "T49n2035_012:0213c25_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師直進展尼師壇於背。",
+        "translation": "The teacher directly advanced to the nun's altar and placed it on his back.",
+        "source": "T49n2035_012:0213c25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寂無所覩。",
+        "translation": "He was silent and didn't see anything.",
+        "source": "T49n2035_012:0213c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "日本國師遣紹良等。",
+        "translation": "The Japanese national preceptor sent Shaoliang and others.",
+        "source": "T49n2035_012:0213c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "齎金字法華為贄。",
+        "translation": "They brought a gold-letter dharma-flower as an invitation.",
+        "source": "T49n2035_012:0213c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "請學輪下三年學成。",
+        "translation": "He asked them to train under the wheel for three years and then finish their training.",
+        "source": "T49n2035_012:0213c27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "辭還日本大弘斯道。",
+        "translation": "He resigned and returned to Japan to greatly promote the Way.",
+        "source": "T49n2035_012:0213c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明道中(仁宗)淨覺居靈芝。",
+        "translation": "In the middle of the Mingdao period (during the reign of the Inzong school), Jingjue lived in Lingzhi.",
+        "source": "T49n2035_012:0213c28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "致書於師。",
+        "translation": "He sent a letter to the master.",
+        "source": "T49n2035_012:0213c28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "論指要解三千之義。",
+        "translation": "He explained the meaning of the 3,000 essentials.",
+        "source": "T49n2035_012:0213c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "秖是心性所具俗諦之法。",
+        "translation": "It's just a teaching of the conventional truth that's inherent in the nature of the mind.",
+        "source": "T49n2035_012:0213c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未是中道之本。",
+        "translation": "It's not yet the root of the middle way.",
+        "source": "T49n2035_012:0214a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "請師同反師承。",
+        "translation": "He asked the master to share the opposite view of the teacher's commitment.",
+        "source": "T49n2035_012:0214a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師援荊溪三千即空假中之文。",
+        "translation": "The teacher relied on Jingxi's text that the 3,000 are empty, provisional, and intermediate.",
+        "source": "T49n2035_012:0214a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂何必專在於假。",
+        "translation": "He asked why it had to be exclusively false.",
+        "source": "T49n2035_012:0214a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以輔四明三千俱體俱用之義學者賴之(往復二書並見廣智遺編)所著遺編。",
+        "translation": "In order to supplement the four explanations of the principle that the three chiliocosms are both essence and function, scholars rely on them (see also the compilation of the remains of Guangzhi for the past and future books).",
+        "source": "T49n2035_012:0214a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及釋金錍(亡本)。",
+        "translation": "He also explained the Golden Scalpel (a dead text).",
+        "source": "T49n2035_012:0214a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "釋十類(即扶宗忠師。",
+        "translation": "He explained the ten categories (i.e., the teacher Fuzong Zhong.",
+        "source": "T49n2035_012:0214a04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所錄廣智傳。",
+        "translation": "The Recorded Biographies of Guangzhi.",
+        "source": "T49n2035_012:0214a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智二師口義)翼讚大教至為有功。",
+        "translation": "The oral teachings of the two masters Fazhi and Zhizhi were extremely helpful in praising the great teaching.",
+        "source": "T49n2035_012:0214a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "經體一章尤善發明。",
+        "translation": "This chapter on the essence of the scriptures is especially well-invented.",
+        "source": "T49n2035_012:0214a05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "續遺妙宗之旨。",
+        "translation": "He continued to leave behind the tenets of the Marvelous School.",
+        "source": "T49n2035_012:0214a06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又嘗著闡幽誌。",
+        "translation": "He also wrote the Explanation of the Secret Doctrine.",
+        "source": "T49n2035_012:0214a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以七種二諦消光明諸經之王(四教之正三接之旁)法智是其說。",
+        "translation": "He explained the seven kinds of elimination of the two truths as the king of scriptures (beside the four teachings and the three connections), and this was Fazhi's teaching.",
+        "source": "T49n2035_012:0214a07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及後作光明記。",
+        "translation": "Later, he wrote a record of the illumination of the scriptures.",
+        "source": "T49n2035_012:0214a08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂采用之(見口義經體章)。",
+        "translation": "He then adopted it (see the chapter on the essence of the Sutra of the Oral Meaning).",
+        "source": "T49n2035_012:0214a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "草菴錄言。",
+        "translation": "Cao'an's Record says.",
+        "source": "T49n2035_012:0214a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曾魯公為廣智撰塔銘。",
+        "translation": "\"Zeng Lugong wrote the inscription on the stūpa for Guangzhi.",
+        "source": "T49n2035_012:0214a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而後世無傳。",
+        "translation": "It was not transmitted to a later generation.",
+        "source": "T49n2035_012:0214a10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當是與寺俱燬於建炎之寇。",
+        "translation": "It was probably destroyed along with the temple during the invasion of Jianyan.",
+        "source": "T49n2035_012:0214a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惜哉。",
+        "translation": "What a pity!",
+        "source": "T49n2035_012:0214a11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師本如。",
+        "translation": "Fashi Benru.",
+        "source": "T49n2035_012:0214a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明句章人。",
+        "translation": "He was from Juzhang in Siming.",
+        "source": "T49n2035_012:0214a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受業本郡國寧。",
+        "translation": "He received his training from Guoning, a prefecture in his home county.",
+        "source": "T49n2035_012:0214a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初依法智。",
+        "translation": "He first had the wisdom of the Dharma.",
+        "source": "T49n2035_012:0214a13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於千眾中有少俊聲。",
+        "translation": "Among the thousand congregations, he had a reputation as a junior monk.",
+        "source": "T49n2035_012:0214a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "史典詞翰有法則。",
+        "translation": "His scriptures, words, and writing had a code of laws.",
+        "source": "T49n2035_012:0214a14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為世所愛。",
+        "translation": "He was loved by the world.",
+        "source": "T49n2035_012:0214a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗請益經正義。",
+        "translation": "He was often asked to give the scriptures their correct meaning.",
+        "source": "T49n2035_012:0214a15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智曰。",
+        "translation": "Dharmajñāna said.",
+        "source": "T49n2035_012:0214a15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為我作知事三年却向汝道。",
+        "translation": "'I've been your manager for three years, but I've come to you for guidance.'",
+        "source": "T49n2035_012:0214a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "暨事畢復以為請。",
+        "translation": "Now that he's finished, he'll ask for more.",
+        "source": "T49n2035_012:0214a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智厲聲一喝。",
+        "translation": "Fazhi gave a sharp shout.",
+        "source": "T49n2035_012:0214a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復呼云本如。",
+        "translation": "He again called out to Yun Benru.",
+        "source": "T49n2035_012:0214a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師豁然有悟。",
+        "translation": "The teacher was suddenly enlightened.",
+        "source": "T49n2035_012:0214a17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為之頌曰。",
+        "translation": "He spoke a verse for him, saying.",
+        "source": "T49n2035_012:0214a18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處處逢歸路。",
+        "translation": "\"Everywhere I meet the road of refuge.",
+        "source": "T49n2035_012:0214a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頭頭復故鄉。",
+        "translation": "\"Everywhere I meet the road back to my hometown, my head returns to my hometown.",
+        "source": "T49n2035_012:0214a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "本來成現事。",
+        "translation": "This is a present thing that's originally been accomplished.",
+        "source": "T49n2035_012:0214a19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何必待思量。",
+        "translation": "Why should we wait to think about it?",
+        "source": "T49n2035_012:0214a19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智肯之曰。",
+        "translation": "Fazhi agreed with him, saying.",
+        "source": "T49n2035_012:0214a19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "向來若為汝說。",
+        "translation": "'If I had explained this for you before.",
+        "source": "T49n2035_012:0214a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈有今日。",
+        "translation": "Wouldn't it have happened today?",
+        "source": "T49n2035_012:0214a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "祥符四年。",
+        "translation": "It was the fourth year of Xiangfu.",
+        "source": "T49n2035_012:0214a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈雲遷靈山。",
+        "translation": "Ciyun moved to Vulture Peak.",
+        "source": "T49n2035_012:0214a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "親往法智會下。",
+        "translation": "He personally went to Fazhi's assembly.",
+        "source": "T49n2035_012:0214a21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "求可為繼。",
+        "translation": "He asked if he could continue.",
+        "source": "T49n2035_012:0214a21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智曰。",
+        "translation": "Dharmajñāna said.",
+        "source": "T49n2035_012:0214a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當於眾中自擇之。",
+        "translation": "\"You should choose one among the others.",
+        "source": "T49n2035_012:0214a22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈雲閱視至師即云。",
+        "translation": "Cijun then looked at the master and said.",
+        "source": "T49n2035_012:0214a22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "斯人可也。",
+        "translation": "\"This person is acceptable.",
+        "source": "T49n2035_012:0214a23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師至承天(東山能仁舊名)大振法道。",
+        "translation": "He went to Chengtian (Dongshan Nengren's old name) and greatly revitalized the Dharma and path.",
+        "source": "T49n2035_012:0214a23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "歷三十年。",
+        "translation": "He had been there for thirty years.",
+        "source": "T49n2035_012:0214a23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾常五六百。",
+        "translation": "His congregation was always five or six hundred.",
+        "source": "T49n2035_012:0214a24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法華涅槃光明觀無量壽觀音別行玄止觀金錍觀心論等。",
+        "translation": "He taught the Dharma Flower, Nirvana, Bright Contemplation, Immeasurable Life, Avalokitêśvara, and Special Practices, Profound Cessation, and Contemplation, Golden Scalpel, and Mind Treatise.",
+        "source": "T49n2035_012:0214a24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆講說六七過。",
+        "translation": "They all preached six or seven faults.",
+        "source": "T49n2035_012:0214a25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗集百僧修法華長懺一年。",
+        "translation": "He once gathered a hundred monks to practice the long confessional of the Lotus for a year.",
+        "source": "T49n2035_012:0214a26_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "瑞驗屢見。",
+        "translation": "The auspicious experiences were often seen.",
+        "source": "T49n2035_012:0214a26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寶歷二年七月。",
+        "translation": "It was the seventh month of the second year of the reign of Baoliang.",
+        "source": "T49n2035_012:0214a27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "駙馬李遵勗為請於朝。",
+        "translation": "In the seventh month of the second year of Baoliang, the concubine Li Zunxu invited him to the imperial court.",
+        "source": "T49n2035_012:0214a27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賜神照法師紫方袍。",
+        "translation": "He bestowed a purple robe on the teacher Shenzhao Fashi.",
+        "source": "T49n2035_012:0214a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及賜智者教文四千五百卷。",
+        "translation": "He also gave him 4,500 scrolls of the Zhizhe jiao wen.",
+        "source": "T49n2035_012:0214a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以資講說。",
+        "translation": "They were given to him as a means of instruction.",
+        "source": "T49n2035_012:0214b01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗於寺西南隅。",
+        "translation": "He was once at the southwest corner of the temple.",
+        "source": "T49n2035_012:0214b01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見一虎睡以杖擊之曰。",
+        "translation": "He saw a tiger sleeping and struck it with his staff, saying.",
+        "source": "T49n2035_012:0214b01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此非汝睡處。",
+        "translation": "'This is not a place for you to sleep.'",
+        "source": "T49n2035_012:0214b02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "虎俛首而去(今白蓮寺虎溪亭)後於虎臥處結屋為菴歸間其中。",
+        "translation": "He exhorted him to leave (the present Tiger Brook Pavilion at the White Lotus Temple) and then he built a house where the tiger was sleeping and returned to it.",
+        "source": "T49n2035_012:0214b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "先是有五通神居於此。",
+        "translation": "In the past, five spirits of supernormal power lived here.",
+        "source": "T49n2035_012:0214b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師每禪坐必連床舁行空中。",
+        "translation": "Whenever he sat in meditation, he would carry him up into the air with his bed.",
+        "source": "T49n2035_012:0214b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師未嘗問。",
+        "translation": "The teacher never asked about it.",
+        "source": "T49n2035_012:0214b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一日五神請曰。",
+        "translation": "One day, the five spirits asked him.",
+        "source": "T49n2035_012:0214b05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師既踞吾居。",
+        "translation": "\"Master, we've taken up residence here.",
+        "source": "T49n2035_012:0214b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乞於此向山岡。",
+        "translation": "Would you please build a shrine and statue here on this hill?",
+        "source": "T49n2035_012:0214b06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "建祠塑像。",
+        "translation": "He should build a shrine and sculpt an image.",
+        "source": "T49n2035_012:0214b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已備泥在山矣。",
+        "translation": "The mud has already been prepared and placed on the mountain.",
+        "source": "T49n2035_012:0214b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師往視岡上。",
+        "translation": "The teacher went to look at the hill.",
+        "source": "T49n2035_012:0214b07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有新泥一垛。",
+        "translation": "There was a fresh pile of mud.",
+        "source": "T49n2035_012:0214b07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以之塑像無所餘。",
+        "translation": "There was nothing left for him to sculpt the image.",
+        "source": "T49n2035_012:0214b07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師慕廬山之風。",
+        "translation": "Admiring the style of Mount Lu, the teacher formed the White Lotus Society with the prime minister Zhang Huigong and other wise men.",
+        "source": "T49n2035_012:0214b08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與丞相章郇公諸賢結白蓮社。",
+        "translation": "He formed the White Lotus Society with the prime minister Zhang Huigong and his fellow scholars.",
+        "source": "T49n2035_012:0214b08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六七年來遂成巨剎。",
+        "translation": "In the past sixty-seven years, it had become a huge blazing buddha.",
+        "source": "T49n2035_012:0214b09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃以能仁山林三之一。",
+        "translation": "He then took one of the three Nengren mountain groves.",
+        "source": "T49n2035_012:0214b09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "指嶺為界。",
+        "translation": "He pointed out a hill as the boundary.",
+        "source": "T49n2035_012:0214b10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以供樵薪。",
+        "translation": "It was to be used for firewood.",
+        "source": "T49n2035_012:0214b10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "仁宗欽其道。",
+        "translation": "The Humane Kings admired his path.",
+        "source": "T49n2035_012:0214b10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂賜名為白蓮。",
+        "translation": "He then gave it the name Shirin.",
+        "source": "T49n2035_012:0214b11_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皇祐三年五月十八日微疾。",
+        "translation": "He became slightly ill on the 18th day of the fifth month in the third year of Emperor You's reign.",
+        "source": "T49n2035_012:0214b11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即升座說法與眾訣別。",
+        "translation": "He then ascended to his seat to expound the Dharma and bid farewell to the congregation.",
+        "source": "T49n2035_012:0214b12_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其夕法堂藏閣方丈棟梁皆折。",
+        "translation": "On the evening of that day, the belfry of the Dharma hall, the abbot's quarters, and the beams all broke.",
+        "source": "T49n2035_012:0214b12_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "鍾鼓擊之無聲。",
+        "translation": "The bells and drums were silent when they were beaten.",
+        "source": "T49n2035_012:0214b13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "江上漁人。",
+        "translation": "A fisherman on the river saw a monk in the clouds heading west.",
+        "source": "T49n2035_012:0214b13_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見雲端有僧西向而去。",
+        "translation": "He saw a priest on a cloud heading west.",
+        "source": "T49n2035_012:0214b14_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "詰旦右脇安庠而逝。",
+        "translation": "He passed away peacefully at his right hypochondrium.",
+        "source": "T49n2035_012:0214b14_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時天氣盛熱異香非常。",
+        "translation": "It was a hot day, and the smell was extraordinary.",
+        "source": "T49n2035_012:0214b15_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明年三月。",
+        "translation": "In March of the next year.",
+        "source": "T49n2035_012:0214b15_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "塔全身於寺北。",
+        "translation": "The stūpa was erected to the north of the temple.",
+        "source": "T49n2035_012:0214b16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "門人啟鑰視尊容如生爪髮俱長。",
+        "translation": "The disciples opened the key and looked at the venerable's features as if he'd been born, and his claws and hair were all long.",
+        "source": "T49n2035_012:0214b16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有大蓮華產於塔前。",
+        "translation": "A large lotus flower was planted in front of the stūpa.",
+        "source": "T49n2035_012:0214b17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "壽七十。",
+        "translation": "It had a life span of 70 years.",
+        "source": "T49n2035_012:0214b17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臘五十三。",
+        "translation": "He had a life span of seventy years and a waxing age of fifty-three.",
+        "source": "T49n2035_012:0214b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嗣法處咸等甚眾。",
+        "translation": "There were many successors in the Dharma office, such as Ham.",
+        "source": "T49n2035_012:0214b18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師嘗於天台邑中為眾施戒。",
+        "translation": "The teacher had been in the town of Tiantai, giving precepts to the people.",
+        "source": "T49n2035_012:0214b18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "方秉羯磨忽有光明。",
+        "translation": "He was just holding karma when suddenly there was a bright light.",
+        "source": "T49n2035_012:0214b19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "自智者塔國清寺赤城山。",
+        "translation": "It came from the Zhizhe Pagoda, the National Clear Temple, and the Red City Mountain.",
+        "source": "T49n2035_012:0214b19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "交射於法座之上。",
+        "translation": "It was beamed from the top of the Dharma throne.",
+        "source": "T49n2035_012:0214b20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又因供千佛。",
+        "translation": "He also made offerings to a thousand buddhas.",
+        "source": "T49n2035_012:0214b20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "飯一千貧人。",
+        "translation": "He was feeding a thousand poor people.",
+        "source": "T49n2035_012:0214b21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "置華於席下。",
+        "translation": "They put flowers under their seats.",
+        "source": "T49n2035_012:0214b21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛座華應不萎而反萎。",
+        "translation": "The flowers on the Buddha's throne should not wither, but they do wither.",
+        "source": "T49n2035_012:0214b21_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "貧人座華應萎而反不萎。",
+        "translation": "The flowers on the poor man's seat should wither but don't wither.",
+        "source": "T49n2035_012:0214b22_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉眾為之歎異。",
+        "translation": "The crowd marveled at that.",
+        "source": "T49n2035_012:0214b22_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗著仁王懺儀。",
+        "translation": "He also wrote the Renwang changyi.",
+        "source": "T49n2035_012:0214b23_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "撰行法經疏至十種境界而止。",
+        "translation": "He wrote a commentary on the Sutra of Practicing the Dharma that ended at ten kinds of objects.",
+        "source": "T49n2035_012:0214b23_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後咸法師續而全之。",
+        "translation": "Later, Master Ham continued it and completed it.",
+        "source": "T49n2035_012:0214b24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問宣子記曰。",
+        "translation": "Qixuanzi recorded that.",
+        "source": "T49n2035_012:0214b25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘉定四年春。",
+        "translation": "\"In the spring of the fourth year of Jiading.",
+        "source": "T49n2035_012:0214b25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住山鑑堂謂。",
+        "translation": "He stayed at the Shanjian Hall, saying.",
+        "source": "T49n2035_012:0214b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師塔當方丈後。",
+        "translation": "\"The teacher's stūpa should be built behind the abbot's office.",
+        "source": "T49n2035_012:0214b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "狃於風水非宜之說。",
+        "translation": "He was disillusioned with the theory that feng shui was inappropriate.",
+        "source": "T49n2035_012:0214b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "將遷之。",
+        "translation": "He was about to move it.",
+        "source": "T49n2035_012:0214b26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "破土數寸香氣襲人。",
+        "translation": "When the earth was broken a few inches away, the fragrance was overpowering.",
+        "source": "T49n2035_012:0214b27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "棺上產蓮華一莖光明奕奕。",
+        "translation": "From the coffin, a lotus flower with one stem was produced, shining brilliantly.",
+        "source": "T49n2035_012:0214b27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "暨發函慈顏儼然須髮長垂。",
+        "translation": "He then sent out a letter, and his compassionate face was resplendent, and his hair was long and silky.",
+        "source": "T49n2035_012:0214b28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "衣被不壞舍利滿龕。",
+        "translation": "His robe and covering remained intact, and his relics filled the niche.",
+        "source": "T49n2035_012:0214b29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一眾驚歎。",
+        "translation": "The crowd was astonished.",
+        "source": "T49n2035_012:0214b29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是亟掩藏之。",
+        "translation": "They then hid it as soon as possible.",
+        "source": "T49n2035_012:0214b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "鏡菴論之曰。",
+        "translation": "Jing'an commented on it.",
+        "source": "T49n2035_012:0214c01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師血肉之身。",
+        "translation": "\"The body of the Dharma teacher is made of flesh and blood.",
+        "source": "T49n2035_012:0214c01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "衣被之飾。",
+        "translation": "It's clothed and adorned with robes and covers.",
+        "source": "T49n2035_012:0214c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在土二百年而不壞。",
+        "translation": "It remained in the land for 200 years but didn't break down.",
+        "source": "T49n2035_012:0214c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非夫戒定慧三昧之力所持。",
+        "translation": "It's not maintained by the power of the samādhi of morality, meditation, and wisdom.",
+        "source": "T49n2035_012:0214c02_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "疇能若是。",
+        "translation": "It's possible for a man to do that.",
+        "source": "T49n2035_012:0214c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人或以輕發祖塔。",
+        "translation": "Some people might think they despise the ancestor's stūpa.",
+        "source": "T49n2035_012:0214c03_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "咎鑑堂者。",
+        "translation": "They blame the hall of the Buddha's mirror.",
+        "source": "T49n2035_012:0214c04_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "非夫假此日之啟視之。",
+        "translation": "If you don't look at it in the light of this day's revelation.",
+        "source": "T49n2035_012:0214c04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "曷足以知法師正報親依堅固不壞之瑞。",
+        "translation": "How could it be enough to know that the teacher of the Dharma's right reward and close support are resolute and indestructible?",
+        "source": "T49n2035_012:0214c05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為此舉者。",
+        "translation": "This is the reason for it.",
+        "source": "T49n2035_012:0214c06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其祖冥使之乎(觀經疏。",
+        "translation": "Did the ancestor make this happen? (Commentary on the Contemplation Sutra.",
+        "source": "T49n2035_012:0214c06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以華座觀為親依。",
+        "translation": "\"He took the lotus seat contemplation as his intimate support.",
+        "source": "T49n2035_012:0214c06_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今以衣被例之)。",
+        "translation": "Now, we'll use the example of the robe and quilt.\")",
+        "source": "T49n2035_012:0214c07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師梵臻(初名有臻真宗特改)錢唐人。",
+        "translation": "The teacher of the Dharma, Fan Zhen (first known as Youzhen, specially changed by the True Father), was a native of Qian Tang.",
+        "source": "T49n2035_012:0214c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "具戒之後。",
+        "translation": "After he had received the precepts.",
+        "source": "T49n2035_012:0214c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即問道四明。",
+        "translation": "He immediately asked about the four paths of enlightenment.",
+        "source": "T49n2035_012:0214c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見法智最為晚暮。",
+        "translation": "He saw Fazhi most recently in his twilight years.",
+        "source": "T49n2035_012:0214c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聞講妙玄文句大有啟發。",
+        "translation": "He was greatly inspired by hearing the lectures on the wonderful profound teachings and phrases.",
+        "source": "T49n2035_012:0214c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及還鄉邑。",
+        "translation": "When he returned to his hometown, he said.",
+        "source": "T49n2035_012:0214c10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以不親授止觀為之恨。",
+        "translation": "He hated that he hadn't been personally taught calming and insight.",
+        "source": "T49n2035_012:0214c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃焚香禮像。",
+        "translation": "He burned incense and worshipped an image.",
+        "source": "T49n2035_012:0214c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "閱讀二十過。",
+        "translation": "He read the image twenty times.",
+        "source": "T49n2035_012:0214c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以表師承。",
+        "translation": "It was to show his commitment to his teacher.",
+        "source": "T49n2035_012:0214c11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皇祐三年初居上竺。",
+        "translation": "He first stayed at Shangzhu in the third year of Huang You's reign.",
+        "source": "T49n2035_012:0214c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "明年有旨遷金山。",
+        "translation": "In the next year, he was instructed to move to Jinshan.",
+        "source": "T49n2035_012:0214c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "熙寧五年。",
+        "translation": "It was the fifth year of Xining.",
+        "source": "T49n2035_012:0214c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "杭守吳侍讀聞師名以南屏興教延之。",
+        "translation": "Hang Shou Wu's assistant heard of his teacher's reputation, and invited him to teach at Nanping Xing.",
+        "source": "T49n2035_012:0214c13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "每當講次。",
+        "translation": "Whenever he gave a lecture, he summarized the names and principles through to the end.",
+        "source": "T49n2035_012:0214c14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "綜括名理貫穿始終。",
+        "translation": "He would summarize the names and principles and go through to the end.",
+        "source": "T49n2035_012:0214c14_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉一義則眾義洽然。",
+        "translation": "He would present one meaning and all the meanings would be clear.",
+        "source": "T49n2035_012:0214c14_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "窮一文則諸文允會。",
+        "translation": "When he exhausted one text, the texts would be universally shared.",
+        "source": "T49n2035_012:0214c15_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當時強記者。",
+        "translation": "At the time, he was a strong reporter.",
+        "source": "T49n2035_012:0214c15_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因集以成類。",
+        "translation": "It was because of this that they collected them into categories.",
+        "source": "T49n2035_012:0214c16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初集類之作。",
+        "translation": "The first collection of works in this category was composed by Dharmajñāna.",
+        "source": "T49n2035_012:0214c16_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由法智講授散引諸文。",
+        "translation": "It was a lecture by Dharma wisdom that scattered and cited the texts.",
+        "source": "T49n2035_012:0214c16_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有仁首座者。",
+        "translation": "There was the chief benevolent advisor.",
+        "source": "T49n2035_012:0214c17_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "錄為五類。",
+        "translation": "He recorded them into five categories.",
+        "source": "T49n2035_012:0214c17_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既而淨覺增其二。",
+        "translation": "After that, Jingjue added two of them.",
+        "source": "T49n2035_012:0214c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "括蒼聰師加其三。",
+        "translation": "The wise teacher Buchen added three.",
+        "source": "T49n2035_012:0214c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛慧才師重檢諸文節為十類。",
+        "translation": "The teacher Buddhacarita reexamined the texts and grouped them into ten categories.",
+        "source": "T49n2035_012:0214c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明吉師隨諸部帙各為詮次。",
+        "translation": "The Simingji master followed the various texts and arranged them in order of explanation.",
+        "source": "T49n2035_012:0214c19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣智見之曰。",
+        "translation": "Guangzhi saw them and said.",
+        "source": "T49n2035_012:0214c20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "類集之行得失相半。",
+        "translation": "'The lineage of this collection of categories is half as good as the negatives.",
+        "source": "T49n2035_012:0214c20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得在知其綱要。",
+        "translation": "What's gained is knowing its outline.",
+        "source": "T49n2035_012:0214c21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "失在昧其起盡。",
+        "translation": "What's lost is ignorance of its arising and exhaustion.",
+        "source": "T49n2035_012:0214c21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "暨師興教之席。",
+        "translation": "The teacher then took the chair of the rising teaching.",
+        "source": "T49n2035_012:0214c21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "群峯泰初。",
+        "translation": "Qubong Taichou.",
+        "source": "T49n2035_012:0214c22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "詮為高座緒餘。",
+        "translation": "He explained it as the remainder of the high seat of Xu.",
+        "source": "T49n2035_012:0214c22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "超果會賢。",
+        "translation": "Chao Guohui Xian.",
+        "source": "T49n2035_012:0214c22_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別立懸敘消文。",
+        "translation": "He established a separate text for hanging and describing the elimination of afflictions.",
+        "source": "T49n2035_012:0214c23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一一文下開示來意正釋觀心。",
+        "translation": "Under each text, he revealed the coming meaning and correctly explained the contemplation mind.",
+        "source": "T49n2035_012:0214c23_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "號為南屏一家(天竺韶師曰。",
+        "translation": "He was called the Nanping family (said Tianzhushao Shi.",
+        "source": "T49n2035_012:0214c24_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "碎割法身訛誤後學去也。",
+        "translation": "'Fragmenting the Dharma body is a misnomer for those who come after us.'",
+        "source": "T49n2035_012:0214c24_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樝菴書與無相昕。",
+        "translation": "The Siṃhan script and the Muhyang Xin.",
+        "source": "T49n2035_012:0214c24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "力勉勿傳。",
+        "translation": "He urged them not to transmit it.",
+        "source": "T49n2035_012:0214c25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有醍醐化糟粕法藏變鬼火之語)吳公當休沐必往聽法垂紳正笏立於閫外。",
+        "translation": "There was a saying that Daigo had turned into dregs and the Dharma treasure into ghost fire.) When Wu Gong took a break from his duties, he would go to listen to the Dharma, and he would stand outside the discussion hall with his arm at the correct posture.",
+        "source": "T49n2035_012:0214c25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師未登座終不入。",
+        "translation": "He would not enter until he had ascended to his seat.",
+        "source": "T49n2035_012:0214c26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師夜赴請。",
+        "translation": "At night, the teacher went to the monastery to ask for permission.",
+        "source": "T49n2035_012:0214c26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見婦人在前。",
+        "translation": "He saw a woman in front of him.",
+        "source": "T49n2035_012:0214c27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "問之則曰。",
+        "translation": "When he asked her, she said.",
+        "source": "T49n2035_012:0214c27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "妾有哀懇請師到家。",
+        "translation": "\"I'm sorry, but I'd like to invite the master to my home.",
+        "source": "T49n2035_012:0214c27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師從之至其門。",
+        "translation": "The teacher complied and went to her door.",
+        "source": "T49n2035_012:0214c28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見數人拽此婦置床上。",
+        "translation": "He saw several men dragging this woman down to her bed.",
+        "source": "T49n2035_012:0214c28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉大刀斫之如泥沙。",
+        "translation": "They raised a large sword and chopped her like mud and sand.",
+        "source": "T49n2035_012:0214c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少時復活。",
+        "translation": "She was revived a short time later.",
+        "source": "T49n2035_012:0214c29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "泣曰。",
+        "translation": "She said with tears in her eyes.",
+        "source": "T49n2035_012:0215a01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "妾生前善切膾。",
+        "translation": "\"I was good at cutting meat and fish before I was born.",
+        "source": "T49n2035_012:0215a01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今受此報。",
+        "translation": "Now, I've received this kind of retribution.",
+        "source": "T49n2035_012:0215a01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲求濟度故敢仰屈。",
+        "translation": "I want to seek deliverance, so I dare to bow down.",
+        "source": "T49n2035_012:0215a01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師為授戒遂不復見。",
+        "translation": "The master then conferred the precepts and I didn't see her again.",
+        "source": "T49n2035_012:0215a02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "每與淨覺辨論教門。",
+        "translation": "Every time he and Jingjue discussed the doctrine, he said.",
+        "source": "T49n2035_012:0215a02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "陳辭有司。",
+        "translation": "He would tell the authorities.",
+        "source": "T49n2035_012:0215a03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乞築高臺竪赤幡。",
+        "translation": "\"They asked him to build a high dais and erect red banners.",
+        "source": "T49n2035_012:0215a03_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "放西竺聖師與外道捔勝義墮者斷首截舌懸之幡上。",
+        "translation": "He would release the sacred teacher from Xizhang to fight against non-Buddhists for the ultimate truth, cutting off his head and tongue and hanging it on the banner.",
+        "source": "T49n2035_012:0215a04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "郡侯覩師法戰之銳。",
+        "translation": "The magistrate saw how sharp the teacher's skills were in the battle of the Dharma.",
+        "source": "T49n2035_012:0215a05_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "就辭解之曰。",
+        "translation": "He then explained it with a speech, saying.",
+        "source": "T49n2035_012:0215a05_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行文製作臻不及岳。",
+        "translation": "\"Xingwen zhuanchengzhen is not as good as yue.",
+        "source": "T49n2035_012:0215a06_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "強記博聞岳不及臻。",
+        "translation": "He was forced to remember and learn about it, and Yue wasn't as good as Zhenyan.",
+        "source": "T49n2035_012:0215a06_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師雖自此弭兵。",
+        "translation": "Even though the teacher has since suppressed the troops, no one who hears about it is unnerved.",
+        "source": "T49n2035_012:0215a07_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聞者莫不凜凜。",
+        "translation": "No one who hears about it is unnerved.",
+        "source": "T49n2035_012:0215a07_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "東坡初來杭與師最厚。",
+        "translation": "When Dongpo first came to Hangzhou, he was most loyal to his teacher.",
+        "source": "T49n2035_012:0215a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後為郡而師已逝。",
+        "translation": "Later, he became the prefect and the teacher had already passed away.",
+        "source": "T49n2035_012:0215a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見其行狀曰。",
+        "translation": "When he saw his conduct, he said.",
+        "source": "T49n2035_012:0215a09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此文雖工。",
+        "translation": "\"Although this essay is excellent.",
+        "source": "T49n2035_012:0215a09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未道此老大過人處。",
+        "translation": "I have yet to tell you where this old man excelled.",
+        "source": "T49n2035_012:0215a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾嘗與語。",
+        "translation": "I once said to him.",
+        "source": "T49n2035_012:0215a10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡經史群籍有遺忘。",
+        "translation": "\"Whenever there's something left out of the sūtras, history, or other texts, I'd recite it aloud.",
+        "source": "T49n2035_012:0215a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即應聲誦之。",
+        "translation": "I would recite it in response to their voices.",
+        "source": "T49n2035_012:0215a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "崇寧中。",
+        "translation": "In the middle of Chongning.",
+        "source": "T49n2035_012:0215a11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諡實相法師。",
+        "translation": "He was named the Dharma teacher Shisang.",
+        "source": "T49n2035_012:0215a11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師則全。",
+        "translation": "Fashi Zechuan.",
+        "source": "T49n2035_012:0215a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "字叔平。",
+        "translation": "His name was Shuhei.",
+        "source": "T49n2035_012:0215a12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明施氏。",
+        "translation": "He was from the Siming Shi family.",
+        "source": "T49n2035_012:0215a12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依報國出家。",
+        "translation": "He left home based on his country of retribution.",
+        "source": "T49n2035_012:0215a12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即造法智學教觀。",
+        "translation": "He then established Dharma wisdom and studied contemplation of the teachings.",
+        "source": "T49n2035_012:0215a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時南湖競推十大弟子。",
+        "translation": "At the time, Nanhu was competing for the top ten disciples.",
+        "source": "T49n2035_012:0215a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師為之冠焉。",
+        "translation": "The teacher was the champion of them all.",
+        "source": "T49n2035_012:0215a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "旁通書史尤善著述。",
+        "translation": "He was well-versed in calligraphy and history, and especially good at writing.",
+        "source": "T49n2035_012:0215a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性直氣剛敢言人失。",
+        "translation": "He was straightforward and courageous, and he dared to speak of people's faults.",
+        "source": "T49n2035_012:0215a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人以是畏之。",
+        "translation": "People feared him for that.",
+        "source": "T49n2035_012:0215a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住三學三十年。",
+        "translation": "He stayed at Sanxue for thirty years.",
+        "source": "T49n2035_012:0215a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "郡守郎簡尤加敬。",
+        "translation": "He was especially respected by the county sheriff, Lang Jian.",
+        "source": "T49n2035_012:0215a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗謂人曰。",
+        "translation": "He once said to someone.",
+        "source": "T49n2035_012:0215a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "叔平才氣凜然。",
+        "translation": "\"Shu Ping's aura is outstanding.",
+        "source": "T49n2035_012:0215a16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若以儒冠職諫諍。",
+        "translation": "If he were to serve as a regent with a Confucian crown, would he be inferior to Ji'an of the Han, Wei Zheng of the Tang, and Wang Yuanzhi of our dynasty?",
+        "source": "T49n2035_012:0215a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "豈下漢汲黯唐魏徵我朝王元之耶。",
+        "translation": "Wouldn't he be inferior to Ji'an of the Han, Wei Zheng of the Tang, and Wang Yuanzhi of our dynasty?",
+        "source": "T49n2035_012:0215a17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慶歷五年夏。",
+        "translation": "It was the summer of the fifth year of the Qingli era.",
+        "source": "T49n2035_012:0215a18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "別眾坐亡。",
+        "translation": "He died while sitting in a special assembly.",
+        "source": "T49n2035_012:0215a18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "弟子若水。",
+        "translation": "A disciple, Ruo Shui, erected a stone tablet at Yanqing.",
+        "source": "T49n2035_012:0215a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立碣於延慶。",
+        "translation": "He had a stone erected at Yanqing.",
+        "source": "T49n2035_012:0215a19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師所述四明實錄。",
+        "translation": "The teacher described it as a true record of the four masters.",
+        "source": "T49n2035_012:0215a19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人謂。",
+        "translation": "People say.",
+        "source": "T49n2035_012:0215a19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蔡邕作郭有道碑也(後漢郭林宗。",
+        "translation": "\"Cai Yong made the Guo Youdao stele.\" (Later Han Dynasty, Guo Linzong.",
+        "source": "T49n2035_012:0215a20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舉有道。",
+        "translation": "He held up Yidao.",
+        "source": "T49n2035_012:0215a20_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不應既卒。",
+        "translation": "He should not have died afterwards.",
+        "source": "T49n2035_012:0215a20_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蔡邕為碑文謂盧植曰。",
+        "translation": "Cai Yong made a stele and said to Lu Zhi.",
+        "source": "T49n2035_012:0215a20_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾為碑多矣。",
+        "translation": "\"I've made a lot of stele.",
+        "source": "T49n2035_012:0215a21_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆有慚德。",
+        "translation": "They all have a sense of conscience and virtue.",
+        "source": "T49n2035_012:0215a21_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯郭有道。",
+        "translation": "Guo Youdao was the only one.",
+        "source": "T49n2035_012:0215a21_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無愧色耳)。",
+        "translation": "There's no shame in his appearance.\")",
+        "source": "T49n2035_012:0215a21_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "述曰。",
+        "translation": "He said.",
+        "source": "T49n2035_012:0215a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣智趙清獻為撰碑。",
+        "translation": "Guangzhi Zhao Qingxian wrote this stele.",
+        "source": "T49n2035_012:0215a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三學亡。",
+        "translation": "The three disciplines died.",
+        "source": "T49n2035_012:0215a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "弟子水師為立碣。",
+        "translation": "The disciple Shui Shi erected a stone tablet for him.",
+        "source": "T49n2035_012:0215a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此二文。",
+        "translation": "These two texts.",
+        "source": "T49n2035_012:0215a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必大有可記者。",
+        "translation": "They must have been quite promising.",
+        "source": "T49n2035_012:0215a23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今二石既無存。",
+        "translation": "Now, since the two stones don't exist, their work can't be known.",
+        "source": "T49n2035_012:0215a23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是二師行業不可知。",
+        "translation": "Then, the two masters' trades were unknown.",
+        "source": "T49n2035_012:0215a24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後人立傳祇彷彿耳。",
+        "translation": "The legends established by later generations only seem to resemble them.",
+        "source": "T49n2035_012:0215a24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吁可惜也。",
+        "translation": "It's a great pity.",
+        "source": "T49n2035_012:0215a25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師崇矩。",
+        "translation": "Fashi Chongku.",
+        "source": "T49n2035_012:0215a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三衢人。",
+        "translation": "He was from Sanqu.",
+        "source": "T49n2035_012:0215a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "來學法智。",
+        "translation": "He came to study the wisdom of the Dharma.",
+        "source": "T49n2035_012:0215a26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "妙達教觀之道居第一座。",
+        "translation": "He was the first to occupy the first seat of the preceptor who had mastered the path of teaching and contemplation.",
+        "source": "T49n2035_012:0215a26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智坐聽其講曰。",
+        "translation": "Fazhi sat down and listened to his lecture, saying.",
+        "source": "T49n2035_012:0215a27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾道有寄矣。",
+        "translation": "\"My path is now supported.",
+        "source": "T49n2035_012:0215a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初赴黃巖東禪講。",
+        "translation": "When he first went to lecture at Huangyan's East Chan, he sent a letter of encouragement.",
+        "source": "T49n2035_012:0215a28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智寄書勉之曰。",
+        "translation": "Fazhi sent a letter to him urging him on.",
+        "source": "T49n2035_012:0215a28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立身行道世之大務。",
+        "translation": "'Establishing yourself as a practitioner is the world's greatest task.",
+        "source": "T49n2035_012:0215a28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謙為德柄汝當堅執。",
+        "translation": "Modesty is a virtuous position that you should firmly adhere to.",
+        "source": "T49n2035_012:0215a29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此外更宜博究五經雅言。",
+        "translation": "In addition, you should also study the five scriptures and the elegant language.",
+        "source": "T49n2035_012:0215a29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "俾於筆削之間不墮凡鄙。",
+        "translation": "That way, between the brush and the sharpening of your pen, you won't fall into the level of mere mortals.",
+        "source": "T49n2035_012:0215b01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當效圓闍梨之作也。",
+        "translation": "You should follow the example of Wonjaeri's work.",
+        "source": "T49n2035_012:0215b02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未幾還三衢。",
+        "translation": "A few days later, he returned to Sanqu.",
+        "source": "T49n2035_012:0215b02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受本業景德講浮石。",
+        "translation": "He was given a lecture on the merits of Jingde, a floating stone.",
+        "source": "T49n2035_012:0215b03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "主者元勳問從真起妄義。",
+        "translation": "The master, Yuanxun, asked what it meant to create delusion from truth.",
+        "source": "T49n2035_012:0215b03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一言有契。",
+        "translation": "He agreed with one word.",
+        "source": "T49n2035_012:0215b04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願回禪居永為傳教之地。",
+        "translation": "He wished to return to his Chan abode and make it a place to teach forever.",
+        "source": "T49n2035_012:0215b04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "郡為敷奏。",
+        "translation": "The prefect presented the case for him.",
+        "source": "T49n2035_012:0215b05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有旨俞其請。",
+        "translation": "A decree was issued granting his request.",
+        "source": "T49n2035_012:0215b05_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃大開齋堂以安學眾。",
+        "translation": "He then opened a large purification hall to accommodate the students.",
+        "source": "T49n2035_012:0215b05_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "日談止觀夜講光明。",
+        "translation": "He talked about calming and insight during the day and lectured about light at night.",
+        "source": "T49n2035_012:0215b06_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復於一時率眾念佛。",
+        "translation": "At another time, he led the congregation in recitation of the Buddha's name.",
+        "source": "T49n2035_012:0215b06_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗以法智融心解於義未盡。",
+        "translation": "There was a time when the Dharma wisdom interpenetrated his mind and his understanding of the meaning was not exhausted.",
+        "source": "T49n2035_012:0215b07_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣致難問。",
+        "translation": "He asked a wide range of difficult questions.",
+        "source": "T49n2035_012:0215b07_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智乃收及三輩。",
+        "translation": "Dharmajñāna then included three groups.",
+        "source": "T49n2035_012:0215b08_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以免相違。",
+        "translation": "He avoided contradicting them.",
+        "source": "T49n2035_012:0215b08_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "真廟時。",
+        "translation": "It was during the time of the Temple of Truth.",
+        "source": "T49n2035_012:0215b08_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遊方至京師。",
+        "translation": "He had traveled to the capital.",
+        "source": "T49n2035_012:0215b09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上聞其名。",
+        "translation": "The governor heard of his reputation.",
+        "source": "T49n2035_012:0215b09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "召至內殿。",
+        "translation": "He summoned him to the inner sanctum.",
+        "source": "T49n2035_012:0215b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "講四十二章經盛談名理。",
+        "translation": "He lectured on the forty-two chapters of the Sutra and talked extensively about names and principles.",
+        "source": "T49n2035_012:0215b09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上心大悅。",
+        "translation": "The minister was greatly pleased.",
+        "source": "T49n2035_012:0215b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "賜紫方袍金幣香藥。",
+        "translation": "He gave him a purple robe, gold coins, and incense and medicine.",
+        "source": "T49n2035_012:0215b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既而回天竺。",
+        "translation": "He then returned to India.",
+        "source": "T49n2035_012:0215b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾留貳講。",
+        "translation": "He was left by the crowd to give a few lectures.",
+        "source": "T49n2035_012:0215b11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "久之復歸故里。",
+        "translation": "After a long time, he returned to his hometown.",
+        "source": "T49n2035_012:0215b11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈雲授以香罏如意手書誡辭。",
+        "translation": "Ce-un gave him a handwritten admonition in the form of a jar of incense, Ru-yi.",
+        "source": "T49n2035_012:0215b12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "獎之曰。",
+        "translation": "He gave him a commendation, saying.",
+        "source": "T49n2035_012:0215b12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝將轉說於親里也。",
+        "translation": "'You will continue to preach this to your relatives.'",
+        "source": "T49n2035_012:0215b13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勉之哉。",
+        "translation": "Please do so!",
+        "source": "T49n2035_012:0215b13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "被忍為衣。",
+        "translation": "\"Putting on a robe of patience.",
+        "source": "T49n2035_012:0215b13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入慈為室。",
+        "translation": "He enters a room made of kindness.",
+        "source": "T49n2035_012:0215b14_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "處空為座。",
+        "translation": "He'll sit in a seat made of emptiness.",
+        "source": "T49n2035_012:0215b14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身遠眾惱。",
+        "translation": "His body is removed from all afflictions.",
+        "source": "T49n2035_012:0215b14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "口寡言論。",
+        "translation": "He keeps his mouth quiet and his words to himself.",
+        "source": "T49n2035_012:0215b14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "意防輕慢。",
+        "translation": "He guards his mind against despising others.",
+        "source": "T49n2035_012:0215b15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈心授人。",
+        "translation": "He teaches others with a compassionate mind.",
+        "source": "T49n2035_012:0215b15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是曰三軌。",
+        "translation": "These are the three ways.",
+        "source": "T49n2035_012:0215b15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為四行。",
+        "translation": "These are the four practices.",
+        "source": "T49n2035_012:0215b15_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "名安隱說。",
+        "translation": "They're called peaceful discourses.",
+        "source": "T49n2035_012:0215b16_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "述曰。",
+        "translation": "It says.",
+        "source": "T49n2035_012:0215b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "浮石先學於法智。",
+        "translation": "\"Fushi first studied at Dharmajñāna.",
+        "source": "T49n2035_012:0215b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及赴東禪乃遺以書。",
+        "translation": "When he left for Eastern Seon, he left behind a book.",
+        "source": "T49n2035_012:0215b17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當是時已定師資之分矣。",
+        "translation": "At that time, he had already established a division of teachers and students.",
+        "source": "T49n2035_012:0215b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後自京回天竺。",
+        "translation": "Later, he returned to India from the capital.",
+        "source": "T49n2035_012:0215b18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈雲以猶子待之。",
+        "translation": "Ceyun treated him like a son of Judah.",
+        "source": "T49n2035_012:0215b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故其歸里亦授以辭。",
+        "translation": "He therefore also gave him a letter of resignation when he returned to his hometown.",
+        "source": "T49n2035_012:0215b19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此見一尊者法門之情無所間然。",
+        "translation": "This shows that there was no difference between the feelings of one honored one about the Dharma teaching and another.",
+        "source": "T49n2035_012:0215b20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而古今圖譜置之慈雲之下。",
+        "translation": "The ancient and modern atlases place him below Tzu-Yun.",
+        "source": "T49n2035_012:0215b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其不審也。",
+        "translation": "He didn't examine it.",
+        "source": "T49n2035_012:0215b21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若是。",
+        "translation": "If that's the case.",
+        "source": "T49n2035_012:0215b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今依鑑師錄系之四明。",
+        "translation": "Now, we'll rely on the four sciences that are recorded by the master of the mirror.",
+        "source": "T49n2035_012:0215b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "覽圖者毋以為惑。",
+        "translation": "Those who see the chart shouldn't think it's confusing.",
+        "source": "T49n2035_012:0215b22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師慧才。",
+        "translation": "Fashi Huicai.",
+        "source": "T49n2035_012:0215b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "永嘉樂清王氏。",
+        "translation": "He was born in Yongjia, Yueqing, and went to Wang.",
+        "source": "T49n2035_012:0215b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師白鶴山怡芳。",
+        "translation": "He was trained by Yi Fang of Baek Hak San.",
+        "source": "T49n2035_012:0215b24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "祥符覃恩得度(真宗封泰山。",
+        "translation": "He was granted ordination by Xianghu Qian'en (the True Father granted Taishan.",
+        "source": "T49n2035_012:0215b24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "詔寺觀各度一人)年十三。",
+        "translation": "He was 13 years old and received the full set of precepts.",
+        "source": "T49n2035_012:0215b25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "進受具戒。",
+        "translation": "He received the full set of precepts.",
+        "source": "T49n2035_012:0215b25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "往學於四明。",
+        "translation": "He went on to study at Siming.",
+        "source": "T49n2035_012:0215b26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "性識昏鈍。",
+        "translation": "His nature was dull and his consciousness was dull.",
+        "source": "T49n2035_012:0215b26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常持大悲呪。",
+        "translation": "He always held the great compassionate dhāraṇī.",
+        "source": "T49n2035_012:0215b26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "願學通祖道。",
+        "translation": "He wanted to train in the path of the patriarchs.",
+        "source": "T49n2035_012:0215b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "忽於夢中。",
+        "translation": "Suddenly, in a dream, he saw a priest several feet long.",
+        "source": "T49n2035_012:0215b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "見梵僧長數丈。",
+        "translation": "He saw a priest several feet long.",
+        "source": "T49n2035_012:0215b27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "脫袈裟與披之呼曰。",
+        "translation": "He took off his robe and put it on him, calling out.",
+        "source": "T49n2035_012:0215b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慧才盡生記吾。",
+        "translation": "\"Huicai will give his full birth to me,\" he said.",
+        "source": "T49n2035_012:0215b28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "翌日臨講豁然開悟。",
+        "translation": "The next day, before the lecture, he was suddenly enlightened.",
+        "source": "T49n2035_012:0215b28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前後所聞一時洞曉。",
+        "translation": "What he had heard before and after was instantly clear to him.",
+        "source": "T49n2035_012:0215b29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未幾首眾四座推服。",
+        "translation": "Not long after, the first four seats of the congregation deferred to him.",
+        "source": "T49n2035_012:0215b29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復謁慈雲。",
+        "translation": "Again, he took refuge in Ce-un.",
+        "source": "T49n2035_012:0215c01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "北面服勤旦夜不替。",
+        "translation": "He paid homage to the north side and stayed there for the rest of the day and night.",
+        "source": "T49n2035_012:0215c01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "治平初。",
+        "translation": "At the beginning of Zhengping's career.",
+        "source": "T49n2035_012:0215c02_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "杭守沈遘。",
+        "translation": "Hang Shou Shen Yan.",
+        "source": "T49n2035_012:0215c02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "講住法慧寶閣。",
+        "translation": "He was a lecturer at the Baoji Hall of Dharma Wisdom.",
+        "source": "T49n2035_012:0215c02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十年始終一節。",
+        "translation": "For twenty years, he remained in one section.",
+        "source": "T49n2035_012:0215c02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "太尉盧公奏賜廣慈之號。",
+        "translation": "The governor, Lu Gong, gave him the title Guangci.",
+        "source": "T49n2035_012:0215c03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "浮石來請勉狥眾意。",
+        "translation": "Busshi came to ask him to comply with the wishes of the people.",
+        "source": "T49n2035_012:0215c03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "未久退居雷峯塔下。",
+        "translation": "He retired not long ago to live under the Leifeng Pagoda.",
+        "source": "T49n2035_012:0215c04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "每翹足誦大悲百八為課。",
+        "translation": "Every time he crossed his legs, he recited the one hundred and eight lessons of great compassion.",
+        "source": "T49n2035_012:0215c04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又翹足一晝夜誦彌陀號。",
+        "translation": "He also recited the name of Maitreya with his feet crossed for a day and night.",
+        "source": "T49n2035_012:0215c05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一夕夢至寶樓宮闕。",
+        "translation": "One night, he dreamt that he went to the palace of Baolou.",
+        "source": "T49n2035_012:0215c06_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有告之者曰。",
+        "translation": "A man told him.",
+        "source": "T49n2035_012:0215c06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨土中品汝所生也。",
+        "translation": "\"You've been born in the Middle Lengths of the Pure Land.",
+        "source": "T49n2035_012:0215c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "元豐元年春。",
+        "translation": "It was the spring of the first year of the Yuanfeng era.",
+        "source": "T49n2035_012:0215c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "緇素萬指求授大戒。",
+        "translation": "A black monk with ten thousand fingers asked to be granted the great precepts.",
+        "source": "T49n2035_012:0215c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至羯磨時。",
+        "translation": "When he arrived at the ceremony, the Avalokitêśvara image shone brightly from the top of his head, reflecting off the lecture hall.",
+        "source": "T49n2035_012:0215c08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀音像頂放光輝映講堂。",
+        "translation": "Avalokitêśvara's dais shone brightly, reflecting off the discussion hall.",
+        "source": "T49n2035_012:0215c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淨慈守一禪師為作戒光記。",
+        "translation": "The Chan master Jingci Shouyi made a note of the precepts' radiance.",
+        "source": "T49n2035_012:0215c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六年五月二十一日。",
+        "translation": "It was the twenty-first day of the fifth month in the sixth year.",
+        "source": "T49n2035_012:0215c09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "更衣就座。",
+        "translation": "He changed his robes and took his seat.",
+        "source": "T49n2035_012:0215c10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "書偈讚佛曰。",
+        "translation": "He wrote a verse praising the Buddha, saying.",
+        "source": "T49n2035_012:0215c10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾生淨土決矣。",
+        "translation": "'My birth in the Pure Land is assured.'",
+        "source": "T49n2035_012:0215c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "泊然而化。",
+        "translation": "He was reborn and then transformed.",
+        "source": "T49n2035_012:0215c11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "塔於菴之右。",
+        "translation": "The stūpa was placed to the right of the Ām.",
+        "source": "T49n2035_012:0215c11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "壽八十六。",
+        "translation": "His life expectancy was 86 years.",
+        "source": "T49n2035_012:0215c11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "臘七十三。",
+        "translation": "He was 73 years old.",
+        "source": "T49n2035_012:0215c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "繼其業者。",
+        "translation": "Those who followed in his footsteps.",
+        "source": "T49n2035_012:0215c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法宗戒珠十人。",
+        "translation": "There were ten Dharma school precepts teachers.",
+        "source": "T49n2035_012:0215c12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師貌古而性恬。",
+        "translation": "The teacher was ancient in appearance and quiet in nature.",
+        "source": "T49n2035_012:0215c12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少言寡欲。",
+        "translation": "He spoke little and had few desires.",
+        "source": "T49n2035_012:0215c13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時教門異論諠動江浙。",
+        "translation": "At the time, the divergent views of the teaching community were disturbing in Jiangsu and Zhejiang.",
+        "source": "T49n2035_012:0215c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師獨循循講訓未嘗有所臧否。",
+        "translation": "He alone followed the lectures and instructions without ever criticizing or denying them.",
+        "source": "T49n2035_012:0215c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清獻趙公道交最密。",
+        "translation": "He had the closest friendship with Qingxian Zhao Gongguang.",
+        "source": "T49n2035_012:0215c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及鎮越寄以詩曰。",
+        "translation": "When he arrived in Yue, he sent a poem saying.",
+        "source": "T49n2035_012:0215c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乞得鄉邦樂矣哉。",
+        "translation": "\"Is it possible to beg for the happiness of your country?",
+        "source": "T49n2035_012:0215c15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雷峯菴靜此徘徊。",
+        "translation": "Here I wandered around in the quiet of Leifeng'an.",
+        "source": "T49n2035_012:0215c16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "浙江莫謂音書隔。",
+        "translation": "In Zhejiang, there's no such thing as being separated by letters and sounds.",
+        "source": "T49n2035_012:0215c16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一日潮聲兩度來。",
+        "translation": "In one day, the sound of the tide comes twice.",
+        "source": "T49n2035_012:0215c16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師含瑩。",
+        "translation": "Fashi Hanyeong.",
+        "source": "T49n2035_012:0215c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受業四明之廣嚴。",
+        "translation": "He's trained in the four sciences of Vairocana.",
+        "source": "T49n2035_012:0215c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "稟法智教觀。",
+        "translation": "He had received the teaching and contemplation of the Dharma wisdom.",
+        "source": "T49n2035_012:0215c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "深有造詣。",
+        "translation": "He had profound attainments.",
+        "source": "T49n2035_012:0215c18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時人推為教主。",
+        "translation": "The people of that time regarded him as the master of the teaching.",
+        "source": "T49n2035_012:0215c19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "嘗以銀書法華經。",
+        "translation": "He once used silver to write the Lotus Sutra.",
+        "source": "T49n2035_012:0215c19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遇佛菩薩名。",
+        "translation": "When he encountered the names of buddhas and bodhisattvas, he used gold letters.",
+        "source": "T49n2035_012:0215c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則用金字。",
+        "translation": "He then used gold letters.",
+        "source": "T49n2035_012:0215c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世稱為法門至寶。",
+        "translation": "The world called it the supreme treasure of the Dharma school.",
+        "source": "T49n2035_012:0215c20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "建炎金寇院宇焚蕩。",
+        "translation": "The temple buildings were burned down by the Kanyakubja Golden Invasion.",
+        "source": "T49n2035_012:0215c21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於瓦礫中尋獲此經不損一字。",
+        "translation": "They found this sūtra among the rubble without losing a single word.",
+        "source": "T49n2035_012:0215c21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "淳熙間。",
+        "translation": "During the Chunxi period.",
+        "source": "T49n2035_012:0215c22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住山蓮止菴。",
+        "translation": "I was staying at Lianzhi'an in the mountains.",
+        "source": "T49n2035_012:0215c22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "夜聞萬人諠譁。",
+        "translation": "At night, he heard a multitude of people in an uproar.",
+        "source": "T49n2035_012:0215c22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "驚起視之。",
+        "translation": "I got up in a panic and looked at him.",
+        "source": "T49n2035_012:0215c23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則別室遺火。",
+        "translation": "It was the remains of a fire in a separate room.",
+        "source": "T49n2035_012:0215c23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其經藏柱閣上。",
+        "translation": "The scripture was hidden in a pillar and tower.",
+        "source": "T49n2035_012:0215c23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師冐火取之得無損。",
+        "translation": "The teacher had braved the fire to retrieve it, but it hadn't been damaged.",
+        "source": "T49n2035_012:0215c24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人言兩遭烈焰皆不滅壞者。",
+        "translation": "People say that it wasn't destroyed by the fiery flames that blazed over it on both sides.",
+        "source": "T49n2035_012:0215c24_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遠由大乘功德之力。",
+        "translation": "It's because of the power of the great vehicle's merit in the distant past.",
+        "source": "T49n2035_012:0215c25_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "近見教主行願之所持云。",
+        "translation": "Recently, we've seen the statement that the master of the teaching's practice and vows support it.",
+        "source": "T49n2035_012:0215c25_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師擇交。",
+        "translation": "The teacher of the Dharma, Jijiao, was from Huangyan in Tai.",
+        "source": "T49n2035_012:0215c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "台之黃巖人。",
+        "translation": "He was from Huangyan in Tai.",
+        "source": "T49n2035_012:0215c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "學法智得其道。",
+        "translation": "He studied the wisdom of the Dharma and attained his path.",
+        "source": "T49n2035_012:0215c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天聖二年。",
+        "translation": "He was born in the second year of Tianshō's reign.",
+        "source": "T49n2035_012:0215c27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "章安慧因。",
+        "translation": "Zhang'an Hui'in.",
+        "source": "T49n2035_012:0215c28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "始易為講院。",
+        "translation": "He began to convert it into a lecture hall.",
+        "source": "T49n2035_012:0215c28_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "請師主其席。",
+        "translation": "He asked the master to preside over his seat.",
+        "source": "T49n2035_012:0215c28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智作授辭與之。",
+        "translation": "Fazhi gave him a precept.",
+        "source": "T49n2035_012:0215c29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其略云。",
+        "translation": "It was briefly stated.",
+        "source": "T49n2035_012:0215c29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今授汝香鑪如意用為傳法之具。",
+        "translation": "'I'm going to give you a perfume tray like a wish to use as an apparatus for transmitting the teaching.",
+        "source": "T49n2035_012:0215c29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲汝三學芳馨藹乎自己。",
+        "translation": "I want you to three times train yourself in the fragrance of the perfume, which is kind to you.",
+        "source": "T49n2035_012:0216a01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四悉巧意適彼物。",
+        "translation": "The four accomplishments are skillfully suited to that object.",
+        "source": "T49n2035_012:0216a02_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "宜汝其懋之。",
+        "translation": "It's appropriate for you to exert yourself with it.",
+        "source": "T49n2035_012:0216a02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勿妄揮秉。",
+        "translation": "Don't wield it falsely.",
+        "source": "T49n2035_012:0216a02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師覺琮。",
+        "translation": "Teacher of the Dharma, Gak Tsong.",
+        "source": "T49n2035_012:0216a04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受業會稽之圓智。",
+        "translation": "He was trained by Yuanzhi of Huichi.",
+        "source": "T49n2035_012:0216a04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依南湖。",
+        "translation": "He relied on Nanhu.",
+        "source": "T49n2035_012:0216a04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "學成言歸。",
+        "translation": "He completed his training and said he would return.",
+        "source": "T49n2035_012:0216a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智寄帖勉之曰。",
+        "translation": "Fazhi sent a note to him, urging him.",
+        "source": "T49n2035_012:0216a05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既學山家。",
+        "translation": "\"Since he's a student of the Mountain School.",
+        "source": "T49n2035_012:0216a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "必當異於常流。",
+        "translation": "He must be different from the usual streams.",
+        "source": "T49n2035_012:0216a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "理事合修自他兼濟。",
+        "translation": "He must cultivate the combination of principle and phenomena and help both himself and others.",
+        "source": "T49n2035_012:0216a06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如此是為智者之子孫也。",
+        "translation": "In this way, he will be the descendant of the Wise One.",
+        "source": "T49n2035_012:0216a06_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師嗣端。",
+        "translation": "Master Dharma's son and grandson.",
+        "source": "T49n2035_012:0216a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明人。",
+        "translation": "He's from Siming.",
+        "source": "T49n2035_012:0216a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受業崇法。",
+        "translation": "He was trained to practice and revere the Dharma.",
+        "source": "T49n2035_012:0216a08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "久親法智。",
+        "translation": "He had long been close to the wisdom of the Dharma.",
+        "source": "T49n2035_012:0216a08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世稱教主。",
+        "translation": "He was known in the world as the master of the teaching.",
+        "source": "T49n2035_012:0216a08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王荊公宰鄞。",
+        "translation": "Wang Jinggong Zaiyin.",
+        "source": "T49n2035_012:0216a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與師為方外友(荊公有崇法留題云。",
+        "translation": "He and his teacher were friends from outside the region. (Jing Gong had a title for his reverence for the Dharma, which read.",
+        "source": "T49n2035_012:0216a09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "小亭臨水間修篁。",
+        "translation": "\"A small pavilion borders the water with cultivated groves.",
+        "source": "T49n2035_012:0216a10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "郁郁餘華席地香。",
+        "translation": "It's filled with the scent of the remaining flowers on the ground.",
+        "source": "T49n2035_012:0216a10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惟願時人觀此境。",
+        "translation": "May people of the time observe this object.",
+        "source": "T49n2035_012:0216a10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "盡將煩惱作清涼。",
+        "translation": "He would turn his afflictions into coolness.",
+        "source": "T49n2035_012:0216a10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "集中失收)。",
+        "translation": "(The concentration is lost.)",
+        "source": "T49n2035_012:0216a10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師文粲。",
+        "translation": "Fashi Wenchuan.",
+        "source": "T49n2035_012:0216a11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明薛氏。",
+        "translation": "The Siming Xue family.",
+        "source": "T49n2035_012:0216a11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初依興國令祥師。",
+        "translation": "He first relied on the Xiang master of the Xingguo order.",
+        "source": "T49n2035_012:0216a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "久之遣入法智室。",
+        "translation": "After a long time, he was sent to enter the room of Dharma wisdom.",
+        "source": "T49n2035_012:0216a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "孜孜教觀綿歷多載。",
+        "translation": "He had been diligently teaching and observing for many years.",
+        "source": "T49n2035_012:0216a12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天聖四年。",
+        "translation": "It was the fourth year of Tianshō's reign.",
+        "source": "T49n2035_012:0216a12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "祥師以經理塔寺有妨示徒。",
+        "translation": "Xiang Shi took the manager of the stūpa as a reason to show his students that there were obstacles.",
+        "source": "T49n2035_012:0216a13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃付講於師。",
+        "translation": "He then entrusted the preaching to the master.",
+        "source": "T49n2035_012:0216a13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智作授辭以勉之曰。",
+        "translation": "Fazhi gave him a speech of encouragement, saying.",
+        "source": "T49n2035_012:0216a14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "吾觀汝為傳法之器。",
+        "translation": "'I see you as a vessel for transmitting the teaching.",
+        "source": "T49n2035_012:0216a14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "故授汝手罏暨欝多羅僧。",
+        "translation": "Therefore, I'll give you the hand-held pile and the monk Uttarakuru.",
+        "source": "T49n2035_012:0216a15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲汝一秉一披使德香芳郁寂忍成就。",
+        "translation": "I want you to single-handedly hold and single-handedly wear them so that the fragrance of virtue and the accomplishment of tranquility and patience will flourish.",
+        "source": "T49n2035_012:0216a15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師嗣謙。",
+        "translation": "Dharma teacher Ziken.",
+        "source": "T49n2035_012:0216a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "蚤居法智輪下。",
+        "translation": "He had been living under the wheel of knowledge of the Dharma for a long time.",
+        "source": "T49n2035_012:0216a17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因有人謂三千是假法以之為難。",
+        "translation": "It was because someone said that the 3,000,000 are provisional dharmas and that it's difficult to use them.",
+        "source": "T49n2035_012:0216a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時廣智謂。",
+        "translation": "Guangzhi then said.",
+        "source": "T49n2035_012:0216a18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三千不離實相。",
+        "translation": "\"The 3,000 are not separate from their true characteristics.",
+        "source": "T49n2035_012:0216a18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "實相即是三諦則三諦皆三千也。",
+        "translation": "When the true characteristics are the three truths, then the three truths are all three thousand.",
+        "source": "T49n2035_012:0216a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師服其說。",
+        "translation": "The teacher was convinced by his teaching.",
+        "source": "T49n2035_012:0216a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後著修性辨訛。",
+        "translation": "Later, he focused on the cultivation of the nature and discussed the error.",
+        "source": "T49n2035_012:0216a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "首明三千不專俗諦。",
+        "translation": "He first explained that the 3,000 are not exclusively mundane truths.",
+        "source": "T49n2035_012:0216a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及廣智答淨覺書。",
+        "translation": "Then, he gave a reply to Jingjue's book by Guangzhi.",
+        "source": "T49n2035_012:0216a20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃引師以為證。",
+        "translation": "He then quoted the teacher as proof.",
+        "source": "T49n2035_012:0216a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師願彬。",
+        "translation": "\"The teacher of the Dharma vowed to respect them.",
+        "source": "T49n2035_012:0216a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四明人。",
+        "translation": "\"The four luminaries.",
+        "source": "T49n2035_012:0216a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依法智得旨。",
+        "translation": "He relied on Dharma wisdom to get his point across.",
+        "source": "T49n2035_012:0216a22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唱道有美譽。",
+        "translation": "He had a reputation for teaching the way.",
+        "source": "T49n2035_012:0216a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智垂終。",
+        "translation": "When he was dying, Dharmajñāna wisdom left a will for him to honor the Dharma.",
+        "source": "T49n2035_012:0216a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遺書囑其隆法。",
+        "translation": "He willed him to teach the Dharma long after his death.",
+        "source": "T49n2035_012:0216a23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師智環。",
+        "translation": "Dharma teacher Zhihuan.",
+        "source": "T49n2035_012:0216a24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "學於法智。",
+        "translation": "He studied under Faizi.",
+        "source": "T49n2035_012:0216a24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "楊文公勸法智止其焚軀。",
+        "translation": "Yang Wenguang advised him to stop burning his body.",
+        "source": "T49n2035_012:0216a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作書與慈雲。",
+        "translation": "He wrote a letter to Jiyun.",
+        "source": "T49n2035_012:0216a25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令師往勸住世。",
+        "translation": "He asked the master to go and encourage him to stay in the world.",
+        "source": "T49n2035_012:0216a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智建放生會。",
+        "translation": "Fazhi built a ceremony to release the living.",
+        "source": "T49n2035_012:0216a25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "請樞密劉筠撰碑記述。",
+        "translation": "He asked Privy Councilor Liu Yun to write a memorial tablet to commemorate the event.",
+        "source": "T49n2035_012:0216a26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師疊書催之。",
+        "translation": "The teacher piled up the letters and urged him to do so.",
+        "source": "T49n2035_012:0216a26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遂得成文(此下本紀遺失四人)。",
+        "translation": "The text was then completed (four people were lost in the following chronicle).",
+        "source": "T49n2035_012:0216a27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師自仁。",
+        "translation": "The teacher of the Dharma himself was benevolent.",
+        "source": "T49n2035_012:0216a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聽法智講。",
+        "translation": "He listened to a lecture by Dharma wisdom.",
+        "source": "T49n2035_012:0216a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "錄所引諸部名言以為五類。",
+        "translation": "He recorded the quoted sayings of the various schools into five categories.",
+        "source": "T49n2035_012:0216a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "類集之興自師始。",
+        "translation": "The rise of this collection of categories began with the teacher.",
+        "source": "T49n2035_012:0216a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "祥符七年夏。",
+        "translation": "In the summer of the seventh year of the Xiangfu era.",
+        "source": "T49n2035_012:0216a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智出教門雜問七章。",
+        "translation": "Fazhi released seven chapters on the miscellaneous questions of the teaching.",
+        "source": "T49n2035_012:0216a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及四教四諦義。",
+        "translation": "They included the four teachings and the four truths.",
+        "source": "T49n2035_012:0216b01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師所答最勝。",
+        "translation": "The teacher's answers were most excellent.",
+        "source": "T49n2035_012:0216b01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "學者盛傳之。",
+        "translation": "It was widely disseminated among students.",
+        "source": "T49n2035_012:0216b02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後舉以首眾講演不倦。",
+        "translation": "Later, he gave lectures to the most distinguished audience and never tired of them.",
+        "source": "T49n2035_012:0216b02_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謙沖不務名世以此敬之(此下本紀遺失一人)。",
+        "translation": "He was revered by the world for his Qianchong's lack of commitment to fame (one person was lost in the following chronicle).",
+        "source": "T49n2035_012:0216b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師慧舟。",
+        "translation": "Dharma teacher Huizhou.",
+        "source": "T49n2035_012:0216b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "丹丘人。",
+        "translation": "He was from Tanqiu.",
+        "source": "T49n2035_012:0216b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二親既沒。",
+        "translation": "After his two relatives died, he abandoned his family and entered the path.",
+        "source": "T49n2035_012:0216b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即棄家入道。",
+        "translation": "He abandoned his family and entered the Way.",
+        "source": "T49n2035_012:0216b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "投四明為學數載。",
+        "translation": "He joined the four masters and studied for several years.",
+        "source": "T49n2035_012:0216b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而業成乃曰。",
+        "translation": "After his karma was complete, he said.",
+        "source": "T49n2035_012:0216b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智有訓。",
+        "translation": "\"Dharma wisdom has a teaching.",
+        "source": "T49n2035_012:0216b05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛道甚夷。",
+        "translation": "'The path of the Buddha is very difficult.",
+        "source": "T49n2035_012:0216b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行之惟艱。",
+        "translation": "Its practice is only arduous.",
+        "source": "T49n2035_012:0216b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂四三昧也。",
+        "translation": "It's called the four samādhis.",
+        "source": "T49n2035_012:0216b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天聖初。",
+        "translation": "At the beginning of his career, Tianshō.",
+        "source": "T49n2035_012:0216b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "結同學十人行大悲行法者三年。",
+        "translation": "He gathered ten fellow students to practice the teaching of great compassion for three years.",
+        "source": "T49n2035_012:0216b07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "結十四人行普賢行法者又三年。",
+        "translation": "It's another three years since he formed a group of 14 people who practice the Dharma of Samantabhadra with Universal Worthy.",
+        "source": "T49n2035_012:0216b07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初入期。",
+        "translation": "At the time of his initial entry, he vowed to look at the images and say.",
+        "source": "T49n2035_012:0216b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "誓於像曰。",
+        "translation": "He vowed to put his image up for grabs, saying.",
+        "source": "T49n2035_012:0216b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "倘此三昧有成當焚軀以效供養。",
+        "translation": "'If this samādhi ever becomes a reality, I'll burn my body as an offering.'",
+        "source": "T49n2035_012:0216b09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "行法既周。",
+        "translation": "After he had finished practicing the Dharma, he returned to his hometown and asked to realize his spiritual illumination.",
+        "source": "T49n2035_012:0216b09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "回故里求證神照。",
+        "translation": "He returned to his hometown and asked to realize Shenzhao.",
+        "source": "T49n2035_012:0216b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "照欲全其重願。",
+        "translation": "Shō wanted to fulfill his grave vow.",
+        "source": "T49n2035_012:0216b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喻道俗輸香木成大[卄/積]仲夏晦日。",
+        "translation": "It was said that the laity would buy incense wood to make a large [twenty/plume] on the afternoon of midsummer.",
+        "source": "T49n2035_012:0216b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "神照囑之曰。",
+        "translation": "Shenzhao instructed him, saying.",
+        "source": "T49n2035_012:0216b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法華尊施爾克修之。",
+        "translation": "\"The Lotus honors you by bestowing it, and you must cultivate it.",
+        "source": "T49n2035_012:0216b12_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "梵網明晦爾克遵之。",
+        "translation": "Brahmā's Net of Light and Darkness, you must obey it.",
+        "source": "T49n2035_012:0216b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惟繫心法界。",
+        "translation": "\"Only bind your mind to the Dharma realm.",
+        "source": "T49n2035_012:0216b13_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "身如火如。",
+        "translation": "His body is like fire.",
+        "source": "T49n2035_012:0216b13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "則一聚之燼。",
+        "translation": "That's the ashes of a single mass.",
+        "source": "T49n2035_012:0216b13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃三昧之蘊。",
+        "translation": "It's the aggregate of samādhi.",
+        "source": "T49n2035_012:0216b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喜見精進。",
+        "translation": "He enjoys seeing and making effort.",
+        "source": "T49n2035_012:0216b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以奉淨明真供。",
+        "translation": "He wants to make a true offering of pure luminosity.",
+        "source": "T49n2035_012:0216b14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "惟子行焉。",
+        "translation": "I'm counting on the son to do it.",
+        "source": "T49n2035_012:0216b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "師奉教。",
+        "translation": "The teacher offered his instructions.",
+        "source": "T49n2035_012:0216b15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "致謝四眾。",
+        "translation": "He thanked the four groups.",
+        "source": "T49n2035_012:0216b15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "端坐薪塔。",
+        "translation": "He sat upright at the fire altar.",
+        "source": "T49n2035_012:0216b15_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "火光屬天。",
+        "translation": "The firelight belonged to the gods.",
+        "source": "T49n2035_012:0216b15_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "了無傾側。",
+        "translation": "It was perfectly clear and unobstructed.",
+        "source": "T49n2035_012:0216b16_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "舍利晶耀。",
+        "translation": "The relics shone brightly.",
+        "source": "T49n2035_012:0216b16_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "求者咸如其願。",
+        "translation": "Everyone who asked for them did as they wished.",
+        "source": "T49n2035_012:0216b16_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃瘞餘骨於山西。",
+        "translation": "The remaining bones were then plumed in Shanxi Province.",
+        "source": "T49n2035_012:0216b16_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "衢之祥符懷襲。",
+        "translation": "He was Xiangfu Huaiqun in Quzhi.",
+        "source": "T49n2035_012:0216b17_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與師為同學。",
+        "translation": "He and his teacher were classmates.",
+        "source": "T49n2035_012:0216b17_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又同修三昧云(此下本紀遺失二人)。",
+        "translation": "They also practiced samādhi together (the two were lost in the following chronicle).",
+        "source": "T49n2035_012:0216b18_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法師源信。",
+        "translation": "Dharma teacher Genshin.",
+        "source": "T49n2035_012:0216b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "日本國十大禪師也。",
+        "translation": "He was one of the ten great Chan masters of Japan.",
+        "source": "T49n2035_012:0216b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "咸平六年。",
+        "translation": "It was the sixth year of Hampyeong.",
+        "source": "T49n2035_012:0216b19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遣其徒寂照。",
+        "translation": "He sent his disciple Ji Zhao.",
+        "source": "T49n2035_012:0216b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "持教義二十七問。",
+        "translation": "He asked 27 questions about the doctrine of the teachings.",
+        "source": "T49n2035_012:0216b20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "詣南湖求決。",
+        "translation": "He went to Nanhu to seek a solution.",
+        "source": "T49n2035_012:0216b20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "法智為其一一答釋。",
+        "translation": "Fazhi answered for him one by one.",
+        "source": "T49n2035_012:0216b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "照欣領歸國。",
+        "translation": "Shizhao gladly led them back to his country.",
+        "source": "T49n2035_012:0216b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "信大服其說。",
+        "translation": "He was greatly convinced by his teaching.",
+        "source": "T49n2035_012:0216b21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西向禮謝(此下本紀遺失源清一人)。",
+        "translation": "He went west to pay his respects (the next entry in this record lost Genchi alone).",
+        "source": "T49n2035_012:0216b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛祖統紀卷第十二(終)",
+        "translation": "Fozu tongji vol. 12 (end)",
+        "source": "T49n2035_012:0216b23_0",
+        "is_bad_quality": false
+    }
+]

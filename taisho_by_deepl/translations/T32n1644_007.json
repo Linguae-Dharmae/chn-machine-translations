@@ -1,0 +1,4394 @@
+[
+    {
+        "source_sentence": "佛說立世阿毘曇論卷第七",
+        "translation": "Fo shuo Lishiapitan lun, vol. 7",
+        "source": "T32n1644_007:0202a17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "陳西印度三藏真諦譯",
+        "translation": "Chenxi Indian Tripiṭaka True Truth Translation",
+        "source": "T32n1644_007:0202a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受生品第二十一",
+        "translation": "twenty-first class of those who will be reborn",
+        "source": "T32n1644_007:0202a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "造十惡業道最極重者。",
+        "translation": "Those who create the ten evil karmic destinies are the most extremely serious.",
+        "source": "T32n1644_007:0202a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生大阿毘止地獄。",
+        "translation": "They'll be born in the hell of great abhidharma.",
+        "source": "T32n1644_007:0202a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若次造輕惡次生餘輕地獄。",
+        "translation": "If he does the next lesser evil, then he'll be born in the other lesser hells.",
+        "source": "T32n1644_007:0202a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若復輕者次生閻羅八輕地獄。",
+        "translation": "If it's still less serious, he'll be born next in the eight less serious hells of Yama.",
+        "source": "T32n1644_007:0202a22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若復輕者次生禽獸道。",
+        "translation": "If it's still less severe, then he'll be born next in the animal path.",
+        "source": "T32n1644_007:0202a23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若復輕者次生鬼道。",
+        "translation": "If it's again less severe, he'll be born next in the path of ghosts.",
+        "source": "T32n1644_007:0202a23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若造最輕十善業道。",
+        "translation": "If he creates the ten least virtuous karmic destinies, then he'll be born in the lowest class of homes in Hepatī.",
+        "source": "T32n1644_007:0202a24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生剡浮提最下品家。",
+        "translation": "He'll be born in the lowest class of homes in Hāpūti.",
+        "source": "T32n1644_007:0202a24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或生除糞家或生屠膾家。",
+        "translation": "He might be born in a family that removes dung or in a family that slaughters and buys food.",
+        "source": "T32n1644_007:0202a25_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或生作樂家或生工巧家。",
+        "translation": "Sometimes he'll be born in a house of pleasure or a house of workmanship.",
+        "source": "T32n1644_007:0202a25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或生兵廝家。",
+        "translation": "Or they'll be born into a family of soldiers and slaves.",
+        "source": "T32n1644_007:0202a26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若造次勝者則生長者家。",
+        "translation": "If someone creates the next best thing, then they'll be born in the house of a grower.",
+        "source": "T32n1644_007:0202a26_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又次勝者生婆羅門家。",
+        "translation": "The next best gives rise to a family of brāhmaṇas.",
+        "source": "T32n1644_007:0202a27_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復勝此者生剎利家。",
+        "translation": "If he's also superior to that, he'll be born into a warrior family.",
+        "source": "T32n1644_007:0202a27_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若復勝者生西瞿耶尼。",
+        "translation": "If he's superior again, he'll be born to the family of Sigouyani.",
+        "source": "T32n1644_007:0202a28_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次復勝者生東弗婆提。",
+        "translation": "The next superior gives birth to the family of Pūrvavideha in the east.",
+        "source": "T32n1644_007:0202a28_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次勝者生北欝單越。",
+        "translation": "The next superior will be born in the north, in Uttarakuru.",
+        "source": "T32n1644_007:0202a29_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次勝者生四天王。",
+        "translation": "The next victorious person is born in the four heavenly kings.",
+        "source": "T32n1644_007:0202a29_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次勝者生忉利天。",
+        "translation": "The next victorious person is born in the Heaven of the Thirty-three Celestials.",
+        "source": "T32n1644_007:0202b01_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次勝者生夜摩天。",
+        "translation": "The next victorious one is born in the Yama Heaven.",
+        "source": "T32n1644_007:0202b01_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次勝者生兜駛多天。",
+        "translation": "The next victorious one is born in the Tuṣita Heaven.",
+        "source": "T32n1644_007:0202b02_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次勝者生化樂天。",
+        "translation": "The next-best is born in the Nirmāṇarati Heaven.",
+        "source": "T32n1644_007:0202b02_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若造最勝十善業道。",
+        "translation": "If he creates the ten most excellent courses of good conduct, he'll be born in the Paranirmita-vaśavartin Heaven.",
+        "source": "T32n1644_007:0202b02_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生他化自在天。",
+        "translation": "He'll be born in the Paranirmita-vaśavartin Heaven.",
+        "source": "T32n1644_007:0202b03_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若凡夫人者。",
+        "translation": "Suppose a woman who's a mortal is born in the Heaven of the Transfiguration of Maitreya.",
+        "source": "T32n1644_007:0202b03_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修習四種禪定。",
+        "translation": "He cultivates four kinds of meditation.",
+        "source": "T32n1644_007:0202b04_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three grades of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0202b04_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人因下品初禪相應業生梵先行天。",
+        "translation": "That person is born in the Heaven of the Attendants of Brahmā because of the actions associated with the lower first meditation level.",
+        "source": "T32n1644_007:0202b04_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得此天道。",
+        "translation": "Because of this activity, he attains this heavenly path.",
+        "source": "T32n1644_007:0202b05_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "He attains a life span in that heaven.",
+        "source": "T32n1644_007:0202b06_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得天同類。",
+        "translation": "He attains abode in that heaven and attains the same class of gods.",
+        "source": "T32n1644_007:0202b06_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報。",
+        "translation": "Once born there, he'll receive the results of his actions.",
+        "source": "T32n1644_007:0202b06_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有二種樂。",
+        "translation": "There are two kinds of happiness.",
+        "source": "T32n1644_007:0202b07_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無逼樂。",
+        "translation": "One is the pleasure of not being forced.",
+        "source": "T32n1644_007:0202b07_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者受樂。",
+        "translation": "The second is the pleasure of feeling it.",
+        "source": "T32n1644_007:0202b07_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "This is the result of ripened karma that's used without remainder.",
+        "source": "T32n1644_007:0202b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品初禪相應業。",
+        "translation": "It's the karma associated with the middle level of the first dhyāna.",
+        "source": "T32n1644_007:0202b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於梵眾天生。",
+        "translation": "They're born in the Brahmā heaven.",
+        "source": "T32n1644_007:0202b08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品業亦生此天。",
+        "translation": "Because of the actions of the higher qualities, they'll also be born in this heaven.",
+        "source": "T32n1644_007:0202b09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業已得天道。",
+        "translation": "After these actions, they'll attain the heavenly path.",
+        "source": "T32n1644_007:0202b09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得壽命。",
+        "translation": "They'll attain longevity.",
+        "source": "T32n1644_007:0202b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得同類。",
+        "translation": "They'll attain abiding and attain the same type of existence.",
+        "source": "T32n1644_007:0202b10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報。",
+        "translation": "Once they're born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0202b10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有二種樂。",
+        "translation": "There are two kinds of happiness.",
+        "source": "T32n1644_007:0202b11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無逼樂。",
+        "translation": "One is the pleasure of not being forced.",
+        "source": "T32n1644_007:0202b11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二名受樂。",
+        "translation": "The second is called the pleasure of feeling.",
+        "source": "T32n1644_007:0202b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "This is the result of ripened karma that's used without remainder.",
+        "source": "T32n1644_007:0202b11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因二禪下品相應業。",
+        "translation": "It's the result of actions associated with the lower levels of the second dhyāna.",
+        "source": "T32n1644_007:0202b12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因此業故生少光天。",
+        "translation": "As a result of this activity, he'll be born in the Heaven of Lesser Light.",
+        "source": "T32n1644_007:0202b12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品二禪相應業。",
+        "translation": "It's because of the karma associated with the middle level of the second dhyāna.",
+        "source": "T32n1644_007:0202b13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生無量光天。",
+        "translation": "It gives rise to the Heaven of Immeasurable Light.",
+        "source": "T32n1644_007:0202b13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品二禪相應業生勝遍光天。",
+        "translation": "As a result of the karma associated with the higher level of the second dhyāna, he'll be born in the Heaven of Overwhelming Light.",
+        "source": "T32n1644_007:0202b14_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得天道。",
+        "translation": "As a result of these actions, he attains the heavenly path.",
+        "source": "T32n1644_007:0202b14_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They'll attain a heavenly life span.",
+        "source": "T32n1644_007:0202b15_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得天同類。",
+        "translation": "They'll attain abiding and attain the same kind of heavenly existence.",
+        "source": "T32n1644_007:0202b15_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報。",
+        "translation": "Once they're born there, they'll experience the results of their actions.",
+        "source": "T32n1644_007:0202b15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有二種樂一無逼樂。",
+        "translation": "There are two kinds of happiness: the first is the happiness of not being forced.",
+        "source": "T32n1644_007:0202b16_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者受樂。",
+        "translation": "The second is the pleasure of sensation.",
+        "source": "T32n1644_007:0202b16_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmic maturation, they're used without remainder.",
+        "source": "T32n1644_007:0202b17_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品三禪相應業生少淨天。",
+        "translation": "As a result of the actions associated with the lower three dhyāna levels, he'll be born in a less pure heaven.",
+        "source": "T32n1644_007:0202b17_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品三禪相應業。",
+        "translation": "As a result of the actions associated with the middle level of the three meditation, he's born in a heaven of measureless purity.",
+        "source": "T32n1644_007:0202b18_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生無量淨天。",
+        "translation": "...gives rise to the heaven of measureless purity.",
+        "source": "T32n1644_007:0202b18_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品三禪相應業生遍淨天。",
+        "translation": "As a result of the karma associated with the higher three meditations, he'll be born in the heaven of universal purity.",
+        "source": "T32n1644_007:0202b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得此天道。",
+        "translation": "Because of this activity, he attains this heavenly path.",
+        "source": "T32n1644_007:0202b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得壽命。",
+        "translation": "They attain longevity.",
+        "source": "T32n1644_007:0202b20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得天同類。",
+        "translation": "They'll attain abode and be counted among the same kind of gods.",
+        "source": "T32n1644_007:0202b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報。",
+        "translation": "Once they're born there, they'll experience the results of their actions.",
+        "source": "T32n1644_007:0202b20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有二種樂。",
+        "translation": "There are two kinds of happiness.",
+        "source": "T32n1644_007:0202b21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無逼樂。",
+        "translation": "One is the pleasure of not being forced.",
+        "source": "T32n1644_007:0202b21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者受樂。",
+        "translation": "The second is the pleasure of feeling it.",
+        "source": "T32n1644_007:0202b21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "This is the result of ripened karma that's used without remainder.",
+        "source": "T32n1644_007:0202b21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品四禪相應業。",
+        "translation": "It's the result of the actions associated with the lower four meditation heavens.",
+        "source": "T32n1644_007:0202b22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生無雲天。",
+        "translation": "He'll be born in the cloudless heaven.",
+        "source": "T32n1644_007:0202b22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品四禪相應業生受福天。",
+        "translation": "As a result of the actions associated with the middle level of the four meditations, he'll be born in the Heaven of Enjoyment of Merit.",
+        "source": "T32n1644_007:0202b23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品四禪相應業生廣果天。",
+        "translation": "As a result of the actions associated with the higher four meditations, he'll be born in the Heaven of Extensive Rewards.",
+        "source": "T32n1644_007:0202b23_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業故得此天道。",
+        "translation": "It's because of these actions that he attains this heavenly path.",
+        "source": "T32n1644_007:0202b24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They'll attain a heavenly life span.",
+        "source": "T32n1644_007:0202b24_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得天同類。",
+        "translation": "They'll attain abode and be born in the same category of gods.",
+        "source": "T32n1644_007:0202b25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報。",
+        "translation": "Once they're born there, they'll experience the results of their actions.",
+        "source": "T32n1644_007:0202b25_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有無逼樂。",
+        "translation": "There's no constraint or pleasure.",
+        "source": "T32n1644_007:0202b26_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無復受樂。",
+        "translation": "There's no more enjoyment.",
+        "source": "T32n1644_007:0202b26_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0202b26_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "諸凡夫人隨餘業故餘處受生。",
+        "translation": "Ordinary people are born in other places as a result of other actions.",
+        "source": "T32n1644_007:0202b27_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若凡夫人修習四無量心。",
+        "translation": "Suppose ordinary people cultivate the four immeasurable states of mind.",
+        "source": "T32n1644_007:0202b27_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "Each has three classes, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0202b28_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈無量者如是修習。",
+        "translation": "Those who cultivate the immeasurable mind are thus cultivated.",
+        "source": "T32n1644_007:0202b28_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是數行如四種禪定。",
+        "translation": "Such repeated practice is like the four kinds of meditation.",
+        "source": "T32n1644_007:0202b29_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喜無量者如是修習如是數行。",
+        "translation": "Those with immeasurable joy thus cultivate such repeated practice.",
+        "source": "T32n1644_007:0202b29_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如初禪如二禪。",
+        "translation": "It's like the first dhyāna and like the second dhyāna.",
+        "source": "T32n1644_007:0202c01_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悲無量者如是修習。",
+        "translation": "Those of immeasurable compassion thus cultivate it.",
+        "source": "T32n1644_007:0202c01_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是數行如第四禪。",
+        "translation": "Thus they repeatedly practice as in the fourth dhyāna.",
+        "source": "T32n1644_007:0202c02_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨無量者如是修習如是數行。",
+        "translation": "For those with immeasurable equanimity, he thus cultivates and thus conducts himself repeatedly.",
+        "source": "T32n1644_007:0202c02_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如第三禪及第四禪。",
+        "translation": "It's like the third and fourth meditations.",
+        "source": "T32n1644_007:0202c03_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習不淨觀。",
+        "translation": "This is a worldling who cultivates the contemplation of impurity.",
+        "source": "T32n1644_007:0202c04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three classes of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0202c04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無憎違行不淨觀。",
+        "translation": "They are those who practice the contemplation of impurity without abhorrence or contradiction.",
+        "source": "T32n1644_007:0202c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如四種禪定。",
+        "translation": "He thus cultivates such repeated practice as in the four meditations.",
+        "source": "T32n1644_007:0202c05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有憎違行不淨觀。",
+        "translation": "He thus cultivates such repeated practice as the four types of meditation, contemplating impurity with loathing and disagreement.",
+        "source": "T32n1644_007:0202c06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如第四禪。",
+        "translation": "He thus cultivates such repeated practice as the fourth dhyāna.",
+        "source": "T32n1644_007:0202c06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習阿那波那念。",
+        "translation": "This is a worldling who cultivates mindfulness of breathing.",
+        "source": "T32n1644_007:0202c07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three grades of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0202c07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如前三種禪定。",
+        "translation": "He thus cultivates such repeated practice as in the first three meditations.",
+        "source": "T32n1644_007:0202c08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡夫人修習五有想。",
+        "translation": "Ordinary people cultivate the five contemplations of existence.",
+        "source": "T32n1644_007:0202c09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three classes of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0202c09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何者為五。",
+        "translation": "What are the five?",
+        "source": "T32n1644_007:0202c10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一不淨想。",
+        "translation": "1. thoughts of impurity ...",
+        "source": "T32n1644_007:0202c10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二過失想。",
+        "translation": "Two are perceptions of faults ...",
+        "source": "T32n1644_007:0202c10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三死墮想。",
+        "translation": "Three are thoughts of death and falling.",
+        "source": "T32n1644_007:0202c10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四饜食想。",
+        "translation": "Four conceptions of eating and feeding.",
+        "source": "T32n1644_007:0202c11_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五一切世間無安想。",
+        "translation": "Five conceptions of the world as unstable.",
+        "source": "T32n1644_007:0202c11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無憎違不淨想者。",
+        "translation": "He doesn't have thoughts of loathing or disagreement with what's impure.",
+        "source": "T32n1644_007:0202c11_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如四種禪定。",
+        "translation": "He thus cultivates such repeated practice as the four kinds of meditation.",
+        "source": "T32n1644_007:0202c12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有憎違不淨想。",
+        "translation": "He'll have thoughts of loathing and disagreement with what's impure.",
+        "source": "T32n1644_007:0202c13_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及後四想如是修習。",
+        "translation": "He thus cultivates the last four conceptions as they are.",
+        "source": "T32n1644_007:0202c13_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是數行如第四禪。",
+        "translation": "Such repeated practice is like the fourth dhyāna.",
+        "source": "T32n1644_007:0202c13_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習八種遍入。",
+        "translation": "These are the eight kinds of pervasive entry cultivated by ordinary people.",
+        "source": "T32n1644_007:0202c14_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "Each has three classes, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0202c14_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為八。",
+        "translation": "What are the eight?",
+        "source": "T32n1644_007:0202c15_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一內有色想觀外色少。",
+        "translation": "One is internal perception of form and observing external form as lesser.",
+        "source": "T32n1644_007:0202c15_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是少者或妙或麁。",
+        "translation": "This little one may be subtle or crude.",
+        "source": "T32n1644_007:0202c16_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我遍此想得知得見如是有想。",
+        "translation": "I completely perceive this perception and know that I can see such a perception of existence.",
+        "source": "T32n1644_007:0202c16_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二內有色想觀外色無量。",
+        "translation": "Second, internal conceptions of form observe external forms that are measureless.",
+        "source": "T32n1644_007:0202c17_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或妙或麁我遍此想能知能見作如是想。",
+        "translation": "Whether it's subtle or debilitating, I've pervaded this perception and can know and see it as such.",
+        "source": "T32n1644_007:0202c17_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三內無色想觀外色少如前。",
+        "translation": "Three internal formless perceptions observe external form as little as before.",
+        "source": "T32n1644_007:0202c18_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四內無色想觀外色無量亦如前。",
+        "translation": "Four internal formless perceptions that contemplate external form as immeasurable are also as before.",
+        "source": "T32n1644_007:0202c19_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五六七八者。",
+        "translation": "The fifth, sixth, seventh, and eighth are as before.",
+        "source": "T32n1644_007:0202c20_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "並於內無色想觀四色。",
+        "translation": "He observes four forms in the internal perception of formlessness.",
+        "source": "T32n1644_007:0202c20_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂青黃赤白我遍此想。",
+        "translation": "That's the perception of the blue, yellow, red, and white self pervading this perception.",
+        "source": "T32n1644_007:0202c21_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能知能見作如是想。",
+        "translation": "He perceives and sees them and creates such perceptions.",
+        "source": "T32n1644_007:0202c21_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此八想中是第一第二。",
+        "translation": "Of these eight perceptions, this is the first and second.",
+        "source": "T32n1644_007:0202c22_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如四禪定。",
+        "translation": "They are thus cultivated and thus repeatedly practiced like the four meditation concentrations.",
+        "source": "T32n1644_007:0202c22_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後六想者如是修習。",
+        "translation": "The last six perceptions are thus cultivated.",
+        "source": "T32n1644_007:0202c23_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是數行如第四禪。",
+        "translation": "They thus repeatedly practice as in the fourth dhyāna.",
+        "source": "T32n1644_007:0202c23_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習十一切入。",
+        "translation": "These are the eleven percipients that ordinary people cultivate.",
+        "source": "T32n1644_007:0202c24_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "Each has three classes, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0202c24_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是八一切入如是修習。",
+        "translation": "These are the eighty-one entry points that are thus cultivated.",
+        "source": "T32n1644_007:0202c25_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是數行如第四禪。",
+        "translation": "Thus they are counted and practiced as the fourth dhyāna.",
+        "source": "T32n1644_007:0202c25_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二一切如是修習。",
+        "translation": "The latter two and all of them are thus cultivated.",
+        "source": "T32n1644_007:0203a01_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是數行如其自地。",
+        "translation": "Thus they are counted and practiced as their own ground.",
+        "source": "T32n1644_007:0203a01_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空一切入如空無邊入。",
+        "translation": "Emptiness has all the sense-fields as emptiness has limitless sense-fields.",
+        "source": "T32n1644_007:0203a02_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "識一切入如識無邊入。",
+        "translation": "He thus cultivates all the sense-fields of consciousness as the infinite sense-fields of consciousness.",
+        "source": "T32n1644_007:0203a02_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習四無色三摩跋提。",
+        "translation": "These are ordinary people who cultivate the four formless samāpatti.",
+        "source": "T32n1644_007:0203a03_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three classes of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0203a04_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人由下品空處相應業。",
+        "translation": "From the karma associated with the lower level of emptiness, this person is born in the heaven of infinite entry into emptiness.",
+        "source": "T32n1644_007:0203a04_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生空無邊入天。",
+        "translation": "He'll be born in the heaven of the infinite entry of emptiness.",
+        "source": "T32n1644_007:0203a05_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由中品空無邊入相應業亦生此天。",
+        "translation": "From the karma associated with the middle level of emptiness and limitless entry, he'll also be born in this heaven.",
+        "source": "T32n1644_007:0203a05_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由上品空無邊入相。",
+        "translation": "From the karma associated with the higher level of emptiness and limitless entry ...",
+        "source": "T32n1644_007:0203a06_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "應業亦生此天。",
+        "translation": "concomitant with karma, he'll also be born in this heaven.",
+        "source": "T32n1644_007:0203a06_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業故得天道。",
+        "translation": "As a result of these actions, he attains the heavenly path.",
+        "source": "T32n1644_007:0203a07_53",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They'll attain a life span in heaven.",
+        "source": "T32n1644_007:0203a07_54",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天住得天同類。",
+        "translation": "They'll attain a heavenly abode and attain the same class of gods.",
+        "source": "T32n1644_007:0203a07_55",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0203a08_56",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有無逼樂。",
+        "translation": "There's no constraint or pleasure.",
+        "source": "T32n1644_007:0203a08_57",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無有受樂。",
+        "translation": "There's nothing to experience as pleasure.",
+        "source": "T32n1644_007:0203a08_58",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0203a09_59",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品識無邊入相應業。",
+        "translation": "The karma associated with the infinite entry of lower-order consciousnesses is the result.",
+        "source": "T32n1644_007:0203a09_60",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生識無邊入天。",
+        "translation": "It gives rise to consciousnesses that have limitless entry into the heavens.",
+        "source": "T32n1644_007:0203a10_61",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由中品識無邊入相應業亦生此天。",
+        "translation": "From the karma associated with the middle-grade consciousness' limitless entry, this heaven also arises.",
+        "source": "T32n1644_007:0203a10_62",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品識無邊入相應業亦生此天。",
+        "translation": "As a result of the actions associated with the higher consciousnesses' limitless entry, this heaven also arises.",
+        "source": "T32n1644_007:0203a11_63",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業故得天道。",
+        "translation": "Because of these actions, he attains the heavenly path.",
+        "source": "T32n1644_007:0203a12_64",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They'll attain a life span in heaven.",
+        "source": "T32n1644_007:0203a12_65",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天住得天同類。",
+        "translation": "They attain a heavenly abode and attain the same kind of heavenly existence.",
+        "source": "T32n1644_007:0203a12_66",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0203a13_67",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無逼樂無有受樂。",
+        "translation": "There's only no constraint or pleasure, and there's nothing to enjoy.",
+        "source": "T32n1644_007:0203a13_68",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0203a14_69",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品無所有入相應業生無所有入天。",
+        "translation": "As a result of the karma associated with the lower level of nothingness that enters, the heaven of nothingness that enters is produced.",
+        "source": "T32n1644_007:0203a14_70",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品無所有入相應業亦生此天。",
+        "translation": "This heaven also arises from the karma associated with the middle-level lack of possessions.",
+        "source": "T32n1644_007:0203a15_71",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品無所有入相應業亦生此天。",
+        "translation": "This heaven also arises because of the karma associated with the higher level's lack of possessions.",
+        "source": "T32n1644_007:0203a16_72",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業故得天道。",
+        "translation": "Because of these actions, they attain the heavenly path.",
+        "source": "T32n1644_007:0203a17_73",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They attain a heavenly life span.",
+        "source": "T32n1644_007:0203a17_74",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天住。",
+        "translation": "They'll attain a heavenly abode.",
+        "source": "T32n1644_007:0203a17_75",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天同類。",
+        "translation": "They'll attain the same class of gods.",
+        "source": "T32n1644_007:0203a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0203a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無逼樂無有受樂。",
+        "translation": "Only there's no constraint or pleasure, and there's nothing to enjoy.",
+        "source": "T32n1644_007:0203a18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0203a19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品非想非非想入相應業生非想非非想入天。",
+        "translation": "As a result of the karma associated with the lower level of neither perception nor non-perception, there's birth in the heaven of neither perception nor non-perception.",
+        "source": "T32n1644_007:0203a19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品非想非非想入相應業亦生此天。",
+        "translation": "This heaven also arises because of the karma associated with middle-level nonconception and nonconceptual entry.",
+        "source": "T32n1644_007:0203a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品非想非非想入相應業亦生此天。",
+        "translation": "This heaven also arises because of the karma associated with the higher level of neither-conception nor non-conception entry.",
+        "source": "T32n1644_007:0203a21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業故得天道。",
+        "translation": "Because of these actions, they attain the heavenly path.",
+        "source": "T32n1644_007:0203a22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They attain a heavenly life span.",
+        "source": "T32n1644_007:0203a23_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天住。",
+        "translation": "They'll attain a heavenly abode.",
+        "source": "T32n1644_007:0203a23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天同類。",
+        "translation": "They'll attain the same class of gods.",
+        "source": "T32n1644_007:0203a23_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0203a23_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無逼樂無有受樂。",
+        "translation": "Only there's no constraint or pleasure, and there's nothing to enjoy.",
+        "source": "T32n1644_007:0203a24_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0203a24_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人隨後報業餘處受生。",
+        "translation": "It's a mortal woman who then experiences birth elsewhere as the result of her actions.",
+        "source": "T32n1644_007:0203a25_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習初禪定已生已得。",
+        "translation": "This mortal wife has cultivated the first concentration, and she's already been born and attained.",
+        "source": "T32n1644_007:0203a25_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此一切更復退失。",
+        "translation": "From there, all of that is further lost.",
+        "source": "T32n1644_007:0203a26_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品初禪中。",
+        "translation": "That person abides in the lower first dhyāna.",
+        "source": "T32n1644_007:0203a27_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人由下品初禪相應業生梵先行天。",
+        "translation": "From the karma associated with the lower first dhyāna, this person is born in the Heaven of the Attendants of Brahmā.",
+        "source": "T32n1644_007:0203a27_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品初禪業報。",
+        "translation": "After being born there, he'll receive the results of actions in the lower first dhyāna.",
+        "source": "T32n1644_007:0203a28_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂及與受樂。",
+        "translation": "He attains the happiness of no constraint and the happiness of sensation.",
+        "source": "T32n1644_007:0203a29_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品初禪及二禪業果報。",
+        "translation": "He'll experience the results of actions in the middle and higher levels of the first and second meditations.",
+        "source": "T32n1644_007:0203a29_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得受無逼樂及以受樂。",
+        "translation": "In this birth, he'll experience the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0203b01_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三禪及第四禪亦此生中受業果報。",
+        "translation": "The third and fourth meditations also experience the results of karma in this birth.",
+        "source": "T32n1644_007:0203b02_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但無逼樂無有受樂。",
+        "translation": "However, there's no pleasure of constraint and no enjoyment.",
+        "source": "T32n1644_007:0203b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmic retributions are ripened, they'll be used without remainder.",
+        "source": "T32n1644_007:0203b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨後報業餘處受生。",
+        "translation": "Subsequent karmic retribution is experienced in other places of birth.",
+        "source": "T32n1644_007:0203b03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品初禪亦如是。",
+        "translation": "The other middle-rank, higher-rank, first-rank meditations are likewise.",
+        "source": "T32n1644_007:0203b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡夫人修習四禪已生已得。",
+        "translation": "Ordinary people who cultivate the fourth dhyāna have already been born and attained.",
+        "source": "T32n1644_007:0203b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此一切更復退失。",
+        "translation": "From here, they'll fall back again.",
+        "source": "T32n1644_007:0203b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品二禪中。",
+        "translation": "This person abides in the lower second dhyāna.",
+        "source": "T32n1644_007:0203b06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人由下品二禪相應業生少光天。",
+        "translation": "From the actions associated with the lower second dhyāna, this person is born in the Lesser Light Heaven.",
+        "source": "T32n1644_007:0203b06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品二禪業報。",
+        "translation": "After being born there, he'll receive the results of actions in the lower two meditations.",
+        "source": "T32n1644_007:0203b07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂及與受樂。",
+        "translation": "He attains the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0203b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品第二禪及初禪業報。",
+        "translation": "He'll experience the results of karma in the middle, higher, second, and first meditations.",
+        "source": "T32n1644_007:0203b08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得無逼樂及與受樂。",
+        "translation": "In this birth, they'll attain the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0203b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三禪及第四禪此生中受果報。",
+        "translation": "In the third and fourth chambers, he'll experience the results of this birth.",
+        "source": "T32n1644_007:0203b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但無逼樂無有受樂。",
+        "translation": "There's only no enjoyment of constraint and no enjoyment of sensation.",
+        "source": "T32n1644_007:0203b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this karma matures, it's used without remainder.",
+        "source": "T32n1644_007:0203b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨後報業餘處受生。",
+        "translation": "Subsequent rewards of karma are experienced in other places of birth.",
+        "source": "T32n1644_007:0203b11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品二禪亦如是。",
+        "translation": "The other middle-rank, higher-rank second meditation is likewise.",
+        "source": "T32n1644_007:0203b12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習四禪已生已得。",
+        "translation": "This is a mortal who cultivates the fourth dhyāna after it's been produced and attained.",
+        "source": "T32n1644_007:0203b12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從此一切更復退失。",
+        "translation": "From here, they'll fall back again.",
+        "source": "T32n1644_007:0203b13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品三禪中。",
+        "translation": "This person abides in the lower third dhyāna.",
+        "source": "T32n1644_007:0203b13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品三禪相應業生少淨天。",
+        "translation": "From the actions associated with the lower three meditations, he'll be born in a less pure heaven.",
+        "source": "T32n1644_007:0203b14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品。",
+        "translation": "After being born there, he'll receive the results of lower-ranked third-meditation actions.",
+        "source": "T32n1644_007:0203b15_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三禪業報。",
+        "translation": "The results of karma in the third dhyāna.",
+        "source": "T32n1644_007:0203b15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂及與受樂。",
+        "translation": "He attains the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0203b15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品第三禪業報。",
+        "translation": "He'll experience the results of karma in the middle level, higher level, and third dhyāna.",
+        "source": "T32n1644_007:0203b16_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得無逼樂及與受樂。",
+        "translation": "In this birth, he'll attain the pleasure of no constraint and the enjoyment of sensation.",
+        "source": "T32n1644_007:0203b16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初禪二禪及第四禪業報。",
+        "translation": "The karmic rewards of the first dhyāna, second dhyāna, and fourth dhyāna.",
+        "source": "T32n1644_007:0203b17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受無逼樂無有受樂。",
+        "translation": "They experience the absence of constraint and the absence of sensation and pleasure.",
+        "source": "T32n1644_007:0203b18_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this karma matures, it's used without remainder.",
+        "source": "T32n1644_007:0203b18_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "隨後報業餘處受生。",
+        "translation": "Subsequent karmic retribution is experienced elsewhere in birth.",
+        "source": "T32n1644_007:0203b19_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品三禪亦如是。",
+        "translation": "The other middle-rank and higher-rank third meditations are likewise.",
+        "source": "T32n1644_007:0203b19_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習四禪。",
+        "translation": "This is a mortal who cultivates the fourth dhyāna.",
+        "source": "T32n1644_007:0203b20_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, everything that's been produced and attained will be lost again.",
+        "source": "T32n1644_007:0203b20_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品四禪中。",
+        "translation": "This person abides in the lower four meditation heavens.",
+        "source": "T32n1644_007:0203b21_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品四禪相應業生無雲天。",
+        "translation": "From the actions associated with the lower four meditations, he'll be born in the cloudless heaven.",
+        "source": "T32n1644_007:0203b21_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品四禪業報。",
+        "translation": "After being born there, he'll receive the results of the actions of the lower four meditations.",
+        "source": "T32n1644_007:0203b22_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "They attain the pleasure of no constraint and receive no pleasure.",
+        "source": "T32n1644_007:0203b23_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品第四禪及餘三禪業報。",
+        "translation": "He'll experience the results of actions in the middle, higher, fourth, and other three meditation [heavens].",
+        "source": "T32n1644_007:0203b23_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得無逼樂無有受樂。",
+        "translation": "In this birth, he'll attain the absence of constraint and the absence of sensation and pleasure.",
+        "source": "T32n1644_007:0203b24_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0203b25_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡夫人隨後報業餘處受生。",
+        "translation": "Ordinary ladies then experience birth elsewhere as the result of karma.",
+        "source": "T32n1644_007:0203b25_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘四禪中品上品亦如是。",
+        "translation": "The middle and higher levels of the other four meditations are likewise.",
+        "source": "T32n1644_007:0203b26_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習四禪及四無色定。",
+        "translation": "This is a mortal woman who cultivates the four meditations and the four formless concentrations.",
+        "source": "T32n1644_007:0203b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, everything that's been produced and attained will be lost again.",
+        "source": "T32n1644_007:0203b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品空無邊入。",
+        "translation": "This person abides in the lower level of the infinite entry into emptiness.",
+        "source": "T32n1644_007:0203b28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品空無邊入相應業。",
+        "translation": "From the actions associated with the lower level's emptiness and limitless entry.",
+        "source": "T32n1644_007:0203b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生空無邊入天。",
+        "translation": "He'll be born in the heaven of the infinite entry of emptiness.",
+        "source": "T32n1644_007:0203b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品空無邊入果報。",
+        "translation": "After being born there, he'll experience the fruit of the lower level of the infinite entry into emptiness.",
+        "source": "T32n1644_007:0203b29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "He attains the pleasure of no constraint and the pleasure of nothing.",
+        "source": "T32n1644_007:0203c01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品空無邊入。",
+        "translation": "He'll experience the middle grade, the higher grade, and the infinite entry of emptiness.",
+        "source": "T32n1644_007:0203c02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及上三無色定果報。",
+        "translation": "and the fruit of the upper three formless concentrations.",
+        "source": "T32n1644_007:0203c02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得受無逼樂無有受樂。",
+        "translation": "In this birth, he'll experience no constraint and no sensation and pleasure.",
+        "source": "T32n1644_007:0203c03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this karma matures, it's used without remainder.",
+        "source": "T32n1644_007:0203c03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人隨後報業餘處受生。",
+        "translation": "This is a worldling who then experiences birth elsewhere as the result of karma.",
+        "source": "T32n1644_007:0203c04_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品空無邊入亦如是。",
+        "translation": "So it is with the other middle-level and higher-level forms of emptiness and limitless entry.",
+        "source": "T32n1644_007:0203c05_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習四禪及四無色。",
+        "translation": "This mortal wife cultivates the four meditations and the four formless states.",
+        "source": "T32n1644_007:0203c05_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that's already been produced and attained will be lost again.",
+        "source": "T32n1644_007:0203c06_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品識無邊入。",
+        "translation": "That person abides in the lower level of consciousness' limitless entry.",
+        "source": "T32n1644_007:0203c07_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品識無邊入相應業生識無邊入天。",
+        "translation": "From the actions associated with the infinite sense-entering of the lower qualities, consciousnesses are born in the heaven of the infinite sense-entering.",
+        "source": "T32n1644_007:0203c07_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品識無邊入業報。",
+        "translation": "After being born there, he'll receive the karmic results of the infinite sense-entering of the lower consciousnesses.",
+        "source": "T32n1644_007:0203c08_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "He attains the pleasure of having no compulsions and the pleasure of having nothing.",
+        "source": "T32n1644_007:0203c09_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品識無邊入。",
+        "translation": "He'll experience the middle-grade, higher-grade consciousnesses' infinite entry.",
+        "source": "T32n1644_007:0203c09_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及初後三無色業報。",
+        "translation": "and the results of the first three formless karmas at the end.",
+        "source": "T32n1644_007:0203c10_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得無逼樂無有受樂。",
+        "translation": "In this birth, he'll attain the absence of constraint and the absence of sensation and pleasure.",
+        "source": "T32n1644_007:0203c10_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this karma matures, it's used without remainder.",
+        "source": "T32n1644_007:0203c11_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人隨後報業餘處受生。",
+        "translation": "This is a worldling who then experiences birth elsewhere as the result of karma.",
+        "source": "T32n1644_007:0203c12_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘識無邊入中品上品亦復如是。",
+        "translation": "So it is with the other consciousnesses, the infinite entry, middle qualities, and higher qualities.",
+        "source": "T32n1644_007:0203c12_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習四禪及四空定。",
+        "translation": "This mortal wife cultivates the four meditations and the four concentrations of emptiness.",
+        "source": "T32n1644_007:0203c13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, everything that's already arisen and attained will be lost again.",
+        "source": "T32n1644_007:0203c14_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品無所有無邊入。",
+        "translation": "That person abides in the lower level of ungraspable and limitless entry.",
+        "source": "T32n1644_007:0203c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品無所有無邊入相應業。",
+        "translation": "From the actions associated with the lower level's lack of possessions and limitless entry.",
+        "source": "T32n1644_007:0203c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生無所有無邊入天。",
+        "translation": "He'll be born in a heaven with peerless peerless entry.",
+        "source": "T32n1644_007:0203c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品無所有無邊入業報。",
+        "translation": "After being born there, he'll receive the results of lower-level, unexcluded, and limitless entry karma.",
+        "source": "T32n1644_007:0203c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "They'll attain the pleasure of having nothing to force, and nothing to experience.",
+        "source": "T32n1644_007:0203c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品無所有無邊入。",
+        "translation": "He'll experience the middle qualities, the higher qualities, and the lack of [third-order] formless and limitless entry.",
+        "source": "T32n1644_007:0203c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及前後三無色業報。",
+        "translation": "and the results of the three prior and three subsequent formless karmas.",
+        "source": "T32n1644_007:0203c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得無逼樂無有受樂。",
+        "translation": "In this birth, they'll attain the absence of constraint and the absence of sensation and pleasure.",
+        "source": "T32n1644_007:0204a01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this karma matures, it's used without remainder.",
+        "source": "T32n1644_007:0204a02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人隨後報業餘處受生。",
+        "translation": "This is a worldling who then experiences birth elsewhere as the result of karma.",
+        "source": "T32n1644_007:0204a02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品亦復如是。",
+        "translation": "The rest of the middle and higher classes are likewise.",
+        "source": "T32n1644_007:0204a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人修習四禪及四無色定。",
+        "translation": "This mortal wife cultivates the four meditations and the four formless concentrations.",
+        "source": "T32n1644_007:0204a03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, everything that's been produced and attained will be lost again.",
+        "source": "T32n1644_007:0204a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品非想非非想無邊入。",
+        "translation": "That person abides in the lower level of neither perception nor non-perception with limitless entry.",
+        "source": "T32n1644_007:0204a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品非想非非想無邊入相應業。",
+        "translation": "From the karma associated with lower-level nonconceptions and nonconceptual forms of limitless entry.",
+        "source": "T32n1644_007:0204a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生非想非非想無邊入天。",
+        "translation": "He'll be born in a heaven where neither perception nor non-perception has limitless entry.",
+        "source": "T32n1644_007:0204a06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品非想非非想無邊入果業。",
+        "translation": "After being born there, he'll experience the karma that's the fruit of lower-level nonconceptions and nonconceptual infinite entry.",
+        "source": "T32n1644_007:0204a07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "He attains the pleasure of no constraint and the pleasure of no sensation.",
+        "source": "T32n1644_007:0204a08_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品非想非非想無邊入。",
+        "translation": "He'll experience the middle qualities, the higher qualities, and the formless, non-conceptual, non-conceptual, and limitless entry.",
+        "source": "T32n1644_007:0204a08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及前三無色業報。",
+        "translation": "and the results of the previous three formless karmas.",
+        "source": "T32n1644_007:0204a09_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得無逼樂無有受樂。",
+        "translation": "In this birth, they'll attain the absence of constraint and the absence of sensation and pleasure.",
+        "source": "T32n1644_007:0204a10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmic retributions mature, they'll be used without remainder.",
+        "source": "T32n1644_007:0204a10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是凡夫人隨後報業餘處受生。",
+        "translation": "This is a worldling who then experiences birth elsewhere as the result of karma.",
+        "source": "T32n1644_007:0204a11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品亦復如是。",
+        "translation": "The rest of the middle and higher classes are likewise.",
+        "source": "T32n1644_007:0204a11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛世尊聖弟子修習四禪。",
+        "translation": "The Bhagavān's noble disciples cultivate the four meditation heavens.",
+        "source": "T32n1644_007:0204a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "Each has three classes, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0204a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人由下品初禪相應業生梵先行天。",
+        "translation": "This person's karma associated with the lower first dhyāna is born in the Heaven of the Attendants of Brahmā.",
+        "source": "T32n1644_007:0204a14_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得彼天道。",
+        "translation": "Because of this activity, he attains the path to those heavens.",
+        "source": "T32n1644_007:0204a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "He attains a life span in that heaven.",
+        "source": "T32n1644_007:0204a15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得天同類。",
+        "translation": "He attains abode in that heaven and attains the same class of gods.",
+        "source": "T32n1644_007:0204a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報有二種樂。",
+        "translation": "Once born there, he'll experience the results of actions that have two kinds of pleasure.",
+        "source": "T32n1644_007:0204a16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無逼樂二者受樂。",
+        "translation": "One is the pleasure of not being forced to do so, and the other is the pleasure of feeling it.",
+        "source": "T32n1644_007:0204a16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these actions mature, they're used without remainder.",
+        "source": "T32n1644_007:0204a17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品初禪相應業生梵眾天。",
+        "translation": "As a result of the actions associated with the middle level of the first dhyāna, he'll be born in the Brahmakāyika Heaven.",
+        "source": "T32n1644_007:0204a17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品業亦生此天。",
+        "translation": "This heaven is also born because of the karma of the higher qualities.",
+        "source": "T32n1644_007:0204a18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得天道。",
+        "translation": "Because of this action, they'll attain the heavenly path.",
+        "source": "T32n1644_007:0204a18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They'll attain a heavenly life span.",
+        "source": "T32n1644_007:0204a19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得同類。",
+        "translation": "They'll attain abiding and attain the same type of existence.",
+        "source": "T32n1644_007:0204a19_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報有二種樂。",
+        "translation": "Once born there, they'll experience the results of actions that have two kinds of pleasure.",
+        "source": "T32n1644_007:0204a19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無逼樂二者受樂。",
+        "translation": "One is the pleasure of not being forced to do so, and the other is the pleasure of feeling it.",
+        "source": "T32n1644_007:0204a20_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these actions mature, they're used without remainder.",
+        "source": "T32n1644_007:0204a20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因二禪下品相應業。",
+        "translation": "It's the karma associated with the lower level of the second dhyāna.",
+        "source": "T32n1644_007:0204a21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因此業故生少光天。",
+        "translation": "As a result of these actions, he'll be born in the Heaven of Lesser Light.",
+        "source": "T32n1644_007:0204a21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品二禪相應業生無量光天。",
+        "translation": "As a result of the actions associated with the middle level of the second dhyāna, he'll be born in the Heaven of Immeasurable Light.",
+        "source": "T32n1644_007:0204a22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品二禪相應業生勝遍光天。",
+        "translation": "As a result of the actions associated with the higher level of the second dhyāna, there's the Heaven of Overwhelming Light.",
+        "source": "T32n1644_007:0204a23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得天道。",
+        "translation": "As a result of these actions, they attain the heavenly path.",
+        "source": "T32n1644_007:0204a23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They attain a heavenly life span.",
+        "source": "T32n1644_007:0204a24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天住。",
+        "translation": "He attains a heavenly abode.",
+        "source": "T32n1644_007:0204a24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天同類。",
+        "translation": "They'll attain the same class of gods.",
+        "source": "T32n1644_007:0204a24_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報有二種樂。",
+        "translation": "Once born there, they'll experience the results of actions that have two kinds of pleasure.",
+        "source": "T32n1644_007:0204a24_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無逼樂二者受樂。",
+        "translation": "One is the pleasure of not being forced to do so, and the other is the pleasure of feeling it.",
+        "source": "T32n1644_007:0204a25_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmic maturation, they're used without remainder.",
+        "source": "T32n1644_007:0204a26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品三禪相應業生少淨天。",
+        "translation": "As a result of the actions associated with the lower three meditation levels, there's birth in a less pure heaven.",
+        "source": "T32n1644_007:0204a26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品三禪相應業生無量淨天。",
+        "translation": "As a result of the actions associated with the middle level of the three meditation, there's the heaven of measureless purity.",
+        "source": "T32n1644_007:0204a27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品三禪相應業生遍淨天。",
+        "translation": "As a result of the actions associated with the higher three meditations, there's the heaven of pervasive purity.",
+        "source": "T32n1644_007:0204a27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得此天道。",
+        "translation": "Because of this activity, he attains this heavenly path.",
+        "source": "T32n1644_007:0204a28_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天壽命。",
+        "translation": "They'll attain a heavenly life span.",
+        "source": "T32n1644_007:0204a29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得同類。",
+        "translation": "They'll attain abiding and attain the same type of existence.",
+        "source": "T32n1644_007:0204a29_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報有二種樂。",
+        "translation": "Once born there, they'll experience the results of actions that have two kinds of pleasure.",
+        "source": "T32n1644_007:0204a29_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無逼樂二者受樂。",
+        "translation": "One is the pleasure of not being forced to do so, and the other is the pleasure of feeling it.",
+        "source": "T32n1644_007:0204b01_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these actions mature, they'll be used without remainder.",
+        "source": "T32n1644_007:0204b01_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品四禪相應業生無雲天。",
+        "translation": "As a result of the actions associated with the lower four meditation levels, he'll be born in the cloudless heaven.",
+        "source": "T32n1644_007:0204b02_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品四禪相應業生受福天。",
+        "translation": "As a result of the actions associated with the middle level of the four meditations, he'll be born in the Heaven of Received Merit.",
+        "source": "T32n1644_007:0204b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品四禪相應業生廣果天。",
+        "translation": "As a result of the karma associated with the higher four meditations, there's the Heaven of Extensive Rewards.",
+        "source": "T32n1644_007:0204b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業故得此天道。",
+        "translation": "It's because of these actions that they attain this heavenly path.",
+        "source": "T32n1644_007:0204b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得壽命。",
+        "translation": "They'll attain longevity.",
+        "source": "T32n1644_007:0204b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住得天同類。",
+        "translation": "They'll attain abiding and attain the same class of gods.",
+        "source": "T32n1644_007:0204b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生於彼受業果報。",
+        "translation": "Once they're born there, they'll experience the results of their actions.",
+        "source": "T32n1644_007:0204b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有無逼樂無復受樂。",
+        "translation": "There's no constraint or pleasure, and there's no more pleasure to be experienced.",
+        "source": "T32n1644_007:0204b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已由最上品四禪相應業。",
+        "translation": "Having been born there, it's the result of actions associated with the four highest qualities of meditation.",
+        "source": "T32n1644_007:0204b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "恭敬勤修無背常修行。",
+        "translation": "They respect, diligently cultivate, and cultivate without deviation from constancy.",
+        "source": "T32n1644_007:0204b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雜覺分之所熏修。",
+        "translation": "It's the cultivation of the factors of mixed feelings.",
+        "source": "T32n1644_007:0204b07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因此業故生善現天。",
+        "translation": "As a result of this activity, he'll be born in the Heaven of Good Appearance.",
+        "source": "T32n1644_007:0204b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十倍此業生善見天。",
+        "translation": "Ten times that action gives rise to the Heaven of Good Vision.",
+        "source": "T32n1644_007:0204b08_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次復十倍生不煩天。",
+        "translation": "Ten times more than that, he'll be born in the Heaven of No Disturbance.",
+        "source": "T32n1644_007:0204b09_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復十倍生不燒天。",
+        "translation": "Ten times more, he'll be born in the Heaven of No Burning.",
+        "source": "T32n1644_007:0204b09_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次復十倍生阿迦尼吒天。",
+        "translation": "Then ten times more, he'll be born in the Akaniṣṭha Heaven.",
+        "source": "T32n1644_007:0204b10_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因此業得天道天壽命。",
+        "translation": "As a result of this action, he'll attain a life span in the Heaven of the Path.",
+        "source": "T32n1644_007:0204b10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天住。",
+        "translation": "They'll attain a heavenly abode.",
+        "source": "T32n1644_007:0204b11_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天同類。",
+        "translation": "They'll attain the same class of gods.",
+        "source": "T32n1644_007:0204b11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, he'll receive the results of his actions.",
+        "source": "T32n1644_007:0204b11_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有無逼樂無復受樂。",
+        "translation": "There's no constraint or pleasure, and nothing more is experienced as pleasure.",
+        "source": "T32n1644_007:0204b12_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used up without remainder.",
+        "source": "T32n1644_007:0204b12_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "引上界業於中用盡。",
+        "translation": "The karma that leads to the upper realms is used up in this way.",
+        "source": "T32n1644_007:0204b13_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於是中得般涅槃。",
+        "translation": "In this way, he attains parinirvāṇa.",
+        "source": "T32n1644_007:0204b13_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛世尊弟子修習四無量定。",
+        "translation": "The Bhagavān's disciples cultivate the four immeasurable concentrations.",
+        "source": "T32n1644_007:0204b14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three classes of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0204b14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈無量者。",
+        "translation": "He who has immeasurable kindness.",
+        "source": "T32n1644_007:0204b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行。",
+        "translation": "He thus cultivates these numerous practices.",
+        "source": "T32n1644_007:0204b15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如四種禪定。",
+        "translation": "It's like the four kinds of meditative concentration.",
+        "source": "T32n1644_007:0204b15_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "喜無量者。",
+        "translation": "'Joy is immeasurable.'",
+        "source": "T32n1644_007:0204b16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行。",
+        "translation": "Thus cultivates such repeated practice.",
+        "source": "T32n1644_007:0204b16_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如初禪如二禪。",
+        "translation": "It's like the first dhyāna and like the second dhyāna.",
+        "source": "T32n1644_007:0204b16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悲無量者。",
+        "translation": "'Compassion is immeasurable.'",
+        "source": "T32n1644_007:0204b17_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如第四禪。",
+        "translation": "Thus cultivates these numerous practices as in the fourth dhyāna.",
+        "source": "T32n1644_007:0204b17_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "捨無量者。",
+        "translation": "'Equanimity' is immeasurable.",
+        "source": "T32n1644_007:0204b18_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行。",
+        "translation": "Thus cultivates such numerous practices.",
+        "source": "T32n1644_007:0204b18_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如第三禪及第四禪。",
+        "translation": "It's like the third and fourth meditations.",
+        "source": "T32n1644_007:0204b18_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習不淨觀。",
+        "translation": "Noble disciples of the Buddha cultivate the contemplation of impurity.",
+        "source": "T32n1644_007:0204b20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three classes of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0204b20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無憎違行不淨觀。",
+        "translation": "They practice the contemplation of impurity without abhorrence or contradiction.",
+        "source": "T32n1644_007:0204b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如四種禪定。",
+        "translation": "He thus cultivates such repeated practice as in the four meditations.",
+        "source": "T32n1644_007:0204b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有憎違行不淨觀。",
+        "translation": "He thus cultivates such repeated practice as the four kinds of meditation.",
+        "source": "T32n1644_007:0204b22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如第四禪。",
+        "translation": "He thus cultivates such repeated practice as the fourth dhyāna.",
+        "source": "T32n1644_007:0204b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習阿那波那念。",
+        "translation": "The noble disciple of the Buddha cultivates mindfulness of breathing.",
+        "source": "T32n1644_007:0204b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three grades of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0204b23_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行。",
+        "translation": "He thus cultivates such repeated practice.",
+        "source": "T32n1644_007:0204b24_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如前三種禪定。",
+        "translation": "It's like the first three kinds of meditation.",
+        "source": "T32n1644_007:0204b24_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習十想。",
+        "translation": "The noble disciple of the Buddha cultivates the ten kinds of contemplation.",
+        "source": "T32n1644_007:0204b26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three classes of each, which are inferior, middling, and superior.",
+        "source": "T32n1644_007:0204b26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何者為十。",
+        "translation": "What are the ten?",
+        "source": "T32n1644_007:0204b26_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一無常想。",
+        "translation": "1. the contemplation of impermanence ...",
+        "source": "T32n1644_007:0204b27_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二無我想。",
+        "translation": "Two, conceptions of selflessness.",
+        "source": "T32n1644_007:0204b27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三滅除想。",
+        "translation": "Three are thoughts of cessation ...",
+        "source": "T32n1644_007:0204b27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四離欲想。",
+        "translation": "4 thoughts of freedom from desire ...",
+        "source": "T32n1644_007:0204b27_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五寂滅想。",
+        "translation": "Five conceptions of extinction ...",
+        "source": "T32n1644_007:0204b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六不淨想。",
+        "translation": "6 perception of impurity ...",
+        "source": "T32n1644_007:0204b28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七過失想。",
+        "translation": "7 perceptions of faults ...",
+        "source": "T32n1644_007:0204b28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八死墮想。",
+        "translation": "8 thoughts of falling into death ...",
+        "source": "T32n1644_007:0204b28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "九厭食想。",
+        "translation": "9. thoughts of food disgust ...",
+        "source": "T32n1644_007:0204b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十一切世間無安想。",
+        "translation": "... ten perceptions of the world as unstable.",
+        "source": "T32n1644_007:0204b29_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前五種想及無憎違不淨想。",
+        "translation": "The first five kinds of perceptions and the perception of the absence of repulsiveness and impurity.",
+        "source": "T32n1644_007:0204b29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修行如是數習如四種禪定。",
+        "translation": "He thus cultivates and thus repeatedly cultivates the four kinds of meditation.",
+        "source": "T32n1644_007:0204c01_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後四種想及有憎違行不淨想。",
+        "translation": "The last four kinds of perceptions and the perception of the impurity of actions with loathing and disagreement.",
+        "source": "T32n1644_007:0204c02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如第四禪。",
+        "translation": "He thus cultivates such repeated practice as the fourth dhyāna.",
+        "source": "T32n1644_007:0204c02_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修八遍入。",
+        "translation": "The noble disciple of the Buddha cultivates the eight universal entries.",
+        "source": "T32n1644_007:0204c03_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "Each has three classes, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0204c04_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何等為八。",
+        "translation": "What are the eight?",
+        "source": "T32n1644_007:0204c04_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一內有色想觀外色少。",
+        "translation": "One is internal perception of form and observing external form as lesser.",
+        "source": "T32n1644_007:0204c04_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是少者或妙或麁。",
+        "translation": "This little one may be subtle or crude.",
+        "source": "T32n1644_007:0204c05_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我遍此想得知得見如是有想。",
+        "translation": "I completely perceive this perception and know that I can see such a perception of existence.",
+        "source": "T32n1644_007:0204c05_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二內有色想觀外色無量。",
+        "translation": "Second, internal conceptions of form observe external forms that are measureless.",
+        "source": "T32n1644_007:0204c06_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或妙或麁。",
+        "translation": "It's either subtle or debilitating.",
+        "source": "T32n1644_007:0204c07_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我遍此想能知能見作如是想。",
+        "translation": "I've pervaded this perception and can know and see it as such.",
+        "source": "T32n1644_007:0204c07_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三內無色想觀外色少。",
+        "translation": "Third, internal conceptions of formlessness contemplate external forms that are few in number.",
+        "source": "T32n1644_007:0204c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "麁妙如前。",
+        "translation": "It's as crude and subtle as before.",
+        "source": "T32n1644_007:0204c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四內無色想觀外色無量。",
+        "translation": "4. internal perception of formlessness observes external form as measureless.",
+        "source": "T32n1644_007:0204c08_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "類亦如前。",
+        "translation": "It's also of the same type as the previous one.",
+        "source": "T32n1644_007:0204c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五六七八者。",
+        "translation": "The fifth, sixth, seventh, and eighth are as before.",
+        "source": "T32n1644_007:0204c09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "並於內無色想觀外四色。",
+        "translation": "He observes four external forms in the imagination of internal formlessness.",
+        "source": "T32n1644_007:0204c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂青黃赤白我遍此想能知能見作如是想。",
+        "translation": "These are the blue, yellow, red, and white conceptions of self that are pervasive, knowable, and visible, and are conceived in this way.",
+        "source": "T32n1644_007:0204c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此八中第一第二。",
+        "translation": "Of the eight, the first and second are these.",
+        "source": "T32n1644_007:0204c11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如四種禪定。",
+        "translation": "He thus cultivates such repeated practice as the four kinds of meditation.",
+        "source": "T32n1644_007:0204c12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後六種想如是修習如是數行如第四禪。",
+        "translation": "The last six kinds of perceptions are thus cultivated and thus numbered and performed as in the fourth dhyāna.",
+        "source": "T32n1644_007:0204c12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習八解脫。",
+        "translation": "The noble disciple of the Buddha cultivates the eight liberations.",
+        "source": "T32n1644_007:0204c14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three classes of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0204c14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一內有色想觀外色解脫。",
+        "translation": "The first is the liberation of contemplating external form with internal form.",
+        "source": "T32n1644_007:0204c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二內無色想觀外色解脫。",
+        "translation": "The second is the liberation of observing external form with imagination of formlessness within.",
+        "source": "T32n1644_007:0204c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三淨解脫。",
+        "translation": "The third is liberation from purity.",
+        "source": "T32n1644_007:0204c16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第四空無邊入解脫。",
+        "translation": "The fourth liberation is the liberation of the infinite sense of emptiness.",
+        "source": "T32n1644_007:0204c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第五識無邊入解脫。",
+        "translation": "The fifth is the liberation of the limitless entry of consciousness.",
+        "source": "T32n1644_007:0204c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第六無所有無邊入解脫。",
+        "translation": "The sixth liberation from the lack of finite entry into existence.",
+        "source": "T32n1644_007:0204c17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第七非想非非想無邊入解脫。",
+        "translation": "The seventh is the liberation from perception and non-perception that has no limit.",
+        "source": "T32n1644_007:0204c18_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第八想受滅解脫。",
+        "translation": "The eighth liberation is the liberation from the cessation of perception and sensation.",
+        "source": "T32n1644_007:0204c18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第一解脫如是修習。",
+        "translation": "The first liberation is thus cultivated.",
+        "source": "T32n1644_007:0204c19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是數行如四種禪定。",
+        "translation": "It's thus repeatedly practiced as the four kinds of meditation.",
+        "source": "T32n1644_007:0204c19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第二解脫如是修習如是數行如第四禪。",
+        "translation": "The second liberation is thus cultivating such repeated practice as the fourth dhyāna.",
+        "source": "T32n1644_007:0204c20_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三解脫若內有色想觀外色。",
+        "translation": "The third liberation is if he observes external form with internal conceptions of form.",
+        "source": "T32n1644_007:0204c21_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如四種禪。",
+        "translation": "He thus cultivates such numbered practices as the four kinds of meditation.",
+        "source": "T32n1644_007:0204c21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若內無色想觀外色。",
+        "translation": "If he has internal perceptions of formless form and observes external form.",
+        "source": "T32n1644_007:0204c22_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是修習如是數行如第四禪。",
+        "translation": "He thus cultivates such repeated practice as in the fourth dhyāna.",
+        "source": "T32n1644_007:0204c23_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後四無色解脫各如自地。",
+        "translation": "The last four formless liberations are each like his own ground.",
+        "source": "T32n1644_007:0204c23_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第八滅受想解脫。",
+        "translation": "The eighth is liberation from cessation of sensation and perception.",
+        "source": "T32n1644_007:0204c24_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "但由住故過非想非非想。",
+        "translation": "It's only because of abiding that it's surpassed by neither perception nor non-perception.",
+        "source": "T32n1644_007:0204c24_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不由離欲故過是故其地等非非想。",
+        "translation": "It's not exceeded by being free from desire. Therefore, his ground and so forth are neither perceived nor non-perceived.",
+        "source": "T32n1644_007:0204c25_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習十一切入。",
+        "translation": "The noble disciple of the Buddha cultivates 11 approaches to liberation.",
+        "source": "T32n1644_007:0204c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "Each has three classes, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0204c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前八一切入如是修習如是數行如第四禪。",
+        "translation": "The first eight one-cut entries are thus cultivated and thus counted as practices like the fourth dhyāna.",
+        "source": "T32n1644_007:0204c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後二一切入各如自地。",
+        "translation": "The second two all-impeding entries are each like their own ground.",
+        "source": "T32n1644_007:0204c29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四無色三摩跋提。",
+        "translation": "The noble disciple of the Buddha cultivates the four formless samāpatti.",
+        "source": "T32n1644_007:0204c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各有三品謂下中上。",
+        "translation": "There are three classes of each, which are lower, middle, and higher.",
+        "source": "T32n1644_007:0205a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人由下品空無邊入相應業。",
+        "translation": "From the lower level, this person's karma is associated with the entry into emptiness without limit.",
+        "source": "T32n1644_007:0205a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生空無邊入天。",
+        "translation": "He'll be born in the heavenly realm associated with the infinite entry into emptiness.",
+        "source": "T32n1644_007:0205a02_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由中品空無邊入相應業亦生此天。",
+        "translation": "From the karma associated with the middle level of emptiness and limitless entry, he's also born in this heaven.",
+        "source": "T32n1644_007:0205a02_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由上品空無邊入亦生此天。",
+        "translation": "From the actions associated with the higher level's emptiness and limitless entry, he's also born in this heaven.",
+        "source": "T32n1644_007:0205a03_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業故得天道得天壽命。",
+        "translation": "Because of these actions, he attains the path to heaven and obtains a life in heaven.",
+        "source": "T32n1644_007:0205a04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天住。",
+        "translation": "He attains a heavenly abode.",
+        "source": "T32n1644_007:0205a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天同類。",
+        "translation": "They'll attain the same class of gods.",
+        "source": "T32n1644_007:0205a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0205a05_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無逼樂無有受樂。",
+        "translation": "There's only no constraint or pleasure, and there's nothing to enjoy.",
+        "source": "T32n1644_007:0205a05_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0205a06_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品識無邊入相應業生識無邊入天。",
+        "translation": "From the karma associated with the infinite entry of lower-rank consciousnesses, the heaven of the infinite entry of consciousnesses arises.",
+        "source": "T32n1644_007:0205a06_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由中品識無邊入相應業亦生此天。",
+        "translation": "From the karma associated with the middle grade consciousnesses' limitless entry, this heaven also arises.",
+        "source": "T32n1644_007:0205a07_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由上品識無邊入相應業亦生此天。",
+        "translation": "From the karma associated with the higher consciousnesses' limitless entry, this heaven also arises.",
+        "source": "T32n1644_007:0205a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是業得天道。",
+        "translation": "From these actions, he attains the heavenly path.",
+        "source": "T32n1644_007:0205a09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得壽命。",
+        "translation": "They attain longevity.",
+        "source": "T32n1644_007:0205a09_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住。",
+        "translation": "They attain abode.",
+        "source": "T32n1644_007:0205a10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得天同類。",
+        "translation": "They'll attain the same class of gods.",
+        "source": "T32n1644_007:0205a10_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0205a10_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無逼樂無有受樂。",
+        "translation": "Only there's no constraint or pleasure, and there's nothing to enjoy.",
+        "source": "T32n1644_007:0205a10_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0205a11_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品無所有入相應業生無所有入天。",
+        "translation": "As a result of the karma associated with the lower level of nonexistence and entry, there's the heaven of nonexistence and entry.",
+        "source": "T32n1644_007:0205a11_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品無所有入相應業亦生此天。",
+        "translation": "This heaven also arises from the karma associated with the middle-level lack of possessions.",
+        "source": "T32n1644_007:0205a12_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品無所有入相應業亦生此天。",
+        "translation": "This heaven also arises because of the karma associated with the higher level's lack of possessions.",
+        "source": "T32n1644_007:0205a13_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得天道。",
+        "translation": "Because of these actions, he attains the heavenly path.",
+        "source": "T32n1644_007:0205a14_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得壽命。",
+        "translation": "They attain longevity.",
+        "source": "T32n1644_007:0205a14_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住。",
+        "translation": "They attain abiding.",
+        "source": "T32n1644_007:0205a15_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得同類。",
+        "translation": "They'll attain the same kind of existence.",
+        "source": "T32n1644_007:0205a15_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0205a15_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無逼樂無有受樂。",
+        "translation": "Only there's no constraint or pleasure, and there's nothing to enjoy.",
+        "source": "T32n1644_007:0205a15_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this action matures, it's used without remainder.",
+        "source": "T32n1644_007:0205a16_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因下品非想非非想入相應業生非想非非想入天。",
+        "translation": "As a result of the karma associated with the lower level of neither perception nor non-perception, he'll be born in the heaven of neither perception nor non-perception.",
+        "source": "T32n1644_007:0205a16_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因中品非想非非想入相應業亦生此天。",
+        "translation": "This heaven also arises because of the karma associated with middle-level nonconception and nonconceptual entry.",
+        "source": "T32n1644_007:0205a18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因上品非想非非想相應業亦生此天。",
+        "translation": "This heaven also arises because of the karma associated with the higher level of neither perception nor non-perception.",
+        "source": "T32n1644_007:0205a18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "因是業得天道。",
+        "translation": "Because of these actions, they'll attain the heavenly path.",
+        "source": "T32n1644_007:0205a19_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得壽命。",
+        "translation": "They attain longevity.",
+        "source": "T32n1644_007:0205a20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得住。",
+        "translation": "They attain abiding.",
+        "source": "T32n1644_007:0205a20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得同類。",
+        "translation": "They'll attain the same type of existence.",
+        "source": "T32n1644_007:0205a20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受業果報。",
+        "translation": "After being born there, they'll receive the results of their actions.",
+        "source": "T32n1644_007:0205a20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯無逼樂無有受樂。",
+        "translation": "Only there's no constraint or pleasure, and there's nothing to enjoy.",
+        "source": "T32n1644_007:0205a21_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this ripening of karma, it's used without remainder.",
+        "source": "T32n1644_007:0205a21_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中般涅槃。",
+        "translation": "This is parinirvāṇa in the interim.",
+        "source": "T32n1644_007:0205a22_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四禪定。",
+        "translation": "The noble disciple of the Buddha cultivates the four meditation concentrations.",
+        "source": "T32n1644_007:0205a22_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that has been produced and attained will be lost again.",
+        "source": "T32n1644_007:0205a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品初禪中。",
+        "translation": "That person abides in the lower first dhyāna.",
+        "source": "T32n1644_007:0205a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人由下品初禪相應業生梵先行天。",
+        "translation": "From the karma associated with the lower first dhyāna, this person is born in the Heaven of the Attendants of Brahmā.",
+        "source": "T32n1644_007:0205a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品初禪果報。",
+        "translation": "After being born there, he'll receive the fruit of the lower first dhyāna.",
+        "source": "T32n1644_007:0205a25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂及與受樂。",
+        "translation": "He attains the happiness of no constraint and the happiness of sensation.",
+        "source": "T32n1644_007:0205a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品初禪及二禪業果報。",
+        "translation": "He'll experience the results of actions in the middle and higher levels of the first and second meditations.",
+        "source": "T32n1644_007:0205a26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得受無逼樂及與受樂。",
+        "translation": "In this birth, he'll experience the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0205a26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其第三禪及第四禪。",
+        "translation": "The third and fourth meditations are also the rewards of this birth.",
+        "source": "T32n1644_007:0205a27_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦此生中得受果報。",
+        "translation": "In this same birth, they'll experience the fruit of their actions.",
+        "source": "T32n1644_007:0205a28_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受無逼樂無有受樂。",
+        "translation": "They experience no constraint and no sensation and pleasure.",
+        "source": "T32n1644_007:0205a28_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "This karma is ripened and used without remainder.",
+        "source": "T32n1644_007:0205a29_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子是中般涅槃。",
+        "translation": "This noble disciple of the Buddha attains parinirvāṇa in the interim.",
+        "source": "T32n1644_007:0205b01_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品初禪亦如是。",
+        "translation": "The rest of the middle and higher grades of the first dhyāna are likewise.",
+        "source": "T32n1644_007:0205b01_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四禪。",
+        "translation": "The noble disciple of the Buddha cultivates the four meditations.",
+        "source": "T32n1644_007:0205b03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that has been produced and attained will be lost again.",
+        "source": "T32n1644_007:0205b03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品二禪中。",
+        "translation": "That person abides in the lower second dhyāna.",
+        "source": "T32n1644_007:0205b04_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人由下品二禪相應業。",
+        "translation": "From the actions associated with the lower second dhyāna, this person is born in the Heaven of Lesser Light.",
+        "source": "T32n1644_007:0205b04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生少光天。",
+        "translation": "He'll be born in the Heaven of Lesser Light.",
+        "source": "T32n1644_007:0205b05_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品二禪果報。",
+        "translation": "After being born there, he'll experience the fruit of the lower second dhyāna.",
+        "source": "T32n1644_007:0205b05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂及與受樂。",
+        "translation": "He attains the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0205b06_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品第二禪。",
+        "translation": "He'll experience the second meditation of the middle and higher classes.",
+        "source": "T32n1644_007:0205b06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及初禪業報。",
+        "translation": "and the karmic rewards of the first dhyāna.",
+        "source": "T32n1644_007:0205b07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得受無逼樂及與受樂。",
+        "translation": "In this birth, they'll experience the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0205b07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "第三禪及第四禪亦此生中受果報。",
+        "translation": "The third and fourth meditations are also rewards of this birth.",
+        "source": "T32n1644_007:0205b08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受無逼樂無有受樂。",
+        "translation": "They experience the absence of constraint and the absence of sensation and pleasure.",
+        "source": "T32n1644_007:0205b08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmic retributions mature, they're used without remainder.",
+        "source": "T32n1644_007:0205b09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子於中般涅槃。",
+        "translation": "The noble disciple of the Buddha then attains parinirvāṇa in the interim.",
+        "source": "T32n1644_007:0205b10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品二禪亦如是。",
+        "translation": "The other intermediate and higher levels of the second dhyāna are likewise.",
+        "source": "T32n1644_007:0205b10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四禪。",
+        "translation": "The noble disciple of the Buddha cultivates the fourth meditation.",
+        "source": "T32n1644_007:0205b12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that has been produced and attained will be lost again.",
+        "source": "T32n1644_007:0205b12_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品三禪中。",
+        "translation": "That person abides in the lower third dhyāna.",
+        "source": "T32n1644_007:0205b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品三禪相應業生少淨天。",
+        "translation": "From the actions associated with the lower three meditations, he'll be born in a less pure heaven.",
+        "source": "T32n1644_007:0205b13_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品三禪果報。",
+        "translation": "After being born there, he'll experience the results of the lower three meditations.",
+        "source": "T32n1644_007:0205b14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受無逼樂及與受樂。",
+        "translation": "He experiences the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0205b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品第三禪業報。",
+        "translation": "He'll experience the results of actions in the third meditation of the middle and higher classes.",
+        "source": "T32n1644_007:0205b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此生中得受無逼樂及與受樂。",
+        "translation": "In this birth, he'll experience the pleasure of no constraint and the pleasure of sensation.",
+        "source": "T32n1644_007:0205b16_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受初禪二禪及第四禪業報。",
+        "translation": "He'll experience the karmic rewards of the first dhyāna, second dhyāna, and fourth dhyāna.",
+        "source": "T32n1644_007:0205b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受無逼樂無有受樂。",
+        "translation": "They experience the absence of constraint and the absence of sensation and pleasure.",
+        "source": "T32n1644_007:0205b17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmas mature, they're used without remainder.",
+        "source": "T32n1644_007:0205b17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子於中般涅槃。",
+        "translation": "The noble disciple of the Buddha then attains parinirvāṇa in the interim.",
+        "source": "T32n1644_007:0205b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品三禪亦如是。",
+        "translation": "The other middle and higher grades of the third dhyāna are likewise.",
+        "source": "T32n1644_007:0205b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四禪。",
+        "translation": "The noble disciple of the Buddha cultivates the fourth dhyāna.",
+        "source": "T32n1644_007:0205b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that has been produced and attained will be lost again.",
+        "source": "T32n1644_007:0205b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品四禪中。",
+        "translation": "That person abides in the lower four meditations.",
+        "source": "T32n1644_007:0205b22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品四禪相應業生無雲天。",
+        "translation": "From the actions associated with the lower four meditations, he'll be born in the cloudless heaven.",
+        "source": "T32n1644_007:0205b22_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品四禪業報。",
+        "translation": "After being born there, he'll receive the results of the actions of the lower four meditations.",
+        "source": "T32n1644_007:0205b23_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "They attain the pleasure of no constraint and receive no pleasure.",
+        "source": "T32n1644_007:0205b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品第四禪及餘三禪業報。",
+        "translation": "He'll experience the results of karma in the middle, higher, fourth, and other three meditations.",
+        "source": "T32n1644_007:0205b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得受無逼樂無有受樂。",
+        "translation": "In this birth, he'll experience the karmic rewards of no constraint and no sensation of pleasure.",
+        "source": "T32n1644_007:0205b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmic retributions mature, they're used without remainder.",
+        "source": "T32n1644_007:0205b26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子是中般涅槃。",
+        "translation": "The noble disciple of the Buddha is in the middle of parinirvāṇa.",
+        "source": "T32n1644_007:0205b27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘四禪中品上品亦如是。",
+        "translation": "The middle and higher levels of the other four meditations are likewise.",
+        "source": "T32n1644_007:0205b27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四禪及四無色定。",
+        "translation": "The noble disciple of the Buddha cultivates the four meditations and the four formless concentrations.",
+        "source": "T32n1644_007:0205b29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that's already been produced and attained will be lost again.",
+        "source": "T32n1644_007:0205b29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品空無邊入。",
+        "translation": "This person abides in the lower level of the infinite entry into emptiness.",
+        "source": "T32n1644_007:0205c01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品空無邊入相應業生空無邊入天。",
+        "translation": "From the actions associated with the lower level's emptiness and limitless entry, he'll be born in the heaven of emptiness and limitless entry.",
+        "source": "T32n1644_007:0205c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品空無邊入果報。",
+        "translation": "After being born there, he'll receive the fruit of the lower level of the infinite entry into emptiness.",
+        "source": "T32n1644_007:0205c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "He attains the pleasure of no constraint and the pleasure of nothing.",
+        "source": "T32n1644_007:0205c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品空無邊入。",
+        "translation": "He'll experience the middle grade, the higher grade, and the infinite entry of emptiness.",
+        "source": "T32n1644_007:0205c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及上三無色定果報。",
+        "translation": "and the fruit of the upper three formless concentrations.",
+        "source": "T32n1644_007:0205c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中受無逼樂無有受樂。",
+        "translation": "In this birth, he'll experience no constraint and no sensation and pleasure.",
+        "source": "T32n1644_007:0205c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After this activity matures, he'll be used without remainder.",
+        "source": "T32n1644_007:0205c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子於中般涅槃。",
+        "translation": "The noble disciple of the Buddha then attains parinirvāṇa in the interim.",
+        "source": "T32n1644_007:0205c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品空無邊入亦如是。",
+        "translation": "The other middle-level and higher-level forms of emptiness and limitless entry are likewise.",
+        "source": "T32n1644_007:0205c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四禪及四無色。",
+        "translation": "The noble disciple of the Buddha cultivates the four meditations and the four formless states.",
+        "source": "T32n1644_007:0205c09_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that has already been produced and attained will be lost again.",
+        "source": "T32n1644_007:0205c09_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品識無邊入。",
+        "translation": "That person abides in the lower level of consciousness' limitless entry.",
+        "source": "T32n1644_007:0205c10_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品識無邊入相應業生識無邊入天。",
+        "translation": "From the karma associated with the infinite sense-entering of the lower qualities, consciousnesses are born in the heaven of the infinite sense-entering.",
+        "source": "T32n1644_007:0205c10_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品識無邊業報。",
+        "translation": "After being born there, he'll receive the infinite results of the lower qualities of consciousness.",
+        "source": "T32n1644_007:0205c11_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "He attains the bliss of no constraint and the bliss of no sensation.",
+        "source": "T32n1644_007:0205c12_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品識無邊入。",
+        "translation": "They'll experience the middle grade, higher grade, and limitless entry of consciousness.",
+        "source": "T32n1644_007:0205c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及初後三無色業報。",
+        "translation": "The rewards of the first three formless karmas are felt at the beginning and end.",
+        "source": "T32n1644_007:0205c13_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此生中得受無逼樂無有受樂。",
+        "translation": "In this birth, he'll experience no constraint and no sensation and pleasure.",
+        "source": "T32n1644_007:0205c14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子於中般涅槃。",
+        "translation": "The noble disciple of the Buddha attains parinirvāṇa in the interim.",
+        "source": "T32n1644_007:0205c14_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘識無邊入中品上品亦如是。",
+        "translation": "The other consciousnesses that have limitless entry, middle qualities, and higher qualities are likewise.",
+        "source": "T32n1644_007:0205c15_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四禪及四無色。",
+        "translation": "The noble disciple of the Buddha cultivates the four meditations and the four formless forms.",
+        "source": "T32n1644_007:0205c17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that's already arisen and attained will be lost again.",
+        "source": "T32n1644_007:0205c17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品無所有無邊入。",
+        "translation": "That person abides in the lower level of ungraspable and limitless entry.",
+        "source": "T32n1644_007:0205c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品無所有無邊入相應業生無所有無邊入天。",
+        "translation": "From the actions associated with the lower level's lack of possessions and limitless entry, he'll be born in the heaven of lack of possessions and limitless entry.",
+        "source": "T32n1644_007:0205c19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品無所有無邊入果報。",
+        "translation": "After being born there, he'll receive the fruit of the lower level's lack of possessions and limitless entry.",
+        "source": "T32n1644_007:0205c20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂。",
+        "translation": "They attain the pleasure of no constraint and receive no pleasure.",
+        "source": "T32n1644_007:0205c21_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受中品上品無所有無邊入。",
+        "translation": "They'll experience the middle qualities, the higher qualities, and the lack of unsurpassed and limitless entry.",
+        "source": "T32n1644_007:0205c21_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及前後三無色業報。",
+        "translation": "and the three previous and subsequent rewards of formless karma.",
+        "source": "T32n1644_007:0205c22_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此生中得受無逼樂無有受樂。",
+        "translation": "In this birth, they'll experience nothing constrained, and nothing will be experienced as pleasant.",
+        "source": "T32n1644_007:0205c22_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmic retributions mature, they're used without remainder.",
+        "source": "T32n1644_007:0205c23_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子於中般涅槃。",
+        "translation": "The noble disciple of the Buddha then attains parinirvāṇa in the interim.",
+        "source": "T32n1644_007:0205c24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品無所有無邊入亦復如是。",
+        "translation": "*The rest of the middle and higher classes have no possessions and limitless entry, and so it is.",
+        "source": "T32n1644_007:0205c24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子修習四禪及四無色。",
+        "translation": "The noble disciple of the Buddha cultivates the four meditation heavens and the four formless heavens.",
+        "source": "T32n1644_007:0205c26_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "已生已得從此一切更復退失。",
+        "translation": "From this point on, all that's already been produced and attained will be lost again.",
+        "source": "T32n1644_007:0205c26_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人住下品非想非非想無邊入。",
+        "translation": "That person abides in the lower level of neither perception nor non-perception with limitless entry.",
+        "source": "T32n1644_007:0205c27_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由下品非想非非想無邊入相應業生非想非非想無邊入天。",
+        "translation": "From the karma associated with lower-level nonconceptions and nonperceptions without limit, he'll be born in the heaven of nonconceptions and nonperceptions without limit.",
+        "source": "T32n1644_007:0205c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已受下品非想非非想無邊業報。",
+        "translation": "After being born there, he'll receive the infinite results of lower-level neither-perception-nor-non-perception karma.",
+        "source": "T32n1644_007:0205c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得無逼樂無有受樂受中品上品非想非非想無邊入。",
+        "translation": "They'll attain the pleasure of having no constraint, the pleasure of having nothing, and the pleasure of receiving the middle and higher qualities of neither perception nor non-perception without limit.",
+        "source": "T32n1644_007:0206a01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及前三無色業。",
+        "translation": "and the three prior formless karmic retributions.",
+        "source": "T32n1644_007:0206a02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此生中得無逼樂無有受樂。",
+        "translation": "In this birth, they'll attain happiness without constraint and happiness without sensation.",
+        "source": "T32n1644_007:0206a03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是業熟已被用無餘。",
+        "translation": "After these karmas mature, they're used without remainder.",
+        "source": "T32n1644_007:0206a03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛聖弟子於中般涅槃。",
+        "translation": "The noble disciple of the Buddha then attains parinirvāṇa in the interim.",
+        "source": "T32n1644_007:0206a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "餘中品上品非想非非想無邊入亦復如是。",
+        "translation": "*The rest of the middle and higher classes, neither perceived nor unperceived, have limitless entry, and so it is.",
+        "source": "T32n1644_007:0206a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上流生阿那含有三種。",
+        "translation": "There are three kinds of upstream births in the anāthapiṇḍika.",
+        "source": "T32n1644_007:0206a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者初生梵先行天。",
+        "translation": "One is first born in the Heaven of the Attendants of Brahmā.",
+        "source": "T32n1644_007:0206a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是次第往生乃至廣果。",
+        "translation": "He'll be reborn in this order up to the ultimate realization.",
+        "source": "T32n1644_007:0206a08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於中生已得般涅槃。",
+        "translation": "After being born in the middle, he attains parinirvāṇa.",
+        "source": "T32n1644_007:0206a08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者初生廣果如是次第往生。",
+        "translation": "Second, the first is born in the broad fruit and thus goes on to birth in sequence.",
+        "source": "T32n1644_007:0206a09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至阿迦尼吒天。",
+        "translation": "It goes up to the Akaniṣṭha Heaven.",
+        "source": "T32n1644_007:0206a09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已得般涅槃。",
+        "translation": "Having been born there, he attained parinirvāṇa.",
+        "source": "T32n1644_007:0206a10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三者初生空無邊入天。",
+        "translation": "Third, the first birth is in the heaven of unlimited entry into emptiness.",
+        "source": "T32n1644_007:0206a10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是次第往生乃至非想非非想天。",
+        "translation": "He'll be reborn in this order up to the nonconceptual and nonconceptual heaven.",
+        "source": "T32n1644_007:0206a11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生是中已得般涅槃。",
+        "translation": "He'll be born there and then attain parinirvāṇa.",
+        "source": "T32n1644_007:0206a12_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次上流生阿那含有二種。",
+        "translation": "\"Furthermore, there are two kinds of upstream births in the nonreturner heaven.",
+        "source": "T32n1644_007:0206a13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一者在色界。",
+        "translation": "One is in the form realm.",
+        "source": "T32n1644_007:0206a13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二者在無色界。",
+        "translation": "The second is in the formless realm.",
+        "source": "T32n1644_007:0206a13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若在色界般涅槃者。",
+        "translation": "If someone is born in the form realm, then they'll attain parinirvāṇa.",
+        "source": "T32n1644_007:0206a14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從梵先行天如是次第生。",
+        "translation": "He'll be born in this order from the Heaven of the Attendants of Brahmā.",
+        "source": "T32n1644_007:0206a14_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至阿迦尼吒天。",
+        "translation": "It goes up to the Akaniṣṭha Heaven.",
+        "source": "T32n1644_007:0206a15_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已得般涅槃。",
+        "translation": "After being born there, he'll attain parinirvāṇa.",
+        "source": "T32n1644_007:0206a15_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在無色界者。",
+        "translation": "Those who are in the formless realm ...",
+        "source": "T32n1644_007:0206a16_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "初生空無邊入天。",
+        "translation": "He'll first be born in the Heaven of Unlimited Entry into Emptiness.",
+        "source": "T32n1644_007:0206a16_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是次第往生乃至非想非非想天。",
+        "translation": "He'll be born in this order up to the Heaven of Neither Thought nor Non-Thought.",
+        "source": "T32n1644_007:0206a16_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於中已得般涅槃。",
+        "translation": "He'll be born there and then attain parinirvāṇa.",
+        "source": "T32n1644_007:0206a17_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復次有一種上流生阿那含。",
+        "translation": "\"Furthermore, there's a type of upstream birth in non-returners.",
+        "source": "T32n1644_007:0206a19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從梵先行天生。",
+        "translation": "He's born from the first birth in the Brahmā Heaven.",
+        "source": "T32n1644_007:0206a19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是次第往生乃至非想非非想。",
+        "translation": "He'll be reborn in this order ... up to the level of neither perception nor non-perception.",
+        "source": "T32n1644_007:0206a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生於彼已得般涅槃。",
+        "translation": "After being born there, he attains parinirvāṇa.",
+        "source": "T32n1644_007:0206a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是義佛世尊說。",
+        "translation": "This is the meaning of the Bhagavān's teaching.",
+        "source": "T32n1644_007:0206a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我聞。",
+        "translation": "'So I've heard.'",
+        "source": "T32n1644_007:0206a21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "壽量品第二十二",
+        "translation": "Longevity Chapter 22",
+        "source": "T32n1644_007:0206a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛世尊說人中二萬歲。",
+        "translation": "The Bhagavān teaches that 20,000 years among humans is one day and one night in Abhisaṃgiri.",
+        "source": "T32n1644_007:0206a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是阿毘止獄一日一夜。",
+        "translation": "It's one day and one night in Abhisaṃbhavā.",
+        "source": "T32n1644_007:0206a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此日夜三十日為一月。",
+        "translation": "From this, a day and a night of 30 days becomes a month.",
+        "source": "T32n1644_007:0206a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一年。",
+        "translation": "The twelfth month is a year.",
+        "source": "T32n1644_007:0206a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數多年多百年。",
+        "translation": "From this, the number of years is many years and many hundreds of years.",
+        "source": "T32n1644_007:0206a25_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多千年多百千年。",
+        "translation": "Many thousands of years and hundreds of thousands of years may pass.",
+        "source": "T32n1644_007:0206a25_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此獄中受熟業果報。",
+        "translation": "In this hell, he'll experience the results of ripened karma.",
+        "source": "T32n1644_007:0206a25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是中生最極長者一劫壽命。",
+        "translation": "In this, the most extremely long life of an eon arises.",
+        "source": "T32n1644_007:0206a26_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人中六千歲是閻羅獄一日一夜。",
+        "translation": "Six thousand years among humans is one day and one night in Yama's prison.",
+        "source": "T32n1644_007:0206a27_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此日夜三十日為一月。",
+        "translation": "From this, a day and a night of 30 days becomes a month.",
+        "source": "T32n1644_007:0206a27_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一年。",
+        "translation": "The twelfth month is a year.",
+        "source": "T32n1644_007:0206a28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數多年多百年。",
+        "translation": "From this, the number of years is many years and many hundreds of years.",
+        "source": "T32n1644_007:0206a28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "多千年多百千年。",
+        "translation": "Many more thousand years and one hundred thousand years will pass.",
+        "source": "T32n1644_007:0206a29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於此獄中受熟業報。",
+        "translation": "In this hell, they'll experience the results of ripened karma.",
+        "source": "T32n1644_007:0206a29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有畜生道眾生。",
+        "translation": "There are beings in the animal rebirth path.",
+        "source": "T32n1644_007:0206b01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有一日一夜六七過死生。",
+        "translation": "There's one day and one night, and six or seven more births past death.",
+        "source": "T32n1644_007:0206b01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有諸畜生壽命一劫。",
+        "translation": "Again, there are animals with a lifespan of an eon.",
+        "source": "T32n1644_007:0206b02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人中一月為鬼神道一日一夜。",
+        "translation": "A month among humans is a day and a night in the path of ghosts and spirits.",
+        "source": "T32n1644_007:0206b02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又人中一月日為神鬼中一日一夜。",
+        "translation": "Another day in a month among humans is a day and a night among ghosts and spirits.",
+        "source": "T32n1644_007:0206b03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此日夜三十日為一月。",
+        "translation": "Thus, a day and a night of 30 days are considered a month.",
+        "source": "T32n1644_007:0206b04_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一年。",
+        "translation": "The twelfth month is a year.",
+        "source": "T32n1644_007:0206b04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數五百年是其壽命。",
+        "translation": "From this, a year of 500 years is its life span.",
+        "source": "T32n1644_007:0206b05_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是五百歲當人中十五千年。",
+        "translation": "These 500 years will be 15,000 years among humans.",
+        "source": "T32n1644_007:0206b05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "剡浮提人或十歲。",
+        "translation": "A person in Hābhūti might be ten years old.",
+        "source": "T32n1644_007:0206b06_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "或阿僧祇歲。",
+        "translation": "Perhaps it's incalculably long.",
+        "source": "T32n1644_007:0206b06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是中間壽命漸長漸短。",
+        "translation": "Their life span in between gradually grows longer and shorter.",
+        "source": "T32n1644_007:0206b07_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "長極八萬歲短極十歲。",
+        "translation": "It's as long as 80,000 years and as short as 10 years.",
+        "source": "T32n1644_007:0206b07_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西瞿耶尼人二百五十年是其壽命。",
+        "translation": "The 250-year life span of the Sigoyānis is their life span.",
+        "source": "T32n1644_007:0206b08_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "東弗婆提人壽五百歲。",
+        "translation": "The eastern Pūrvavideans live for 500 years.",
+        "source": "T32n1644_007:0206b09_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "北欝單越定壽千年。",
+        "translation": "In the north, Uttarakuru has a fixed life of 1,000 years.",
+        "source": "T32n1644_007:0206b09_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人中五十歲是四天王一日一夜。",
+        "translation": "Among humans, fifty years is one day and one night for the four heavenly kings.",
+        "source": "T32n1644_007:0206b10_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此日夜三十日為一月。",
+        "translation": "Thus, a day and a night of 30 days make a month.",
+        "source": "T32n1644_007:0206b10_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一年。",
+        "translation": "The twelfth month is a year.",
+        "source": "T32n1644_007:0206b11_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數五百天年是其壽命。",
+        "translation": "From that number of years, 500 divine years are his life span.",
+        "source": "T32n1644_007:0206b11_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當人中歲數九百萬歲。",
+        "translation": "The number of years among humans should be 9 million years.",
+        "source": "T32n1644_007:0206b12_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人中一百年是忉利天一日一夜。",
+        "translation": "One hundred years among humans is one day and one night in the Heaven of Thirty-three.",
+        "source": "T32n1644_007:0206b13_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此日夜三十日為一月十二月為一年。",
+        "translation": "From this, the days and nights of the thirty days become months and the months of December become a year.",
+        "source": "T32n1644_007:0206b13_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數壽命千年。",
+        "translation": "From this number of years, his life span is a thousand years.",
+        "source": "T32n1644_007:0206b14_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當人中三千六百萬歲。",
+        "translation": "It should be 36 million years among humans.",
+        "source": "T32n1644_007:0206b15_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人中二百年是夜摩天一日一夜。",
+        "translation": "Two hundred years among humans is one day and one night in Yama Heaven.",
+        "source": "T32n1644_007:0206b15_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此日夜三十日為一月。",
+        "translation": "From this, the days and nights of the thirty days become one month.",
+        "source": "T32n1644_007:0206b16_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一年。",
+        "translation": "The twelfth month is a year.",
+        "source": "T32n1644_007:0206b17_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數壽命二千年。",
+        "translation": "This number of years has a lifespan of 2,000 years.",
+        "source": "T32n1644_007:0206b17_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當人中十四千萬。",
+        "translation": "It should be 140 million among humans.",
+        "source": "T32n1644_007:0206b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又四百萬年。",
+        "translation": "That's another 4 million years.",
+        "source": "T32n1644_007:0206b18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人中四百歲是兜率陀天一日一夜。",
+        "translation": "Four hundred years among humans is one day and one night in Tuṣita Heaven.",
+        "source": "T32n1644_007:0206b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此日夜三十日為一月。",
+        "translation": "From this, a day and night of 30 days will be a month.",
+        "source": "T32n1644_007:0206b19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一年。",
+        "translation": "The twelfth month is a year.",
+        "source": "T32n1644_007:0206b20_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數壽命四千年。",
+        "translation": "From this number of years, his life span is 4,000 years.",
+        "source": "T32n1644_007:0206b20_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當人中五千七百六十億年。",
+        "translation": "It should be 576 billion years among humans.",
+        "source": "T32n1644_007:0206b21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人中八百年是化樂天一日一夜。",
+        "translation": "Eight hundred years among humans is one day and one night in the Nirmāṇarati Heaven.",
+        "source": "T32n1644_007:0206b21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此日夜三十日為一月。",
+        "translation": "From this, the thirty days of the day and night will be one month.",
+        "source": "T32n1644_007:0206b22_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一年。",
+        "translation": "The twelfth month is a year.",
+        "source": "T32n1644_007:0206b23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數壽命八千年。",
+        "translation": "This has a lifespan of 8,000 years in years.",
+        "source": "T32n1644_007:0206b23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當人中二萬三千四十億年。",
+        "translation": "It should be 2,340,000,000,000 years among humans.",
+        "source": "T32n1644_007:0206b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "人中一千六百年。",
+        "translation": "Sixteen hundred years among humans is a day in the Paranirmita-vaśavartin Heaven.",
+        "source": "T32n1644_007:0206b24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是他化自在天一日一夜。",
+        "translation": "It's a day and a night in the Paranirmita-vaśavartin Heaven.",
+        "source": "T32n1644_007:0206b24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是日夜三十日為一月。",
+        "translation": "Thus, a day and a night of 30 days become a month.",
+        "source": "T32n1644_007:0206b25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "十二月為一年。",
+        "translation": "The twelfth month is a year.",
+        "source": "T32n1644_007:0206b26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由此年數壽命一萬六千年。",
+        "translation": "This number of years has a lifespan of 16,000,000 years.",
+        "source": "T32n1644_007:0206b26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當人中九萬二千一百六十億年。",
+        "translation": "It should be 9,216 billion years among humans.",
+        "source": "T32n1644_007:0206b27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由乾陀山下頂阿脩羅壽命如四大天王。",
+        "translation": "From the top of Mount Gandhāra, Ashura's life expectancy is like that of the four great heavenly kings.",
+        "source": "T32n1644_007:0206b27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "須彌山下頂阿脩羅壽命如忉利天。",
+        "translation": "The lifespan of Asura at the top of Mount Sumeru is like that of the Heaven of the Thirty-three.",
+        "source": "T32n1644_007:0206b28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一小劫者名為一劫。",
+        "translation": "A minor eon is called a single eon.",
+        "source": "T32n1644_007:0206b29_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "二十小劫亦名一劫。",
+        "translation": "Twenty small eons are also called one eon.",
+        "source": "T32n1644_007:0206c01_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四十小劫亦名一劫。",
+        "translation": "A forty minor eon is also called a single eon.",
+        "source": "T32n1644_007:0206c01_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六十小劫亦名一劫。",
+        "translation": "Sixty minor eons are also called one eon.",
+        "source": "T32n1644_007:0206c02_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "八十小劫名一大劫。",
+        "translation": "Eighty small eons are called a great eon.",
+        "source": "T32n1644_007:0206c02_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何一劫名為小劫。",
+        "translation": "What's a single eon called a minor eon?",
+        "source": "T32n1644_007:0206c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時提婆達多比丘。",
+        "translation": "It was then that the monk Devadatta.",
+        "source": "T32n1644_007:0206c03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "住地獄中受熟業報。",
+        "translation": "He was living in hell and experiencing the results of ripened karma.",
+        "source": "T32n1644_007:0206c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛世尊說住壽一劫。",
+        "translation": "The Bhagavān said he'd live a lifespan of one eon.",
+        "source": "T32n1644_007:0206c04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是一小劫名劫。",
+        "translation": "Thus, a small eon is called an eon.",
+        "source": "T32n1644_007:0206c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何二十小劫亦名一劫。",
+        "translation": "How are the 20 small eons also called one eon?",
+        "source": "T32n1644_007:0206c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如梵先行天二十小劫是其壽量。",
+        "translation": "Twenty small eons like those of the Brahmakāyika gods are their lifespan.",
+        "source": "T32n1644_007:0206c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是諸梵天佛說住壽一劫。",
+        "translation": "These Brahmā gods and buddhas say 'one eon of abiding life.'",
+        "source": "T32n1644_007:0206c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是二十劫亦名一劫。",
+        "translation": "Thus, these 20 eons are also called one eon.",
+        "source": "T32n1644_007:0206c07_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何四十小劫名為一劫。",
+        "translation": "How are the 40 small eons called one eon?",
+        "source": "T32n1644_007:0206c07_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如梵眾天壽量四十小劫。",
+        "translation": "Suppose the Brahma heavens have a lifespan of 40 eons.",
+        "source": "T32n1644_007:0206c08_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說住壽一劫。",
+        "translation": "The Buddha teaches that their lifespan is one eon.",
+        "source": "T32n1644_007:0206c08_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是四十劫亦名一劫。",
+        "translation": "Thus, these 40 eons are also called one eon.",
+        "source": "T32n1644_007:0206c09_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何六十小劫名為一劫。",
+        "translation": "How are the 60 small eons called one eon?",
+        "source": "T32n1644_007:0206c09_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如大梵天壽量六十劫。",
+        "translation": "Suppose the Brahma gods have a lifespan of 60 eons.",
+        "source": "T32n1644_007:0206c10_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說住壽一劫。",
+        "translation": "The Buddha says it's one eon of abiding life.",
+        "source": "T32n1644_007:0206c10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是六十小劫亦名一劫。",
+        "translation": "Thus, 60 minor eons are also called one eon.",
+        "source": "T32n1644_007:0206c11_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何八十小劫名一大劫。",
+        "translation": "How are the 80 small eons called a great eon?",
+        "source": "T32n1644_007:0206c11_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如少光天壽量一百二十小劫。",
+        "translation": "Suppose the Shaolin Heaven has a lifespan of 120 small eons.",
+        "source": "T32n1644_007:0206c12_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛說壽量一大劫半。",
+        "translation": "The Buddha said the lifespan is one and a half great eons.",
+        "source": "T32n1644_007:0206c13_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是八十小劫名為一大劫。",
+        "translation": "Thus, 80 small eons are called a great eon.",
+        "source": "T32n1644_007:0206c13_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量光天壽量一百四十小劫。",
+        "translation": "The lifespan of the Amitâbha Heaven is 140 small eons.",
+        "source": "T32n1644_007:0206c14_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "勝遍光天住壽一百六十小劫。",
+        "translation": "The lifespan of the Heaven of Vairocana is 160 small eons.",
+        "source": "T32n1644_007:0206c14_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是為二大劫。",
+        "translation": "These are the two great eons.",
+        "source": "T32n1644_007:0206c15_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "少淨天二大劫半是其壽量。",
+        "translation": "The two great eons and a half of the lesser Pure Heaven's life span are its life span.",
+        "source": "T32n1644_007:0206c15_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無量淨天三大劫半是其壽量。",
+        "translation": "The three great eons and a half of the Immeasurably Pure Heaven's life span is its lifespan.",
+        "source": "T32n1644_007:0206c16_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遍淨天四大劫是其壽量。",
+        "translation": "The four great eons of the Heaven of Universal Purity are its lifespan.",
+        "source": "T32n1644_007:0206c17_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無雲天三百大劫是其壽量。",
+        "translation": "The cloudless heaven's 300 great eons are its lifespan.",
+        "source": "T32n1644_007:0206c17_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "受福天四百大劫是其壽量。",
+        "translation": "The 400 great eons of the Blessed Heaven are their lifespan.",
+        "source": "T32n1644_007:0206c18_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "廣果天五百大劫是其壽量。",
+        "translation": "Five hundred great eons in the Vairocana Heaven are their lifespan.",
+        "source": "T32n1644_007:0206c19_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "無想天一千大劫是其壽量。",
+        "translation": "One thousand great eons in the Absence of Thought Heaven is their lifespan.",
+        "source": "T32n1644_007:0206c19_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善見天一千五百大劫是其壽量。",
+        "translation": "One thousand five hundred great eons in the Well-Seeing Heaven is their lifespan.",
+        "source": "T32n1644_007:0206c20_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善現天二千大劫是其壽量。",
+        "translation": "Two thousand great eons in the Well-Formed Heaven is their lifespan.",
+        "source": "T32n1644_007:0206c21_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不煩天四千大劫是其壽量。",
+        "translation": "Four thousand great eons in the Non-Troubled Heaven is their lifespan.",
+        "source": "T32n1644_007:0206c21_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "不燒天八千大劫是其壽量。",
+        "translation": "Eight thousand great eons in the Abhayagiri Heaven is their lifespan.",
+        "source": "T32n1644_007:0206c22_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿迦尼吒天一萬六千大劫是其壽量。",
+        "translation": "Sixteen thousand great eons in the Akaniṣṭha Heaven is their lifespan.",
+        "source": "T32n1644_007:0206c23_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊入天下品一萬七千五百大劫是其壽量。",
+        "translation": "17,500 great eons in the Heaven of Unlimited Emptiness and Entry is its lifespan.",
+        "source": "T32n1644_007:0206c24_36",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊入中品一萬八千五百大劫是其壽量。",
+        "translation": "18,500 great eons in the middle rank of the sphere of the infinite entry of emptiness is its lifespan.",
+        "source": "T32n1644_007:0206c25_37",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "空無邊入上品二萬大劫是其壽量。",
+        "translation": "The twenty-thousand great eons of the highest level of limitless entry into emptiness are its lifespan.",
+        "source": "T32n1644_007:0206c26_38",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下品識無邊入天三萬大劫是其壽量。",
+        "translation": "The lower level's limitless entry of consciousness into the heavens, which is 30,000 great eons, is its lifespan.",
+        "source": "T32n1644_007:0206c27_39",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中品識無邊入天。",
+        "translation": "The middle grade consciousness that enters the heavens without limit ...",
+        "source": "T32n1644_007:0206c27_40",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "三萬五千大劫是其壽量。",
+        "translation": "Thirty-five thousand great eons is its lifespan.",
+        "source": "T32n1644_007:0206c28_41",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上品識無邊入天。",
+        "translation": "The highest-ranked consciousness enters heaven without limit.",
+        "source": "T32n1644_007:0206c28_42",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "四萬大劫是其壽量。",
+        "translation": "A lifespan of 40,000 great eons is its limit.",
+        "source": "T32n1644_007:0206c29_43",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下品無所有無邊入天。",
+        "translation": "The lower consciousness has no limit and enters heaven without limit.",
+        "source": "T32n1644_007:0206c29_44",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五萬大劫是其壽量。",
+        "translation": "Fifty thousand great eons is their lifespan.",
+        "source": "T32n1644_007:0207a01_45",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中品無所有無邊入天。",
+        "translation": "The middle rank of consciousness has no possessions and no limit to entry into heaven.",
+        "source": "T32n1644_007:0207a01_46",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "五萬五千大劫是其壽量。",
+        "translation": "Fifty-five thousand great eons is their lifespan.",
+        "source": "T32n1644_007:0207a02_47",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上品無所有無邊入天。",
+        "translation": "The highest-ranking class has nothing, has unlimited entry, and enters heaven.",
+        "source": "T32n1644_007:0207a02_48",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "六萬大劫是其壽量。",
+        "translation": "A lifespan of 60,000 great eons is its limit.",
+        "source": "T32n1644_007:0207a03_49",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "下品非想天。",
+        "translation": "The lower rank of the non-percipient gods ...",
+        "source": "T32n1644_007:0207a03_50",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七萬大劫是其壽量。",
+        "translation": "Seventy thousand great eons is their lifespan.",
+        "source": "T32n1644_007:0207a04_51",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "中品非想天。",
+        "translation": "The middle rank of the nonconceptual gods ...",
+        "source": "T32n1644_007:0207a04_52",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "七萬五千大劫是其壽量。",
+        "translation": "A great eon of 75,000 is its lifespan.",
+        "source": "T32n1644_007:0207a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上品非想天八萬大劫是其壽量。",
+        "translation": "Eighty thousand great eons is the lifespan of the highest rank of nonconceptual gods.",
+        "source": "T32n1644_007:0207a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是義佛世尊說。",
+        "translation": "This is what the Bhagavān says.",
+        "source": "T32n1644_007:0207a06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我聞。",
+        "translation": "'So I've heard.'",
+        "source": "T32n1644_007:0207a06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "立世阿毘曇論卷第七",
+        "translation": "Lishiapitan lun, vol. 7",
+        "source": "T32n1644_007:0207a07_0",
+        "is_bad_quality": false
+    }
+]

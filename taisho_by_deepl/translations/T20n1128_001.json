@@ -1,0 +1,2240 @@
+[
+    {
+        "source_sentence": "最上大乘金剛大教寶王經卷上",
+        "translation": "The Supreme Dasheng Jingang dajiaowang jing, vol. 1",
+        "source": "T20n1128_001:0542c03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西天譯經三藏朝散大夫試鴻臚卿",
+        "translation": "Xitian Translation of the Sutra of the Tripiṭaka, the Chaoshan Dashi, and the Honglou Qing",
+        "source": "T20n1128_001:0542c05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "傳教大師臣法天奉　詔譯",
+        "translation": "Translated by imperial order of the Minister Fetian, the Master of the Transmission of the Teachings",
+        "source": "T20n1128_001:0542c06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是我聞。",
+        "translation": "\"Thus I've heard.",
+        "source": "T20n1128_001:0542c07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一時世尊。",
+        "translation": "One time, the Bhagavān was there.",
+        "source": "T20n1128_001:0542c07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "在廣嚴城菴羅樹園。",
+        "translation": "He was at Āmravana Park in Vairocana City.",
+        "source": "T20n1128_001:0542c07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與大苾芻眾六十萬人俱。",
+        "translation": "He was accompanied by a large congregation of 600,000 monks.",
+        "source": "T20n1128_001:0542c07_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其名曰尊者大迦葉尊者優樓頻螺迦葉。",
+        "translation": "Their names were Venerable Mahākāśyapa, Venerable Uruvilvā-Kāśyapa, and Venerable Nadī-Kāśyapa.",
+        "source": "T20n1128_001:0542c08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者那提迦葉尊者須菩提。",
+        "translation": "Venerable Nadī-Kāśyapa, Venerable Subhūti.",
+        "source": "T20n1128_001:0542c09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者尊那尊者大目乾連。",
+        "translation": "Venerable Zuni, Venerable Mahāmaudgalyāyana.",
+        "source": "T20n1128_001:0542c10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者舍利弗尊者劫賓那。",
+        "translation": "Venerable Śāriputra, Venerable Kapphiṇa.",
+        "source": "T20n1128_001:0542c10_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者摩呬捺囉尊者優波梨。",
+        "translation": "Venerable Mākhyara, Venerable Upāli.",
+        "source": "T20n1128_001:0542c11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "尊者阿難。",
+        "translation": "Venerable Ānanda.",
+        "source": "T20n1128_001:0542c11_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等苾芻眾六十萬人俱。",
+        "translation": "Such was the crowd of 600,000 monks.",
+        "source": "T20n1128_001:0542c12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有菩薩摩訶薩。",
+        "translation": "Then there was this bodhisattva Mahāsattva.",
+        "source": "T20n1128_001:0542c12_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其名曰師子威德菩薩摩訶薩。",
+        "translation": "His name is Shizi Weide Bodhisattva Mahāsattva.",
+        "source": "T20n1128_001:0542c13_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "地藏菩薩摩訶薩。",
+        "translation": "Kṣitigarbha Bodhisattva and Mahāsattva.",
+        "source": "T20n1128_001:0542c13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "虛空藏菩薩摩訶薩。",
+        "translation": "The Ākāśagarbha Bodhisattva and Mahāsattva.",
+        "source": "T20n1128_001:0542c14_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "普賢菩薩摩訶薩。",
+        "translation": "The Bodhisattva Mahāsattva of Samantabhadra.",
+        "source": "T20n1128_001:0542c14_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛手菩薩摩訶薩。",
+        "translation": "Vajrapāṇi Bodhisattva Mahāsattva.",
+        "source": "T20n1128_001:0542c15_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "除蓋障菩薩摩訶薩。",
+        "translation": "Mahāsa Saṃbodhisattva, the Bodhisattva Who Removes Hindrances.",
+        "source": "T20n1128_001:0542c15_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "觀自在菩薩摩訶薩。",
+        "translation": "Avalokitêśvara Bodhisattva, the great bodhisattva, the great mahāsattva.",
+        "source": "T20n1128_001:0542c16_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "妙吉祥菩薩摩訶薩。",
+        "translation": "Mañjuśrī Bodhisattva, the auspicious bodhisattva, the mahāsattva.",
+        "source": "T20n1128_001:0542c16_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寶星菩薩摩訶薩。",
+        "translation": "Jewel-starred Bodhisattva Mahāsa.",
+        "source": "T20n1128_001:0542c17_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "鉢訥摩俱母那菩薩摩訶薩。",
+        "translation": "Prātimokṣa Kumbhâṇḍa Bodhisattva-mahāsattva.",
+        "source": "T20n1128_001:0542c17_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常堅固身菩薩摩訶薩。",
+        "translation": "Ever Solid Body Bodhisattva Mahāsa.",
+        "source": "T20n1128_001:0542c18_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寶嚴海慧菩薩摩訶薩。",
+        "translation": "Jewel-Arising Ocean Wisdom Bodhisattva Mahāsattva.",
+        "source": "T20n1128_001:0542c18_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨妙音聲菩薩摩訶薩。",
+        "translation": "*Bodhisattva Mahāsattva of the Pure and Marvelous Sound.",
+        "source": "T20n1128_001:0542c19_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "燈光明菩薩摩訶薩。",
+        "translation": "Dhāraṇī of the Lamp Light Bodhisattva Mahāsattva.",
+        "source": "T20n1128_001:0542c19_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得妙音聲菩薩摩訶薩。",
+        "translation": "Mahāsa Saṃbhava, the Bodhisattva Who Attains the Sound of Wonderful Sound.",
+        "source": "T20n1128_001:0542c20_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如意光明菩薩摩訶薩。",
+        "translation": "Wish-granting Light Bodhisattva Mahāsattva.",
+        "source": "T20n1128_001:0542c20_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "遍往世界如師子行菩薩摩訶薩。",
+        "translation": "The Bodhisattva Mahāsattva who travels to all the worlds like a lion in action.",
+        "source": "T20n1128_001:0542c21_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "清淨無垢金光明菩薩摩訶薩。",
+        "translation": "The Bodhisattva Mahāsattva of Pure and Immaculate Golden Light.",
+        "source": "T20n1128_001:0542c22_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善威儀善行菩薩摩訶薩。",
+        "translation": "The Bodhisattva Mahāsattva of Good Manners and Good Conduct.",
+        "source": "T20n1128_001:0542c22_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "從地踊持世王菩薩摩訶薩。",
+        "translation": "The Bodhisattva Mahāsattva Who Carries the World King From the Earth in a Flood.",
+        "source": "T20n1128_001:0542c23_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "天言說堅固音聲菩薩摩訶薩。",
+        "translation": "The Bodhisattva Mahāsaṃbhaisa who speaks the language of the gods with resolute sound.",
+        "source": "T20n1128_001:0542c24_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得一切法自在菩薩摩訶薩。",
+        "translation": "The Bodhisattva Mahāsattva who has attained sovereignty over all dharmas.",
+        "source": "T20n1128_001:0542c24_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "慈氏菩薩摩訶薩。",
+        "translation": "The Merciful One, the Bodhisattva Mahāsattva.",
+        "source": "T20n1128_001:0542c25_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等菩薩摩訶薩六百萬人俱。",
+        "translation": "These were the 6 million bodhisattvas, the great bodhisattvas, and the great great mahāsattvas.",
+        "source": "T20n1128_001:0542c25_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊從於口中放大光明。",
+        "translation": "At the time, the Bhagavān radiated a bright light from his mouth.",
+        "source": "T20n1128_001:0542c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其光晃曜過於日月而有眾色。",
+        "translation": "Its light shone brightly, surpassing that of the sun and moon, and it had many colors.",
+        "source": "T20n1128_001:0542c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂青色。",
+        "translation": "They were called blue ...",
+        "source": "T20n1128_001:0542c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "黃色白色紅色綠色。",
+        "translation": "They're yellow, white, red, and green.",
+        "source": "T20n1128_001:0542c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "有如是等無數種種色光。",
+        "translation": "There are countless such lights of various colors.",
+        "source": "T20n1128_001:0542c29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "照於無量無邊世界乃至梵世。",
+        "translation": "It shines in measureless and limitless worlds up to the Brahma world.",
+        "source": "T20n1128_001:0542c29_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是照已。",
+        "translation": "After shining like this, he returned and entered through the Bhagavān's top door.",
+        "source": "T20n1128_001:0543a01_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "還從世尊頂門而入。",
+        "translation": "He went back through the Bhagavān's top door and entered.",
+        "source": "T20n1128_001:0543a01_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時尊者阿難。",
+        "translation": "It was then that Venerable Ānanda rose from his seat and bared his right shoulder.",
+        "source": "T20n1128_001:0543a03_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即從座起偏袒右肩。",
+        "translation": "He rose from his seat, bared his right shoulder, and knelt on his right knee, put his palms together, and venerated him.",
+        "source": "T20n1128_001:0543a03_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右膝著地合掌恭敬。",
+        "translation": "He knelt on his right knee and put his palms together in respect.",
+        "source": "T20n1128_001:0543a03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白佛言世尊。",
+        "translation": "He said to the Buddha, \"Bhagavān!",
+        "source": "T20n1128_001:0543a04_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如來放光非無因緣。",
+        "translation": "\"It's not for no reason that the Tathāgata radiates his light.",
+        "source": "T20n1128_001:0543a04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊今日放大光明何因何緣。",
+        "translation": "Bhagavān, what's the cause and condition for that radiant light today?",
+        "source": "T20n1128_001:0543a05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願如來應正等覺。",
+        "translation": "Please let the Tathāgata be fully and completely enlightened.",
+        "source": "T20n1128_001:0543a05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "大慈廣覆為我等說。",
+        "translation": "Cover us with great compassion and explain it for us.",
+        "source": "T20n1128_001:0543a06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊告阿難言。",
+        "translation": "It was then that the Bhagavān addressed Ānanda and said.",
+        "source": "T20n1128_001:0543a07_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如汝所說非無因緣。",
+        "translation": "\"As you say, it's not for lack of a cause or condition.",
+        "source": "T20n1128_001:0543a07_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝當諦聽吾當為汝廣分別說。",
+        "translation": "You must listen closely, and I will explain it in detail for you.",
+        "source": "T20n1128_001:0543a07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "阿難今有無量無邊眾生。",
+        "translation": "\"Ānanda, now there are measureless and limitless sentient beings.",
+        "source": "T20n1128_001:0543a08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得證無生法忍乃至得涅槃界。",
+        "translation": "They attain the realization of the patient acceptance of the nonarising of all dharmas ... and even attain the realm of nirvāṇa.",
+        "source": "T20n1128_001:0543a09_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "由是因緣放斯光明。",
+        "translation": "It's for this reason that he radiates this light.",
+        "source": "T20n1128_001:0543a09_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說是語時有一天子名印捺囉部帝。",
+        "translation": "When he spoke those words, there was a celestial named Indrabhūti.",
+        "source": "T20n1128_001:0543a10_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "領四兵眾。",
+        "translation": "He led a retinue of four soldiers.",
+        "source": "T20n1128_001:0543a11_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及持種種供養之具來詣佛所。",
+        "translation": "He brought a multitude of four soldiers and various offerings to the Buddha.",
+        "source": "T20n1128_001:0543a11_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至佛所已持諸供具恭敬供養。",
+        "translation": "When he arrived at the Buddha's place, he brought along a variety of offerings and made respectful offerings.",
+        "source": "T20n1128_001:0543a12_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "禮佛雙足住立一面。",
+        "translation": "He bowed his head to the Buddha's feet and stood to one side.",
+        "source": "T20n1128_001:0543a12_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作是思惟我今欲聞甚深之法。",
+        "translation": "He had this thought, \"Now, I want to hear about the very profound Dharma.",
+        "source": "T20n1128_001:0543a13_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復以頭面禮世尊足。",
+        "translation": "Again, he bowed his head to the Bhagavān's feet.",
+        "source": "T20n1128_001:0543a14_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右膝著地合掌恭敬。",
+        "translation": "He put his right knee on the ground and put his palms together in respect.",
+        "source": "T20n1128_001:0543a14_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而白佛言。",
+        "translation": "He said to the Buddha.",
+        "source": "T20n1128_001:0543a15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如薄伽梵三界大師。",
+        "translation": "\"Suppose he's the Bhagavān, the great teacher of the three realms.",
+        "source": "T20n1128_001:0543a15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至一切眾生之父。",
+        "translation": "He's the father of all sentient beings.",
+        "source": "T20n1128_001:0543a15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我如小兒愚癡無慧復無方便。",
+        "translation": "I'm like a small child who's foolish, lacks wisdom, and has no skillful means.",
+        "source": "T20n1128_001:0543a16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又如盲人多於瞋恚。",
+        "translation": "I'm also like a blind man with lots of anger.",
+        "source": "T20n1128_001:0543a16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願世尊哀愍於我。",
+        "translation": "Please let the Bhagavān have compassion on me.",
+        "source": "T20n1128_001:0543a17_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何方便令我諸根。",
+        "translation": "How can I skillfully enable my faculties?",
+        "source": "T20n1128_001:0543a17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於諸境界當使獲得無生法忍。",
+        "translation": "In all realms, I'll attain the patience of the nonarising of all phenomena.",
+        "source": "T20n1128_001:0543a18_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時世尊讚彼王言善哉善哉知汝所問。",
+        "translation": "It was then that the Bhagavān praised the king, saying, \"Good, good, good! I know what you're asking.",
+        "source": "T20n1128_001:0543a19_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為於當來末法眾生。",
+        "translation": "It's for the sake of sentient beings in the future who are at the end of their lives.",
+        "source": "T20n1128_001:0543a20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "欲令彼等得無生忍。",
+        "translation": "I want to cause them to attain the patience of nonproduction.'",
+        "source": "T20n1128_001:0543a20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是世尊告大王言。",
+        "translation": "The Bhagavān then addressed the king, saying.",
+        "source": "T20n1128_001:0543a21_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我有四種最上之法。",
+        "translation": "\"I have four ways that are most excellent.",
+        "source": "T20n1128_001:0543a21_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有聞者必當獲得無生法忍。",
+        "translation": "If anyone hears them, they will surely attain the patience of the nonarising of the Dharma.'",
+        "source": "T20n1128_001:0543a21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時阿難在大眾中得聞是語。",
+        "translation": "It was then that Ānanda heard these words in the midst of the crowd.",
+        "source": "T20n1128_001:0543a23_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即前禮佛合掌白言。",
+        "translation": "He saluted the Buddha, put his palms together, and said.",
+        "source": "T20n1128_001:0543a23_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊云何名為四種之法。",
+        "translation": "\"Bhagavān, what are the four kinds of dharmas?",
+        "source": "T20n1128_001:0543a24_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言四種法者。",
+        "translation": "The Buddha said, \"The four kinds of dharmas are.",
+        "source": "T20n1128_001:0543a24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂聲聞乘緣覺乘。",
+        "translation": "They are the vehicle of the śrāvakas and the vehicle of the pratyekbuddhas.",
+        "source": "T20n1128_001:0543a25_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此二乘者但能自利不能利他。",
+        "translation": "These two vehicles only improve themselves and don't improve others.",
+        "source": "T20n1128_001:0543a25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有二乘。",
+        "translation": "There are also two other vehicles.",
+        "source": "T20n1128_001:0543a26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂方廣大乘及彼最上金剛大乘。",
+        "translation": "They are the extensive great vehicle and the supreme vajra great vehicle.",
+        "source": "T20n1128_001:0543a26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是名為四。",
+        "translation": "These are called the four.",
+        "source": "T20n1128_001:0543a27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時阿難又復問言。",
+        "translation": "It was then that Ānanda again asked.",
+        "source": "T20n1128_001:0543a27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是金剛大乘當云何性。",
+        "translation": "\"What will be the nature of this adamantine great vehicle?",
+        "source": "T20n1128_001:0543a28_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言阿難。",
+        "translation": "The Buddha said to Ānanda.",
+        "source": "T20n1128_001:0543a28_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有菩薩發於最上大菩提心。",
+        "translation": "\"Suppose there's a bodhisattva who arouses the supreme great mind of enlightenment.",
+        "source": "T20n1128_001:0543a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是即名為金剛乘性。",
+        "translation": "This is called the nature of the vajra vehicle.",
+        "source": "T20n1128_001:0543a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是菩提心能自利益復利於他。",
+        "translation": "This bodhisattva mind can benefit itself and benefit others.",
+        "source": "T20n1128_001:0543a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是菩薩摩訶薩行解於方便。",
+        "translation": "Thus, the bodhisattva-mahāsattva practices understanding through skillful means.",
+        "source": "T20n1128_001:0543b01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能於諸根各各境界所緣所作。",
+        "translation": "He's able to work with the faculties and the objects of their respective realms.",
+        "source": "T20n1128_001:0543b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當獲無生法忍。",
+        "translation": "They will then attain the patience of the nonarising of all phenomena.",
+        "source": "T20n1128_001:0543b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時彼王印捺囉部帝。",
+        "translation": "It was then that that king Indraprīpta.",
+        "source": "T20n1128_001:0543b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得聞世尊為於阿難。",
+        "translation": "He heard the Bhagavān speak these four teachings for Ānanda.",
+        "source": "T20n1128_001:0543b04_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "說是四法甚大歡喜。",
+        "translation": "He rejoiced greatly when he heard the Bhagavān explain these four things to Ānanda.",
+        "source": "T20n1128_001:0543b04_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "次白佛言世尊。",
+        "translation": "He then said to the Buddha, \"Bhagavān!",
+        "source": "T20n1128_001:0543b05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩摩訶薩解於方便。",
+        "translation": "\"Bhagavān, how does the bodhisattva Mahāsattva understand skillful means?",
+        "source": "T20n1128_001:0543b05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能於諸根各各境界所緣所作得無生忍。",
+        "translation": "Can he attain the acceptance of nonproduction based on what's perceived as the objects of each faculty?",
+        "source": "T20n1128_001:0543b06_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言大王。",
+        "translation": "The Buddha said, \"Great king.",
+        "source": "T20n1128_001:0543b06_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃往過去無量無邊不可思議大劫之前。",
+        "translation": "\"It was a long time ago, before an unfathomably great eon of measureless and limitless duration.",
+        "source": "T20n1128_001:0543b07_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時世有佛出興於世。",
+        "translation": "There was a Buddha who appeared in the world at that time.",
+        "source": "T20n1128_001:0543b08_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "號日清淨光明如來應供正等覺明行足善逝世間解無上士調御丈夫天人師佛世尊。",
+        "translation": "He was called the Sun, Clear Light Tathāgata, Worthy of Offerings, Completely Awakened, Trained in the Methods of Practice, Well Gone, Understander of the World, Unsurpassed Person, Trainer, and Master of Gods and People, the World Honored Buddha.",
+        "source": "T20n1128_001:0543b08_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼佛世界名大妙香。",
+        "translation": "That buddha-world is called the great wonderful fragrance.",
+        "source": "T20n1128_001:0543b10_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是日清淨光明如來。",
+        "translation": "It's the Tathāgata of Clear Light of the Day.",
+        "source": "T20n1128_001:0543b11_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "壽量住九萬劫。",
+        "translation": "His lifespan is measured in 90,000 eons.",
+        "source": "T20n1128_001:0543b11_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼佛世界所有眾生智慧猛利。",
+        "translation": "All the sentient beings in that Buddha's world have incredibly sharp wisdom.",
+        "source": "T20n1128_001:0543b11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆悉發於大菩提心。",
+        "translation": "They all arouse the great mind of enlightenment.",
+        "source": "T20n1128_001:0543b12_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時世有王名精進授。",
+        "translation": "There was then a king in the world named Vigorous Grant.",
+        "source": "T20n1128_001:0543b13_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "力如輪王領四兵眾。",
+        "translation": "He had the strength of a wheel-turning king who led a multitude of four soldiers.",
+        "source": "T20n1128_001:0543b13_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "前後導從詣彼佛所。",
+        "translation": "He led them forward and backward to the Buddha's place.",
+        "source": "T20n1128_001:0543b13_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復持種種香華奉獻彼佛。",
+        "translation": "He also carried a variety of flowers and incense and presented them to the Buddha.",
+        "source": "T20n1128_001:0543b14_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "伸供養已作禮旋遶。",
+        "translation": "After extending his offerings, he paid homage and circled around.",
+        "source": "T20n1128_001:0543b15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "[跍*月]跪合掌白言世尊。",
+        "translation": "[drops to his knees*moon] kneeling with his palms together, he said, \"Bhagavān!",
+        "source": "T20n1128_001:0543b15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何能令諸根境界所緣所作。",
+        "translation": "\"Bhagavān, how can you cause what's conditioned by the sense faculties and objective realms to come into being?",
+        "source": "T20n1128_001:0543b15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當得無生法忍。",
+        "translation": "Will it be possible to attain the patience of the nonarising of all phenomena?",
+        "source": "T20n1128_001:0543b16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言大王。",
+        "translation": "The Buddha said, \"Great king.",
+        "source": "T20n1128_001:0543b17_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有過去未來及與現在諸佛世尊。",
+        "translation": "'All the buddhas and world-honored ones of the past, future, and present.",
+        "source": "T20n1128_001:0543b17_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆亦說此方便。",
+        "translation": "They all explain this method.",
+        "source": "T20n1128_001:0543b18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "解於諸根各各境界所緣所作。",
+        "translation": "\"They understand what's conditioned by each sense faculty's objective realm.",
+        "source": "T20n1128_001:0543b18_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而能獲得無生法忍。",
+        "translation": "They then attain the patience of the nonarising of the Dharma.",
+        "source": "T20n1128_001:0543b19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時精進授復白佛言。",
+        "translation": "Zhenyeqinga then again said to the Buddha.",
+        "source": "T20n1128_001:0543b19_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "云何菩薩摩訶薩本性。",
+        "translation": "\"What's the original nature of the bodhisattva-mahāsattva?",
+        "source": "T20n1128_001:0543b20_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛言菩薩性者。",
+        "translation": "The Buddha said, \"The nature of a bodhisattva ...",
+        "source": "T20n1128_001:0543b20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是大慈大悲大喜大捨。",
+        "translation": "It's great kindness, great compassion, great joy, and great equanimity.",
+        "source": "T20n1128_001:0543b20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而此四法是菩薩性。",
+        "translation": "These four things are the bodhisattva nature.",
+        "source": "T20n1128_001:0543b21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩樂行如是四法。",
+        "translation": "A bodhisattva enjoys practicing these four things.",
+        "source": "T20n1128_001:0543b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "能為一切眾生使獲無生法忍。",
+        "translation": "They can help all sentient beings attain the patience of the nonarising of the Dharma.",
+        "source": "T20n1128_001:0543b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時日清淨光明如來。",
+        "translation": "It was then that the Tathāgata Sun Clear Light looked over the great bodhisattvas to his left.",
+        "source": "T20n1128_001:0543b24_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "顧視左邊諸大菩薩摩訶薩。",
+        "translation": "He looked at the great bodhisattvas and mahāsattvas to his left.",
+        "source": "T20n1128_001:0543b24_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "告金剛手菩薩言。",
+        "translation": "He told the Vajrapāṇi Bodhisattva.",
+        "source": "T20n1128_001:0543b25_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛手汝可往彼精進授王宮中。",
+        "translation": "\"Vajrapāṇi, you may go to that place and diligently entrust the king's palace with your work.",
+        "source": "T20n1128_001:0543b25_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如王所問金剛大乘。",
+        "translation": "According to the king's question, the Vajra Great Vehicle.",
+        "source": "T20n1128_001:0543b26_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝當為王及隨眾生種種根性演說菩薩摩訶薩行於方便。",
+        "translation": "You will explain for the king and for sentient beings of various natures the methods that bodhisattvas and mahāsattvas practice.",
+        "source": "T20n1128_001:0543b26_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "使令獲得無生法忍。",
+        "translation": "Cause them to attain the patient acceptance of the nonarising of all phenomena.",
+        "source": "T20n1128_001:0543b28_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛手菩薩聞佛告勅。",
+        "translation": "The Vajrapāṇi Bodhisattva heard the Buddha's command.",
+        "source": "T20n1128_001:0543b28_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即從座起偏袒右肩。",
+        "translation": "He got up from his seat and bared his right shoulder.",
+        "source": "T20n1128_001:0543b29_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "右膝著地合掌向佛。",
+        "translation": "He knelt on his right knee and joined his palms to the Buddha.",
+        "source": "T20n1128_001:0543b29_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作如是言。",
+        "translation": "He said in this way.",
+        "source": "T20n1128_001:0543c01_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我今當承如來聖旨行往度脫。",
+        "translation": "'Now, I will accept the Tathāgata's holy command to practice and liberate.'",
+        "source": "T20n1128_001:0543c01_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時精進授王聞佛告語。",
+        "translation": "Upon hearing the Buddha's command, Vajrapaṇḍa replied.",
+        "source": "T20n1128_001:0543c02_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即向金剛手菩薩前。",
+        "translation": "He immediately went to Vajrapāṇi Bodhisattva.",
+        "source": "T20n1128_001:0543c02_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頭面作禮而伸請曰。",
+        "translation": "He bowed his head to his face and extended his invitation.",
+        "source": "T20n1128_001:0543c03_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願菩薩遵奉佛勅愍察志誠往詣我宮。",
+        "translation": "\"Please let the bodhisattva obey the Buddha's command to kindly examine your intentions and sincerely come to my palace.",
+        "source": "T20n1128_001:0543c03_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為我演說金剛大乘。",
+        "translation": "Explain the vajra great vehicle for me.",
+        "source": "T20n1128_001:0543c04_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "使我開解證無生忍。",
+        "translation": "Make me understand and realize the patient acceptance of nonarising.",
+        "source": "T20n1128_001:0543c04_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦令當來一切眾生獲大利益。",
+        "translation": "It will also cause all sentient beings in the future to obtain great benefit.",
+        "source": "T20n1128_001:0543c05_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時金剛手默然。",
+        "translation": "The Vajrapaṇi then remained silent.",
+        "source": "T20n1128_001:0543c06_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "王知許已即整四兵前後導從。",
+        "translation": "After the king knew he had given his approval, he gathered his four armies and guided them forward and backward.",
+        "source": "T20n1128_001:0543c06_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即與菩薩同乘還宮。",
+        "translation": "He then rode back to the palace with the bodhisattva.",
+        "source": "T20n1128_001:0543c07_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及設傘蓋幢幡香華伎樂供養菩薩。",
+        "translation": "He set up an umbrella, banners, banners, incense, flowers, music, and offerings to the bodhisattva.",
+        "source": "T20n1128_001:0543c07_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時王城名曰最上。",
+        "translation": "The king's city was then called the most excellent.",
+        "source": "T20n1128_001:0543c08_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "城中人民聞菩薩來。",
+        "translation": "When the people of the city heard that the bodhisattva had come, they placed flowers and incense on the roads they passed through.",
+        "source": "T20n1128_001:0543c08_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於所經路競以香華供養。",
+        "translation": "They made offerings of flowers and incense along the path they traveled.",
+        "source": "T20n1128_001:0543c09_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "菩薩既至宮已。",
+        "translation": "After the bodhisattva arrived at the palace, he diligently granted the king another gift of seven treasures.",
+        "source": "T20n1128_001:0543c10_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "精進授王復設七寶師子之座。",
+        "translation": "After he arrived at the palace, the king of energetic cultivation then set up a lion's seat of seven jewels.",
+        "source": "T20n1128_001:0543c10_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "請菩薩座奉獻種種金銀珍寶。",
+        "translation": "He invited the bodhisattva's throne to offer a variety of gold, silver, and precious treasures.",
+        "source": "T20n1128_001:0543c11_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及以寶瓶盛滿閼伽上妙香水。",
+        "translation": "He filled a jeweled vase with the finest perfume from the Guhya family.",
+        "source": "T20n1128_001:0543c11_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及以五種供養奉上菩薩。",
+        "translation": "He presented the bodhisattva with five kinds of offerings.",
+        "source": "T20n1128_001:0543c12_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有眾多苾芻之眾。",
+        "translation": "There were also a large group of monks and nuns who wanted to hear the Dharma.",
+        "source": "T20n1128_001:0543c13_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲聞法亦持香華來獻菩薩。",
+        "translation": "They also brought fragrant flowers to present to the bodhisattva because they wanted to hear the Dharma.",
+        "source": "T20n1128_001:0543c13_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時金剛手菩薩。",
+        "translation": "It was then that the Vajrapāṇi Bodhisattva.",
+        "source": "T20n1128_001:0543c14_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即如從佛所聞法式。",
+        "translation": "He then did as he had heard the Dharma from the Buddha.",
+        "source": "T20n1128_001:0543c14_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "入大曼拏羅。",
+        "translation": "He entered the great maṇḍala.",
+        "source": "T20n1128_001:0543c15_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以金剛淨水與王灌頂。",
+        "translation": "He gave the king a consecration with pure adamantine water.",
+        "source": "T20n1128_001:0543c15_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "精進授王得灌頂已。",
+        "translation": "After diligently bestowing it on the king, he obtained the consecration.",
+        "source": "T20n1128_001:0543c15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有諸苾芻眾及諸剎帝利婆羅門吠舍首陀等。",
+        "translation": "There were also a multitude of monks, bhadras, Brahmins, Vaiśeṣas, and śuddhas.",
+        "source": "T20n1128_001:0543c16_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆悉來詣王宮至菩薩所。",
+        "translation": "They all came to the king's palace and went to the bodhisattva's place.",
+        "source": "T20n1128_001:0543c17_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為欲聞法。",
+        "translation": "They wanted to hear the Dharma.",
+        "source": "T20n1128_001:0543c18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "發菩提心入金剛乘。",
+        "translation": "They aroused the aspiration for enlightenment and entered the vajra vehicle.",
+        "source": "T20n1128_001:0543c18_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時金剛手菩薩。",
+        "translation": "The Vajrapāṇi Bodhisattva then.",
+        "source": "T20n1128_001:0543c18_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "便即為說菩薩摩訶薩行。",
+        "translation": "He then explained for them the bodhisattva-mahāsattva practices.",
+        "source": "T20n1128_001:0543c19_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及諸根法種相。",
+        "translation": "He explained the bodhisattva's practice, the various faculties, and the characteristics of the Dharma.",
+        "source": "T20n1128_001:0543c19_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及尼陀那方便等。",
+        "translation": "...and the skillful means of the nidāna, and so forth.",
+        "source": "T20n1128_001:0543c20_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至如來部金剛部寶部蓮華部羯磨部。",
+        "translation": "...and even the Tathāgata School, the Vajra School, the Jewel School, the Lotus School, and the Karma School.",
+        "source": "T20n1128_001:0543c20_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "依金剛乘相應。",
+        "translation": "It's based on the concomitance of the vajra vehicle.",
+        "source": "T20n1128_001:0543c21_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及三摩地三摩鉢底等方便。",
+        "translation": "And the samādhi, samāpatti, and other methods.",
+        "source": "T20n1128_001:0543c21_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆令得解盡涅槃界。",
+        "translation": "They all cause him to attain the realm of complete nirvāṇa with liberation.",
+        "source": "T20n1128_001:0543c22_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時南印度王精進授。",
+        "translation": "It was then that the king of South India diligently granted that teaching.",
+        "source": "T20n1128_001:0543c22_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是王深信敬重。",
+        "translation": "That king was deeply convinced and venerated.",
+        "source": "T20n1128_001:0543c23_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂求最上法入金剛大乘。",
+        "translation": "He was eager to pursue the highest teaching and enter the vajra great vehicle.",
+        "source": "T20n1128_001:0543c23_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復樂求隨眾生根性相應三摩地三摩鉢底。",
+        "translation": "He was also eager to pursue the samādhi and samāpatti that correspond to the root natures of sentient beings.",
+        "source": "T20n1128_001:0543c24_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "解於方便獲無生忍盡涅槃界。",
+        "translation": "He understands the method and attains the forbearance of nonarising and the complete realm of nirvāṇa.",
+        "source": "T20n1128_001:0543c25_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有北印度王名尾哩野嚩哩摩亦如是。",
+        "translation": "*There's another king of northern India named Vairocana Varuṇa, and he's likewise.",
+        "source": "T20n1128_001:0543c26_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "東印度王名妙臂亦如是。",
+        "translation": "The king of the eastern India named Marvelous Arm is likewise.",
+        "source": "T20n1128_001:0543c27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "西印度王名百臂亦如是。",
+        "translation": "The king of the West India named Hundred Arms is likewise.",
+        "source": "T20n1128_001:0543c27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有百千苾芻。",
+        "translation": "\"Again, there are a hundred thousand monks.",
+        "source": "T20n1128_001:0543c28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "共持眾寶上妙衣服。",
+        "translation": "Together, they carried a multitude of treasures and marvelous clothing.",
+        "source": "T20n1128_001:0543c28_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "同時來詣菩薩之所。",
+        "translation": "They all came to the bodhisattva's place at the same time.",
+        "source": "T20n1128_001:0543c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "供養恭敬作禮旋繞。",
+        "translation": "They made offerings, paid respect, paid homage, and circled around.",
+        "source": "T20n1128_001:0543c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白菩薩言。",
+        "translation": "They said to the bodhisattva.",
+        "source": "T20n1128_001:0543c29_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等深心樂求最上金剛大乘。",
+        "translation": "\"We are deeply interested in pursuing the supreme adamantine great vehicle.",
+        "source": "T20n1128_001:0544a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦復樂求隨眾生性相應三摩地三摩鉢底。",
+        "translation": "We're also delighted to pursue the samādhi-samāpatti that's associated with the nature of sentient beings.",
+        "source": "T20n1128_001:0544a01_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "解諸方便證無生忍盡涅槃界。",
+        "translation": "We understand the methods and realize the forbearance of nonarising and the complete extinction of the nirvāṇa sphere.",
+        "source": "T20n1128_001:0544a02_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是時復有國中人民之眾見聞隨喜之者。",
+        "translation": "Again, there were people in that country who saw and heard this and rejoiced.",
+        "source": "T20n1128_001:0544a03_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦皆發起大菩提心。",
+        "translation": "They all aroused the great mind of enlightenment.",
+        "source": "T20n1128_001:0544a04_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時世復有眾多金剛阿闍梨。",
+        "translation": "There were also many Vajra Ajātaśatru in the world.",
+        "source": "T20n1128_001:0544a05_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂覺龍覺授法龍賢授德授海授。",
+        "translation": "They're called Jñānagupta, Jñānagupta, Dharmajñāna, Virtuejñāna, and Oceanjñāna.",
+        "source": "T20n1128_001:0544a05_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等阿闍梨。",
+        "translation": "Such are the preceptors.",
+        "source": "T20n1128_001:0544a06_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得聞菩薩所說相應之法。",
+        "translation": "They all heard the teaching associated with the bodhisattva's teaching.",
+        "source": "T20n1128_001:0544a06_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆悉證得無生法忍。",
+        "translation": "They all realized the forbearance of the nonarising of the Dharma.",
+        "source": "T20n1128_001:0544a07_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時東印度王妙臂。",
+        "translation": "It was then that the king of East India, Miaobi.",
+        "source": "T20n1128_001:0544a07_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與中宮后妃嬪嬙婇女。",
+        "translation": "He and his inner palace consort, ladies, and ladies in waiting.",
+        "source": "T20n1128_001:0544a08_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至城中人民樂法之眾。",
+        "translation": "...and the people of the city who were delighted with the Dharma.",
+        "source": "T20n1128_001:0544a08_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而於根本最上法中三摩地相應之法。",
+        "translation": "They attained the Dharma associated with samādhi, which is the fundamental and highest Dharma.",
+        "source": "T20n1128_001:0544a09_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而得成就隱沒自在。",
+        "translation": "They then attained mastery over concealment.",
+        "source": "T20n1128_001:0544a10_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是印度中復有諸金剛阿闍梨。",
+        "translation": "Here in India, there are also the vajra preceptors.",
+        "source": "T20n1128_001:0544a10_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂賢軍德軍寂靜軍烏多羅軍無邊藏天藏善力藏等。",
+        "translation": "They're called the Good Army, the Virtuous Army, the Quiet Army, the Uttarakuru Army, the Unlimited Treasury, the Celestial Treasury, and the Good Power Treasury.",
+        "source": "T20n1128_001:0544a11_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復有諸婆羅門。",
+        "translation": "\"Again, there are brāhmaṇas.",
+        "source": "T20n1128_001:0544a12_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂捺多婆羅門。",
+        "translation": "They're called the Nadī Brahmins.",
+        "source": "T20n1128_001:0544a13_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "訶哩三謨婆羅門。",
+        "translation": "The Brāhmaṇa of Hāritī Samādhi.",
+        "source": "T20n1128_001:0544a13_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "奔茶利迦婆羅門鉢訥摩婆羅門。",
+        "translation": "The Penjālika Brāhmaṇa Prāgbodhi Brāhmaṇa.",
+        "source": "T20n1128_001:0544a14_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是等阿闍梨婆羅門等。",
+        "translation": "Such are the ācārya brāhmaṇas.",
+        "source": "T20n1128_001:0544a14_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得聞菩薩所說金剛大乘。",
+        "translation": "They can hear what the bodhisattvas teach about the adamantine great vehicle.",
+        "source": "T20n1128_001:0544a15_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及相應三摩地法。",
+        "translation": "and the associated samādhi teachings.",
+        "source": "T20n1128_001:0544a15_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆悉獲得無生法忍。",
+        "translation": "They all attained the patience of the nonarising of the Dharma.",
+        "source": "T20n1128_001:0544a16_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時西印度王百臂。",
+        "translation": "It was then that the King of Western India with a hundred arms.",
+        "source": "T20n1128_001:0544a16_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及彼中宮后妃婇女等。",
+        "translation": "He and his inner palace consort Hakuba and other women heard what the bodhisattva taught about the profound vajra vehicle and its associated samādhi teachings.",
+        "source": "T20n1128_001:0544a17_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "聞菩薩所說甚深金剛大乘及諸法要。",
+        "translation": "They heard what the bodhisattva taught about the profound adamantine great vehicle and the essentials of the Dharma.",
+        "source": "T20n1128_001:0544a17_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆悉證得金剛智所攝相應三摩地成就法。",
+        "translation": "They all realized the accomplishment of the samādhi associated with the knowledge of the vajras.",
+        "source": "T20n1128_001:0544a18_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及隱沒自在。",
+        "translation": "They were able to hide and withdraw freely.",
+        "source": "T20n1128_001:0544a19_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼印度中復有眾多金剛阿闍梨。",
+        "translation": "There are also many vajra preceptors in that part of India.",
+        "source": "T20n1128_001:0544a19_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂智密善密賢密慧密慧賢無垢賢等。",
+        "translation": "They're called wise, mysterious, good, and mysterious, wise, and wise, and they're called the Vimalakīrti Vajrasena.",
+        "source": "T20n1128_001:0544a20_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有諸毘舍。",
+        "translation": "There are also other piśācīs.",
+        "source": "T20n1128_001:0544a21_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所謂善意毘舍印捺囉波毘舍。",
+        "translation": "They're called well-intentioned viśas and Indrabhāvaśas.",
+        "source": "T20n1128_001:0544a22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "印捺囉囉毘舍淨光毘舍等。",
+        "translation": "Indrāṇapāla Vaiśālī, Pure Light Vaiśālī, and so forth.",
+        "source": "T20n1128_001:0544a22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是阿闍梨及毘舍等。",
+        "translation": "These are the preceptors and vihāsas.",
+        "source": "T20n1128_001:0544a23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得聞菩薩所說最上金剛大乘及諸妙法。",
+        "translation": "They've heard the bodhisattva's teaching of the supreme adamantine great vehicle and other wonderful things.",
+        "source": "T20n1128_001:0544a23_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆悉證得無生法忍。",
+        "translation": "They all realized the forbearance of the nonarising of all dharmas.",
+        "source": "T20n1128_001:0544a24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "北印度王尾哩野(二合)嚩哩摩。",
+        "translation": "The king of northern India, Vaiḍūrya, was with the inner palace, the queens, and the women.",
+        "source": "T20n1128_001:0544a25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與中宮后妃婇女等。",
+        "translation": "He was accompanied by his inner palace, his consort, and his daughters.",
+        "source": "T20n1128_001:0544a25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及諸人民沙門婆羅門等。",
+        "translation": "He and his people, ascetics, priests, and so forth.",
+        "source": "T20n1128_001:0544a26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "樂入金剛大乘者。",
+        "translation": "They were happy to enter the vajra great vehicle.",
+        "source": "T20n1128_001:0544a27_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是法中得聞菩薩演說法要。",
+        "translation": "In this way, they'll hear the bodhisattva expound the essentials of the Dharma.",
+        "source": "T20n1128_001:0544a27_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦於金剛智所攝真實相應三摩地成就及隱沒自在。",
+        "translation": "They also attain accomplishment of the samādhi that's truly associated with the wisdom of the vajras and have the freedom to disappear.",
+        "source": "T20n1128_001:0544a28_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時金剛手菩薩。",
+        "translation": "It was then that the Vajrapāṇi Bodhisattva addressed the kings and ascetics.",
+        "source": "T20n1128_001:0544a29_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為彼諸王及沙門婆羅門乃至毘舍等。",
+        "translation": "He spoke for those kings, ascetics, priests, and even Vaiśravaṇa.",
+        "source": "T20n1128_001:0544a29_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於六年中演說金剛大乘及諸法要。",
+        "translation": "During six years, he explained the vajra great vehicle and the essentials of the Dharma.",
+        "source": "T20n1128_001:0544b01_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "使彼諸王及樂法之眾悉獲利樂。",
+        "translation": "It caused those kings and the people who liked the Dharma to attain their benefit and happiness.",
+        "source": "T20n1128_001:0544b02_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復演說諸成就法。",
+        "translation": "He also explained the accomplishment of various teachings.",
+        "source": "T20n1128_001:0544b03_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "謂八大聖藥。",
+        "translation": "They were the eight great sacred medicines.",
+        "source": "T20n1128_001:0544b03_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眼藥劍羂索。",
+        "translation": "The eye-balm and sword, the lasso, and the vajra wheel and vajra pounder.",
+        "source": "T20n1128_001:0544b04_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛輪金剛杵。",
+        "translation": "The vajra wheel, the vajra pounder, and the vajra clapper.",
+        "source": "T20n1128_001:0544b04_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "寶瓶革屣等。",
+        "translation": "A jeweled vase, leather slippers, and so forth.",
+        "source": "T20n1128_001:0544b04_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及人修羅窟。",
+        "translation": "And the cave of the human sūtra.",
+        "source": "T20n1128_001:0544b05_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至敬愛諸成就法。",
+        "translation": "They even revere the accomplished Dharma.",
+        "source": "T20n1128_001:0544b05_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時諸王及一切沙門婆羅門等。",
+        "translation": "The kings and all the ascetics, priests, and so forth.",
+        "source": "T20n1128_001:0544b05_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "而常隨逐聽受教導。",
+        "translation": "They always followed them and listened to their teachings.",
+        "source": "T20n1128_001:0544b06_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時金剛手菩薩告彼眾言。",
+        "translation": "It was then that the Vajrapāṇi Bodhisattva addressed the crowd, saying.",
+        "source": "T20n1128_001:0544b08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "今彼處有大名山號摩呬捺囉。",
+        "translation": "\"There's a great famous mountain over there called Margherā.",
+        "source": "T20n1128_001:0544b08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其山頂上平正廣闊。",
+        "translation": "On top of that mountain, it's flat, square, and wide.",
+        "source": "T20n1128_001:0544b09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "亦有園苑池沼適悅之所。",
+        "translation": "It also has parks, ponds, and marshes that are pleasant places.",
+        "source": "T20n1128_001:0544b09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等諸王及沙門婆羅門吠舍首陀等。",
+        "translation": "You kings, ascetics, priests, Vaiśravaṇas, and others.",
+        "source": "T20n1128_001:0544b10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有修學金剛大乘。",
+        "translation": "All of you cultivating the vajra great vehicle can go up there together to cultivate it.",
+        "source": "T20n1128_001:0544b11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆可同往彼山修習而住。",
+        "translation": "They can all go to that mountain together, train, and stay there.",
+        "source": "T20n1128_001:0544b11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "後於異時忽告眾曰。",
+        "translation": "Then, at another time, he suddenly told the crowd.",
+        "source": "T20n1128_001:0544b12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼日清淨光明如來應正等覺將入涅槃。",
+        "translation": "\"The Tathāgata of Clear Light of that sun should be Perfectly Enlightened and will enter nirvāṇa.",
+        "source": "T20n1128_001:0544b12_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等今可與我同至佛所求受灌頂。",
+        "translation": "Now, you may go with me to the Buddha and seek to receive the consecration.",
+        "source": "T20n1128_001:0544b13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時修習金剛大乘諸會眾等。",
+        "translation": "The congregation then cultivated the vajra great vehicle.",
+        "source": "T20n1128_001:0544b14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即與菩薩共持種種殊妙香華。",
+        "translation": "They then joined the bodhisattva in carrying a variety of exquisite flowers and incense.",
+        "source": "T20n1128_001:0544b15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "往詣日清淨光明如來之所。",
+        "translation": "They went to the Tathāgata's place of pure daily radiance.",
+        "source": "T20n1128_001:0544b15_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "既至彼已奉上香華。",
+        "translation": "Once they arrived, they presented them with incense and flowers.",
+        "source": "T20n1128_001:0544b16_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作大供養旋繞讚歎。",
+        "translation": "They made a great offering, circled around, and praised him.",
+        "source": "T20n1128_001:0544b17_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "頭面著地禮佛雙足。",
+        "translation": "They bowed their heads to the ground and saluted the Buddha's feet.",
+        "source": "T20n1128_001:0544b17_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修敬畢已共坐佛前。",
+        "translation": "After cultivating reverence, they sat down together in front of the Buddha.",
+        "source": "T20n1128_001:0544b18_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時金剛手菩薩於眾會前。",
+        "translation": "At that point, the Vajrapāṇi Bodhisattva was in front of the congregation.",
+        "source": "T20n1128_001:0544b19_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "偏袒右肩右膝著地。",
+        "translation": "He bent his right shoulder and knelt on his right knee.",
+        "source": "T20n1128_001:0544b19_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛合掌安自心上。",
+        "translation": "He placed his palms together with the vajra on top of his heart.",
+        "source": "T20n1128_001:0544b20_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "白世尊言我承如來教勅往彼王宮。",
+        "translation": "He said to the Bhagavān, \"I've been instructed by the Tathāgata to go to that king's palace.",
+        "source": "T20n1128_001:0544b20_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為諸王等及沙門婆羅門。",
+        "translation": "I went there to serve all the kings and ascetics, priests, and mendicants.",
+        "source": "T20n1128_001:0544b21_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至一切發菩提心求學金剛大乘者。",
+        "translation": "...and everyone who has aroused the mind of enlightenment and seeks to learn the adamantine great vehicle.",
+        "source": "T20n1128_001:0544b22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即為演說金剛大乘。",
+        "translation": "I'll explain the adamantine great vehicle for them.",
+        "source": "T20n1128_001:0544b22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及於諸根境界所緣所作種種之法。",
+        "translation": "He explained the various teachings and the various things that he did based on the objects of his senses and realms.",
+        "source": "T20n1128_001:0544b23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "皆令獲得無生法忍。",
+        "translation": "They will all cause them to attain the patience of the nonarising of all phenomena.",
+        "source": "T20n1128_001:0544b24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "世尊我今欲於如來金剛大乘法中。",
+        "translation": "Bhagavān, now I want to share the Tathāgata's vajra great vehicle teaching with those students seeking to receive the consecration.",
+        "source": "T20n1128_001:0544b24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與彼學眾求受灌頂。",
+        "translation": "With those students, I'd like to seek to receive the consecration.",
+        "source": "T20n1128_001:0544b25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "唯願如來慈悲聽許。",
+        "translation": "Please let the Tathāgata have the compassion to hear and approve of it.",
+        "source": "T20n1128_001:0544b25_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時日清淨光明如來。",
+        "translation": "It was then that the Vairocana Tathāgata of Clear Light looked around at him.",
+        "source": "T20n1128_001:0544b26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "左右顧視已。",
+        "translation": "After looking around, he looked at them.",
+        "source": "T20n1128_001:0544b26_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於口中放大光明。",
+        "translation": "He then magnified a bright light in his mouth.",
+        "source": "T20n1128_001:0544b27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "其光五色於剎那間。",
+        "translation": "Its light was five-colored for a split second.",
+        "source": "T20n1128_001:0544b27_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "照於恒河沙等諸佛剎土。",
+        "translation": "It shines in all the buddha-lands of the Ganges River Sands.",
+        "source": "T20n1128_001:0544b28_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "上至梵世悉皆照耀。",
+        "translation": "It shines in all of them, up to the Brahma world.",
+        "source": "T20n1128_001:0544b28_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "如是照已尋復旋還。",
+        "translation": "After shining like this, he then looked around and returned.",
+        "source": "T20n1128_001:0544b29_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "却從世尊口中而入。",
+        "translation": "He then entered through the Bhagavān's mouth.",
+        "source": "T20n1128_001:0544b29_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼光明所照佛剎一切如來。",
+        "translation": "All the tathāgatas in the buddha blaze that that light illuminated then praised it and said.",
+        "source": "T20n1128_001:0544c01_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悉皆稱讚作如是言。",
+        "translation": "They all praised them and said.",
+        "source": "T20n1128_001:0544c02_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼金剛大乘即攝一切乘。",
+        "translation": "'That vajra great vehicle takes in all vehicles.",
+        "source": "T20n1128_001:0544c02_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "乃至過去未來現在亦復如是。",
+        "translation": "Even in the past, future, and present, it's likewise.",
+        "source": "T20n1128_001:0544c03_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "彼金剛大乘即攝一切乘。",
+        "translation": "That adamantine great vehicle is the vehicle that contains all vehicles.'",
+        "source": "T20n1128_001:0544c03_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼學眾即於金剛大乘悉得灌頂。",
+        "translation": "That group of students then was all given the consecration of the vajra great vehicle.",
+        "source": "T20n1128_001:0544c04_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "得灌頂已咸以頭面。",
+        "translation": "After they received the consecration, they all bowed their heads and faces.",
+        "source": "T20n1128_001:0544c05_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "禮世尊日清淨光明如來及金剛手菩薩足。",
+        "translation": "They bowed their heads and faces to the feet of the Bhagavān, the Tathāgata of Vimalakīrti, and the Vajrapāṇi Bodhisattva.",
+        "source": "T20n1128_001:0544c05_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復繞千匝歡喜讚歎各還本處。",
+        "translation": "They then circled them a thousand times, rejoiced, and praised them as they returned to their original locations.",
+        "source": "T20n1128_001:0544c06_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時日清淨光明如來。",
+        "translation": "It was then that the Tathāgata Sun Clear Light came into parinirvāṇa.",
+        "source": "T20n1128_001:0544c08_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於後不久入般涅槃。",
+        "translation": "Shortly thereafter, he entered parinirvāṇa.",
+        "source": "T20n1128_001:0544c08_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛涅槃後法住千歲。",
+        "translation": "After the Buddha's nirvāṇa, the Dharma abides for a thousand years.",
+        "source": "T20n1128_001:0544c09_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時金剛手菩薩復往摩呬捺囉山中安住。",
+        "translation": "The Vajrapāṇi Bodhisattva then went back to stay at Mount Mahānārā.",
+        "source": "T20n1128_001:0544c09_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時一切金剛大乘學眾互相謂言。",
+        "translation": "All the students of the Vajra Great Vehicle then said to each other.",
+        "source": "T20n1128_001:0544c10_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等本師菩薩還止彼山。",
+        "translation": "\"Our original teacher, the bodhisattva, is still staying on that mountain.",
+        "source": "T20n1128_001:0544c11_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我等宜應同往彼山奉事供養。",
+        "translation": "It's appropriate for us to go to that mountain together to serve and make offerings to him.",
+        "source": "T20n1128_001:0544c11_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "及自修習金剛大乘一切事業。",
+        "translation": "We should also cultivate for ourselves all the undertakings of the Vajragarbha.",
+        "source": "T20n1128_001:0544c12_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時彼學眾一切沙門婆羅門等。",
+        "translation": "At the time, all the ascetics and priests in the group of trainees said.",
+        "source": "T20n1128_001:0544c13_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "各持香華及諸供具。",
+        "translation": "Each of them carried incense, flowers, and other offerings.",
+        "source": "T20n1128_001:0544c13_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即同往詣摩呬捺囉山金剛手菩薩所。",
+        "translation": "They all went together to Vajrapāṇi Bodhisattva's place on Mount Mahākauṣṭhila.",
+        "source": "T20n1128_001:0544c14_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "至彼山已各各奉上香華寶玩。",
+        "translation": "When they arrived on that mountain, they each presented an offering of flowers, fragrances, and jewelry.",
+        "source": "T20n1128_001:0544c15_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "供養菩薩旋繞禮拜瞻仰而住。",
+        "translation": "They offered their support to the bodhisattva, circled around, venerated, and venerated him.",
+        "source": "T20n1128_001:0544c16_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是菩薩見彼學眾。",
+        "translation": "The bodhisattva then saw this group of students.",
+        "source": "T20n1128_001:0544c16_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "咸來山中親近供養。",
+        "translation": "They all came to the mountain to get close to him and make offerings.",
+        "source": "T20n1128_001:0544c17_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "修習事業志意堅固。",
+        "translation": "Their resolve to cultivate their endeavors was resolute.",
+        "source": "T20n1128_001:0544c17_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即告眾曰汝等各各。",
+        "translation": "He then addressed the crowd, saying, \"Each of you.",
+        "source": "T20n1128_001:0544c18_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於我最上金剛大乘聞諸法要。",
+        "translation": "'In my supreme Vajra great vehicle, I've heard the essentials of the Dharma.",
+        "source": "T20n1128_001:0544c18_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "悉皆證得無生法忍盡涅槃界。",
+        "translation": "They've all realized the forbearance of nonarising and the complete extinction of the realm of nirvāṇa.'",
+        "source": "T20n1128_001:0544c19_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等諦聽。",
+        "translation": "All of you, listen closely.",
+        "source": "T20n1128_001:0544c20_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我師日清淨光明如來已入涅槃。",
+        "translation": "Our teacher, the Tathāgata of Pure Light of the Sun, has entered nirvāṇa.",
+        "source": "T20n1128_001:0544c20_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "眾生薄福無所恃怙。",
+        "translation": "Weak in merit, sentient beings have nothing to rely on.",
+        "source": "T20n1128_001:0544c21_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "我所告汝汝善遵行。",
+        "translation": "I'm telling you to follow it well.",
+        "source": "T20n1128_001:0544c21_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "佛入滅後彼金剛阿闍梨是汝等師。",
+        "translation": "After the Buddha's entry into nirvāṇa, that Vajra Ajari will be your teacher.",
+        "source": "T20n1128_001:0544c22_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故彼阿闍梨而能護持佛剎。",
+        "translation": "Why is it that that priest can protect the Buddha's buddha?",
+        "source": "T20n1128_001:0544c22_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復能護持金剛祕密法故能說四字名。",
+        "translation": "He's also able to protect the vajra's secret dharma so he can speak the four-syllable name.",
+        "source": "T20n1128_001:0544c23_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此即是如來相。",
+        "translation": "This is the Tathāgata's characteristic.",
+        "source": "T20n1128_001:0544c24_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等大眾當於彼師。",
+        "translation": "You people should go to that teacher.",
+        "source": "T20n1128_001:0544c24_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "常加尊重禮拜供養同於佛想。",
+        "translation": "Always pay respect to them, venerate them, make offerings, and think of them as buddhas.",
+        "source": "T20n1128_001:0544c25_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即感一切如來常加擁護。",
+        "translation": "That will cause all the tathāgatas to constantly embrace and protect you.",
+        "source": "T20n1128_001:0544c26_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即是見前一切如來。",
+        "translation": "That's how you see all the previous Tathāgatas.",
+        "source": "T20n1128_001:0544c26_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等學眾常於彼師奉事供給。",
+        "translation": "You students always serve and make offerings to that teacher.",
+        "source": "T20n1128_001:0544c27_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "凡所受用坐臥等具。",
+        "translation": "Whatever you accept for use, such as sitting and lying down, you'll be provided with.",
+        "source": "T20n1128_001:0544c27_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "衣服湯藥一切所須無令闕乏。",
+        "translation": "Clothing, bathing, and medicine are all necessary, so there's no lack of them.",
+        "source": "T20n1128_001:0544c28_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "雖常侍近不得足蹋師影。",
+        "translation": "Even though they're always close, they can't step on the teacher's shadow.",
+        "source": "T20n1128_001:0544c29_0",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "所有同學無分親疏一心平等。",
+        "translation": "All his fellow students are equal in mind and in heart, regardless of affinity.",
+        "source": "T20n1128_001:0544c29_1",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "善男子若有學人及諸人等。",
+        "translation": "Good sons, suppose there are students and people of that ilk.",
+        "source": "T20n1128_001:0545a01_2",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於金剛阿闍梨及金剛大乘諸學眾等。",
+        "translation": "At the Vajra Ajari and the Vajra Great Vehicle students, they become unbelieving and give rise to bad thoughts.",
+        "source": "T20n1128_001:0545a01_3",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "生不信心發起惡念復加毀謗。",
+        "translation": "They become unbelieving, give rise to bad thoughts, and then denigrate them.",
+        "source": "T20n1128_001:0545a02_4",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "是人果報當墮地獄畜生及諸惡趣。",
+        "translation": "That person's retribution will be damnation, birth in animals, and other bad destinies.",
+        "source": "T20n1128_001:0545a03_5",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "何以故以一切諸法從彼生故。",
+        "translation": "Why is that? It's because all dharmas arise from that.",
+        "source": "T20n1128_001:0545a04_6",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有毀者是即毀法故獲是報。",
+        "translation": "If someone disparages them, that's the result of disparaging the Dharma.",
+        "source": "T20n1128_001:0545a05_7",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有眾生未斷輪迴來求學者。",
+        "translation": "If there are sentient beings who haven't yet ended the cycle of rebirth and come to study, they'll follow their capacity and explain it to them.",
+        "source": "T20n1128_001:0545a05_8",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當隨根性為他演說金剛大乘。",
+        "translation": "He'll explain the vajra great vehicle for them according to their capacity.",
+        "source": "T20n1128_001:0545a06_9",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "當令得入金剛三昧。",
+        "translation": "He will cause them to enter the vajra samādhi.",
+        "source": "T20n1128_001:0545a07_10",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "金剛手菩薩又復告言。",
+        "translation": "Vajrapāṇi also told the bodhisattva again.",
+        "source": "T20n1128_001:0545a07_11",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "此金剛大乘即是一切如來。",
+        "translation": "\"This adamantine great vehicle is the tathāgatas.",
+        "source": "T20n1128_001:0545a08_12",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "一切如來即是大智。",
+        "translation": "The tathāgatas are the great wisdom.",
+        "source": "T20n1128_001:0545a08_13",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝等學眾若有不依三昧違我教者。",
+        "translation": "If you students don't rely on samādhi and disobey my teaching, then you'll be destroyed like ashes.",
+        "source": "T20n1128_001:0545a09_14",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "令汝破壞由如灰燼。",
+        "translation": "I'll cause you to be destroyed like ashes.",
+        "source": "T20n1128_001:0545a10_15",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於是菩薩即以金剛水與學眾等飲。",
+        "translation": "The bodhisattva then gave the students some of the adamantine water to drink.",
+        "source": "T20n1128_001:0545a10_16",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復結大忿怒印安著學眾頂上。",
+        "translation": "He then put the seal of great wrath on the tops of the students' heads.",
+        "source": "T20n1128_001:0545a11_17",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "作加被已。",
+        "translation": "After applying this blessing, he said.",
+        "source": "T20n1128_001:0545a12_18",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復告言佛子。",
+        "translation": "Again, he told them, \"Son of the Buddha.",
+        "source": "T20n1128_001:0545a12_19",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "汝今此身即為金剛三昧所持。",
+        "translation": "\"Now, this body of yours is held by the vajra concentration.",
+        "source": "T20n1128_001:0545a12_20",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "若有違犯不依從者。",
+        "translation": "If you violate it or don't obey it, then...",
+        "source": "T20n1128_001:0545a13_21",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "以我金剛三昧印及忿怒印令彼破壞又復菩薩即如先佛法式。",
+        "translation": "Again, the bodhisattva then did as the previous Buddha had done.",
+        "source": "T20n1128_001:0545a13_22",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "為諸學眾授於灌頂。",
+        "translation": "He gives a consecration to the students.",
+        "source": "T20n1128_001:0545a15_23",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "復誦警覺真言令其覺悟。",
+        "translation": "He also recites the true words of awakening to cause them to awaken.",
+        "source": "T20n1128_001:0545a15_24",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復示與金剛杵自稱己名。",
+        "translation": "Again, he showed them the vajra and claimed his own name.",
+        "source": "T20n1128_001:0545a16_25",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "與諸弟子身分八處而作加被。",
+        "translation": "He addressed the disciples in the eight positions and applied it.",
+        "source": "T20n1128_001:0545a17_26",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "時金剛大乘學眾。",
+        "translation": "The Vajra student of the great vehicle then.",
+        "source": "T20n1128_001:0545a17_27",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於菩薩所受學一切法式。",
+        "translation": "They were taught all the Dharma formulas by the bodhisattva.",
+        "source": "T20n1128_001:0545a18_28",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "畢已即向菩薩。",
+        "translation": "After they finished, they then presented themselves to the bodhisattva.",
+        "source": "T20n1128_001:0545a18_29",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "種種稱讚恭敬供養謝彼菩薩。",
+        "translation": "They praised them in various ways, respected them, made offerings, and thanked the bodhisattva.",
+        "source": "T20n1128_001:0545a19_30",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "又復白言我等各各如菩薩教。",
+        "translation": "They also said, \"We each did as the bodhisattva taught us.",
+        "source": "T20n1128_001:0545a19_31",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "於金剛阿闍梨所。",
+        "translation": "'At the Vajra Ajari's place, we promised to serve, support, respect, and praise him.'",
+        "source": "T20n1128_001:0545a20_32",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "承事供養恭敬讚歎一如聖旨。",
+        "translation": "We will serve, support, respect, and praise him just as the noble one would have wanted.",
+        "source": "T20n1128_001:0545a20_33",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "爾時金剛手菩薩摩訶薩化事畢已。",
+        "translation": "After the Vajrapāṇi Bodhisattva Mahāsattva had finished his task of teaching.",
+        "source": "T20n1128_001:0545a21_34",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "即於彼處隱沒不現。",
+        "translation": "He then disappeared into that place and didn't show up.",
+        "source": "T20n1128_001:0545a22_35",
+        "is_bad_quality": false
+    },
+    {
+        "source_sentence": "◎最上大乘金剛大教寶王經卷上",
+        "translation": "Śrīgupta Dasheng vajra dajiao baowang jing shou",
+        "source": "T20n1128_001:0545a22_36",
+        "is_bad_quality": false
+    }
+]
