@@ -1,0 +1,4387 @@
+[
+    {
+        "source_sentence": "阿毘達磨大毘婆沙論卷第一百",
+        "translation": "Abhidharma-mahāvibhāṣā-śāstra, vol. 100",
+        "source": "T27n1545_158:0800c17_0"
+    },
+    {
+        "source_sentence": "五十八",
+        "translation": "fiftyeight",
+        "source": "T27n1545_158:0800c18_0"
+    },
+    {
+        "source_sentence": "五百大阿羅漢等造",
+        "translation": "created by the five hundred great arhats",
+        "source": "T27n1545_158:0800c20_0"
+    },
+    {
+        "source_sentence": "三藏法師玄奘奉　詔譯",
+        "translation": "Sanzang fashi Xuanzang Feng imperial edict translating",
+        "source": "T27n1545_158:0800c21_0"
+    },
+    {
+        "source_sentence": "定蘊第七中得納息第一之二",
+        "translation": "The first and second of the seventh parts of the absorptions in the aggregate of concentration",
+        "source": "T27n1545_158:0800c22_0"
+    },
+    {
+        "source_sentence": "問得非得何差別。",
+        "translation": "What's the difference between what's attained and what's not attained?",
+        "source": "T27n1545_158:0800c23_0"
+    },
+    {
+        "source_sentence": "答名即差別。",
+        "translation": "The answer is that names are distinctions.",
+        "source": "T27n1545_158:0800c23_1"
+    },
+    {
+        "source_sentence": "謂名得。",
+        "translation": "It's called attainment.",
+        "source": "T27n1545_158:0800c23_2"
+    },
+    {
+        "source_sentence": "名非得。",
+        "translation": "It's called not attained.",
+        "source": "T27n1545_158:0800c23_3"
+    },
+    {
+        "source_sentence": "復次得有漏無漏。",
+        "translation": "Furthermore, they attain contaminated and uncontaminated.",
+        "source": "T27n1545_158:0800c24_4"
+    },
+    {
+        "source_sentence": "非得唯有漏。",
+        "translation": "What's not attained is only contaminated.",
+        "source": "T27n1545_158:0800c24_5"
+    },
+    {
+        "source_sentence": "復次得善不善無記。",
+        "translation": "Furthermore, they attain goodness, unskillfulness, and indeterminacy.",
+        "source": "T27n1545_158:0800c24_6"
+    },
+    {
+        "source_sentence": "非得唯無記。",
+        "translation": "What's not attained is only indeterminate.",
+        "source": "T27n1545_158:0800c25_7"
+    },
+    {
+        "source_sentence": "復次得三界繫及不繫。",
+        "translation": "Furthermore, they attain the three realms that are bound and unfettered.",
+        "source": "T27n1545_158:0800c25_8"
+    },
+    {
+        "source_sentence": "非得唯三界繫。",
+        "translation": "It's not that they can only be bound to the three realms.",
+        "source": "T27n1545_158:0800c26_9"
+    },
+    {
+        "source_sentence": "復次得學無學非學非無學。",
+        "translation": "Furthermore, they attain training that's neither learned nor post-learning, neither learned nor post-learning.",
+        "source": "T27n1545_158:0800c26_10"
+    },
+    {
+        "source_sentence": "非得唯非學非無學。",
+        "translation": "What's not attained is only what's neither learned nor post-learning.",
+        "source": "T27n1545_158:0800c27_11"
+    },
+    {
+        "source_sentence": "復次得見所斷。",
+        "translation": "Furthermore, they attain what's stopped by seeing.",
+        "source": "T27n1545_158:0800c27_12"
+    },
+    {
+        "source_sentence": "修所斷。",
+        "translation": "What's cultivated and what's stopped...",
+        "source": "T27n1545_158:0800c28_0"
+    },
+    {
+        "source_sentence": "不斷。",
+        "translation": "They don't stop.",
+        "source": "T27n1545_158:0800c28_1"
+    },
+    {
+        "source_sentence": "非得唯修所斷。",
+        "translation": "It's not that attainment is only cultivated and stopped by cultivation.",
+        "source": "T27n1545_158:0800c28_2"
+    },
+    {
+        "source_sentence": "復次得染污不染污。",
+        "translation": "Furthermore, they attain the defiled and undefiled.",
+        "source": "T27n1545_158:0800c28_3"
+    },
+    {
+        "source_sentence": "非得唯不染污。",
+        "translation": "What's not attained is only undefiled.",
+        "source": "T27n1545_158:0800c29_4"
+    },
+    {
+        "source_sentence": "復次得異熟非異熟。",
+        "translation": "Furthermore, they attain ripening and not ripening.",
+        "source": "T27n1545_158:0800c29_5"
+    },
+    {
+        "source_sentence": "非得唯非異熟。",
+        "translation": "What's not attained is only what's not ripening.",
+        "source": "T27n1545_158:0800c29_6"
+    },
+    {
+        "source_sentence": "復次得有異熟無異熟。",
+        "translation": "Furthermore, it's possible to have ripening and no ripening.",
+        "source": "T27n1545_158:0801a01_7"
+    },
+    {
+        "source_sentence": "非得唯無異熟。",
+        "translation": "What's not attained is only the absence of ripening.",
+        "source": "T27n1545_158:0801a01_8"
+    },
+    {
+        "source_sentence": "復次得與所得。",
+        "translation": "Furthermore, what's attained and what's attained?",
+        "source": "T27n1545_158:0801a02_9"
+    },
+    {
+        "source_sentence": "法或俱起。",
+        "translation": "Some dharmas may arise together with each other.",
+        "source": "T27n1545_158:0801a02_10"
+    },
+    {
+        "source_sentence": "或不俱起。",
+        "translation": "They may or may not arise together.",
+        "source": "T27n1545_158:0801a02_11"
+    },
+    {
+        "source_sentence": "非得與所不得法必不俱起。",
+        "translation": "What's not attained and what's not attained mustn't arise together with the Dharma that's attained.",
+        "source": "T27n1545_158:0801a03_12"
+    },
+    {
+        "source_sentence": "復次得苦集道三諦攝。",
+        "translation": "Furthermore, they attain the three noble truths of suffering, accumulation, and path.",
+        "source": "T27n1545_158:0801a03_13"
+    },
+    {
+        "source_sentence": "非得唯苦集諦攝。",
+        "translation": "It's not that attainment is only included in the noble truth of suffering and arising.",
+        "source": "T27n1545_158:0801a04_14"
+    },
+    {
+        "source_sentence": "以如是等門。",
+        "translation": "It's because of these kinds of approaches.",
+        "source": "T27n1545_158:0801a04_15"
+    },
+    {
+        "source_sentence": "應知得非得差別。",
+        "translation": "You should know the distinction between attainment and non-attainment.",
+        "source": "T27n1545_158:0801a05_16"
+    },
+    {
+        "source_sentence": "問何故得與所得法性類。",
+        "translation": "Q Why can it be given to the Dharma-nature type that's attained?",
+        "source": "T27n1545_158:0801a06_0"
+    },
+    {
+        "source_sentence": "或同或異耶。",
+        "translation": "Is it the same or different?",
+        "source": "T27n1545_158:0801a06_1"
+    },
+    {
+        "source_sentence": "答得有三種。",
+        "translation": "Answer: There are three kinds of attainment.",
+        "source": "T27n1545_158:0801a06_2"
+    },
+    {
+        "source_sentence": "一有為法得。",
+        "translation": "One is the attainment of conditioned dharmas.",
+        "source": "T27n1545_158:0801a07_3"
+    },
+    {
+        "source_sentence": "二擇滅得。",
+        "translation": "The second is the attainment of cessation by discriminating.",
+        "source": "T27n1545_158:0801a07_4"
+    },
+    {
+        "source_sentence": "三非擇滅得。",
+        "translation": "Three, it's not attained by cessation of choice.",
+        "source": "T27n1545_158:0801a07_5"
+    },
+    {
+        "source_sentence": "有為法得。",
+        "translation": "conditioned dharmas are attained.",
+        "source": "T27n1545_158:0801a08_6"
+    },
+    {
+        "source_sentence": "隨所得法性類差別。",
+        "translation": "They are differentiated according to the type of Dharma nature that's attained.",
+        "source": "T27n1545_158:0801a08_7"
+    },
+    {
+        "source_sentence": "以有為法能有作用引自得故。",
+        "translation": "It's because conditioned dharmas can have an effect and lead to self-acquisition.",
+        "source": "T27n1545_158:0801a08_8"
+    },
+    {
+        "source_sentence": "擇滅得隨能證道性類差別。",
+        "translation": "The attainment of cessation by discrimination follows the distinctions in the type of path that can be realized.",
+        "source": "T27n1545_158:0801a09_9"
+    },
+    {
+        "source_sentence": "以諸擇滅自無作用。",
+        "translation": "It's because the cessation of discrimination has no effect on its own.",
+        "source": "T27n1545_158:0801a10_10"
+    },
+    {
+        "source_sentence": "但由道力求證。",
+        "translation": "It's simply because of the power of the path that they seek realization.",
+        "source": "T27n1545_158:0801a10_11"
+    },
+    {
+        "source_sentence": "彼時引彼得故。",
+        "translation": "It's because they then cite Peter.",
+        "source": "T27n1545_158:0801a11_12"
+    },
+    {
+        "source_sentence": "非擇滅得。",
+        "translation": "It's not the attainment of cessation by choice.",
+        "source": "T27n1545_158:0801a11_13"
+    },
+    {
+        "source_sentence": "隨自所依性類差別。",
+        "translation": "They are differentiated according to the nature and types of their own supports.",
+        "source": "T27n1545_158:0801a11_14"
+    },
+    {
+        "source_sentence": "以非擇滅自無作用。",
+        "translation": "It's because non-selective cessation has no effect on its own.",
+        "source": "T27n1545_158:0801a12_15"
+    },
+    {
+        "source_sentence": "非道所求。",
+        "translation": "They aren't sought by the path.",
+        "source": "T27n1545_158:0801a12_16"
+    },
+    {
+        "source_sentence": "彼得但依命根眾同分而現前故。",
+        "translation": "It's because Peter only relies on the same parts of the life root that are present.",
+        "source": "T27n1545_158:0801a13_0"
+    },
+    {
+        "source_sentence": "問非得隨何性類差別。",
+        "translation": "He asks what kind of distinction is there in the nature and type of non-acquisition that follows?",
+        "source": "T27n1545_158:0801a13_1"
+    },
+    {
+        "source_sentence": "答彼定不隨所不得法以相違故。",
+        "translation": "Answer: It's because it's contradictory to not follow the things that are unobtainable in their concentration.",
+        "source": "T27n1545_158:0801a14_2"
+    },
+    {
+        "source_sentence": "又不隨道非道所求故。",
+        "translation": "It's because it doesn't follow the path and isn't sought by the path.",
+        "source": "T27n1545_158:0801a15_3"
+    },
+    {
+        "source_sentence": "但依命根眾同分轉故。",
+        "translation": "It's because they only rely on the same parts of the life root that are transformed.",
+        "source": "T27n1545_158:0801a15_4"
+    },
+    {
+        "source_sentence": "隨所依性類差別。",
+        "translation": "They are differentiated according to the natures and types that they rely on.",
+        "source": "T27n1545_158:0801a16_5"
+    },
+    {
+        "source_sentence": "問若諸非得非擇滅得。",
+        "translation": "Q. If what's not attained and what's not attained by cessation is not attained by choice, then...",
+        "source": "T27n1545_158:0801a16_6"
+    },
+    {
+        "source_sentence": "俱隨所依性類差別者。",
+        "translation": "They all follow the distinctions in the natures and types of supports.",
+        "source": "T27n1545_158:0801a17_7"
+    },
+    {
+        "source_sentence": "所依或異熟。",
+        "translation": "What's relied upon may be retribution.",
+        "source": "T27n1545_158:0801a17_8"
+    },
+    {
+        "source_sentence": "或唯等流。",
+        "translation": "Or it might be only the same as the stream.",
+        "source": "T27n1545_158:0801a18_9"
+    },
+    {
+        "source_sentence": "此二隨何性類差別。",
+        "translation": "These two are distinguished according to their natures and types.",
+        "source": "T27n1545_158:0801a18_10"
+    },
+    {
+        "source_sentence": "答隨等流性以義遍故。",
+        "translation": "Answer: It follows the nature of continuity because its meaning is pervasive.",
+        "source": "T27n1545_158:0801a18_11"
+    },
+    {
+        "source_sentence": "異熟非遍故不隨立。",
+        "translation": "Because retribution is not pervasive, it's not established accordingly.",
+        "source": "T27n1545_158:0801a19_12"
+    },
+    {
+        "source_sentence": "問非得若隨所不得法。",
+        "translation": "If he asks about what's not attained, then he follows the teaching that's not attained.",
+        "source": "T27n1545_158:0801a19_13"
+    },
+    {
+        "source_sentence": "性類差別有何過耶。",
+        "translation": "What's wrong with the distinction between natures and types?",
+        "source": "T27n1545_158:0801a20_14"
+    },
+    {
+        "source_sentence": "答斷善根者應成就善。",
+        "translation": "Answer: Those who cut off good roots should accomplish goodness.",
+        "source": "T27n1545_158:0801a20_15"
+    },
+    {
+        "source_sentence": "已離欲染者應成就不善。",
+        "translation": "Those who have parted with the defilement of desire should achieve unwholesomeness.",
+        "source": "T27n1545_158:0801a21_16"
+    },
+    {
+        "source_sentence": "諸無學者應成就染。",
+        "translation": "Those who aren't learned should accomplish defilement.",
+        "source": "T27n1545_158:0801a22_17"
+    },
+    {
+        "source_sentence": "異生應成就三乘無漏法。",
+        "translation": "Ordinary people should accomplish the uncontaminated dharmas of the three vehicles.",
+        "source": "T27n1545_158:0801a22_18"
+    },
+    {
+        "source_sentence": "退果應成果。",
+        "translation": "It's the fruit of retrogression that should be realized.",
+        "source": "T27n1545_158:0801a23_19"
+    },
+    {
+        "source_sentence": "捨向應成向。",
+        "translation": "The dedication of equanimity should become dedication.",
+        "source": "T27n1545_158:0801a23_20"
+    },
+    {
+        "source_sentence": "二滅非得應是無為。",
+        "translation": "The two kinds of cessation that are not attained should be nonexistent.",
+        "source": "T27n1545_158:0801a23_21"
+    },
+    {
+        "source_sentence": "由此等過。",
+        "translation": "It's because of these faults.",
+        "source": "T27n1545_158:0801a24_22"
+    },
+    {
+        "source_sentence": "非得不可隨所不得性類有異。",
+        "translation": "There's a difference in the nature of what's not attained and what's not attained according to what's attained.",
+        "source": "T27n1545_158:0801a24_23"
+    },
+    {
+        "source_sentence": "問所說得為更有得為無耶。",
+        "translation": "Q. Is what's said to be attained and what's attained not attained?",
+        "source": "T27n1545_158:0801a26_0"
+    },
+    {
+        "source_sentence": "若更有得者得傳有得。",
+        "translation": "If there's another attainment, then it's attained and transmitted to someone who has attained.",
+        "source": "T27n1545_158:0801a26_1"
+    },
+    {
+        "source_sentence": "何非無窮。",
+        "translation": "Why isn't it infinite?",
+        "source": "T27n1545_158:0801a27_2"
+    },
+    {
+        "source_sentence": "若更無得者。",
+        "translation": "If there's no more attainment, then...",
+        "source": "T27n1545_158:0801a27_3"
+    },
+    {
+        "source_sentence": "此得由何可說成就。",
+        "translation": "How can this attainment be described as accomplished?",
+        "source": "T27n1545_158:0801a27_4"
+    },
+    {
+        "source_sentence": "答應說得。",
+        "translation": "Answer: It should be said that it's attained.",
+        "source": "T27n1545_158:0801a28_5"
+    },
+    {
+        "source_sentence": "復有得。",
+        "translation": "Again, there's attainment.",
+        "source": "T27n1545_158:0801a28_6"
+    },
+    {
+        "source_sentence": "問若爾應成無窮。",
+        "translation": "Q If that's the case, then it should become infinite.",
+        "source": "T27n1545_158:0801a28_7"
+    },
+    {
+        "source_sentence": "答無窮亦無有過。",
+        "translation": "Answer: There's no limit and nothing wrong with it.",
+        "source": "T27n1545_158:0801a29_8"
+    },
+    {
+        "source_sentence": "由此生死難斷。",
+        "translation": "As a result, birth and death are difficult to stop.",
+        "source": "T27n1545_158:0801a29_9"
+    },
+    {
+        "source_sentence": "難越。",
+        "translation": "It's difficult to cross over.",
+        "source": "T27n1545_158:0801b01_0"
+    },
+    {
+        "source_sentence": "或無量得皆一剎那俱生。",
+        "translation": "Or they may be immeasurable and all arise at the same time in one moment.",
+        "source": "T27n1545_158:0801b01_1"
+    },
+    {
+        "source_sentence": "而滅無無窮過。",
+        "translation": "There's no limit to the error of cessation.",
+        "source": "T27n1545_158:0801b01_2"
+    },
+    {
+        "source_sentence": "如是說者。",
+        "translation": "He explains it this way.",
+        "source": "T27n1545_158:0801b02_3"
+    },
+    {
+        "source_sentence": "一剎那中但有三法。",
+        "translation": "In a single moment, there are only three things.",
+        "source": "T27n1545_158:0801b02_4"
+    },
+    {
+        "source_sentence": "一彼法。",
+        "translation": "One is that it's a teaching.",
+        "source": "T27n1545_158:0801b02_5"
+    },
+    {
+        "source_sentence": "二得。",
+        "translation": "The second is attained.",
+        "source": "T27n1545_158:0801b03_0"
+    },
+    {
+        "source_sentence": "三得得。",
+        "translation": "Three are attained.",
+        "source": "T27n1545_158:0801b03_1"
+    },
+    {
+        "source_sentence": "由得故成就彼法及得得。",
+        "translation": "It's because of their attainment that they accomplish those things and attain them.",
+        "source": "T27n1545_158:0801b03_2"
+    },
+    {
+        "source_sentence": "由得得故成就得。",
+        "translation": "It's because of attaining attaining that it accomplishes attainment.",
+        "source": "T27n1545_158:0801b03_3"
+    },
+    {
+        "source_sentence": "由更互相得故非無窮。",
+        "translation": "Because they are further attained by each other, they aren't infinite.",
+        "source": "T27n1545_158:0801b04_4"
+    },
+    {
+        "source_sentence": "是故說色蘊行蘊一得得。",
+        "translation": "That's why it's said that the form aggregate and the practice aggregate are one attainment.",
+        "source": "T27n1545_158:0801b04_5"
+    },
+    {
+        "source_sentence": "乃至識蘊行蘊一得得。",
+        "translation": "It's even the aggregate of consciousness, the aggregate of volition, and the aggregate of one attainment.",
+        "source": "T27n1545_158:0801b05_6"
+    },
+    {
+        "source_sentence": "有為無為一得得。",
+        "translation": "What's conditioned and unconditioned is one attainment that's attained.",
+        "source": "T27n1545_158:0801b06_7"
+    },
+    {
+        "source_sentence": "問為一一法各別有得。",
+        "translation": "Q. Is there a separate attainment for each one thing?",
+        "source": "T27n1545_158:0801b06_8"
+    },
+    {
+        "source_sentence": "為不爾耶。",
+        "translation": "Why isn't that?",
+        "source": "T27n1545_158:0801b07_0"
+    },
+    {
+        "source_sentence": "或有說者。",
+        "translation": "Some people say.",
+        "source": "T27n1545_158:0801b07_1"
+    },
+    {
+        "source_sentence": "俱有法同一得得。",
+        "translation": "There are both dharmas that are the same as attaining and attaining.",
+        "source": "T27n1545_158:0801b07_2"
+    },
+    {
+        "source_sentence": "問若爾不應作如是說。",
+        "translation": "Q. If that's the case, you shouldn't say it this way.",
+        "source": "T27n1545_158:0801b07_3"
+    },
+    {
+        "source_sentence": "色蘊行蘊一得得等。",
+        "translation": "The form aggregate, the practice aggregate, one attainment, and so forth.",
+        "source": "T27n1545_158:0801b08_4"
+    },
+    {
+        "source_sentence": "答欲顯法與得得。",
+        "translation": "Answer: I want to show that the teaching and the attainment are attained.",
+        "source": "T27n1545_158:0801b09_0"
+    },
+    {
+        "source_sentence": "無異得故作如是說。",
+        "translation": "Because there's no difference in attainment, he explains it this way.",
+        "source": "T27n1545_158:0801b09_1"
+    },
+    {
+        "source_sentence": "然實不無五蘊四蘊一得得義。",
+        "translation": "However, there's really no meaning of the five aggregates and four aggregates as one attainment.",
+        "source": "T27n1545_158:0801b10_0"
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_158:0801b10_1"
+    },
+    {
+        "source_sentence": "一一法各別得得。",
+        "translation": "Each one of these dharmas is attained separately.",
+        "source": "T27n1545_158:0801b10_2"
+    },
+    {
+        "source_sentence": "唯除得得。",
+        "translation": "It's only except for attaining it.",
+        "source": "T27n1545_158:0801b11_3"
+    },
+    {
+        "source_sentence": "與彼法同一得得。",
+        "translation": "They're the same as those dharmas that are attained.",
+        "source": "T27n1545_158:0801b11_4"
+    },
+    {
+        "source_sentence": "問若爾便有無窮過失。",
+        "translation": "Q If that's the case, then there are limitless faults.",
+        "source": "T27n1545_158:0801b12_0"
+    },
+    {
+        "source_sentence": "以得皆有生住異滅。",
+        "translation": "It's because they all attain birth, abiding, dissimilarity, and cessation.",
+        "source": "T27n1545_158:0801b12_1"
+    },
+    {
+        "source_sentence": "生等復有得與得得。",
+        "translation": "Again, there's acquisition and attainment of birth and so forth.",
+        "source": "T27n1545_158:0801b13_2"
+    },
+    {
+        "source_sentence": "彼得得得復有生等。",
+        "translation": "Peter attains it and then there's birth and so forth.",
+        "source": "T27n1545_158:0801b13_3"
+    },
+    {
+        "source_sentence": "如是展轉成無窮故。",
+        "translation": "It's because they are thus developed and accomplished in an infinite way.",
+        "source": "T27n1545_158:0801b14_4"
+    },
+    {
+        "source_sentence": "答無窮復有何過。",
+        "translation": "Answer: There's no limit. What's wrong with that?",
+        "source": "T27n1545_158:0801b14_5"
+    },
+    {
+        "source_sentence": "由此生死難斷難越。",
+        "translation": "As a result, birth and death are difficult to stop and difficult to transcend.",
+        "source": "T27n1545_158:0801b15_0"
+    },
+    {
+        "source_sentence": "或此諸法皆一剎那俱生而滅無無窮過。",
+        "translation": "Perhaps these things all arise together in one moment and cease without limit.",
+        "source": "T27n1545_158:0801b15_1"
+    },
+    {
+        "source_sentence": "如是說者。",
+        "translation": "He explains it this way.",
+        "source": "T27n1545_158:0801b16_2"
+    },
+    {
+        "source_sentence": "法與生等同一得得。",
+        "translation": "The dharmas are the same as birth and so forth in terms of attainment.",
+        "source": "T27n1545_158:0801b16_3"
+    },
+    {
+        "source_sentence": "相與所相極親近故。",
+        "translation": "It's because the marks and the marks are extremely intimate.",
+        "source": "T27n1545_158:0801b17_4"
+    },
+    {
+        "source_sentence": "由此善通色蘊行蘊一得得等。",
+        "translation": "As a result, he well understands the form aggregate, the practice aggregate, the one attainment, and so forth.",
+        "source": "T27n1545_158:0801b17_5"
+    },
+    {
+        "source_sentence": "又去如前無窮過失。",
+        "translation": "Again, there are no limitless faults in going away as before.",
+        "source": "T27n1545_158:0801b18_6"
+    },
+    {
+        "source_sentence": "如說得如是非得與得相違。",
+        "translation": "As it's said, 'acquisition and non-acquisition are at odds with acquisition.'",
+        "source": "T27n1545_158:0801b18_7"
+    },
+    {
+        "source_sentence": "應隨廣說。",
+        "translation": "It should be explained in detail.",
+        "source": "T27n1545_158:0801b19_8"
+    },
+    {
+        "source_sentence": "然無同時非得非得。",
+        "translation": "However, there's nothing that's neither attained nor attained at the same time.",
+        "source": "T27n1545_158:0801b19_9"
+    },
+    {
+        "source_sentence": "有情數法現在前時必與得俱。",
+        "translation": "When sentient beings' numerous dharmas are present, they must be accompanied by attaining them.",
+        "source": "T27n1545_158:0801b20_10"
+    },
+    {
+        "source_sentence": "是故非得起時決定不與非得非得及彼法俱起。",
+        "translation": "Therefore, when non-acquisition arises, it's certain that it doesn't arise together with non-acquisition, non-acquisition, and those dharmas.",
+        "source": "T27n1545_158:0801b21_11"
+    },
+    {
+        "source_sentence": "由此三法互相違故。",
+        "translation": "It's because these three things are at odds with each other.",
+        "source": "T27n1545_158:0801b22_12"
+    },
+    {
+        "source_sentence": "異時說有此則不遮。",
+        "translation": "When it's said to exist at different times, this doesn't obscure it.",
+        "source": "T27n1545_158:0801b22_13"
+    },
+    {
+        "source_sentence": "問過去未來得。",
+        "translation": "He asks about past and future attainments.",
+        "source": "T27n1545_158:0801b24_0"
+    },
+    {
+        "source_sentence": "為成就。",
+        "translation": "It's for the sake of accomplishment.",
+        "source": "T27n1545_158:0801b24_1"
+    },
+    {
+        "source_sentence": "為不成就。",
+        "translation": "It's because they aren't accomplished.",
+        "source": "T27n1545_158:0801b24_2"
+    },
+    {
+        "source_sentence": "若成就者。",
+        "translation": "If it's accomplished, then...",
+        "source": "T27n1545_158:0801b24_3"
+    },
+    {
+        "source_sentence": "則為無窮。",
+        "translation": "Then it's infinite.",
+        "source": "T27n1545_158:0801b25_4"
+    },
+    {
+        "source_sentence": "謂一剎那三法俱起。",
+        "translation": "It means that in one moment, the three dharmas are co-arisen.",
+        "source": "T27n1545_158:0801b25_5"
+    },
+    {
+        "source_sentence": "一法。",
+        "translation": "One is the Dharma.",
+        "source": "T27n1545_158:0801b25_6"
+    },
+    {
+        "source_sentence": "二得。",
+        "translation": "The second is attained.",
+        "source": "T27n1545_158:0801b25_7"
+    },
+    {
+        "source_sentence": "三得得。",
+        "translation": "Three are attained.",
+        "source": "T27n1545_158:0801b26_8"
+    },
+    {
+        "source_sentence": "此三滅位有六得生。",
+        "translation": "These three stages of cessation have six attainments that arise.",
+        "source": "T27n1545_158:0801b26_9"
+    },
+    {
+        "source_sentence": "謂三得。",
+        "translation": "They are the three attainments.",
+        "source": "T27n1545_158:0801b26_10"
+    },
+    {
+        "source_sentence": "三得得。",
+        "translation": "Three are attained.",
+        "source": "T27n1545_158:0801b26_11"
+    },
+    {
+        "source_sentence": "此六滅位十二得起。",
+        "translation": "These six stages of cessation are produced in twelve ways.",
+        "source": "T27n1545_158:0801b27_12"
+    },
+    {
+        "source_sentence": "謂六得六得得。",
+        "translation": "It's the six attainments and six attainments that are attained.",
+        "source": "T27n1545_158:0801b27_13"
+    },
+    {
+        "source_sentence": "十二滅位。",
+        "translation": "The twelve stages of cessation...",
+        "source": "T27n1545_158:0801b27_14"
+    },
+    {
+        "source_sentence": "二十四得起。",
+        "translation": "Twenty-four can arise.",
+        "source": "T27n1545_158:0801b28_15"
+    },
+    {
+        "source_sentence": "謂十二得十二得得。",
+        "translation": "They are the twelve attainments and twelve attainments.",
+        "source": "T27n1545_158:0801b28_16"
+    },
+    {
+        "source_sentence": "如是展轉無始時來。",
+        "translation": "Thus, it's been going on since beginningless time.",
+        "source": "T27n1545_158:0801b28_17"
+    },
+    {
+        "source_sentence": "乃至後際念念倍起其得無限。",
+        "translation": "Even at the latter end, he repeats it twice over and gives rise to infinite attainments.",
+        "source": "T27n1545_158:0801b29_18"
+    },
+    {
+        "source_sentence": "隣次剎那倍增尚爾況於隔越前前剎那諸得倍增。",
+        "translation": "It's even more so when the next moment increases by a factor that's close to it. How could there be a doubling of the attainments in the previous moment before the interval?",
+        "source": "T27n1545_158:0801c01_19"
+    },
+    {
+        "source_sentence": "是故展轉有無窮過。",
+        "translation": "Therefore, there's an infinite progression of faults.",
+        "source": "T27n1545_158:0801c02_20"
+    },
+    {
+        "source_sentence": "若不成就便與此蘊後說相違。",
+        "translation": "If it's not accomplished, then it's at odds with what's said later in the explanation of this aggregate.",
+        "source": "T27n1545_158:0801c02_21"
+    },
+    {
+        "source_sentence": "如說從無色界歿生欲界時。",
+        "translation": "As it's said, when he arises in the desire realm from the formless realm with anger, then he'll be born in the form realm.",
+        "source": "T27n1545_158:0801c03_22"
+    },
+    {
+        "source_sentence": "所得蘊界處。",
+        "translation": "It's the place where the aggregates, elements, and fields are attained.",
+        "source": "T27n1545_158:0801c04_23"
+    },
+    {
+        "source_sentence": "大種。",
+        "translation": "The great seeds...",
+        "source": "T27n1545_158:0801c04_24"
+    },
+    {
+        "source_sentence": "善根。",
+        "translation": "The good roots...",
+        "source": "T27n1545_158:0801c04_25"
+    },
+    {
+        "source_sentence": "不善根。",
+        "translation": "The unwholesome roots...",
+        "source": "T27n1545_158:0801c04_26"
+    },
+    {
+        "source_sentence": "無記根。",
+        "translation": "The indeterminate faculty...",
+        "source": "T27n1545_158:0801c04_27"
+    },
+    {
+        "source_sentence": "結縛隨眠。",
+        "translation": "They are bound by bonds and latent tendencies.",
+        "source": "T27n1545_158:0801c05_28"
+    },
+    {
+        "source_sentence": "隨煩惱纏。",
+        "translation": "It follows the afflictive fetters.",
+        "source": "T27n1545_158:0801c05_29"
+    },
+    {
+        "source_sentence": "當言曾得得未曾得得。",
+        "translation": "You should say that they've attained it before and haven't attained it yet.",
+        "source": "T27n1545_158:0801c05_30"
+    },
+    {
+        "source_sentence": "答善染污法當言曾得得。",
+        "translation": "Answer: Good and defiled dharmas should be called once attained.",
+        "source": "T27n1545_158:0801c06_31"
+    },
+    {
+        "source_sentence": "異熟法當言未曾得得。",
+        "translation": "The ripening dharmas should be said to have never been attained.",
+        "source": "T27n1545_158:0801c06_32"
+    },
+    {
+        "source_sentence": "如此則非不成就。",
+        "translation": "Thus, it's not something that isn't accomplished.",
+        "source": "T27n1545_158:0801c07_33"
+    },
+    {
+        "source_sentence": "以得亦有善染污故。",
+        "translation": "It's because attaining also has good defilement.",
+        "source": "T27n1545_158:0801c07_34"
+    },
+    {
+        "source_sentence": "答應作是說。",
+        "translation": "Answer: You should say this.",
+        "source": "T27n1545_158:0801c08_35"
+    },
+    {
+        "source_sentence": "過去未來得有成就者。",
+        "translation": "Someone who has accomplished something in the past and future will attain it.",
+        "source": "T27n1545_158:0801c08_36"
+    },
+    {
+        "source_sentence": "以善及染污法等有三世得故。",
+        "translation": "It's because good and defiled dharmas and so forth have three worldly attainments.",
+        "source": "T27n1545_158:0801c09_37"
+    },
+    {
+        "source_sentence": "問若爾豈非無窮。",
+        "translation": "Q If that's the case, isn't it infinite?",
+        "source": "T27n1545_158:0801c09_38"
+    },
+    {
+        "source_sentence": "答無窮復有何過。",
+        "translation": "Answer: There's no limit. What's wrong with that?",
+        "source": "T27n1545_158:0801c10_39"
+    },
+    {
+        "source_sentence": "由此生死難斷難越。",
+        "translation": "As a result, birth and death are difficult to stop and difficult to transcend.",
+        "source": "T27n1545_158:0801c10_40"
+    },
+    {
+        "source_sentence": "或彼諸得一剎那生無無窮過。",
+        "translation": "Perhaps those attainments are produced in a single moment without the fault of infinity.",
+        "source": "T27n1545_158:0801c11_41"
+    },
+    {
+        "source_sentence": "又此諸得但可言多。",
+        "translation": "Furthermore, these attainments can only be called numerous.",
+        "source": "T27n1545_158:0801c12_0"
+    },
+    {
+        "source_sentence": "而非無窮猶有分限故。",
+        "translation": "It's because they aren't infinite but still have limitations.",
+        "source": "T27n1545_158:0801c12_1"
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say:",
+        "source": "T27n1545_158:0801c13_2"
+    },
+    {
+        "source_sentence": "無有成就過去未來得者。",
+        "translation": "There's no one who has accomplished past and future attainments.",
+        "source": "T27n1545_158:0801c13_3"
+    },
+    {
+        "source_sentence": "是故無無窮過。",
+        "translation": "Therefore, there's no limitless fault.",
+        "source": "T27n1545_158:0801c13_4"
+    },
+    {
+        "source_sentence": "問此蘊後說當云何通。",
+        "translation": "He asks what will be explained after this aggregate?",
+        "source": "T27n1545_158:0801c14_5"
+    },
+    {
+        "source_sentence": "答此蘊後文說所得法。",
+        "translation": "Answer: The latter part of this aggregate explains the Dharma that's attained.",
+        "source": "T27n1545_158:0801c14_6"
+    },
+    {
+        "source_sentence": "非能得得。",
+        "translation": "It's not something that can be attained.",
+        "source": "T27n1545_158:0801c15_7"
+    },
+    {
+        "source_sentence": "斯有何咎。",
+        "translation": "What's the fault of this?",
+        "source": "T27n1545_158:0801c15_8"
+    },
+    {
+        "source_sentence": "如是說者。",
+        "translation": "He explains it this way.",
+        "source": "T27n1545_158:0801c15_9"
+    },
+    {
+        "source_sentence": "應如初說得如所得應成就故。",
+        "translation": "It should be as explained in the first section, because it should be accomplished if it's attained as it was attained.",
+        "source": "T27n1545_158:0801c16_10"
+    },
+    {
+        "source_sentence": "又以得故名沙門果。",
+        "translation": "It's also called the ascetic fruit because it's attained.",
+        "source": "T27n1545_158:0801c16_11"
+    },
+    {
+        "source_sentence": "若過未得不成就者。",
+        "translation": "If someone goes beyond what's not yet attained and doesn't accomplish it.",
+        "source": "T27n1545_158:0801c17_12"
+    },
+    {
+        "source_sentence": "諸沙門果應剎那捨剎那得。",
+        "translation": "The fruits of the ascetic should be moment-by-moment abandoned and moment-by-moment attained.",
+        "source": "T27n1545_158:0801c17_13"
+    },
+    {
+        "source_sentence": "然無是事。",
+        "translation": "However, there's no such thing.",
+        "source": "T27n1545_158:0801c18_14"
+    },
+    {
+        "source_sentence": "又諸聖道有三時捨。",
+        "translation": "Also, there are three times when the noble paths are abandoned.",
+        "source": "T27n1545_158:0801c18_15"
+    },
+    {
+        "source_sentence": "謂退時。",
+        "translation": "It's when they regress.",
+        "source": "T27n1545_158:0801c19_16"
+    },
+    {
+        "source_sentence": "得果時。",
+        "translation": "When he attains fruition, it's the time of attainment.",
+        "source": "T27n1545_158:0801c19_17"
+    },
+    {
+        "source_sentence": "練根時。",
+        "translation": "When he trains his faculties.",
+        "source": "T27n1545_158:0801c19_18"
+    },
+    {
+        "source_sentence": "若過未得不成就者。",
+        "translation": "If someone goes beyond what's not yet attained and doesn't accomplish it.",
+        "source": "T27n1545_158:0801c19_19"
+    },
+    {
+        "source_sentence": "則聖道應剎那剎那捨。",
+        "translation": "Then the noble path should be abandoned moment by moment and moment by moment.",
+        "source": "T27n1545_158:0801c20_20"
+    },
+    {
+        "source_sentence": "非謂三時欲令無如是過。",
+        "translation": "It doesn't mean that the three times want to make it so that there are no such faults.",
+        "source": "T27n1545_158:0801c20_21"
+    },
+    {
+        "source_sentence": "故有成就過未諸得。",
+        "translation": "Therefore, there are those who have accomplished past and future attainments.",
+        "source": "T27n1545_158:0801c21_22"
+    },
+    {
+        "source_sentence": "若成就所得法亦成就彼得。",
+        "translation": "If he accomplishes the acquired dharmas, he'll also accomplish Peter.",
+        "source": "T27n1545_158:0801c22_0"
+    },
+    {
+        "source_sentence": "若所得法捨彼得亦捨。",
+        "translation": "If the attained dharmas are abandoned, Peter also abandons them.",
+        "source": "T27n1545_158:0801c22_1"
+    },
+    {
+        "source_sentence": "以法與得捨得同故。",
+        "translation": "It's because the Dharma is the same as attaining equanimity and attaining equanimity.",
+        "source": "T27n1545_158:0801c23_2"
+    },
+    {
+        "source_sentence": "然得總有四種。",
+        "translation": "However, there are always four kinds of attainment.",
+        "source": "T27n1545_158:0801c23_3"
+    },
+    {
+        "source_sentence": "一在彼法前。",
+        "translation": "One is in front of that dharma.",
+        "source": "T27n1545_158:0801c24_4"
+    },
+    {
+        "source_sentence": "二在彼法後。",
+        "translation": "Second, it's after that dharma.",
+        "source": "T27n1545_158:0801c24_5"
+    },
+    {
+        "source_sentence": "三與彼法俱。",
+        "translation": "Three, it's shared with those dharmas.",
+        "source": "T27n1545_158:0801c24_6"
+    },
+    {
+        "source_sentence": "四非彼法前後及俱。",
+        "translation": "Fourth, it's not the prior and subsequent or simultaneous to those dharmas.",
+        "source": "T27n1545_158:0801c25_0"
+    },
+    {
+        "source_sentence": "若所得法則有六種。",
+        "translation": "If there are six kinds of attained dharmas, then there are six kinds.",
+        "source": "T27n1545_158:0801c25_1"
+    },
+    {
+        "source_sentence": "一有所得法唯有俱得。",
+        "translation": "One is that there are acquired dharmas that are only attained by both.",
+        "source": "T27n1545_158:0801c25_2"
+    },
+    {
+        "source_sentence": "如異熟生等。",
+        "translation": "It's like ripening from retribution and so forth.",
+        "source": "T27n1545_158:0801c26_3"
+    },
+    {
+        "source_sentence": "二有所得法唯有前得。",
+        "translation": "The second is that there are acquired dharmas that are only previously attained.",
+        "source": "T27n1545_158:0801c26_4"
+    },
+    {
+        "source_sentence": "如三類智邊世俗智等。",
+        "translation": "It's like the three kinds of cognition at the end of worldly conventional cognition and so forth.",
+        "source": "T27n1545_158:0801c27_5"
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_158:0801c27_6"
+    },
+    {
+        "source_sentence": "此等亦有俱得。",
+        "translation": "These also have both attainments.",
+        "source": "T27n1545_158:0801c28_7"
+    },
+    {
+        "source_sentence": "三有所得法唯有俱得後得。",
+        "translation": "Three, there are acquired dharmas that are only co-arisen and subsequently attained.",
+        "source": "T27n1545_158:0801c28_8"
+    },
+    {
+        "source_sentence": "如別解脫戒等。",
+        "translation": "It's like the precepts of individual liberation and so forth.",
+        "source": "T27n1545_158:0801c29_9"
+    },
+    {
+        "source_sentence": "四有所得法唯有俱得前得。",
+        "translation": "Fourth, there are acquired dharmas that are only co-arisen and previously attained.",
+        "source": "T27n1545_158:0801c29_10"
+    },
+    {
+        "source_sentence": "如道類智忍等。",
+        "translation": "It's like the cognition and forbearance of types of paths.",
+        "source": "T27n1545_158:0802a01_11"
+    },
+    {
+        "source_sentence": "五有所得法具有前後俱得。",
+        "translation": "Five, there are acquired dharmas that have both prior and subsequent attainments.",
+        "source": "T27n1545_158:0802a01_12"
+    },
+    {
+        "source_sentence": "如所餘善染污等。",
+        "translation": "It's like the remaining good defilements and so forth.",
+        "source": "T27n1545_158:0802a02_13"
+    },
+    {
+        "source_sentence": "六有所得法不可說有前後俱得。",
+        "translation": "Sixth, there are acquired dharmas that can't be described as having both prior and subsequent attainments.",
+        "source": "T27n1545_158:0802a02_14"
+    },
+    {
+        "source_sentence": "而有諸得。",
+        "translation": "Instead, there are attainments.",
+        "source": "T27n1545_158:0802a03_15"
+    },
+    {
+        "source_sentence": "謂擇滅非擇滅。",
+        "translation": "It's the cessation of choice and not the cessation of choice.",
+        "source": "T27n1545_158:0802a03_16"
+    },
+    {
+        "source_sentence": "必無有法唯有法後得者。",
+        "translation": "There must be no dharma but only a dharma that's subsequently attained.",
+        "source": "T27n1545_158:0802a04_17"
+    },
+    {
+        "source_sentence": "現在前時必有得故。",
+        "translation": "It's because there must be attainment in the present and future.",
+        "source": "T27n1545_158:0802a04_18"
+    },
+    {
+        "source_sentence": "一切非得總有三種。",
+        "translation": "All non-acquisitions are generally of three kinds.",
+        "source": "T27n1545_158:0802a05_19"
+    },
+    {
+        "source_sentence": "一在彼法前。",
+        "translation": "One is in front of that dharma.",
+        "source": "T27n1545_158:0802a05_20"
+    },
+    {
+        "source_sentence": "二在彼法後三非彼法前後及俱。",
+        "translation": "The second is at the end of that dharma, and the third is neither before, after, nor simultaneous with that dharma.",
+        "source": "T27n1545_158:0802a06_21"
+    },
+    {
+        "source_sentence": "所不得法亦有三種。",
+        "translation": "There are also three kinds of things that can't be obtained.",
+        "source": "T27n1545_158:0802a06_22"
+    },
+    {
+        "source_sentence": "一有所不得法。",
+        "translation": "One, there's something that doesn't obtain the Dharma.",
+        "source": "T27n1545_158:0802a07_23"
+    },
+    {
+        "source_sentence": "唯有彼前非得謂未來情數畢竟不生法。",
+        "translation": "Only the prior non-acquisition refers to future mental numbers that are ultimately unarisen dharmas.",
+        "source": "T27n1545_158:0802a07_24"
+    },
+    {
+        "source_sentence": "及入無餘涅槃最後剎那心等。",
+        "translation": "They enter nirvāṇa without remainder in the final moment of mind and so forth.",
+        "source": "T27n1545_158:0802a08_25"
+    },
+    {
+        "source_sentence": "二有所不得法。",
+        "translation": "Second, there's something that doesn't obtain the Dharma.",
+        "source": "T27n1545_158:0802a09_26"
+    },
+    {
+        "source_sentence": "通有彼前彼後非得。",
+        "translation": "It's shared with what's neither prior nor subsequently attained.",
+        "source": "T27n1545_158:0802a09_27"
+    },
+    {
+        "source_sentence": "謂餘隨應有情數法。",
+        "translation": "The other dharmas follow the number of sentient beings who should be disciplined.",
+        "source": "T27n1545_158:0802a10_28"
+    },
+    {
+        "source_sentence": "三有所不得法。",
+        "translation": "Three, there's something that doesn't obtain the Dharma.",
+        "source": "T27n1545_158:0802a10_29"
+    },
+    {
+        "source_sentence": "無彼前後及俱非得而有非得。",
+        "translation": "There's nothing that's not attained before or after them, and neither is there what's not attained at the same time.",
+        "source": "T27n1545_158:0802a11_30"
+    },
+    {
+        "source_sentence": "謂擇滅非擇滅。",
+        "translation": "It's the cessation of choice and not the cessation of choice.",
+        "source": "T27n1545_158:0802a11_31"
+    },
+    {
+        "source_sentence": "必無非得可與法俱。",
+        "translation": "There must be no non-acquisition that can be shared with the Dharma.",
+        "source": "T27n1545_158:0802a12_32"
+    },
+    {
+        "source_sentence": "以法現在前時。",
+        "translation": "It's because when the teaching is present in front of him.",
+        "source": "T27n1545_158:0802a12_33"
+    },
+    {
+        "source_sentence": "是所得者必有得故。",
+        "translation": "It's because those who attain it must have attained it.",
+        "source": "T27n1545_158:0802a13_34"
+    },
+    {
+        "source_sentence": "非所得者。",
+        "translation": "Someone who doesn't attain it...",
+        "source": "T27n1545_158:0802a13_35"
+    },
+    {
+        "source_sentence": "無得無非得故。",
+        "translation": "It's because there's neither attainment nor non-attainment.",
+        "source": "T27n1545_158:0802a13_36"
+    },
+    {
+        "source_sentence": "亦無唯有彼後非得。",
+        "translation": "Nor is there anything that isn't attained only after that.",
+        "source": "T27n1545_158:0802a14_37"
+    },
+    {
+        "source_sentence": "非無始來恒成就彼。",
+        "translation": "It's not that they've always accomplished them since beginningless time.",
+        "source": "T27n1545_158:0802a14_38"
+    },
+    {
+        "source_sentence": "未捨必起彼類盡故。",
+        "translation": "It's because those who haven't yet abandoned them will surely give rise to the extinction of those types.",
+        "source": "T27n1545_158:0802a15_39"
+    },
+    {
+        "source_sentence": "然諸非得性羸劣故。",
+        "translation": "However, it's because the nature of non-acquisition is weak.",
+        "source": "T27n1545_158:0802a15_40"
+    },
+    {
+        "source_sentence": "唯成就現在。",
+        "translation": "It's only the accomplishment of the present.",
+        "source": "T27n1545_158:0802a16_41"
+    },
+    {
+        "source_sentence": "一一剎那得已即捨。",
+        "translation": "After attaining it in a single moment, he then abandons it.",
+        "source": "T27n1545_158:0802a16_42"
+    },
+    {
+        "source_sentence": "於未得彼法及已捨位。",
+        "translation": "In those who haven't yet attained that teaching and those who have abandoned it.",
+        "source": "T27n1545_158:0802a16_43"
+    },
+    {
+        "source_sentence": "恒有此非得。",
+        "translation": "There's always something that's not attained.",
+        "source": "T27n1545_158:0802a17_44"
+    },
+    {
+        "source_sentence": "應知。",
+        "translation": "You should know that.",
+        "source": "T27n1545_158:0802a17_45"
+    },
+    {
+        "source_sentence": "見道所起得有十五類。",
+        "translation": "There are fifteen types of attainments that arise from the path of seeing.",
+        "source": "T27n1545_158:0802a18_0"
+    },
+    {
+        "source_sentence": "即十五心時俱起諸得。",
+        "translation": "That is, when fifteen minds are present, they all give rise to attainments.",
+        "source": "T27n1545_158:0802a18_1"
+    },
+    {
+        "source_sentence": "見道滅位與自所起諸得俱滅。",
+        "translation": "The stage of seeing the path's cessation is accompanied by the cessation of the acquisitions that arise from themselves.",
+        "source": "T27n1545_158:0802a19_2"
+    },
+    {
+        "source_sentence": "如日沒時與自所起光明俱沒。",
+        "translation": "It's like when the sun goes down, it disappears along with the light that arises from itself.",
+        "source": "T27n1545_158:0802a19_3"
+    },
+    {
+        "source_sentence": "然苦法智忍有十五得。",
+        "translation": "Still, there are fifteen attainments of the patience of knowledge of suffering as a dharma.",
+        "source": "T27n1545_158:0802a20_4"
+    },
+    {
+        "source_sentence": "苦法智有十四得。",
+        "translation": "Knowledge of the law in relation to suffering has fourteen acquisitions:",
+        "source": "T27n1545_158:0802a21_5"
+    },
+    {
+        "source_sentence": "乃至道類智忍但有一得。",
+        "translation": "It goes so far as to say that there's only one attainment of the tolerance of cognition of types of paths.",
+        "source": "T27n1545_158:0802a21_6"
+    },
+    {
+        "source_sentence": "問見道得為但有爾所。",
+        "translation": "He asks whether the path of seeing attains that which exists only in this way.",
+        "source": "T27n1545_158:0802a22_7"
+    },
+    {
+        "source_sentence": "為更有餘。",
+        "translation": "It's because there's something else.",
+        "source": "T27n1545_158:0802a22_8"
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_158:0802a22_9"
+    },
+    {
+        "source_sentence": "但有爾所。",
+        "translation": "But there are such and such things.",
+        "source": "T27n1545_158:0802a23_10"
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_158:0802a23_11"
+    },
+    {
+        "source_sentence": "更有餘。",
+        "translation": "There's something else.",
+        "source": "T27n1545_158:0802a23_12"
+    },
+    {
+        "source_sentence": "未來世不生諸得而不可說。",
+        "translation": "In the future, they won't give rise to attainments that can't be explained.",
+        "source": "T27n1545_158:0802a23_13"
+    },
+    {
+        "source_sentence": "此不應理。",
+        "translation": "This is unreasonable.",
+        "source": "T27n1545_158:0802a24_14"
+    },
+    {
+        "source_sentence": "寧當說無。",
+        "translation": "How could it be said to be nonexistent?",
+        "source": "T27n1545_158:0802a24_15"
+    },
+    {
+        "source_sentence": "不應言有而不可說。",
+        "translation": "It shouldn't be said to exist but can't be explained.",
+        "source": "T27n1545_158:0802a24_16"
+    },
+    {
+        "source_sentence": "如是說者。",
+        "translation": "He explains it this way.",
+        "source": "T27n1545_158:0802a25_17"
+    },
+    {
+        "source_sentence": "更有餘未來得。",
+        "translation": "There are other future attainments.",
+        "source": "T27n1545_158:0802a25_18"
+    },
+    {
+        "source_sentence": "苦法智忍一得俱生。",
+        "translation": "The cognition of suffering as a dharma and the tolerance of suffering are produced together with one attainment.",
+        "source": "T27n1545_158:0802a26_19"
+    },
+    {
+        "source_sentence": "忍得相望互無因義。",
+        "translation": "The meaning of forbearance attaining mutual dependence is that there's no cause for each other.",
+        "source": "T27n1545_158:0802a26_20"
+    },
+    {
+        "source_sentence": "苦法智三得俱生。",
+        "translation": "Consciousness of the Dharma of suffering arises together with the three attainments.",
+        "source": "T27n1545_158:0802a27_21"
+    },
+    {
+        "source_sentence": "二道得。",
+        "translation": "The second is the attainment of the path.",
+        "source": "T27n1545_158:0802a27_22"
+    },
+    {
+        "source_sentence": "一離繫得。",
+        "translation": "One is attained by being free of fetters.",
+        "source": "T27n1545_158:0802a27_23"
+    },
+    {
+        "source_sentence": "二道得者。",
+        "translation": "The second is the attainment of the path.",
+        "source": "T27n1545_158:0802a27_24"
+    },
+    {
+        "source_sentence": "謂苦法智忍得。",
+        "translation": "It's the attainment of the tolerance of knowledge of suffering as a dharma.",
+        "source": "T27n1545_158:0802a28_25"
+    },
+    {
+        "source_sentence": "苦法智得。",
+        "translation": "It's attained by the cognition of painful dharmas.",
+        "source": "T27n1545_158:0802a28_26"
+    },
+    {
+        "source_sentence": "一離繫得者。",
+        "translation": "One is attained by being free of fetters.",
+        "source": "T27n1545_158:0802a28_27"
+    },
+    {
+        "source_sentence": "謂欲界見苦所斷十繫得滅。",
+        "translation": "They are the ten fetters that are stopped by seeing suffering in the desire realm and attaining cessation.",
+        "source": "T27n1545_158:0802a29_0"
+    },
+    {
+        "source_sentence": "十離繫得起。",
+        "translation": "Ten are free of fetters that can arise.",
+        "source": "T27n1545_158:0802a29_1"
+    },
+    {
+        "source_sentence": "苦法智與彼三得互不為因。",
+        "translation": "The cognition of painful dharmas and the three other attainments are not mutually exclusive causes.",
+        "source": "T27n1545_158:0802a29_2"
+    },
+    {
+        "source_sentence": "苦法智忍與彼三得皆有因義。",
+        "translation": "The forbearance of knowledge of the Dharma of suffering and the three other attainments all have a causal meaning.",
+        "source": "T27n1545_158:0802b01_3"
+    },
+    {
+        "source_sentence": "苦類智忍四得俱生。",
+        "translation": "Consciousness and tolerance of suffering as a type are produced together with the four attainments.",
+        "source": "T27n1545_158:0802b02_4"
+    },
+    {
+        "source_sentence": "三道得一離繫得。",
+        "translation": "The three paths attain one that's free of fetters.",
+        "source": "T27n1545_158:0802b02_5"
+    },
+    {
+        "source_sentence": "苦類智忍與彼四得互不為因。",
+        "translation": "The forbearance of knowledge of suffering and the other four attainments are not mutually exclusive causes.",
+        "source": "T27n1545_158:0802b03_6"
+    },
+    {
+        "source_sentence": "苦法智忍為四得因。",
+        "translation": "Tolerance of knowledge of the Dharma of suffering is the cause of the four attainments.",
+        "source": "T27n1545_158:0802b04_7"
+    },
+    {
+        "source_sentence": "苦法智為三得因。",
+        "translation": "Knowledge of the Dharma of suffering as suffering is the cause of the three attainments.",
+        "source": "T27n1545_158:0802b04_8"
+    },
+    {
+        "source_sentence": "除苦法智忍得。",
+        "translation": "It's the attainment of the knowledge that removes the cognition of suffering as a dharma and tolerates it.",
+        "source": "T27n1545_158:0802b05_0"
+    },
+    {
+        "source_sentence": "以加行善法勝非劣因故。",
+        "translation": "It's because the good qualities of applied practices are superior and not inferior causes.",
+        "source": "T27n1545_158:0802b05_1"
+    },
+    {
+        "source_sentence": "有為法得隨法勝劣故。",
+        "translation": "It's because conditioned dharmas attain the superiority and inferiority of following dharmas.",
+        "source": "T27n1545_158:0802b06_0"
+    },
+    {
+        "source_sentence": "苦類智六得俱生。",
+        "translation": "Suffering cognition of types arises together with the six attainments.",
+        "source": "T27n1545_158:0802b06_1"
+    },
+    {
+        "source_sentence": "四道得。",
+        "translation": "The four paths are attained.",
+        "source": "T27n1545_158:0802b06_2"
+    },
+    {
+        "source_sentence": "二離繫得。",
+        "translation": "The second is the attainment of freedom from bondage.",
+        "source": "T27n1545_158:0802b07_3"
+    },
+    {
+        "source_sentence": "苦類智與彼六得互不為因苦法智忍為六得因。",
+        "translation": "The cognition of suffering and the six attainments are not mutually exclusive causes of each other, and the tolerance of suffering as a Dharma is the cause of the six attainments.",
+        "source": "T27n1545_158:0802b07_4"
+    },
+    {
+        "source_sentence": "苦法智為五得因。",
+        "translation": "Knowledge of the Dharma of suffering as suffering is the cause of the five attainments.",
+        "source": "T27n1545_158:0802b08_5"
+    },
+    {
+        "source_sentence": "除苦法智忍得。",
+        "translation": "It's the attainment of the knowledge that removes the cognition of suffering as a dharma and tolerates it.",
+        "source": "T27n1545_158:0802b09_0"
+    },
+    {
+        "source_sentence": "以彼劣故。",
+        "translation": "It's because they're inferior.",
+        "source": "T27n1545_158:0802b09_1"
+    },
+    {
+        "source_sentence": "苦類智忍為三得因。",
+        "translation": "The tolerance of suffering as a type of cognition is the cause of the three attainments.",
+        "source": "T27n1545_158:0802b09_2"
+    },
+    {
+        "source_sentence": "除前三得以彼劣故。",
+        "translation": "Except for the first three, it's because they attain their inferiority.",
+        "source": "T27n1545_158:0802b10_3"
+    },
+    {
+        "source_sentence": "問不與前二道得作因。",
+        "translation": "He asks whether it's the cause that doesn't give rise to the previous two paths.",
+        "source": "T27n1545_158:0802b10_4"
+    },
+    {
+        "source_sentence": "是事可爾彼所得劣故。",
+        "translation": "It's because the things they attain are inferior.",
+        "source": "T27n1545_158:0802b11_5"
+    },
+    {
+        "source_sentence": "不與前離繫得作因。",
+        "translation": "It's not the cause of being freed from the previous fetters and attaining their effect.",
+        "source": "T27n1545_158:0802b11_6"
+    },
+    {
+        "source_sentence": "云何可爾。",
+        "translation": "How can that be?",
+        "source": "T27n1545_158:0802b12_7"
+    },
+    {
+        "source_sentence": "彼所得最勝故。",
+        "translation": "It's because it's the most superior attainable.",
+        "source": "T27n1545_158:0802b12_8"
+    },
+    {
+        "source_sentence": "答有為法得隨所得法勝劣彼所引故。",
+        "translation": "Answer: It's because conditioned dharmas attain the superiority of the acquired dharmas and are induced by them.",
+        "source": "T27n1545_158:0802b12_9"
+    },
+    {
+        "source_sentence": "無為法得隨道勝劣道所引故。",
+        "translation": "It's because the unconditioned dharmas attain following paths that are directed by superior and inferior paths.",
+        "source": "T27n1545_158:0802b13_10"
+    },
+    {
+        "source_sentence": "彼道劣故彼得非因。",
+        "translation": "Because their path is inferior, Peter isn't the cause.",
+        "source": "T27n1545_158:0802b14_11"
+    },
+    {
+        "source_sentence": "如是乃至道類智忍二十二得俱生。",
+        "translation": "Thus, it's up to the twenty-two attainments of the knowledge and forbearance of the path that are co-arisen.",
+        "source": "T27n1545_158:0802b14_12"
+    },
+    {
+        "source_sentence": "十五道得。",
+        "translation": "The fifteen paths are attained.",
+        "source": "T27n1545_158:0802b15_13"
+    },
+    {
+        "source_sentence": "七離繫得。",
+        "translation": "7 attained by being free of fetters...",
+        "source": "T27n1545_158:0802b16_0"
+    },
+    {
+        "source_sentence": "道類智忍與彼諸得互不為因。",
+        "translation": "The cognition and forbearance of the path are not mutually exclusive causes of each other's attainments.",
+        "source": "T27n1545_158:0802b16_1"
+    },
+    {
+        "source_sentence": "苦法智忍皆與二十二得作因。",
+        "translation": "The forbearance of knowledge of the Dharma of suffering is the cause of the twenty-two attainments.",
+        "source": "T27n1545_158:0802b17_0"
+    },
+    {
+        "source_sentence": "苦法智與二十一得作因。",
+        "translation": "Consciousness of the Dharma of suffering and the twenty-one attainments are the causes.",
+        "source": "T27n1545_158:0802b17_1"
+    },
+    {
+        "source_sentence": "除苦法智忍得乃至道法智。",
+        "translation": "He's free of the cognition of the Dharma of suffering and attains the cognition of the path up to the cognition of the Dharma of the path.",
+        "source": "T27n1545_158:0802b18_2"
+    },
+    {
+        "source_sentence": "但與三得作因。",
+        "translation": "It's simply the cause of the three attainments.",
+        "source": "T27n1545_158:0802b19_3"
+    },
+    {
+        "source_sentence": "謂二道得。",
+        "translation": "It's the attainment of the two paths.",
+        "source": "T27n1545_158:0802b19_4"
+    },
+    {
+        "source_sentence": "一離繫得。",
+        "translation": "One is attained by being free of fetters.",
+        "source": "T27n1545_158:0802b19_5"
+    },
+    {
+        "source_sentence": "非前十九得因以彼劣故。",
+        "translation": "It's not the cause of the previous nineteen attainments because they are inferior.",
+        "source": "T27n1545_158:0802b19_6"
+    },
+    {
+        "source_sentence": "由此故說頗有前生無漏法。",
+        "translation": "Therefore, it's said that there are often uncontaminated dharmas that were previously produced.",
+        "source": "T27n1545_158:0802b20_7"
+    },
+    {
+        "source_sentence": "非後生無漏法因耶。",
+        "translation": "It's not the cause of subsequently arisen uncontaminated dharmas?",
+        "source": "T27n1545_158:0802b21_8"
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_158:0802b21_9"
+    },
+    {
+        "source_sentence": "謂勝於劣。",
+        "translation": "It's superior to inferior.",
+        "source": "T27n1545_158:0802b21_10"
+    },
+    {
+        "source_sentence": "苦法智忍現在前時。",
+        "translation": "When the forbearance of knowledge of suffering as a dharma presents itself, then...",
+        "source": "T27n1545_158:0802b23_0"
+    },
+    {
+        "source_sentence": "修未來無量苦法智忍。",
+        "translation": "He cultivates the forbearance of knowledge of the immeasurable suffering of dharmas in the future.",
+        "source": "T27n1545_158:0802b23_1"
+    },
+    {
+        "source_sentence": "此現在忍與所修為因。",
+        "translation": "This present forbearance and what's cultivated are the causes.",
+        "source": "T27n1545_158:0802b24_0"
+    },
+    {
+        "source_sentence": "彼是此果。",
+        "translation": "They are the result of this.",
+        "source": "T27n1545_158:0802b24_1"
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_158:0802b24_2"
+    },
+    {
+        "source_sentence": "此現在忍非所修為因彼非此果。",
+        "translation": "This present forbearance isn't the cause of what's cultivated, and that is not the result of this one.",
+        "source": "T27n1545_158:0802b24_3"
+    },
+    {
+        "source_sentence": "以彼竟無一剎那現在前故。",
+        "translation": "It's because they don't even have a single moment presently manifested.",
+        "source": "T27n1545_158:0802b25_4"
+    },
+    {
+        "source_sentence": "評曰。",
+        "translation": "Commentary:",
+        "source": "T27n1545_158:0802b26_5"
+    },
+    {
+        "source_sentence": "應說此為彼因彼是此果。",
+        "translation": "It should be said that this is the cause, and that this is the result.",
+        "source": "T27n1545_158:0802b26_6"
+    },
+    {
+        "source_sentence": "一相續攝非劣道故。",
+        "translation": "It's because one continuity is included in a path that's not inferior.",
+        "source": "T27n1545_158:0802b27_7"
+    },
+    {
+        "source_sentence": "如是乃至金剛喻定現在前時。",
+        "translation": "Thus, it goes so far as to say that when the adamantine metaphor of concentration is present in front of him.",
+        "source": "T27n1545_158:0802b27_8"
+    },
+    {
+        "source_sentence": "修未來無量金剛喻定。",
+        "translation": "He cultivates the immeasurable adamantine metaphor of concentration in the future.",
+        "source": "T27n1545_158:0802b28_9"
+    },
+    {
+        "source_sentence": "此現在定與所修為因彼是此果。",
+        "translation": "This is the result of this present concentration and what's cultivated as its cause.",
+        "source": "T27n1545_158:0802b28_10"
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_158:0802b29_11"
+    },
+    {
+        "source_sentence": "此現在定非所修因彼非此果。",
+        "translation": "This present concentration is definitely not a cultivated cause, and that's not the result of this one.",
+        "source": "T27n1545_158:0802b29_12"
+    },
+    {
+        "source_sentence": "以彼竟無一剎那現在前故。",
+        "translation": "It's because they don't even have a single moment presently manifested.",
+        "source": "T27n1545_158:0802c01_13"
+    },
+    {
+        "source_sentence": "評曰。",
+        "translation": "Commentary:",
+        "source": "T27n1545_158:0802c02_14"
+    },
+    {
+        "source_sentence": "應說此為彼因彼是此果。",
+        "translation": "It should be said that this is the cause, and that this is the result.",
+        "source": "T27n1545_158:0802c02_15"
+    },
+    {
+        "source_sentence": "一相續攝非劣道故。",
+        "translation": "It's because one continuity is included in a path that's not inferior.",
+        "source": "T27n1545_158:0802c03_0"
+    },
+    {
+        "source_sentence": "已生苦法智忍。",
+        "translation": "He's already produced the tolerance of knowledge of suffering as a dharma.",
+        "source": "T27n1545_158:0802c03_1"
+    },
+    {
+        "source_sentence": "與不生苦法智忍為因。",
+        "translation": "It's the cause of forbearance that doesn't give rise to the cognition of suffering as a dharma.",
+        "source": "T27n1545_158:0802c03_2"
+    },
+    {
+        "source_sentence": "亦與苦法智等一切學無學道為因。",
+        "translation": "It's also the cause of all the paths of training and post-learning, such as the knowledge of painful dharmas.",
+        "source": "T27n1545_158:0802c04_3"
+    },
+    {
+        "source_sentence": "已生苦法智與不生苦法智為因。",
+        "translation": "The cognition of suffering that has already arisen is the cause, and the cognition of suffering that doesn't arise is the cause.",
+        "source": "T27n1545_158:0802c05_4"
+    },
+    {
+        "source_sentence": "亦與苦類智忍等。",
+        "translation": "It's also the same as the cognition and forbearance of suffering.",
+        "source": "T27n1545_158:0802c06_5"
+    },
+    {
+        "source_sentence": "一切學無學道為因。",
+        "translation": "All the paths of training and post-learning are causes.",
+        "source": "T27n1545_158:0802c06_6"
+    },
+    {
+        "source_sentence": "不與苦法智忍為因。",
+        "translation": "It's not the cause of the cognition and forbearance of suffering as dharmas.",
+        "source": "T27n1545_158:0802c07_0"
+    },
+    {
+        "source_sentence": "如是乃至已生盡智。",
+        "translation": "Thus, it's up to the point where cognition of exhaustion has already arisen.",
+        "source": "T27n1545_158:0802c07_1"
+    },
+    {
+        "source_sentence": "與未生盡智為因。",
+        "translation": "It's the cause of cognition that doesn't yet give rise to exhaustive cognition.",
+        "source": "T27n1545_158:0802c08_0"
+    },
+    {
+        "source_sentence": "亦與後已生未生一切無學道為因。",
+        "translation": "It's also the cause of all post-arisen and unarisen paths that are post-arisen.",
+        "source": "T27n1545_158:0802c08_1"
+    },
+    {
+        "source_sentence": "不與一切學道為因。",
+        "translation": "It's not the cause of all the paths of training.",
+        "source": "T27n1545_158:0802c09_2"
+    },
+    {
+        "source_sentence": "由此故說頗有已生無漏法。",
+        "translation": "Therefore, it's said that there are quite a lot of uncontaminated dharmas that have already arisen.",
+        "source": "T27n1545_158:0802c09_3"
+    },
+    {
+        "source_sentence": "非未生無漏法因耶。",
+        "translation": "Is it not the cause of uncontaminated dharmas that have yet to arise?",
+        "source": "T27n1545_158:0802c10_4"
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_158:0802c11_5"
+    },
+    {
+        "source_sentence": "謂已生苦法智。",
+        "translation": "It's the cognition of painful dharmas that have already arisen.",
+        "source": "T27n1545_158:0802c11_6"
+    },
+    {
+        "source_sentence": "非未生苦法智忍因。",
+        "translation": "It's not the cause of the forbearance of knowledge of suffering that has yet to arise.",
+        "source": "T27n1545_158:0802c11_7"
+    },
+    {
+        "source_sentence": "乃至已生盡智。",
+        "translation": "It's up to the point where cognition of exhaustion has already arisen.",
+        "source": "T27n1545_158:0802c12_8"
+    },
+    {
+        "source_sentence": "非未生金剛喻定因。",
+        "translation": "It's not the cause of the adamantine metaphor of concentration that has yet to arise.",
+        "source": "T27n1545_158:0802c12_9"
+    },
+    {
+        "source_sentence": "勝道不與劣道為因故。",
+        "translation": "It's because the superior path isn't the cause of the inferior path.",
+        "source": "T27n1545_158:0802c12_10"
+    },
+    {
+        "source_sentence": "苦集諦是有漏彼諸得亦有漏。",
+        "translation": "The noble truth of suffering's accumulation is contaminated, and those attainments are also contaminated.",
+        "source": "T27n1545_158:0802c14_0"
+    },
+    {
+        "source_sentence": "滅諦是無漏。",
+        "translation": "The truth of cessation is uncontaminated.",
+        "source": "T27n1545_158:0802c14_1"
+    },
+    {
+        "source_sentence": "彼諸得或有漏。",
+        "translation": "Those attainments may be contaminated.",
+        "source": "T27n1545_158:0802c15_0"
+    },
+    {
+        "source_sentence": "或無漏道諦是無漏。",
+        "translation": "Perhaps the uncontaminated truth of the path is uncontaminated.",
+        "source": "T27n1545_158:0802c15_1"
+    },
+    {
+        "source_sentence": "彼諸得亦無漏。",
+        "translation": "Those attainments are also uncontaminated.",
+        "source": "T27n1545_158:0802c15_2"
+    },
+    {
+        "source_sentence": "又苦集諦是善不善無記彼諸得亦爾。",
+        "translation": "Furthermore, the noble truth of suffering's accumulation is good, unskillful, and indeterminate, and so are their attainments.",
+        "source": "T27n1545_158:0802c16_3"
+    },
+    {
+        "source_sentence": "滅諦道諦是善。",
+        "translation": "The truth of cessation and the truth of the path are good.",
+        "source": "T27n1545_158:0802c17_4"
+    },
+    {
+        "source_sentence": "彼諸得亦是善。",
+        "translation": "Those attainments are also good.",
+        "source": "T27n1545_158:0802c17_5"
+    },
+    {
+        "source_sentence": "又苦集諦是三界繫。",
+        "translation": "Furthermore, the noble truth of suffering's accumulation is bound to the three realms.",
+        "source": "T27n1545_158:0802c17_6"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0802c18_7"
+    },
+    {
+        "source_sentence": "滅諦是不繫。",
+        "translation": "The truth of cessation is unfettered.",
+        "source": "T27n1545_158:0802c18_8"
+    },
+    {
+        "source_sentence": "彼諸得或色界繫。",
+        "translation": "Those attainments may be bound to the form realm.",
+        "source": "T27n1545_158:0802c18_9"
+    },
+    {
+        "source_sentence": "或無色界繫。",
+        "translation": "Or it's bound to the formless realm.",
+        "source": "T27n1545_158:0802c19_10"
+    },
+    {
+        "source_sentence": "或不繫。",
+        "translation": "They may or may not be bound.",
+        "source": "T27n1545_158:0802c19_11"
+    },
+    {
+        "source_sentence": "道諦是不繫。",
+        "translation": "The truth of the path is unfettered.",
+        "source": "T27n1545_158:0802c19_12"
+    },
+    {
+        "source_sentence": "彼諸得亦不繫。",
+        "translation": "Those attainments are also unfettered.",
+        "source": "T27n1545_158:0802c20_0"
+    },
+    {
+        "source_sentence": "又苦集諦是非學非無學。",
+        "translation": "Furthermore, the noble truth of suffering's accumulation is neither training nor post-learning.",
+        "source": "T27n1545_158:0802c20_1"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0802c20_2"
+    },
+    {
+        "source_sentence": "滅諦是非學非無學。",
+        "translation": "The truth of cessation is neither training nor post-learning.",
+        "source": "T27n1545_158:0802c21_3"
+    },
+    {
+        "source_sentence": "彼諸得或學或無學。",
+        "translation": "Those attainments are either learned or post-learning.",
+        "source": "T27n1545_158:0802c21_4"
+    },
+    {
+        "source_sentence": "或非學非無學。",
+        "translation": "It's either neither learned nor post-learning.",
+        "source": "T27n1545_158:0802c22_5"
+    },
+    {
+        "source_sentence": "道諦是學無學。",
+        "translation": "The truth of the path is training and post-learning.",
+        "source": "T27n1545_158:0802c22_6"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0802c22_7"
+    },
+    {
+        "source_sentence": "又苦集諦是見所斷修所斷。",
+        "translation": "Furthermore, the noble truth of suffering's accumulation is what's stopped by seeing and what's stopped by cultivating.",
+        "source": "T27n1545_158:0802c23_8"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0802c23_9"
+    },
+    {
+        "source_sentence": "滅諦是不斷。",
+        "translation": "The truth of cessation is unceasing.",
+        "source": "T27n1545_158:0802c24_10"
+    },
+    {
+        "source_sentence": "彼諸得或修所斷。",
+        "translation": "Those attainments may be cultivated or stopped.",
+        "source": "T27n1545_158:0802c24_11"
+    },
+    {
+        "source_sentence": "或不斷。",
+        "translation": "Perhaps it doesn't stop.",
+        "source": "T27n1545_158:0802c24_12"
+    },
+    {
+        "source_sentence": "道諦是不斷。",
+        "translation": "The truth of the path is unceasing.",
+        "source": "T27n1545_158:0802c25_0"
+    },
+    {
+        "source_sentence": "彼諸得亦不斷。",
+        "translation": "Those attainments are also unceasing.",
+        "source": "T27n1545_158:0802c25_1"
+    },
+    {
+        "source_sentence": "又苦集諦是染污不染污。",
+        "translation": "Furthermore, the truth of suffering's accumulation is defiled and undefiled.",
+        "source": "T27n1545_158:0802c25_2"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0802c26_3"
+    },
+    {
+        "source_sentence": "滅諦道諦是不染污。",
+        "translation": "The truth of cessation and the truth of the path are not defiled.",
+        "source": "T27n1545_158:0802c26_4"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0802c27_0"
+    },
+    {
+        "source_sentence": "又苦集諦是有異熟。",
+        "translation": "Furthermore, the noble truth of suffering's accumulation is ripening.",
+        "source": "T27n1545_158:0802c27_1"
+    },
+    {
+        "source_sentence": "無異熟。",
+        "translation": "There's no ripening.",
+        "source": "T27n1545_158:0802c27_2"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0802c27_3"
+    },
+    {
+        "source_sentence": "滅諦是無異熟。",
+        "translation": "The truth of cessation is the absence of ripening.",
+        "source": "T27n1545_158:0802c28_4"
+    },
+    {
+        "source_sentence": "彼諸得或有異熟或無異熟。",
+        "translation": "Those attainments may have ripening or no ripening.",
+        "source": "T27n1545_158:0802c28_5"
+    },
+    {
+        "source_sentence": "道諦是無異熟。",
+        "translation": "The truth of the path is that there's no ripening.",
+        "source": "T27n1545_158:0802c29_6"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0802c29_7"
+    },
+    {
+        "source_sentence": "又苦集諦是苦集諦攝。",
+        "translation": "Furthermore, the noble truth of suffering's accumulation is included in the noble truth of suffering's accumulation.",
+        "source": "T27n1545_158:0802c29_8"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0803a01_9"
+    },
+    {
+        "source_sentence": "滅諦是滅諦攝。",
+        "translation": "The truth of cessation is included in the truth of cessation.",
+        "source": "T27n1545_158:0803a01_10"
+    },
+    {
+        "source_sentence": "彼諸得是苦集道三諦攝道諦是道諦攝。",
+        "translation": "Those attainments are the three noble truths of suffering, accumulation, and the path that gather the truth of the path into the truth of the path.",
+        "source": "T27n1545_158:0803a02_11"
+    },
+    {
+        "source_sentence": "彼諸得亦爾。",
+        "translation": "It's likewise with those attainments.",
+        "source": "T27n1545_158:0803a03_0"
+    },
+    {
+        "source_sentence": "所得四諦與能得得。",
+        "translation": "What are the four noble truths that are attained and what can be attained?",
+        "source": "T27n1545_158:0803a03_1"
+    },
+    {
+        "source_sentence": "有如是等諸門同異。",
+        "translation": "There are such and such approaches that are the same and different.",
+        "source": "T27n1545_158:0803a03_2"
+    },
+    {
+        "source_sentence": "問何地所繫法。",
+        "translation": "He asks, What ground are the dharmas that are bound?",
+        "source": "T27n1545_158:0803a05_0"
+    },
+    {
+        "source_sentence": "有幾種離繫得。",
+        "translation": "How many types are there that are free of fetters?",
+        "source": "T27n1545_158:0803a05_1"
+    },
+    {
+        "source_sentence": "答欲界乃至無所有處。",
+        "translation": "Answer: The desire realm and even the sphere of nothingness.",
+        "source": "T27n1545_158:0803a05_2"
+    },
+    {
+        "source_sentence": "見修所斷法皆有三種離繫得。",
+        "translation": "All the dharmas that are stopped by seeing and cultivating have three kinds of freedom from bondage.",
+        "source": "T27n1545_158:0803a06_3"
+    },
+    {
+        "source_sentence": "謂學無學非學非無學。",
+        "translation": "It's training and post-learning, neither training nor post-learning.",
+        "source": "T27n1545_158:0803a06_4"
+    },
+    {
+        "source_sentence": "非想非非想處見所斷法。",
+        "translation": "dharmas that are stopped by seeing what's neither perceived nor not perceived in the abode of perception...",
+        "source": "T27n1545_158:0803a07_5"
+    },
+    {
+        "source_sentence": "及前八品修所斷法。",
+        "translation": "It's the first eight qualities that are cultivated and the dharmas that are stopped by cultivation.",
+        "source": "T27n1545_158:0803a08_6"
+    },
+    {
+        "source_sentence": "皆有二種離繫得。",
+        "translation": "They all have two kinds of attainments that are free of fetters.",
+        "source": "T27n1545_158:0803a08_7"
+    },
+    {
+        "source_sentence": "謂學無學。",
+        "translation": "It's training and post-learning.",
+        "source": "T27n1545_158:0803a08_8"
+    },
+    {
+        "source_sentence": "彼第九品修所斷法。",
+        "translation": "The ninth class cultivates the dharmas that are cultivated and stopped.",
+        "source": "T27n1545_158:0803a09_9"
+    },
+    {
+        "source_sentence": "唯有一種離繫得。",
+        "translation": "There's only one kind of attainment that's free of fetters.",
+        "source": "T27n1545_158:0803a09_10"
+    },
+    {
+        "source_sentence": "謂無學。",
+        "translation": "It's called post-learning.",
+        "source": "T27n1545_158:0803a10_11"
+    },
+    {
+        "source_sentence": "無學初心方初起故。",
+        "translation": "It's because the first mind of post-learning only gives rise to the first mind.",
+        "source": "T27n1545_158:0803a10_12"
+    },
+    {
+        "source_sentence": "問何地所繫法。",
+        "translation": "He asks, What ground are the dharmas that are bound?",
+        "source": "T27n1545_158:0803a10_13"
+    },
+    {
+        "source_sentence": "有幾地無漏離繫得。",
+        "translation": "How many stages are there that are uncontaminated, free of fetters?",
+        "source": "T27n1545_158:0803a11_14"
+    },
+    {
+        "source_sentence": "或有說者。",
+        "translation": "Some people say.",
+        "source": "T27n1545_158:0803a11_15"
+    },
+    {
+        "source_sentence": "諸離繫得隨斷對治。",
+        "translation": "Being free of fetters, they attain the antidote that follows cessation.",
+        "source": "T27n1545_158:0803a11_16"
+    },
+    {
+        "source_sentence": "彼作是說。",
+        "translation": "They say this.",
+        "source": "T27n1545_158:0803a12_17"
+    },
+    {
+        "source_sentence": "欲界見修所斷法無漏離繫得。",
+        "translation": "The dharmas that are stopped by seeing and cultivating in the desire realm are uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0803a12_18"
+    },
+    {
+        "source_sentence": "未至定攝。",
+        "translation": "They haven't yet reached the stage of being included in concentration.",
+        "source": "T27n1545_158:0803a13_19"
+    },
+    {
+        "source_sentence": "初靜慮見修所斷法。",
+        "translation": "The first is the dharma that's stopped by seeing and cultivating in meditation.",
+        "source": "T27n1545_158:0803a13_20"
+    },
+    {
+        "source_sentence": "無漏離繫得三地攝。",
+        "translation": "They are uncontaminated, free of fetters, and they're included in the three stages.",
+        "source": "T27n1545_158:0803a13_21"
+    },
+    {
+        "source_sentence": "第二靜慮見修所斷法。",
+        "translation": "The second concentration sees the dharmas that are cultivated and stopped by seeing.",
+        "source": "T27n1545_158:0803a14_22"
+    },
+    {
+        "source_sentence": "無漏離繫得四地攝。",
+        "translation": "It's uncontaminated, free of fetters, and it's included in the fourth ground.",
+        "source": "T27n1545_158:0803a14_23"
+    },
+    {
+        "source_sentence": "第三靜慮見修所斷法。",
+        "translation": "The third concentration sees the dharmas that are cultivated and stopped by seeing.",
+        "source": "T27n1545_158:0803a15_24"
+    },
+    {
+        "source_sentence": "無漏離繫得五地攝。",
+        "translation": "It's uncontaminated, free of fetters, and it's included in the five stages.",
+        "source": "T27n1545_158:0803a15_25"
+    },
+    {
+        "source_sentence": "第四靜慮見修所斷法。",
+        "translation": "The fourth is the dharma that's stopped by seeing and cultivating in the fourth concentration.",
+        "source": "T27n1545_158:0803a16_26"
+    },
+    {
+        "source_sentence": "及無色界見所斷法。",
+        "translation": "and the dharmas that are stopped by seeing in the formless realm.",
+        "source": "T27n1545_158:0803a16_27"
+    },
+    {
+        "source_sentence": "無漏離繫得六地攝。",
+        "translation": "It's uncontaminated, free of fetters, and it's included in the sixth ground.",
+        "source": "T27n1545_158:0803a17_28"
+    },
+    {
+        "source_sentence": "空無邊處修所斷法。",
+        "translation": "The limitless realm of emptiness cultivates the dharmas that are stopped by cultivation.",
+        "source": "T27n1545_158:0803a17_29"
+    },
+    {
+        "source_sentence": "無漏離繫得七地攝。",
+        "translation": "It's uncontaminated, free of fetters, and it's included in the seventh ground.",
+        "source": "T27n1545_158:0803a18_30"
+    },
+    {
+        "source_sentence": "識無邊處修所斷法。",
+        "translation": "Consciousness has no limit to the dharmas that are cultivated and eliminated in the infinite realm.",
+        "source": "T27n1545_158:0803a18_31"
+    },
+    {
+        "source_sentence": "無漏離繫得八地攝。",
+        "translation": "He's uncontaminated, free of fetters, and he's included in the eighth ground.",
+        "source": "T27n1545_158:0803a19_32"
+    },
+    {
+        "source_sentence": "無所有處非想非非想處。",
+        "translation": "The sphere of nothingness is the sphere of neither perception nor non-perception.",
+        "source": "T27n1545_158:0803a19_33"
+    },
+    {
+        "source_sentence": "無漏離繫得九地攝。",
+        "translation": "He's uncontaminated, free of fetters, and he's included in the nine stages.",
+        "source": "T27n1545_158:0803a20_34"
+    },
+    {
+        "source_sentence": "復有說者。",
+        "translation": "Again, there are those who say.",
+        "source": "T27n1545_158:0803a20_35"
+    },
+    {
+        "source_sentence": "諸離繫得隨壞對治。",
+        "translation": "Being free of fetters, they attain the antidote that follows disintegration.",
+        "source": "T27n1545_158:0803a21_36"
+    },
+    {
+        "source_sentence": "彼作是說。",
+        "translation": "They say this.",
+        "source": "T27n1545_158:0803a21_37"
+    },
+    {
+        "source_sentence": "欲色界見修所斷法。",
+        "translation": "They are the dharmas that are stopped by seeing and cultivating in the desire realm.",
+        "source": "T27n1545_158:0803a21_38"
+    },
+    {
+        "source_sentence": "無漏離繫得皆六地攝。",
+        "translation": "They are all included in the sixth ground when they're uncontaminated and free of fetters.",
+        "source": "T27n1545_158:0803a22_39"
+    },
+    {
+        "source_sentence": "空無邊處見修所斷法。",
+        "translation": "The boundless realm of emptiness is the Dharma that's stopped by seeing and cultivating.",
+        "source": "T27n1545_158:0803a22_40"
+    },
+    {
+        "source_sentence": "無漏離繫得七地攝。",
+        "translation": "It's uncontaminated, free of fetters, and it's included in the seventh ground.",
+        "source": "T27n1545_158:0803a23_41"
+    },
+    {
+        "source_sentence": "識無邊處見修所斷法。",
+        "translation": "Consciousness has no limit to the dharmas that are stopped by seeing and cultivating.",
+        "source": "T27n1545_158:0803a23_42"
+    },
+    {
+        "source_sentence": "無漏離繫得八地攝。",
+        "translation": "He's uncontaminated, free of fetters, and he's included in the eighth ground.",
+        "source": "T27n1545_158:0803a24_43"
+    },
+    {
+        "source_sentence": "無所有處非想非非想處。",
+        "translation": "The sphere of nothingness is the sphere of neither perception nor non-perception.",
+        "source": "T27n1545_158:0803a24_44"
+    },
+    {
+        "source_sentence": "見修所斷法。",
+        "translation": "They see and cultivate the dharmas that are stopped.",
+        "source": "T27n1545_158:0803a25_45"
+    },
+    {
+        "source_sentence": "無漏離繫得九地攝。",
+        "translation": "He's uncontaminated, free of fetters, and he's included in the nine stages.",
+        "source": "T27n1545_158:0803a25_46"
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "Some people say this.",
+        "source": "T27n1545_158:0803a26_47"
+    },
+    {
+        "source_sentence": "若地有法智品道。",
+        "translation": "If there's a path of the Dharma-cognition class in the ground, then he'll attain it.",
+        "source": "T27n1545_158:0803a26_48"
+    },
+    {
+        "source_sentence": "彼地有欲界見修所斷法無漏離繫得。",
+        "translation": "In that ground, there are the dharmas in the desire realm that are stopped by views and cultivation that are uncontaminated and free of fetters.",
+        "source": "T27n1545_158:0803a26_49"
+    },
+    {
+        "source_sentence": "若地有類智品道彼地有色無色界。",
+        "translation": "If there's a path of types of cognition in the form and formless realms in that ground, then he'll be able to cultivate it.",
+        "source": "T27n1545_158:0803a27_50"
+    },
+    {
+        "source_sentence": "見修所斷法無漏離繫得。",
+        "translation": "The dharmas that are stopped by seeing and cultivating are uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0803a28_51"
+    },
+    {
+        "source_sentence": "彼作是說。",
+        "translation": "They say this.",
+        "source": "T27n1545_158:0803a29_52"
+    },
+    {
+        "source_sentence": "欲界見修所斷法。",
+        "translation": "dharmas that are stopped by seeing and cultivating in the desire realm...",
+        "source": "T27n1545_158:0803a29_53"
+    },
+    {
+        "source_sentence": "無漏離繫得六地攝。",
+        "translation": "It's uncontaminated, free of fetters, and it's included in the sixth ground.",
+        "source": "T27n1545_158:0803a29_54"
+    },
+    {
+        "source_sentence": "色無色界見修所斷法。",
+        "translation": "dharmas that are stopped by seeing and cultivating in the form and formless realms...",
+        "source": "T27n1545_158:0803b01_55"
+    },
+    {
+        "source_sentence": "無漏離繫得九地攝。",
+        "translation": "He's uncontaminated, free of fetters, and he's included in the nine stages.",
+        "source": "T27n1545_158:0803b01_56"
+    },
+    {
+        "source_sentence": "評曰。",
+        "translation": "Commentary:",
+        "source": "T27n1545_158:0803b02_57"
+    },
+    {
+        "source_sentence": "此中初說為善。",
+        "translation": "The first of these is said to be good.",
+        "source": "T27n1545_158:0803b02_58"
+    },
+    {
+        "source_sentence": "諸離繫得必由斷對治力所引起故。",
+        "translation": "It's because the attainment of freedom from binding must be caused by the antidote power of cessation.",
+        "source": "T27n1545_158:0803b02_59"
+    },
+    {
+        "source_sentence": "問若以滅道法智離色無色界修所斷染時。",
+        "translation": "Q. When he cultivates the defilement that's stopped by being free of form and formless realms with the knowledge of the Dharma of the path to cessation, then...",
+        "source": "T27n1545_158:0803b03_60"
+    },
+    {
+        "source_sentence": "彼色無色界修所斷法。",
+        "translation": "They are the dharmas cultivated in the form and formless realms that are stopped by cultivation.",
+        "source": "T27n1545_158:0803b04_61"
+    },
+    {
+        "source_sentence": "無漏離繫得。",
+        "translation": "It's uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0803b05_62"
+    },
+    {
+        "source_sentence": "為法智品攝。",
+        "translation": "It's included in the class of Dharma wisdom.",
+        "source": "T27n1545_158:0803b05_63"
+    },
+    {
+        "source_sentence": "為類智品攝耶。",
+        "translation": "Are they included in the class of cognition of types?",
+        "source": "T27n1545_158:0803b05_64"
+    },
+    {
+        "source_sentence": "若法智品攝此不應理。",
+        "translation": "If the class of knowledge of dharmas were to include this, it wouldn't be reasonable.",
+        "source": "T27n1545_158:0803b06_65"
+    },
+    {
+        "source_sentence": "彼法及斷類智所知故。",
+        "translation": "It's because they are known by the cognition of qualities and the cognition of cessation.",
+        "source": "T27n1545_158:0803b06_66"
+    },
+    {
+        "source_sentence": "若類智品攝亦不應理。",
+        "translation": "If it's included in the category of cognition, it shouldn't be the case either.",
+        "source": "T27n1545_158:0803b07_67"
+    },
+    {
+        "source_sentence": "彼斷及得法智所證故。",
+        "translation": "It's because it's stopped and realized by attaining the cognition of dharmas.",
+        "source": "T27n1545_158:0803b07_68"
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "Some people say this.",
+        "source": "T27n1545_158:0803b08_69"
+    },
+    {
+        "source_sentence": "彼離繫得類智品攝。",
+        "translation": "They're included in the class of cognition that's free of binding and attained by types.",
+        "source": "T27n1545_158:0803b08_70"
+    },
+    {
+        "source_sentence": "問豈不彼斷及得法智所證耶。",
+        "translation": "Q Isn't that what they realize by stopping and attaining the knowledge of the Dharma?",
+        "source": "T27n1545_158:0803b09_71"
+    },
+    {
+        "source_sentence": "答雖法智所證而類智攝。",
+        "translation": "Answer: Although it's realized by the cognition of dharmas, it's included in the cognition of types.",
+        "source": "T27n1545_158:0803b09_72"
+    },
+    {
+        "source_sentence": "類智所知故。",
+        "translation": "It's because it's known by cognition of types.",
+        "source": "T27n1545_158:0803b10_73"
+    },
+    {
+        "source_sentence": "有餘師說彼無漏離繫得法智品攝。",
+        "translation": "Some other masters say that they are included in the class of uncontaminated, unfettered attainment of knowledge of the Dharma.",
+        "source": "T27n1545_158:0803b10_74"
+    },
+    {
+        "source_sentence": "問豈不彼法及斷類智所知耶。",
+        "translation": "Q Isn't that knowledge of the Dharma and the cognition of types of cessation known?",
+        "source": "T27n1545_158:0803b11_75"
+    },
+    {
+        "source_sentence": "答雖類智所知而法智攝。",
+        "translation": "Answer Although it's known by cognition of types, it's included in the cognition of dharmas.",
+        "source": "T27n1545_158:0803b12_76"
+    },
+    {
+        "source_sentence": "法智所證故。",
+        "translation": "It's because it's realized by Dharma cognition.",
+        "source": "T27n1545_158:0803b12_77"
+    },
+    {
+        "source_sentence": "評曰。",
+        "translation": "Commentary:",
+        "source": "T27n1545_158:0803b13_78"
+    },
+    {
+        "source_sentence": "此中初說為善。",
+        "translation": "The first of these is said to be good.",
+        "source": "T27n1545_158:0803b13_79"
+    },
+    {
+        "source_sentence": "以類智品是彼不共決定對治故。",
+        "translation": "It's because the class of cognition of types is the antidote that's not shared with certainty.",
+        "source": "T27n1545_158:0803b13_80"
+    },
+    {
+        "source_sentence": "問聖者以世俗道離諸地染時。",
+        "translation": "He asks, When the noble person's path is free of defilement in the stages because of worldly paths, then they're free of defilement in the stages.",
+        "source": "T27n1545_158:0803b14_81"
+    },
+    {
+        "source_sentence": "為是曾得道未曾得道耶。",
+        "translation": "Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Has the Way ever attained and never attained?",
+        "source": "T27n1545_158:0803b15_82"
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "Some people say this.",
+        "source": "T27n1545_158:0803b15_83"
+    },
+    {
+        "source_sentence": "是曾得道。",
+        "translation": "This is the path that was once attained.",
+        "source": "T27n1545_158:0803b16_84"
+    },
+    {
+        "source_sentence": "由此道無始時來。",
+        "translation": "It's because this path has been practiced since beginningless time.",
+        "source": "T27n1545_158:0803b16_85"
+    },
+    {
+        "source_sentence": "串習曾得今現前故。",
+        "translation": "It's because they've cultivated it repeatedly and attained it in the present.",
+        "source": "T27n1545_158:0803b16_86"
+    },
+    {
+        "source_sentence": "彼作是說。",
+        "translation": "They say this.",
+        "source": "T27n1545_158:0803b17_87"
+    },
+    {
+        "source_sentence": "聖者以世俗道。",
+        "translation": "The noble one uses the secular path.",
+        "source": "T27n1545_158:0803b17_88"
+    },
+    {
+        "source_sentence": "離欲界修所斷上上品染時。",
+        "translation": "When he's free of the higher defilement that's cultivated in the desire realm and the higher defilement that's stopped by cultivation.",
+        "source": "T27n1545_158:0803b18_0"
+    },
+    {
+        "source_sentence": "於欲界修所斷上上品法。",
+        "translation": "In the desire realm, there are the higher and higher qualities that are cultivated and eliminated.",
+        "source": "T27n1545_158:0803b18_1"
+    },
+    {
+        "source_sentence": "得二種離繫得。",
+        "translation": "He attains two kinds of attainment that are free of fetters.",
+        "source": "T27n1545_158:0803b19_2"
+    },
+    {
+        "source_sentence": "一世俗得。",
+        "translation": "One is worldly attainment.",
+        "source": "T27n1545_158:0803b19_3"
+    },
+    {
+        "source_sentence": "二無漏得。",
+        "translation": "The second is uncontaminated attainment.",
+        "source": "T27n1545_158:0803b19_4"
+    },
+    {
+        "source_sentence": "世俗得是曾得。",
+        "translation": "What's attained by the conventional is what was attained in the past.",
+        "source": "T27n1545_158:0803b20_5"
+    },
+    {
+        "source_sentence": "道類無漏得是聖道類。",
+        "translation": "The types of paths that are uncontaminated and attained are the types of noble paths.",
+        "source": "T27n1545_158:0803b20_6"
+    },
+    {
+        "source_sentence": "以世俗道現在前時。",
+        "translation": "It's because the secular path is presently manifested.",
+        "source": "T27n1545_158:0803b20_7"
+    },
+    {
+        "source_sentence": "亦修未來無漏道故。",
+        "translation": "It's because they'll also cultivate the future uncontaminated path.",
+        "source": "T27n1545_158:0803b21_8"
+    },
+    {
+        "source_sentence": "於欲界見所斷上上品法。",
+        "translation": "In the desire realm, he sees the higher and higher qualities that are stopped by seeing.",
+        "source": "T27n1545_158:0803b21_9"
+    },
+    {
+        "source_sentence": "得一種離繫得。",
+        "translation": "He attains one kind of attainment that's free of fetters.",
+        "source": "T27n1545_158:0803b22_10"
+    },
+    {
+        "source_sentence": "謂世俗得是曾得道類不得。",
+        "translation": "It means that worldly attainment is attained by those who once attained the path and those who don't.",
+        "source": "T27n1545_158:0803b22_11"
+    },
+    {
+        "source_sentence": "無漏得先已得故。",
+        "translation": "It's because the uncontaminated attainments were previously attained.",
+        "source": "T27n1545_158:0803b23_12"
+    },
+    {
+        "source_sentence": "問若爾云何共對治道。",
+        "translation": "Q If that's the case, how are they shared with the path of antidote?",
+        "source": "T27n1545_158:0803b24_0"
+    },
+    {
+        "source_sentence": "轉成不共對治。",
+        "translation": "It's transformed into an antidote that's not shared.",
+        "source": "T27n1545_158:0803b24_1"
+    },
+    {
+        "source_sentence": "謂此曾得道。",
+        "translation": "It means that this is the once-attainable path.",
+        "source": "T27n1545_158:0803b24_2"
+    },
+    {
+        "source_sentence": "先時總以欲界見修所斷諸法為九品斷。",
+        "translation": "In the past, he always considered the nine kinds of dharmas in the desire realm that are stopped by seeing and cultivating as nine kinds of elimination.",
+        "source": "T27n1545_158:0803b25_3"
+    },
+    {
+        "source_sentence": "今時此道唯斷欲界修所斷故。",
+        "translation": "At the present time, this path only stops what's cultivated in the desire realm.",
+        "source": "T27n1545_158:0803b26_4"
+    },
+    {
+        "source_sentence": "答此道猶名共對治道。",
+        "translation": "Answer: This path is still called the path of shared antidote.",
+        "source": "T27n1545_158:0803b26_5"
+    },
+    {
+        "source_sentence": "以此恒有俱斷力故。",
+        "translation": "It's because they always have the power of mutual elimination.",
+        "source": "T27n1545_158:0803b27_6"
+    },
+    {
+        "source_sentence": "此見所斷先已斷故。",
+        "translation": "It's because what's stopped by this view has been stopped before.",
+        "source": "T27n1545_158:0803b27_7"
+    },
+    {
+        "source_sentence": "今無可斷非不能斷。",
+        "translation": "Now, there's nothing that can be stopped and nothing that can't be stopped.",
+        "source": "T27n1545_158:0803b28_8"
+    },
+    {
+        "source_sentence": "是故恒名共對治道。",
+        "translation": "Therefore, it's always called the path of shared antidote.",
+        "source": "T27n1545_158:0803b28_9"
+    },
+    {
+        "source_sentence": "如離上上品。",
+        "translation": "It's like being free of the higher and higher qualities.",
+        "source": "T27n1545_158:0803b29_10"
+    },
+    {
+        "source_sentence": "乃至離下下品亦爾。",
+        "translation": "It's likewise with the lower and lower qualities that are free of it.",
+        "source": "T27n1545_158:0803b29_11"
+    },
+    {
+        "source_sentence": "如離欲界修所斷。",
+        "translation": "It's like being free of what's cultivated in the desire realm.",
+        "source": "T27n1545_158:0803c01_12"
+    },
+    {
+        "source_sentence": "乃至離無所有處修所斷亦爾。",
+        "translation": "It's likewise with the cultivation of what's stopped by being free of the sphere of nothingness.",
+        "source": "T27n1545_158:0803c01_13"
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say:",
+        "source": "T27n1545_158:0803c02_14"
+    },
+    {
+        "source_sentence": "是未曾得道。",
+        "translation": "This is an unprecedented attainment of the Way.",
+        "source": "T27n1545_158:0803c02_15"
+    },
+    {
+        "source_sentence": "由此道無始時來。",
+        "translation": "It's because this path has been practiced since beginningless time.",
+        "source": "T27n1545_158:0803c02_16"
+    },
+    {
+        "source_sentence": "未習未得唯聖所起故。",
+        "translation": "It's because they haven't cultivated or attained it and are only produced by the noble ones.",
+        "source": "T27n1545_158:0803c03_17"
+    },
+    {
+        "source_sentence": "彼作是說。",
+        "translation": "They say this.",
+        "source": "T27n1545_158:0803c03_18"
+    },
+    {
+        "source_sentence": "聖者以世俗道。",
+        "translation": "The noble one uses the secular path.",
+        "source": "T27n1545_158:0803c04_19"
+    },
+    {
+        "source_sentence": "離欲界修所斷上上品染時。",
+        "translation": "When he's free of the higher defilement that's cultivated in the desire realm and the higher defilement that's stopped by cultivation.",
+        "source": "T27n1545_158:0803c04_20"
+    },
+    {
+        "source_sentence": "於欲界修所斷上上品法。",
+        "translation": "In the desire realm, there are the higher and higher qualities that are cultivated and eliminated.",
+        "source": "T27n1545_158:0803c05_21"
+    },
+    {
+        "source_sentence": "得二種離繫得。",
+        "translation": "He attains two kinds of attainment that are free of fetters.",
+        "source": "T27n1545_158:0803c05_22"
+    },
+    {
+        "source_sentence": "一世俗得。",
+        "translation": "One is worldly attainment.",
+        "source": "T27n1545_158:0803c06_23"
+    },
+    {
+        "source_sentence": "二無漏得。",
+        "translation": "The second is uncontaminated attainment.",
+        "source": "T27n1545_158:0803c06_24"
+    },
+    {
+        "source_sentence": "世俗得是未曾得。",
+        "translation": "What's attained by the conventional is what's never been attained.",
+        "source": "T27n1545_158:0803c06_25"
+    },
+    {
+        "source_sentence": "道類無漏得是聖道類。",
+        "translation": "The types of paths that are uncontaminated and attained are the types of noble paths.",
+        "source": "T27n1545_158:0803c07_0"
+    },
+    {
+        "source_sentence": "以世俗道現在前時。",
+        "translation": "It's because the secular path is presently manifested.",
+        "source": "T27n1545_158:0803c07_1"
+    },
+    {
+        "source_sentence": "亦修未來無漏道故。",
+        "translation": "It's because they'll also cultivate the future uncontaminated path.",
+        "source": "T27n1545_158:0803c08_0"
+    },
+    {
+        "source_sentence": "於欲界見所斷上上品法。",
+        "translation": "In the desire realm, he sees the higher and higher qualities that are stopped by seeing.",
+        "source": "T27n1545_158:0803c08_1"
+    },
+    {
+        "source_sentence": "不得離繫得。",
+        "translation": "They can't be free of the fetters and attain them.",
+        "source": "T27n1545_158:0803c09_2"
+    },
+    {
+        "source_sentence": "不得世俗得者未曾得道非彼對治故。",
+        "translation": "Those who don't attain worldly attainment have never attained the path, which is not their antidote.",
+        "source": "T27n1545_158:0803c09_3"
+    },
+    {
+        "source_sentence": "不得無漏得者先已得故如離上上品乃至離下中品亦爾。",
+        "translation": "It's because someone who doesn't attain the uncontaminated acquisition has previously attained it, so it's likewise if they part with the higher and higher classes or part with the lower and middle classes.",
+        "source": "T27n1545_158:0803c10_4"
+    },
+    {
+        "source_sentence": "如離欲界修所斷八品。",
+        "translation": "It's like the eight qualities that are cultivated and eliminated by being free of the desire realm.",
+        "source": "T27n1545_158:0803c11_5"
+    },
+    {
+        "source_sentence": "離初靜慮修所斷八品。",
+        "translation": "He's free of the eight qualities that are cultivated in the first concentration and those that are cut off.",
+        "source": "T27n1545_158:0803c12_6"
+    },
+    {
+        "source_sentence": "乃至離無所有處修所斷八品亦爾。",
+        "translation": "It's likewise with the eight classes that are cultivated and eliminated apart from the sphere of nothingness.",
+        "source": "T27n1545_158:0803c12_7"
+    },
+    {
+        "source_sentence": "離欲界修所斷。",
+        "translation": "They're free of what's cultivated in the desire realm and stopped by cultivation.",
+        "source": "T27n1545_158:0803c13_8"
+    },
+    {
+        "source_sentence": "第九品解脫道時。",
+        "translation": "When he's on the ninth stage of the path to liberation.",
+        "source": "T27n1545_158:0803c14_0"
+    },
+    {
+        "source_sentence": "未來修曾得未曾得二世俗道。",
+        "translation": "In the future, he cultivates the two worldly paths that have been attained and haven't been attained.",
+        "source": "T27n1545_158:0803c14_1"
+    },
+    {
+        "source_sentence": "爾時於欲界修所斷法。",
+        "translation": "At that point, he cultivates the Dharma that's stopped in the desire realm.",
+        "source": "T27n1545_158:0803c15_2"
+    },
+    {
+        "source_sentence": "得三種離繫得。",
+        "translation": "He attains the three kinds of attainment of freedom from bondage.",
+        "source": "T27n1545_158:0803c15_3"
+    },
+    {
+        "source_sentence": "一世俗曾得得。",
+        "translation": "One is that it's attained by the worldly.",
+        "source": "T27n1545_158:0803c16_4"
+    },
+    {
+        "source_sentence": "謂曾得道類。",
+        "translation": "They are the types of paths that were once attained.",
+        "source": "T27n1545_158:0803c16_5"
+    },
+    {
+        "source_sentence": "二世俗未曾得得謂未曾得道類。",
+        "translation": "The second is worldly attainment that hasn't been attained before, which is the type of path that hasn't been attained before.",
+        "source": "T27n1545_158:0803c16_6"
+    },
+    {
+        "source_sentence": "三無漏得。",
+        "translation": "Three are uncontaminated attainments.",
+        "source": "T27n1545_158:0803c17_7"
+    },
+    {
+        "source_sentence": "謂聖道類於欲界見所斷法。",
+        "translation": "It means that the noble path is a type of dharmas that are stopped by seeing in the desire realm.",
+        "source": "T27n1545_158:0803c17_8"
+    },
+    {
+        "source_sentence": "得二種離繫得。",
+        "translation": "He attains two kinds of attainment that are free of fetters.",
+        "source": "T27n1545_158:0803c18_9"
+    },
+    {
+        "source_sentence": "除未曾得世俗得。",
+        "translation": "It's except for worldly attainments that have never been attained before.",
+        "source": "T27n1545_158:0803c18_10"
+    },
+    {
+        "source_sentence": "問云何知第九解脫時。",
+        "translation": "Q: How do you know the ninth time of liberation?",
+        "source": "T27n1545_158:0803c19_11"
+    },
+    {
+        "source_sentence": "能修未來曾得未曾得二世俗道。",
+        "translation": "They can cultivate the two worldly paths that have been attained and won't be attained in the future.",
+        "source": "T27n1545_158:0803c19_12"
+    },
+    {
+        "source_sentence": "答以說若成就現在他心智。",
+        "translation": "Answer: It's because it's said that if someone has accomplished the knowledge of the minds of others in the present.",
+        "source": "T27n1545_158:0803c20_13"
+    },
+    {
+        "source_sentence": "彼定成就過去他心智故。",
+        "translation": "It's because they've certainly accomplished the knowledge of the minds of others in the past.",
+        "source": "T27n1545_158:0803c21_14"
+    },
+    {
+        "source_sentence": "問何故離前八品染時。",
+        "translation": "Q Why is it that when he's free of the previous eight kinds of defilement?",
+        "source": "T27n1545_158:0803c21_15"
+    },
+    {
+        "source_sentence": "修未曾得道。",
+        "translation": "He cultivates the path that's never been attained before.",
+        "source": "T27n1545_158:0803c22_16"
+    },
+    {
+        "source_sentence": "離第九品染解脫道時。",
+        "translation": "When he's free of the ninth category of defilement in the path to liberation.",
+        "source": "T27n1545_158:0803c22_17"
+    },
+    {
+        "source_sentence": "修曾得未曾得道耶。",
+        "translation": "Does cultivation ever attain the path that hasn't been attained?",
+        "source": "T27n1545_158:0803c23_18"
+    },
+    {
+        "source_sentence": "答離染道異得地亦異。",
+        "translation": "Answer: Being free of the path of defilement is different, and attaining the ground is also different.",
+        "source": "T27n1545_158:0803c23_19"
+    },
+    {
+        "source_sentence": "謂離染道唯未曾得。",
+        "translation": "It means that the path of freedom from defilement has only never been attained.",
+        "source": "T27n1545_158:0803c24_20"
+    },
+    {
+        "source_sentence": "未來所修亦未曾得。",
+        "translation": "What's cultivated in the future hasn't been attained.",
+        "source": "T27n1545_158:0803c24_21"
+    },
+    {
+        "source_sentence": "若得地時現離染道雖未曾得得根本地故。",
+        "translation": "When he attains the ground, he's now free of the path of defilement, even though he hasn't yet attained the fundamental ground.",
+        "source": "T27n1545_158:0803c25_22"
+    },
+    {
+        "source_sentence": "通修未來曾得未曾得道。",
+        "translation": "He cultivates the path that's ever been attained and never attained in the future.",
+        "source": "T27n1545_158:0803c26_23"
+    },
+    {
+        "source_sentence": "如離欲界修所斷第九品。",
+        "translation": "It's like the ninth class that's cultivated and eliminated by being free of the desire realm.",
+        "source": "T27n1545_158:0803c26_24"
+    },
+    {
+        "source_sentence": "乃至離無所有處修所斷第九品亦爾。",
+        "translation": "It's likewise with the ninth class that's cultivated and eliminated by being free of the sphere of nothingness.",
+        "source": "T27n1545_158:0803c27_25"
+    },
+    {
+        "source_sentence": "評曰。",
+        "translation": "Commentary:",
+        "source": "T27n1545_158:0803c28_26"
+    },
+    {
+        "source_sentence": "應作是說。",
+        "translation": "You should say this.",
+        "source": "T27n1545_158:0803c28_27"
+    },
+    {
+        "source_sentence": "聖者以世俗道離諸地染時。",
+        "translation": "When the noble person is free of defilement in the stages by following the secular path, then he'll attain nirvāṇa.",
+        "source": "T27n1545_158:0803c28_28"
+    },
+    {
+        "source_sentence": "應言是未曾得道。",
+        "translation": "You should say it's the unprecedented attainment of the path.",
+        "source": "T27n1545_158:0803c29_29"
+    },
+    {
+        "source_sentence": "昔來未得唯聖所起故。",
+        "translation": "It's because they haven't been produced only by the noble ones in the past.",
+        "source": "T27n1545_158:0803c29_30"
+    },
+    {
+        "source_sentence": "然於未來通修曾得未曾得道。",
+        "translation": "However, in the future, they'll cultivate the path that's been attained and never attained before.",
+        "source": "T27n1545_158:0804a01_31"
+    },
+    {
+        "source_sentence": "所對治同故。",
+        "translation": "It's because the antidotes that are counteracted are the same.",
+        "source": "T27n1545_158:0804a02_32"
+    },
+    {
+        "source_sentence": "應作是說。",
+        "translation": "You should say this.",
+        "source": "T27n1545_158:0804a02_33"
+    },
+    {
+        "source_sentence": "聖者以世俗道。",
+        "translation": "The noble one uses the secular path.",
+        "source": "T27n1545_158:0804a02_34"
+    },
+    {
+        "source_sentence": "離欲界修所斷上上品染時。",
+        "translation": "When he's free of the higher defilement that's cultivated in the desire realm and the higher defilement that's stopped by cultivation.",
+        "source": "T27n1545_158:0804a03_0"
+    },
+    {
+        "source_sentence": "於欲界修所斷上上品法。",
+        "translation": "In the desire realm, there are the higher and higher qualities that are cultivated and eliminated.",
+        "source": "T27n1545_158:0804a03_1"
+    },
+    {
+        "source_sentence": "得三種離繫得。",
+        "translation": "He attains the three kinds of attainment of freedom from bondage.",
+        "source": "T27n1545_158:0804a04_2"
+    },
+    {
+        "source_sentence": "一世俗曾得得。",
+        "translation": "One is that it's attained by the worldly.",
+        "source": "T27n1545_158:0804a04_3"
+    },
+    {
+        "source_sentence": "謂曾得道類。",
+        "translation": "They are the types of paths that were once attained.",
+        "source": "T27n1545_158:0804a04_4"
+    },
+    {
+        "source_sentence": "二世俗未曾得得。",
+        "translation": "The second is that it's ungraspable by the worldly.",
+        "source": "T27n1545_158:0804a05_5"
+    },
+    {
+        "source_sentence": "謂未曾得道類。",
+        "translation": "They are those who haven't yet attained the type of path.",
+        "source": "T27n1545_158:0804a05_6"
+    },
+    {
+        "source_sentence": "三無漏得。",
+        "translation": "Three are uncontaminated attainments.",
+        "source": "T27n1545_158:0804a06_0"
+    },
+    {
+        "source_sentence": "謂聖道類。",
+        "translation": "They are the types of noble paths.",
+        "source": "T27n1545_158:0804a06_1"
+    },
+    {
+        "source_sentence": "於欲界見所斷上上品法。",
+        "translation": "In the desire realm, he sees the higher and higher qualities that are stopped by seeing.",
+        "source": "T27n1545_158:0804a06_2"
+    },
+    {
+        "source_sentence": "得一種離繫得。",
+        "translation": "He attains one kind of attainment that's free of fetters.",
+        "source": "T27n1545_158:0804a07_3"
+    },
+    {
+        "source_sentence": "謂曾得世俗道類。",
+        "translation": "They are the types of worldly paths that were once attained.",
+        "source": "T27n1545_158:0804a07_4"
+    },
+    {
+        "source_sentence": "不得未曾得得者。",
+        "translation": "He who doesn't attain it and hasn't attained it before.",
+        "source": "T27n1545_158:0804a07_5"
+    },
+    {
+        "source_sentence": "未曾得道非彼對治故。",
+        "translation": "It's because the path hasn't been attained before and isn't counteracted by them.",
+        "source": "T27n1545_158:0804a08_6"
+    },
+    {
+        "source_sentence": "不得無漏得者。",
+        "translation": "Those who don't attain uncontaminated attainment...",
+        "source": "T27n1545_158:0804a08_7"
+    },
+    {
+        "source_sentence": "先已得故。",
+        "translation": "It's because they were previously attained.",
+        "source": "T27n1545_158:0804a09_8"
+    },
+    {
+        "source_sentence": "如離上上品。",
+        "translation": "It's like being free of the higher and higher qualities.",
+        "source": "T27n1545_158:0804a09_9"
+    },
+    {
+        "source_sentence": "乃至離下下品亦爾。",
+        "translation": "It's likewise with the lower and lower qualities that are free of it.",
+        "source": "T27n1545_158:0804a09_10"
+    },
+    {
+        "source_sentence": "如離欲界修所斷。",
+        "translation": "It's like being free of what's cultivated in the desire realm.",
+        "source": "T27n1545_158:0804a10_11"
+    },
+    {
+        "source_sentence": "乃至離無所有處修所斷亦爾。",
+        "translation": "It's likewise with the cultivation of what's stopped by being free of the sphere of nothingness.",
+        "source": "T27n1545_158:0804a10_12"
+    },
+    {
+        "source_sentence": "由此故說頗有不退。",
+        "translation": "Therefore, it's said that there's quite a lot of nonretrogression.",
+        "source": "T27n1545_158:0804a11_13"
+    },
+    {
+        "source_sentence": "不得果。",
+        "translation": "They won't attain fruition.",
+        "source": "T27n1545_158:0804a11_14"
+    },
+    {
+        "source_sentence": "不轉根。",
+        "translation": "He doesn't change his faculties.",
+        "source": "T27n1545_158:0804a12_15"
+    },
+    {
+        "source_sentence": "非見道現在前。",
+        "translation": "It's not the path of seeing that's presently manifested.",
+        "source": "T27n1545_158:0804a12_16"
+    },
+    {
+        "source_sentence": "亦非異生類。",
+        "translation": "Nor are they different types of sentient beings.",
+        "source": "T27n1545_158:0804a12_17"
+    },
+    {
+        "source_sentence": "而於見所斷法得離繫得耶。",
+        "translation": "What's the attainment of freedom from binding by seeing the things that are stopped?",
+        "source": "T27n1545_158:0804a13_0"
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_158:0804a13_1"
+    },
+    {
+        "source_sentence": "謂前所說。",
+        "translation": "It's what was explained earlier.",
+        "source": "T27n1545_158:0804a13_2"
+    },
+    {
+        "source_sentence": "唯除離欲染第六九品時。",
+        "translation": "It's only when he's free of the sixth and ninth classes of defilement by desire.",
+        "source": "T27n1545_158:0804a14_3"
+    },
+    {
+        "source_sentence": "依所說義應作是說頗有離繫得。",
+        "translation": "Relying on the meaning of what's explained, it should be said that there's quite a lot of freedom from bondage.",
+        "source": "T27n1545_158:0804a15_0"
+    },
+    {
+        "source_sentence": "得而不捨。",
+        "translation": "They attain it but don't abandon it.",
+        "source": "T27n1545_158:0804a15_1"
+    },
+    {
+        "source_sentence": "捨而不得耶。",
+        "translation": "What's the point of abandoning and not attaining?",
+        "source": "T27n1545_158:0804a16_2"
+    },
+    {
+        "source_sentence": "答應作四句。",
+        "translation": "Answer: Four sentences should be made.",
+        "source": "T27n1545_158:0804a16_3"
+    },
+    {
+        "source_sentence": "有離繫得。",
+        "translation": "There's the attainment of freedom from bondage.",
+        "source": "T27n1545_158:0804a16_4"
+    },
+    {
+        "source_sentence": "得而不捨。",
+        "translation": "They attain it but don't abandon it.",
+        "source": "T27n1545_158:0804a17_0"
+    },
+    {
+        "source_sentence": "謂諸異生離欲界。",
+        "translation": "It means that ordinary beings are free of the desire realm.",
+        "source": "T27n1545_158:0804a17_1"
+    },
+    {
+        "source_sentence": "乃至無所有處染時。",
+        "translation": "It's even when the sphere of nothingness is defiled.",
+        "source": "T27n1545_158:0804a17_2"
+    },
+    {
+        "source_sentence": "及諸聖者非得果離染時。",
+        "translation": "and the noble ones aren't free of defilement when they attain fruition.",
+        "source": "T27n1545_158:0804a18_3"
+    },
+    {
+        "source_sentence": "有離繫得捨而不得。",
+        "translation": "There are those who are free of fetters and attain equanimity but don't attain it.",
+        "source": "T27n1545_158:0804a18_4"
+    },
+    {
+        "source_sentence": "謂諸異生從離欲界乃至無所有處染退時。",
+        "translation": "It means that when ordinary sentient beings become free of defilement and regress from the desire realm up to the sphere of nothingness.",
+        "source": "T27n1545_158:0804a19_5"
+    },
+    {
+        "source_sentence": "及諸聖者非失果退時。",
+        "translation": "It's the time when the noble ones don't lose their fruit and regress.",
+        "source": "T27n1545_158:0804a20_6"
+    },
+    {
+        "source_sentence": "若從欲界歿生第二靜慮以上時。",
+        "translation": "If he arises from the second concentration or higher in the desire realm, then he'll be born in the form realm.",
+        "source": "T27n1545_158:0804a20_7"
+    },
+    {
+        "source_sentence": "從初靜慮歿生第二靜慮以上時。",
+        "translation": "When the second concentration arises from the first concentration, it's above the second concentration.",
+        "source": "T27n1545_158:0804a21_8"
+    },
+    {
+        "source_sentence": "乃至從無所有處歿生非想非非想處時。",
+        "translation": "It's even when the state of neither perception nor non-perception arises from the debilitating aspect of the sphere of nothingness.",
+        "source": "T27n1545_158:0804a22_9"
+    },
+    {
+        "source_sentence": "從色無色界諸地歿生欲界時。",
+        "translation": "When they are born in the desire realm from the form and formless realms, they'll be born in the desire realm.",
+        "source": "T27n1545_158:0804a23_10"
+    },
+    {
+        "source_sentence": "有離繫得亦得亦捨。",
+        "translation": "There's the attainment that's free of fetters, which is also attained and abandoned.",
+        "source": "T27n1545_158:0804a24_11"
+    },
+    {
+        "source_sentence": "謂進得四沙門果時。",
+        "translation": "It's when he advances to the fruit of the four ascetics.",
+        "source": "T27n1545_158:0804a24_12"
+    },
+    {
+        "source_sentence": "信勝解練根成見至時。",
+        "translation": "When the faculty of faith and resolute liberation becomes a view, then he'll attain it.",
+        "source": "T27n1545_158:0804a25_13"
+    },
+    {
+        "source_sentence": "退法種性阿羅漢等。",
+        "translation": "The arhats who regress from the seed nature of dharmas and so forth.",
+        "source": "T27n1545_158:0804a25_14"
+    },
+    {
+        "source_sentence": "練根成思法等時。",
+        "translation": "When the faculty of training becomes a method of contemplation, etc.",
+        "source": "T27n1545_158:0804a26_15"
+    },
+    {
+        "source_sentence": "從離染或種性退。",
+        "translation": "He's free of defilement or regressing from the seed nature.",
+        "source": "T27n1545_158:0804a26_16"
+    },
+    {
+        "source_sentence": "若三若四沙門果時。",
+        "translation": "Whether three or four, it's when he's the fruit of asceticism.",
+        "source": "T27n1545_158:0804a27_17"
+    },
+    {
+        "source_sentence": "若色無色界上地歿生下地時。",
+        "translation": "If he's born in the upper realm of form and formlessness, then he'll be born in the lower realm.",
+        "source": "T27n1545_158:0804a27_18"
+    },
+    {
+        "source_sentence": "有離繫得非得非捨。",
+        "translation": "There's the attainment of freedom from bondage that's neither attained nor abandoned.",
+        "source": "T27n1545_158:0804a28_19"
+    },
+    {
+        "source_sentence": "謂除前相。",
+        "translation": "It's except for the previous characteristic.",
+        "source": "T27n1545_158:0804a28_20"
+    },
+    {
+        "source_sentence": "問若先離欲界五品染。",
+        "translation": "Q. If someone first part with the five defilements of the desire realm, then they'll be free of the five defilements of the form realm.",
+        "source": "T27n1545_158:0804a29_21"
+    },
+    {
+        "source_sentence": "後入正性離生。",
+        "translation": "Later, he enters the true nature and parts with birth.",
+        "source": "T27n1545_158:0804a29_22"
+    },
+    {
+        "source_sentence": "苦法智生時。",
+        "translation": "When the cognition of painful dharmas arises, it's because they don't arise.",
+        "source": "T27n1545_158:0804b01_23"
+    },
+    {
+        "source_sentence": "於先所斷見苦所斷五品法。",
+        "translation": "In the five kinds of dharmas that were previously stopped by seeing what's painful and stopped by seeing what's not painful.",
+        "source": "T27n1545_158:0804b01_24"
+    },
+    {
+        "source_sentence": "及今所斷見苦所斷四品法。",
+        "translation": "It's the four kinds of dharmas that are stopped in the present and the four kinds of dharmas that are stopped by seeing what's painful.",
+        "source": "T27n1545_158:0804b02_0"
+    },
+    {
+        "source_sentence": "皆得無漏離繫得乃至道法智生時。",
+        "translation": "They all attain the time when uncontaminated, free of fetters and attaining the knowledge of the path's principles arise.",
+        "source": "T27n1545_158:0804b02_1"
+    },
+    {
+        "source_sentence": "於先所斷見道所斷五品法。",
+        "translation": "In the five kinds of dharmas that were previously eliminated in the path of seeing, they're eliminated.",
+        "source": "T27n1545_158:0804b03_2"
+    },
+    {
+        "source_sentence": "及今所斷見道所斷四品法。",
+        "translation": "It's the four kinds of dharmas that are stopped in the path of seeing and the four kinds of dharmas that are stopped in the present.",
+        "source": "T27n1545_158:0804b04_3"
+    },
+    {
+        "source_sentence": "皆得無漏離繫得。",
+        "translation": "They all attain uncontaminated, free of fetters.",
+        "source": "T27n1545_158:0804b04_4"
+    },
+    {
+        "source_sentence": "道類智生時。",
+        "translation": "When the cognition of types of paths arises, it doesn't arise.",
+        "source": "T27n1545_158:0804b05_5"
+    },
+    {
+        "source_sentence": "於三界見所斷法皆得無漏離繫得。",
+        "translation": "In the three realms of views, all the dharmas that are stopped by seeing are uncontaminated and free of fetters.",
+        "source": "T27n1545_158:0804b05_6"
+    },
+    {
+        "source_sentence": "彼先所斷欲界修所斷五品法。",
+        "translation": "They previously stopped the five kinds of dharmas that are cultivated in the desire realm and stopped them.",
+        "source": "T27n1545_158:0804b06_7"
+    },
+    {
+        "source_sentence": "無漏離繫得何時當得。",
+        "translation": "When will it be attained when it's uncontaminated and free of fetters?",
+        "source": "T27n1545_158:0804b07_8"
+    },
+    {
+        "source_sentence": "尊者僧伽筏蘇作如是說。",
+        "translation": "Venerable Saṃghâvaśeṣa explained it this way.",
+        "source": "T27n1545_158:0804b07_9"
+    },
+    {
+        "source_sentence": "道類智時得。",
+        "translation": "It's attained at the time of knowledge of the path.",
+        "source": "T27n1545_158:0804b08_10"
+    },
+    {
+        "source_sentence": "以爾時名預流果。",
+        "translation": "At that point, it's called the fruit of stream-winner.",
+        "source": "T27n1545_158:0804b08_11"
+    },
+    {
+        "source_sentence": "亦名一來向故。",
+        "translation": "It's also called the first coming because it's directed toward.",
+        "source": "T27n1545_158:0804b08_12"
+    },
+    {
+        "source_sentence": "彼說不然。",
+        "translation": "They say it's not.",
+        "source": "T27n1545_158:0804b09_13"
+    },
+    {
+        "source_sentence": "所以者何。",
+        "translation": "Why is it so?",
+        "source": "T27n1545_158:0804b09_14"
+    },
+    {
+        "source_sentence": "以於爾時得預流果於一來果向道乃至未起一剎那現前。",
+        "translation": "At that point, he attains the fruit of pre-flow and directs his attention to the path with a single coming fruit until it doesn't arise in a single moment of manifestation.",
+        "source": "T27n1545_158:0804b09_15"
+    },
+    {
+        "source_sentence": "如何可說為一來向。",
+        "translation": "How can it be said to be the one coming and going?",
+        "source": "T27n1545_158:0804b11_16"
+    },
+    {
+        "source_sentence": "有作是說。",
+        "translation": "Some people say this.",
+        "source": "T27n1545_158:0804b11_17"
+    },
+    {
+        "source_sentence": "起一來果加行道時得。",
+        "translation": "It's attained when the path of applied practices that give rise to the fruit of once-returning is cultivated.",
+        "source": "T27n1545_158:0804b12_0"
+    },
+    {
+        "source_sentence": "以是一來向所攝故。",
+        "translation": "It's because it's included in the one coming direction.",
+        "source": "T27n1545_158:0804b12_1"
+    },
+    {
+        "source_sentence": "有餘師說。",
+        "translation": "Some other masters say:",
+        "source": "T27n1545_158:0804b13_2"
+    },
+    {
+        "source_sentence": "得一來果時得。",
+        "translation": "When he attains the fruit of once-returning, he attains it.",
+        "source": "T27n1545_158:0804b13_3"
+    },
+    {
+        "source_sentence": "以住第六無間道時。",
+        "translation": "It's when he abides in the sixth unremitting path.",
+        "source": "T27n1545_158:0804b13_4"
+    },
+    {
+        "source_sentence": "能引三界見所斷。",
+        "translation": "They can lead to the view that the three realms are stopped by seeing.",
+        "source": "T27n1545_158:0804b14_5"
+    },
+    {
+        "source_sentence": "及欲界修所斷前六品法。",
+        "translation": "and the first six classes of dharmas cultivated in the desire realm that are stopped by cultivation.",
+        "source": "T27n1545_158:0804b14_6"
+    },
+    {
+        "source_sentence": "無漏離繫得。",
+        "translation": "It's uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0804b15_7"
+    },
+    {
+        "source_sentence": "令起得一來果故。",
+        "translation": "It's because it causes the fruit of the once-returner to arise.",
+        "source": "T27n1545_158:0804b15_8"
+    },
+    {
+        "source_sentence": "如是說者。",
+        "translation": "He explains it this way.",
+        "source": "T27n1545_158:0804b15_9"
+    },
+    {
+        "source_sentence": "從預流果決定起勝進道。",
+        "translation": "From the fruit of pre-flow, they'll definitely give rise to the path of superior advancement.",
+        "source": "T27n1545_158:0804b16_10"
+    },
+    {
+        "source_sentence": "彼現前時得。",
+        "translation": "It's attained when it's present.",
+        "source": "T27n1545_158:0804b16_11"
+    },
+    {
+        "source_sentence": "以從下果起趣上勝進道時。",
+        "translation": "It's because when he arises from the lower fruit and goes to the higher path of superior advancement.",
+        "source": "T27n1545_158:0804b17_12"
+    },
+    {
+        "source_sentence": "必修先所斷上位諸結對治道故。",
+        "translation": "It's because they must cultivate the path of antidotes to the higher bonds that were previously eliminated.",
+        "source": "T27n1545_158:0804b17_13"
+    },
+    {
+        "source_sentence": "問頗有一剎那頃於無漏離繫得有身作證。",
+        "translation": "Q Could it be that there's a moment in time when he attains the realization of having a body that's uncontaminated and free of fetters?",
+        "source": "T27n1545_158:0804b18_14"
+    },
+    {
+        "source_sentence": "而慧不見有慧見而身不作證乃至作四句耶。",
+        "translation": "Why doesn't wisdom see that there's a vision of wisdom and the body doesn't realize it or even make four statements?",
+        "source": "T27n1545_158:0804b19_15"
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_158:0804b20_16"
+    },
+    {
+        "source_sentence": "謂道類智忍滅。",
+        "translation": "It's the cessation of the cognition of types of paths and the cessation of patience.",
+        "source": "T27n1545_158:0804b20_17"
+    },
+    {
+        "source_sentence": "道類智生時。",
+        "translation": "When the cognition of types of paths arises, it doesn't arise.",
+        "source": "T27n1545_158:0804b21_18"
+    },
+    {
+        "source_sentence": "應作四句。",
+        "translation": "You should make four sentences.",
+        "source": "T27n1545_158:0804b21_19"
+    },
+    {
+        "source_sentence": "有無漏離繫得。",
+        "translation": "It's uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0804b21_20"
+    },
+    {
+        "source_sentence": "身作證而慧不見。",
+        "translation": "The body realizes it, but wisdom doesn't see it.",
+        "source": "T27n1545_158:0804b22_21"
+    },
+    {
+        "source_sentence": "謂欲界見所斷法無漏離繫得。",
+        "translation": "It's the uncontaminated, free of fetters attainment of the dharmas that are stopped by views in the desire realm.",
+        "source": "T27n1545_158:0804b22_22"
+    },
+    {
+        "source_sentence": "有無漏離繫得。",
+        "translation": "It's uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0804b23_23"
+    },
+    {
+        "source_sentence": "慧見而身不作證。",
+        "translation": "He sees it with wisdom and doesn't realize it in body.",
+        "source": "T27n1545_158:0804b23_24"
+    },
+    {
+        "source_sentence": "謂色無色界修所斷法無漏離繫得。",
+        "translation": "It means that the dharmas cultivated in the form and formless realms that are stopped by cultivation are uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0804b24_25"
+    },
+    {
+        "source_sentence": "有無漏離繫得。",
+        "translation": "It's uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0804b25_0"
+    },
+    {
+        "source_sentence": "身作證慧亦見。",
+        "translation": "The body acts to realize wisdom and also sees it.",
+        "source": "T27n1545_158:0804b25_1"
+    },
+    {
+        "source_sentence": "謂色無色界見所斷法無漏離繫得。",
+        "translation": "It's the uncontaminated, free of fetters attainment of the dharmas that are stopped by seeing in the form and formless realms.",
+        "source": "T27n1545_158:0804b25_2"
+    },
+    {
+        "source_sentence": "有無漏離繫得。",
+        "translation": "It's uncontaminated, free of fetters, and attained.",
+        "source": "T27n1545_158:0804b26_3"
+    },
+    {
+        "source_sentence": "身不作證慧亦不見。",
+        "translation": "The body doesn't do it, and the wisdom of realization doesn't see it either.",
+        "source": "T27n1545_158:0804b26_4"
+    },
+    {
+        "source_sentence": "謂欲界修所斷法無漏離繫得。",
+        "translation": "It's the uncontaminated, free of fetters attainment of the dharmas cultivated in the desire realm that are stopped by cultivation.",
+        "source": "T27n1545_158:0804b27_5"
+    },
+    {
+        "source_sentence": "問頗有一剎那頃於信等五根。",
+        "translation": "Q Could it be that there are five faculties like faith and so forth in a moment of time?",
+        "source": "T27n1545_158:0804b28_6"
+    },
+    {
+        "source_sentence": "得而不捨捨而不得。",
+        "translation": "He attains it but doesn't abandon it and doesn't attain it.",
+        "source": "T27n1545_158:0804b28_7"
+    },
+    {
+        "source_sentence": "乃至作四句耶。",
+        "translation": "Does it even make four statements?",
+        "source": "T27n1545_158:0804b29_8"
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_158:0804b29_9"
+    },
+    {
+        "source_sentence": "謂聖者離欲界染。",
+        "translation": "It means that the noble person is free of defilement in the desire realm.",
+        "source": "T27n1545_158:0804b29_10"
+    },
+    {
+        "source_sentence": "住最後無間道時。",
+        "translation": "When he abides in the final, unremitting path.",
+        "source": "T27n1545_158:0804c01_11"
+    },
+    {
+        "source_sentence": "應作四句。",
+        "translation": "You should make four sentences.",
+        "source": "T27n1545_158:0804c01_12"
+    },
+    {
+        "source_sentence": "得而不捨者。",
+        "translation": "Those who attain it but don't abandon it...",
+        "source": "T27n1545_158:0804c01_13"
+    },
+    {
+        "source_sentence": "謂三地世俗道。",
+        "translation": "It's the secular path of the three stages.",
+        "source": "T27n1545_158:0804c02_14"
+    },
+    {
+        "source_sentence": "二地無漏道所攝信等五根。",
+        "translation": "The five faculties of faith and so forth, which are included in the uncontaminated paths of the second ground.",
+        "source": "T27n1545_158:0804c02_15"
+    },
+    {
+        "source_sentence": "捨而不得者。",
+        "translation": "He who abandons and doesn't attain it.",
+        "source": "T27n1545_158:0804c03_16"
+    },
+    {
+        "source_sentence": "謂欲界惡作憂根俱生信等五根。",
+        "translation": "It's the five faculties of bad actions in the desire realm that are co-arisen with the root of grief, such as faith and so forth.",
+        "source": "T27n1545_158:0804c03_17"
+    },
+    {
+        "source_sentence": "亦得亦捨者。",
+        "translation": "It's also attained and abandoned.",
+        "source": "T27n1545_158:0804c04_18"
+    },
+    {
+        "source_sentence": "謂未至地無漏道所攝信等五根。",
+        "translation": "They are the five faculties of faith and so forth, which are included in the uncontaminated paths that have yet to be attained.",
+        "source": "T27n1545_158:0804c04_19"
+    },
+    {
+        "source_sentence": "捨無間道所攝。",
+        "translation": "They abandon what's included in the unremitting path.",
+        "source": "T27n1545_158:0804c05_20"
+    },
+    {
+        "source_sentence": "得解脫道所攝。",
+        "translation": "They're included in the path to attain liberation.",
+        "source": "T27n1545_158:0804c05_21"
+    },
+    {
+        "source_sentence": "非得非捨者。",
+        "translation": "It's neither attained nor abandoned.",
+        "source": "T27n1545_158:0804c06_22"
+    },
+    {
+        "source_sentence": "謂除前相。",
+        "translation": "It's except for the previous characteristic.",
+        "source": "T27n1545_158:0804c06_23"
+    },
+    {
+        "source_sentence": "問若法過去彼得過去耶。",
+        "translation": "Q. What's the past of a teaching and what's the past of Peter?",
+        "source": "T27n1545_158:0804c06_24"
+    },
+    {
+        "source_sentence": "設得過去彼法過去耶。",
+        "translation": "Suppose he attains the past and then attains the past of those things.",
+        "source": "T27n1545_158:0804c07_25"
+    },
+    {
+        "source_sentence": "答應作四句。",
+        "translation": "Answer: Four sentences should be made.",
+        "source": "T27n1545_158:0804c07_26"
+    },
+    {
+        "source_sentence": "有法過去。",
+        "translation": "There are dharmas in the past.",
+        "source": "T27n1545_158:0804c08_27"
+    },
+    {
+        "source_sentence": "彼得非過去。",
+        "translation": "Peter isn't the past.",
+        "source": "T27n1545_158:0804c08_28"
+    },
+    {
+        "source_sentence": "謂過去有情數法。",
+        "translation": "It's the number of dharmas of sentient beings in the past.",
+        "source": "T27n1545_158:0804c08_29"
+    },
+    {
+        "source_sentence": "彼得在未來現在。",
+        "translation": "Peter is in the future and present.",
+        "source": "T27n1545_158:0804c09_30"
+    },
+    {
+        "source_sentence": "有得過去。",
+        "translation": "There's attained in the past.",
+        "source": "T27n1545_158:0804c09_31"
+    },
+    {
+        "source_sentence": "彼法非過去。",
+        "translation": "Those dharmas are not past.",
+        "source": "T27n1545_158:0804c09_32"
+    },
+    {
+        "source_sentence": "謂過去得得未來現在有情數法。",
+        "translation": "They are the dharmas that were attained in the past and will be attained in the future as sentient beings in the present.",
+        "source": "T27n1545_158:0804c10_33"
+    },
+    {
+        "source_sentence": "及擇滅非擇滅。",
+        "translation": "and cessation resulting from discrimination that's not cessation resulting from discrimination.",
+        "source": "T27n1545_158:0804c10_34"
+    },
+    {
+        "source_sentence": "有法過去。",
+        "translation": "There are dharmas in the past.",
+        "source": "T27n1545_158:0804c11_35"
+    },
+    {
+        "source_sentence": "彼得亦過去。",
+        "translation": "Peter was also in the past.",
+        "source": "T27n1545_158:0804c11_36"
+    },
+    {
+        "source_sentence": "謂過去有情數法。",
+        "translation": "It's the number of dharmas of sentient beings in the past.",
+        "source": "T27n1545_158:0804c11_37"
+    },
+    {
+        "source_sentence": "彼得在過去。",
+        "translation": "Peter was in the past.",
+        "source": "T27n1545_158:0804c12_38"
+    },
+    {
+        "source_sentence": "有法非過去。",
+        "translation": "There are dharmas that aren't past.",
+        "source": "T27n1545_158:0804c12_39"
+    },
+    {
+        "source_sentence": "彼得亦非過去。",
+        "translation": "Neither is Peter the past.",
+        "source": "T27n1545_158:0804c12_40"
+    },
+    {
+        "source_sentence": "謂未來現在得得未來現在有情數法。",
+        "translation": "It means that in the future and present, they'll attain the number of dharmas for sentient beings in the future and present.",
+        "source": "T27n1545_158:0804c13_41"
+    },
+    {
+        "source_sentence": "及擇滅非擇滅。",
+        "translation": "and cessation resulting from discrimination that's not cessation resulting from discrimination.",
+        "source": "T27n1545_158:0804c14_42"
+    },
+    {
+        "source_sentence": "如過去作四句。",
+        "translation": "It's like the four phrases that were created in the past.",
+        "source": "T27n1545_158:0804c14_43"
+    },
+    {
+        "source_sentence": "未來現在各作四句。",
+        "translation": "The future and present are each made into four phrases.",
+        "source": "T27n1545_158:0804c14_44"
+    },
+    {
+        "source_sentence": "如理應知。",
+        "translation": "They should be known according to principle.",
+        "source": "T27n1545_158:0804c15_45"
+    },
+    {
+        "source_sentence": "問若法在過去。",
+        "translation": "Q. If the teaching was in the past, then...",
+        "source": "T27n1545_158:0804c15_46"
+    },
+    {
+        "source_sentence": "彼法有過去得耶。",
+        "translation": "Is there a past acquisition of that dharma?",
+        "source": "T27n1545_158:0804c16_0"
+    },
+    {
+        "source_sentence": "設法有過去得。",
+        "translation": "Suppose there's a past attainment of the Dharma.",
+        "source": "T27n1545_158:0804c16_1"
+    },
+    {
+        "source_sentence": "彼法在過去耶。",
+        "translation": "Are those dharmas in the past?",
+        "source": "T27n1545_158:0804c16_2"
+    },
+    {
+        "source_sentence": "答應作四句。",
+        "translation": "Answer: Four sentences should be made.",
+        "source": "T27n1545_158:0804c17_3"
+    },
+    {
+        "source_sentence": "有法在過去。",
+        "translation": "There are dharmas in the past.",
+        "source": "T27n1545_158:0804c17_4"
+    },
+    {
+        "source_sentence": "彼法無過去得。",
+        "translation": "Those dharmas are not attained in the past.",
+        "source": "T27n1545_158:0804c17_5"
+    },
+    {
+        "source_sentence": "謂過去非有情數法。",
+        "translation": "It's a teaching that wasn't counted by sentient beings in the past.",
+        "source": "T27n1545_158:0804c18_6"
+    },
+    {
+        "source_sentence": "有法有過去得。",
+        "translation": "There are dharmas that have been attained in the past.",
+        "source": "T27n1545_158:0804c18_7"
+    },
+    {
+        "source_sentence": "彼法不在過去。",
+        "translation": "That dharma isn't in the past.",
+        "source": "T27n1545_158:0804c19_8"
+    },
+    {
+        "source_sentence": "謂擇滅非擇滅。",
+        "translation": "It's the cessation of choice and not the cessation of choice.",
+        "source": "T27n1545_158:0804c19_9"
+    },
+    {
+        "source_sentence": "及未來現在有情數法。",
+        "translation": "It's also the number of dharmas for sentient beings in the future and present.",
+        "source": "T27n1545_158:0804c19_10"
+    },
+    {
+        "source_sentence": "有過去得。",
+        "translation": "There's past attainment.",
+        "source": "T27n1545_158:0804c20_11"
+    },
+    {
+        "source_sentence": "有法在過去。",
+        "translation": "There are dharmas in the past.",
+        "source": "T27n1545_158:0804c20_12"
+    },
+    {
+        "source_sentence": "彼法亦有過去得。",
+        "translation": "Those dharmas also have past attainments.",
+        "source": "T27n1545_158:0804c21_0"
+    },
+    {
+        "source_sentence": "謂過去有情數法。",
+        "translation": "It's the number of dharmas of sentient beings in the past.",
+        "source": "T27n1545_158:0804c21_1"
+    },
+    {
+        "source_sentence": "有法非在過去。",
+        "translation": "There are dharmas that aren't in the past.",
+        "source": "T27n1545_158:0804c21_2"
+    },
+    {
+        "source_sentence": "彼法亦非有過去得。",
+        "translation": "Nor are those dharmas attained in the past.",
+        "source": "T27n1545_158:0804c22_3"
+    },
+    {
+        "source_sentence": "謂未來現在非有情數法。",
+        "translation": "It refers to future and present dharmas that aren't sentient beings.",
+        "source": "T27n1545_158:0804c22_4"
+    },
+    {
+        "source_sentence": "及虛空無為并未來現在有情數法。",
+        "translation": "It's the unconditioned dharmas of space and the number of sentient beings in the future and present.",
+        "source": "T27n1545_158:0804c23_5"
+    },
+    {
+        "source_sentence": "及擇滅非擇滅無過去得。",
+        "translation": "and cessation resulting from choice and cessation that's not cessation resulting from choice have no past attainment.",
+        "source": "T27n1545_158:0804c24_6"
+    },
+    {
+        "source_sentence": "如過去作四句。",
+        "translation": "It's like the four phrases that were created in the past.",
+        "source": "T27n1545_158:0804c24_7"
+    },
+    {
+        "source_sentence": "未來現在各作四句。",
+        "translation": "The future and present are each made into four phrases.",
+        "source": "T27n1545_158:0804c25_8"
+    },
+    {
+        "source_sentence": "如理應知。",
+        "translation": "They should be known according to principle.",
+        "source": "T27n1545_158:0804c25_9"
+    },
+    {
+        "source_sentence": "問若法不在過去。",
+        "translation": "Q. If the teaching isn't in the past, then...",
+        "source": "T27n1545_158:0804c25_10"
+    },
+    {
+        "source_sentence": "彼法無過去得耶。",
+        "translation": "Is that dharma not attained in the past?",
+        "source": "T27n1545_158:0804c26_11"
+    },
+    {
+        "source_sentence": "設法無過去得。",
+        "translation": "Suppose a dharma has no past attainment.",
+        "source": "T27n1545_158:0804c26_12"
+    },
+    {
+        "source_sentence": "彼法不在過去耶。",
+        "translation": "Is that dharma not in the past?",
+        "source": "T27n1545_158:0804c27_13"
+    },
+    {
+        "source_sentence": "答應作四句。",
+        "translation": "Answer: Four sentences should be made.",
+        "source": "T27n1545_158:0804c27_14"
+    },
+    {
+        "source_sentence": "前第二句作此第一句。",
+        "translation": "The first phrase is made into this first phrase in the second sentence.",
+        "source": "T27n1545_158:0804c27_15"
+    },
+    {
+        "source_sentence": "前第一句作此第二句。",
+        "translation": "The first sentence before this is the second sentence here.",
+        "source": "T27n1545_158:0804c28_16"
+    },
+    {
+        "source_sentence": "前第四句作此第三句。",
+        "translation": "The first four sentence creates the third phrase here.",
+        "source": "T27n1545_158:0804c29_0"
+    },
+    {
+        "source_sentence": "前第三句作此第四句。",
+        "translation": "The first three sentences make up the fourth sentence here.",
+        "source": "T27n1545_158:0804c29_1"
+    },
+    {
+        "source_sentence": "如前應知如過去作四句未來現在各作四句。",
+        "translation": "As before, you should know that it's like the four phrases created in the past and each of the four phrases created in the future and present.",
+        "source": "T27n1545_158:0805a01_2"
+    },
+    {
+        "source_sentence": "如理應知。",
+        "translation": "They should be known according to principle.",
+        "source": "T27n1545_158:0805a02_3"
+    },
+    {
+        "source_sentence": "問若法有得彼法有離繫得耶。",
+        "translation": "Q. If there's attainment of a dharma, then does that dharma have the attainment of freedom from bondage?",
+        "source": "T27n1545_158:0805a02_4"
+    },
+    {
+        "source_sentence": "設法有離繫得。",
+        "translation": "Suppose there's a dharma that's free of fetters and attained.",
+        "source": "T27n1545_158:0805a03_5"
+    },
+    {
+        "source_sentence": "彼法有得耶。",
+        "translation": "Is there acquisition of that dharma?",
+        "source": "T27n1545_158:0805a03_6"
+    },
+    {
+        "source_sentence": "答應作四句。",
+        "translation": "Answer: Four sentences should be made.",
+        "source": "T27n1545_158:0805a03_7"
+    },
+    {
+        "source_sentence": "有法有得彼法非有離繫得。",
+        "translation": "There are dharmas that have attainment, and those dharmas don't have the attainment of freedom from bondage.",
+        "source": "T27n1545_158:0805a04_8"
+    },
+    {
+        "source_sentence": "謂無漏有為法。",
+        "translation": "They are uncontaminated conditioned dharmas.",
+        "source": "T27n1545_158:0805a04_9"
+    },
+    {
+        "source_sentence": "及擇滅非擇滅。",
+        "translation": "and cessation resulting from discrimination that's not cessation resulting from discrimination.",
+        "source": "T27n1545_158:0805a05_10"
+    },
+    {
+        "source_sentence": "有法有離繫得。",
+        "translation": "There are dharmas that are free of fetters and attained.",
+        "source": "T27n1545_158:0805a05_11"
+    },
+    {
+        "source_sentence": "彼法非有得。",
+        "translation": "That dharma doesn't have attainment.",
+        "source": "T27n1545_158:0805a06_0"
+    },
+    {
+        "source_sentence": "謂非有情數法。",
+        "translation": "It's not the number of sentient beings and dharmas.",
+        "source": "T27n1545_158:0805a06_1"
+    },
+    {
+        "source_sentence": "有法有得彼法亦有離繫得。",
+        "translation": "There are dharmas that have attained, and those dharmas also have attained freedom from bondage.",
+        "source": "T27n1545_158:0805a06_2"
+    },
+    {
+        "source_sentence": "謂有漏有情數法。",
+        "translation": "It's the number of dharmas that are contaminated by sentient beings.",
+        "source": "T27n1545_158:0805a07_3"
+    },
+    {
+        "source_sentence": "有法非有得。",
+        "translation": "What's existent and what's not existent is attained.",
+        "source": "T27n1545_158:0805a07_4"
+    },
+    {
+        "source_sentence": "彼法亦非有離繫得。",
+        "translation": "Nor are those dharmas free of fetters attained.",
+        "source": "T27n1545_158:0805a08_5"
+    },
+    {
+        "source_sentence": "謂虛空無為。",
+        "translation": "It means space is unconditioned.",
+        "source": "T27n1545_158:0805a08_6"
+    },
+    {
+        "source_sentence": "問若法無得彼法無離繫得耶。",
+        "translation": "Q. If there's no attainment of a dharma, then isn't that dharma attained by freedom from bondage?",
+        "source": "T27n1545_158:0805a08_7"
+    },
+    {
+        "source_sentence": "設法無離繫得。",
+        "translation": "Suppose there's no dharma that's free of fetters and attained.",
+        "source": "T27n1545_158:0805a09_8"
+    },
+    {
+        "source_sentence": "彼法無得耶。",
+        "translation": "Is that dharma unobtainable?",
+        "source": "T27n1545_158:0805a10_9"
+    },
+    {
+        "source_sentence": "答應作四句。",
+        "translation": "Answer: Four sentences should be made.",
+        "source": "T27n1545_158:0805a10_10"
+    },
+    {
+        "source_sentence": "前第二句作此第一句。",
+        "translation": "The first phrase is made into this first phrase in the second sentence.",
+        "source": "T27n1545_158:0805a10_11"
+    },
+    {
+        "source_sentence": "前第一句作此第二句前第四句作此第三句。",
+        "translation": "The first sentence before this is made into the second sentence, and the fourth sentence before this is made into the third sentence.",
+        "source": "T27n1545_158:0805a11_12"
+    },
+    {
+        "source_sentence": "前第三句作此第四句。",
+        "translation": "The first three sentences make up the fourth sentence here.",
+        "source": "T27n1545_158:0805a12_13"
+    },
+    {
+        "source_sentence": "如前應知。",
+        "translation": "It should be known as before.",
+        "source": "T27n1545_158:0805a12_14"
+    },
+    {
+        "source_sentence": "問若法應修彼法得應修耶。",
+        "translation": "Q. If a dharma should be cultivated, then what other dharma should be cultivated?",
+        "source": "T27n1545_158:0805a14_0"
+    },
+    {
+        "source_sentence": "設法得應修彼法應修耶。",
+        "translation": "Suppose a dharma attains what should be cultivated, and that dharma should be cultivated?",
+        "source": "T27n1545_158:0805a14_1"
+    },
+    {
+        "source_sentence": "答若法應修彼法得亦應修。",
+        "translation": "Answer: If a dharma should be cultivated, then the attainment of that dharma should also be cultivated.",
+        "source": "T27n1545_158:0805a15_2"
+    },
+    {
+        "source_sentence": "有法得應修。",
+        "translation": "There are qualities that can be attained and should be cultivated.",
+        "source": "T27n1545_158:0805a16_0"
+    },
+    {
+        "source_sentence": "彼法非應修。",
+        "translation": "Those dharmas aren't what should be cultivated.",
+        "source": "T27n1545_158:0805a16_1"
+    },
+    {
+        "source_sentence": "謂擇滅。",
+        "translation": "It's the cessation of discrimination.",
+        "source": "T27n1545_158:0805a16_2"
+    },
+    {
+        "source_sentence": "問若法應斷。",
+        "translation": "Q. If the teaching should be stopped, then...",
+        "source": "T27n1545_158:0805a16_3"
+    },
+    {
+        "source_sentence": "彼法得應斷耶。",
+        "translation": "Should that dharma be attained and stopped?",
+        "source": "T27n1545_158:0805a17_4"
+    },
+    {
+        "source_sentence": "設法得應斷。",
+        "translation": "Suppose a dharma is attained and should be stopped.",
+        "source": "T27n1545_158:0805a17_5"
+    },
+    {
+        "source_sentence": "彼法應斷耶。",
+        "translation": "Should that dharma be stopped?",
+        "source": "T27n1545_158:0805a17_6"
+    },
+    {
+        "source_sentence": "答若法應斷彼法得亦應斷有法得應斷。",
+        "translation": "Answer: If a dharma should be stopped, then the attainment of that dharma should also be stopped and the attainment of dharmas should be stopped.",
+        "source": "T27n1545_158:0805a18_7"
+    },
+    {
+        "source_sentence": "彼法非應斷謂擇滅。",
+        "translation": "Those dharmas that shouldn't be stopped are called the cessation of choice.",
+        "source": "T27n1545_158:0805a19_8"
+    },
+    {
+        "source_sentence": "一分。",
+        "translation": "It's one part.",
+        "source": "T27n1545_158:0805a19_9"
+    },
+    {
+        "source_sentence": "及非擇滅。",
+        "translation": "and the cessation of non-selection.",
+        "source": "T27n1545_158:0805a19_10"
+    },
+    {
+        "source_sentence": "問若法應厭。",
+        "translation": "He asks whether the teaching should be disliked.",
+        "source": "T27n1545_158:0805a20_0"
+    },
+    {
+        "source_sentence": "彼法得應厭耶。",
+        "translation": "Are those things attained and should be disliked?",
+        "source": "T27n1545_158:0805a20_1"
+    },
+    {
+        "source_sentence": "設法得應厭。",
+        "translation": "Suppose someone attains the Dharma and becomes disillusioned with it.",
+        "source": "T27n1545_158:0805a20_2"
+    },
+    {
+        "source_sentence": "彼法應厭耶。",
+        "translation": "Should they become disillusioned with that dharma?",
+        "source": "T27n1545_158:0805a21_0"
+    },
+    {
+        "source_sentence": "答若法應厭。",
+        "translation": "Answer: If a dharma should be disliked, then...",
+        "source": "T27n1545_158:0805a21_1"
+    },
+    {
+        "source_sentence": "彼法得亦應厭。",
+        "translation": "They should also become disillusioned with the attainment of those things.",
+        "source": "T27n1545_158:0805a21_2"
+    },
+    {
+        "source_sentence": "有法得應厭。",
+        "translation": "There are dharmas that are attained and should be disliked.",
+        "source": "T27n1545_158:0805a22_0"
+    },
+    {
+        "source_sentence": "彼法非應厭。",
+        "translation": "Those things aren't to be disliked.",
+        "source": "T27n1545_158:0805a22_1"
+    },
+    {
+        "source_sentence": "謂擇滅一分。",
+        "translation": "It's a part of the cessation of discrimination.",
+        "source": "T27n1545_158:0805a22_2"
+    },
+    {
+        "source_sentence": "及非擇滅。",
+        "translation": "and the cessation of non-selection.",
+        "source": "T27n1545_158:0805a22_3"
+    },
+    {
+        "source_sentence": "問何故諸得隨所得法。",
+        "translation": "Q Why are the dharmas attained according to their attainments?",
+        "source": "T27n1545_158:0805a23_4"
+    },
+    {
+        "source_sentence": "成善等性而不成色等耶。",
+        "translation": "They become good and so forth, but they don't become form and so forth?",
+        "source": "T27n1545_158:0805a23_5"
+    },
+    {
+        "source_sentence": "答善等是諸法性類。",
+        "translation": "Answer: Good and so forth are the types of Dharma natures.",
+        "source": "T27n1545_158:0805a24_6"
+    },
+    {
+        "source_sentence": "諸法性類可相隨轉。",
+        "translation": "The natures of dharmas can be mutually exclusive.",
+        "source": "T27n1545_158:0805a24_7"
+    },
+    {
+        "source_sentence": "色等是諸法自體。",
+        "translation": "Form and so forth are the essence of all dharmas.",
+        "source": "T27n1545_158:0805a25_8"
+    },
+    {
+        "source_sentence": "諸法自體無相隨義。",
+        "translation": "The essence of dharmas has no marks and follows meaning.",
+        "source": "T27n1545_158:0805a25_9"
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_158:0805a26_10"
+    },
+    {
+        "source_sentence": "善等是共相可隨而轉。",
+        "translation": "Goodness and so forth are common characteristics that can be followed and developed.",
+        "source": "T27n1545_158:0805a26_11"
+    },
+    {
+        "source_sentence": "色等是自相無相隨義。",
+        "translation": "'Form and so forth are the meaning of following their own characteristics without characteristics.'",
+        "source": "T27n1545_158:0805a26_12"
+    },
+    {
+        "source_sentence": "問何故諸得隨所得法定是善等。",
+        "translation": "Q Why are the attainments that follow what's attained as a dharma that's good and so forth?",
+        "source": "T27n1545_158:0805a27_13"
+    },
+    {
+        "source_sentence": "不隨所得法定是過去等耶。",
+        "translation": "Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Is Past?",
+        "source": "T27n1545_158:0805a28_14"
+    },
+    {
+        "source_sentence": "答所得諸法行世不定故。",
+        "translation": "Answer: It's because the worldly practice of the acquired dharmas is indeterminate.",
+        "source": "T27n1545_158:0805a28_15"
+    },
+    {
+        "source_sentence": "能得得世亦不定。",
+        "translation": "The world that can attain it is also indeterminate.",
+        "source": "T27n1545_158:0805a29_16"
+    },
+    {
+        "source_sentence": "所得諸法善等性定故。",
+        "translation": "It's because the goodness and so forth of the qualities that are attained are determined by their nature.",
+        "source": "T27n1545_158:0805a29_17"
+    },
+    {
+        "source_sentence": "能得得善等亦定。",
+        "translation": "Those who can attain goodness and so forth are also determined.",
+        "source": "T27n1545_158:0805b01_18"
+    },
+    {
+        "source_sentence": "問諸得幾識所識。",
+        "translation": "He asks how many consciousnesses are discerned by the attainments?",
+        "source": "T27n1545_158:0805b01_19"
+    },
+    {
+        "source_sentence": "幾智所知。",
+        "translation": "How many knowledges are known?",
+        "source": "T27n1545_158:0805b02_20"
+    },
+    {
+        "source_sentence": "幾隨眠之所隨增耶。",
+        "translation": "How many are the latent tendencies that follow and increase?",
+        "source": "T27n1545_158:0805b02_21"
+    },
+    {
+        "source_sentence": "答諸得一識所識。",
+        "translation": "Answer: The attainments are conscious by the single consciousness.",
+        "source": "T27n1545_158:0805b03_22"
+    },
+    {
+        "source_sentence": "謂意識法界法處行蘊攝故。",
+        "translation": "It's because the mental consciousness is included in the dharmas, realms, fields, practices, and aggregates of the Dharma realm.",
+        "source": "T27n1545_158:0805b03_23"
+    },
+    {
+        "source_sentence": "八智所知除滅智。",
+        "translation": "The eight kinds of cognition that are known by cognition and the cognition of cessation.",
+        "source": "T27n1545_158:0805b04_24"
+    },
+    {
+        "source_sentence": "他心智以是有為不相應故。",
+        "translation": "It's because the cognition of other minds is not associated with conditioned things.",
+        "source": "T27n1545_158:0805b04_25"
+    },
+    {
+        "source_sentence": "三界五部有漏緣隨眠之所隨增。",
+        "translation": "The three realms and five parts of the body are accompanied by contaminants that follow dormancy.",
+        "source": "T27n1545_158:0805b05_26"
+    },
+    {
+        "source_sentence": "以於得中無相應隨增故。",
+        "translation": "It's because there's no associated subsequent increase in attainment.",
+        "source": "T27n1545_158:0805b06_0"
+    },
+    {
+        "source_sentence": "問諸非得幾識所識。",
+        "translation": "He asks how many consciousnesses are not perceived by non-acquisition?",
+        "source": "T27n1545_158:0805b06_1"
+    },
+    {
+        "source_sentence": "幾智所知。",
+        "translation": "How many knowledges are known?",
+        "source": "T27n1545_158:0805b07_2"
+    },
+    {
+        "source_sentence": "幾隨眠之所隨增耶。",
+        "translation": "How many are the latent tendencies that follow and increase?",
+        "source": "T27n1545_158:0805b07_3"
+    },
+    {
+        "source_sentence": "答諸非得一識所識。",
+        "translation": "Answer: They aren't conscious by attaining a single consciousness.",
+        "source": "T27n1545_158:0805b07_4"
+    },
+    {
+        "source_sentence": "謂意識。",
+        "translation": "It's the thinking consciousness.",
+        "source": "T27n1545_158:0805b08_5"
+    },
+    {
+        "source_sentence": "亦法界法處行蘊攝故。",
+        "translation": "It's because it's also included in the dharmas of the Dharma realm and the practice aggregate of the Dharma field.",
+        "source": "T27n1545_158:0805b08_6"
+    },
+    {
+        "source_sentence": "七智所知。",
+        "translation": "The seventh is known by cognition.",
+        "source": "T27n1545_158:0805b09_7"
+    },
+    {
+        "source_sentence": "除滅智道智他心智。",
+        "translation": "He's free of the cognition of cessation, the cognition of the path, and the cognition of other minds.",
+        "source": "T27n1545_158:0805b09_8"
+    },
+    {
+        "source_sentence": "以是有漏不相應故。",
+        "translation": "It's because they aren't associated with the contaminants that are present.",
+        "source": "T27n1545_158:0805b09_9"
+    },
+    {
+        "source_sentence": "三界修所斷。",
+        "translation": "The three realms are cultivated and eliminated by cultivation.",
+        "source": "T27n1545_158:0805b10_10"
+    },
+    {
+        "source_sentence": "及諸遍行隨眠之所隨增。",
+        "translation": "It's also the result of pervasive tendencies that follow dormancy and those that follow increase.",
+        "source": "T27n1545_158:0805b10_11"
+    },
+    {
+        "source_sentence": "以非得唯修所斷故。",
+        "translation": "It's because what's not attained is only cultivated and stopped by cultivation.",
+        "source": "T27n1545_158:0805b11_12"
+    },
+    {
+        "source_sentence": "問頗有捨得而不得非得耶。",
+        "translation": "Q Could it be that there's equanimity and attaining but not attaining what's not attained?",
+        "source": "T27n1545_158:0805b11_13"
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_158:0805b12_14"
+    },
+    {
+        "source_sentence": "謂入無餘涅槃時。",
+        "translation": "It means that when he enters nirvāṇa without remainder.",
+        "source": "T27n1545_158:0805b12_15"
+    },
+    {
+        "source_sentence": "捨諸法得而不得非得所依斷故。",
+        "translation": "It's because they abandon the attainment of dharmas and don't attain what's not attained, which are the basis for their cessation.",
+        "source": "T27n1545_158:0805b13_0"
+    },
+    {
+        "source_sentence": "問頗有諸法先起非得。",
+        "translation": "Q Could it be that there are things that first give rise to what's not attained?",
+        "source": "T27n1545_158:0805b13_1"
+    },
+    {
+        "source_sentence": "一得以去更不起非得耶。",
+        "translation": "One is that it's possible to go and not get what's not attained?",
+        "source": "T27n1545_158:0805b14_2"
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_158:0805b15_0"
+    },
+    {
+        "source_sentence": "謂諸非擇滅。",
+        "translation": "It's the cessation of non-selection.",
+        "source": "T27n1545_158:0805b15_1"
+    },
+    {
+        "source_sentence": "及無生智等。",
+        "translation": "and the cognition of nonarising and so forth.",
+        "source": "T27n1545_158:0805b15_2"
+    },
+    {
+        "source_sentence": "一得以去乃至無餘涅槃前恒成就故。",
+        "translation": "One is because it's always accomplished before he attains nirvāṇa without remainder.",
+        "source": "T27n1545_158:0805b15_3"
+    },
+    {
+        "source_sentence": "問頗有諸法本來有得無非得耶。",
+        "translation": "Q Could it be that there are dharmas that are originally attained and not non-attainable?",
+        "source": "T27n1545_158:0805b16_4"
+    },
+    {
+        "source_sentence": "有說無。",
+        "translation": "Some say it's nonexistent.",
+        "source": "T27n1545_158:0805b17_5"
+    },
+    {
+        "source_sentence": "以有得者必有非得故。",
+        "translation": "It's because those who have attained must have what's not attained.",
+        "source": "T27n1545_158:0805b17_6"
+    },
+    {
+        "source_sentence": "有說。",
+        "translation": "There's a teaching.",
+        "source": "T27n1545_158:0805b18_7"
+    },
+    {
+        "source_sentence": "有。",
+        "translation": "It's present.",
+        "source": "T27n1545_158:0805b18_8"
+    },
+    {
+        "source_sentence": "如三類智邊世俗智等。",
+        "translation": "It's like the three kinds of cognition at the end of worldly conventional cognition and so forth.",
+        "source": "T27n1545_158:0805b18_9"
+    },
+    {
+        "source_sentence": "非擇滅法本來有得無有非得。",
+        "translation": "It's not that the cessation of discriminating dharmas originally has attainment and there's no non-attainment.",
+        "source": "T27n1545_158:0805b18_10"
+    },
+    {
+        "source_sentence": "以彼本來定不生故。",
+        "translation": "It's because their originally determined concentration doesn't arise.",
+        "source": "T27n1545_158:0805b19_11"
+    },
+    {
+        "source_sentence": "問如有一得能得彼法及得得亦有一非得能捨彼法及非得非得耶。",
+        "translation": "Q. Suppose there's a single attainment that attains those things and attains them, and there's also a non-attainment that can abandon those things and what's neither attained nor unobtainable?",
+        "source": "T27n1545_158:0805b20_12"
+    },
+    {
+        "source_sentence": "答無。",
+        "translation": "The answer is no.",
+        "source": "T27n1545_158:0805b21_13"
+    },
+    {
+        "source_sentence": "以非得同時無非得非得故。",
+        "translation": "It's because what's not attained is neither attained nor attained at the same time.",
+        "source": "T27n1545_158:0805b21_14"
+    },
+    {
+        "source_sentence": "以現在非得必成就故。",
+        "translation": "It's because what's not attained in the present will surely be accomplished.",
+        "source": "T27n1545_158:0805b22_15"
+    },
+    {
+        "source_sentence": "問頗有法無得無非得。",
+        "translation": "Q Could it be that there's a teaching that's neither attained nor non-attainable?",
+        "source": "T27n1545_158:0805b23_16"
+    },
+    {
+        "source_sentence": "彼法滅有得有非得耶。",
+        "translation": "Are there acquisitions and non-acquisitions of the cessation of those things?",
+        "source": "T27n1545_158:0805b23_17"
+    },
+    {
+        "source_sentence": "答有。",
+        "translation": "The answer is yes.",
+        "source": "T27n1545_158:0805b24_18"
+    },
+    {
+        "source_sentence": "謂一切非有情數法。",
+        "translation": "It refers to all the things that are not sentient beings' numerical dharmas.",
+        "source": "T27n1545_158:0805b24_19"
+    },
+    {
+        "source_sentence": "說一切有部發智大毘婆沙論卷第一百五十八",
+        "translation": "Saṃyuktâgama-vibhāṣā-śāstra, vol. 108",
+        "source": "T27n1545_158:0805b25_0"
+    }
+]
