@@ -18,7 +18,7 @@ The Linguae Dharmae set is a complete “translation” of the Taishō part of t
 These machine-translations are published under the Creative Commons Attribution 4.0 International license (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/). 
 
 # How to publish 
-The accurracy of these first machine translated Buddhist texts from Chinese is not yet adequate for religious or academic use. In case you want to republish these translations on your website please show a disclaimer with the translations so users can put the results into context. Please use the disclaimers that are added in each folder.
+The accurracy of these first machine translated Buddhist texts from Chinese is not yet adequate for religious or academic use. In case you want to republish these translations on your website please add a disclaimer with the translations so users can put the results into context. Please use the disclaimers provided in the respective folders.
 
 
 # Feedback
