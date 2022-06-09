@@ -24,3 +24,7 @@ The accurracy of these first machine translated Buddhist texts from Chinese is n
 # Feedback
 
 Feedback about the translations would be greatly appreciated. If possible, provide feedback in the form of sentence-aligned translations that we can use to improve the model.
+
+
+# Team
+Sebastian Nehrdich (Universität Bochum), Ayya Vimala (Tilorien Monastery), Justin Brody (Franklin and Marshall College), Marcus Bingenheimer (Temple University)
