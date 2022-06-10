@@ -27,4 +27,4 @@ Feedback about the translations would be greatly appreciated. If possible, provi
 
 
 # Team
-Sebastian Nehrdich (Universität Bochum), Ayya Vimala (Tilorien Monastery), Justin Brody (Franklin and Marshall College), Marcus Bingenheimer (Temple University)
+Sebastian Nehrdich (Universität Düsseldorf), Ayya Vimala (Tilorien Monastery), Justin Brody (Franklin and Marshall College), Marcus Bingenheimer (Temple University)
