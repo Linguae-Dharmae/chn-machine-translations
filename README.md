@@ -8,7 +8,7 @@ The model that produced the first set ("taisho_by_deepl", ver. 2022-05) was crea
 The DeepL set is a complete “translation” of the two largest parts of the [CBETA corpus](https://www.cbeta.org/) (Tn1-n2184,Tn2732-n2920, Xn1-n1671).
 
 
-The second set ("taisho_by_LinguaeDharmae", ver. 2022-06) is the output of a model called "Linguae Dharmae" (June 2022) created by Sebastian Nehrdich (Bochum).
+The second set ("taisho_by_LinguaeDharmae", ver. 2022-06) is the output of a model called "Linguae Dharmae" (June 2022) created by Sebastian Nehrdich (Duesseldorf, Hamburg).
 
 The Linguae Dharmae set is a complete “translation” of the Taishō part of the [CBETA corpus](https://www.cbeta.org/) (Tn1-n2184,Tn2732-n2920).
 
